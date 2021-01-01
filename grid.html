@@ -10,21 +10,24 @@
 <body>
   <h1>Magyar-angol, angol-magyar szótár</h1>
 
-  <div id="myGrid" style="height: 600px;width:500px;" class="ag-theme-alpine"></div>
+  <div id="myGrid" style="height: 600px;width:800px;" class="ag-theme-alpine"></div>
 
   <script type="text/javascript" charset="utf-8">
   
   //const fs = require('fs');
     // specify the columns
     var columnDefs = [
-      {headerName: "Magyar", field: "magyar"},
-      {headerName: "Angol", field: "angol"}
+      {headerName: "Magyar", field: "magyar", sortable: true, filter: true, resizable: true, width: 390, minWidth: 150},
+      {headerName: "Angol", field: "angol", sortable: true, filter: true, resizable: true, width: 390, minWidth: 150}
     ];
 
     
 
     // let the grid know which columns and what data to use
     var gridOptions = {
+      defaultColDef: {
+    resizable: true,
+  },
       columnDefs: columnDefs
     };
 
