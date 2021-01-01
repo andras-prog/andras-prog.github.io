@@ -1,45 +1,60 @@
 <!DOCTYPE html>
 <html>
+
 <head>
-   
+
   <script src="https://unpkg.com/ag-grid-community/dist/ag-grid-community.min.noStyle.js"></script>
- 
+
   <link rel="stylesheet" href="https://unpkg.com/ag-grid-community/dist/styles/ag-grid.css">
   <link rel="stylesheet" href="https://unpkg.com/ag-grid-community/dist/styles/ag-theme-alpine.css">
 </head>
+
 <body>
   <h1>Magyar-angol, angol-magyar szótár</h1>
 
   <div id="myGrid" style="height: 600px;width:800px;" class="ag-theme-alpine"></div>
 
   <script type="text/javascript" charset="utf-8">
-  
-  //const fs = require('fs');
+
+    //const fs = require('fs');
     // specify the columns
     var columnDefs = [
-      {headerName: "Magyar", field: "magyar", sortable: true, filter: true, resizable: true, width: 390, minWidth: 150},
-      {headerName: "Angol", field: "angol", sortable: true, filter: true, resizable: true, width: 390, minWidth: 150}
+      { headerName: "Magyar", field: "magyar", sortable: true, filter: true, resizable: true, width: 390, minWidth: 150 },
+      {
+        headerName: "Angol", field: "angol",
+        sortable: true, filter: true, resizable: true,
+        width: 390, minWidth: 150,
+        cellRenderer: function (params) {
+          let keyData = params.data.key;
+          let newLink =
+            `<a href= http://szotar.sztaki.hu/search?fromlang=eng&tolang=hun&searchWord=${keyData}&langcode=hu&u=0&langprefix=&searchMode=WORD_PREFIX&viewMode=full&ignoreAccents=0
+            target="_blank">${keyData}</a>`;
+          return newLink;
+        }
+      }
     ];
 
-    
+
 
     // let the grid know which columns and what data to use
     var gridOptions = {
       defaultColDef: {
-    resizable: true,
-  },
+        resizable: true,
+      },
+
       columnDefs: columnDefs
     };
 
-  // lookup the container we want the Grid to use
-  var eGridDiv = document.querySelector('#myGrid');
+    // lookup the container we want the Grid to use
+    var eGridDiv = document.querySelector('#myGrid');
 
-  // create the grid passing in the div to use together with the columns & data we want to use
-  new agGrid.Grid(eGridDiv, gridOptions);
+    // create the grid passing in the div to use together with the columns & data we want to use
+    new agGrid.Grid(eGridDiv, gridOptions);
 
-  agGrid.simpleHttpRequest({url: window.location.protocol + '//' + window.location.host +'/szotarproba.json'}).then(function(data) {
+    agGrid.simpleHttpRequest({ url: window.location.protocol + '//' + window.location.host + '/szotarproba.json' }).then(function (data) {
       gridOptions.api.setRowData(data);
-  });
+    });
   </script>
 </body>
+
 </html>
