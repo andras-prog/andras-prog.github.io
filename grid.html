@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+   
+  <script src="https://unpkg.com/ag-grid-community/dist/ag-grid-community.min.noStyle.js"></script>
+ 
+  <link rel="stylesheet" href="https://unpkg.com/ag-grid-community/dist/styles/ag-grid.css">
+  <link rel="stylesheet" href="https://unpkg.com/ag-grid-community/dist/styles/ag-theme-alpine.css">
+</head>
+<body>
+  <h1>Magyar-angol, angol-magyar szótár</h1>
+
+  <div id="myGrid" style="height: 600px;width:500px;" class="ag-theme-alpine"></div>
+
+  <script type="text/javascript" charset="utf-8">
+  
+  //const fs = require('fs');
+    // specify the columns
+    var columnDefs = [
+      {headerName: "Magyar", field: "magyar"},
+      {headerName: "Angol", field: "angol"}
+    ];
+
+    
+
+    // let the grid know which columns and what data to use
+    var gridOptions = {
+      columnDefs: columnDefs
+    };
+
+  // lookup the container we want the Grid to use
+  var eGridDiv = document.querySelector('#myGrid');
+
+  // create the grid passing in the div to use together with the columns & data we want to use
+  new agGrid.Grid(eGridDiv, gridOptions);
+
+  agGrid.simpleHttpRequest({url: window.location.protocol + '//' + window.location.host +'/szotarproba.json'}).then(function(data) {
+      gridOptions.api.setRowData(data);
+  });
+  </script>
+</body>
+</html>
