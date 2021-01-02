@@ -26,6 +26,7 @@
         width: 390, minWidth: 150,
         cellRenderer: function (params) {
           let keyData = params.data.angol;
+          if ( keyData.includes(' ')) return keyData;
           let newLink =
             `<a href= http://szotar.sztaki.hu/search?fromlang=eng&tolang=hun&searchWord=${keyData}&langcode=hu&u=0&langprefix=&searchMode=WORD_PREFIX&viewMode=full&ignoreAccents=0
             target="_blank">${keyData}</a>`;
