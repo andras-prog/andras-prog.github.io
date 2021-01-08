@@ -795,40 +795,71 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 
 <script>
-var GET = {};
-var query = window.location.search.substring(1).split("&");
-for (var i = 0;i < query.length; i++)
-{
-    if (query[i] === "") // check for trailing & with no param
-        continue;
+// get the content of the "filter" query param or set empty string if param is not set
+const filterText = new URLSearchParams(window.location.search).get('filter') || '';
+const noText = new URLSearchParams(window.location.search).get('notext') || '';
 
-    var param = query[i].split("=");
-    GET[decodeURIComponent(param[0])] = decodeURIComponent(param[1] || "");
-};
-if (GET.Filter != undefined) document.querySelector('#myInput').value = GET.Filter;
+// set the search input value
+document.querySelector('#myInput').value = filterText ;
+// call viewTable regardless of the content, the function should handle empty string anyway
+viewTable(filterText,noText);
 
-function viewTable(str) {
-    var filter = str.toUpperCase().split(',');
-    var rows = document.querySelector("#myTable tbody").rows;  
-    for (var i = 0; i < rows.length; i++) {
-        var firstCol = rows[i].cells[0].textContent.toUpperCase();
-        var secondCol = rows[i].cells[5].textContent.toUpperCase();
-	let rowvis = false;
-	for (var z = 0; z < filter.length; z++) {
-		if (filter[z].length > 0 && (firstCol.indexOf(filter[z]) > -1 || secondCol.indexOf(filter[z]) > -1)) rowvis = true;
-	};
-        if (rowvis || str.length == 0) {
-            rows[i].style.display = "";
-        } else {
-            rows[i].style.display = "none";
-        }      
+function viewTable(filterText,noText) {
+  const filterElements = filterText.toLowerCase().split(',').filter(function(e){ return e === 0 || e });
+  const notextElements = noText.toLowerCase().split(',').filter(function(e){ return e === 0 || e });
+console.log(notextElements);
+
+  const tableRows = document.querySelector("#myTable tbody").rows; 
+  
+  for (var row of tableRows) {
+    const itemName = row.cells[0].textContent.toLowerCase();
+    const shopName = row.cells[5].textContent.toLowerCase();
+    let shouldBeVisible = true;
+    
+    if(filterElements.length > 0) {
+	 shouldBeVisible = filterElements.some(filterElement => {
+	 const sbv = (itemName.includes(filterElement) || shopName.includes(filterElement)) 
+           	&& !notextElements.some(notextElement => {
+                return itemName.includes(notextElement) || shopName.includes(notextElement);
+                });
+           return sbv;
+           });
     }
-}
-if (GET.Filter != undefined) viewTable(GET.Filter);
+    else {
+    	shouldBeVisible = !notextElements.some(notextElement => {
+           return itemName.includes(notextElement) || shopName.includes(notextElement);
+           });
+    };
+    row.style.display = shouldBeVisible ? '' : 'none' 
+  };
+};
+
+// Returns a function, that, as long as it continues to be invoked, will not
+// be triggered. The function will be called after it stops being called for
+// `wait` milliseconds.
+const debounce = (func, wait) => {
+  let timeout;
+
+  return function executedFunction(...args) {
+    const later = () => {
+      clearTimeout(timeout);
+      func(...args);
+    };
+
+    clearTimeout(timeout);
+    timeout = setTimeout(later, wait);
+  };
+};
+
+var returnedFunction = debounce(function(event,noText) {
+  viewTable(event.target.value,noText); 
+}, 300);
 
 function filterTable(event) {
-    viewTable(event.target.value);  
-}
+returnedFunction(event,noText);
+};
+
+
 
 document.querySelector('#myInput').addEventListener('keyup', filterTable, false);
 
