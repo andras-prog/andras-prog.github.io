@@ -824,7 +824,7 @@ function viewTable(str) {
         }      
     }
 }
-viewTable(GET.Filter);
+if (GET.Filter != undefined) viewTable(GET.Filter);
 
 function filterTable(event) {
     viewTable(event.target.value);  
