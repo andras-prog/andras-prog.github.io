@@ -73,6 +73,51 @@ body {
 border-radius:10px;
 box-shadow:0 0 15px 4px rgba(0,0,0,0.06);
 }
+/* spinner style following*/
+#loader {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  z-index: 1;
+  width: 60px;
+  height: 60px;
+  margin: -76px 0 0 -76px;
+  border: 16px solid #f3f3f3;
+  border-radius: 50%;
+  border-top: 16px solid #3498db;
+  -webkit-animation: spin 2s linear infinite;
+  animation: spin 2s linear infinite;
+}
+
+@-webkit-keyframes spin {
+  0% { -webkit-transform: rotate(0deg); }
+  100% { -webkit-transform: rotate(360deg); }
+}
+
+@keyframes spin {
+  0% { transform: rotate(0deg); }
+  100% { transform: rotate(360deg); }
+}
+
+/* Add animation to "page content" */
+.animate-bottom {
+  position: relative;
+  -webkit-animation-name: animatebottom;
+  -webkit-animation-duration: 1s;
+  animation-name: animatebottom;
+  animation-duration: 1s
+}
+
+@-webkit-keyframes animatebottom {
+  from { bottom:-100px; opacity:0 } 
+  to { bottom:0px; opacity:1 }
+}
+
+@keyframes animatebottom { 
+  from{ bottom:-100px; opacity:0 } 
+  to{ bottom:0; opacity:1 }
+}
+
 </style>
 
 </head>
@@ -87,6 +132,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
   <a href="https://www.facebook.com/Kisg%C3%B6mb%C3%B6c-112537700651875/">Facebook</a>
   
 </div>
+
+<div id="loader"></div>
 
 <input class="inputmezo" placeholder="Szűrés:árucikk,bolt" id="myInput" type="text" />
 
@@ -6756,7 +6803,7 @@ viewTable(filterText,noText);
 function viewTable(filterText,noText) {
   const filterElements = filterText.toLowerCase().split(',').filter(function(e){ return e === 0 || e });
   const notextElements = noText.toLowerCase().split(',').filter(function(e){ return e === 0 || e });
-console.log(notextElements);
+
 
   const tableRows = document.querySelector("#myTable tbody").rows; 
   
@@ -6773,14 +6820,15 @@ console.log(notextElements);
                 });
            return sbv;
            });
-    }
+         }
     else {
     	shouldBeVisible = !notextElements.some(notextElement => {
            return itemName.includes(notextElement) || shopName.includes(notextElement);
            });
-    };
+        };
     row.style.display = shouldBeVisible ? '' : 'none' 
-  };
+    };
+    document.getElementById("loader").style.display = "none";
 };
 
 // Returns a function, that, as long as it continues to be invoked, will not
@@ -6805,6 +6853,7 @@ var returnedFunction = debounce(function(event,noText) {
 }, 300);
 
 function filterTable(event) {
+document.getElementById("loader").style.display = "block";
 returnedFunction(event,noText);
 };
 
