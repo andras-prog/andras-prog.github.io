@@ -3542,7 +3542,7 @@ const debounce = (func, wait) => {
 
 var returnedFunction = debounce(function(event,noText) {
   viewTable(event.target.value,noText); 
-}, 700);
+}, 300);
 
 function filterTable(event) {
 document.getElementById("loader").style.display = "block";

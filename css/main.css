@@ -224,7 +224,7 @@ text-align: right;
 }
 
 
-@media screen and (max-width: 992px) {
+@media screen and (max-width: 750px) {  /* 992 volt az eredeti */
   table {
     display: block;
   }
@@ -239,7 +239,8 @@ text-align: right;
     padding: 37px 0;
   }
   table tbody tr td {
-    padding-left: 40% !important;
+    padding-left: 5% !important;   /* 40% volt az eredeti */
+    padding-right: 5% !important; /* ezt en tettem bele */
     margin-bottom: 24px;
   }
   table tbody tr td:last-child {
