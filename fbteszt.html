@@ -17,8 +17,10 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
 })(window,document,'script','dataLayer','GTM-WLBH3CH');</script>
 <!-- End Google Tag Manager -->
+
+<meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Kisgömböc | Fogyasztói tesztek</title>
+<title>Kisgömböc | Kereshető adattáblák minden napra!</title>
 
 <!--===============================================================================================-->	
 	<link rel="icon" type="image/png" href="images/icons/favicon.ico"/>
@@ -72,10 +74,51 @@ body {
 border-radius:10px;
 box-shadow:0 0 15px 4px rgba(0,0,0,0.06);
 }
-#testid {
-        color: white;
-        font-weight: bold;
-      }
+/* spinner style following*/
+#loader {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  z-index: 1;
+  width: 60px;
+  height: 60px;
+  margin: -76px 0 0 -76px;
+  border: 16px solid #f3f3f3;
+  border-radius: 50%;
+  border-top: 16px solid #3498db;
+  -webkit-animation: spin 2s linear infinite;
+  animation: spin 2s linear infinite;
+}
+
+@-webkit-keyframes spin {
+  0% { -webkit-transform: rotate(0deg); }
+  100% { -webkit-transform: rotate(360deg); }
+}
+
+@keyframes spin {
+  0% { transform: rotate(0deg); }
+  100% { transform: rotate(360deg); }
+}
+
+/* Add animation to "page content" */
+.animate-bottom {
+  position: relative;
+  -webkit-animation-name: animatebottom;
+  -webkit-animation-duration: 1s;
+  animation-name: animatebottom;
+  animation-duration: 1s
+}
+
+@-webkit-keyframes animatebottom {
+  from { bottom:-100px; opacity:0 } 
+  to { bottom:0px; opacity:1 }
+}
+
+@keyframes animatebottom { 
+  from{ bottom:-100px; opacity:0 } 
+  to{ bottom:0; opacity:1 }
+}
+
 </style>
 
 </head>
@@ -85,13 +128,15 @@ box-shadow:0 0 15px 4px rgba(0,0,0,0.06);
 height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <!-- End Google Tag Manager (noscript) -->
 <div class="topnav">
-  <a class="active" href="./index.html">Főoldal</a>
+  <a href="./index.html">Főoldal</a>
+  <a class="active" href="">Aloldal</a>
+  <a href="./help.html">Keresési útmutató</a>
   <a href="https://kisgomboc.wordpress.com/">Blog</a>
   <a href="https://www.facebook.com/Kisg%C3%B6mb%C3%B6c-112537700651875/">Facebook</a>
   
 </div>
 
-<input class="inputmezo" placeholder="Szűrés" id="myInput" type="text" />
+<div id="loader"></div><input class="inputmezo" placeholder="Szűrés" id="myInput" type="text" />
 
 <div class="limiter">
 		<div class="container-table100">
@@ -113,24 +158,24 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
  </thead>
 
 <tbody>
-<tr><td class="column1"><a target="_blank" rel="noreferrer" href="https://maradokapenzemnel.blog.hu/2020/11/03/szarnyas_fuszerso_teszt">Szárnyas fűszersó tesztünk: </a></td><td class="column2" style="text-align:right"></td><td class="column3" style="text-align:right"></td><td class="column4" style="text-align:right"></td><td class="column5" style="text-align:right"></td><td class="column6"></td></tr>
-<tr><td class="column1"><a target="_blank" rel="noreferrer" href="https://maradokapenzemnel.blog.hu/2020/12/15/nagy_karamellas_szaloncukor_teszt">A legmagasabb karamella tartalmú szaloncukor nyert a vaktesztünkön! Karamella roajongók figyelmébe! Nagy karam</a></td><td class="column2" style="text-align:right"></td><td class="column3" style="text-align:right"></td><td class="column4" style="text-align:right"></td><td class="column5" style="text-align:right"></td><td class="column6"></td></tr>
-<tr><td class="column1"><a target="_blank" rel="noreferrer" href="https://maradokapenzemnel.blog.hu/2020/05/06/nagy_tombos_trappista_sajt_teszt">18-féle tömbben kapható trappista sajtot kóstoltunk és vizsgáltunk ebben a tesztünkben.Nagy, tömbös trappista </a></td><td class="column2" style="text-align:right"></td><td class="column3" style="text-align:right"></td><td class="column4" style="text-align:right"></td><td class="column5" style="text-align:right"></td><td class="column6"></td></tr>
-<tr><td class="column1"><a target="_blank" rel="noreferrer" href="https://maradokapenzemnel.blog.hu/2020/08/11/nagy_griller_teszt">Mutatjuk a tesztgyőztes grillert, a mi magas hústartalmán túl rendkívül jó ár/érték arányú is! Nagy griller te</a></td><td class="column2" style="text-align:right"></td><td class="column3" style="text-align:right"></td><td class="column4" style="text-align:right"></td><td class="column5" style="text-align:right"></td><td class="column6"></td></tr>
-<tr><td class="column1"><a target="_blank" rel="noreferrer" href="https://maradokapenzemnel.blog.hu/2019/12/03/citromle_teszt_melyik_a_legfinomabb_izesito_a_meleg_teankhoz">Citromlé tesztünk: https://maradokapenzemnel.blog.hu/.../citromle_teszt...</a></td><td class="column2" style="text-align:right"></td><td class="column3" style="text-align:right"></td><td class="column4" style="text-align:right"></td><td class="column5" style="text-align:right"></td><td class="column6"></td></tr>
-<tr><td class="column1"><a target="_blank" rel="noreferrer" href="https://maradokapenzemnel.blog.hu/2020/12/11/nagy_cordon_bleu_teszt">Nagy sajttal-sonkával töltött rántott szelet tesztA francia Cordon Bleu (ejtsd: kordon blő) egy sajttal, sonká</a></td><td class="column2" style="text-align:right"></td><td class="column3" style="text-align:right"></td><td class="column4" style="text-align:right"></td><td class="column5" style="text-align:right"></td><td class="column6"></td></tr>
-<tr><td class="column1"><a target="_blank" rel="noreferrer" href="https://maradokapenzemnel.blog.hu/2019/12/26/nagy_virsli_teszt">Virsli tesztünk: https://maradokapenzemnel.blog.hu/.../26/nagy_virsli_teszt</a></td><td class="column2" style="text-align:right"></td><td class="column3" style="text-align:right"></td><td class="column4" style="text-align:right"></td><td class="column5" style="text-align:right"></td><td class="column6"></td></tr>
-<tr><td class="column1"><a target="_blank" rel="noreferrer" href="https://maradokapenzemnel.blog.hu/2020/08/18/nagy_savignon_blanc_teszt">Indul a szüret! Ennek okán vakteszteltük az egyik legillatosabb, legfrissebb borfajtát, a sauvignon blanc! Mel</a></td><td class="column2" style="text-align:right"></td><td class="column3" style="text-align:right"></td><td class="column4" style="text-align:right"></td><td class="column5" style="text-align:right"></td><td class="column6"></td></tr>
-<tr><td class="column1"><a target="_blank" rel="noreferrer" href="https://maradokapenzemnel.blog.hu/2020/11/19/nagy_fagyasztott_zoldborso_teszt">Fagyasztott zöldborsó tesztünk: </a></td><td class="column2" style="text-align:right"></td><td class="column3" style="text-align:right"></td><td class="column4" style="text-align:right"></td><td class="column5" style="text-align:right"></td><td class="column6"></td></tr>
-<tr><td class="column1"><a target="_blank" rel="noreferrer" href="https://maradokapenzemnel.blog.hu/2020/09/08/nagy_szeletelt_mozzarella_teszt">Szeletelt mozzarella tesztünk: </a></td><td class="column2" style="text-align:right"></td><td class="column3" style="text-align:right"></td><td class="column4" style="text-align:right"></td><td class="column5" style="text-align:right"></td><td class="column6"></td></tr>
-<tr><td class="column1"><a target="_blank" rel="noreferrer" href="https://maradokapenzemnel.blog.hu/2020/10/15/vaj_teszt_80_feletti_zsirtaltalmu">Írhatnánk, hogy “lezsíroztuk”, hogy legyen vaj teszt is, de inkább levajaztuk... Nagy vaj tesztA vaj finomabbá</a></td><td class="column2" style="text-align:right"></td><td class="column3" style="text-align:right"></td><td class="column4" style="text-align:right"></td><td class="column5" style="text-align:right"></td><td class="column6"></td></tr>
-<tr><td class="column1"><a target="_blank" rel="noreferrer" href="https://maradokapenzemnel.blog.hu/2020/11/17/turo_teszt_melyik_a_legfinomabb_felzsiros">Félzsíros túró tesztünk: https://maradokapenzemnel.blog.hu/.../turo_teszt_melyik_a...</a></td><td class="column2" style="text-align:right"></td><td class="column3" style="text-align:right"></td><td class="column4" style="text-align:right"></td><td class="column5" style="text-align:right"></td><td class="column6"></td></tr>
-<tr><td class="column1"><a target="_blank" rel="noreferrer" href="https://maradokapenzemnel.blog.hu/2019/12/27/szaraz_pezsgo_teszt_valodi_kulonlegessegek_2_000_ft_alatt">Száraz pezsgő tesztünk: https://maradokapenzemnel.blog.hu/.../szaraz_pezsgo_teszt...</a></td><td class="column2" style="text-align:right"></td><td class="column3" style="text-align:right"></td><td class="column4" style="text-align:right"></td><td class="column5" style="text-align:right"></td><td class="column6"></td></tr>
-<tr><td class="column1"><a target="_blank" rel="noreferrer" href="https://maradokapenzemnel.blog.hu/2020/08/25/nagy_grill_fuszerkeverek_teszt">KÁVÉ a pácban? A legfinomabb sertés és csirkehús fűszerkeveréket kerestük vaktesztünkön, ahol a tesztgyőztes k</a></td><td class="column2" style="text-align:right"></td><td class="column3" style="text-align:right"></td><td class="column4" style="text-align:right"></td><td class="column5" style="text-align:right"></td><td class="column6"></td></tr>
+<tr><td class="column1"><a target="_blank" rel="noreferrer" href="https://maradokapenzemnel.blog.hu/2020/11/03/szarnyas_fuszerso_teszt">Szárnyas fűszersó tesztünk </a></td><td class="column2" style="text-align:right"></td><td class="column3" style="text-align:right"></td><td class="column4" style="text-align:right"></td><td class="column5" style="text-align:right"></td><td class="column6"></td></tr>
+<tr><td class="column1"><a target="_blank" rel="noreferrer" href="https://maradokapenzemnel.blog.hu/2020/12/15/nagy_karamellas_szaloncukor_teszt">A legmagasabb karamella tartalmú szaloncukor nyert a vaktesztünkön! Karamella rajongók figyelmébe!</a></td><td class="column2" style="text-align:right"></td><td class="column3" style="text-align:right"></td><td class="column4" style="text-align:right"></td><td class="column5" style="text-align:right"></td><td class="column6"></td></tr>
+<tr><td class="column1"><a target="_blank" rel="noreferrer" href="https://maradokapenzemnel.blog.hu/2020/05/06/nagy_tombos_trappista_sajt_teszt">18-féle tömbben kapható trappista sajtot kóstoltunk és vizsgáltunk ebben a tesztünkben.</a></td><td class="column2" style="text-align:right"></td><td class="column3" style="text-align:right"></td><td class="column4" style="text-align:right"></td><td class="column5" style="text-align:right"></td><td class="column6"></td></tr>
+<tr><td class="column1"><a target="_blank" rel="noreferrer" href="https://maradokapenzemnel.blog.hu/2020/08/11/nagy_griller_teszt">Mutatjuk a tesztgyőztes grillert, a mi magas hústartalmán túl rendkívül jó ár/érték arányú is!</a></td><td class="column2" style="text-align:right"></td><td class="column3" style="text-align:right"></td><td class="column4" style="text-align:right"></td><td class="column5" style="text-align:right"></td><td class="column6"></td></tr>
+<tr><td class="column1"><a target="_blank" rel="noreferrer" href="https://maradokapenzemnel.blog.hu/2019/12/03/citromle_teszt_melyik_a_legfinomabb_izesito_a_meleg_teankhoz">Citromlé tesztünk</a></td><td class="column2" style="text-align:right"></td><td class="column3" style="text-align:right"></td><td class="column4" style="text-align:right"></td><td class="column5" style="text-align:right"></td><td class="column6"></td></tr>
+<tr><td class="column1"><a target="_blank" rel="noreferrer" href="https://maradokapenzemnel.blog.hu/2020/12/11/nagy_cordon_bleu_teszt">Nagy sajttal-sonkával töltött rántott szelet tesztA francia Cordon Bleu (ejtsd: kordon blő) egy sajttal...</a></td><td class="column2" style="text-align:right"></td><td class="column3" style="text-align:right"></td><td class="column4" style="text-align:right"></td><td class="column5" style="text-align:right"></td><td class="column6"></td></tr>
+<tr><td class="column1"><a target="_blank" rel="noreferrer" href="https://maradokapenzemnel.blog.hu/2019/12/26/nagy_virsli_teszt">Virsli tesztünk</a></td><td class="column2" style="text-align:right"></td><td class="column3" style="text-align:right"></td><td class="column4" style="text-align:right"></td><td class="column5" style="text-align:right"></td><td class="column6"></td></tr>
+<tr><td class="column1"><a target="_blank" rel="noreferrer" href="https://maradokapenzemnel.blog.hu/2020/08/18/nagy_savignon_blanc_teszt">Indul a szüret! Ennek okán vakteszteltük az egyik legillatosabb, legfrissebb borfajtát, a sauvignon blanc! </a></td><td class="column2" style="text-align:right"></td><td class="column3" style="text-align:right"></td><td class="column4" style="text-align:right"></td><td class="column5" style="text-align:right"></td><td class="column6"></td></tr>
+<tr><td class="column1"><a target="_blank" rel="noreferrer" href="https://maradokapenzemnel.blog.hu/2020/11/19/nagy_fagyasztott_zoldborso_teszt">Fagyasztott zöldborsó tesztünk </a></td><td class="column2" style="text-align:right"></td><td class="column3" style="text-align:right"></td><td class="column4" style="text-align:right"></td><td class="column5" style="text-align:right"></td><td class="column6"></td></tr>
+<tr><td class="column1"><a target="_blank" rel="noreferrer" href="https://maradokapenzemnel.blog.hu/2020/09/08/nagy_szeletelt_mozzarella_teszt">Szeletelt mozzarella tesztünk </a></td><td class="column2" style="text-align:right"></td><td class="column3" style="text-align:right"></td><td class="column4" style="text-align:right"></td><td class="column5" style="text-align:right"></td><td class="column6"></td></tr>
+<tr><td class="column1"><a target="_blank" rel="noreferrer" href="https://maradokapenzemnel.blog.hu/2020/10/15/vaj_teszt_80_feletti_zsirtaltalmu">Írhatnánk, hogy “lezsíroztuk”, hogy legyen vaj teszt is, de inkább levajaztuk... </a></td><td class="column2" style="text-align:right"></td><td class="column3" style="text-align:right"></td><td class="column4" style="text-align:right"></td><td class="column5" style="text-align:right"></td><td class="column6"></td></tr>
+<tr><td class="column1"><a target="_blank" rel="noreferrer" href="https://maradokapenzemnel.blog.hu/2020/11/17/turo_teszt_melyik_a_legfinomabb_felzsiros">Félzsíros túró tesztünk</a></td><td class="column2" style="text-align:right"></td><td class="column3" style="text-align:right"></td><td class="column4" style="text-align:right"></td><td class="column5" style="text-align:right"></td><td class="column6"></td></tr>
+<tr><td class="column1"><a target="_blank" rel="noreferrer" href="https://maradokapenzemnel.blog.hu/2019/12/27/szaraz_pezsgo_teszt_valodi_kulonlegessegek_2_000_ft_alatt">Száraz pezsgő tesztünk</a></td><td class="column2" style="text-align:right"></td><td class="column3" style="text-align:right"></td><td class="column4" style="text-align:right"></td><td class="column5" style="text-align:right"></td><td class="column6"></td></tr>
+<tr><td class="column1"><a target="_blank" rel="noreferrer" href="https://maradokapenzemnel.blog.hu/2020/08/25/nagy_grill_fuszerkeverek_teszt">KÁVÉ a pácban? A legfinomabb sertés és csirkehús fűszerkeveréket kerestük vaktesztünkön, ahol a tesztgyőztes...</a></td><td class="column2" style="text-align:right"></td><td class="column3" style="text-align:right"></td><td class="column4" style="text-align:right"></td><td class="column5" style="text-align:right"></td><td class="column6"></td></tr>
 <tr><td class="column1"><a target="_blank" rel="noreferrer" href="https://maradokapenzemnel.blog.hu/2020/09/03/nagy_toast_kenyer_teszt">Nagy toast kenyér teszt</a></td><td class="column2" style="text-align:right"></td><td class="column3" style="text-align:right"></td><td class="column4" style="text-align:right"></td><td class="column5" style="text-align:right"></td><td class="column6"></td></tr>
-<tr><td class="column1"><a target="_blank" rel="noreferrer" href="https://maradokapenzemnel.blog.hu/2020/12/18/nagy_becsi_virsli_teszt">A bécsi virslik története is érdekes - írunk erről is majd-, bár minket jobban érdekelt a hazai láncokban kaph</a></td><td class="column2" style="text-align:right"></td><td class="column3" style="text-align:right"></td><td class="column4" style="text-align:right"></td><td class="column5" style="text-align:right"></td><td class="column6"></td></tr>
+<tr><td class="column1"><a target="_blank" rel="noreferrer" href="https://maradokapenzemnel.blog.hu/2020/12/18/nagy_becsi_virsli_teszt">A bécsi virslik története is érdekes, bár minket jobban érdekelt a hazai láncokban kapható...</a></td><td class="column2" style="text-align:right"></td><td class="column3" style="text-align:right"></td><td class="column4" style="text-align:right"></td><td class="column5" style="text-align:right"></td><td class="column6"></td></tr>
 <tr><td class="column1"><a target="_blank" rel="noreferrer" href="https://maradokapenzemnel.blog.hu/2020/04/02/husvet_2020_melyik_a_legfinomabb_csomagolt_kalacs">Jövő hét végén Húsvét! Most a koronavírus járvány mindenre rányomja a bélyegét, ezért mi is írtunk pár vásárlá</a></td><td class="column2" style="text-align:right"></td><td class="column3" style="text-align:right"></td><td class="column4" style="text-align:right"></td><td class="column5" style="text-align:right"></td><td class="column6"></td></tr>
-<tr><td class="column1"><a target="_blank" rel="noreferrer" href="https://maradokapenzemnel.blog.hu/2020/10/27/nagy_bolognai_szosz_teszt">18-féle bolognai szószt vaktesztelt a csapatunk, a nyertes egy fagyasztott termék lett.Nagy bolognai szósz tes</a></td><td class="column2" style="text-align:right"></td><td class="column3" style="text-align:right"></td><td class="column4" style="text-align:right"></td><td class="column5" style="text-align:right"></td><td class="column6"></td></tr>
+<tr><td class="column1"><a target="_blank" rel="noreferrer" href="https://maradokapenzemnel.blog.hu/2020/10/27/nagy_bolognai_szosz_teszt">18-féle bolognai szószt vaktesztelt a csapatunk, a nyertes egy fagyasztott termék lett.</a></td><td class="column2" style="text-align:right"></td><td class="column3" style="text-align:right"></td><td class="column4" style="text-align:right"></td><td class="column5" style="text-align:right"></td><td class="column6"></td></tr>
 <tr><td class="column1"><a target="_blank" rel="noreferrer" href="https://maradokapenzemnel.blog.hu/2020/07/21/nagy_chilis_grillkolbasz_teszt">A tesztünkből kiderül, hogy melyik grillkolbász jó úgy, ha csíp!Nagy chilis grillkolbász tesztA grillkolbász n</a></td><td class="column2" style="text-align:right"></td><td class="column3" style="text-align:right"></td><td class="column4" style="text-align:right"></td><td class="column5" style="text-align:right"></td><td class="column6"></td></tr>
 <tr><td class="column1"><a target="_blank" rel="noreferrer" href="https://maradokapenzemnel.blog.hu/2020/12/17/a_nagy_instant_kave_teszt_100_kavetartalom">Nincs jobb, mint amikor reggelente egy gőzölgő, friss csésze kávéval indíthatjuk a napot. Van, akinek elég nap</a></td><td class="column2" style="text-align:right"></td><td class="column3" style="text-align:right"></td><td class="column4" style="text-align:right"></td><td class="column5" style="text-align:right"></td><td class="column6"></td></tr>
 <tr><td class="column1"><a target="_blank" rel="noreferrer" href="https://maradokapenzemnel.blog.hu/2020/12/08/nagy_gesztenyepure_teszt">Ha gesztenyepürét készítenétek, olvassátok el előtte ezt a tesztünket! Nagy gesztenyepüré teszt</a></td><td class="column2" style="text-align:right"></td><td class="column3" style="text-align:right"></td><td class="column4" style="text-align:right"></td><td class="column5" style="text-align:right"></td><td class="column6"></td></tr>
@@ -183,14 +228,13 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <tr><td class="column1"><a target="_blank" rel="noreferrer" href="https://maradokapenzemnel.blog.hu/2020/06/18/nagy_fuszeres_grillsajt_teszt">Nagy fűszeres grillsajt teszt</a></td><td class="column2" style="text-align:right"></td><td class="column3" style="text-align:right"></td><td class="column4" style="text-align:right"></td><td class="column5" style="text-align:right"></td><td class="column6"></td></tr>
 
 </tbody>
-					</table>
+										</table>
 				</div>
 			</div>
 		</div>
 	</div>
 
 
-	
 
 <!--===============================================================================================-->	
 	<script src="vendor/jquery/jquery-3.2.1.min.js"></script>
@@ -205,21 +249,73 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 
 <script>
+// get the content of the "filter" query param or set empty string if param is not set
+const filterText = new URLSearchParams(window.location.search).get('filter') || '';
+const noText = new URLSearchParams(window.location.search).get('notext') || '';
+
+// set the search input value
+document.querySelector('#myInput').value = filterText ;
+// call viewTable regardless of the content, the function should handle empty string anyway
+viewTable(filterText,noText);
+
+function viewTable(filterText,noText) {
+  const filterElements = filterText.toLowerCase().split(',').filter(function(e){ return e === 0 || e });
+  const notextElements = noText.toLowerCase().split(',').filter(function(e){ return e === 0 || e });
+
+
+  const tableRows = document.querySelector("#myTable tbody").rows; 
+  
+  for (var row of tableRows) {
+    const itemName = row.cells[0].textContent.toLowerCase();
+    
+    let shouldBeVisible = true;
+    
+    if(filterElements.length > 0) {
+	 shouldBeVisible = filterElements.some(filterElement => {
+	 const sbv = (itemName.includes(filterElement) ) 
+           	&& !notextElements.some(notextElement => {
+                return itemName.includes(notextElement) ;
+                });
+           return sbv;
+           });
+         }
+    else {
+    	shouldBeVisible = !notextElements.some(notextElement => {
+           return itemName.includes(notextElement) ;
+           });
+        };
+    row.style.display = shouldBeVisible ? '' : 'none' 
+    };
+    document.getElementById("loader").style.display = "none";
+};
+
+// Returns a function, that, as long as it continues to be invoked, will not
+// be triggered. The function will be called after it stops being called for
+// `wait` milliseconds.
+const debounce = (func, wait) => {
+  let timeout;
+
+  return function executedFunction(...args) {
+    const later = () => {
+      clearTimeout(timeout);
+      func(...args);
+    };
+
+    clearTimeout(timeout);
+    timeout = setTimeout(later, wait);
+  };
+};
+
+var returnedFunction = debounce(function(event,noText) {
+  viewTable(event.target.value,noText); 
+}, 700);
 
 function filterTable(event) {
-    var filter = event.target.value.toUpperCase();
-    var rows = document.querySelector("#myTable tbody").rows;
-    
-    for (var i = 0; i < rows.length; i++) {
-        var firstCol = rows[i].cells[0].textContent.toUpperCase();
-        var secondCol = rows[i].cells[5].textContent.toUpperCase();
-        if (firstCol.indexOf(filter) > -1 || secondCol.indexOf(filter) > -1) {
-            rows[i].style.display = "";
-        } else {
-            rows[i].style.display = "none";
-        }      
-    }
-}
+document.getElementById("loader").style.display = "block";
+returnedFunction(event,noText);
+};
+
+
 
 document.querySelector('#myInput').addEventListener('keyup', filterTable, false);
 
