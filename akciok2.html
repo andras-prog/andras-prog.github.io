@@ -18,6 +18,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 })(window,document,'script','dataLayer','GTM-WLBH3CH');</script>
 <!-- End Google Tag Manager -->
 
+<meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Kisgömböc | Élelmiszer áruházak aktuális akciói</title>
 
@@ -73,6 +74,51 @@ body {
 border-radius:10px;
 box-shadow:0 0 15px 4px rgba(0,0,0,0.06);
 }
+/* spinner style following*/
+#loader {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  z-index: 1;
+  width: 60px;
+  height: 60px;
+  margin: -76px 0 0 -76px;
+  border: 16px solid #f3f3f3;
+  border-radius: 50%;
+  border-top: 16px solid #3498db;
+  -webkit-animation: spin 2s linear infinite;
+  animation: spin 2s linear infinite;
+}
+
+@-webkit-keyframes spin {
+  0% { -webkit-transform: rotate(0deg); }
+  100% { -webkit-transform: rotate(360deg); }
+}
+
+@keyframes spin {
+  0% { transform: rotate(0deg); }
+  100% { transform: rotate(360deg); }
+}
+
+/* Add animation to "page content" */
+.animate-bottom {
+  position: relative;
+  -webkit-animation-name: animatebottom;
+  -webkit-animation-duration: 1s;
+  animation-name: animatebottom;
+  animation-duration: 1s
+}
+
+@-webkit-keyframes animatebottom {
+  from { bottom:-100px; opacity:0 } 
+  to { bottom:0px; opacity:1 }
+}
+
+@keyframes animatebottom { 
+  from{ bottom:-100px; opacity:0 } 
+  to{ bottom:0; opacity:1 }
+}
+
 </style>
 
 </head>
@@ -82,12 +128,13 @@ box-shadow:0 0 15px 4px rgba(0,0,0,0.06);
 height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <!-- End Google Tag Manager (noscript) -->
 <div class="topnav">
-  <a class="active" href="./index.html">Főoldal</a>
+  <a href="./index.html">Főoldal</a>
+  <a class="active" href="">Akciók</a>
+  <a href="./help.html">Keresési útmutató</a>
   <a href="https://kisgomboc.wordpress.com/">Blog</a>
   <a href="https://www.facebook.com/Kisg%C3%B6mb%C3%B6c-112537700651875/">Facebook</a>
-  
 </div>
-
+<div id="loader"></div>
 <input class="inputmezo" placeholder="Szűrés:árucikk,bolt" id="myInput" type="text" />
 
 <div class="limiter">
@@ -595,19 +642,19 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <tr><td class="column1"><a target="_blank" rel="noopener" href="https://www.spar.hu/onlineshop/saga-royal-pulyka-combhus-aszpikban/p/466470003">Sága Royal pulyka combhús aszpikban </a></td><td class="column2" style="text-align:right">2 490Ft</td><td class="column3" style="text-align:right">(3 190,00 Ft/kg)</td><td class="column4" style="text-align:right"></td><td class="column5" style="text-align:right"></td><td class="column6">SPAR</td></tr>
 <tr><td class="column1"><a target="_blank" rel="noopener" href="https://www.spar.hu/onlineshop/riska-laktozmentes-uht-zsirszegeny-tej-15-1-l/p/426573003">Riska laktózmentes UHT zsírszegény tej 1,5% 1 l </a></td><td class="column2" style="text-align:right">279Ft</td><td class="column3" style="text-align:right">(349,00 Ft/l)</td><td class="column4" style="text-align:right"></td><td class="column5" style="text-align:right"></td><td class="column6">SPAR</td></tr>
 <tr><td class="column1"><a target="_blank" rel="noopener" href="https://www.spar.hu/onlineshop/jana-termeszetes-szensavmentes-asvanyviz-15-l/p/260096003">Jana természetes szénsavmentes ásványvíz 1,5 l </a></td><td class="column2" style="text-align:right">189Ft</td><td class="column3" style="text-align:right">(159,33 Ft/l)</td><td class="column4" style="text-align:right"></td><td class="column5" style="text-align:right"></td><td class="column6">SPAR</td></tr>
+<tr><td class="column1"><a target="_blank" rel="noopener" href="https://www.spar.hu/onlineshop/feher-grapefruit/p/24722001">Fehér grapefruit </a></td><td class="column2" style="text-align:right">399Ft</td><td class="column3" style="text-align:right">(599,00 Ft/kg)</td><td class="column4" style="text-align:right"></td><td class="column5" style="text-align:right"></td><td class="column6">SPAR</td></tr>
 <tr><td class="column1"><a target="_blank" rel="noopener" href="https://www.spar.hu/onlineshop/coca-cola-zero-colaizu-energiamentes-szensavas-uditoital-edesitoszerekkel-175-l/p/412152007">Coca-Cola Zero colaízű energiamentes szénsavas üdítőital édesítőszerekkel 1,75 l </a></td><td class="column2" style="text-align:right">339Ft</td><td class="column3" style="text-align:right">(228,00 Ft/l)</td><td class="column4" style="text-align:right"></td><td class="column5" style="text-align:right"></td><td class="column6">SPAR</td></tr>
 <tr><td class="column1"><a target="_blank" rel="noopener" href="https://www.spar.hu/onlineshop/csemegehagyma-csomos/p/293745008">Csemegehagyma csomós </a></td><td class="column2" style="text-align:right">149Ft</td><td class="column3" style="text-align:right">(249,00 Ft/db)</td><td class="column4" style="text-align:right"></td><td class="column5" style="text-align:right"></td><td class="column6">SPAR</td></tr>
 <tr><td class="column1"><a target="_blank" rel="noopener" href="https://www.spar.hu/onlineshop/coca-cola-colaizu-szensavas-uditoital-175-l/p/412148000">Coca-Cola colaízű szénsavas üdítőital 1,75 l </a></td><td class="column2" style="text-align:right">339Ft</td><td class="column3" style="text-align:right">(228,00 Ft/l)</td><td class="column4" style="text-align:right"></td><td class="column5" style="text-align:right"></td><td class="column6">SPAR</td></tr>
-<tr><td class="column1"><a target="_blank" rel="noopener" href="https://www.spar.hu/onlineshop/feher-grapefruit/p/24722001">Fehér grapefruit </a></td><td class="column2" style="text-align:right">399Ft</td><td class="column3" style="text-align:right">(599,00 Ft/kg)</td><td class="column4" style="text-align:right"></td><td class="column5" style="text-align:right"></td><td class="column6">SPAR</td></tr>
 <tr><td class="column1"><a target="_blank" rel="noopener" href="https://www.spar.hu/onlineshop/gyermelyi-buzafinomliszt-bl-55-1-kg/p/271787006">Gyermelyi búzafinomliszt BL 55 1 kg </a></td><td class="column2" style="text-align:right">169Ft</td><td class="column3" style="text-align:right">(239,00 Ft/kg)</td><td class="column4" style="text-align:right"></td><td class="column5" style="text-align:right"></td><td class="column6">SPAR</td></tr>
 <tr><td class="column1"><a target="_blank" rel="noopener" href="https://www.spar.hu/onlineshop/berek-toscan-sajtos-szelet/p/410869006">Berek Toscan sajtos szelet </a></td><td class="column2" style="text-align:right">2 190Ft</td><td class="column3" style="text-align:right">(2 790,00 Ft/kg)</td><td class="column4" style="text-align:right"></td><td class="column5" style="text-align:right"></td><td class="column6">SPAR</td></tr>
+<tr><td class="column1"><a target="_blank" rel="noopener" href="https://www.spar.hu/onlineshop/master-good-friss-csirke-2-izuletes-szarny/p/505637008">Master Good friss csirke 2 ízületes szárny </a></td><td class="column2" style="text-align:right">899Ft</td><td class="column3" style="text-align:right">(1 249,00 Ft/kg)</td><td class="column4" style="text-align:right"></td><td class="column5" style="text-align:right"></td><td class="column6">SPAR</td></tr>
+<tr><td class="column1"><a target="_blank" rel="noopener" href="https://www.spar.hu/onlineshop/regnum-boros-csontos-sertescsaszar/p/422317007">REGNUM Bőrös csontos sertéscsászár </a></td><td class="column2" style="text-align:right">1 099Ft</td><td class="column3" style="text-align:right">(1 349,00 Ft/kg)</td><td class="column4" style="text-align:right"></td><td class="column5" style="text-align:right"></td><td class="column6">SPAR</td></tr>
 <tr><td class="column1"><a target="_blank" rel="noopener" href="https://www.spar.hu/onlineshop/vita-purpur-kenyer-teljes-kiorlesu-osbuzabol-400-g/p/370314004">Vita PurPur kenyér teljes kiőrlésű ősbúzából 400 g </a></td><td class="column2" style="text-align:right">369Ft</td><td class="column3" style="text-align:right">(1 147,50 Ft/kg)</td><td class="column4" style="text-align:right"></td><td class="column5" style="text-align:right"></td><td class="column6">SPAR</td></tr>
 <tr><td class="column1"><a target="_blank" rel="noopener" href="https://www.spar.hu/onlineshop/coca-cola-light-colaizu-energiamentes-szensavas-uditoital-edesitoszerekkel-175-l/p/412150003">Coca-Cola Light colaízű energiamentes szénsavas üdítőital édesítőszerekkel 1,75 l </a></td><td class="column2" style="text-align:right">339Ft</td><td class="column3" style="text-align:right">(228,00 Ft/l)</td><td class="column4" style="text-align:right"></td><td class="column5" style="text-align:right"></td><td class="column6">SPAR</td></tr>
 <tr><td class="column1"><a target="_blank" rel="noopener" href="https://www.spar.hu/onlineshop/pilsner-urquell-minosegi-vilagos-sor-44-05-l/p/118057002">Pilsner Urquell minőségi világos sör 4,4% 0,5 l </a></td><td class="column2" style="text-align:right">309Ft</td><td class="column3" style="text-align:right">(658,00 Ft/l)</td><td class="column4" style="text-align:right"></td><td class="column5" style="text-align:right"></td><td class="column6">SPAR</td></tr>
 <tr><td class="column1"><a target="_blank" rel="noopener" href="https://www.spar.hu/onlineshop/hb-hofbru-munchen-vilagos-sor-4-05-l/p/238772007">HB Hofbräu München világos sör 4% 0,5 l </a></td><td class="column2" style="text-align:right">209Ft</td><td class="column3" style="text-align:right">(438,00 Ft/l)</td><td class="column4" style="text-align:right"></td><td class="column5" style="text-align:right"></td><td class="column6">SPAR</td></tr>
-<tr><td class="column1"><a target="_blank" rel="noopener" href="https://www.spar.hu/onlineshop/master-good-friss-csirke-2-izuletes-szarny/p/505637008">Master Good friss csirke 2 ízületes szárny </a></td><td class="column2" style="text-align:right">899Ft</td><td class="column3" style="text-align:right">(1 249,00 Ft/kg)</td><td class="column4" style="text-align:right"></td><td class="column5" style="text-align:right"></td><td class="column6">SPAR</td></tr>
 <tr><td class="column1"><a target="_blank" rel="noopener" href="https://www.spar.hu/onlineshop/zott-jogobella-0-elofloras-sovany-joghurt-edesitoszerekkel-150-g/p/431562009">Zott Jogobella 0% élőflórás, sovány joghurt édesítőszerekkel 150 g </a></td><td class="column2" style="text-align:right">169Ft</td><td class="column3" style="text-align:right">(1 126,67 Ft/kg)</td><td class="column4" style="text-align:right"></td><td class="column5" style="text-align:right"></td><td class="column6">SPAR</td></tr>
-<tr><td class="column1"><a target="_blank" rel="noopener" href="https://www.spar.hu/onlineshop/regnum-boros-csontos-sertescsaszar/p/422317007">REGNUM Bőrös csontos sertéscsászár </a></td><td class="column2" style="text-align:right">1 099Ft</td><td class="column3" style="text-align:right">(1 349,00 Ft/kg)</td><td class="column4" style="text-align:right"></td><td class="column5" style="text-align:right"></td><td class="column6">SPAR</td></tr>
 <tr><td class="column1"><a target="_blank" rel="noopener" href="https://www.spar.hu/onlineshop/lecso-paprika-750-g/p/378766003">Lecsó paprika 750 g </a></td><td class="column2" style="text-align:right">649Ft</td><td class="column3" style="text-align:right">(932,00 Ft/kg)</td><td class="column4" style="text-align:right"></td><td class="column5" style="text-align:right"></td><td class="column6">SPAR</td></tr>
 <tr><td class="column1"><a target="_blank" rel="noopener" href="https://www.spar.hu/onlineshop/pecsi-szalon-vilagos-sor-46-05-l/p/289532001">Pécsi Szalon világos sör 4,6% 0,5 l </a></td><td class="column2" style="text-align:right">199Ft</td><td class="column3" style="text-align:right">(438,00 Ft/l)</td><td class="column4" style="text-align:right"></td><td class="column5" style="text-align:right"></td><td class="column6">SPAR</td></tr>
 <tr><td class="column1"><a target="_blank" rel="noopener" href="https://www.spar.hu/onlineshop/spar-szeletelt-bacon-200-g/p/380145001">SPAR szeletelt bacon 200 g </a></td><td class="column2" style="text-align:right">579Ft</td><td class="column3" style="text-align:right">(2 895,00 Ft/kg)</td><td class="column4" style="text-align:right"></td><td class="column5" style="text-align:right"></td><td class="column6">SPAR</td></tr>
@@ -619,7 +666,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <tr><td class="column1"><a target="_blank" rel="noopener" href="https://www.spar.hu/onlineshop/gyermelyi-feher-buzakenyerliszt-bl-80-1-kg/p/397777004">Gyermelyi fehér búzakenyérliszt BL 80 1 kg </a></td><td class="column2" style="text-align:right">169Ft</td><td class="column3" style="text-align:right">(239,00 Ft/kg)</td><td class="column4" style="text-align:right"></td><td class="column5" style="text-align:right"></td><td class="column6">SPAR</td></tr>
 <tr><td class="column1"><a target="_blank" rel="noopener" href="https://www.spar.hu/onlineshop/magyar-vaj-teavaj-100-g/p/324962008">Magyar Vaj teavaj 100 g </a></td><td class="column2" style="text-align:right">369Ft</td><td class="column3" style="text-align:right">(3 690,00 Ft/kg)</td><td class="column4" style="text-align:right"></td><td class="column5" style="text-align:right"></td><td class="column6">SPAR</td></tr>
 <tr><td class="column1"><a target="_blank" rel="noopener" href="https://www.spar.hu/onlineshop/zott-jogobella-elofloras-joghurt-150-g/p/230361001">Zott Jogobella élőflórás joghurt 150 g </a></td><td class="column2" style="text-align:right">169Ft</td><td class="column3" style="text-align:right">(1 126,67 Ft/kg)</td><td class="column4" style="text-align:right"></td><td class="column5" style="text-align:right"></td><td class="column6">SPAR</td></tr>
-<tr><td class="column1"><a target="_blank" rel="noopener" href="https://www.spar.hu/onlineshop/spar-100-narancsle-1-l/p/500055005">SPAR 100% narancslé 1 l </a></td><td class="column2" style="text-align:right">299Ft</td><td class="column3" style="text-align:right">(339,00 Ft/l)</td><td class="column4" style="text-align:right"></td><td class="column5" style="text-align:right"></td><td class="column6">SPAR</td></tr>
 <tr><td class="column1"><a target="_blank" rel="noopener" href="https://www.spar.hu/onlineshop/spar-sargahuvelyu-vagott-zoldbab-660-g/p/302944002">SPAR sárgahüvelyű, vágott zöldbab 660 g </a></td><td class="column2" style="text-align:right">329Ft</td><td class="column3" style="text-align:right">(1 025,00 Ft/kg)</td><td class="column4" style="text-align:right"></td><td class="column5" style="text-align:right"></td><td class="column6">SPAR</td></tr>
 <tr><td class="column1"><a target="_blank" rel="noopener" href="https://www.spar.hu/onlineshop/miller-genuine-draft-vilagos-sor-47-330-ml/p/172113003">Miller Genuine Draft világos sör 4,7% 330 ml </a></td><td class="column2" style="text-align:right">279Ft</td><td class="column3" style="text-align:right">(906,06 Ft/l)</td><td class="column4" style="text-align:right"></td><td class="column5" style="text-align:right"></td><td class="column6">SPAR</td></tr>
 <tr><td class="column1"><a target="_blank" rel="noopener" href="https://www.spar.hu/onlineshop/spar-gyorsfagyasztott-magozott-meggy-450-g/p/369933001">SPAR gyorsfagyasztott magozott meggy 450 g </a></td><td class="column2" style="text-align:right">399Ft</td><td class="column3" style="text-align:right">(1 108,89 Ft/kg)</td><td class="column4" style="text-align:right"></td><td class="column5" style="text-align:right"></td><td class="column6">SPAR</td></tr>
@@ -628,8 +674,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <tr><td class="column1"><a target="_blank" rel="noopener" href="https://www.spar.hu/onlineshop/jana-citrom-es-limetta-izu-energiaszegeny-szensavmentes-uditoital-15-l/p/260088008">Jana citrom és limetta ízű, energiaszegény, szénsavmentes üdítőital 1,5 l </a></td><td class="column2" style="text-align:right">189Ft</td><td class="column3" style="text-align:right">(199,33 Ft/l)</td><td class="column4" style="text-align:right"></td><td class="column5" style="text-align:right"></td><td class="column6">SPAR</td></tr>
 <tr><td class="column1"><a target="_blank" rel="noopener" href="https://www.spar.hu/onlineshop/coca-cola-zero-cola-es-citromizu-energiamentes-szensavas-uditoital-edesitoszerekkel-175-l/p/485082003">Coca-Cola Zero cola- és citromízű energiamentes szénsavas üdítőital édesítősze... </a></td><td class="column2" style="text-align:right">339Ft</td><td class="column3" style="text-align:right">(228,00 Ft/l)</td><td class="column4" style="text-align:right"></td><td class="column5" style="text-align:right"></td><td class="column6">SPAR</td></tr>
 <tr><td class="column1"><a target="_blank" rel="noopener" href="https://www.spar.hu/onlineshop/tojas-itthonrol-otthonra-melyalmos-l-xl-10-db/p/365627003">Tojás Itthonról otthonra (mélyalmos) L-XL 10 db </a></td><td class="column2" style="text-align:right">429Ft</td><td class="column3" style="text-align:right">55,90 Ft/db</td><td class="column4" style="text-align:right"></td><td class="column5" style="text-align:right"></td><td class="column6">SPAR</td></tr>
-<tr><td class="column1"><a target="_blank" rel="noopener" href="https://www.spar.hu/onlineshop/szarvasi-mini-mozzarella-sajt-100-g/p/243500008">Szarvasi Mini mozzarella sajt 100 g </a></td><td class="column2" style="text-align:right">199Ft</td><td class="column3" style="text-align:right">(2 990,00 Ft/kg)</td><td class="column4" style="text-align:right"></td><td class="column5" style="text-align:right"></td><td class="column6">SPAR</td></tr>
 <tr><td class="column1"><a target="_blank" rel="noopener" href="https://www.spar.hu/onlineshop/nadudvari-felzsiros-turo-250-g/p/260910002">Nádudvari félzsíros túró 250 g </a></td><td class="column2" style="text-align:right">289Ft</td><td class="column3" style="text-align:right">(1 716,00 Ft/kg)</td><td class="column4" style="text-align:right"></td><td class="column5" style="text-align:right"></td><td class="column6">SPAR</td></tr>
+<tr><td class="column1"><a target="_blank" rel="noopener" href="https://www.spar.hu/onlineshop/szarvasi-mini-mozzarella-sajt-100-g/p/243500008">Szarvasi Mini mozzarella sajt 100 g </a></td><td class="column2" style="text-align:right">199Ft</td><td class="column3" style="text-align:right">(2 990,00 Ft/kg)</td><td class="column4" style="text-align:right"></td><td class="column5" style="text-align:right"></td><td class="column6">SPAR</td></tr>
 <tr><td class="column1"><a target="_blank" rel="noopener" href="https://www.spar.hu/onlineshop/spar-zala-felvagott-100-g/p/423819005">SPAR zala felvágott 100 g </a></td><td class="column2" style="text-align:right">279Ft</td><td class="column3" style="text-align:right">(2 790,00 Ft/kg)</td><td class="column4" style="text-align:right"></td><td class="column5" style="text-align:right"></td><td class="column6">SPAR</td></tr>
 <tr><td class="column1"><a target="_blank" rel="noopener" href="https://www.spar.hu/onlineshop/real-nature-gorog-joghurt-natur-1-kg/p/427072000">Real Nature Görög joghurt natúr 1 kg </a></td><td class="column2" style="text-align:right">679Ft</td><td class="column3" style="text-align:right">(869,00 Ft/kg)</td><td class="column4" style="text-align:right"></td><td class="column5" style="text-align:right"></td><td class="column6">SPAR</td></tr>
 <tr><td class="column1"><a target="_blank" rel="noopener" href="https://www.spar.hu/onlineshop/szarvasi-mini-light-mozzarella-sajt-100-g/p/301613008">Szarvasi Mini Light mozzarella sajt 100 g </a></td><td class="column2" style="text-align:right">199Ft</td><td class="column3" style="text-align:right">(2 990,00 Ft/kg)</td><td class="column4" style="text-align:right"></td><td class="column5" style="text-align:right"></td><td class="column6">SPAR</td></tr>
@@ -649,9 +695,10 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <tr><td class="column1"><a target="_blank" rel="noopener" href="https://www.spar.hu/onlineshop/alpro-kokuszital-1-l/p/393772003">ALPRO kókuszital 1 l </a></td><td class="column2" style="text-align:right">599Ft</td><td class="column3" style="text-align:right">(899,00 Ft/l)</td><td class="column4" style="text-align:right"></td><td class="column5" style="text-align:right"></td><td class="column6">SPAR</td></tr>
 <tr><td class="column1"><a target="_blank" rel="noopener" href="https://www.spar.hu/onlineshop/kinley-ginger-ale-gyomberizu-szensavas-uditoital-15-l/p/490468007">Kinley Ginger Ale gyömbérízű szénsavas üdítőital 1,5 l </a></td><td class="column2" style="text-align:right">339Ft</td><td class="column3" style="text-align:right">(266,00 Ft/l)</td><td class="column4" style="text-align:right"></td><td class="column5" style="text-align:right"></td><td class="column6">SPAR</td></tr>
 <tr><td class="column1"><a target="_blank" rel="noopener" href="https://www.spar.hu/onlineshop/kinley-tonic-water-tonikizu-szensavas-uditoital-15-l/p/490470000">Kinley Tonic Water tonikízű szénsavas üdítőital 1,5 l </a></td><td class="column2" style="text-align:right">339Ft</td><td class="column3" style="text-align:right">(266,00 Ft/l)</td><td class="column4" style="text-align:right"></td><td class="column5" style="text-align:right"></td><td class="column6">SPAR</td></tr>
-<tr><td class="column1"><a target="_blank" rel="noopener" href="https://www.spar.hu/onlineshop/queen-cola-izu-energiaszegeny-szensavas-uditoital-cukorral-es-edesitoszerekkel-25-l/p/349067009">Queen cola ízű energiaszegény szénsavas üdítőital cukorral és édesítőszerekkel 2,5 l </a></td><td class="column2" style="text-align:right">189Ft</td><td class="column3" style="text-align:right">(107,60 Ft/l)</td><td class="column4" style="text-align:right"></td><td class="column5" style="text-align:right"></td><td class="column6">SPAR</td></tr>
 <tr><td class="column1"><a target="_blank" rel="noopener" href="https://www.spar.hu/onlineshop/gyori-edes-omlos-edes-keksz-180-g/p/932004">Győri Édes omlós, édes keksz 180 g </a></td><td class="column2" style="text-align:right">209Ft</td><td class="column3" style="text-align:right">(1 272,22 Ft/kg)</td><td class="column4" style="text-align:right"></td><td class="column5" style="text-align:right"></td><td class="column6">SPAR</td></tr>
+<tr><td class="column1"><a target="_blank" rel="noopener" href="https://www.spar.hu/onlineshop/queen-cola-izu-energiaszegeny-szensavas-uditoital-cukorral-es-edesitoszerekkel-25-l/p/349067009">Queen cola ízű energiaszegény szénsavas üdítőital cukorral és édesítőszerekkel 2,5 l </a></td><td class="column2" style="text-align:right">189Ft</td><td class="column3" style="text-align:right">(107,60 Ft/l)</td><td class="column4" style="text-align:right"></td><td class="column5" style="text-align:right"></td><td class="column6">SPAR</td></tr>
 <tr><td class="column1"><a target="_blank" rel="noopener" href="https://www.spar.hu/onlineshop/nestea-oszibarack-izu-tea-uditoital-cukrokkal-es-edesitoszerrel-15-l/p/491415000">Nestea őszibarack ízű tea üdítőital, cukrokkal és édesítőszerrel 1,5 l </a></td><td class="column2" style="text-align:right">289Ft</td><td class="column3" style="text-align:right">(246,00 Ft/l)</td><td class="column4" style="text-align:right"></td><td class="column5" style="text-align:right"></td><td class="column6">SPAR</td></tr>
+<tr><td class="column1"><a target="_blank" rel="noopener" href="https://www.spar.hu/onlineshop/tolle-szeletelt-trappista-sajt-125-g/p/235980009">Tolle szeletelt trappista sajt 125 g </a></td><td class="column2" style="text-align:right">339Ft</td><td class="column3" style="text-align:right">(3 272,00 Ft/kg)</td><td class="column4" style="text-align:right"></td><td class="column5" style="text-align:right"></td><td class="column6">SPAR</td></tr>
 <tr><td class="column1"><a target="_blank" rel="noopener" href="https://www.penny.hu/ajanlatok/kovetkezo-heti-ajanlatok">PRÉSIDENT KÖRDOBOZOS SAJT  140 gramm</a></td><td class="column2" style="text-align:right">249 Ft</td><td class="column3" style="text-align:right">100 gramm = 178 Ft</td><td class="column4" style="text-align:right"></td><td class="column5" style="text-align:right">2021.01.13</td><td class="column6">PENNY</td></tr>
 <tr><td class="column1"><a target="_blank" rel="noopener" href="https://www.penny.hu/ajanlatok/kovetkezo-heti-ajanlatok">CRIP CROP ZABKÁSA  65 gramm</a></td><td class="column2" style="text-align:right">75 Ft</td><td class="column3" style="text-align:right">100 gramm = 115 </td><td class="column4" style="text-align:right">-24%</td><td class="column5" style="text-align:right">2021.01.13</td><td class="column6">PENNY</td></tr>
 <tr><td class="column1"><a target="_blank" rel="noopener" href="https://www.penny.hu/ajanlatok/kovetkezo-heti-ajanlatok">CROISSANT  65 gramm</a></td><td class="column2" style="text-align:right">99 Ft</td><td class="column3" style="text-align:right">100 gramm = 152 </td><td class="column4" style="text-align:right">-16%</td><td class="column5" style="text-align:right">2021.01.13</td><td class="column6">PENNY</td></tr>
@@ -769,7 +816,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 	</div>
 
 
-	
 
 <!--===============================================================================================-->	
 	<script src="vendor/jquery/jquery-3.2.1.min.js"></script>
@@ -784,21 +830,71 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 
 <script>
+// get the content of the "filter" query param or set empty string if param is not set
+const filterText = new URLSearchParams(window.location.search).get('filter') || '';
+const noText = new URLSearchParams(window.location.search).get('notext') || '';
+
+// set the search input value
+document.querySelector('#myInput').value = filterText ;
+// call viewTable regardless of the content, the function should handle empty string anyway
+viewTable(filterText,noText);
+
+function viewTable(filterText,noText) {
+  const filterElements = filterText.toLowerCase().split(',').filter(function(e){ return e === 0 || e });
+  const notextElements = noText.toLowerCase().split(',').filter(function(e){ return e === 0 || e });
+
+
+  const tableRows = document.querySelector("#myTable tbody").rows; 
+  
+  for (var row of tableRows) {
+    const itemName = row.cells[0].textContent.toLowerCase();
+    const shopName = row.cells[5].textContent.toLowerCase();
+    let shouldBeVisible = true;
+    
+    if(filterElements.length > 0) {
+	 shouldBeVisible = filterElements.some(filterElement => {
+	 const sbv = (itemName.includes(filterElement) || shopName.includes(filterElement)) 
+           	&& !notextElements.some(notextElement => {
+                return itemName.includes(notextElement) || shopName.includes(notextElement);
+                });
+           return sbv;
+           });
+         }
+    else {
+    	shouldBeVisible = !notextElements.some(notextElement => {
+           return itemName.includes(notextElement) || shopName.includes(notextElement);
+           });
+        };
+    row.style.display = shouldBeVisible ? '' : 'none' 
+    };
+    document.getElementById("loader").style.display = "none";
+};
+
+// Returns a function, that, as long as it continues to be invoked, will not
+// be triggered. The function will be called after it stops being called for
+// `wait` milliseconds.
+const debounce = (func, wait) => {
+  let timeout;
+
+  return function executedFunction(...args) {
+    const later = () => {
+      clearTimeout(timeout);
+      func(...args);
+    };
+
+    clearTimeout(timeout);
+    timeout = setTimeout(later, wait);
+  };
+};
+
+var returnedFunction = debounce(function(event,noText) {
+  viewTable(event.target.value,noText); 
+}, 700);
 
 function filterTable(event) {
-    var filter = event.target.value.toUpperCase();
-    var rows = document.querySelector("#myTable tbody").rows;
-    
-    for (var i = 0; i < rows.length; i++) {
-        var firstCol = rows[i].cells[0].textContent.toUpperCase();
-        var secondCol = rows[i].cells[5].textContent.toUpperCase();
-        if (firstCol.indexOf(filter) > -1 || secondCol.indexOf(filter) > -1) {
-            rows[i].style.display = "";
-        } else {
-            rows[i].style.display = "none";
-        }      
-    }
-}
+document.getElementById("loader").style.display = "block";
+returnedFunction(event,noText);
+};
 
 document.querySelector('#myInput').addEventListener('keyup', filterTable, false);
 
