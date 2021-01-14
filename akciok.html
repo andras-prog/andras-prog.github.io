@@ -18,6 +18,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 })(window,document,'script','dataLayer','GTM-WLBH3CH');</script>
 <!-- End Google Tag Manager -->
 
+<meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Kisgömböc | Élelmiszer áruházak aktuális akciói</title>
 
@@ -73,6 +74,51 @@ body {
 border-radius:10px;
 box-shadow:0 0 15px 4px rgba(0,0,0,0.06);
 }
+/* spinner style following*/
+#loader {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  z-index: 1;
+  width: 60px;
+  height: 60px;
+  margin: -76px 0 0 -76px;
+  border: 16px solid #f3f3f3;
+  border-radius: 50%;
+  border-top: 16px solid #3498db;
+  -webkit-animation: spin 2s linear infinite;
+  animation: spin 2s linear infinite;
+}
+
+@-webkit-keyframes spin {
+  0% { -webkit-transform: rotate(0deg); }
+  100% { -webkit-transform: rotate(360deg); }
+}
+
+@keyframes spin {
+  0% { transform: rotate(0deg); }
+  100% { transform: rotate(360deg); }
+}
+
+/* Add animation to "page content" */
+.animate-bottom {
+  position: relative;
+  -webkit-animation-name: animatebottom;
+  -webkit-animation-duration: 1s;
+  animation-name: animatebottom;
+  animation-duration: 1s
+}
+
+@-webkit-keyframes animatebottom {
+  from { bottom:-100px; opacity:0 } 
+  to { bottom:0px; opacity:1 }
+}
+
+@keyframes animatebottom { 
+  from{ bottom:-100px; opacity:0 } 
+  to{ bottom:0; opacity:1 }
+}
+
 </style>
 
 </head>
@@ -82,12 +128,13 @@ box-shadow:0 0 15px 4px rgba(0,0,0,0.06);
 height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <!-- End Google Tag Manager (noscript) -->
 <div class="topnav">
-  <a class="active" href="./index.html">Főoldal</a>
+  <a href="./index.html">Főoldal</a>
+  <a class="active" href="">Akciók</a>
+  <a href="./help.html">Keresési útmutató</a>
   <a href="https://kisgomboc.wordpress.com/">Blog</a>
   <a href="https://www.facebook.com/Kisg%C3%B6mb%C3%B6c-112537700651875/">Facebook</a>
-  
 </div>
-
+<div id="loader"></div>
 <input class="inputmezo" placeholder="Szűrés:árucikk,bolt" id="myInput" type="text" />
 
 <div class="limiter">
@@ -631,7 +678,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 	</div>
 
 
-	
 
 <!--===============================================================================================-->	
 	<script src="vendor/jquery/jquery-3.2.1.min.js"></script>
@@ -646,21 +692,71 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 
 <script>
+// get the content of the "filter" query param or set empty string if param is not set
+const filterText = new URLSearchParams(window.location.search).get('filter') || '';
+const noText = new URLSearchParams(window.location.search).get('notext') || '';
+
+// set the search input value
+document.querySelector('#myInput').value = filterText ;
+// call viewTable regardless of the content, the function should handle empty string anyway
+viewTable(filterText,noText);
+
+function viewTable(filterText,noText) {
+  const filterElements = filterText.toLowerCase().split(',').filter(function(e){ return e === 0 || e });
+  const notextElements = noText.toLowerCase().split(',').filter(function(e){ return e === 0 || e });
+
+
+  const tableRows = document.querySelector("#myTable tbody").rows; 
+  
+  for (var row of tableRows) {
+    const itemName = row.cells[0].textContent.toLowerCase();
+    const shopName = row.cells[5].textContent.toLowerCase();
+    let shouldBeVisible = true;
+    
+    if(filterElements.length > 0) {
+	 shouldBeVisible = filterElements.some(filterElement => {
+	 const sbv = (itemName.includes(filterElement) || shopName.includes(filterElement)) 
+           	&& !notextElements.some(notextElement => {
+                return itemName.includes(notextElement) || shopName.includes(notextElement);
+                });
+           return sbv;
+           });
+         }
+    else {
+    	shouldBeVisible = !notextElements.some(notextElement => {
+           return itemName.includes(notextElement) || shopName.includes(notextElement);
+           });
+        };
+    row.style.display = shouldBeVisible ? '' : 'none' 
+    };
+    document.getElementById("loader").style.display = "none";
+};
+
+// Returns a function, that, as long as it continues to be invoked, will not
+// be triggered. The function will be called after it stops being called for
+// `wait` milliseconds.
+const debounce = (func, wait) => {
+  let timeout;
+
+  return function executedFunction(...args) {
+    const later = () => {
+      clearTimeout(timeout);
+      func(...args);
+    };
+
+    clearTimeout(timeout);
+    timeout = setTimeout(later, wait);
+  };
+};
+
+var returnedFunction = debounce(function(event,noText) {
+  viewTable(event.target.value,noText); 
+}, 700);
 
 function filterTable(event) {
-    var filter = event.target.value.toUpperCase();
-    var rows = document.querySelector("#myTable tbody").rows;
-    
-    for (var i = 0; i < rows.length; i++) {
-        var firstCol = rows[i].cells[0].textContent.toUpperCase();
-        var secondCol = rows[i].cells[5].textContent.toUpperCase();
-        if (firstCol.indexOf(filter) > -1 || secondCol.indexOf(filter) > -1) {
-            rows[i].style.display = "";
-        } else {
-            rows[i].style.display = "none";
-        }      
-    }
-}
+document.getElementById("loader").style.display = "block";
+returnedFunction(event,noText);
+};
 
 document.querySelector('#myInput').addEventListener('keyup', filterTable, false);
 
