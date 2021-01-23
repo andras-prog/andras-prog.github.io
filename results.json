@@ -236,6 +236,19 @@
   {
     "azon": "TESCO",
     "forras": "",
+    "termeknev": "Friss magyar sertéscomb",
+    "termekar": "1049 Ft ",
+    "termekcur": "",
+    "termekmenny": " csont nélkül, húspultban kapható ",
+    "tarfajl": "",
+    "tarfajlmert": "",
+    "disc": "-30%",
+    "erv": "2021.02.03",
+    "termeklink": "https://bevasarlas.tesco.hu/groceries/hu-HU/products/2004007357660"
+  },
+  {
+    "azon": "TESCO",
+    "forras": "",
     "termeknev": "Friss magyar sertésoldalas",
     "termekar": "1299 Ft ",
     "termekcur": "",
@@ -263,9 +276,9 @@
     "azon": "TESCO",
     "forras": "",
     "termeknev": "Friss pulykafelsőcomb, Friss pulyka-alsócomb",
-    "termekar": "499 Ft ",
+    "termekar": "499 Ft",
     "termekcur": "",
-    "termekmenny": " Friss pulyka-alsócomb: baromfipultban kapható, Friss pulykafelsőcomb: baromfipultban kapható, 1299 Ft/kg, 899 Ft/kg ",
+    "termekmenny": "Friss pulyka-alsócomb: baromfipultban kapható, Friss pulykafelsőcomb: baromfipultban kapható, 1299 Ft/kg, 899 Ft/kg",
     "tarfajl": "",
     "tarfajlmert": "",
     "disc": "-28%",
@@ -379,19 +392,6 @@
   {
     "azon": "TESCO",
     "forras": "",
-    "termeknev": "Pick májas",
-    "termekar": "299 Ft",
-    "termekcur": "",
-    "termekmenny": "kétféle, 150 g",
-    "tarfajl": "(1 kg = 1993 Ft)",
-    "tarfajlmert": "",
-    "disc": "-31%",
-    "erv": "2021.01.27",
-    "termeklink": "https://bevasarlas.tesco.hu/groceries/hu-HU/products/2004009782828"
-  },
-  {
-    "azon": "TESCO",
-    "forras": "",
     "termeknev": "Ananász",
     "termekar": "399 Ft ",
     "termekcur": "",
@@ -444,6 +444,19 @@
   {
     "azon": "TESCO",
     "forras": "",
+    "termeknev": "Fehér pomelo",
+    "termekar": "399 Ft ",
+    "termekcur": "",
+    "termekmenny": " ",
+    "tarfajl": "",
+    "tarfajlmert": "",
+    "disc": "-33%",
+    "erv": "2021.02.03",
+    "termeklink": "https://bevasarlas.tesco.hu/groceries/hu-HU/products/2004003253287"
+  },
+  {
+    "azon": "TESCO",
+    "forras": "",
     "termeknev": "Gála alma",
     "termekar": "349 Ft ",
     "termekcur": "",
@@ -457,10 +470,23 @@
   {
     "azon": "TESCO",
     "forras": "",
-    "termeknev": "Hegyes erőspaprika",
-    "termekar": "79 Ft ",
+    "termeknev": "Golden alma",
+    "termekar": "329 Ft",
     "termekcur": "",
-    "termekmenny": " ",
+    "termekmenny": "",
+    "tarfajl": "",
+    "tarfajlmert": "",
+    "disc": "-34%",
+    "erv": "",
+    "termeklink": "https://tesco.hu/akciok/akcios-termekek/termek/hm/zoldseg-gyumolcs/gyumolcsok/golden-alma/"
+  },
+  {
+    "azon": "TESCO",
+    "forras": "",
+    "termeknev": "Hegyes erőspaprika",
+    "termekar": "79 Ft",
+    "termekcur": "",
+    "termekmenny": "",
     "tarfajl": "",
     "tarfajlmert": "",
     "disc": "-20%",
@@ -531,6 +557,19 @@
     "disc": "-21%",
     "erv": "2021.01.27",
     "termeklink": "https://bevasarlas.tesco.hu/groceries/hu-HU/products/2004008224596"
+  },
+  {
+    "azon": "TESCO",
+    "forras": "",
+    "termeknev": "Narancs",
+    "termekar": "299 Ft",
+    "termekcur": "",
+    "termekmenny": "1 kg",
+    "tarfajl": "",
+    "tarfajlmert": "",
+    "disc": "-37%",
+    "erv": "2021.02.03",
+    "termeklink": "https://bevasarlas.tesco.hu/groceries/hu-HU/products/2004008293660"
   },
   {
     "azon": "TESCO",
@@ -1662,19 +1701,6 @@
     "disc": "",
     "erv": " 01.24.",
     "termeklink": "https://www.lidl.hu/hu/p/zoeldseg-gyuemoelcs-ajanlataink-01-21-csuetoertoektol/piros-alma/p86084"
-  },
-  {
-    "azon": "LIDL",
-    "forras": "",
-    "termeknev": "Narancs",
-    "termekar": "299",
-    "termekcur": "Ft",
-    "termekmenny": "",
-    "tarfajl": "",
-    "tarfajlmert": "",
-    "disc": "-40%",
-    "erv": " 01.24.",
-    "termeklink": "https://www.lidl.hu/hu/p/zoeldseg-gyuemoelcs-ajanlataink-01-21-csuetoertoektol/narancs/p86085"
   },
   {
     "azon": "LIDL",
@@ -4812,19 +4838,6 @@
   {
     "azon": "CBA",
     "forras": "",
-    "termeknev": "Fanta Zero szénsavas üdítőital zöldalma-lychee 0.5l",
-    "termekar": "229,- Ft/db",
-    "termekcur": "",
-    "termekmenny": "",
-    "tarfajl": " 458,00 Ft/l",
-    "tarfajlmert": "",
-    "disc": "-32%",
-    "erv": "",
-    "termeklink": "https://online.prima.hu/s/fanta-zero-szensavas-uditoital-zoldalma-lychee-0-5l-10000198740?cat=551010"
-  },
-  {
-    "azon": "CBA",
-    "forras": "",
     "termeknev": "Sprite zero citrom és lime ízű szénsavas üdítőital 0.5l",
     "termekar": "229,- Ft/db",
     "termekcur": "",
@@ -4847,6 +4860,19 @@
     "disc": "-32%",
     "erv": "",
     "termeklink": "https://online.prima.hu/s/kinley-gyomber-szensavas-uditoital-0-5l-10000013224?cat=551010"
+  },
+  {
+    "azon": "CBA",
+    "forras": "",
+    "termeknev": "Fanta Zero szénsavas üdítőital zöldalma-lychee 0.5l",
+    "termekar": "229,- Ft/db",
+    "termekcur": "",
+    "termekmenny": "",
+    "tarfajl": " 458,00 Ft/l",
+    "tarfajlmert": "",
+    "disc": "-32%",
+    "erv": "",
+    "termeklink": "https://online.prima.hu/s/fanta-zero-szensavas-uditoital-zoldalma-lychee-0-5l-10000198740?cat=551010"
   },
   {
     "azon": "CBA",
@@ -5423,19 +5449,6 @@
   {
     "azon": "CBA",
     "forras": "",
-    "termeknev": "Apenta Vitamixx üdítőital alma-mangó szénsavm.energiasz.1.5l",
-    "termekar": "179,- Ft/db",
-    "termekcur": "",
-    "termekmenny": "",
-    "tarfajl": " 119,33 Ft/l",
-    "tarfajlmert": "",
-    "disc": "-30%",
-    "erv": "",
-    "termeklink": "https://online.prima.hu/s/apenta-vitamixx-uditoital-alma-mango-szensavm-energiasz-1-5l-10000077057?cat=553020"
-  },
-  {
-    "azon": "CBA",
-    "forras": "",
     "termeknev": "Apenta üdítőital szőlő 1,5l",
     "termekar": "179,- Ft/db",
     "termekcur": "",
@@ -5445,6 +5458,19 @@
     "disc": "-30%",
     "erv": "",
     "termeklink": "https://online.prima.hu/s/apenta-uditoital-szolo-1-5l-10000027692?cat=551020"
+  },
+  {
+    "azon": "CBA",
+    "forras": "",
+    "termeknev": "Apenta Vitamixx üdítőital alma-mangó szénsavm.energiasz.1.5l",
+    "termekar": "179,- Ft/db",
+    "termekcur": "",
+    "termekmenny": "",
+    "tarfajl": " 119,33 Ft/l",
+    "tarfajlmert": "",
+    "disc": "-30%",
+    "erv": "",
+    "termeklink": "https://online.prima.hu/s/apenta-vitamixx-uditoital-alma-mango-szensavm-energiasz-1-5l-10000077057?cat=553020"
   },
   {
     "azon": "SPAR",
@@ -5527,19 +5553,6 @@
   {
     "azon": "SPAR",
     "forras": "",
-    "termeknev": "REGNUM sertéslapocka csont nélkül lédig",
-    "termekar": "999",
-    "termekcur": "Ft",
-    "termekmenny": "",
-    "tarfajl": "(999,00 Ft/kg)",
-    "tarfajlmert": "",
-    "disc": "",
-    "erv": "",
-    "termeklink": "https://www.spar.hu/onlineshop/regnum-serteslapocka-csont-nelkul-ledig/p/282055002"
-  },
-  {
-    "azon": "SPAR",
-    "forras": "",
     "termeknev": "REGNUM sertéskaraj csont nélkül",
     "termekar": "1 299",
     "termekcur": "Ft",
@@ -5549,6 +5562,19 @@
     "disc": "",
     "erv": "",
     "termeklink": "https://www.spar.hu/onlineshop/regnum-serteskaraj-csont-nelkul/p/282053008"
+  },
+  {
+    "azon": "SPAR",
+    "forras": "",
+    "termeknev": "REGNUM sertéslapocka csont nélkül lédig",
+    "termekar": "999",
+    "termekcur": "Ft",
+    "termekmenny": "",
+    "tarfajl": "(999,00 Ft/kg)",
+    "tarfajlmert": "",
+    "disc": "",
+    "erv": "",
+    "termeklink": "https://www.spar.hu/onlineshop/regnum-serteslapocka-csont-nelkul-ledig/p/282055002"
   },
   {
     "azon": "SPAR",
@@ -5692,19 +5718,6 @@
     "disc": "",
     "erv": "",
     "termeklink": "https://www.spar.hu/onlineshop/regnum-sertes-lapocka-csont-nelkul/p/422929002"
-  },
-  {
-    "azon": "SPAR",
-    "forras": "",
-    "termeknev": "SPAR friss csirke levescsomag",
-    "termekar": "449",
-    "termekcur": "Ft",
-    "termekmenny": "",
-    "tarfajl": "(449,00 Ft/kg)",
-    "tarfajlmert": "",
-    "disc": "",
-    "erv": "",
-    "termeklink": "https://www.spar.hu/onlineshop/spar-friss-csirke-levescsomag/p/480199003"
   },
   {
     "azon": "SPAR",
@@ -6294,19 +6307,6 @@
   {
     "azon": "SPAR",
     "forras": "",
-    "termeknev": "Apenta Light málna enyhén szénsavas üdítőital édesítőszerekkel 1,5 l",
-    "termekar": "179",
-    "termekcur": "Ft",
-    "termekmenny": "",
-    "tarfajl": "(119,33 Ft/l)",
-    "tarfajlmert": "",
-    "disc": "",
-    "erv": "",
-    "termeklink": "https://www.spar.hu/onlineshop/apenta-light-malna-enyhen-szensavas-uditoital-edesitoszerekkel-15-l/p/411687005"
-  },
-  {
-    "azon": "SPAR",
-    "forras": "",
     "termeknev": "SPAR 100% narancslé 1 l",
     "termekar": "299",
     "termekcur": "Ft",
@@ -6316,6 +6316,19 @@
     "disc": "",
     "erv": "",
     "termeklink": "https://www.spar.hu/onlineshop/spar-100-narancsle-1-l/p/500055005"
+  },
+  {
+    "azon": "SPAR",
+    "forras": "",
+    "termeknev": "Apenta Light málna enyhén szénsavas üdítőital édesítőszerekkel 1,5 l",
+    "termekar": "179",
+    "termekcur": "Ft",
+    "termekmenny": "",
+    "tarfajl": "(119,33 Ft/l)",
+    "tarfajlmert": "",
+    "disc": "",
+    "erv": "",
+    "termeklink": "https://www.spar.hu/onlineshop/apenta-light-malna-enyhen-szensavas-uditoital-edesitoszerekkel-15-l/p/411687005"
   },
   {
     "azon": "SPAR",
@@ -6359,19 +6372,6 @@
   {
     "azon": "SPAR",
     "forras": "",
-    "termeknev": "S-Budget sertés darálthús 900 g",
-    "termekar": "889",
-    "termekcur": "Ft",
-    "termekmenny": "",
-    "tarfajl": "(987,78 Ft/kg)",
-    "tarfajlmert": "",
-    "disc": "",
-    "erv": "",
-    "termeklink": "https://www.spar.hu/onlineshop/s-budget-sertes-daralthus-900-g/p/480682000"
-  },
-  {
-    "azon": "SPAR",
-    "forras": "",
     "termeknev": "SPAR szeletelt sertéssonka 100 g",
     "termekar": "249",
     "termekcur": "Ft",
@@ -6381,6 +6381,19 @@
     "disc": "",
     "erv": "",
     "termeklink": "https://www.spar.hu/onlineshop/spar-szeletelt-sertessonka-100-g/p/423842003"
+  },
+  {
+    "azon": "SPAR",
+    "forras": "",
+    "termeknev": "S-Budget sertés darálthús 900 g",
+    "termekar": "889",
+    "termekcur": "Ft",
+    "termekmenny": "",
+    "tarfajl": "(987,78 Ft/kg)",
+    "tarfajlmert": "",
+    "disc": "",
+    "erv": "",
+    "termeklink": "https://www.spar.hu/onlineshop/s-budget-sertes-daralthus-900-g/p/480682000"
   },
   {
     "azon": "SPAR",
@@ -6528,6 +6541,19 @@
   {
     "azon": "SPAR",
     "forras": "",
+    "termeknev": "REGNUM Marhacomb csont nélkül",
+    "termekar": "2 990",
+    "termekcur": "Ft",
+    "termekmenny": "",
+    "tarfajl": "(2 990,00 Ft/kg)",
+    "tarfajlmert": "",
+    "disc": "",
+    "erv": "",
+    "termeklink": "https://www.spar.hu/onlineshop/regnum-marhacomb-csont-nelkul/p/345756006"
+  },
+  {
+    "azon": "SPAR",
+    "forras": "",
     "termeknev": "SPAR félzsíros, homogénezett, élőflórás tejföl 12% 850 g",
     "termekar": "389",
     "termekcur": "Ft",
@@ -6537,19 +6563,6 @@
     "disc": "",
     "erv": "",
     "termeklink": "https://www.spar.hu/onlineshop/spar-felzsiros-homogenezett-elofloras-tejfol-12-850-g/p/498001008"
-  },
-  {
-    "azon": "SPAR",
-    "forras": "",
-    "termeknev": "S-Budget gyorsfagyasztott sárgahüvelyű vágott zöldbab 1000 g",
-    "termekar": "359",
-    "termekcur": "Ft",
-    "termekmenny": "",
-    "tarfajl": "(359,00 Ft/kg)",
-    "tarfajlmert": "",
-    "disc": "",
-    "erv": "",
-    "termeklink": "https://www.spar.hu/onlineshop/s-budget-gyorsfagyasztott-sargahuvelyu-vagott-zoldbab-1000-g/p/327276003"
   },
   {
     "azon": "SPAR",
@@ -6580,19 +6593,6 @@
   {
     "azon": "SPAR",
     "forras": "",
-    "termeknev": "Ooops! Classic Sensitive papírzsebkendő 3 rétegű 90 db",
-    "termekar": "179",
-    "termekcur": "Ft",
-    "termekmenny": "",
-    "tarfajl": "(1,99 Ft/db)",
-    "tarfajlmert": "",
-    "disc": "",
-    "erv": "",
-    "termeklink": "https://www.spar.hu/onlineshop/ooops-classic-sensitive-papirzsebkendo-3-retegu-90-db/p/423421000"
-  },
-  {
-    "azon": "SPAR",
-    "forras": "",
     "termeknev": "SPAR paprikás szalámi 100 g",
     "termekar": "399",
     "termekcur": "Ft",
@@ -6602,6 +6602,19 @@
     "disc": "",
     "erv": "",
     "termeklink": "https://www.spar.hu/onlineshop/spar-paprikas-szalami-100-g/p/405683006"
+  },
+  {
+    "azon": "SPAR",
+    "forras": "",
+    "termeknev": "Ooops! Classic Sensitive papírzsebkendő 3 rétegű 90 db",
+    "termekar": "179",
+    "termekcur": "Ft",
+    "termekmenny": "",
+    "tarfajl": "(1,99 Ft/db)",
+    "tarfajlmert": "",
+    "disc": "",
+    "erv": "",
+    "termeklink": "https://www.spar.hu/onlineshop/ooops-classic-sensitive-papirzsebkendo-3-retegu-90-db/p/423421000"
   },
   {
     "azon": "SPAR",
@@ -6749,19 +6762,6 @@
   {
     "azon": "SPAR",
     "forras": "",
-    "termeknev": "Queen cola ízű energiaszegény szénsavas üdítőital cukorral és édesítőszerekkel 2,5 l",
-    "termekar": "189",
-    "termekcur": "Ft",
-    "termekmenny": "",
-    "tarfajl": "(75,60 Ft/l)",
-    "tarfajlmert": "",
-    "disc": "",
-    "erv": "",
-    "termeklink": "https://www.spar.hu/onlineshop/queen-cola-izu-energiaszegeny-szensavas-uditoital-cukorral-es-edesitoszerekkel-25-l/p/349067009"
-  },
-  {
-    "azon": "SPAR",
-    "forras": "",
     "termeknev": "S-Budget piros alma 2 kg",
     "termekar": "679",
     "termekcur": "Ft",
@@ -6775,11 +6775,24 @@
   {
     "azon": "SPAR",
     "forras": "",
-    "termeknev": "Lurpak enyhén sózott kenhető keverék készítmény 200 g",
-    "termekar": "659",
+    "termeknev": "Queen cola ízű energiaszegény szénsavas üdítőital cukorral és édesítőszerekkel 2,5 l",
+    "termekar": "189",
     "termekcur": "Ft",
     "termekmenny": "",
-    "tarfajl": "(3 295,00 Ft/kg)",
+    "tarfajl": "(75,60 Ft/l)",
+    "tarfajlmert": "",
+    "disc": "",
+    "erv": "",
+    "termeklink": "https://www.spar.hu/onlineshop/queen-cola-izu-energiaszegeny-szensavas-uditoital-cukorral-es-edesitoszerekkel-25-l/p/349067009"
+  },
+  {
+    "azon": "SPAR",
+    "forras": "",
+    "termeknev": "Lurpak enyhén sózott kenhető keverék készítmény 200 g",
+    "termekar": "799",
+    "termekcur": "Ft",
+    "termekmenny": "",
+    "tarfajl": "(3 995,00 Ft/kg)",
     "tarfajlmert": "",
     "disc": "",
     "erv": "",
@@ -6836,6 +6849,19 @@
     "disc": "",
     "erv": "",
     "termeklink": "https://www.spar.hu/onlineshop/spar-orso-negytojasos-szarazteszta-500-g/p/318456001"
+  },
+  {
+    "azon": "SPAR",
+    "forras": "",
+    "termeknev": "Sió Natura 100% szűrt almalé 1 l",
+    "termekar": "369",
+    "termekcur": "Ft",
+    "termekmenny": "",
+    "tarfajl": "(369,00 Ft/l)",
+    "tarfajlmert": "",
+    "disc": "",
+    "erv": "",
+    "termeklink": "https://www.spar.hu/onlineshop/sio-natura-100-szurt-almale-1-l/p/379614006"
   },
   {
     "azon": "PENNY",
