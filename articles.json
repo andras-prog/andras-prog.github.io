@@ -1,0 +1,944 @@
+[
+    {
+        "topic": "okosbev",
+        "picarr": [
+            {
+                "picture": "https://kisgomboc.files.wordpress.com/2020/11/save-3451075_1920.jpg",
+                "timestamp": 1610833951968
+            },
+            {
+                "picture": "https://kisgomboc.files.wordpress.com/2020/11/shopping-cart-1269166_1920.jpg",
+                "timestamp": 1610834795396
+            },
+            {
+                "picture": "https://kisgomboc.files.wordpress.com/2021/01/recipe-575434_1280.png",
+                "timestamp": 1610833974583
+            },
+            {
+                "picture": "https://kisgomboc.files.wordpress.com/2020/12/tumblr_m67b36zpa41rv68gho1_500.jpg",
+                "timestamp": 1610833988703
+            }
+        ],
+        "titlearr": [
+            {
+                "title": "Így vásárol a tudatos vásárló",
+                "timestamp": 1610833603528
+            },
+            {
+                "title": "A profi bevásárlás titka",
+                "timestamp": 1610834795396
+            },
+            {
+                "title": "Olcsón és gyorsan? Az okos bevásárlás szabályai",
+                "timestamp": 1610833938968
+            },
+            {
+                "title": "Tudatos vásárlás: 7 tipp, hogyan legyél tudatos vásárló",
+                "timestamp": 1610833951968
+            },
+            {
+                "title": "Hogyan vásárolj okosan?",
+                "timestamp": 1610833963168
+            },
+            {
+                "title": "A spórolás művészete",
+                "timestamp": 1610833974583
+            },
+            {
+                "title": "7 egyszerű trükk, amivel észrevétlenül rengeteg pénzt spórolhatsz",
+                "timestamp": 1610833988703
+            },
+            {
+                "title": "Így vedd fel a harcot a reklámokkal",
+                "timestamp": 2010811287658
+            },
+            {
+                "title": "Hogyan spórolj a bevásárláson?",
+                "timestamp": 3310811287658
+            },
+{
+                "title": "A hatékony bevásárlás-titka",
+                "timestamp": 3310811287658
+            },
+            {
+                "title": "A bevásárlás 7 aranyszabálya",
+                "timestamp": 8610811287658
+            }
+        ],
+        "leadarr": [
+            {
+                "lead": "Te is érezted már úgy egy nagyobb bevásárlás után, hogy gyakorlatilag kiraboltak. Tényleg szükséges, hogy hétvégente tízezreket hagyj az áruházakban? Az alábbi cikkben ötleteket adunk az okos és takarékos vásárláshoz. ",
+                "timestamp": 1610833858448
+            },
+            {
+                "lead": "Hogyan lehet viszonylag olcsón, egyszerűen, környezettudatosan étkezni, és hogyan kerülhetjük ki a szupermarketek, termékcsomagolások reklámcsapdáit? Ebben a cikkben ezekre a kérdésekre keressük a válaszokat.",
+                "timestamp": 1610834795396
+            },
+            {
+                "lead": "A pszichológiai árképzés olyan stratégia, amelyben az eladó a vásárlók érzelmi reakcióit felhasználva igyekszik befolyásolni a vásárlási döntést, ezzel növelve az értékesítés sikerességét. A termékek stratégiai árazásával egy kereskedő anélkül fokozhatja értékesítését, hogy jelentősen csökkentené árait, sőt akár magasabb árakat használva is többet adhat el. Ebben a harcban jelenleg vesztésre állsz. De egy kis felkészüléssel kikerülheted a felépített pszichológiai csapdák jelentős részét.",
+                "timestamp": 1610833938968
+            },
+            {
+                "lead": "Az élelmiszervásárlás valakinek felesleges és időrabló kötelesség, míg mások imádnak a sorok között barangolni és akár 2-3 órát is elütni azzal, hogy felfedezik az áruházak kínálatát. Ám sem a túlzott rohanás, sem pedig a céltalan lődörgés nem túl hatékony. De akkor hogyan vásároljunk okosan?",
+                "timestamp": 1610833951968
+            },
+            {
+                "lead": "Vásárolni nem egyszerű feladat, főleg azért, mert rengeteg idő és energia. Az elmúlt időszakban sokat fejlődtem, így egyre tudatosabbá válok a témában. Most néhány ötletet írok nektek, amivel megkönnyítitek a saját életetek.",
+                "timestamp": 1610833963168
+            },
+            {
+                "lead": "A háztartások évente rengeteg élelmiszert dobnak ki évente a világ minden táján. Sajnos a pazarlás a jellemző idehaza is. Megállításához mi magunk is sokat tehetünk. Hogyan?",
+                "timestamp": 1610833974583
+            },
+            {
+                "lead": "Szeretnél spórolni, de az ételek minőségéből sem akarsz lejjebb adni? Így takarékoskodj okosan!",
+                "timestamp": 1610833988703
+            }
+        ],
+        "contentarr": [
+            {
+                "content": "Használj árösszehasonlító oldalakat! A datapub.eu, az arukereso.hu, az argep.hu, és még számos olyan oldal létezik külföldön és hazánkban egyaránt, ahol azon felül, hogy a különböző áruházak egy bizonyos termékre adott árát összehasonlíthatod, hasznos véleményeket is olvashatsz az eladók hozzáállásáról, precizitásáról és összességében a szolgáltatás minőségéről. Szánj erre időt, hiszen amellett, hogy spórolhatsz, egyúttal meg is nyugodhatsz, hogy megbízható helyről rendeltél.",
+                "timestamp": 1610833839611
+            },
+            {
+                "content": "Az internetes vásárlás nagyszerű dolog. Otthonról kényelmesen vásárolhatunk, gyakran sokat spórolva a bolti árhoz képest. Az árakat is össze tudjuk hasonlítani, nem egy áruházban kell kitalálnunk a polc előtt állva, hogy az adott termék drága vagy olcsó ennyiért. Azonban van egy komoly veszélye is az internetes vásárlásnak, ez pedig az egy kattintásos vásárlás. Rákattintunk egy reklámra, egy kihagyhatatlan akcióra, és pár pillanat gondolkodás után meg is veszünk (az Egyesült Államokban az online vásárlások közel 40%-a impulzív, előre nem tervezett vásárlás egy felmérés szerint). Ennek elkerüléséhez soha ne használjuk az egy kattintásos vásárlás lehetőségét. Kapcsoljuk ki az automatikus jelszó megjegyzést, ha lehetséges egyáltalán ne regisztráljunk az adott oldalon, ne válasszuk a bankkártya adatok elmentése opciót. Értékhatártól függően (mondjuk 10eFt felett) jelölj ki magadnak kötelező gondolkodási időt. Minél nehezebbé teszed magad számára a vásárlást, minél több időt hagysz az átgondolásra, annál ritkábban esel majd az impulzív vásárlás bűnébe.",
+                "timestamp": 1610833849125
+            },
+            {
+                "content": "Nagyobb vásárlások előtt, aludj rá egyet. 50 ezer forint felett tartsd be a 14 napos szabályt: legalább ennyit gondolj a vásárláson, igazán nagy dolgokon (mint például autóvásárlás), akár néhány hónapot is elgondolkodhatsz. Lehet, hogy a végén teljesen más árucikket veszel, mint amit akartál, ha mégis lecseréled a mostanit. Ha nem akarod, hogy tele legyen kacattal a házad, lakásod, szánj időt az átgondolásra.",
+                "timestamp": 1610833877391
+            },
+            {
+                "content": "A villámleárazás trükkje. Hirtelenség, sürgősség, illékonyság. Kedvezmények és akciók, amelyek azt sugallják, nincs idő várni, mert a lehetőség, hogy igazán jól járjunk, csak nagyon rövid ideig áll fönn. Aki lemarad, az bizony kimarad és ki tudja, mikor adódik még egyszer ennyire jó alkalom? Jól használható hűségakciókhoz is, ami az abszolút win-win játszma, hiszen megjutalmazza a lojális vevőt, mozgatja az árukészletet és forgalmat generál. Gyakori eladási technika internetes áruházaknál.",
+                "timestamp": 1610833938968
+            },
+            {
+                "content": "Vásárlás a weben. Csak biztonságos fizetési megoldást használj! Keress az oldalon Visa, MasterCard, Maestro, American Express logókat, hiszen ezek a pénzügyi intézmények csak megbízható, előzetes pénzügyi átvilágítást követően kötnek szerződést partnereikkel. Akiben ők megbíznak, abban nagy valószínűséggel te is megbízhatsz.",
+                "timestamp": 1610833938969
+            },
+            {
+                "content": "Vásárolj annyit, amennyire szükséged van. Azon túl, hogy a zöldségek, a gyümölcsök a húsok és a szalámik csomagolása a környezetet is szennyezi, nem feltétlen a leggazdaságosabb megoldások. Rendszerint nincs annyi étel a csomagban, mint amennyire szükséged van, vagy túl sokat kell egyszerre megvenned, miközben a csomagolást is kénytelen vagy kifizetni. Az előre csomagolt helyett válassz friss ételeket, és a mennyiségen sem kell aggódnod.",
+                "timestamp": 1610833951968
+            },
+            {
+                "content": "Ismerd meg a horgonyzás eladási taktikáját! Fogjunk egy egyszerű terméket és találjuk ki a prémium változatát, amit ruházzunk fel extrákkal és kínáljunk lényegesen drágábban. Ez a drágább változat a horgony. A vásárlók ezután alkuképesebbnek mutatkoznak az eredeti termék megvásárlására akkor is, ha annak árán egyáltalán nem változtatunk, hiszen a horgonyhoz képest jobbnak látszik az ajánlat. Főként az eredeti termék eladásait növelhetjük így, a horgonyt nyilván kevesen veszik majd meg, de pont ez a lényeg, hiszen az akció nekünk szinte semmibe sem kerül. Ha pedig valaki mégis prémiumot vásárol, az tiszta nyereség. Éttermek menülapján is gyakran alkalmazott technika.",
+                "timestamp": 1610833951968
+            },
+            {
+                "content": "Soha ne menjünk éhesen vagy szomjasan vásárolni: aki így tesz, az garantáltan sokkal több terméket fog megvenni, mint amit a listájára felírt, hiszen a szeme mindent megkíván.",
+                "timestamp": 1610833951968
+            },
+            {
+                "content": "Egy héten egyszer menj bevásárolni. Minél többször mész, annál több felesleges dolgot fogsz venni. Olvasd el mindig, mikor jár le az áruházban az előre kirakott romlandó termék a polcon. Ne vidd haza a sonkát, sajtot, tejfölt ha két nap múlva le fog járni a szavatossága. Inkább nyúlj be hátra és onnan vedd ki a még két-három hétig jó terméket.",
+                "timestamp": 1610833951968
+            },
+            {
+                "content": "Soha ne vásárolj unalomból, depresszió, csalódottság vagy frusztráltság miatt. Egy felmérés szerint az emberek közel harmada szokott vásárolni stresszhelyzet esetén, így akarva levezetni a feszültséget. Vannak emberek, akik vásárlás-függők. Ez ugyanolyan szenvedélybetegség, mint az alkoholizmus és a legtöbbször ugyanúgy szakember segítsége kell a szabaduláshoz. Figyeld meg magad: kibírsz-e egy hetet úgy, hogy nem veszel semmit? Ideges és ingerült vagy-e, ha nem tudsz vásárolni menni, vagy ha még semmit nem rendeltél a héten az internetről? Ha igen, ne szégyellj segítséget kérni szakembertől.",
+                "timestamp": 1610833963168
+            },
+            {
+                "content": "Főzz le többfajta ételből nagy adagokat és kiporciózva tedd el a mélyhűtőbe. Utána ezeket az ételeket el tudod vinni munkahelyi ebédnek, felváltva, így meg sem unod őket. Nemcsak pénzt, időt is rengeteget spórolsz a nagy tételben való főzéssel. Ne felejtsd el felcímkézni a dobozokat dátummal és fogyaszd el mindet 3-6 hónap alatt. Ha az átlagos munkahelyi éttermi ár helyett a harmadából megúszod az ebédet, nagyon sokat spórolhatsz. Egy nyaralás árát.",
+                "timestamp": 1610833963168
+            },
+            {
+                "content": "Ne csak a márkajelzést nézd! Az ételek csomagolásán az összetevők címkéjét nézd, ne a márkajelzést. Fontos, hogy jó minőségű ételek kerüljenek az asztalra, azonban ezt nem csak a nagy márkáktól kaphatod meg. Sokszor az áruházak saját márkás termékei, vagy azok az ismeretlen márkák, amik nem feltétlen kerülnek a szemmagasságba a polcokon, ugyanazt a minőséget kínálják, mint a nagyok, csak olcsóbban.",
+                "timestamp": 1610833963169
+            },
+            {
+                "content": "Egyre több boltban találkozhatunk értékcsökkentett termékekkel. Ezek sokszor a közelgő lejárati idő, vagy valamilyen apróbb sérülés miatt kerülnek akár 50 százalékkal kevesebbe. Márpedig mondjuk egy konzervnél nem igazán számít, ha picit benyomódott a doboza. Figyelj arra, hogy egyértelműen rajta legyen a terméken az értékcsökkentést jelző matrica, máskülönben a pénztáros nem számítja majd be a kedvezményt!Szerte az országban találhatsz olyan boltokat, amelyek kimondottan arra szakosodtak, hogy jelentős kedvezménnyel árusítsanak kis mértékben sérült, karcolt tartós fogyasztási cikkeket, műszaki termékeket.",
+                "timestamp": 1610833963169
+            },
+            {
+                "content": "Attól, hogy valami akciós, még nem biztos, hogy az a legolcsóbb a saját kategóriájában. Láss tovább az akciós táblánál, meg a leginkább szembetűnő helyre pakolt áruknál, és nézz körbe, hogy a normál áras termékek mennyibe kerülnek.",
+                "timestamp": 1610833963169
+            },
+            {
+                "content": "Az élelmiszerek csomagolása sok mindent elárul a megvásárolni kívánt termékről.Jó, ha tudjuk, hogy a forgalmazókat törvény kötelezi, hogy minden félkész illetve feldolgozott élelmiszeren feltüntessék, hogy pontosan mit is tartalmaz. Ennek megfelelően egyrészt láthatjuk a készítmény összetevőlistáját a mennyiségük sorrendjében, valamint találhatunk a címkén egy táblázatot is, amely megmutatja, hogy a termék mennyi energiát, fehérjét, szénhidrátot, zsírt esetleg rostot és nátriumot tartalmaz. Egyes leírásokban még azt is megnézhetjük, hogy vitaminokból és ásványi anyagokból mennyi található az adott ételben. Amit érdemes még keresni a címkén az a különféle tartósítószerek, ízfokozók, színezőanyagok, ezekből minél kevesebbet vagy ha lehet, semmit se tartalmazzon a kiválasztott élelmiszer.",
+                "timestamp": 1610833963169
+            },
+            {
+                "content": ": A szupermarketekben szemmagasságba teszik a nagy hasznot generáló, drága és sokat hirdetett termékeket, míg az olcsó, de ugyanolyan jó társaikat eldugják az alsó polcokra. Kezdd ott a keresést.",
+                "timestamp": 1610833974583
+            },
+            {
+                "content": "Kapcsold ki a tévét és küld ki a gyerekeket a kertbe. Így több legyet is ütsz egy csapásra. A jó levegőn lesznek, sokkal kevesebb chips fogy és azokat a játékokat sem kell megvenned, amiket a reklámokban látnak. Szervezd magad a nyaralásod. Meg fogsz lepődni, mennyivel olcsóbb saját szervezésben utazni, mint utazási irodán keresztül. Ha csak a felét spórolod meg, még nem tudsz minden trükköt. Az internet korában nem nagy dolog olcsó repülőjegyet és szállást találni. Keress olcsó családi programokat. Nem kell mindig vásárolni menni, meg étterembe járni a családdal. Egy nagy kirándulás, kerékpározás, szánkózás sokkal jobb program és még pénzbe sem kerül.",
+                "timestamp": 1610833974583
+            },
+            {
+                "content": "Fehér kenyér helyett válaszd a barnát! Tény, hogy a teljes kiőrlésű és a különböző rozskenyerek nem olcsóbbak a fehér kenyérnél, azonban hosszútávon mégis pénzt takaríthatsz meg. Mivel a fehér kenyérnél sokkal jobban telítenek, ezért kisebb adagtól is hamarabb jóllakhatsz, miközben az egészségednek is jót teszel. De a legjobb, ha saját magad készíted el a kenyeredet!",
+                "timestamp": 1610833974583
+            },
+            {
+                "content": "Bájos árak megadása is jellemző kereskedelmi taktika. Ez talán a legismertebb és legegyszerűbb árazási stratégia, amikor egy terméket azáltal teszünk vonzóvá, hogy az ára relatíve alacsonyabbnak tűnik, mint amennyibe valójában kerül. Minden ár 9-re vagy 90-re végződik, így a vásárló pszichésen olcsóbbnak találja, mivel balról kezdi olvasni az árat. Annyira elterjedt, hogy szinte nem is találunk olyan áruházat, amelyik nem alkalmazza, de a plázákban sem igen kerül semmi 500 forintba, csakis 490-be. Mindig kerekíts felfelé!",
+                "timestamp": 1610833974583
+            },
+            {
+                "content": "Vásárlás a weben. Légy körültekintő. Gyanúra adhat okot, ha nem találsz az oldalon alapvető információkat arról, hogy milyen cégtől is veszed pontosan a terméket, szolgáltatást, hogyan lehet velük felvenni a kapcsolatot, mikor alapultak. Ha egy csaló webshoptól rendeltél, jó eséllyel nem kapsz ÁFÁ-s számlát sem, maximum egy szállítólevéllel próbálják megnyugtatni a lelkedet. Azt se feledd el, hogy egy megbízható webáruház mindig feltünteti a szolgáltatási feltételeit és az adatvédelmi irányelveit.",
+                "timestamp": 1610833974583
+            },
+            {
+                "content": "Tégy fogadalmat, hogy nem veszel egészségtelen ételeket: A legtöbb élelmiszerre költött pénz a drága egészségtelen ételekre megy el, a chipsre, csokoládéra, cukros üdítőre, sült krumpira és a többi hasonlóra. Ha megfogadod, hogy mondjuk ezekre a következő három hónapban egy fillért sem költesz, egy rakás pénzt fogsz megspórolni és még fogyókúrás szerekre sem kell majd költened.",
+                "timestamp": 1610833974584
+            },
+            {
+                "content": "Az egyik legnagyobb hiba - amit a legtöbben rendszeresen elkövetünk- hogy impulzusszerűen vásárolunk, azaz mindent bedobálunk a kosárba, amiről azt gondoljuk, szükséges lehet. Ki mondta, hogy ciki listát írni? Nézd meg, mi fogyott el a konyhában, írd fel egy papírra és tedd ki a hűtőszekrény ajtajára! Mielőtt elindulsz bevásárolni, nézz körül, mi az, ami esetleg hiányozhat a papírról!",
+                "timestamp": 1610833974584
+            },
+            {
+                "content": "Magyarországon az élelmiszerek, vegyiáruk internetes vásárlásától még sokan idegenkednek, a szakemberek szerint azonban néhány éven belül igazán nagy robbanás következhet be az ágazatban. Ugyanakkor már most is rengeteg olyan webáruház található, amelyek olcsóbbak tudnak lenni a klasszikus boltoknál. Ráadásul sok esetben bizonyos értékhatár felett ingyenes a kiszállítás, így az idő mellett a benzint is megspórolhatod (és nem csábulsz el egy csokira vagy cukorkára sem).",
+                "timestamp": 1610833988703
+            },
+            {
+                "content": "Igyekezzünk olyankor indulni a beszerző körútra, amikor nincs velünk gyerek: ilyenkor ugyanis minél hamarabb túl akarunk esni az egészen és pont a tudatosság fog hiányozni a vásárlásból, ráadásul a kisgyerekek hajlamosak rá, hogy mindenféle értelmetlen dolgot megvetessenek a szülőkkel.",
+                "timestamp": 1610833988703
+            },
+            {
+                "content": "Egy felmérés szerint Nagy-Britanniában egy év alatt megháromszorozódott az üzletláncok saját márkás termékeinek értékesítése. Mi még nem tartunk itt, de nálunk is hasonló növekedés várható. Ezeket a termékeket sokszor ismert, megbízható gyártók készítik, minőségük pedig gyakran teljesen megegyezik a jóval (akár 50 százalékkal is) drágább márkás cikkekkel. Az üzletláncok ugyanis abból szereznek előnyt, hogy nagy mennyiségben, biztosan el tudják majd adni őket, ráadásul általában külön marketingre sem kell költeniük (inkább magát az áruházláncot reklámozzák).",
+                "timestamp": 1610833988703
+            },
+            {
+                "content": "Használd a '100Ft.=egy perc' kutatás szabályt. Ahány száz forintba kerül a termék, annyi időt szánj arra, hogy kiguglizd, mit is akarsz megvenni és van-e ennél jobb termék a számodra vagy máshol meg tudod-e venni olcsóbban ugyanezt. Ez sokat segít, hogy hirtelen felindulásból ne költs el százezer forintot, csak mert olvastál egy tesztet valahol és éppen akciós valami egy áruházban (miközben máshol olcsóbb akció nélkül).",
+                "timestamp": 1610833988705
+            },
+            {
+                "content": "Sohase dönts pusztán ár alapján! Kutatások azt támasztják alá, hogy a magasabb ár egy nagyon fontos szempontja a vásárlói döntéseknek – A DRÁGÁBB DOLGOKAT HATÉKONYABBNAK ÉS MAGASABB MINŐSÉGŰNEK ÍTÉLÜNK MEG, MÉG AKKOR IS, HA AZ OLCSÓBB VÁLTOZAT PONTOSAN UGYANAZZAL A TULAJDONSÁGOKKAL RENDELKEZIK. A Kaliforniai Műszaki Egyetem és a Stanford Egyetem kutatóinak tanulmánya során a kutatók mágneses képalkotó eszközöket is használtak arra, hogy megállapítsák a választás mögötti döntéseket. Azok, akik drágább bort vásárolták nem csak finomabbnak érezték az ízét, hanem az agyuk is intenzívebben reagált az élményre.",
+                "timestamp": 1610833988705
+            },
+            {
+                "content": "Mindig legyen nálad vászonszatyor. Mivel a legtöbb áruházban már nem adják ingyen a nejlon szatyrokat, ezért (is) érdemes magaddal vinned egy-két vászon cekkert, attól függően, hogy kisebb, vagy nagyobb volumenű vásárlást tervezel. Így a környezetedet sem szennyezed, és egy hónapban akár több ezer forintot is megspórolhatsz!",
+                "timestamp": 1610833988705
+            },
+            {
+                "content": "Ne dönts felületesen! Például sokan hiszik, hogy a friss gyümölcsnél nincs jobb, holott a gyorsfagyasztási technológiának köszönhetően az ilyen élelmiszereknél a C-vitamin veszteség minimális, sőt a helyben fagyasztott, majd úgy szállított zöldségek és gyümölcsök tápértéke sokszor jóval magasabb, mint az éretlenül leszedett, majd kamionban napokat, heteket utazó és végül friss-ként eladott élelmiszereké.",
+                "timestamp": 1610833988705
+            },
+            {
+                "content": "Az árukapcsolás módszere. Kapaszkodj meg: egyes emberek nem igazán szeretnek vásárolni. A modern világ még takarékosságra nevelt, ezt pedig a végletes fogyasztói kultúra sem tudta gyökerestül kiirtani: sokaknak a nehezen megkeresett pénzt kiadni foghúzáshoz hasonlatos. Ezért ahhoz, hogy mélyebben a zsebükbe nyúljanak, több dolgot adunk nekik csomagban, ami kevesebbe kerül, mintha egyesével vennék meg őket. Gondoljunk a McDonald’s hamburgereire – menüben, a Word szövegszerkesztőre az Office csomag részeként. És így tovább. Szinte minden áruház alkalmazza. Ne dőlj be neki, csak akkor vásárolj, ha a kínált mennyiségben van szükséged a termékre.",
+                "timestamp": 1610834795396
+            },
+            {
+                "content": "Raktározz a fagyasztóban! Ha van konyhakerted, vagy hozzájutsz nagyobb mennyiségű zöldséghez gyümölcshöz, akkor a fel nem használt mennyiséget fagyaszd le. A zöldségek, a bogyós gyümölcsök, az egres, a málna, a szeder, az eper, a barack, amit süteménybe, smoothie-ba szánsz, télen kifejezetten üdítő. A friss húsokat is lefagyaszthatod, csak vigyázz, mert ezek sem tárolhatók a végtelenségig.",
+                "timestamp": 1610834795396
+            },
+            {
+                "content": "Jó lesz az még fél évig. Mielőtt még kicserélnéd az ülőbútort, a mosógépet, vagy a függönyt, használd őket további fél évig. Ha mindig így teszel, az évek során egy vagyont megspórolhatsz. Adj el mindent, amit nem használsz. Nézz körül otthon és adj el mindent, amit nem használtál az elmúlt egy évben. Nézz otthon körül és adj el mindent, ami csak a helyet foglalja. Nem csak pénzt kapsz érte, de rengeteg hely is felszabadul otthon.",
+                "timestamp": 1610834795397
+            },
+            {
+                "content": "Ha bankkártyával vásárolsz, nem érzed a pénzed fogyását. Ezért hónap elején vedd ki a pénzed készpénzben, amit a bevásárlásra szánsz és tedd bele egy borítékba és abból menjél mindig bevásárolni. Így vizuálisan is látod, milyen ütemben fogy a pénz a borítékból. Tedd el a blokkot és nézd át, mi minden vettél és mennyivel költöttél többet, mint eredetileg tervezted. Látni fogod, mit vettél pluszban és ezek közül mit nem kellett volna megvenni.",
+                "timestamp": 1610834795399
+            },
+            {
+                "content": "Kerüld el az impulzusokat. Akkor menj vásárolni, amikor magadtól így döntöttél, ne más vegyen rá. Iratkozz le az összes hírlevélről, ami vásárlásra akar rávenni (A hírlevelek 99%-át ebből a célból küldik ki). Törölj le minden olyan alkalmazást a telefonodról, ami vásárlásra való, legyen az a kedvenc ruházati áruházadé, kínai webshop appja, vagy bármi hasonló. Ezek rendszerint akkor is üzenetekkel bombáznak, ha éppen meg sem nyitottad őket hetek óta. Ne olvasgass reklámkiadványokat se papír alapon, se online. Volt már olyan veled, hogy eszed ágában nem volt új tévét vagy fényképezőgépet venni, de megláttál valamit egy reklámújságban és onnantól kezdve a fene megesz, hogy vegyél egyet? Addig jó volt a régi készülék, utána nem is érted, hogy tudtál addig élni az új, trendi készülék nélkül.",
+                "timestamp": 1610834795399
+            },
+            {
+                "content": "Az elégedetlen ügyfelek sok esetben a közösségi médiához fordulnak utolsó mentsvárként. Keresd fel a webshop Facebook oldalát, olvasd el az összes véleményt, majd nézd meg, hogy az esetleges panaszokra miként reagált az eladó. Ha nem reagálnak a negatív tapasztalatokra, akkor számukra nem fontos az ügyfél és a jó hírnév. Vess egy pillantást az oldal értékelésére is. 3 csillagos átlag alatt már gondold át jó alaposan, hogy tényleg tőlük akarsz-e vásárolni.",
+                "timestamp": 1610834795399
+            },
+            {
+                "content": "Amelyik áruház számára fontos az ügyfél-elégedettség, az bizony még örülni is fog kérdéseidnek, hiszen ők is a visszajelzésekből tudnak tovább fejlődni, építkezni. Ebből adódóan írj nyugodtan nekik és figyeld meg a reakciójukat! Egy megbízható eladó 24 órán belül válaszolni fog neked, a válasz stílusa és hangvétele pedig segítőkész, tiszteletteljes lesz. A kérdésedre teljes mértékben kielégítő választ szolgáltatnak, valamint nem kifogásokat keresnek majd, hanem megoldást a problémádra.",
+                "timestamp": 1610834795399
+            }
+        ]
+    },
+    {
+        "topic": "idezetek",
+        "picarr": [
+            {
+                "picture": "pic1",
+                "timestamp": 1610811287658
+            },
+            {
+                "picture": "pic2",
+                "timestamp": 1610811287658
+            }
+        ],
+        "titlearr": [
+            {
+                "title": "Ahhoz, hogy sikeres legyél a siker iránti vágynak nagyobbnak kell lennie, mint a félelmeidnek. /Bill Cosby/",
+                "timestamp": 1610811287658
+            },
+{
+                "title": "Vagy a saját álmaidat építed fel, vagy valaki másét. /Farrah Gray/",
+                "timestamp": 1610811287658
+            },
+{
+                "title": "Az egyetlen dolog, ami közted és a célod között áll, az az ostoba történet, amit saját magadnak mesélsz arról, hogy miért vagy képtelen elérni őket. /Jordan Belfort/",
+                "timestamp": 1610811287658
+            },
+{
+                "title": "Az élet lényege nem az, hogy jó lapokat osztanak, hanem hogy a rossz lapokat milyen jól játszod ki. /Jack London/",
+                "timestamp": 1610811287658
+            },
+{
+                "title": "Az akadály az a rémisztő dolog, amelyet akkor látunk, ha levesszük szemünket a célról. /Henry Ford/",
+                "timestamp": 1610811287658
+            },
+{
+                "title": "Az emberek ritkán érnek el sikert abban, amit nem élvezettel csinálnak. /Johann Wolfgang Von Goethe/",
+                "timestamp": 1610811287658
+            },
+{
+                "title": "Az emberek elfelejtik, amiket mondtál. Az emberek elfelejtik, amiket tettél. De az emberek soha nem felejtik el, hogy hogyan érezték magukat veled. /Maya Angelou/",
+                "timestamp": 1610811287658
+            },
+{
+                "title": "A legnagyobb hiba, amit az életben elkövethetsz, az a folyamatos rettegés attól, hogy hibázni fogsz. /Elbert Hubbard/",
+                "timestamp": 1610811287658
+            },
+{
+                "title": "Nem számít, milyen lassan mész, amíg nem hagyod abba. /Konfuciusz/",
+                "timestamp": 1610811287658
+            },
+{
+                "title": "Az a boldogság titka, ha azt tesszük, amit szeretünk, és megtanuljuk szeretni azt, amit meg kell tennünk, hogy ezt elérjük. /Dexter Jager/",
+                "timestamp": 1610811287658
+            },
+{
+                "title": "Ha azt veszed észre, hogy a többséggel értesz egyet, ideje szünetet tartani és elgondolkodni. /Mark Twain/",
+                "timestamp": 1610811287658
+            },
+{
+                "title": "Nem az sodor bajba, amit nem tudsz, hanem amit holtbiztosan tudsz, csak épp rosszul. /Mark Twain/",
+                "timestamp": 1610811287658
+            },
+{
+                "title": "Nem hagyatkozhatsz a látásodra, ha a képzeleted homályos. /Mark Twain/",
+                "timestamp": 1610811287658
+            },
+{
+                "title": "Csak úgy őrizheted meg az egészségedet, ha azt eszed, amit nem kívánsz, azt iszod, amit nem szeretsz, és azt teszed, amit nem akarsz. /Mark Twain/",
+                "timestamp": 1610811287658
+            },
+{
+                "title": "Először vegyük a tényeket. Aztán úgy torzíthatjuk őket, ahogy csak akarjuk. /Mark Twain/",
+                "timestamp": 1610811287658
+            },
+{
+                "title": "Ha mindig igazat mondasz, semmire sem kell emlékezned. /Mark Twain/",
+                "timestamp": 1610811287658
+            },
+{
+                "title": "A dohányzásról pofonegyszerű leszokni. Én magam is legalább százszor megtettem. /Mark Twain/",
+                "timestamp": 1610811287658
+            },
+{
+                "title": "A humor nem más, mint tragédia plusz idő. /Mark Twain/",
+                "timestamp": 1610811287658
+            },
+{
+                "title": "A szellemes visszavágás olyasvalami, ami huszonnégy órával később jut az ember eszébe. /Mark Twain/",
+                "timestamp": 1610811287658
+            },
+{
+                "title": "Sose halaszd holnapra, amit holnapután is megtehetsz. /Mark Twain/",
+                "timestamp": 1610811287658
+            },
+{
+                "title": "Mindenki tudja, hogy bizonyos dolgokat nem lehet megvalósítani, mígnem jön valaki, aki erről nem tud, és megvalósítja. /Albert Einstein/",
+                "timestamp": 1610811287658
+            },
+{
+                "title": "Az emberekből általában nem az erő hiányzik, hanem az akarat. /Victor Hugo/",
+                "timestamp": 1610811287658
+            },
+{
+                "title": "A legvégén nem az fog számítani, hogy mennyi év volt életedben, hanem hogy mennyi élet volt éveidben. /Edward J. Stieglitz/",
+                "timestamp": 1610811287658
+            },
+{
+                "title": "A barátod az, aki mindent tud rólad, és mégis szeret. /Elbert Hubbard/",
+                "timestamp": 1610811287658
+            },
+{
+                "title": "Amikor a boldogság egyik ajtaja bezárul, egy másik kinyílik. De gyakran oly sokáig tekintünk vissza a zárt ajtóra, hogy nem vesszük észre, amelyik megnyílt előttünk. /Helen Keller/",
+                "timestamp": 1610811287658
+            },
+{
+                "title": "Az a baj a világgal, hogy a hülyék mindenben holtbiztosak, az okosak meg tele vannak kételyekkel. /Bertrand Russell/",
+                "timestamp": 1610811287658
+            },
+{
+                "title": "Az egyik rendszer oltárterítője a következő lábtörlője. /Mark Twain/",
+                "timestamp": 1610811287658
+            },
+            {
+                "title": "Ha bárkit meg akarsz tartani az életben - soha ne tartsd magától értetődőnek, hogy melletted van! /Richard Bach/",
+                "timestamp": 1610811287658
+            }
+        ],
+        "leadarr": [
+            {
+                "lead": "111111",
+                "timestamp": 1610811287658
+            },
+            {
+                "lead": "111111",
+                "timestamp": 1610811287658
+            }
+        ],
+        "contentarr": [
+            {
+                "content": "111111",
+                "timestamp": 1610811287658
+            },
+            {
+                "content": "111111",
+                "timestamp": 1610811287658
+            }
+        ]
+    },
+{
+        "topic": "youtube",
+        "picarr": [
+            {
+                "picture": "pic1",
+                "timestamp": 1610811287658
+            },
+            {
+                "picture": "pic2",
+                "timestamp": 1610811287658
+            }
+        ],
+        "titlearr": [
+            {
+                "title": "https://www.youtube.com/watch?v=VIAf4QSHtYI",
+                "timestamp": 1610811287658
+            },
+{
+                "title": "https://www.youtube.com/watch?v=i4Udfp0zrls",
+                "timestamp": 1610811287658
+            },
+{
+                "title": "https://www.youtube.com/watch?v=iGs1o-gNb54",
+                "timestamp": 1610811287658
+            },
+{
+                "title": "https://www.youtube.com/watch?v=VR5qdbwQKbc",
+                "timestamp": 1610811287658
+            },
+{
+                "title": "https://www.youtube.com/watch?v=xpprYub0-oY",
+                "timestamp": 1610811287658
+            },
+{
+                "title": "https://www.youtube.com/watch?v=9qjO-XJWyQY",
+                "timestamp": 1610811287658
+            },
+{
+                "title": "https://www.youtube.com/watch?v=yejQ64aJgIY",
+                "timestamp": 1610811287658
+            },
+{
+                "title": "https://www.youtube.com/watch?v=QqcO9Vls6Eg",
+                "timestamp": 1610811287658
+            },
+{
+                "title": "https://www.youtube.com/watch?v=U9kK6HWjkXg",
+                "timestamp": 1610811287658
+            },
+{
+                "title": "https://www.youtube.com/watch?v=RbtxK2wvJjQ",
+                "timestamp": 1610811287658
+            },
+{
+                "title": "https://www.youtube.com/watch?v=gp5tjhf0lmc",
+                "timestamp": 1610811287658
+            },
+{
+                "title": "https://www.youtube.com/watch?v=V9JKyBeOzpI",
+                "timestamp": 1610811287658
+            },
+{
+                "title": "https://www.youtube.com/watch?v=aZI5erwHHIU",
+                "timestamp": 1610811287658
+            },
+{
+                "title": "https://www.youtube.com/watch?v=txCEed_U5LM",
+                "timestamp": 1610811287658
+            },
+{
+                "title": "https://www.youtube.com/watch?v=tbAzGNtqdYw",
+                "timestamp": 1610811287658
+            },
+{
+                "title": "https://www.youtube.com/watch?v=JQ2VlunSqjA",
+                "timestamp": 1610811287658
+            },
+{
+                "title": "https://www.youtube.com/watch?v=L9jvIp-YzNU",
+                "timestamp": 1610811287658
+            },
+{
+                "title": "https://www.youtube.com/watch?v=RKMMzC7amiI",
+                "timestamp": 1610811287658
+            },
+{
+                "title": "https://www.youtube.com/watch?v=-uBaz1sczkA",
+                "timestamp": 1610811287658
+            },
+{
+                "title": "https://www.youtube.com/watch?v=3sLwKjvkKkI",
+                "timestamp": 1610811287658
+            },
+{
+                "title": "https://www.youtube.com/watch?v=k1PGmDlY2N8",
+                "timestamp": 1610811287658
+            },
+{
+                "title": "https://www.youtube.com/watch?v=BzRxdM-5MU0",
+                "timestamp": 1610811287658
+            },
+{
+                "title": "https://www.youtube.com/watch?v=yVlS0bobhA8",
+                "timestamp": 1610811287658
+            },
+{
+                "title": "https://www.youtube.com/watch?v=qOzV-ZnmYIA",
+                "timestamp": 1610811287658
+            },
+{
+                "title": "https://www.youtube.com/watch?v=Q4nVb3zkzkI",
+                "timestamp": 1610811287658
+            },
+{
+                "title": "https://www.youtube.com/watch?v=bdY8Plkmg88",
+                "timestamp": 1610811287658
+            },
+{
+                "title": "https://www.youtube.com/watch?v=Mx4sMBpd1pQ",
+                "timestamp": 1610811287658
+            },
+{
+                "title": "https://www.youtube.com/watch?v=gpk3hxOC23k",
+                "timestamp": 1610811287658
+            },
+{
+                "title": "https://www.youtube.com/watch?v=uYpPcal3dXE",
+                "timestamp": 1610811287658
+            },
+{
+                "title": "https://www.youtube.com/watch?v=d36qRUm4sIc",
+                "timestamp": 1610811287658
+            },
+{
+                "title": "https://www.youtube.com/watch?v=3XvLhKtumDw",
+                "timestamp": 1610811287658
+            },
+{
+                "title": "https://www.youtube.com/watch?v=s04pU8CO8Xs",
+                "timestamp": 1610811287658
+            },
+{
+                "title": "https://www.youtube.com/watch?v=69SH0xGAERo",
+                "timestamp": 1610811287658
+            },
+{
+                "title": "https://www.youtube.com/watch?v=ANS9YvcPlOI",
+                "timestamp": 1610811287658
+            },
+{
+                "title": "https://www.youtube.com/watch?v=V53-ca_WIuM",
+                "timestamp": 1610811287658
+            },
+            {
+                "title": "https://www.youtube.com/watch?v=CVaM-AoEN6E/",
+                "timestamp": 1610811287658
+            }
+        ],
+        "leadarr": [
+            {
+                "lead": "2222",
+                "timestamp": 1610811287658
+            },
+            {
+                "lead": "111111",
+                "timestamp": 1610811287658
+            }
+        ],
+        "contentarr": [
+            {
+                "content": "111111",
+                "timestamp": 1610811287658
+            },
+            {
+                "content": "111111",
+                "timestamp": 1610811287658
+            }
+        ]
+    },
+{
+        "topic": "ingyen",
+        "picarr": [
+            {
+                "picture": "pic1",
+                "timestamp": 1610811287658
+            },
+            {
+                "picture": "pic2",
+                "timestamp": 1610811287658
+            }
+        ],
+        "titlearr": [
+            {
+                "title": "Ahhoz, hogy sikeres legyél a siker iránti vágynak nagyobbnak kell lennie, mint a félelmeidnek. /Bill Cosby/",
+                "timestamp": 1610811287658
+            },
+            {
+                "title": "Ha bárkit meg akarsz tartani az életben - soha ne tartsd magától értetődőnek, hogy melletted van! /Richard Bach/",
+                "timestamp": 1610811287658
+            }
+        ],
+        "leadarr": [
+            {
+                "lead": "Nathaniel ​Cruz már akkor belebolondult Alexis Woodville-be, amikor a lány a gimnáziumban egy szerencsétlen baleset folytán, fejen találta őt egy focilabdával. A cserfes, vörös hajú, szó szerint levette a fiút lábáról. Egyikük sem sejtette, hogy a spontán vonzalom életre szóló bilincset tesz majd a szívükre. De katasztrofális időzítés és egy buta véletlen hosszú időre elszakítja őket egymástól. Évekkel később Nathaniel a világhírű football sztár csillogónak látszó életét éli, szívében azonban még mindig megszállottja Alexisnek. A régóta eltitkolt vágyak a felszínre törnek, ám hiába tombol közöttük a szenvedély, a féltékenység és birtokolni vágyás megint szétválasztja őket. Amikor útjaik később újra keresztezik egymást, hatalmas dilemma előtt állnak. Követve a szívük vágyát, megadják-e magukat az oly régóta elnyomott szenvedélynek, vagy feláldozzák a szerelmet a felelősségtudat oltárán. Ez Alexis és Nathaniel érzéki, szenvedélyes története. <a href=\"https://play.google.com/store/books/details/Ren%C3%A1ta_W_M%C3%BCller_F%C3%BCgg%C5%91s%C3%A9gben_1?id=YRCSDwAAQBAJ\">Renáta W. Müller - Függőségben 1.</a>",
+                "timestamp": 1610811287658
+            },
+            {
+                "lead": "111111",
+                "timestamp": 1610811287658
+            }
+        ],
+        "contentarr": [
+            {
+                "content": "111111",
+                "timestamp": 1610811287658
+            },
+            {
+                "content": "111111",
+                "timestamp": 1610811287658
+            }
+        ]
+    },
+{
+        "topic": "utazos",
+        "picarr": [
+            {
+                "picture": "pic1",
+                "timestamp": 1610811287658
+            },
+            {
+                "picture": "pic2",
+                "timestamp": 1610811287658
+            }
+        ],
+        "titlearr": [
+            {
+                "title": "<p><a href=\"http://panamericana.blog.hu/2011/09/12/boca_a_bomboneraban\" >Boca a Bombonerában</a><br>Amelyben a Dél-Amerikába frissen megérkezett szerző gyorsan belecsap a sűrűjébe, és a kemény mag társaságában kilátogat egy Buenos Aires-i meccsre.<br>Forrás: panamericana.blog.hu</p>",
+                "timestamp": 1610811287658
+            },
+{
+                "title": "<p><a href=\"http://panamericana.blog.hu/2011/10/13/paraguay_ii_az_uszo_kozert\" >Paraguay II: Az úszó közért</a><br> Amelyben a szerző három napot hajózik a Paraguay-folyón indián kurvák, kispályás kokaindílerek és egy szórakoztató angol társaságában. Közben pedig megtalálja Latin-Amerikát. <br>Forrás: panamericana.blog.hu</p>",
+                "timestamp": 1610811287658
+            },
+{
+                "title": "<p><a href=\"http://panamericana.blog.hu/2011/11/22/peninsula_valdes\" >Península Valdés</a><br> Amelyben a szerző elalél a világ valaha volt harmadik legnagyobb állatának közelségétől, valamint lát egy csomó delfint és pingvint is. <br>Forrás: panamericana.blog.hu</p>",
+                "timestamp": 1610811287658
+            },
+{
+                "title": " <p><a href=\"http://panamericana.blog.hu/2011/12/25/last_minute_antarktisz_iii_a_tokeletes_uticel\" >Last Minute Antarktisz III: A tökéletes úticél</a><br> Amelyben a szerző megvalósítja gyermekkori álmát, és eljut a legvadabb kontinensre, ahol lenyűgözve bámulhatja a nagy semmit és szagolhatja a pingvinszart. <br>Forrás: panamericana.blog.hu</p>",
+                "timestamp": 1610811287658
+            },
+{
+                "title": " <p><a href=\"http://panamericana.blog.hu/2012/01/29/cerro_rico_potosi\" >Cerro Rico, Potosí</a><br> Amelyben a szerző nagyon sok nyomorúságot lát, valamint a világ legrészegebb bányászait, akik éppen dinamitrudakkal játszadoznak. <br>Forrás: panamericana.blog.hu</p>",
+                "timestamp": 1610811287658
+            },
+{
+                "title": " <p><a href=\"http://panamericana.blog.hu/2012/03/10/fel_ev_egyedul\" >Fél év egyedül</a><br> Amelyben a szerző megkönnyebbülten állapítja meg, hogy milyen remek dolog a hosszú távú utazás egyedül. És hogy mennyire semmi nem hiányzik otthonról. <br>Forrás: panamericana.blog.hu</p>",
+                "timestamp": 1610811287658
+            },
+{
+                "title": "<p><a href=\"http://panamericana.blog.hu/2012/03/21/husvet_sziget_ii\" >Húsvét-sziget II: Túl sok rejtély, túl kis helyen</a><br> Amelyben a szerző hálát ad a jóistennek, amiért eljutott egy ilyen csodálatos helyre, és elgondolkodik azon, hogy az ember bármire képes, és bármit tönkre is tud tenni. <br>Forrás: panamericana.blog.hu</p>",
+                "timestamp": 1610811287658
+            },
+{
+                "title": " <p><a href=\"http://panamericana.blog.hu/2012/04/04/enni_peruban\" >Enni Peruban</a><br> Amelyben a szerző maratoni zabálásba kezd a világ egyik legfejlettebb gasztronómiájú kultúrájú országában, valamint meglátogatja a ceviche feltalálóját. <br>Forrás: panamericana.blog.hu</p>",
+                "timestamp": 1610811287658
+            },
+{
+                "title": " <p><a href=\"http://panamericana.blog.hu/2012/04/25/galapagos_szigetek_ii_az_allatok_vilaga\" >Galápagos-szigetek II: Az állatok világa</a><br> Amelyben a szerző egy újabb gyermekkori álmát valósítja meg, majdnem annyi időt tölt a Galápagoson, mint Charles Darwin, és egy életre elég madarat lát. <br>Forrás: panamericana.blog.hu</p>",
+                "timestamp": 1610811287658
+            },
+{
+                "title": " <p><a href=\"http://panamericana.blog.hu/2012/05/09/ayahuasca_7\" >Ayahuasca</a><br> Amelyben a szerző nagyon jól érzi magát egy ecuadori sámánnal, akinek kicsit nehezen megy a valóság és a képzelt világ különválasztása. Amazónia LSD-je viszont kevésbé bizonyul szórakoztatónak. <br>Forrás: panamericana.blog.hu</p>",
+                "timestamp": 1610811287658
+            },
+{
+                "title": "<p><a href=\"http://panamericana.blog.hu/2012/06/30/brasilia\" >Brasília</a><br> Amelyben a szerző megtekinti a világ legszebb modern épületeit, és iszonyatosan sokat kell gyalogolnia egy turistaként teljesen élhetetlen metropoliszban. <br>Forrás: panamericana.blog.hu</p> ",
+                "timestamp": 1610811287658
+            },
+{
+                "title": "<p><a href=\"http://panamericana.blog.hu/2012/07/20/buli_rioban\" >Buli Rióban</a><br> Amelyben a szerző ráébred, hogy hiába van már jó ideje Latin-Amerikában, Rio de Janeiróban az életöröm egy egészen más szinten van. <br>Forrás: panamericana.blog.hu</p>",
+                "timestamp": 1610811287658
+            },
+{
+                "title": "<p><a href=\"http://panamericana.blog.hu/2012/08/10/a_brazil_strand\" >A brazil strand</a><br> Amelyben a szerző még egyet csavar a brazilságon, bár sajnos még mindig csak naplemente után képes meginni hét-nyolc caipirinhát. <br>Forrás: panamericana.blog.hu</p> ",
+                "timestamp": 1610811287658
+            },
+{
+                "title": " <p><a href=\"http://panamericana.blog.hu/2012/09/10/egy_ev_egyedul\" >Egy év egyedül</a><br> Amelyben a szerző konstatálja, hogy profi utazó lett, és milyen jó érzés ehhez az exkulzív szubkultúrához tartozni. <br>Forrás: panamericana.blog.hu</p>",
+                "timestamp": 1610811287658
+            },
+{
+                "title": " <p><a href=\"http://panamericana.blog.hu/2012/09/13/suriname_felso\" >Suriname-Felső</a><br> Amelyben a szerző ellátogat Amerika legafrikaibb pontjára, és megismerkedik egy Digicel nevű fiatalemberrel. <br>Forrás: panamericana.blog.hu</p>",
+                "timestamp": 1610811287658
+            },
+{
+                "title": "<p><a href=\"http://panamericana.blog.hu/2012/10/02/karibi_kiruccanas_iii_saint_vincent_es_a_grenadine-szigetek\" >Karib kiruccanás III: Saint Vincent és a Grenadine-szigetek</a><br> Amelyben a szerző egészen közel kerül a karib luxushoz: sikerül olyan taxissal utaznia, aki azt állítja, jóban van Mick Jaggerrel. <br>Forrás: panamericana.blog.hu</p>",
+                "timestamp": 1610811287658
+            },
+{
+                "title": " <p><a href=\"http://panamericana.blog.hu/2012/10/27/dadanawa_ii_vadnyugat_del-guyanaban\" >Dadanawa II: Vadnyugat Dél-Guyanában</a><br> Amelyben a szerzőt erjesztett maniókalé ivására kényszerítik, skorpióba lép mezítláb és le kell ugrania egy vágtató lóról, de végig remekül érzi magát a világ egyik legnagyobb ranchén. <br>Forrás: panamericana.blog.hu</p> ",
+                "timestamp": 1610811287658
+            },
+{
+                "title": "<p><a href=\"http://panamericana.blog.hu/2012/11/04/roraima_utinaplo\" >Roraima útinapló</a><br> Amelyben a szerző négy éjszakán át osztozik sátrán egy tasmánnal. közben pedig feljut a világ legszebb hegyére. <br>Forrás: panamericana.blog.hu</p> ",
+                "timestamp": 1610811287658
+            },
+{
+                "title": "<p><a href=\"http://panamericana.blog.hu/2012/11/17/chavez\" >Chávez</a><br> Amelyben a szerző az akkor még elő venezuelai autokrata kapcsán elgondolkodik Latin-Amerika, az USA, a demokrácia és a nemzetközi baloldal viselt dolgairól. <br>Forrás: panamericana.blog.hu</p> ",
+                "timestamp": 1610811287658
+            },
+{
+                "title": "<p><a href=\"http://panamericana.blog.hu/2012/11/30/mompox\" >Mompox</a><br> Amelyben a szerző megtalálja Gabriel García Márquez Kolumbiáját, ahol annyira megállt az idő, hogy senki nem áll fel a helyben gyártott hintaszékekből. <br>Forrás: panamericana.blog.hu</p>",
+                "timestamp": 1610811287658
+            },
+{
+                "title": " <p><a href=\"http://panamericana.blog.hu/2013/01/01/majak_ma\" >Maják ma</a><br> Amelyben a szerző nagyon élvezi, hogy bár piramisokat már nem építenek, a maja kultúra továbbra is él és virul Guatemalában és vonzáskörzetében. <br>Forrás: panamericana.blog.hu</p>",
+                "timestamp": 1610811287658
+            },
+{
+                "title": "<p><a href=\"http://panamericana.blog.hu/2013/02/16/a_masik_jamaica\" >A másik Jamaica</a><br> Amelyben a szerző megkönnyebülve fedezi fel, hogy hiába nagyon kemény hely Jamaica, letérve a turistaútvonalakról simán lehet élvezni. <br>Forrás: panamericana.blog.hu</p>",
+                "timestamp": 1610811287658
+            },
+{
+                "title": " <p><a href=\"http://panamericana.blog.hu/2013/03/11/mafel_eve_uton\" >Másfél éve úton</a><br> Amelyben a szerző megállapítja, hogy ennyi ideig utazni nem egyszerű dolog, és már hazai dolgokat is hiányolni kezd. <br>Forrás: panamericana.blog.hu</p> ",
+                "timestamp": 1610811287658
+            },
+{
+                "title": "<p><a href=\"http://panamericana.blog.hu/2013/03/26/el_mozote\" >El Mozote</a><br> Amelyben a szerző ellátogat az egyik legcsúnyább latin tömeggyilkosság helyszínére, és továbbra sem tud mit kezdeni a kontinensen mindent átható erőszak kultúrájával. <br>Forrás: panamericana.blog.hu</p>",
+                "timestamp": 1610811287658
+            },
+{
+                "title": " <p><a href=\"http://panamericana.blog.hu/2013/04/18/belize_581\" >Belize</a><br> Amelyben a szerző az út végén megpihen a tökéletes karib szigeten, és egyébként is nagyon tetszik neki Közép-Amerika kakukktojása. <br>Forrás: panamericana.blog.hu</p> ",
+                "timestamp": 1610811287658
+            },
+{
+                "title": "<p><a href=\"http://kk.blog.hu/2007/09/09/penjikent\" >Ja, a Gyömrőin is vannak kátyúk</a><br> Maga a feladat viszonylag egyszerűnek tűnt: eljutni az üzbegisztáni Szamarkandból az alig 280 kilométerre lévő tádzsik fővárosba, Dusanbéba. Azt tudtuk, hogy a tádzsik utak legendásan rosszak, így a meló nem lesz teljesen gyerekjáték, de arról fogalmunk sem volt, hogy a rettegés hányadik fokáig fogunk eljutni. <br>Forrás: kk.blog.hu</p>",
+                "timestamp": 1610811287658
+            },
+{
+                "title": " <p><a href=\"http://kk.blog.hu/2007/10/12/nomad_s_home\" >Nomad's Home</a><br> Mivel kettesben utazunk, ráadásul a napi költségvetésünk magasabb a hátizsákos utazók jelentős részénél, eddig egyszer sem szálltunk meg a szándékosan a backpacker célközönségre belőtt szálláshelyeken. Párban utazva egy kétágyas szoba valami olcsó helyen alig drágább, mint két ágy a hátizsákos szállások sokágyas hálótermeiben, ahol egy rakás koszos hippivel kell osztozni a fürdőszobán is. Aki egyedül utazik, sokkal inkább hajlamos ilyen helyekre menni, hogy találkozhasson a többi hasonló cipőben járóval, akikkel aztán osztozhat a taxiköltségen és esténként berúghat közösen. <br>Forrás: kk.blog.hu</p>",
+                "timestamp": 1610811287658
+            },
+{
+                "title": "<p><a href=\"http://kk.blog.hu/2007/11/29/sanghaj\" >Sanghaj, nyílt város</a><br> Van, aki szerint a városoknak nincs lelkük, vagy ha van is, azt emberi akarattal és munkával meg lehet törni, fel lehet őrölni és helyére valami újat lehet ültetni. Mindenkinek őszintén tudjuk ajánlani Sanghaj felkeresését, az ilyen megátalkodott materialistáknak viszont a legszívesebben kötelezővé tennénk. <br>Forrás: kk.blog.hu</p> ",
+                "timestamp": 1610811287658
+            },
+{
+                "title": "<p><a href=\"http://kk.blog.hu/2007/12/05/puszi_puszi_cuki_kispandak_puszi_puszi\" >Puszi-puszi!!! Cuki kispandák!!! Puszi-puszi!!!</a><br> Mielőtt életünk egy délelőttjét panda-megfigyeléssel töltöttük, volt néhány előítéletünk ezekkel az állatokkal kapcsolatban. Egyrészt hogy igazából <em>annyira</em> nem is cukik, és népszerűségüket valamiféle világ-összeesküvésnek köszönhetik, amelynek fő mozgatórugói a kínai kormány, lelketlen szuvenírgyártók és a WWF, amely még a logójába is a pandát rakta, nem pedig valami hasonlóan veszélyeztetett, ám kevésbé médiaképes levéltetűt, örökre hazavágva ezzel a nem fotogén állatok túlélési esélyeit. <br>Forrás: kk.blog.hu</p> ",
+                "timestamp": 1610811287658
+            },
+{
+                "title": "<p><a href=\"http://kk.blog.hu/2007/12/30/royal_palaung_golden_triangle_cobras\" >Royal Palaung Golden Triangle Cobras</a><br> K. 1966-ban született Észak-Mianmarban, bár akkor még Burmának hívták az országot. Családja a palaung törzshöz tartozott, azon belül is a nemesi ághoz. Anyja már orvosként dolgozott egy kisvárosban. A Burma, Laosz és Kína közt szétosztott palaungok ma nagyjából hatszázezren vannak, bár K. kétmillióról tud. <br>Forrás: kk.blog.hu</p>",
+                "timestamp": 1610811287658
+            },
+{
+                "title": "<p><a href=\"http://kk.blog.hu/2008/01/25/dr_chan_es_az_elefantok\" >Dr. Chan és az elefántok</a><br> Ahhoz, hogy elefántokat lássunk melózni, Yangonból először 300 kilométerre északra, Taungoo-ba kellett utaznunk. Taungoo piszkos és poros mianmari kisváros, viszont itt működik az ország legjobb szállodája, amely simán felveszi a versenyt bármelyik osztrák családi panzióval. Bár azért azt szívesen megnéznénk, milyen szinten tudná űzni a vendéglátást a sok Stroblmayer-család, ha még áramot sem kapnának a helyi önkormányzattól. <br>Forrás: kk.blog.hu</p>",
+                "timestamp": 1610811287658
+            },
+{
+                "title": "<p><a href=\"http://kk.blog.hu/2008/02/27/az_egyik_legjobb_hely_a_vilagon\" >Az egyik legjobb hely a világon</a><br> Februárban utazni Indonéziába nem feltétlenül jó ötlet. Az ország nagy részén ilyenkor dúl az esős évszak, most éppen Jáva szigetén és a Balitól keletre található Nusa Tenggara tartományban vannak árvizek. Mi Szumátra északi részére érkeztünk, az ország azon kevés pontjainak egyikére, ahol ilyenkor – elvileg – jó időnek kell lennie. Ha viszont már egyszer beléptünk az országba, nem akartunk egy hét után azonnal ki is lépni. Inkább nekiláttunk eljutni Indonézia másik, ilyenkor elméletileg száraz szegletébe. A tény, hogy ez a szeglet pont a szigetvilág ellenkező csücskében van, minket cseppet sem érdekelt. A távolság a felfedezések korának három legnagyobb alakját, Kolumbuszt, Magellánt és Vasco de Gamát sem zavarta, amikor mindannyian azért indultak el otthonról, hogy megtalálják Malukut. <br>Forrás: kk.blog.hu</p>",
+                "timestamp": 1610811287658
+            },
+{
+                "title": "<p><a href=\"http://kk.blog.hu/2008/03/31/vakacio_kambodzsaban\" >Vakáció Kambodzsában</a><br> Kambodzsában nyaralni akkor is felkavaró élmény, ha az ember nem Dead Kennedys rajongó 12 éves kora óta. Egyikünket sem tanítottak meg arra, hogy kell viselkedni egy olyan országban, amely alig harminc éve az emberiség történetének egyik legmélyebb bugyrába süllyedt, és ahol a pusztítás nyomai ma is szem előtt vannak, így néha csak egyik lábunkról a másikra tudtunk állni zavarunkban. Néha meg a földre meredve dünnyögtünk. Leginkább a Vörös Khmerek által levezényelt népirtás két emblematikus helyszínén, a Tuol Sleng börtönben és a Killing Fields néven közismert Choeung Ek mezőn. <br>Forrás: kk.blog.hu</p>",
+                "timestamp": 1610811287658
+            },
+{
+                "title": "<p><a href=\"http://kk.blog.hu/2008/05/12/halal_delutan\" >Halál délután</a><br> Mindenképpen szerettünk volna látni egy filippínó kakasviadalt, bár egyikünk sem támogatja az állatok indokolatlan lemészárlását. Az lenne a legjobb, ha az egész világ vegetáriánus lenne, csak mi ennénk finom húst, hogy minél több szőrös meg pelyhes meg pikkelyes kis izé élhessen boldogan. <br>Forrás: kk.blog.hu</p> ",
+                "timestamp": 1610811287658
+            },
+{
+                "title": "<p><a href=\"http://kk.blog.hu/2008/06/11/japankert\" >Japánkert</a><br> E blog csúcspontjai közé tartoztak azok a bejegyzések, amelyekben hosszasan írtunk olyan dolgokról, amelyekről elindulás előtt fogalmunk sem volt, viszont még most sem sok. <br>Forrás: kk.blog.hu</p>",
+                "timestamp": 1610811287658
+            },
+{
+                "title": "<p><a href=\"https://kultitasting.blogspot.com/2021/01/jot-enni-2020-ban-is.html\">Jót enni 2020-ban is</a><br> 2020-ra maradt az ízek élvezete, szerencsére abban nem volt hiány. Így az év elején összegyűjtöttük Nektek a kedvenc helyeinket, ahová (ha be nem is ülhetünk még egy ideig) bármikor leszaladhatunk egy jó ebedért vagy vacsoráért, netán még házhoz is jönnek. Végül pedig a helyek, ahol a különlegesebb alapanyagokat szerezzük be a főzéshez. <br>Forrás: kultitasting.blogspot.com </p>",
+                "timestamp": 1610811287658
+            },
+{
+                "title": "<p><a href=\"https://kultitasting.blogspot.com/2017/06/fald-fel-amerikat-gyorsettermek-az-usa.html\">\"Fald fel Amerikát\" - gyorséttermek az USA-ban</a><br> Az USA-ba Hawaii-on érkeztük meg és már ott sejtettük, hogy itt bizony nem fogunk éhen halni, mert mindenhol van gyorsétterem... ahol sokszor egy normál méretű menü akkora, hogy mi egész egyszerűen nem bírtuk megenni. <br>Forrás: kultitasting.blogspot.com",
+                "timestamp": 1610811287658
+            },
+{
+                "title": "<p><a href=\"https://kultitasting.blogspot.com/2019/01/raja-ampat-tippek-paradicsomba.html\">Raja Ampat - tippek a paradicsomba készülőknek</a><br> Ha esetleg az előző posztunkkal kedvet csináltunk valakinek Raja Ampat meglátogatásához, itt megtalálhatja a gyakorlati tudnivalókat. Csak kalandvágyóknak javasoljuk: az angoltudásod, a booking.com, a Tripadvisor, a Google maps és hasonló közismert információforrások itt teljesen használhatatlanok - mivel tömegturizmus nincsen. Az egyik legnehezebb szervezés volt az eddigi utazásaink közül, az információkat nagyon sok helyről kellett összegyűjteni, valamint a nyelvi akadályok és az internet hiánya miatt a kommunikáció sem volt mindig egyszerű. Reméljük ezzel a poszttal segítünk a helyzeteden, ha ide készülsz. <br>Forrás: kultitasting.blogspot.com </p>",
+                "timestamp": 1610811287658
+            },
+{
+                "title": "<p><a href=\"https://kultitasting.blogspot.com/2017/09/mit-vigyunk-magunkkal-egy-hatizsakos.html\">Mit vigyünk magunkkal egy hátizsákos világkörüli útra</a><br> Te mit vinnél magaddal, ha világgá mennél? Van állandó csomagoló-listád a nyaraláshoz, vagy mindig otthon hagysz valamit? Most abban segítünk, ha hosszú útra mész a világ körül. Összeszedtük, mit vinnénk magunkkal, ha <i>újra</i> világgá mennénk... és ebben már hat hónap tapasztalata is benne van. <br>Forrás: kultitasting.blogspot.com </p>",
+                "timestamp": 1610811287658
+            },
+{
+                "title": "<p><a href=\"https://kultitasting.blogspot.com/2017/07/usa-osszefoglalo-es-tippek-utazoknak.html\">USA - összefoglaló és tippek utazóknak</a><br> Az USA-t érdemes egyszer az életben mindenkinek megnéznie. Akit vonz a fogyasztói társadalom, annak azért... aki utálja, annak azért... aki meg a különleges természeti értékeket szereti, annak azért. Mi elsősorban az utóbbi miatt jöttünk. Ezért mentünk Big Island-re Hawaii-n és ezért töltöttük időnk nagy részét a nemzeti parkokban. <br>Forrás: kultitasting.blogspot.com </p>",
+                "timestamp": 1610811287658
+            },
+{
+                "title": "<p><a href=\"https://kultitasting.blogspot.com/2016/10/dubai-avagy-ronaldinnyo-es-lottootos.html\">Dubai - avagy Ronaldinnyó és a lottóötös</a><br> Azt már a kezdet kezdetén sejteni lehetett, hogy egy világkörüli út alatt az ember a végletekkel fog találkozni. Tisztaság és mocsok, bosszantó gazdagság és gyomorszorító szegénység, extrém illatok, ízek. Dubai is egy véglet. Jól le lehet írni emberi jellemzőkkel, hívjuk pl. Ronaldinnyónak... <br>Forrás: kultitasting.blogspot.com </p>",
+                "timestamp": 1610811287658
+            },
+            {
+                "title": "<p><a href=\"https://kultitasting.blogspot.com/2018/12/raja-ampat-naszut-paradicsomban.html\">Raja Ampat - nászút a paradicsomban</a><br> \"Hová mentek nászútra, ha már az egész világot beutaztátok?\" tette fel mindenki a kérdést, és hát nem volt egyszerű megfelelő választ találnunk. Próbáltuk elkerülni a \"sablon\" nászutas helyeket, bár mindenképpen szerettünk volna meleget, tengerpartot... de azért valami kalandosat is, önmagunkhoz méltóan. Így találtunk rá Indonézia alig ismert gyöngyszemére, Raja Ampatra. <br>Forrás: kultitasting.blogspot.com </p>",
+                "timestamp": 1610811287658
+            },
+{
+                "title": "<p><a href=\"https://kultitasting.blogspot.com/2019/02/miert-nem-szeretunk-hotelekben.html\">Miért nem szeretünk hotelekben megszállni</a><br> Negyven ország és több száz szálláshely meglátogatása után elég sok szélsőséggel találkoztunk. Aludtunk a guatemalai dzsungelben egy tisztáson függőágyban és a menőbb szállodaláncok egységeiben is. Manapság azonban kényelemre vágyva is inkább kerüljük a hoteleket és kisebb családi panziókban vagy airbnb szállásokon szeretünk megszállni. Nem csak azért, mert sokszor közvetlen kapcsolat alakul ki szállásadóval (pl. megemlítjük, hogy imádjuk a burrata sajtot - és másnap ott van a reggelizőasztalon) hanem azért is, mert ezek színvonala egyre kiemelkedőbb, a szállodák viszont a múltbeli elvárások rabjaivá váltak. <br>Forrás: kultitasting.blogspot.com </p>",
+                "timestamp": 1610811287658
+            },
+{
+                "title": "<p><a href=\"https://clandestino.blog.hu/2016/08/18/magyarok_braziliaban_2_jaragua_do_sul\">Magyarok Brazíliában 2. - Jaraguá do Sul</a><br> – Gyere, elmegyünk Sibila nénihez – mondta Bernadete. – És beszélgethetsz vele magyarul! – Rosszat sejtettem. Kicsit úgy éreztem magam, mint egy imposztor, aki azt állítja, hogy beszéli a világ egyik legnehezebb nyelvét, mígnem összetalálkozik valakivel, aki leleplezi őt. Félve szálltam ki a kocsiból. Egy hatvanas asszony integetett az ajtóból, és portugálul betessékelt a nappaliba, ahol már várt a kilencven év körüli mamája, Sibila néni, egyike azon keveseknek Jaraguá do Sulban, akik még folyékonyan beszélik őseik nyelvét – a magyart. <br>Forrás: clandestino.blog.hu</p> ",
+                "timestamp": 1610811287658
+            },
+{
+                "title": "<p><a href=\"https://clandestino.blog.hu/2016/06/30/favela_299\">Favela</a><br> Már egy ideje Rióban voltam, amikor úgy döntöttem, hogy nem várhatok tovább: meg kell néznem egy favelát. Egy kicsit ódzkodtam tőle, de aztán arra jutottam, hogy a Rio-élmény nem lehet teljes anélkül, hogy egy el ne látogatnék egy nyomornegyedbe (a <em>favela</em> szó voltaképpen ezt jelenti), hiszen akármerre jár az ember a városban, a hegyoldalakról mindig ráköszönnek a jellegzetes, egymásra zsúfolódó téglaházak. Úgyhogy elkezdtem keresni a neten, miként juthatnék el valamelyikbe anélkül, hogy azonnal ki- vagy elrabolna valaki. <br>Forrás: clandestino.blog.hu</p> ",
+                "timestamp": 1610811287658
+            },
+{
+                "title": "<p><a href=\"https://clandestino.blog.hu/2017/07/05/szokik_a_benzin\">Szökik a benzin!</a><br> A határ venezuelai oldalán öt kilométer hosszan állt a kocsisor: csupa rozoga, régi amerikai autó. Kuba jutott az eszembe, csak míg ott az ötvenes évek autóit ítélte örök életre a szocialista forradalom, Venezuelában szemlátomást a hetvenes-nyolcvanas évek autóparkja maradt fenn - sokkal rosszabb állapotban amúgy, mint a kubai oldtimerek. Aztán később kiderült, hogy tévedtem: a nagyvárosokban modern, viszonylag jó karban tartott autók közlekednek, csak azoknak sokkal kisebb a tankja, mint a régi monstrumoknak. Úgyhogy Venezuela összes régi autója a kolumbiai határhoz áramlott: felvásárolták őket a benzincsempészek. <br>Forrás: clandestino.blog.hu</p>",
+                "timestamp": 1610811287658
+            },
+{
+                "title": "<p><a href=\"https://clandestino.blog.hu/2017/03/09/escobaron_tul_a_mai_medellin\">Escobaron túl: a mai Medellín</a><br> Szerencse, hogy még azelőtt jártam Medellínben, mint hogy a <em>Narcos</em> című sorozat rajongója vált volna belőlem. Akkor ugyanis szilveszter éjszakáján, néhány feles után valószínűleg elkezdtem volna deklamálni a híres Escobar-idézeteket, például hogy <em>plata o plomo</em> (pénzt vagy töltényt), ami körülbelül annyira lett volna ízléstelen dolog a világ legvérszomjasabb drogbárójának egykori vadászterületén, mint mondjuk Hitler hanghordozását és gesztusait imitálni egy berlini sörözőben. <br>Forrás: clandestino.blog.hu</p>",
+                "timestamp": 1610811287658
+            },
+{
+                "title": "<p><a href=\"https://clandestino.blog.hu/2017/09/06/felelem_es_reszketes_caracasban\">Félelem és reszketés Caracasban</a><br> Egy felhőkarcoló tetején levő bárban ültünk. Ittuk a mojitót, elég olcsó volt, körülbelül négyszáz forint. Persze csak ha a fekete árfolyamon számolom a bolívart, ahogy én is vettem: a hivatalos árfolyamon tizenegyezer forint lett volna. Vendéglátóm, Ronald úgy nézett körül a környező felhőkarcolók esti fényein, mint akinek nagyon elege van Caracasból. <br>Forrás: clandestino.blog.hu</p>",
+                "timestamp": 1610811287658
+            },
+{
+                "title": "<p><a href=\"https://clandestino.blog.hu/2016/01/21/az_ordog_orra\">Az ördög orra</a><br> Ecuador három nagy tájegységből áll: az óceánparti síkságból, az Andok hegyvidékéből és az amazóniai dzsungelből. Az elsőből a másodikba igyekezvén a világ egyik legizgalmasabb vonatozásában lett volna részem - ha harminc évvel korábban jártam volna erre. <br>Forrás: clandestino.blog.hu</p>",
+                "timestamp": 1610811287658
+            },
+{
+                "title": "<p><a href=\"https://clandestino.blog.hu/2016/08/15/magyarok_braziliaban_1_resz\">Magyarok Brazíliában - 1. rész</a><br> Kétségtelen, hogy van valamiféle megújult érdeklődés a magyar kultúra iránt Brazíliában, de a brazíliai magyarság létszáma, nyelvtudása és az óhazához való viszonya egyúttal komoly viták tárgya is. Vajon tényleg több tízezren vannak, és vajon még mindig (elsősorban) magyarnak tartják magukat? Tudnak-e egyáltalán magyarul? A tavalyi brazíliai utazásom során engem is nagyon érdekelt, hogy milyenek a brazil-magyarok. <br>Forrás: clandestino.blog.hu</p>",
+                "timestamp": 1610811287658
+            },
+{
+                "title": "<p><a href=\"https://clandestino.blog.hu/2018/10/03/negritude\">Négritude</a><br> Két író segített nekem, hogy valamit megértsek Martinique összetett kultúrájából és zaklatott történelméből. Az egyikük Aimé Césaire, a sziget világhírű szülötte, aki 2008-as haláláig alighanem a legfontosabb francia-karib értelmiségi volt. A másikuk pedig Emmanuel Nossin, aki egyáltalán nem híres, és az írás számára inkább csak a hobbi az eredeti szakmája, a gyógyszerészet mellett. Viszont él, kiváló egészségnek örvend, és amikor Saint-Pierre-ben stoppoltam a városból kivezető út mellett, akkor ő volt az, aki végül megállt és felvett. <br>Forrás: clandestino.blog.hu</p>",
+                "timestamp": 1610811287658
+            },
+{
+                "title": " <p><a href=\"https://clandestino.blog.hu/2018/02/15/jamaica_a_jamaicaiake_671\">Jamaica a jamaicaiaké</a><br> A taxi megállt egy sötét, kertvárosi utcán. A reptértől idáig vezető út nem sok látnivalóval szolgált: késő este volt, bezárt üzletek és néptelen járdák fogadtak Kingstonban. Csengőt nem találtam, úgyhogy kifizettem a taxist és beléptem a kertkapun. Elgyalogoltam a házig, kopogtam, semmi. Benyitottam. Az ajtó túloldalán olyan füst terjengett, mintha Bob Marley mind a tizenhárom gyermeke egyszerre gyújtott volna rá a spanglijára. <br>Forrás: clandestino.blog.hu</p>",
+                "timestamp": 1610811287658
+            },
+{
+                "title": "<p><a href=\"https://clandestino.blog.hu/2016/11/30/eszakkelet-brazilia_legszebb_strandjai\">Északkelet-Brazília legszebb strandjai</a><br> Orixák ide, szobrászok oda, Északkelet-Brazília legnagyobb turisztikai vonzerejét a strandok jelentik, és én sem éreztem volna teljesnek az élményt, ha nem töltök el néhány lusta napot az óceánpart perzselő homokján. Mert bár szép dolog az afro-brazil kultúra meg a különös helyi történelem, de az, hogy az ember egy hatalmas pohár caipirinhával a kezében bámulja a naplementét, miközben a lábát lustán nyaldossák a hullámok, nos, az az „igazi” Brazília-élmény. Pontosabban fogalmazva, mivel Brazíliáról ez az egyik legtipikusabb klisé, így amikor ez a pillanat ténylegesen bekövetkezett, akkor éreztem azt, hogy na, most aztán „igazán” Brazíliában vagyok. <br>Forrás: clandestino.blog.hu</p>",
+                "timestamp": 1610811287658
+            },
+{
+                "title": "<p><a href=\"https://clandestino.blog.hu/2016/03/29/indian_festeszet_magyar_marketing\">Indián festészet, magyar marketing</a><br> Az, hogy ma ecuadori népművészek százai élhetnek abból, hogy az őseik rituális és dísztárgyainak replikáit készítik eladásra, meglepő módon egy magyar iparművésznek és műgyűjtőnek köszönhető. A zsidó származású Fisch Olga 1938-ban disszidált Ecuadorba, miután rájött, hogy Európában semmi jó nem vár rá, és szeretett volna minél messzebb kerülni a készülődő borzalmaktól. Így került Dél-Amerikába, ahol azonnal beleszeretett a helyi indiánok népművészetébe, és saját szórakozására gyűjteni kezdte az alkotásaikat. <br>Forrás: clandestino.blog.hu</p>",
+                "timestamp": 1610811287658
+            },
+{
+                "title": "<p><a href=\"https://clandestino.blog.hu/2011/07/22/mexiko_top_20_1\">Mexikó Top 20 (+1)</a><br> Mexikó sokkal nagyobb ország, mint Chile, és ennek megfelelően a mexikói zenei színtér is sokkal tágasabb, mint a chilei. Akárcsak Chilében, Mexikóban sem a „legjobb” zenekarokat kerestem, hanem inkább szerettem volna feltérképezni, hogy mit hallgatnak Mexikóban az emberek, a legnagyobb királyságtól a legrémisztőbb szemétig. Ennek tudható be, hogy a Mexikó Top 20 (+1) listát sokkal több időbe telt elkészítenem, mint a <a href=\"http://clandestino.blog.hu/2010/09/17/chile_top_20?token=ac6175f024d5ab87749f25f998aa2f2b\">Chile Top 20 (+1)</a>-et, valamint annak, hogy az első nekifutásom, a Vive Latino fesztivál meglátogatása inkább szólt a mulatásról, mint a módszeres kutatómunkáról. <br>Forrás: clandestino.blog.hu</p> ",
+                "timestamp": 1610811287658
+            },
+{
+                "title": "<p><a href=\"https://clandestino.blog.hu/2017/11/02/vidam_napok_a_gyarmaton\">Vidám napok a gyarmaton</a><br> Cayenne nem fogadott tárt karokkal. Bruno a külvárosban tett ki, mert ott volt dolga, én pedig megvártam a menetrendszerinti kisbuszt, ami a belváros felé vitt. Ám ahogy elindultunk, felém dobtak egy sörösüveget. Az történt ugyanis, hogy a szemközti megállóban ácsorgó feka srácok annyira festőien néztek ki, hogy muszáj volt lefotóznom őket, és arra gondoltam, hogy amikor már mozgásban van a busz, akkor kattintok. Alábecsültem a gyorsaságukat: egyikük gondolkodás nélkül célba vett egy üveggel, és csak a szerencsének köszönhető, hogy végül nem a kisbusz ablakán, hanem az aszfalton tört szét. <br>Forrás: clandestino.blog.hu</p>",
+                "timestamp": 1610811287658
+            },
+{
+                "title": "<p><a href=\"https://clandestino.blog.hu/2018/03/05/asszony_ne_sirj\">Asszony, ne sírj!</a><br> Bob Marley zenéje Jamaica első számú exportcikke, és a <em>No Woman, No Cry</em> Bob Marley legismertebb száma. Még az is azonnal felismeri a refrénjét, aki soha nem hallott sem más reggae-számot, sem bármilyen egyéb zenét, amit a Karib-tenger szigetein szereztek. A szám annyira híres, hogy a feldolgozásait alig lehet összegyűjteni: eljátszotta a Boney M, Joan Baez, a Fugees, Matisyahu, Nina Simone, Kid Rock és a Twenty One Pilots, de van átírt szövegű, nyálas francia, aktivista brazil, vicceskedő bajor, és zavarba ejtő tradicionális arab verziója is. Sőt, mi magyarok is beálltunk a sorba a Z'Zi Labor és a Veresegyházi Asszonykórus felejthetetlen (és megbocsáthatatlan) verziójával. <br>Forrás: clandestino.blog.hu</p> ",
+                "timestamp": 1610811287658
+            },
+{
+                "title": "<p><a href=\"https://clandestino.blog.hu/2016/05/26/a_csodalatos_varos\">A csodálatos város</a><br> Rio de Janeiro a világ legszebb fekvésű városa. Ezzel az állítással nagyon nehéz lenne vitatkozni: az öblök, a homokos tengerpartok, a szürreális formájú gránitsziklák és a háttérben zöldellő trópusi növényzet együtt olyan mesebeli keretet adnak Riónak, amivel a világ egyetlen városa sem tud versenyezni. <br>Forrás: clandestino.blog.hu</p>",
+                "timestamp": 1610811287658
+            },
+{
+                "title": "<p><a href=\"https://clandestino.blog.hu/2017/10/12/pecsetek_es_guyanak\">Pecsétek és Guyanák</a><br> A csónakmotor berregése elhallgatott. Kikötöttünk Saint-Georges-de-l'Oyapock-ban. A móló mellett, egy terebélyes fa alatt néhány ember ácsorgott a fáról lehullott rózsaszín virágok szőnyegén. Egy hatalmas nagybőgőt bámultak, amit a tulajdonosa egy minibuszba szeretett volna bepakolni. – <em>Bonjour</em> – mondták, amikor megláttak. Az utca túloldalán, egy zászlórúdon a francia trikolór és az uniós lobogó lengedezett. Megérkeztem az Európai Unióba. <br>Forrás: clandestino.blog.hu</p>",
+                "timestamp": 1610811287658
+            },
+{
+                "title": "<p><a href=\"https://clandestino.blog.hu/2017/03/16/elet_es_halal_eldoradoban\">Élet és halál Eldorádóban</a><br> Amikor később az első bogotái benyomásainkról beszélgettünk Attilával, nem értettünk egyet semmiben. Attila szerint kellemes, tavaszias idő volt, szerintem meg kellemetlen, csípős hideg. Mondjuk ő a január eleji Budapestről érkezett Bogotába, én meg az örök tavasz városából, Medellínből. És - akárcsak négy évvel korábban, Havannában - ezúttal is a szálláson találkoztunk, hogy aztán két hétig együtt rendetlenkedjünk, utána pedig ő visszament Pestre, én meg folytattam az utamat Venezuela felé. <br>Forrás: clandestino.blog.hu</p>",
+                "timestamp": 1610811287658
+            },
+{
+                "title": "<p><a href=\"https://clandestino.blog.hu/2017/12/30/tulelni_georgetownt\">Túlélni Georgetownt</a><br> Elkeseredve kapcsolgattam a tévét a hotelben, de csak a kínai CCTV adása jött be normális minőségben. A híradó kínaiul, angol felirattal arról tudósított, hogy az Egyesült Államokban megrendezték a legrondább kutyák versenyét. Egyik állat ocsmányabb volt, mint a másik, a gazdáik mégis össze-vissza csókolgatták őket. Úgyhogy kinéztem az ablakon, a Bourda piac káoszára, és arra gondoltam: ha ezeket a visszataszító kutyákat is szereti valaki, akkor én is megpróbálom megszeretni ezt a visszataszító várost. Akkor még nem tudtam, hogy nem is az lesz a Guyanában töltött napjaim tétje, hogy sikerül-e a szívembe zárnom Georgetownt, hanem az, hogy vajon kilyukasztja-e a koponyámat egy vasrúd, vagy sem. <br>Forrás: clandestino.blog.hu</p>",
+                "timestamp": 1610811287658
+            },
+{
+                "title": "<p><a href=\"https://clandestino.blog.hu/2016/02/03/fejvadaszok_unokai\">Fejvadászok unokái</a><br> Az ecuadori dzsungelben élő indián törzsekről egy csomó legenda kering. Az egyik legviccesebb az a mendemonda, amely szerint rokonságban állnak a magyarokkal. Olyan gyöngyszemeket találhatunk az interneten, mint ez itt, amely azt állítja, hogy az Inka Birodalom titkos nyelve a magyar volt, és csak az összehangolt kecsua-spanyol-osztrák ármánykodás eredményeképpen merült feledésbe, hogy Quito igazi neve Két Ős, Huascar inka fejedelmet pedig valójában Vaskarnak hívták. Sőt, a dél-amerikai magyarul beszélő indiánok az azóta az óceánba süllyedt Mu kontinensen keresztül érkeztek Szkítiából, és a Föld középpontjában található hatalmas kristályból (és/vagy a Szíriuszról) kapják az energiát, akárcsak az ősmagyar táltosok. <br>Forrás: clandestino.blog.hu</p>",
+                "timestamp": 1610811287658
+            },
+{
+                "title": "<p><a href=\"https://clandestino.blog.hu/2016/04/07/gazdag_indianok\">Gazdag indiánok</a><br> Indiánnak lenni ma Latin-Amerikában azt jelenti: szegénynek lenni. Míg a múzeumok büszkén mutogatják a spanyol hódítás előtti időszakból származó arany- és drágakő műtárgyakat, a ma élő indiánok aligha birtokolnak bármit is, ami sokba kerülne. Az őseik földjét a hódító spanyolok vették a tulajdonukba, és az indiánok évszázadokon át kisemmizett, megtűrt cselédként éltek a falvaikban. Bár még mindig jobban jártak, mint az afrikai rabszolgák: az indiánok ugyanis személyükben szabadok voltak, szemben a rabszolgákkal, akiket ugyanúgy el lehetett adni és meg lehetett venni, mint egy haszonállatot. <br>Forrás: clandestino.blog.hu</p>",
+                "timestamp": 1610811287658
+            }
+        ],
+        "leadarr": [
+            {
+                "lead": "",
+                "timestamp": 1610811287658
+            },
+            {
+                "lead": "111111",
+                "timestamp": 1610811287658
+            }
+        ],
+        "contentarr": [
+            {
+                "content": "111111",
+                "timestamp": 1610811287658
+            },
+            {
+                "content": "111111",
+                "timestamp": 1610811287658
+            }
+        ]
+    },
+{
+        "topic": "ures",
+        "picarr": [
+            {
+                "picture": "pic1",
+                "timestamp": 1610811287658
+            },
+            {
+                "picture": "pic2",
+                "timestamp": 1610811287658
+            }
+        ],
+        "titlearr": [
+            {
+                "title": "",
+                "timestamp": 1610811287658
+            },
+            {
+                "title": "",
+                "timestamp": 1610811287658
+            }
+        ],
+        "leadarr": [
+            {
+                "lead": "",
+                "timestamp": 1610811287658
+            },
+            {
+                "lead": "111111",
+                "timestamp": 1610811287658
+            }
+        ],
+        "contentarr": [
+            {
+                "content": "111111",
+                "timestamp": 1610811287658
+            },
+            {
+                "content": "111111",
+                "timestamp": 1610811287658
+            }
+        ]
+    }
+]
