@@ -1,6 +1,234 @@
 [
     {
         "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/tradicionalis-gulyasleves",
+        "h1": "Tradicionális gulyásleves",
+        "txtlength": 11379
+    },
+    {
+        "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/palacsinta-0",
+        "h1": "Palacsinta",
+        "txtlength": 10192
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/bazsalikomos-gombakremleves.recept",
+        "h1": "BAZSALIKOMOS GOMBAKRÉMLEVES (LAKTÓZ- ÉS GLUTÉNMENTES)",
+        "txtlength": 9350
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/vega-gluten-es-laktozmentes-edesburgonyakremleves.recept",
+        "h1": "ÉDESBURGONYA KRÉMLEVES (VEGA, GLUTÉN- ÉS LAKTÓZMENTES)",
+        "txtlength": 9324
+    },
+    {
+        "hostname": "receptneked.hu",
+        "pagelink": "https://receptneked.hu/gyors/hortobagyi-husgombocok/",
+        "h1": "Hortobágyi húsgombócok recept",
+        "txtlength": 3808
+    },
+    {
+        "hostname": "receptneked.hu",
+        "pagelink": "https://receptneked.hu/gyors/csaszarne-pogacsaja/",
+        "h1": "Császárné pogácsája recept",
+        "txtlength": 3742
+    },
+    {
+        "hostname": "hataratkelo.blog.hu",
+        "pagelink": "https://hataratkelo.blog.hu/2021/01/23/mit_hozhat_az_amerikaba_vagyoknak_a_biden-elnokseg#c39702218",
+        "h1": "Mit hozhat az Amerikába vágyóknak a Biden-elnökség?",
+        "txtlength": 44109
+    },
+    {
+        "hostname": "hafr.hvgblog.hu",
+        "pagelink": "https://hafr.hvgblog.hu/2020/12/22/a-kapitalizmus-konzervativ-apologiaja/",
+        "h1": "A kapitalizmus konzervatív apológiája",
+        "txtlength": 11308
+    },
+    {
+        "hostname": "cineartstudio.blog.hu",
+        "pagelink": "https://cineartstudio.blog.hu/2021/01/24/a_netflix_megvasarolta_a_sony_keszulo_uj_animacios_filmjet_a_the_mitchells_vs_the_machines-t",
+        "h1": "A Netflix megvásárolta a Sony új animációs filmjét, a \"The Mitchells vs. the Machines\"-t",
+        "txtlength": 7419
+    },
+    {
+        "hostname": "kulturpart.hu",
+        "pagelink": "https://kulturpart.hu/2021/01/21/ingyenjeggyel_es_tiziano-kiallitassal_unnepli_130_szuletesnapjat_a_becsi_szepmuveszeti_muzeum",
+        "h1": "INGYENJEGGYEL ÉS TIZIANO-KIÁLLÍTÁSSAL ÜNNEPEL A BÉCSI SZÉPMŰVÉSZETI MÚZEUM",
+        "txtlength": 5532
+    },
+    {
+        "hostname": "alapblog.hu",
+        "pagelink": "https://alapblog.hu/a-sziv-alaku-recesszio/",
+        "h1": "A SZÍV ALAKÚ RECESSZIÓ",
+        "txtlength": 4309
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/global/20210124/koronavirus-nagyok-a-vitak-a-brit-es-del-afrikai-mutacio-korul-mikozben-gyors-utemben-oltanak-tobb-helyen-466560",
+        "h1": "Koronavírus: nagyok a viták a brit és dél-afrikai mutáció körül, miközben gyors ütemben oltanak több helyen ",
+        "txtlength": 16765
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vilag/20210124/nem-eri-meg-csokkenteni-a-gazdagok-adojat/",
+        "h1": "Nem éri meg csökkenteni a gazdagok adóját",
+        "txtlength": 13623
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210124_szanyiek_szerint_megindult_a_baloldali_szavazok_aramlasa_az_iszomm_fele",
+        "h1": "Szanyiék szerint megindult a baloldali szavazók áramlása az ISZOMM felé",
+        "txtlength": 13416
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vilag/20210122/brit-helyett-holland-egyetemek-lehetnek-a-magyar-diakok-uj-kedvencei/",
+        "h1": "Brit helyett holland egyetemek lehetnek a magyar diákok új kedvencei",
+        "txtlength": 13341
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210104_bayer_zsolt_peticiot_indit_a_baloldal_halalkampanya_ellen",
+        "h1": "Bayer Zsolt petíciót indít „a baloldal halálkampánya” ellen",
+        "txtlength": 12895
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210123_navalnij_ugy_ellenzeki_tomegtuntetesek_kezdodtek_oroszorszagban",
+        "h1": "Navalnij-ügy: ellenzéki tömegtüntetések kezdődtek Oroszországban",
+        "txtlength": 12793
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/szuloseg/2021/01/17/testver-testversorrend/",
+        "h1": "EZÉRT LESZNEK PERFEKCIONISTÁK AZ ELSŐSZÜLÖTTEK – ENNYIT SZÁMÍT A SZÜLETÉSI SORREND",
+        "txtlength": 12789
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/ingatlan/20210124/milyenek-lesznek-a-lakasaink-2050-ben-466414",
+        "h1": "Milyenek lesznek a lakásaink 2050-ben?",
+        "txtlength": 12559
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20210124/elarulta-muller-cecilia-mi-a-feltetele-annak-hogy-az-orosz-vakcinat-is-felhasznalhassak-itthon-466592",
+        "h1": "Elárulta Müller Cecília, mi a feltétele annak, hogy az orosz vakcinát is felhasználhassák itthon",
+        "txtlength": 12018
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/ezo/heti_horoszkop/202104/",
+        "h1": "Heti horoszkóp január 25-től 31-ig: a Bika szerencsés, a Kos kihívás előtt áll",
+        "txtlength": 10916
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/megtakaritas/regi-banki-tevhit-szedi-aldozatait-ezen-bukik-sulyos-penzeket-rengeteg-magyar.1109644.html",
+        "h1": "Régi banki tévhit szedi áldozatait: ezen bukik súlyos pénzeket rengeteg magyar",
+        "txtlength": 10576
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/hitel/nem-is-tudjak-mekkora-veszelyben-vannak-ezek-a-magyarok-meg-tehetnek-ellene.1109662.html?r=melleklet",
+        "h1": "Nem is tudják, mekkora veszélyben vannak ezek a magyarok: még tehetnek ellene",
+        "txtlength": 9811
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2021/01/22/kipukkadt-az-internetlufi-leall-a-google-loon",
+        "h1": "KIPUKKADT AZ INTERNETLUFI, LEÁLL A GOOGLE LOON",
+        "txtlength": 5349
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kulfold/2021/01/24/tragediak-jartak-a-bortonokben-elszabadulo-koronavirus-nyomaban",
+        "h1": "Tragédiák jártak a börtönökben elszabaduló koronavírus nyomában",
+        "txtlength": 16245
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/tudomany/2021/01/24/oroszlan-lovag-angol-bizanc/",
+        "h1": "Puszta kézzel ölt meg egy oroszlánt",
+        "txtlength": 14707
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/sztarvilag/filmklikk/125-eves-a-mozi-a-menlo-park-i-varazslo/z9we91p",
+        "h1": "125 éves a mozi – A Menlo Park-i varázsló mozikalandja",
+        "txtlength": 12443
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/elet-stilus/2021/01/24/orgazmus-merevedesi-zavar-teljesitmeny-tanacsadas/",
+        "h1": "A szexben a teljesítmény erőltetése kudarchoz vezet",
+        "txtlength": 12200
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/kulfold/koronavirus-oltas-egymillioan-egyesult-kiralysag/qj22hzs",
+        "h1": "Koronavírus: közel egymillióan kaptak oltást a hétvégén az Egyesült Királyságban",
+        "txtlength": 11347
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kultura/2021/01/24/lupin-netflix-sorozat-kritika-omar-sy/",
+        "h1": "Színtiszta szórakoztatás a Lupin, pedig a rendszerszintű rasszizmusról mesél",
+        "txtlength": 11127
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/siklosnagyfalu-polgarmester-sikkasztas-gyanu-letartoztatas-lakok-megszolaltak/qh1jtpp",
+        "h1": "Megszólaltak Siklósnagyfalu lakói: ezt gondolják a polgármesterükről, akit sikkasztás gyanújával tartóztattak le",
+        "txtlength": 11073
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/vilag/20210124_Egy_tuszvalsag_amely_megvaltoztathatta_egy_amerikai_elnokvalasztas_eredmenyet",
+        "h1": "Egy túszválság, amely megváltoztathatta egy amerikai elnökválasztás eredményét",
+        "txtlength": 10653
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/01/24/a-madridi-prado-a-noi-muveszeket-jobban-hangsulyozva-rendezi-at-allando-tarlatat",
+        "h1": "A madridi Prado a női művészeket jobban hangsúlyozva rendezi át állandó tárlatát",
+        "txtlength": 9740
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/01/23/kotyvasztott-varazsitallal-kuzdott-sri-lanka-a-virus-ellen-most-atternek-az-astrazenecara",
+        "h1": "Kotyvasztott varázsitallal küzdött a miniszter a vírus ellen, nem jött be",
+        "txtlength": 9577
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/foto/2021/01/24/mifele-ferfiak-futtyognek-vadidegen-nokre-az-utcan",
+        "h1": "Miféle férfiak füttyögnek vadidegen nőkre az utcán?",
+        "txtlength": 9082
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20210124_Muller_Cecilia_Otthonaikban_a_haziorvos_oltja_majd_a_60_ev_felettieket",
+        "h1": "Müller Cecília: Otthonaikban, a háziorvos oltja majd a 60 év felettieket",
+        "txtlength": 8936
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/sport/20210123_kezilabda_vb_lengyelorszag_magyarorszag",
+        "h1": "Kézilabda-vb: újabb győzelem után negyeddöntős a magyar válogatott",
+        "txtlength": 8686
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/gazdasag/2021/01/24/nem-meltanyolta-a-szolgaltato-hogy-koronavirus-miatt-kesett-a-villanyszamla-befizetese",
+        "h1": "Nem méltányolta a szolgáltató, hogy koronavírus miatt késett a villanyszámla befizetése",
+        "txtlength": 8091
+    },
+    {
+        "hostname": "nosalty.hu",
         "pagelink": "https://www.nosalty.hu/recept/aranygaluska-ahogy-nagymamam-kesziti",
         "h1": "Aranygaluska ahogy a nagymamám készíti",
         "txtlength": 11782
