@@ -1,6 +1,222 @@
 [
     {
         "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/hagyomanyos-edes-fank",
+        "h1": "Hagyományos édes fánk",
+        "txtlength": 11139
+    },
+    {
+        "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/mezes-kremes",
+        "h1": "Mézes krémes",
+        "txtlength": 10308
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/sertestokany-agi-modra.recept",
+        "h1": "SERTÉSTOKÁNY ÁGI MÓDRA",
+        "txtlength": 8853
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/vizes-zsemle.recept",
+        "h1": "EGYSZERŰ VIZES ZSEMLE",
+        "txtlength": 8826
+    },
+    {
+        "hostname": "receptneked.hu",
+        "pagelink": "https://receptneked.hu/gyors/bundas-kenyer-maskeppen/",
+        "h1": "Bundás kenyér másképpen recept",
+        "txtlength": 3527
+    },
+    {
+        "hostname": "receptneked.hu",
+        "pagelink": "https://receptneked.hu/gyors/serpenyos-pizza/",
+        "h1": "Serpenyős pizza recept",
+        "txtlength": 3513
+    },
+    {
+        "hostname": "kiszamolo.hu",
+        "pagelink": "https://kiszamolo.hu/haz-venni-vagy-epiteni/",
+        "h1": "Ház: venni vagy építeni?",
+        "txtlength": 38570
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/lajfhekk/2021/01/25/beszorult-tampon/",
+        "h1": "ÍGY KÜZDJ MEG EGY BENNRAGADT TAMPONNAL",
+        "txtlength": 11880
+    },
+    {
+        "hostname": "alapblog.hu",
+        "pagelink": "https://alapblog.hu/a-hazai-vegyes-alapok-tavalyi-everol-mas-nezopontbol/",
+        "h1": "A HAZAI VEGYES ALAPOK TAVALYI ÉVÉRŐL MÁS NÉZŐPONTBÓL",
+        "txtlength": 7480
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210123_csak_janos_interju",
+        "h1": "A Nyugat a sorsunk, de azon belül van szuverenitásunk – Csák János a Mandinernek",
+        "txtlength": 33802
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20210125/tudtuk-hogy-sok-minden-mas-lesz-a-brexit-utan-es-ezt-a-magyarok-is-megerzik-majd-466424",
+        "h1": "Tudtuk, hogy sok minden más lesz a Brexit után, és ezt a magyarok is megérzik majd",
+        "txtlength": 24474
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2021/01/25/az-evolucio-es-a-statisztika",
+        "h1": "AZ EVOLÚCIÓ ÉS A STATISZTIKA",
+        "txtlength": 19168
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/kozelet/20210125/a-legszukosebb-eroforrasra-lenne-most-szukseg-az-oltokampanyban-turelemre/",
+        "h1": "A legszűkösebb erőforrásra lenne most szükség az oltókampányban: türelemre",
+        "txtlength": 18512
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210122_gyongyosi_marton_jobbik_orosz_oroszorszag_ukrajna_kitiltas_krim_donyeck",
+        "h1": "Mi köze Gyöngyösi Mártonnak az oroszokhoz?",
+        "txtlength": 15190
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/ingatlan/20210125/jonne-a-tobb-tizezer-uj-lakas-es-hazepites-itthon-de-keresztbe-tesz-a-burokracia-466634",
+        "h1": "Jönne a több tízezer új lakás és házépítés itthon, de keresztbe tesz a bürokrácia",
+        "txtlength": 14561
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210125_lengyel_elnok_az_eu_nak_erositenie_kell_az_oroszorszag_elleni_szankciokat",
+        "h1": "Lengyel elnök: Az EU-nak erősítenie kell az Oroszország elleni szankciókat",
+        "txtlength": 13603
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/adat/20210124/egyre-kevesebb-a-jelentkezo-nagy-faba-vagja-a-fejszet-az-uj-agraregyetem/",
+        "h1": "Egyre kevesebb a jelentkező, nagy fába vágja a fejszét az új agráregyetem",
+        "txtlength": 12409
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/vasarlas/kegyetlen-lopasok-az-interneten-itt-a-lista-melyik-jelszavakra-vasarlasokra-figyelj.1109654.html",
+        "h1": "Kegyetlen lopások az interneten: itt a lista, melyik jelszavakra, vásárlásokra figyelj!",
+        "txtlength": 12382
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/lajfhekk/2021/01/25/beszorult-tampon/",
+        "h1": "ÍGY KÜZDJ MEG EGY BENNRAGADT TAMPONNAL",
+        "txtlength": 11880
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/uzlet/20210125/hamar-elfogyott-a-lendulet-elolvadtak-a-pluszok-a-tozsdeken-466620",
+        "h1": "Hamar elfogyott a lendület, elolvadtak a pluszok a tőzsdéken ",
+        "txtlength": 11620
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/egeszseg/koronavirus-oltas-tevhitek/",
+        "h1": "4 tévhit a koronavírus-vakcináról: nem tesz meddővé, és nem helyettesíti a BCG-oltás a kutatók szerint",
+        "txtlength": 10899
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/biztositas/brutalis-hajsza-a-covid-vakcinaert-tavaszra-meglehet-a-kritikus-magyar-immunitas.1109516.html?r=melleklet",
+        "h1": "Brutális hajsza a Covid-vakcináért: tavaszra meglehet a kritikus magyar immunitás?",
+        "txtlength": 9687
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/gazdasag/2021/01/25/i-kerulet-uj-lakasrendelet-miatt-emelkedik-az-orokberleti-jogosok-lakbere",
+        "h1": "Kényszerből maradtak bérlők, most többszörösére emelik a lakhatási költségüket",
+        "txtlength": 23949
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/koornavirus-magyarorszag-uj-fertozottek-844-elhunyt-56/ykhest4",
+        "h1": "Megjöttek a friss járványügyi adatok: csökkent a hazai fertőzöttek napi száma, elhunyt 56 beteg",
+        "txtlength": 17153
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/fn/gazdasag/2021/01/25/nyugdij-nyugdijemeles-leszakadas-nyugdijasok/",
+        "h1": "Veszedelmes tempóban szakad szét a nyugdíjas társadalom",
+        "txtlength": 11973
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/sztarvilag/zene/a-dal-2021-verseny-elso-valogato/jq0mm52",
+        "h1": "Indul A Dal 2021: Ők lépnek színpadra a jubileumi évad első válogatójában",
+        "txtlength": 11880
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/01/25/trump-legalabb-30573-szor-hazudott-az-elnoksege-alatt-ennek-majdnem-a-felet-az-utolso-eveben",
+        "h1": "Trump legalább 30573-szor hazudott az elnöksége alatt, ennek majdnem a felét az utolsó évében",
+        "txtlength": 11480
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/kulfold/izrael-tiltakozas-zarlat-busz-felgyujtas/grzwx4g",
+        "h1": "Tovább fajultak a zavargások Izraelben: kövekkel dobáltak, majd felgyújtottak egy buszt a zárlat ellen tiltakozók",
+        "txtlength": 11357
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/tudomany/20210123_Ugy_latszik_tul_koran_kezdtek_el_azzal_riogatni_hogy_a_brit_virusmutans_halalosabb",
+        "h1": "Úgy látszik, túl korán kezdtek el azzal riogatni, hogy a brit vírusmutáns halálosabb",
+        "txtlength": 10476
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/01/25/egy-civil-aldozat-beperelt-14-multinacionalis-vegyipari-ceget-amelyek-az-agent-orange-nevu-gyomirtot-eladtak-a-vietnamban-harcolo-amerikai-hadseregnek",
+        "h1": "Egy civil áldozat beperelt 14 multinacionális vegyipari céget, amelyek az Agent Orange nevű gyomirtót eladták a Vietnamban harcoló amerikai hadseregnek",
+        "txtlength": 10066
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/tudomany/20210125_hamisitas_csalas_covid_teszt_koronavirus_photoshop_paint",
+        "h1": "Hamisítani kezdték a Covid-tesztek eredményét, hogy pénzt spóroljanak és utazhassanak",
+        "txtlength": 9698
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/tudomany/20210125_youtube_kereses_hashtag_kulcsszo",
+        "h1": "Megváltozott a YouTube egyik funkciója, ezernyi új videót fedezhet fel vele",
+        "txtlength": 9000
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2021/01/24/muller-cecilia-vakcina/",
+        "h1": "Müller Cecília: A népegészségügyi központ vizsgálja az orosz vakcinát",
+        "txtlength": 8494
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kultura/2021/01/25/hetkoznapi-csalodasok-raktarkoncert-punk-bohoc-megvertek/",
+        "h1": "Raktárkoncertjük után megverték a Hétköznapi Csalódások bohócát",
+        "txtlength": 7962
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/belfold/2021/01/25/21-professzor-debreceni-egyetem-modellvaltas",
+        "h1": "21 debreceni professzor nyíltan kiáll egyetemük egyeztetés nélküli átalakítása ellen",
+        "txtlength": 6454
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/eszkombajn/2021/01/25/olajfuro-torony-vilag-masodik-legmagasabb-epitmenye-640-meter-petronius",
+        "h1": "A világ második legmagasabb építményéből alig 75 méter látszik ki a tengerből",
+        "txtlength": 6279
+    },
+    {
+        "hostname": "nosalty.hu",
         "pagelink": "https://www.nosalty.hu/recept/tradicionalis-gulyasleves",
         "h1": "Tradicionális gulyásleves",
         "txtlength": 11379
