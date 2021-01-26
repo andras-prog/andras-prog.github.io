@@ -1,6 +1,222 @@
 [
     {
         "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/hagyomanyos-toltott-paprika",
+        "h1": "Hagyományos töltött paprika",
+        "txtlength": 11354
+    },
+    {
+        "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/klasszikus-toltott-kaposzta",
+        "h1": "Klasszikus töltött káposzta",
+        "txtlength": 10836
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/eleszto-nelkuli-pudingos-fank-gluten-laktoz-es-cukor-nelkul.recept",
+        "h1": "ÉLESZTŐ NÉLKÜLI PUDINGOS FÁNK (GLUTÉN, LAKTÓZ ÉS CUKOR NÉLKÜL)",
+        "txtlength": 8684
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/duplan-sajtos-rud.recept",
+        "h1": "DUPLÁN SAJTOS RÚD",
+        "txtlength": 8367
+    },
+    {
+        "hostname": "receptneked.hu",
+        "pagelink": "https://receptneked.hu/gyors/baconben-sult-sajttekercs-1/",
+        "h1": "Baconben sült sajttekercs recept",
+        "txtlength": 3462
+    },
+    {
+        "hostname": "receptneked.hu",
+        "pagelink": "https://receptneked.hu/gyors/10-perces-csokis-finomsag/",
+        "h1": "10 perces csokis finomság recept",
+        "txtlength": 3406
+    },
+    {
+        "hostname": "kiszamolo.hu",
+        "pagelink": "https://kiszamolo.hu/a-sok-adossag-betegge-tesz/",
+        "h1": "A sok adósság beteggé tesz",
+        "txtlength": 37940
+    },
+    {
+        "hostname": "alapblog.hu",
+        "pagelink": "https://alapblog.hu/2020-legolvasottabb-cikkei-az-alapblogon/",
+        "h1": "BEST OF 2020",
+        "txtlength": 7000
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210125_nem_sztar_hanem_lizingelt_miniszter_vagyok_palkovics_laszlo_a_mandinernek",
+        "h1": "„Nem sztár-, hanem lízingelt miniszter vagyok” – Palkovics László a Mandinernek",
+        "txtlength": 30668
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210123_pride_zaszlo_kina_legyozese_es_ukran_tolvajmentesites_ezeket_igeri_biden_leendo_kulugyminisztere_kesz",
+        "h1": "Pride-zászló, Kína legyőzése és ukrán tolvajmentesítés: ezeket ígéri Biden leendő külügyminisztere",
+        "txtlength": 25244
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2021/01/25/az-internet-hozzaferes-egyre-olcsobb-a-minosegi-tartalom-viszont-egyre-dragabb-lesz",
+        "h1": "AZ INTERNET-HOZZÁFÉRÉS EGYRE OLCSÓBB, A MINŐSÉGI TARTALOM VISZONT EGYRE DRÁGÁBB LESZ",
+        "txtlength": 21087
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210125_buborek_bacskai_adrienn_magyar_segitok",
+        "h1": "Mozgás, terápia, Buborék – Bacskai Adrienn portréja",
+        "txtlength": 18228
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/testem/2021/01/20/feherje-tenyek-tevhitek-sporttaplalkozas/",
+        "h1": "EDZÉS ÉS FEHÉRJE: MIKOR, MENNYIT, HOGYAN FOGYASSZ A LEGJOBB EREDMÉNY ÉRDEKÉBEN?",
+        "txtlength": 18043
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/kozelet/20210125/hiaba-termelunk-tobbet-az-ipar-szerkezete-es-a-forint-gyengulese-fekezi-a-felzarkozasunkat/",
+        "h1": "Hiába termelünk többet, az ipar szerkezete és a forint gyengülése fékezi a felzárkózásunkat",
+        "txtlength": 18007
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20210126/meg-a-2021-es-ev-is-a-koronavirus-elleni-kuzdelemmel-telik-466668",
+        "h1": "Még a 2021-es év is a koronavírus elleni küzdelemmel telik?",
+        "txtlength": 17731
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/kozelet/20210126/visszaesett-a-bevandorlas-magyarorszagra-a-koronavirus-jarvany-miatt/",
+        "h1": "Visszaesett a bevándorlás Magyarországra a koronavírus-járvány miatt",
+        "txtlength": 17085
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/uzlet/20210126/kegyetlen-hegycsucs-amikor-mindent-maga-ala-temet-a-tozsdei-zuhanas-466706",
+        "h1": "Kegyetlen hegycsúcs: amikor mindent maga alá temet a tőzsdei zuhanás",
+        "txtlength": 13996
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/ingatlan/20210125/felpezsditik-a-hazai-ingatlanpiacot-a-zold-befektetesek-465926",
+        "h1": "Felpezsdítik a hazai ingatlanpiacot a zöld befektetések",
+        "txtlength": 13873
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/nyugdij/nyakunkon-a-sirig-tarto-munka-konyortelen-evtizedek-varnak-az-idos-magyarokra.1109748.html",
+        "h1": "Nyakunkon a sírig tartó munka: könyörtelen évtizedek várnak az idős magyarokra",
+        "txtlength": 12114
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/vasarlas/nesze-neked-gyenge-forint-orulet-mennyit-dragultak-az-autok-magyarorszagon.1109448.html?r=melleklet",
+        "h1": "Nesze neked gyenge forint: őrület, mennyit drágultak az autók Magyarországon",
+        "txtlength": 11693
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/egeszseg/szokasok-covid-utan/",
+        "h1": "Meglepő, milyen sok új szokásom lett a Covid alatt! Mit mentek át 2020-ból?",
+        "txtlength": 11273
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/lajfhekk/2021/01/10/kutya-teve/",
+        "h1": "ÍGY LÁTJA A KUTYA A TÉVÉT",
+        "txtlength": 6903
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2021/01/26/lazar-janos-godollo-fidesz-hodmezovasarhely-agrarium-nagyinterju/",
+        "h1": "Lázár János: Orbán Viktor állja és adja is a pofonokat, de amint korrektül viselkednek vele, simulékonyabbá válik",
+        "txtlength": 45090
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kulfold/2021/01/26/kozossegi-media-szolasszabadsag-schiffer-trump/",
+        "h1": "Schiffer András: A közösség média egyetlen kattintással képes puccsot csinálni",
+        "txtlength": 30604
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kultura/2021/01/25/rekasi-karoly-interju-baratok-kozt-pozsonyi-csata/",
+        "h1": "Rékasi Károly: A szappanopera-szereplők a szakma szemében az ebolavírus szintjén voltak",
+        "txtlength": 21316
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/belfold/2021/01/26/cenzuraztak-a-hetkoznapi-csalodasok-raktarkoncertjet-majd-a-felvetel-utan-megvertek-a-stabjuk-egyik-tagjat-is",
+        "h1": "Cenzúrázták a Hétköznapi Csalódások raktárkoncertjét",
+        "txtlength": 18112
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/gazdasag/20210126_2020_kozponti_koltsegvetes_hiany_fejezetek_allamkincstar",
+        "h1": "Íme, a kormány árnyékköltségvetése: így jött össze az 5 ezer milliárd forintos hiány",
+        "txtlength": 17477
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/virus-miatt-bezarni-kenyszerult-vendeglosok-segelykialtas/6wf0x7w",
+        "h1": "A vírus miatt bezárni kényszerült vendéglősök segélykiáltása: „Nyitunk vagy éhen halunk!” – Megszólalt a nagykanizsai presszó tulajdonosa",
+        "txtlength": 15923
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kulfold/2021/01/26/hollandia-kormany-lemondas-csalas-adohivatal-botrany",
+        "h1": "Nyolc éve érlelődött a holland kormány csúnya bukása",
+        "txtlength": 14952
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/koronavirus/2021/01/25/az-orosz-vakcina-a-szakertok-negativ-velemenye-ellenere-kapta-meg-a-magyar-engedelyt",
+        "h1": "Az orosz vakcina a szakértők negatív véleménye ellenére kapta meg a magyar engedélyt",
+        "txtlength": 13544
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/01/25/ellenzeki-politikusok-is-a-vendeglatast-korlatozo-szabalyok-enyhiteset-kerik-a-kormany-szerint-a-vakcinak-beszerzesen-mulik-minden",
+        "h1": "Ellenzéki politikusok is a vendéglátást korlátozó szabályok enyhítését kérik, a kormány szerint a vakcinák beszerzésén múlik minden",
+        "txtlength": 12947
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/01/25/a-lengyel-elnok-erosebb-eu-s-szankciokat-akar-oroszorszag-ellen",
+        "h1": "A lengyel elnök erősebb EU-s szankciókat akar Oroszország ellen",
+        "txtlength": 12869
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/koronavirus-jarvany-oltas-szent-laszlo-korhaz-fonover/lxgw5th",
+        "h1": "„Nem tudjuk, hogyan fogunk meghalni, de így senki nem szeretne” – Az oltásról is beszélt a Szent László kórház intenzív osztályának főnővére – exkluzív videó",
+        "txtlength": 12392
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/penz/mnb-buntetes-goldsten-limited/fy5nsns",
+        "h1": "Óriásit buktak a magyarok, akik hittek a befektetési cég ígéreteinek – Gigantikus büntetés az MNB-től, döbbenetes kamuprofit ígérete egy angol cég magyarjaitól",
+        "txtlength": 12262
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/sport/20210125_kezilabda_vb_gulyas_istvan_szovetsegi_kapitany_gyori_matyas_balogh_zsolt",
+        "h1": "Kapitány a spanyolok elleni vereségről: Talán még szégyellték is magukat",
+        "txtlength": 9862
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/elet/20210126_Burai_Vera__Nagyitoeffektus_a_jarvany_idejen",
+        "h1": "Miért nem kerülnek előre az oltási tervben az óvodai és iskolai dolgozók?",
+        "txtlength": 9780
+    },
+    {
+        "hostname": "nosalty.hu",
         "pagelink": "https://www.nosalty.hu/recept/hagyomanyos-edes-fank",
         "h1": "Hagyományos édes fánk",
         "txtlength": 11139
