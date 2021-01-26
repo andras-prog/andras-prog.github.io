@@ -1,6 +1,216 @@
 [
     {
         "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/falusi-almas-pite",
+        "h1": "Falusi almás pite",
+        "txtlength": 10625
+    },
+    {
+        "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/fanta-szelet-detty-konyhajabol",
+        "h1": "Fanta szelet Detty konyhájából",
+        "txtlength": 10045
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/tejszines-rakott-teszta-pulykamellel.recept",
+        "h1": "TEJSZÍNES RAKOTT TÉSZTA PULYKAMELLEL",
+        "txtlength": 9499
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/a-legegyszerubb-bolognai-spagetti-elronthatatlan.recept",
+        "h1": "A LEGEGYSZERŰBB BOLOGNAI SPAGETTI",
+        "txtlength": 8836
+    },
+    {
+        "hostname": "receptneked.hu",
+        "pagelink": "https://receptneked.hu/gyors/toltott-zsemle-2/",
+        "h1": "Töltött zsemle recept",
+        "txtlength": 3544
+    },
+    {
+        "hostname": "receptneked.hu",
+        "pagelink": "https://receptneked.hu/gyors/sajtos-sult-rizsgolyok/",
+        "h1": "Sajtos sült rizsgolyók recept",
+        "txtlength": 3505
+    },
+    {
+        "hostname": "kiszamolo.hu",
+        "pagelink": "https://kiszamolo.hu/mintha-ezer-eve-lett-volna/",
+        "h1": "Mintha ezer éve lett volna",
+        "txtlength": 36216
+    },
+    {
+        "hostname": "alapblog.hu",
+        "pagelink": "https://alapblog.hu/hetvegi-cikkajanlo-171/",
+        "h1": "HÉTVÉGI CIKKAJÁNLÓ",
+        "txtlength": 3463
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/global/20210126/koronavirus-atlepte-a-100-milliot-a-fertozottek-szama-a-vilagon-466776",
+        "h1": "Koronavírus: átlépte a 100 milliót a fertőzöttek száma a világon ",
+        "txtlength": 35862
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vallalat/20210126/ilyen-amikor-megmentenek-egy-ceget-meszaros-lorincnek-a-kulfoldi-befektetoktol-aron-alul/",
+        "h1": "Ilyen, amikor megmentenek egy céget Mészáros Lőrincnek a külföldi befektetőktől, áron alul",
+        "txtlength": 25688
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/uzlet/20210126/kis-minuszokkal-zartak-az-amerikai-indexek-a-csucsdontesek-utan-466778",
+        "h1": "Kis mínuszokkal zártak az amerikai indexek a csúcsdöntések után ",
+        "txtlength": 16823
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210127_mar_az_elozo_szfe_vezetes_alatt_tervben_volt_az_odry_szinpad_lebontasa",
+        "h1": "Már az előző SZFE-vezetés alatt tervben volt az Ódry Színpad lebontása",
+        "txtlength": 15667
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210126_jobbik_gyongyosi_marton_dobrev_klara_verhofstadt_cohn_bendit",
+        "h1": "Gyöngyösi Márton egy csapatban Dobrevvel, Verhofstadttal és Cohn-Bendittel",
+        "txtlength": 15396
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vallalat/20210126/jonnek-a-kozel-nulla-energiaigenyu-hazak-es-ennek-a-bolygon-kivul-a-penztarcad-is-orulni-fog/",
+        "h1": "Jönnek a közel nulla energiaigényű házak, és ennek a bolygón kívül a pénztárcád is örülni fog",
+        "txtlength": 15207
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210124_aggalyos_a_dk_kinai_vakcina_elleni_peticioja_peterfalvi_a_mandinernek",
+        "h1": "Aggályos a DK kínai vakcina elleni petíciója – Péterfalvi a Mandinernek",
+        "txtlength": 14172
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/karrier/ehhez-meg-egy-vilagjarvany-is-keves-nincs-az-a-penz-hogy-a-magyarok-kozmunkasnak-alljanak.1109826.html",
+        "h1": "Ehhez még egy világjárvány is kevés: nincs az a pénz, hogy a magyarok közmunkásnak álljanak",
+        "txtlength": 13280
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/uzlet/20210126/az-apple-t-egy-vilagjarvany-sem-tudja-megtorni-rekordbevetelt-jelenthet-466910",
+        "h1": "Az Apple-t egy világjárvány sem tudja megtörni - Rekordbevételt jelenthet",
+        "txtlength": 11395
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/egeszseg/gyomorrak-kezeles/",
+        "h1": "Több mint duplájára növeli a gyógyulási esélyt a korai diagnózis: a gyomorrák kezelési módszerei",
+        "txtlength": 10073
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2021/01/26/a-valsag-valhat-az-uj-normalitassa-a-foldon",
+        "h1": "A VÁLSÁG VÁLHAT AZ ÚJ NORMALITÁSSÁ A FÖLDÖN",
+        "txtlength": 9879
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/biztositas/koronavirus-vedooltasok-mutatjuk-mi-a-kulonbseg-a-pfizer-moderna-a-kinai-es-orosz-vakcina-kozott.1109754.html?r=melleklet",
+        "h1": "Koronavírus-védőoltások: mutatjuk mi a különbség a Pfizer, Moderna, a kínai és orosz vakcina között",
+        "txtlength": 9011
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/lajfhekk/2021/01/11/kialvatlansag-modszerek/",
+        "h1": "4 TIPP, HOGY MAGADHOZ TÉRJ, HA ROSSZUL ALUDTÁL",
+        "txtlength": 6752
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/tudomany/2021/01/26/koronavirus-vakcina-vedooltas-fejlesztesi-sebesseg-covid",
+        "h1": "A Covid-oltás fejlesztése nagyot lendít a vakcinaiparon, de a forradalom elmarad",
+        "txtlength": 15911
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/sport/2021/01/26/kobe-bryant-halala-egyeves-evfordulo-nba-los-angeles-lakers/",
+        "h1": "„Ha szembenézek önmagammal, és azt mondom, kudarcot vallottál, az rosszabb, mint a halál” – egy éve nincs köztünk Kobe Bryant",
+        "txtlength": 14566
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/tech/2021/01/26/sonos-five-hangprojektor-nagy-lakast-megtolt-zenevel-teszt/",
+        "h1": "A Sonos Five egy nagyobb lakást is könnyedén megtölt zenével",
+        "txtlength": 13840
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kulfold/2021/01/26/olivier-duhamel-szexualis-buncselekmeny-me-too-inceste/",
+        "h1": "Mozgalom indult a Franciaországot megrázó botrány után a gyermekek zaklatása és a hallgatás ellen",
+        "txtlength": 13241
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/sport/20210126_dardai_pal_hertha_bajnokok_ligaja",
+        "h1": "Magyar futballedző még nem kapott akkora lehetőséget, mint most Dárdai Pál",
+        "txtlength": 13207
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kulfold/2021/01/26/tse-chi-lop-azsia-kina-drogbaro-elkaptak-maffia-metamfetamin",
+        "h1": "Tíz éven át rakták össze a puzzle-t a nyomozók, hogy elkaphassák Ázsia drogbáróját",
+        "txtlength": 13013
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/gazdasag/2021/01/26/miert-ennyivel-digitalisabb-es-nemzetkozibb-egy-cseh-ceg-mint-egy-magyar",
+        "h1": "Miért ennyivel digitálisabb és nemzetközibb egy cseh cég, mint egy magyar?",
+        "txtlength": 12858
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/politika/koronavirus-vuhan-kinai-hatosagok-titkolozas/h01c1dv",
+        "h1": "A koronavírus-járvány kirobbanása: napvilágot látott Vuhan eltitkolt 54 napjának története",
+        "txtlength": 12585
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/01/26/beoltott-polgarmester-meggyogyitott-gorilla",
+        "h1": "Beoltott polgármester, meggyógyított gorilla",
+        "txtlength": 12382
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "http://www.blikk.hu/aktualis/kulfold/mesterseges-taplalas-korhaz-meghalt/q7egexn?utm_source=related&utm_medium=www.blikk.hu&utm_campaign=widget-9446979",
+        "h1": "Hónapok óta volt kómában egy lengyel férfi, mesterségesen táplálták – Most lekapcsolták a gépekről",
+        "txtlength": 11266
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/gazdasag/20210126_europai_unio_digitalis_strategia_",
+        "h1": "Az EU megtörné a Google és a többi óriás fölényét, de azok agresszív ellentámadást indíthatnak",
+        "txtlength": 11201
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/kkv/20210126_Kinyithatnake_a_lakasettermek_pandemia_idejen",
+        "h1": "„Én dolgozom. Ameddig lehet és valaki fel nem jelent”",
+        "txtlength": 11135
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/politika/varga-judit-lakasvasarlas-200-millio/g3st0mz",
+        "h1": "Varga Juditék 200 milliót költöttek lakásokra: erre a környékre esett a választásuk a férjével",
+        "txtlength": 11035
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/01/26/vidnyanszky-attila-megdobbent-a-gog",
+        "h1": "Vidnyánszky Attila: Megdöbbent a gőg",
+        "txtlength": 10936
+    },
+    {
+        "hostname": "nosalty.hu",
         "pagelink": "https://www.nosalty.hu/recept/tiramisu-5-igazi",
         "h1": "Tiramisu 5. - az \"igazi\"",
         "txtlength": 11163
