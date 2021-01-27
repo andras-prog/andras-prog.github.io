@@ -1,6 +1,216 @@
 [
     {
         "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/gyors-bolognai-spagetti",
+        "h1": "Gyors bolognai spagetti",
+        "txtlength": 10520
+    },
+    {
+        "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/tejszines-fokhagymakremleves",
+        "h1": "Tejszínes fokhagymakrémleves",
+        "txtlength": 10244
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/gulyasleves-ahogy-anyukam-kesziti.recept",
+        "h1": "GULYÁSLEVES, AHOGY ANYUKÁM KÉSZÍTI",
+        "txtlength": 8621
+    },
+    {
+        "hostname": "receptneked.hu",
+        "pagelink": "https://receptneked.hu/gyors/parizsiszoszba-forgatot-cukkini-tartarmartassal/",
+        "h1": "Párizsiszószba forgatott cukkini tartármártással recept",
+        "txtlength": 3440
+    },
+    {
+        "hostname": "receptneked.hu",
+        "pagelink": "https://receptneked.hu/gyors/fokhagymas-krumpli/",
+        "h1": "Fokhagymás krumpli recept",
+        "txtlength": 3439
+    },
+    {
+        "hostname": "kiszamolo.hu",
+        "pagelink": "https://kiszamolo.hu/a-dotkom-lufi-tortenete/",
+        "h1": "A dotkom lufi története",
+        "txtlength": 34747
+    },
+    {
+        "hostname": "alapblog.hu",
+        "pagelink": "https://alapblog.hu/a-jobol-is-megart-a-sok/",
+        "h1": "A JÓBÓL IS MEGÁRT A SOK",
+        "txtlength": 9213
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210106_lelki_szellemi_megujulas_kell",
+        "h1": "Lelki-szellemi megújulás kell! – Balog Zoltán a Mandinernek",
+        "txtlength": 30449
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/karrier/ide-menekulnek-a-tehetosebb-magyarok-gyerekei-ezzel-a-papirral-keresnenek-milliokat.1109756.html",
+        "h1": "Ide menekülnek a tehetősebb magyarok gyerekei: ezzel a papírral keresnének milliókat",
+        "txtlength": 26506
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/krtk/20210127/a-gyermekneveles-mint-befektetes-a-szuloi-felelossegek-atalakulasa-466834",
+        "h1": "A gyermeknevelés, mint befektetés? - A szülői felelősségek átalakulása",
+        "txtlength": 16809
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/elet/20210127/az-unio-odacsaphat-a-veganoknak/",
+        "h1": "Az unió odacsaphat a vegánoknak",
+        "txtlength": 16308
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/szuloseg/2021/01/11/interszex-gyerek/",
+        "h1": "EGYSZERŰ LENNE, HA CSAK KISLÁNYOK ÉS KISFIÚK SZÜLETNÉNEK – DE EZ NINCS ÍGY",
+        "txtlength": 16236
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210127_szijjarto_peter_kijevbe_latogat_de_nem_varhato_attores",
+        "h1": "Szijjártó Péter Kijevbe látogat, de nem várható áttörés",
+        "txtlength": 15070
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/gyerek/mamahotel-veszelyei/",
+        "h1": "\"Ha 30 évesen otthon él a gyerek, valószínűleg ott is marad\" - A mamahotel veszélyeiről",
+        "txtlength": 14668
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/uzlet/20210127/vallalatszeru-mukodes-a-felsooktatasban-eljott-a-maganegyetemek-ideje-466648",
+        "h1": "Vállalatszerű működés a felsőoktatásban – Eljött a magánegyetemek ideje?",
+        "txtlength": 14406
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210126_biden_putyin_targyalas",
+        "h1": "Biden Putyinnal tárgyalt",
+        "txtlength": 13666
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2021/01/27/a-szervezetunkben-elo-bakteriumok-jelentos-hatassal-lehetnek-a-covid-19-sulyossagara",
+        "h1": "A SZERVEZETÜNKBEN ÉLŐ BAKTÉRIUMOK JELENTŐS HATÁSSAL LEHETNEK A COVID-19 SÚLYOSSÁGÁRA",
+        "txtlength": 13622
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/testem/2021/01/25/legjobb-hasizomgyakorlat/",
+        "h1": "HASIZOMGYAKORLATOK TOPLISTÁJA SZAKÉRTŐKTŐL – HATÉKONYSÁG SZERINTI SORRENDBEN",
+        "txtlength": 12942
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vallalat/20210125/a-matra-labanal-gyartjak-az-azsiai-tesztakat-a-kambodzsai-csalad-franciaorszagi-uzletlancaba/",
+        "h1": "A Mátra lábánál gyártják az ázsiai tésztákat a kambodzsai család franciaországi üzletláncába",
+        "txtlength": 12937
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/global/20210127/valtozik-a-koronavirus-de-valtozik-a-gyogyszergyarak-valasza-is-466978",
+        "h1": "Változik a koronavírus, de változik a gyógyszergyárak válasza is ",
+        "txtlength": 12905
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/megtakaritas/ezek-a-juttatasok-emelkednek-a-minimalberrel-egyutt-sokan-fognak-orulni.1109848.html",
+        "h1": "Ezek a juttatások emelkednek a minimálbérrel együtt: sokan fognak örülni",
+        "txtlength": 9501
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/koronavirus-magyarorszag-1004-uj-fertozott-85-elhunyt/0m070rs",
+        "h1": "Koronavírus Magyarországon: ismét 1000 felett a napi fertőzöttek száma, elhunyt 85 beteg – Itt vannak a friss adatok",
+        "txtlength": 17214
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/politika/joe-biden-katrina-lantos-tom-lantos-magyarorszag-amerikai-elnokvalasztas/s9qtd1c",
+        "h1": "„Az elnök rajta fogja tartani a szemét Magyarországon” – Kemény beszélgetésekre számíthat a kormány Biden volt stábtagja szerint",
+        "txtlength": 16539
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/joe-biden-katrina-lantos-tom-lantos-magyarorszag-amerikai-elnokvalasztas/c432sg8",
+        "h1": "„Az elnök rajta fogja tartani a szemét Magyarországon” – Kemény beszélgetésekre számíthat a kormány Biden volt stábtagja szerint",
+        "txtlength": 16373
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/belfold/2021/01/27/angyalfold-mosoly-utca-25-tarsashaz-kikoltozes-eletveszelyes-allapotban-onkormanyzat",
+        "h1": "Addig halogatták a felújítást, hogy életveszélyes lett az angyalföldi ház, és ki kellett költözniük a lakóknak",
+        "txtlength": 14615
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/belfold/2021/01/27/varga-judit-miniszter-ingatlan-balatonhenye-lakas-magyar-peter-vagyonnyilatkozat",
+        "h1": "Az elmúlt pár évben nagy ingatlanmágus lett Varga Judit",
+        "txtlength": 13039
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/belfold/2021/01/26/xv-kerulet-szilas-to-nevesincs-to-fakitermeles-erdo-termeszetvedelmi-terulet-natura-2000",
+        "h1": "Eddig őzikék jártak itt, most buldózerek",
+        "txtlength": 12533
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2021/01/27/mtu-egyedi-tamogatas-balatoni-kor-laposa-bence-guller-zoltan/",
+        "h1": "Titkos találkozó után lett botrány a turizmuspénzek fű alatti kiosztásából",
+        "txtlength": 12433
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/tudomany/2021/01/27/koronavirus-covid-19-kotelezo-oltas-vakcina-felmeres/",
+        "h1": "Az emberek nagy része nem támogatja a kötelező oltást",
+        "txtlength": 11114
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/tudomany/20210127_koronavirus_tudo_legut_tudogyulladas",
+        "h1": "Új dolgot fedeztek fel a koronavírusról magyar kutatók, ez is segítheti a védekezést",
+        "txtlength": 10897
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://rangado.24.hu/nemzetkozi_foci/2021/01/27/dardai-pal-visszateres-hertha-bsc/",
+        "h1": "Majdnem két évbe telt, mire Berlinben is leesett, hogy nem Dárdaival volt baj",
+        "txtlength": 10523
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/01/26/a-francia-belugyminiszter-feloszlatna-az-identitas-generacio-nevu-szelsojobboldali-szervezetet",
+        "h1": "A francia belügyminiszter feloszlatná az Identitás Generáció nevű szélsőjobboldali szervezetet",
+        "txtlength": 10463
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/01/26/szlovakiaban-oltas-utan-meghalt-egy-79-eves-tobb-kronikus-betegsegben-szenvedo-ferfi",
+        "h1": "Szlovákiában oltás után meghalt egy 79 éves, több krónikus betegségben szenvedő férfi",
+        "txtlength": 10146
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/tudomany/20210127_vonatkozlekedes_dalian_talien_kina_vasut_flash",
+        "h1": "20 órára leállt a vonatközlekedés egy kínai városban, mert Flash-alapú rendszert használtak",
+        "txtlength": 8128
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/tudomany/20210127_legszennyezes_latasromlas_latasvesztes_makuladegeneracio_amd",
+        "h1": "A rossz levegő visszafordíthatatlanul roncsolhatja a látást",
+        "txtlength": 8027
+    },
+    {
+        "hostname": "nosalty.hu",
         "pagelink": "https://www.nosalty.hu/recept/falusi-almas-pite",
         "h1": "Falusi almás pite",
         "txtlength": 10625
