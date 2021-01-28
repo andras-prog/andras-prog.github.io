@@ -1,6 +1,192 @@
 [
     {
         "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/gyors-chilis-bab",
+        "h1": "Gyors chilis bab",
+        "txtlength": 10369
+    },
+    {
+        "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/konnyu-puha-turogomboc",
+        "h1": "Könnyű és puha túrógombóc",
+        "txtlength": 10196
+    },
+    {
+        "hostname": "receptneked.hu",
+        "pagelink": "https://receptneked.hu/gyors/bundaskenyer-muffin/",
+        "h1": "Bundáskenyér muffin recept",
+        "txtlength": 3399
+    },
+    {
+        "hostname": "receptneked.hu",
+        "pagelink": "https://receptneked.hu/gyors/sutoben-sult-hotdog/",
+        "h1": "Sütőben sült hotdog recept",
+        "txtlength": 3359
+    },
+    {
+        "hostname": "hataratkelo.blog.hu",
+        "pagelink": "https://hataratkelo.blog.hu/2021/01/25/a_kulfoldi_elet_varatlan_kiadasai",
+        "h1": "A külföldi élet váratlan kiadásai",
+        "txtlength": 92668
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/uzlet/20210128/ez-mar-a-szintiszta-orulet-nem-normalis-hogy-egy-nap-alatt-megduplazod-a-penzedet-467000",
+        "h1": "Ez már a színtiszta őrület - Nem normális, hogy egy nap alatt megduplázod a pénzedet!",
+        "txtlength": 21742
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/uzlet/20210127/beszakadtak-az-amerikai-tozsdek-600-pontos-minuszban-zart-a-dow-466950",
+        "h1": "Beszakadtak az amerikai tőzsdék: 600 pontos mínuszban zárt a Dow ",
+        "txtlength": 18338
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20210128/osszecsapott-a-ket-globalis-szuperhatalom-a-tet-ki-latja-el-energiaval-europat-467030",
+        "h1": "Összecsapott a két globális szuperhatalom - A tét, ki látja el energiával Európát",
+        "txtlength": 17109
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vallalat/20210128/a-vendeglatas-egyik-reszet-magara-hagyta-a-kormany-a-masik-reszenek-nem-utalja-a-megigert-tamogatast/",
+        "h1": "A vendéglátás egyik részét magára hagyta a kormány, a másik részének nem utalja a megígért támogatást",
+        "txtlength": 16903
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/kapcsolat/hol-kene-tartanod-a-karrieredben/",
+        "h1": "Hol kéne már tartanod a karrieredben? Mások szerint nem lett belőled senki? És?!",
+        "txtlength": 14215
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/elet/20210127/ugy-tunik-%ef%bb%bfa-korlatozasokkal-sikerult-elkerulnunk-a-fertozesek-ujabb-hullamat/",
+        "h1": "Úgy tűnik, ﻿a korlátozásokkal sikerült elkerülnünk a fertőzések újabb hullámát",
+        "txtlength": 14162
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/utazas/ne-is-almodj-filleres-nyaralasrol-a-jarvany-utan-egekbe-szokhetnek-az-arak.1109814.html?r=melleklet",
+        "h1": "Ne is álmodj filléres nyaralásról a járvány után: egekbe szökhetnek az árak",
+        "txtlength": 13723
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210127_egyutt_kuzd_a_holokauszttagadas_ellen_a_facebook_es_az_unesco",
+        "h1": "Együtt küzd a holokauszttagadás ellen a Facebook és az UNESCO",
+        "txtlength": 13427
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://makronom.mandiner.hu/cikk/20210127_ezek_2021_legnagyobb_globalis_kockazatai",
+        "h1": "Ezek a kockázatok temethetik maguk alá a világot 2021-ben",
+        "txtlength": 13377
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210127_az_ellenzeki_osszefogasnak_nem_kell_az_uj_vilag",
+        "h1": "Pálinkás József is szeretne csatlakozni az előválasztáshoz",
+        "txtlength": 12247
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/szuloseg/2021/01/21/boldogsag-gyerekvallalas/",
+        "h1": "TÉVEDSZ, HA AZT HISZED, A GYEREKVÁLLALÁSTÓL GARANTÁLTAN BOLDOG LESZEL",
+        "txtlength": 12203
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2021/01/28/sok-szulo-es-diak-attol-tart-hogy-az-online-oktatas-keves-lesz-a-sikeres-erettsegihez",
+        "h1": "SOK SZÜLŐ ÉS DIÁK ATTÓL TART, HOGY AZ ONLINE OKTATÁS KEVÉS LESZ A SIKERES ÉRETTSÉGIHEZ",
+        "txtlength": 11801
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/megtakaritas/van-par-millio-forintod-igy-fektesd-be-2021-ben-ha-kaszalni-akarsz-ebben-az-evtizedben.1109864.html",
+        "h1": "Van pár millió forintod? Így fektesd be 2021-ben, ha kaszálni akarsz ebben az évtizedben",
+        "txtlength": 10240
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2021/01/28/majka-koronavirus-orosz-rulett-egeszsegugy-orban-gyurcsany-korda-kozelet-interju/",
+        "h1": "Majka: Álszentség elvárni egy ismert embertől, hogy puritán legyen, főleg, ha az egészségéről van szó",
+        "txtlength": 22662
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/belfold/2021/01/28/magyarorszag-tovabbra-is-az-egyik-legkorruptabb-orszag-az-eu-ban",
+        "h1": "Magyarország továbbra is az egyik legkorruptabb ország az EU-ban",
+        "txtlength": 17886
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kultura/2021/01/27/izraeli-sorozatok-teheran-konnyek-volgye-senkik-foldje/",
+        "h1": "Háborús zónában jobban pörög a forgatókönyvírók agya is",
+        "txtlength": 16248
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/01/27/a-kesesert-szives-elnezesunket-kerik-de",
+        "h1": "A késésért szíves elnézésünket kérik, de",
+        "txtlength": 14021
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/belfold/2021/01/28/bontas-muemlek-wichmann-marvanymenyasszony-radetzky-muemlekvedelem-korrupcio-ner-tiborcz-szivek-gulyas-gergely",
+        "h1": "Lerombolják a várost, ha politikusok játszanak műemlékvédőset",
+        "txtlength": 13949
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/01/27/attores-nemet-es-kenyai-kutatok-megallapitottak-hogy-kelet-afrikaban-mar-evezredek-ota-isznak-kecsketejet",
+        "h1": "Áttörés: német és kenyai kutatók megállapították, hogy Kelet-Afrikában már évezredek óta isznak kecsketejet",
+        "txtlength": 11929
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/gazdasag/20210128_korrupcio_transparency_cpi",
+        "h1": "Egy évtized munkája beérett: az EU legkorruptabb országa lettünk",
+        "txtlength": 11629
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/kormanyinfo-gulyas-gergely-jarvany-dontesek-kormanyules/f3dkbrw",
+        "h1": "Kormányinfó – Itt vannak a kormány döntései - meghosszabbítják a rendkívüli jogrendet és a korlátozásokat is - eddig",
+        "txtlength": 11397
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/kutba-zuhant-idos-ferfi-kuzdott-eleteert-edeleny/ge521yv",
+        "h1": "Jéghideg vízbe zuhant a 82 éves Béla bácsi Edelényben: hét méter mély kút fenekén küzdött az életéért – Kiderült, mi történt pontosan",
+        "txtlength": 11351
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/eszkombajn/2021/01/28/otvenezren-lattak-ahogy-frey-alfred-gepe-a-nyitott-tribunre-zuhan",
+        "h1": "Ötvenezer néző előtt történt az első magyar légi baleset",
+        "txtlength": 10984
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kozelet/2021/01/28/nemeth-szilard-borbely-lenard-csepel-fidesz-kimba/",
+        "h1": "Németh Szilárd már szóba sem áll Csepel fideszes vezetésével",
+        "txtlength": 10881
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/gazdasag/20210128_A_nyugdijasok_85_szazalekanak_nehezseget_okozna_a_megelhetes_ha_megbetegedne",
+        "h1": "A nyugdíjasok 85 százalékának nehézséget okozna a megélhetés, ha megbetegedne",
+        "txtlength": 10837
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/tudomany/20210128_bill_gates_alhirek_osszeeskuves_elmelet_koronavirus_jarvany",
+        "h1": "\"Az emberek tényleg elhiszik ezeket?” – Bill Gates nyilatkozott a koronavírusos összeesküvés-elméletekről",
+        "txtlength": 9144
+    },
+    {
+        "hostname": "nosalty.hu",
         "pagelink": "https://www.nosalty.hu/recept/gyors-bolognai-spagetti",
         "h1": "Gyors bolognai spagetti",
         "txtlength": 10520
