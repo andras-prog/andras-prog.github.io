@@ -1,6 +1,204 @@
 [
     {
         "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/kremes-francia-rakott-burgonya",
+        "h1": "Krémes francia rakott burgonya",
+        "txtlength": 10542
+    },
+    {
+        "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/tarkonyos-csirkeraguleves-tarkonyos-raguleves-3",
+        "h1": "Tárkonyos csirkeraguleves (Tárkonyos raguleves 3.)",
+        "txtlength": 10391
+    },
+    {
+        "hostname": "receptneked.hu",
+        "pagelink": "https://receptneked.hu/gyors/petrezselymes-tocsni/",
+        "h1": "Petrezselymes tócsni recept",
+        "txtlength": 3452
+    },
+    {
+        "hostname": "receptneked.hu",
+        "pagelink": "https://receptneked.hu/gyors/meggyes-turos-villamsuti/",
+        "h1": "Meggyes-túrós villámsüti recept",
+        "txtlength": 3353
+    },
+    {
+        "hostname": "kiszamolo.hu",
+        "pagelink": "https://kiszamolo.hu/curve-kartya-tudnivalok-2/",
+        "h1": "Curve kártya tudnivalók",
+        "txtlength": 33218
+    },
+    {
+        "hostname": "kulturpart.hu",
+        "pagelink": "https://kulturpart.blog.hu/2021/01/26/az_oserdo_lanya",
+        "h1": "AZ ŐSERDŐ LÁNYA",
+        "txtlength": 12099
+    },
+    {
+        "hostname": "alapblog.hu",
+        "pagelink": "https://alapblog.hu/a-reszvenyalapok-jartak-be-mas-utat-2/",
+        "h1": "A RÉSZVÉNYALAPOK JÁRTAK BE MÁS UTAT",
+        "txtlength": 4847
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210129_nincs_is_ennel_szebb_feladat_koltai_lajos_exkluziv_interju_t_adott_a_mandinernek",
+        "h1": "Nincs is ennél szebb feladat! – Koltai Lajos exkluzív interjúja a Mandinernek",
+        "txtlength": 19015
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210130_doapp_szakember_tinder",
+        "h1": "Hol egy jó mester? Indul a hazai „Szakember-Tinder”",
+        "txtlength": 17162
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/elet/20210129/a-gazdagok-is-boldogabbak-lesznek-ha-no-a-vagyonuk-csakhogy-ez-nem-szamit/",
+        "h1": "A gazdagok is boldogabbak lesznek, ha nő a vagyonuk, csakhogy ez nem számít",
+        "txtlength": 17139
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210129_mazsihisz_szexbotrany",
+        "h1": "Izraeli lap mazsihiszes rabbik szexbotrányáról ír, a hitközség tagad",
+        "txtlength": 16167
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/uzlet/20210129/koronavirusvakcina-regisztracio-magyarorszagon-hasznos-kerdesek-es-valaszok-egy-helyen-467370",
+        "h1": "Koronavírusvakcina-regisztráció Magyarországon: hasznos kérdések és válaszok egy helyen",
+        "txtlength": 16013
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/elet/20210129/egy-fontos-hatarido-miatt-nagyon-sokan-fognak-napelemet-telepiteni-juniusig/",
+        "h1": "Egy fontos határidő miatt nagyon sokan fognak napelemet telepíteni júniusig",
+        "txtlength": 15987
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2021/01/29/az-idei-davosi-talalkozo-nagyobb-valtozast-hozhat-mint-eddig-barmikor",
+        "h1": "AZ IDEI DAVOSI TALÁLKOZÓ NAGYOBB VÁLTOZÁST HOZHAT, MINT EDDIG BÁRMIKOR",
+        "txtlength": 14935
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/krtk/20210130/karcolas-vagy-sebhely-kockazatvallalas-a-pandemia-idejen-467344",
+        "h1": "Karcolás vagy sebhely? - Kockázatvállalás a pandémia idején",
+        "txtlength": 14874
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/biztositas/szavaztak-a-koronavirus-oltasrol-csak-igy-johetnenek-be-kulfoldiek-az-orszagba.1109942.html?r=melleklet",
+        "h1": "Szavaztak a koronavírus-oltásról: csak így jöhetnének be külföldiek az országba",
+        "txtlength": 14343
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/global/20210129/tortenelmi-autoipari-beruhazast-jelentettek-be-hatalmas-akkumulatorgyarat-epit-az-sk-innovation-magyarorszagon-467364",
+        "h1": "Történelmi autóipari beruházást jelentettek be: hatalmas akkumulátorgyárat épít az SK Innovation Magyarországon",
+        "txtlength": 12445
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/karrier/allaskeresok-bibliaja-5-hirdetes-amivel-csobe-huznak-a-magyar-munkahelyek.1109996.html",
+        "h1": "Álláskeresők bibliája: 5 hirdetés, amivel csőbe húznak a magyar munkahelyek",
+        "txtlength": 11949
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/utazas/urkuti-oskarszt-orszagos-kektura/",
+        "h1": "Lenyűgöző természeti csoda az Országos Kéktúra mentén: Úrkút őskarsztja egyedülálló a világon",
+        "txtlength": 10046
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/lajfhekk/2020/11/26/hoember-epites/",
+        "h1": "HÓEMBERÉPÍTÉS TUDOMÁNYOS ALAPON: ÍGY LESZ IGAZÁN TARTÓS",
+        "txtlength": 6785
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kulfold/2021/01/30/malta-ujsagiro-gyilkossag-korrupcio-merenylet-daphne-caruana-galizia/",
+        "h1": "„Bárhova nézel, csalókat látsz” – így ölték meg a máltai újságírónőt",
+        "txtlength": 20613
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2021/01/29/meszaros-gyorgy-orokbefogadas-egyedulallo-meleg-szulo-interju/",
+        "h1": "Meleg, egyedülálló, örökbefogadó apuka lett az egykori pap",
+        "txtlength": 19103
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/gazdasag/2021/01/30/az-uj-vagy-a-hasznalt-auto-eri-meg-jobban-anyagilag-kiszamoltuk",
+        "h1": "Az új vagy a használt autó éri meg jobban anyagilag? Kiszámoltuk!",
+        "txtlength": 17533
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/koronavirus-magyarorszag-1370-uj-fertozott-89-elhunyt/k33xz2c",
+        "h1": "Íme, a legfrissebb adatok: ennyivel nőtt a beazonosított fertőzöttek és a halálos áldozatok száma Magyarországon",
+        "txtlength": 17307
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/01/29/minden-negyedik-magyarnak-jut-majd-orban-kedvenc-vakcinajabol",
+        "h1": "Minden negyedik magyarnak jut majd Orbán kedvenc vakcinájából",
+        "txtlength": 16506
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/tudomany/2021/01/29/bajban-van-a-szent-anna-to/",
+        "h1": "Bajban van a Szent Anna-tó",
+        "txtlength": 16105
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/belfold/2021/01/29/szegeden-nagy-vita-utan-dontottek-az-egyetem-kiszervezeserol",
+        "h1": "Szegeden és Pécsen is megszavazták az egyetem átalakulását, átment a Palkovics-terv",
+        "txtlength": 15256
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/01/30/hetvegi-olvasnivalo-a-nagy-kepes-vakcinahatarozotol-a-jackass-kapitalizmusig",
+        "h1": "Hétvégi olvasnivaló a Nagy Képes Vakcinahatározótól a jackass-kapitalizmusig",
+        "txtlength": 14184
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20210129_Szegeden_megszavaztak_a_modellvaltast",
+        "h1": "Döntöttek a szenátusok: Alapítványi fenntartásba kerülhet a Szegedi és Pécsi Tudományegyetem",
+        "txtlength": 13490
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/zhvg/20210129_Hogyan_komposztaljunk_a_negy_fal_kozott",
+        "h1": "Gilisztákkal vagy anélkül: hogyan komposztáljunk otthon a négy fal között?",
+        "txtlength": 13164
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kulfold/2021/01/30/donald-trump-kgb-beszerveztek-40-eve-oroszorszag-putyin",
+        "h1": "Negyven éve nevelgette a KGB? – az eddigi legmeredekebb sztorit dobta be Trumpról egy új könyv",
+        "txtlength": 13093
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/cegauto/20210130_arharcos_kiprobaltuk_a_34_millio_forinton_nyito_teljesen_uj_dacia_sanderot",
+        "h1": "Szégyentelen árharcos: kipróbáltuk a 3,4 millió forinton nyitó teljesen új Dacia Sanderót",
+        "txtlength": 13080
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/vendeglatosok-koronavirus-segitseg-faipari-vallalkozo-munka/jctgx4p",
+        "h1": "Kihúzza a pácból a vendéglátósokat: szakácsokat, pincéreket, lemezlovast foglalkoztat a faipari vállalkozó",
+        "txtlength": 11878
+    },
+    {
+        "hostname": "nosalty.hu",
         "pagelink": "https://www.nosalty.hu/recept/frankfurti-leves-egyszeruen",
         "h1": "Frankfurti leves egyszerűen",
         "txtlength": 10315
