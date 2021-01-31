@@ -269,8 +269,8 @@
     "tarfajl": "",
     "tarfajlmert": "",
     "disc": "-33%",
-    "erv": "2021.02.03",
-    "termeklink": "https://bevasarlas.tesco.hu/groceries/hu-HU/products/2004007471380"
+    "erv": "",
+    "termeklink": "https://tesco.hu/akciok/akcios-termekek/termek/hm/hus-hal-felvagott/csomagolt-husok/friss-magyar-pecsenye-kacsa/"
   },
   {
     "azon": "TESCO",
@@ -1870,305 +1870,6 @@
     "disc": "",
     "erv": "2021.02.03",
     "termeklink": "https://www.aldi.hu/hu/ajanlatok/akciok-aldi-arakon/reszletes-oldal/ps/p/husmesterdaralt-sertshus-16/"
-  },
-  {
-    "azon": "ALDI",
-    "forras": "",
-    "termeknev": "Disznótoros mix",
-    "termekar": "499",
-    "termekcur": " Ft",
-    "termekmenny": "/csomag",
-    "tarfajl": "1 188,10 Ft/kg",
-    "tarfajlmert": "",
-    "disc": "",
-    "erv": "2021.01.30",
-    "termeklink": "https://www.aldi.hu/hu/ajanlatok/akciok-aldi-arakon/reszletes-oldal/ps/p/disznotoros-mix/"
-  },
-  {
-    "azon": "ALDI",
-    "forras": "",
-    "termeknev": "Mini sertésmájas",
-    "termekar": "99",
-    "termekcur": " Ft",
-    "termekmenny": "/darab",
-    "tarfajl": "825 Ft/kg",
-    "tarfajlmert": "",
-    "disc": "",
-    "erv": "2021.01.30",
-    "termeklink": "https://www.aldi.hu/hu/ajanlatok/akciok-aldi-arakon/reszletes-oldal/ps/p/mini-sertsmajas-13/"
-  },
-  {
-    "azon": "ALDI",
-    "forras": "",
-    "termeknev": "PICK Sertéslapocka gulyáshús",
-    "termekar": "899",
-    "termekcur": " Ft",
-    "termekmenny": "/tálca",
-    "tarfajl": "1 498,33 Ft/kg",
-    "tarfajlmert": "",
-    "disc": "",
-    "erv": "2021.01.30",
-    "termeklink": "https://www.aldi.hu/hu/ajanlatok/akciok-aldi-arakon/reszletes-oldal/ps/p/picksertslapocka-gulyashus-3/"
-  },
-  {
-    "azon": "ALDI",
-    "forras": "",
-    "termeknev": "KOMÉTA Étkezési sertészsír",
-    "termekar": "249",
-    "termekcur": " Ft",
-    "termekmenny": "/doboz",
-    "tarfajl": "622,50 Ft/kg",
-    "tarfajlmert": "",
-    "disc": "",
-    "erv": "2021.01.30",
-    "termeklink": "https://www.aldi.hu/hu/ajanlatok/akciok-aldi-arakon/reszletes-oldal/ps/p/komtatkezsi-sertszsir/"
-  },
-  {
-    "azon": "ALDI",
-    "forras": "",
-    "termeknev": "MILFINA Tejföl",
-    "termekar": "110",
-    "termekcur": " Ft",
-    "termekmenny": "/pohár",
-    "tarfajl": "628,57 Ft/kg",
-    "tarfajlmert": "",
-    "disc": "",
-    "erv": "2021.01.30",
-    "termeklink": "https://www.aldi.hu/hu/ajanlatok/akciok-aldi-arakon/reszletes-oldal/ps/p/milfinatejfoel-29/"
-  },
-  {
-    "azon": "ALDI",
-    "forras": "",
-    "termeknev": "CUCINA NOBILE Pizza",
-    "termekar": "439",
-    "termekcur": " Ft",
-    "termekmenny": "/doboz",
-    "tarfajl": "1 254,29 Ft/kg",
-    "tarfajlmert": "",
-    "disc": "",
-    "erv": "2021.01.30",
-    "termeklink": "https://www.aldi.hu/hu/ajanlatok/akciok-aldi-arakon/reszletes-oldal/ps/p/cucina-nobilepizza-2/"
-  },
-  {
-    "azon": "ALDI",
-    "forras": "",
-    "termeknev": "SZARVASI MOZZARELLA Mozzarella mini",
-    "termekar": "199",
-    "termekcur": " Ft",
-    "termekmenny": "/csomag",
-    "tarfajl": "1 990 Ft/kg",
-    "tarfajlmert": "",
-    "disc": "",
-    "erv": "2021.01.30",
-    "termeklink": "https://www.aldi.hu/hu/ajanlatok/akciok-aldi-arakon/reszletes-oldal/ps/p/szarvasi-mozzarellamozzarella-mini-5/"
-  },
-  {
-    "azon": "ALDI",
-    "forras": "",
-    "termeknev": "TIHANY Camembert",
-    "termekar": "339",
-    "termekcur": " Ft",
-    "termekmenny": "/darab",
-    "tarfajl": "2 825 Ft/kg",
-    "tarfajlmert": "",
-    "disc": "",
-    "erv": "2021.01.30",
-    "termeklink": "https://www.aldi.hu/hu/ajanlatok/akciok-aldi-arakon/reszletes-oldal/ps/p/tihanycamembert/"
-  },
-  {
-    "azon": "ALDI",
-    "forras": "",
-    "termeknev": "ZOTT Jogobella light joghurt",
-    "termekar": "119",
-    "termekcur": " Ft",
-    "termekmenny": "/pohár",
-    "tarfajl": "793,33 Ft/kg",
-    "tarfajlmert": "",
-    "disc": "",
-    "erv": "2021.01.30",
-    "termeklink": "https://www.aldi.hu/hu/ajanlatok/akciok-aldi-arakon/reszletes-oldal/ps/p/zottjogobella-light-joghurt/"
-  },
-  {
-    "azon": "ALDI",
-    "forras": "",
-    "termeknev": "KINDER Tejszelet",
-    "termekar": "99",
-    "termekcur": " Ft",
-    "termekmenny": "/darab",
-    "tarfajl": "3 535,71 Ft/kg",
-    "tarfajlmert": "",
-    "disc": "",
-    "erv": "2021.01.30",
-    "termeklink": "https://www.aldi.hu/hu/ajanlatok/akciok-aldi-arakon/reszletes-oldal/ps/p/kindertejszelet-15/"
-  },
-  {
-    "azon": "ALDI",
-    "forras": "",
-    "termeknev": "FLORA Margarin",
-    "termekar": "429",
-    "termekcur": " Ft",
-    "termekmenny": "/doboz",
-    "tarfajl": "858 Ft/kg",
-    "tarfajlmert": "",
-    "disc": "",
-    "erv": "2021.01.30",
-    "termeklink": "https://www.aldi.hu/hu/ajanlatok/akciok-aldi-arakon/reszletes-oldal/ps/p/floramargarin-2/"
-  },
-  {
-    "azon": "ALDI",
-    "forras": "",
-    "termeknev": "AZON MELEGÉBEN Pizza twister",
-    "termekar": "129",
-    "termekcur": " Ft",
-    "termekmenny": "/darab",
-    "tarfajl": "1 290 Ft/kg",
-    "tarfajlmert": "",
-    "disc": "",
-    "erv": "2021.01.30",
-    "termeklink": "https://www.aldi.hu/hu/ajanlatok/akciok-aldi-arakon/reszletes-oldal/ps/p/azon-melegbenpizza-twister-8/"
-  },
-  {
-    "azon": "ALDI",
-    "forras": "",
-    "termeknev": "AZON MELEGÉBEN Francia kakaós-mogyorókrémes töltött croissant",
-    "termekar": "139",
-    "termekcur": " Ft",
-    "termekmenny": "/darab",
-    "tarfajl": "1 674,70 Ft/kg",
-    "tarfajlmert": "",
-    "disc": "",
-    "erv": "2021.01.30",
-    "termeklink": "https://www.aldi.hu/hu/ajanlatok/akciok-aldi-arakon/reszletes-oldal/ps/p/azon-melegbenfrancia-kakaos-mogyorokrmes-toeltoett-13/"
-  },
-  {
-    "azon": "ALDI",
-    "forras": "",
-    "termeknev": "EGER Bikavér",
-    "termekar": "439",
-    "termekcur": " Ft",
-    "termekmenny": "/üveg",
-    "tarfajl": "585,33 Ft/l",
-    "tarfajlmert": "",
-    "disc": "",
-    "erv": "2021.01.30",
-    "termeklink": "https://www.aldi.hu/hu/ajanlatok/akciok-aldi-arakon/reszletes-oldal/ps/p/egerbikavr-5/"
-  },
-  {
-    "azon": "ALDI",
-    "forras": "",
-    "termeknev": "SCHÄR Pan Blanco gluténmentes, fehér vekni",
-    "termekar": "499",
-    "termekcur": " Ft",
-    "termekmenny": "/csomag",
-    "tarfajl": "1 996 Ft/kg",
-    "tarfajlmert": "",
-    "disc": "",
-    "erv": "2021.01.30",
-    "termeklink": "https://www.aldi.hu/hu/ajanlatok/akciok-aldi-arakon/reszletes-oldal/ps/p/schaerpan-blanco-glutnmentes-fehr-vekni-3/"
-  },
-  {
-    "azon": "ALDI",
-    "forras": "",
-    "termeknev": "FINEST BAKERY Teasütemény",
-    "termekar": "299",
-    "termekcur": " Ft",
-    "termekmenny": "/doboz",
-    "tarfajl": "747,50 Ft/kg",
-    "tarfajlmert": "",
-    "disc": "",
-    "erv": "2021.01.30",
-    "termeklink": "https://www.aldi.hu/hu/ajanlatok/akciok-aldi-arakon/reszletes-oldal/ps/p/finest-bakeryteasuetemny-9/"
-  },
-  {
-    "azon": "ALDI",
-    "forras": "",
-    "termeknev": "KAZNACHEYSKAYA Eredeti orosz vodka",
-    "termekar": "2 599",
-    "termekcur": " Ft",
-    "termekmenny": "/üveg",
-    "tarfajl": "3 712,86 Ft/l",
-    "tarfajlmert": "",
-    "disc": "",
-    "erv": "2021.01.30",
-    "termeklink": "https://www.aldi.hu/hu/ajanlatok/akciok-aldi-arakon/reszletes-oldal/ps/p/kaznacheyskayaeredeti-orosz-vodka-5/"
-  },
-  {
-    "azon": "ALDI",
-    "forras": "",
-    "termeknev": "SWEET VALLEY Aszalt szilva",
-    "termekar": "399",
-    "termekcur": " Ft",
-    "termekmenny": "/csomag",
-    "tarfajl": "1 596 Ft/kg",
-    "tarfajlmert": "",
-    "disc": "",
-    "erv": "2021.01.30",
-    "termeklink": "https://www.aldi.hu/hu/ajanlatok/akciok-aldi-arakon/reszletes-oldal/ps/p/sweet-valleyaszalt-szilva-11/"
-  },
-  {
-    "azon": "ALDI",
-    "forras": "",
-    "termeknev": "STORCK Toffifee",
-    "termekar": "899",
-    "termekcur": " Ft",
-    "termekmenny": "/doboz",
-    "tarfajl": "4 495 Ft/kg",
-    "tarfajlmert": "",
-    "disc": "",
-    "erv": "2021.01.30",
-    "termeklink": "https://www.aldi.hu/hu/ajanlatok/akciok-aldi-arakon/reszletes-oldal/ps/p/storcktoffifee-13/"
-  },
-  {
-    "azon": "ALDI",
-    "forras": "",
-    "termeknev": "CHIO Burgonyachips",
-    "termekar": "239",
-    "termekcur": " Ft",
-    "termekmenny": "/csomag",
-    "tarfajl": "2 390 Ft/kg",
-    "tarfajlmert": "",
-    "disc": "",
-    "erv": "2021.01.30",
-    "termeklink": "https://www.aldi.hu/hu/ajanlatok/akciok-aldi-arakon/reszletes-oldal/ps/p/chioburgonyachips-11/"
-  },
-  {
-    "azon": "ALDI",
-    "forras": "",
-    "termeknev": "BRADO Kézfertőtlenítő",
-    "termekar": "799",
-    "termekcur": " Ft",
-    "termekmenny": "/flakon",
-    "tarfajl": "2 282,86 / 2 663,33 Ft/l",
-    "tarfajlmert": "",
-    "disc": "",
-    "erv": "2021.01.30",
-    "termeklink": "https://www.aldi.hu/hu/ajanlatok/akciok-aldi-arakon/reszletes-oldal/ps/p/bradokzfertotlenito-3/"
-  },
-  {
-    "azon": "ALDI",
-    "forras": "",
-    "termeknev": "ROMEO EXCELLENCE Prémium kutyaeledel",
-    "termekar": "249",
-    "termekcur": " Ft",
-    "termekmenny": "/doboz",
-    "tarfajl": "622,50 Ft/kg",
-    "tarfajlmert": "",
-    "disc": "",
-    "erv": "2021.01.30",
-    "termeklink": "https://www.aldi.hu/hu/ajanlatok/akciok-aldi-arakon/reszletes-oldal/ps/p/romeo-excellenceprmium-kutyaeledel-5/"
-  },
-  {
-    "azon": "ALDI",
-    "forras": "",
-    "termeknev": "TANDIL Speciális mosószer",
-    "termekar": "669",
-    "termekcur": " Ft",
-    "termekmenny": "/flakon",
-    "tarfajl": "446 Ft/l",
-    "tarfajlmert": "",
-    "disc": "",
-    "erv": "2021.01.30",
-    "termeklink": "https://www.aldi.hu/hu/ajanlatok/akciok-aldi-arakon/reszletes-oldal/ps/p/tandilspecialis-mososzer-1/"
   },
   {
     "azon": "ALDI",
@@ -4617,19 +4318,6 @@
   {
     "azon": "CBA",
     "forras": "",
-    "termeknev": "Schieber Fruska Szekszárdi Rosé Cuvée rozébor 0.75l",
-    "termekar": "999,- Ft/db",
-    "termekcur": "",
-    "termekmenny": "",
-    "tarfajl": " 1332,00 Ft/l",
-    "tarfajlmert": "",
-    "disc": "-33%",
-    "erv": "",
-    "termeklink": "https://online.prima.hu/s/schieber-fruska-szekszardi-rose-cuvee-rozebor-0-75l-10000145381?cat=55902010"
-  },
-  {
-    "azon": "CBA",
-    "forras": "",
     "termeknev": "Bujdosó Mentőöv Rosé száraz rozébor 11.5% 0.75l",
     "termekar": "999,- Ft/db",
     "termekcur": "",
@@ -4639,6 +4327,19 @@
     "disc": "-33%",
     "erv": "",
     "termeklink": "https://online.prima.hu/s/bujdoso-mentoov-rose-szaraz-rozebor-11-5-0-75l-10000149770?cat=55902010"
+  },
+  {
+    "azon": "CBA",
+    "forras": "",
+    "termeknev": "Schieber Fruska Szekszárdi Rosé Cuvée rozébor 0.75l",
+    "termekar": "999,- Ft/db",
+    "termekcur": "",
+    "termekmenny": "",
+    "tarfajl": " 1332,00 Ft/l",
+    "tarfajlmert": "",
+    "disc": "-33%",
+    "erv": "",
+    "termeklink": "https://online.prima.hu/s/schieber-fruska-szekszardi-rose-cuvee-rozebor-0-75l-10000145381?cat=55902010"
   },
   {
     "azon": "CBA",
@@ -4734,19 +4435,6 @@
   {
     "azon": "CBA",
     "forras": "",
-    "termeknev": "Jégcsapretek lédig",
-    "termekar": "399,- Ft/kg",
-    "termekcur": "",
-    "termekmenny": "",
-    "tarfajl": " 399,00 Ft/kg",
-    "tarfajlmert": "",
-    "disc": "-31%",
-    "erv": "",
-    "termeklink": "https://online.prima.hu/s/jegcsapretek-ledig-10000156109?cat=3010"
-  },
-  {
-    "azon": "CBA",
-    "forras": "",
     "termeknev": "Kometa kemencés sült tarja szeletelt 100g",
     "termekar": "399,- Ft/db",
     "termekcur": "",
@@ -4756,6 +4444,19 @@
     "disc": "-31%",
     "erv": "",
     "termeklink": "https://online.prima.hu/s/kometa-kemences-sult-tarja-szeletelt-100g-10000013927?cat=25502010"
+  },
+  {
+    "azon": "CBA",
+    "forras": "",
+    "termeknev": "Jégcsapretek lédig",
+    "termekar": "399,- Ft/kg",
+    "termekcur": "",
+    "termekmenny": "",
+    "tarfajl": " 399,00 Ft/kg",
+    "tarfajlmert": "",
+    "disc": "-31%",
+    "erv": "",
+    "termeklink": "https://online.prima.hu/s/jegcsapretek-ledig-10000156109?cat=3010"
   },
   {
     "azon": "CBA",
@@ -5098,7 +4799,7 @@
   {
     "azon": "CBA",
     "forras": "",
-    "termeknev": "Univer bébidesszert sütőtök-alma-4 hónapos kortól 163g",
+    "termeknev": "Univer bébidesszert vegyes gyümölcs - 4 hónapos kortól 163g",
     "termekar": "279,- Ft/db",
     "termekcur": "",
     "termekmenny": "",
@@ -5106,7 +4807,7 @@
     "tarfajlmert": "",
     "disc": "-30%",
     "erv": "",
-    "termeklink": "https://online.prima.hu/s/univer-bebidesszert-sutotok-alma-4-honapos-kortol-163g-10000070678?cat=607020"
+    "termeklink": "https://online.prima.hu/s/univer-bebidesszert-vegyes-gyumolcs-4-honapos-kortol-163g-10000070686?cat=607020"
   },
   {
     "azon": "CBA",
@@ -5124,7 +4825,7 @@
   {
     "azon": "CBA",
     "forras": "",
-    "termeknev": "Univer bébidesszert vegyes gyümölcs - 4 hónapos kortól 163g",
+    "termeknev": "Univer bébidesszert sütőtök-alma-4 hónapos kortól 163g",
     "termekar": "279,- Ft/db",
     "termekcur": "",
     "termekmenny": "",
@@ -5132,7 +4833,7 @@
     "tarfajlmert": "",
     "disc": "-30%",
     "erv": "",
-    "termeklink": "https://online.prima.hu/s/univer-bebidesszert-vegyes-gyumolcs-4-honapos-kortol-163g-10000070686?cat=607020"
+    "termeklink": "https://online.prima.hu/s/univer-bebidesszert-sutotok-alma-4-honapos-kortol-163g-10000070678?cat=607020"
   },
   {
     "azon": "CBA",
@@ -5306,19 +5007,6 @@
   {
     "azon": "CBA",
     "forras": "",
-    "termeknev": "Törley Excellence Chardonnay kül.sz.fehér pezsgő 12.5% 0.75l",
-    "termekar": "1449,- Ft/db",
-    "termekcur": "",
-    "termekmenny": "",
-    "tarfajl": " 1932,00 Ft/l",
-    "tarfajlmert": "",
-    "disc": "-27%",
-    "erv": "",
-    "termeklink": "https://online.prima.hu/s/torley-excellence-chardonnay-kul-sz-feher-pezsgo-12-5-0-75l-10000157184?cat=55907010"
-  },
-  {
-    "azon": "CBA",
-    "forras": "",
     "termeknev": "Törley Excellence sárga muskotály éd. fehér pezsgő 10% 0,75l",
     "termekar": "1449,- Ft/db",
     "termekcur": "",
@@ -5328,6 +5016,19 @@
     "disc": "-27%",
     "erv": "",
     "termeklink": "https://online.prima.hu/s/torley-excellence-sarga-muskotaly-ed-feher-pezsgo-10-0-75l-10000157183?cat=55907010"
+  },
+  {
+    "azon": "CBA",
+    "forras": "",
+    "termeknev": "Törley Excellence Chardonnay kül.sz.fehér pezsgő 12.5% 0.75l",
+    "termekar": "1449,- Ft/db",
+    "termekcur": "",
+    "termekmenny": "",
+    "tarfajl": " 1932,00 Ft/l",
+    "tarfajlmert": "",
+    "disc": "-27%",
+    "erv": "",
+    "termeklink": "https://online.prima.hu/s/torley-excellence-chardonnay-kul-sz-feher-pezsgo-12-5-0-75l-10000157184?cat=55907010"
   },
   {
     "azon": "CBA",
@@ -5527,19 +5228,6 @@
   {
     "azon": "CBA",
     "forras": "",
-    "termeknev": "Président Camembert chilis zsírdús lágy sajt 120g",
-    "termekar": "479,- Ft/db",
-    "termekcur": "",
-    "termekmenny": "",
-    "tarfajl": " 3991,67 Ft/kg",
-    "tarfajlmert": "",
-    "disc": "",
-    "erv": "",
-    "termeklink": "https://online.prima.hu/s/president-camembert-chilis-zsirdus-lagy-sajt-120g-10000165166?cat=10902030"
-  },
-  {
-    "azon": "CBA",
-    "forras": "",
     "termeknev": "Président Camembert Light félzsíros, lágy sajt 120g",
     "termekar": "479,- Ft/db",
     "termekcur": "",
@@ -5549,6 +5237,19 @@
     "disc": "",
     "erv": "",
     "termeklink": "https://online.prima.hu/s/president-camembert-light-felzsiros-lagy-sajt-120g-10000191020?cat=10902030"
+  },
+  {
+    "azon": "CBA",
+    "forras": "",
+    "termeknev": "Président Camembert chilis zsírdús lágy sajt 120g",
+    "termekar": "479,- Ft/db",
+    "termekcur": "",
+    "termekmenny": "",
+    "tarfajl": " 3991,67 Ft/kg",
+    "tarfajlmert": "",
+    "disc": "",
+    "erv": "",
+    "termeklink": "https://online.prima.hu/s/president-camembert-chilis-zsirdus-lagy-sajt-120g-10000165166?cat=10902030"
   },
   {
     "azon": "SPAR",
@@ -5826,19 +5527,6 @@
   {
     "azon": "SPAR",
     "forras": "",
-    "termeknev": "SPAR lecsókolbász",
-    "termekar": "1 290",
-    "termekcur": "Ft",
-    "termekmenny": "",
-    "tarfajl": "(1 290,00 Ft/kg)",
-    "tarfajlmert": "",
-    "disc": "",
-    "erv": "",
-    "termeklink": "https://www.spar.hu/onlineshop/spar-lecsokolbasz/p/310007003"
-  },
-  {
-    "azon": "SPAR",
-    "forras": "",
     "termeknev": "REGNUM sertéstarja 4 szelet tálcás",
     "termekar": "1 699",
     "termekcur": "Ft",
@@ -5848,6 +5536,19 @@
     "disc": "",
     "erv": "",
     "termeklink": "https://www.spar.hu/onlineshop/regnum-sertestarja-4-szelet-talcas/p/312372000"
+  },
+  {
+    "azon": "SPAR",
+    "forras": "",
+    "termeknev": "SPAR lecsókolbász",
+    "termekar": "1 290",
+    "termekcur": "Ft",
+    "termekmenny": "",
+    "tarfajl": "(1 290,00 Ft/kg)",
+    "tarfajlmert": "",
+    "disc": "",
+    "erv": "",
+    "termeklink": "https://www.spar.hu/onlineshop/spar-lecsokolbasz/p/310007003"
   },
   {
     "azon": "SPAR",
@@ -6099,19 +5800,6 @@
   {
     "azon": "SPAR",
     "forras": "",
-    "termeknev": "Master Good friss csirke mellfilé",
-    "termekar": "1 699",
-    "termekcur": "Ft",
-    "termekmenny": "",
-    "tarfajl": "(1 699,00 Ft/kg)",
-    "tarfajlmert": "",
-    "disc": "",
-    "erv": "",
-    "termeklink": "https://www.spar.hu/onlineshop/master-good-friss-csirke-mellfile/p/505634007"
-  },
-  {
-    "azon": "SPAR",
-    "forras": "",
     "termeknev": "Dublin Dairy Cheddar Red zsíros, félkemény, érlelt sajt",
     "termekar": "2 490",
     "termekcur": "Ft",
@@ -6121,6 +5809,19 @@
     "disc": "",
     "erv": "",
     "termeklink": "https://www.spar.hu/onlineshop/dublin-dairy-cheddar-red-zsiros-felkemeny-erlelt-sajt/p/436964006"
+  },
+  {
+    "azon": "SPAR",
+    "forras": "",
+    "termeknev": "Master Good friss csirke mellfilé",
+    "termekar": "1 699",
+    "termekcur": "Ft",
+    "termekmenny": "",
+    "tarfajl": "(1 699,00 Ft/kg)",
+    "tarfajlmert": "",
+    "disc": "",
+    "erv": "",
+    "termeklink": "https://www.spar.hu/onlineshop/master-good-friss-csirke-mellfile/p/505634007"
   },
   {
     "azon": "SPAR",
@@ -6398,19 +6099,6 @@
   {
     "azon": "SPAR",
     "forras": "",
-    "termeknev": "Master Good friss csirke bőségtál",
-    "termekar": "999",
-    "termekcur": "Ft",
-    "termekmenny": "",
-    "tarfajl": "(999,00 Ft/kg)",
-    "tarfajlmert": "",
-    "disc": "",
-    "erv": "",
-    "termeklink": "https://www.spar.hu/onlineshop/master-good-friss-csirke-bosegtal/p/505638005"
-  },
-  {
-    "azon": "SPAR",
-    "forras": "",
     "termeknev": "Master Good friss csirke szárny",
     "termekar": "899",
     "termekcur": "Ft",
@@ -6420,6 +6108,19 @@
     "disc": "",
     "erv": "",
     "termeklink": "https://www.spar.hu/onlineshop/master-good-friss-csirke-szarny/p/505637008"
+  },
+  {
+    "azon": "SPAR",
+    "forras": "",
+    "termeknev": "Master Good friss csirke bőségtál",
+    "termekar": "999",
+    "termekcur": "Ft",
+    "termekmenny": "",
+    "tarfajl": "(999,00 Ft/kg)",
+    "tarfajlmert": "",
+    "disc": "",
+    "erv": "",
+    "termeklink": "https://www.spar.hu/onlineshop/master-good-friss-csirke-bosegtal/p/505638005"
   },
   {
     "azon": "SPAR",
@@ -6489,19 +6190,6 @@
   {
     "azon": "SPAR",
     "forras": "",
-    "termeknev": "Csemegehagyma csomós",
-    "termekar": "169",
-    "termekcur": "Ft",
-    "termekmenny": "",
-    "tarfajl": "(169,00 Ft/db)",
-    "tarfajlmert": "",
-    "disc": "",
-    "erv": "",
-    "termeklink": "https://www.spar.hu/onlineshop/csemegehagyma-csomos/p/293745008"
-  },
-  {
-    "azon": "SPAR",
-    "forras": "",
     "termeknev": "S-BUDGET Sertés kolbászhúscsomag csomagolt kb. 5kg",
     "termekar": "949",
     "termekcur": "Ft",
@@ -6511,6 +6199,19 @@
     "disc": "",
     "erv": "",
     "termeklink": "https://www.spar.hu/onlineshop/s-budget-sertes-kolbaszhuscsomag-csomagolt-kb-5kg/p/370594000"
+  },
+  {
+    "azon": "SPAR",
+    "forras": "",
+    "termeknev": "Csemegehagyma csomós",
+    "termekar": "169",
+    "termekcur": "Ft",
+    "termekmenny": "",
+    "tarfajl": "(169,00 Ft/db)",
+    "tarfajlmert": "",
+    "disc": "",
+    "erv": "",
+    "termeklink": "https://www.spar.hu/onlineshop/csemegehagyma-csomos/p/293745008"
   },
   {
     "azon": "SPAR",
@@ -6580,6 +6281,19 @@
   {
     "azon": "SPAR",
     "forras": "",
+    "termeknev": "SPAR homogénezett, élőflórás tejföl 20% 450 g",
+    "termekar": "299",
+    "termekcur": "Ft",
+    "termekmenny": "",
+    "tarfajl": "(664,44 Ft/kg)",
+    "tarfajlmert": "",
+    "disc": "",
+    "erv": "",
+    "termeklink": "https://www.spar.hu/onlineshop/spar-homogenezett-elofloras-tejfol-20-450-g/p/338812009"
+  },
+  {
+    "azon": "SPAR",
+    "forras": "",
     "termeknev": "S-Budget ¨A¨ minőségű rizs 1 kg",
     "termekar": "329",
     "termekcur": "Ft",
@@ -6593,15 +6307,15 @@
   {
     "azon": "SPAR",
     "forras": "",
-    "termeknev": "SPAR homogénezett, élőflórás tejföl 20% 450 g",
-    "termekar": "299",
+    "termeknev": "Berek csirkemell darabok zöldségekkel aszpikban",
+    "termekar": "2 490",
     "termekcur": "Ft",
     "termekmenny": "",
-    "tarfajl": "(664,44 Ft/kg)",
+    "tarfajl": "(2 490,00 Ft/kg)",
     "tarfajlmert": "",
     "disc": "",
     "erv": "",
-    "termeklink": "https://www.spar.hu/onlineshop/spar-homogenezett-elofloras-tejfol-20-450-g/p/338812009"
+    "termeklink": "https://www.spar.hu/onlineshop/berek-csirkemell-darabok-zoldsegekkel-aszpikban/p/484296005"
   },
   {
     "azon": "SPAR",
@@ -6628,19 +6342,6 @@
     "disc": "",
     "erv": "",
     "termeklink": "https://www.spar.hu/onlineshop/s-budget-magozott-meggybefott-680-g/p/332129004"
-  },
-  {
-    "azon": "SPAR",
-    "forras": "",
-    "termeknev": "Berek csirkemell darabok zöldségekkel aszpikban",
-    "termekar": "2 490",
-    "termekcur": "Ft",
-    "termekmenny": "",
-    "tarfajl": "(2 490,00 Ft/kg)",
-    "tarfajlmert": "",
-    "disc": "",
-    "erv": "",
-    "termeklink": "https://www.spar.hu/onlineshop/berek-csirkemell-darabok-zoldsegekkel-aszpikban/p/484296005"
   },
   {
     "azon": "SPAR",
