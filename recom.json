@@ -1,6 +1,198 @@
 [
     {
         "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/tokeletes-krumplis-teszta-ahogy-mi-szeretjuk",
+        "h1": "Tökéletes krumplis tészta - ahogy mi szeretjük",
+        "txtlength": 10101
+    },
+    {
+        "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/turos-retes-reteslapbol",
+        "h1": "Túrós rétes réteslapból",
+        "txtlength": 9943
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/toltott-paprika-ahogy-gaspar-bea-kesziti.recept",
+        "h1": "TÖLTÖTT PAPRIKA, AHOGY GÁSPÁR BEA KÉSZÍTI",
+        "txtlength": 9659
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/csipos-rubban-erlelt-csirkeszarnyak.recept",
+        "h1": "CSÍPŐS CSIRKESZÁRNYAK",
+        "txtlength": 8420
+    },
+    {
+        "hostname": "receptneked.hu",
+        "pagelink": "https://receptneked.hu/gyors/turos-lepenyke/",
+        "h1": "Túrós lepényke recept",
+        "txtlength": 3452
+    },
+    {
+        "hostname": "receptneked.hu",
+        "pagelink": "https://receptneked.hu/gyors/sajtos-baconos-csavart/",
+        "h1": "Sajtos-baconos csavart recept",
+        "txtlength": 3363
+    },
+    {
+        "hostname": "hataratkelo.blog.hu",
+        "pagelink": "https://hataratkelo.blog.hu/2021/01/27/mennyibe_kerul_az_elet_munchenben",
+        "h1": "Mennyibe kerül az élet Münchenben?",
+        "txtlength": 28823
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210130_gladden_j_pappin_interju",
+        "h1": "A magyar családpolitika minta lehet Amerikában is – Gladden J. Pappin a Mandinernek",
+        "txtlength": 34779
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210131_magyarsag_szarmazas_sziberia_regeszet_interju",
+        "h1": "Új felfedezés tisztázhatja a magyarság származását — orosz régész a Mandinernek",
+        "txtlength": 27770
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/befektetes/20210130/a-forradalom-felfalja-sajat-szuleit-a-robinhood-a-gamestop-es-az-atvert-traderek-esete-467456",
+        "h1": "A forradalom felfalja saját szüleit - A Robinhood, a GameStop és az átvert traderek esete",
+        "txtlength": 20768
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/kozelet/20210131/a-v4-ek-kozott-a-magyarok-tudhatjak-a-legkevesebbet-az-orszag-oltasi-terverol/",
+        "h1": "A V4-ek között a magyarok tudhatják a legkevesebbet az ország oltási tervéről",
+        "txtlength": 17990
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210131_barack_obama_ujra_magyarorszagot_emlegette_negativ_peldakent",
+        "h1": "Barack Obama újra Magyarországot emlegette negatív példaként",
+        "txtlength": 17702
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/kozelet/20210130/egyszer-sem-alkalmaztuk-itt-az-ideje-eltorolni-a-magyar-adossagszabalyt/",
+        "h1": "Egyszer sem alkalmaztuk, itt az ideje eltörölni a magyar adósságszabályt",
+        "txtlength": 17291
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/uzlet/20210131/itt-vannak-a-magyarorszagon-engedelyezett-megbizhato-koronavirus-vakcinak-467464",
+        "h1": "Itt vannak a Magyarországon engedélyezett, megbízható koronavírus vakcinák",
+        "txtlength": 17124
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/kapcsolat/tevhitek-a-nokrol/",
+        "h1": "\"A női nemet nem kell túl komolyan venni.\" - Tévhitek, amiket utálunk, ezért válaszolunk rá",
+        "txtlength": 12374
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/global/20210131/magyar-gyartmanyu-repulogepeket-vetnenek-be-nigeriai-terroristak-ellen-467434",
+        "h1": "Magyar gyártmányú repülőgépeket vetnének be nigériai terroristák ellen",
+        "txtlength": 12233
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2021/01/30/eneklo-dedmamak-dan-buckalakok-magyar-boszorkanyok-gozerovel-halad-a-neprajzi-orokseg-digitalizacioja",
+        "h1": "ÉNEKLŐ DÉDMAMÁK, DÁN BUCKALAKÓK, MAGYAR BOSZORKÁNYOK: GŐZERŐVEL HALAD A NÉPRAJZI ÖRÖKSÉG DIGITALIZÁCIÓJA",
+        "txtlength": 11002
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/vasarlas/jobban-teszed-ha-vigyazol-csalok-fosztogatjak-a-gyanutlan-magyarokat.1110002.html",
+        "h1": "Jobban teszed, ha vigyázol: csalók fosztogatják a gyanútlan magyarokat",
+        "txtlength": 10662
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/biztositas/100-440-forintot-is-bukhatsz-evente-csak-egy-orvosi-igazolas-kell-az-adokedvezmenyhez.1109866.html",
+        "h1": "100 440 forintot is bukhatsz évente: csak egy orvosi igazolás kell az adókedvezményhez",
+        "txtlength": 10421
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/tudomany/2021/01/31/2020-megmutatta-az-emberi-faj-gyengeseget/",
+        "h1": "2020 megmutatta az emberi faj gyengeségét",
+        "txtlength": 21167
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/eszkombajn/2021/01/30/batavia-hajotores-zendules-horror-holland-kelet-indiai-tarsasag-ausztralia",
+        "h1": "Hajótörésből horror: a Batavia dermesztő története",
+        "txtlength": 20244
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kultura/2021/01/31/aids-negy-betu-matine-konyvajanlo/",
+        "h1": "Bulit kért saját halotti torára az AIDS-beteg",
+        "txtlength": 19117
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kultura/2021/01/30/a-baranyok-hallgatnak-30-evfordulo/",
+        "h1": "A szép, nagy szemű bab és a jó chianti – 30 éves A bárányok hallgatnak",
+        "txtlength": 18804
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kult/2021/01/30/nekem-is-nagy-kerdes-hogy-amit-csinalok-az-jo-e",
+        "h1": "A barista lelkész, aki a rockzenéből nyer impulzusokat",
+        "txtlength": 17985
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/budapest-koronavirus-szellemvaros-eszaka/nktkbj1",
+        "h1": "Szellemvárossá válik éjszakánként Budapest: a Blikk körbejárta az üresen kongó fővárost a legcsendesebb órákban – fotók",
+        "txtlength": 14727
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/01/30/egymasnak-feszult-a-brexit-a-vilagjarvany-elleni-eu-s-intezkedesekkel",
+        "h1": "Egymásnak feszült a Brexit a világjárvány elleni EU-s intézkedésekkel",
+        "txtlength": 12682
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/merkely-bela-majus-nyitas-koronavirus-vakcina/dfcclgt",
+        "h1": "Koronavírus Magyarországon - szóba került a májusi nyitás",
+        "txtlength": 12508
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/eszkombajn/2021/01/31/miert-nem-buddha-hanem-szuz-maria-es-jezus-szobra-disziti-europa-egyik-legnagyobb-buddhista-kozpontjanak-bejaratat",
+        "h1": "Miért nem Buddha, hanem Szűz Mária és Jézus szobra díszíti Európa egyik legnagyobb buddhista központjának bejáratát?",
+        "txtlength": 12466
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/01/30/a-putyin-penztarcajakent-emlegetett-arkagyij-rotenberg-vallalta-fel-hogy-ove-a-titkos-palota",
+        "h1": "A Putyin pénztárcájaként emlegetett Arkagyij Rotenberg vállalta fel, hogy övé a titkos palota",
+        "txtlength": 11873
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/tudomany/20210131_merkely_bela_oltas_vakcina_koronavirus",
+        "h1": "Merkely Béla: Ha két hónap alatt be lehetne oltani a lakosságot, akkor májustól mind biztonságban lehetnénk",
+        "txtlength": 10158
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/gazdasag/20210131_budapest_statisztika_ksh",
+        "h1": "Kilenc ábrán mutatjuk, hogyan élnek a budapestiek",
+        "txtlength": 9703
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/tudomany/20210131_ogyei_szputnyik_v_vakcina_koronavirus",
+        "h1": "Az OGYÉI főigazgatója szerint 90 százalék feletti hatékonyságú az orosz vakcina",
+        "txtlength": 8653
+    },
+    {
+        "hostname": "nosalty.hu",
         "pagelink": "https://www.nosalty.hu/recept/kremes-francia-rakott-burgonya",
         "h1": "Krémes francia rakott burgonya",
         "txtlength": 10542
