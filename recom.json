@@ -1,6 +1,198 @@
 [
     {
         "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/hazi-kokuszkocka",
+        "h1": "Házi kókuszkocka",
+        "txtlength": 10137
+    },
+    {
+        "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/hagyomanyos-lencsefozelek",
+        "h1": "Hagyományos lencsefőzelék",
+        "txtlength": 10018
+    },
+    {
+        "hostname": "receptneked.hu",
+        "pagelink": "https://receptneked.hu/gyors/tojas-fasirt/",
+        "h1": "Tojásfasírt recept",
+        "txtlength": 3391
+    },
+    {
+        "hostname": "receptneked.hu",
+        "pagelink": "https://receptneked.hu/gyors/tokos-tocsni/",
+        "h1": "Tökös tócsni recept",
+        "txtlength": 3304
+    },
+    {
+        "hostname": "kiszamolo.hu",
+        "pagelink": "https://kiszamolo.hu/azon-a-szinten-elek-vajon-ahogy-elnem-kellene/",
+        "h1": "Azon a szinten élek vajon, ahogy élnem kellene?",
+        "txtlength": 43093
+    },
+    {
+        "hostname": "alapblog.hu",
+        "pagelink": "https://alapblog.hu/egy-buborek-anatomiaja/",
+        "h1": "EGY BUBORÉK ANATÓMIÁJA",
+        "txtlength": 10880
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20210201/a-kovetkezo-valsag-szetroppantja-az-ezer-sebbol-verzo-eurozonat-hogy-mondtuk-ezt-kerem-467476",
+        "h1": "\"A következő válság szétroppantja az ezer sebből vérző eurózónát\" - Hogy mondtuk ezt, kérem?",
+        "txtlength": 23371
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210131_niall_ferguson_big_tech_trump",
+        "h1": "Lesújtott a jobboldalra a hosszú kések éjszakája – Niall Ferguson sztártörténész gondolatai",
+        "txtlength": 22639
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210127_gor_csaba_fidesz_lanchid",
+        "h1": "Karácsony polgármestersége ámokfutás – Gór Csaba a Mandinernek",
+        "txtlength": 22240
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210131_huvosvolgyi_ildiko_a_mandinernek",
+        "h1": "Visszatérni az ősforráshoz: a hithez és az imádsághoz – Hűvösvölgyi Ildikó a Mandinernek",
+        "txtlength": 19611
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/kozelet/20210201/meszaros-lorinc-lerohanhatna-az-asvanyvizpiacot-de-valoszinuleg-nem-fogja/",
+        "h1": "Mészáros Lőrinc lerohanhatná az ásványvízpiacot, de valószínűleg nem fogja",
+        "txtlength": 19234
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/uzlet/20210201/lazadas-a-tozsden-egyre-nagyobb-a-csorda-etvagya-egyelore-legyozhetetlenek-467684",
+        "h1": "Lázadás a tőzsdén, egyre nagyobb a csorda étvágya, egyelőre legyőzhetetlenek",
+        "txtlength": 18317
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vallalat/20210130/ketszer-annyi-akkumulatort-gyartunk-majd-magyarorszagon-mint-autot/",
+        "h1": "Kétszer annyi akkumulátort gyártunk majd Magyarországon, mint autót",
+        "txtlength": 17171
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2021/02/01/egy-ev-a-koronavirussal-mire-jutottunk-es-hogyan-tovabb",
+        "h1": "EGY ÉV A KORONAVÍRUSSAL: MIRE JUTOTTUNK, ÉS HOGYAN TOVÁBB?",
+        "txtlength": 14850
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20210201/mit-varhatunk-a-forinttol-az-idei-evben-467172",
+        "h1": "Mit várhatunk a forinttól az idei évben?",
+        "txtlength": 14447
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/vasarlas/gombamod-szaporodnak-az-ilyen-boltok-magyarorszagon-egyre-tobben-vasarolnak-igy.1110018.html",
+        "h1": "Gombamód szaporodnak az ilyen boltok Magyarországon: egyre többen vásárolnak így",
+        "txtlength": 13450
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/biztositas/ezekben-a-megyekben-a-legtobb-az-influenzaszeru-eset-egyre-tobb-gyerek-betegszik-le.1109948.html?r=melleklet",
+        "h1": "Ezekben a megyékben a legtöbb az influenzaszerű eset: egyre több gyerek betegszik le",
+        "txtlength": 11097
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/szuloseg/kisbaba-rossz-alvo-fenyviszonyok/",
+        "h1": "ROSSZ ALVÓ A KISBABÁD? LEHET, HOGY A FÉNYVISZONYOK MIATT",
+        "txtlength": 10835
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/gyerek/paros-keresztnevek-amelyek-szepen-csengenek/",
+        "h1": "Keresztnevek, amelyek párban igazán szépek: ha még nem tudjátok, hogy hívják a születendő kicsit",
+        "txtlength": 10271
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/belfold/2021/02/01/volner-janos-jobbik-mi-hazank-mozgalom-volner-part-portre",
+        "h1": "Orbán Viktor utolsó mohikánja",
+        "txtlength": 37913
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/velemeny/2021/02/01/hidvita-galvani-hid-vitezy-david",
+        "h1": "Vitézy: A hídvita abszurditása",
+        "txtlength": 32719
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/belfold/2021/02/01/vagyonnyilatkozatok-orszaggyulesi-kepviselok-parlament",
+        "h1": "Szijjártó számlája ötmillióval megcsappant, Gyurcsány hitelei jócskán megnőttek",
+        "txtlength": 20871
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/gazdasag/20210201_vagyonnyilatkozatok_2021",
+        "h1": "A vagyonnyilatkozatok éjszakájának fő kérdései: hova lett Szijjártó pénze, ki Rogán új neje, és mit ront el Orbán?",
+        "txtlength": 19316
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/politika/vagyonnyilatkozatok-orban-novak-gulyas-szijjarto/krc6gms",
+        "h1": "Itt vannak a vagyonnyilatkozatok: Orbán Viktornak továbbra sincsen megtakarított pénze – Mutatjuk a részleteket",
+        "txtlength": 17603
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kozelet/2021/02/01/vagyonnyilatkozat-2021/",
+        "h1": "Rogán újra megnősült, Orbánnak továbbra sincs megtakarítása, Hadházy 5 milliós adományt kapott",
+        "txtlength": 15128
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/tuntetes-koronavirus-hosok-tere/1dgw9kk",
+        "h1": "Tüntetés a Hősök terén, lecsaptak a rendőrök: a tönkremenő fiataloktól Orbán Viktor szidásáig – fotók",
+        "txtlength": 15011
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/cegauto/20210131_lincoln_aviator_teszt",
+        "h1": "Elnöki ügy: teszten az új Lincoln Aviator",
+        "txtlength": 13189
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/02/01/tobb-orszag-is-eliteli-a-mianmarban-tortent-katonai-puccsot",
+        "h1": "Több ország is elítéli a Mianmarban történt katonai puccsot",
+        "txtlength": 12314
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2021/01/31/video-nem-volt-tomeg-nyitas-hosok-tere-tuntetes-igazoltatas/",
+        "h1": "„Normálisan, kulturáltan nyissunk, ne fegyverrel!” – Videó a tüntetésről",
+        "txtlength": 11683
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2021/02/01/kalocsai-gyermekotthon-gyermekbantalmazas-feljelentes-nyomozas/",
+        "h1": "Kalocsai gyermekotthon: három nyomozás is folyik erőszakos bűncselekmények miatt",
+        "txtlength": 11597
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/01/31/jon-a-tavasz-jovo-heten-akar-16-fok-is-lehet",
+        "h1": "Jön a tavasz, jövő héten akár 16 fok is lehet",
+        "txtlength": 10112
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20210131_szte_ttik_dekan_modellvaltas_csirik_janos",
+        "h1": "Az SZTE korábbi dékánja szerint utódjának le kell mondania, mert megszavazta a modellváltást",
+        "txtlength": 8965
+    },
+    {
+        "hostname": "nosalty.hu",
         "pagelink": "https://www.nosalty.hu/recept/tokeletes-krumplis-teszta-ahogy-mi-szeretjuk",
         "h1": "Tökéletes krumplis tészta - ahogy mi szeretjük",
         "txtlength": 10101
