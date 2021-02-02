@@ -1,6 +1,198 @@
 [
     {
         "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/hagyomanyos-rakott-kel-gabystol",
+        "h1": "Hagyományos rakott kel Gabystól",
+        "txtlength": 10041
+    },
+    {
+        "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/makos-guba-vaniliasodoval",
+        "h1": "Mákos guba vaníliasodóval",
+        "txtlength": 9968
+    },
+    {
+        "hostname": "receptneked.hu",
+        "pagelink": "https://receptneked.hu/gyors/krumplispogacsa/",
+        "h1": "Krumplis pogácsa recept",
+        "txtlength": 3046
+    },
+    {
+        "hostname": "hataratkelo.blog.hu",
+        "pagelink": "https://hataratkelo.blog.hu/2021/01/30/kulfoldi_egyetemistakent_budapesten",
+        "h1": "Külföldi egyetemistaként Budapesten",
+        "txtlength": 19586
+    },
+    {
+        "hostname": "hafr.hvgblog.hu",
+        "pagelink": "https://hafr.hvgblog.hu/2020/12/08/behanyas_az_mcc-ben_es_a_napi_525_forintnyi_elelem/",
+        "h1": "Behányás az MCC-ben és a napi 525 forintnyi élelem",
+        "txtlength": 10248
+    },
+    {
+        "hostname": "cineartstudio.blog.hu",
+        "pagelink": "https://cineartstudio.blog.hu/2021/02/01/koltai_lajos_az_szfe-n",
+        "h1": "Koltai Lajos is tanítani fog az SZFE-n",
+        "txtlength": 6055
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210120_ma_szuletett_partok",
+        "h1": "Ma született pártok",
+        "txtlength": 21838
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/karrier/jobb-ha-megtanulod-mi-az-a-hopetism-sok-minden-mulhat-a-mentalis-fokuszponton.1110074.html",
+        "h1": "Jobb, ha megtanulod, mi az a hopetism: sok minden múlhat a mentális fókuszponton",
+        "txtlength": 21087
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210128_antal_istvan_roma_peldakepek",
+        "h1": "„A továbbtanulás egy álom, ugyanakkor menekülőút is” – Antal István a Mandinernek",
+        "txtlength": 20663
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://makronom.mandiner.hu/cikk/20210111_rose_textil_doublerose_textilipar_antibakterialis_radi_balazs_makronom",
+        "h1": "Otthagyta multis állását, hogy újraélessze a hazai textilipart",
+        "txtlength": 20298
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20210202/hosszu-tavon-is-odacsaphat-a-koronavirus-a-gazdasagi-novekedesnek-467396",
+        "h1": "Hosszú távon is odacsaphat a koronavírus a gazdasági növekedésnek",
+        "txtlength": 19611
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/ingatlan/20210202/rendszervaltas-a-vasuton-budapesti-es-agglomeracios-vasutfejlesztesi-strategia-keszul-467894",
+        "h1": "Rendszerváltás a vasúton – Budapesti és agglomerációs vasútfejlesztési stratégia készül",
+        "txtlength": 19400
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/kozelet/20210201/a-koltsegvetes-homalya-fedi-el-milyen-keves-jutott-a-munkahelyek-es-csaladok-vedelmere/",
+        "h1": "A költségvetés homálya fedi el, milyen kevés jutott a munkahelyek és családok védelmére",
+        "txtlength": 19204
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/adat/20210202/lassan-fellelegezhetnek-a-kinabol-rendelo-cegek-es-fogyasztok/",
+        "h1": "Lassan fellélegezhetnek a Kínából rendelő cégek és fogyasztók",
+        "txtlength": 17461
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/szuloseg/csecsemo-szoptatas-hozzataplalas/",
+        "h1": "SZOPTATÁS ÉS HOZZÁTÁPLÁLÁS: MIKOR, MIT ÉS HOGYAN ADJUNK A BABÁNAK?",
+        "txtlength": 16668
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2021/02/02/megvilagosodik-vajon-a-mesterseges-intelligencia-ha-megtanitjuk-neki-a-buddhizmus-alapelveit",
+        "h1": "MEGVILÁGOSODIK VAJON A MESTERSÉGES INTELLIGENCIA, HA MEGTANÍTJUK NEKI A BUDDHIZMUS ALAPELVEIT?",
+        "txtlength": 15809
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/vasarlas/igy-sozzak-rad-a-kinai-zoldseget-a-magyar-boltok-sokan-nem-tudjak-mit-vesznek.1110144.html",
+        "h1": "Így sózzák rád a kínai zöldséget a magyar boltok: sokan nem tudják, mit vesznek",
+        "txtlength": 15470
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/bank/20210202/magyarok-szazezrei-vannak-a-milliomosklubban-ahova-400-ezres-fizetessel-te-is-bekerulhetsz-467778",
+        "h1": "Magyarok százezrei vannak a milliomosklubban, ahova 400 ezres fizetéssel te is bekerülhetsz",
+        "txtlength": 14210
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/otthon/kertet-de-azonnal/",
+        "h1": "Buja kertet akarsz, de azonnal? Az elképzelések és a meztelen valóság",
+        "txtlength": 12885
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/belfold/2021/02/02/szalay-bobrovniczky-vince-becs-nagykovet-ittas-vezetes-baleset-kulugyminiszterium",
+        "h1": "Egy befolyásos diplomata eltussolt botránya",
+        "txtlength": 31319
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20210202_koronavirus_szovodmeny_gyermek_Heim_Pl_intenziv",
+        "h1": "Hároméves gyermeket is kezeltek már a koronavírus ritka, de súlyos szövődményével Magyarországon",
+        "txtlength": 17629
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/02/01/rakapcsol-a-pfizer-megjelentek-a-penzert-arult-hamis-tesztek",
+        "h1": "Rákapcsol a Pfizer, megjelentek a pénzért árult hamis tesztek",
+        "txtlength": 16024
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/tech/2021/02/02/5-leggyakoribb-internetes-csalad-2021ben-vakcina-money-mule-adocsalas/",
+        "h1": "Ezektől az átverésektől kell most leginkább tartani a neten",
+        "txtlength": 15820
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/fn/gazdasag/2021/02/02/orban-viktor-multi-magyar-ceg-mol-otp/",
+        "h1": "Orbán világhódító magyar cégekről álmodik",
+        "txtlength": 15248
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/szorakozas/2021/02/02/bee-gees-how-can-you-mend-a-broken-heart-zene-diszko-dokumentumfilm",
+        "h1": "A zenekar, ami évtizedeken keresztül életben maradt",
+        "txtlength": 13156
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "http://www.blikk.hu/aktualis/belfold/koronavirus-jarvany-oltas-szent-laszlo-korhaz-fonover/lxgw5th?utm_source=related&utm_medium=www.blikk.hu&utm_campaign=widget-9446979",
+        "h1": "„Nem tudjuk, hogyan fogunk meghalni, de így senki nem szeretne” – Az oltásról is beszélt a Szent László kórház intenzív osztályának főnővére – exkluzív videó",
+        "txtlength": 13087
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/02/01/merkel-szerint-lehetseges-minden-nemet-felnottet-beoltani-a-nyar-vegeig",
+        "h1": "Merkel szerint lehetséges minden német felnőttet beoltani a nyár végéig",
+        "txtlength": 12406
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/penzbuntetest-kapott-balazs-gazolas-becs-gyaszolo-csalad/ecfk0rj",
+        "h1": "„A fiunk halálának felelőse nem tanúsított megbánást, gúnyos mosollyal lépett ki a tárgyalóteremből” – Ennyit ért az elgázolt Balázs élete",
+        "txtlength": 12346
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kulfold/2021/02/01/az-orosz-internet-megregulazasa-jol-jon-navalnij-ellen",
+        "h1": "Az orosz internet megregulázása Navalnij ellen is szól",
+        "txtlength": 10772
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2021/02/02/koronavirus-heim-pal-korhaz-alvaszavar/",
+        "h1": "Megsokszorozódott az alvászavaros gyerekek száma a járvány miatt",
+        "txtlength": 10679
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/gazdasag/20210202_munkanelkuliseg_koronavirus_december",
+        "h1": "Decemberben több százezer magyar volt majdnem-munkanélküli",
+        "txtlength": 10395
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/tudomany/20210202_lockdown_bezartsag_kijarasi_tilalom_digitalis_fuggoseg",
+        "h1": "Hogyan kerülheti el, hogy képernyőfüggővé váljon a nagy bezárkózásban? Ötletek",
+        "txtlength": 10028
+    },
+    {
+        "hostname": "nosalty.hu",
         "pagelink": "https://www.nosalty.hu/recept/hazi-kokuszkocka",
         "h1": "Házi kókuszkocka",
         "txtlength": 10137
