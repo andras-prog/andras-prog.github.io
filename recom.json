@@ -1,6 +1,192 @@
 [
     {
         "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/tejfolos-karfiolleves",
+        "h1": "Tejfölös karfiolleves",
+        "txtlength": 9999
+    },
+    {
+        "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/kinai-teszta-ahogy-bufeben-keszul",
+        "h1": "Kínai tészta, ahogy a büfében készül",
+        "txtlength": 9899
+    },
+    {
+        "hostname": "kiszamolo.hu",
+        "pagelink": "https://kiszamolo.hu/heti-gazdasagi-hirek-roviden/",
+        "h1": "Heti gazdasági hírek röviden",
+        "txtlength": 32854
+    },
+    {
+        "hostname": "kulturpart.hu",
+        "pagelink": "https://kulturpart.blog.hu/2021/02/01/eszrevenni_a_lathatatlanokat",
+        "h1": "ÉSZREVENNI A LÁTHATATLANOKAT",
+        "txtlength": 12116
+    },
+    {
+        "hostname": "alapblog.hu",
+        "pagelink": "https://alapblog.hu/milyen-legyen-az-uj-5-forintos-szavazz-az-mnb-kerdoiveben/",
+        "h1": "MILYEN LEGYEN AZ ÚJ 5 FORINTOS? (SZAVAZZ AZ MNB KÉRDŐÍVÉBEN!)",
+        "txtlength": 5496
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://makronom.mandiner.hu/cikk/20210202_a_vendeglatasban_ma_a_legtobben_baloldaliak",
+        "h1": "Nem látok felelős magatartást a baloldalon – a Zenit Hotel tulajdonosa a Makronómnak",
+        "txtlength": 23660
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/uzlet/20210203/koronavirus-vakcinak-ezek-lehetnek-az-oltas-utani-mellekhatasok-szovodmenyek-467992",
+        "h1": "Koronavírus vakcinák: ezek lehetnek az oltás utáni mellékhatások, szövődmények",
+        "txtlength": 19669
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/elet/20210202/kell-e-modositani-az-oltasokat-a-mutaciok-miatt/",
+        "h1": "Kell-e módosítani az oltásokat a mutációk miatt?",
+        "txtlength": 18919
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/kozelet/20210203/tiz-evig-papiron-vezethette-a-miniszterium-hogyan-koltottek-el-800-milliard-forintot/",
+        "h1": "Tíz évig papíron vezethette a minisztérium, hogyan költöttek el 800 milliárd forintot",
+        "txtlength": 17511
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210110_a_szinpadon_nincs_olyan_hogy_jobb_vagy_baloldali_csore_gabor_a_mandinernek",
+        "h1": "A színpadon nincs olyan, hogy jobb- vagy baloldali – Csőre Gábor a Mandinernek",
+        "txtlength": 17078
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/bank/20210203/tortenelmi-it-fuzio-es-digitalis-ujitasok-elarultak-a-bankok-mire-keszulnek-iden-467976",
+        "h1": "Történelmi IT-fúzió és digitális újítások - Elárulták a bankok, mire készülnek idén",
+        "txtlength": 16381
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210202_jobbik_magyarzoltan_gyongyosimarton_oroszorszag_krim_donyeck_ukrajna",
+        "h1": "Máig kísérti oroszbarát múltja a Jobbikot",
+        "txtlength": 16345
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/uzlet/20210203/ilyen-amikor-nem-a-csorda-mozgatja-a-tozsdeket-de-sok-penzt-csinalni-nem-konnyu-467998",
+        "h1": "Ilyen, amikor nem a csorda mozgatja a tőzsdéket, de sok pénzt csinálni nem könnyű",
+        "txtlength": 14441
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/gyerek/egyedulallo-anya-anyagiak/",
+        "h1": "Ha egy anya egyedül vállal gyereket: kiszámoltuk, milyen lehetőségei vannak",
+        "txtlength": 13309
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/biztositas/kritikus-a-helyzet-tobb-mint-500-telepulesen-a-magyarok-egeszsege-a-tet.1110134.html?r=melleklet",
+        "h1": "Kritikus a helyzet több mint 500 településen: a magyarok egészsége a tét",
+        "txtlength": 13274
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/biztositas/lehull-a-lepel-4-veszelyes-covid-tevhitrol-mennyire-kell-felni-a-virusmutacioktol.1110120.html?r=melleklet",
+        "h1": "Lehull a lepel 4 veszélyes COVID-tévhitről: mennyire kell félni a vírusmutációktól?",
+        "txtlength": 12096
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2021/02/02/ha-meg-akarjuk-menteni-a-foldet-itt-az-ido-beruhazni-az-oriasi-szen-dioxid-levalaszto-uzemek-epitesebe",
+        "h1": "HA MEG AKARJUK MENTENI A FÖLDET, ITT AZ IDŐ BERUHÁZNI AZ ÓRIÁSI SZÉN-DIOXID-LEVÁLASZTÓ ÜZEMEK ÉPÍTÉSÉBE",
+        "txtlength": 11933
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/lajfhekk/2021/01/13/parkapcsolat-penzugyek-kezelese/",
+        "h1": "ÍGY KEZELJÉTEK A PÉNZÜGYEKET, HOGY NE MENJEN RÁ A KAPCSOLATOTOK",
+        "txtlength": 7836
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/tech/2021/02/02/bluetooth-fulhallgato-apple-samsung-bang-olufsen-earfun-xiaomi-zene-fules-teszt",
+        "h1": "Nem mindegy, mit dug az ember magába",
+        "txtlength": 20857
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kulfold/2021/02/02/navalnij-targyalas-felfuggesztett-vagy-letoltendo-borton",
+        "h1": "Három és fél év börtönt kapott Navalnij",
+        "txtlength": 16682
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kulfold/2021/02/03/utolerte-a-sajat-sorsa-a-rockzene-antikrisztusat",
+        "h1": "Utolérte a sors a rockzene antikrisztusát",
+        "txtlength": 16584
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/elet/20210201_magyar_sipalyak_epleny_siarena_matraszentistvan_sipark_hol_lehet_sielni_itthon",
+        "h1": "Két perc alatt túl vagy rajta, de így is jobb a semminél",
+        "txtlength": 15751
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/vilag/20210203_Vakcinadiplomacia_szerb_modra",
+        "h1": "Orbán új kísérleti laborjában politikai kérdéssé vált a vakcina",
+        "txtlength": 14138
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2021/02/03/debreceni-egyetem-modellvaltas-alapitvanyi-fenntartas-hok-tiltakozas/",
+        "h1": "„A város és az egyetem is echte narancs, nincs mit szépíteni” – nem mindenkinek tetszik a modellváltás Debrecenben",
+        "txtlength": 14133
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/vilag/20210202_Az_orszagunk_egy_repulni_tanulo_madar_aminek_a_hadsereg_most_letorte_a_szarnyait",
+        "h1": "„Az országunk egy repülni tanuló madár, aminek a hadsereg most letörte a szárnyait”",
+        "txtlength": 13481
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/fn/gazdasag/2021/02/03/meszaros-lorinc-csany-sandor-leggazdagabb-magyar-forbes/",
+        "h1": "Mészáros Lőrinc magasan veri Csányi Sándort, és Vajna Tímea sem tűnt el",
+        "txtlength": 13270
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/kulfold/oroszorszag-tuntetes-navalnij-itelet-rendorseg-orizetbe-vetel-ezer-ember/863zm73",
+        "h1": "Rengetegen vonultak utcára Navalnij ítélete miatt – Több mint ezer ember őrizetbe vett az orosz rendőrség",
+        "txtlength": 13226
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/krimi/balta-gyilkossag-no-anya-szerelme-budapest-ii-kerulet/vbxqg8t",
+        "h1": "Drámai részletek – Ezt mondták a szomszédok Krisztináról, aki egy baltával verte agyon a párját Budapesten",
+        "txtlength": 12542
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/02/02/oltassak-csak-be-magukat-batran",
+        "h1": "Oltassák csak be magukat bátran!",
+        "txtlength": 12486
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/02/03/vajna-timea-gazdagabb-mint-schmidt-maria",
+        "h1": "Vajna Tímea gazdagabb, mint Schmidt Mária",
+        "txtlength": 12212
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kulfold/2021/02/02/reddit-gamestop-tozsde-shortolas-wall-street/",
+        "h1": "Hogyan tudták megbolondítani az internetezők a tőzsdét?",
+        "txtlength": 11050
+    },
+    {
+        "hostname": "nosalty.hu",
         "pagelink": "https://www.nosalty.hu/recept/hagyomanyos-rakott-kel-gabystol",
         "h1": "Hagyományos rakott kel Gabystól",
         "txtlength": 10041
