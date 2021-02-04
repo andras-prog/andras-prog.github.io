@@ -1,6 +1,186 @@
 [
     {
         "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/szabolcsi-olcso-almas-porlos-almas-pite-8",
+        "h1": "Szabolcsi olcsó almás porlós - Almás pite 8.",
+        "txtlength": 10420
+    },
+    {
+        "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/edes-paradicsomos-husgomboc",
+        "h1": "Édes paradicsomos húsgombóc",
+        "txtlength": 9578
+    },
+    {
+        "hostname": "kiszamolo.hu",
+        "pagelink": "https://kiszamolo.hu/hogy-talald-meg-az-ingatlant/",
+        "h1": "Hogy találd meg az ingatlant?",
+        "txtlength": 45989
+    },
+    {
+        "hostname": "alapblog.hu",
+        "pagelink": "https://alapblog.hu/rank-leselkedo-kockazat-gazdasag-tarsadalom-kornyezet/",
+        "h1": "RÁNK LESELKEDŐ KOCKÁZATOK",
+        "txtlength": 6280
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210203_joe_biden_progresszio_katolikus",
+        "h1": "Hitvallás és progresszió: mit ér Joe Biden katolicizmusa?",
+        "txtlength": 28713
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210127_a_vakcina_nem_lehet_politikai_kerdes",
+        "h1": "A vakcina nem lehet politikai kérdés! – Szijjártó Péter a Mandinernek",
+        "txtlength": 27157
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/kozelet/20210204/sok-mindent-mashogy-kellene-csinalni-az-oktatasban-ha-fejlodni-akar-magyarorszag/",
+        "h1": "Sok mindent máshogy kellene csinálni az oktatásban, ha fejlődni akar Magyarország",
+        "txtlength": 23376
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210128_oldoklo_kuzdelem_varhato_az_elovalasztason_szerkesztes_alatt",
+        "h1": "Öldöklő küzdelem várható a baloldali előválasztáson",
+        "txtlength": 20551
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20210204/megjott-orban-viktor-bejelentese-10-evre-szolo-ingyenhitel-jon-468208",
+        "h1": "Megjött Orbán Viktor bejelentése: 10 évre szóló ingyenhitel jön! ",
+        "txtlength": 19864
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/uzlet/20210203/jogaban-all-e-vilagszerte-tobb-millio-fiatalnak-egyszerre-hulyenek-lennie-468066",
+        "h1": "Jogában áll-e világszerte több millió fiatalnak egyszerre hülyének lennie?",
+        "txtlength": 18751
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/ingatlan/20210203/csokkennek-vagy-tovabb-nonek-a-lakasarak-itthon-ime-az-idei-evi-elorejelzes-468088",
+        "h1": "Csökkennek vagy tovább nőnek a lakásárak itthon? - Íme az idei évi előrejelzés",
+        "txtlength": 16231
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/elet/20210131/az-egyik-sullyedo-hajon-100-kutya-van-a-masikon-egy-ember-melyiket-mentsuk-meg/",
+        "h1": "Az egyik süllyedő hajón 100 kutya van, a másikon egy ember, melyiket mentsük meg?",
+        "txtlength": 15660
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/vasarlas/ekkora-pofont-is-reg-kaptak-a-nyugdijasok-nehez-dolguk-lesz-a-nagybevasarlassal.1110176.html",
+        "h1": "Ekkora pofont is rég kaptak a nyugdíjasok: nehéz dolguk lesz a nagybevásárlással",
+        "txtlength": 14711
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/kapcsolat/az-irigyseg-faj/",
+        "h1": "Megrendítő, mikor bevallod magadnak, hogy irigy vagy, de ez az első lépés a szabadság felé vezető úton",
+        "txtlength": 12542
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/karrier/a-borzalmas-fonokok-7-tipusa-ha-ilyennel-talalkozol-menekulj.1110236.html",
+        "h1": "A borzalmas főnökök 7 típusa: ha ilyennel találkozol, menekülj!",
+        "txtlength": 11956
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2021/02/03/szomoru-kudarc-nemzeti-szegyen-a-francia-vakcinafejlesztokon-csunyan-kifogott-a-koronavirus",
+        "h1": "„SZOMORÚ KUDARC”, „NEMZETI SZÉGYEN”: A FRANCIA VAKCINAFEJLESZTŐKÖN CSÚNYÁN KIFOGOTT A KORONAVÍRUS",
+        "txtlength": 9414
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/lajfhekk/2021/01/24/zsir-olaj-tuz/",
+        "h1": "HOGY LEHET ELOLTANI A LÁNGOLÓ OLAJAT VAGY ZSÍRT? A VIZET FELEJTSD EL ELSŐKÉNT",
+        "txtlength": 6496
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/kultura/20210203_szinhaz_es_filmmuveszeti_egyetem_felveteli_felvetelizok_jelentkezes_modellvaltas",
+        "h1": "„Felvételizem az SZFE-re, de csak hogy tudjam, mire fogok nemet mondani”",
+        "txtlength": 20471
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/belfold/2021/02/04/rogan-antal-felesege-obrusanszki-barbara-mezogazdaasgi-foldek-vasarlasa-csokvaomany-dedestapolcsany",
+        "h1": "Megnéztük Rogán Barbara földjeit",
+        "txtlength": 19755
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/penz/orban-viktor-iparkamara-gazdasag-beszed/ycy1yyn",
+        "h1": "Orbán Viktor, Parragh László és Varga Mihály beszéde - Hogy fogunk élni? - Erre számítson mindenki, ez várható a magyar gazdaságban",
+        "txtlength": 19186
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2021/02/03/szocializmus-old-firenze-bun-kadar-kor-betorok-tango-es-kes/",
+        "h1": "Old Firenze, avagy a bűn késő Kádár-kori melankóliája",
+        "txtlength": 18933
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/politika/orban-viktor-magyarorszag-nyilatkozat-interju-stern/hl38mn6",
+        "h1": "Ötmillió kínai és a Meseország – Orbán Viktor elmondta a németeknek az igazságot Magyarországról és a magyarokról",
+        "txtlength": 16796
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/gazdasag/20210204_mkik_gazdasagi_evnyito_elo",
+        "h1": "Orbán új hitelkonstrukciót jelentett be a mikrovállalkozásoknak - élő",
+        "txtlength": 14638
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2021/02/04/haziorvosok-oltas-idosek-koronavirus/",
+        "h1": "„11 hónapja várunk arra, hogy elkezdhessünk oltani”",
+        "txtlength": 13432
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kultura/2021/02/03/moszkva-ter-20-eves-torok-ferenc-szabo-simon-balla-eszter-karalyos-gabor/",
+        "h1": "Ma is sokan emlegetjük, „Ki a csöcs az a Nagy Imre?” – 20 éves a Moszkva tér",
+        "txtlength": 13140
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/02/03/erdogan-mar-nem-lesznek-a-2013-as-gezi-parki-tuntetesekhez-hasonlo-tuntetesek",
+        "h1": "Erdogan: Már nem lesznek a 2013-as, Gezi parki tüntetésekhez hasonlók",
+        "txtlength": 12648
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20210204_orban_viktor_meseorszag_mindenkie_bevandorlas_europai_unio",
+        "h1": "Orbán: Szeretjük a sokszínűséget, de ami kívülről jön, azzal nagyon óvatosak vagyunk",
+        "txtlength": 12463
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/koronavirus/2021/02/03/oltas-vakcina-idosek-haziorvos-regisztracio-mellekhatas-oltopont-moderna-pfizer",
+        "h1": "Kik kapják, mikor és hol? És én mikor? Minden a csütörtökön induló nagy oltókampányról",
+        "txtlength": 12384
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/02/04/izraelben-16-eves-kor-felett-mar-barki-kerhet-oltast",
+        "h1": "Izraelben 16 éves kor felett már bárki kérhet oltást",
+        "txtlength": 12110
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/foto/2021/02/03/kun-andras",
+        "h1": "A XII. kerületi nyilas tömeggyilkos, aki még a nyilasoknak is sok volt",
+        "txtlength": 7962
+    },
+    {
+        "hostname": "nosalty.hu",
         "pagelink": "https://www.nosalty.hu/recept/tejfolos-karfiolleves",
         "h1": "Tejfölös karfiolleves",
         "txtlength": 9999
