@@ -1,6 +1,186 @@
 [
     {
         "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/edes-borsoleves-galuskaval",
+        "h1": "Édes borsóleves galuskával",
+        "txtlength": 10074
+    },
+    {
+        "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/klasszikus-maglyarakas",
+        "h1": "Klasszikus máglyarakás",
+        "txtlength": 9977
+    },
+    {
+        "hostname": "hataratkelo.blog.hu",
+        "pagelink": "https://hataratkelo.blog.hu/2021/02/04/a_jarvany_jo_es_rossz_oldala_portugaliaban#c39783862",
+        "h1": "A járvány jó és rossz oldala Portugáliában",
+        "txtlength": 29832
+    },
+    {
+        "hostname": "cineartstudio.blog.hu",
+        "pagelink": "https://cineartstudio.blog.hu/2021/02/05/en_abban_hiszek_hogy_a_rendezo_egy_tolmacs_nem_az_egoja_menten_hoz_donteseket_hanem_a_vizio_uzenetet",
+        "h1": "Én abban hiszek, hogy a rendező egy tolmács - nem az egoja mentén hoz döntéseket, hanem a vízió üzenetét közvetíti",
+        "txtlength": 11964
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/unios-forrasok/20210204/fehergalleros-bunozok-gyujtohelyeve-valhat-magyarorszag-osszecsaptak-az-ervek-az-europai-ugyeszsegbol-kimaradas-miatt-468374",
+        "h1": "Fehérgalléros bűnözők gyűjtőhelyévé válhat Magyarország? – Összecsaptak az érvek az Európai Ügyészségből kimaradás miatt",
+        "txtlength": 26420
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210204_orban_viktor",
+        "h1": "Orbán Viktor: Nemzeti konzultáció lesz a nyitásról",
+        "txtlength": 25019
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://precedens.mandiner.hu/cikk/20210204_brexit_merlegen_beszelgetes_holger_hestermeyerrel",
+        "h1": "Brexit mérlegen – beszélgetés Holger Hestermeyerrel",
+        "txtlength": 24400
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210204_jogi_lepesek_karacsony_kereszteles_szakerto",
+        "h1": "Jogi lépéseket tesz a keresztelést bíráló, Karácsonyék által kirúgott szakértő",
+        "txtlength": 23797
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/elet/20210205/egy-generacio-talpraesettseget-teszteli-a-jarvany-a-tavmunkas-palyakezdessel/",
+        "h1": "Egy generáció talpraesettségét teszteli a járvány a távmunkás pályakezdéssel",
+        "txtlength": 21792
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vallalat/20210204/a-kkv-k-jobban-jarhatnak-a-hazai-digitalis-szolgaltatasokkal-mint-az-ismert-globalis-megoldasokkal/",
+        "h1": "A kkv-k jobban járhatnak a hazai digitális szolgáltatásokkal, mint az ismert globális megoldásokkal",
+        "txtlength": 18623
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/uzlet/20210205/europa-csatat-nyert-egy-szuperhatalommal-szemben-de-az-elektromosauto-haboru-meg-csak-most-kezdodik-468140",
+        "h1": "Európa csatát nyert egy szuperhatalommal szemben, de az elektromosautó-háború még csak most kezdődik",
+        "txtlength": 16166
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2021/02/05/alapjaiban-rengette-meg-a-munka-vilagat-magyarorszagon-a-koronavirus-jarvany-elso-hullama",
+        "h1": "ALAPJAIBAN RENGETTE MEG A MUNKA VILÁGÁT MAGYARORSZÁGON A KORONAVÍRUS-JÁRVÁNY ELSŐ HULLÁMA",
+        "txtlength": 15819
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/hitel/hivatalos-hatalmas-bukta-tomegek-forditottak-hatat-a-magyar-bankoknak.1110230.html",
+        "h1": "Hivatalos: hatalmas bukta, tömegek fordítottak hátat a magyar bankoknak",
+        "txtlength": 15037
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/szuloseg/gyerekkori-elhizas/",
+        "h1": "A GYEREKEINK ÉLETKILÁTÁSAI MÁR ROSSZABBAK, MINT A MIEINK",
+        "txtlength": 14677
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20210205/napenergia-a-birosagon-is-megkuzdenek-a-napelemgyartok-468404",
+        "h1": "Napenergia: a bíróságon is megküzdenek a napelemgyártók",
+        "txtlength": 14606
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/vallalkozas/a-forgoeszkoz-menedzsment-most-fontosabb-mint-barmikor.1109902.html",
+        "h1": "A forgóeszköz menedzsment most fontosabb, mint bármikor",
+        "txtlength": 12603
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/egeszseg/oncompass-medicine-jovo-unikornisa-dij/",
+        "h1": "Nívós díjat kapott egy magyar rákkutató cég: egész Európa legígéretesebb technológiai vállalkozása lett",
+        "txtlength": 11975
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/tudomany/2021/02/04/jarvany-vakcina-tarsadalom-eloadas-koronavirus-covid-19-kormany-hatalom-oltasellenesseg-vakcina/",
+        "h1": "A kormány a hatalom megerősítésére használja a járványt",
+        "txtlength": 15928
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/belfold/2021/02/04/laura-codruta-kovesi-europai-ugyeszseg-korrupcio-transparency-international",
+        "h1": "Ahol uniós forrásokat osztogatnak, ott természetszerűen megjelennek a bűnözők is",
+        "txtlength": 14396
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kulfold/2021/02/05/koronavirus-jarvany-vakcinaigazolas-guardtime-vaccine-guard-magyarorszag-teszteles/",
+        "h1": "Akár már márciusban bevezethetik a digitális vakcinaigazolást Magyarországon",
+        "txtlength": 14235
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2021/02/04/idosek-oltasa-haziorvosok-mok-soos-zoltan-interju/",
+        "h1": "Voltak háziorvosok, akik nemet mondtak az idősek beoltására",
+        "txtlength": 13950
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/sport/2021/02/04/tokioi-olimpia-2021-koronavirus-vakcina-oltas-sportolok-japan-nob",
+        "h1": "Az oltás önmagában még nem menti meg az olimpiát",
+        "txtlength": 13825
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/politika/kossuth-radio-orban-viktor-interju-bejelentes/dlhxbhw",
+        "h1": "Orbán Viktor újabb részleteket árult el az újranyitásról",
+        "txtlength": 13204
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/02/05/greta-thunberg-es-rihanna-arckepet-egettek-a-kormanyparti-tuntetok-indiaban",
+        "h1": "Greta Thunberg és Rihanna arcképét égették a kormánypárti tüntetők Indiában",
+        "txtlength": 12820
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/krimi/ebnagykovet-kutyak-mereg-allatkinzas/q9xxswx",
+        "h1": "„Borzalmas kínok között, a karomban haltak meg” – Fagyállóval mérgezhettek meg két német juhászkutyát Budapesten",
+        "txtlength": 12525
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/02/04/koronakonzultacio-es-koronautlevel",
+        "h1": "Koronakonzultáció és koronaútlevél",
+        "txtlength": 12320
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/gazdasag/20210204_bank_otthonfelujitasi_hitel_lakashitel",
+        "h1": "Ezeknél a bankoknál lehet felvenni az otthonfelújítási hitelt, ha már van lakáshitelünk egy másik pénzintézetnél",
+        "txtlength": 11943
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20210205_Orban_Viktor_radiointerju",
+        "h1": "Orbán Viktor: Március 15-ére minden 60 év feletti regisztrált magyart be fogunk oltani",
+        "txtlength": 10968
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/belfold/2021/02/05/tgm-antitezis-kommunizmus-fasizmus-marxizmus",
+        "h1": "TGM a posztfasizmus bántóan egyszerű titkáról",
+        "txtlength": 10767
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/tudomany/20210205_Digitalis_vakcinaigazolas_Magyarorszag",
+        "h1": "Márciusban vezethetik be a digitális vakcinaigazolást Magyarországon",
+        "txtlength": 8849
+    },
+    {
+        "hostname": "nosalty.hu",
         "pagelink": "https://www.nosalty.hu/recept/szabolcsi-olcso-almas-porlos-almas-pite-8",
         "h1": "Szabolcsi olcsó almás porlós - Almás pite 8.",
         "txtlength": 10420
