@@ -1,6 +1,186 @@
 [
     {
         "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/nagymamam-fankja",
+        "h1": "Nagymamám fánkja",
+        "txtlength": 10866
+    },
+    {
+        "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/klasszikus-madartej",
+        "h1": "Klasszikus madártej",
+        "txtlength": 9536
+    },
+    {
+        "hostname": "hataratkelo.blog.hu",
+        "pagelink": "https://hataratkelo.blog.hu/2021/02/04/a_jarvany_jo_es_rossz_oldala_portugaliaban#c39786730",
+        "h1": "A járvány jó és rossz oldala Portugáliában",
+        "txtlength": 32993
+    },
+    {
+        "hostname": "kulturpart.hu",
+        "pagelink": "https://kulturpart.blog.hu/2021/02/05/olafur_eliasson_titokzatos_vilaga",
+        "h1": "ÓLAFUR ELIASSON TITOKZATOS VILÁGA",
+        "txtlength": 11043
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210205_sandor_lenard_egyesult_allamok_valasztas",
+        "h1": "Nem nyert bizonyítást a rendszerszintű választási csalás Amerikában – Sándor Lénárd a Mandinernek",
+        "txtlength": 27006
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2021/02/05/ami-indiaban-4-dollar-az-europaban-40-a-digitalis-szoftverpiac-erthetetlen-arai",
+        "h1": "AMI INDIÁBAN 4 DOLLÁR, AZ EURÓPÁBAN 40; A DIGITÁLIS SZOFTVERPIAC ÉRTHETETLEN ÁRAI",
+        "txtlength": 23094
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210205_ogyei_szentivanyi_sinopharm_szputnyik_interju",
+        "h1": "Sem az orosz, sem a kínai vakcina esetében nem találtunk problémás tényezőt – az OGYÉI főigazgatója a Mandinernek",
+        "txtlength": 23088
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/podcast/20210206/nem-a-24-hanem-mar-nagyjabol-a-28-oraban-vagyunk-a-termeszettudomanyos-tanarhiany-problemajaval/",
+        "h1": "„Nem a 24., hanem már nagyjából a 28. órában vagyunk a természettudományos tanárhiány problémájával”",
+        "txtlength": 19318
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210205_koronaosszefoglalo",
+        "h1": "Közel húszmillió adag oltást kötött le Magyarország – heti vakcinaösszefoglaló",
+        "txtlength": 18273
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/penz/20210205/lesz-e-370-forint-felett-az-euro/",
+        "h1": "Lesz-e 370 forint felett az euró?",
+        "txtlength": 18124
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/hitel/tobb-mint-60-ezer-fiatal-startolt-ra-az-allami-ingyenmilliokra-tudnak-valamit.1110372.html",
+        "h1": "Több mint 60 ezer fiatal startolt rá az állami ingyenmilliókra: tudnak valamit?",
+        "txtlength": 18001
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/uzlet/20210205/pluszban-zartak-az-amerikai-indexek-468398",
+        "h1": "Pluszban zártak az amerikai indexek ",
+        "txtlength": 16911
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/vasarlas/pofonegyszeru-trukk-igy-sporolhatsz-sulyos-ezreket-bevasarlasonkent.1110302.html?r=melleklet",
+        "h1": "Pofonegyszerű trükk: így spórolhatsz súlyos ezreket bevásárlásonként",
+        "txtlength": 15558
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/global/20210205/megtortent-a-katasztrofa-lassu-leepules-varhat-europa-egyik-legerosebb-orszaganak-autogyartasara-468406",
+        "h1": "Megtörtént a katasztrófa, lassú leépülés várhat Európa egyik legerősebb országának autógyártására",
+        "txtlength": 14913
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/uzlet/20210206/az-evszazad-legjobb-vicce-felrobbant-elon-musk-kedvenc-kriptodevizaja-468486",
+        "h1": "Az évszázad legjobb vicce? Felrobbant Elon Musk kedvenc kriptodevizája",
+        "txtlength": 14611
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/utazas/kirandulohelyek-budapest-mellett/",
+        "h1": "3 gyönyörű kirándulóhely Budapest mellett, ahol nincs tömeg: itt lenyűgöző a környezet",
+        "txtlength": 10042
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/lajfhekk/2021/01/22/kutya-porszivo/",
+        "h1": "MIÉRT FÉLNEK ANNYIRA A KUTYÁK A PORSZÍVÓTÓL?",
+        "txtlength": 6606
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kultura/2021/02/05/duna-elsullyedt-uszaly-szabadsag-hid-maradvanyok/",
+        "h1": "Felrobbantott híddarab és elsüllyedt uszály is fekszik a vízben a Szabadság híd alatt",
+        "txtlength": 22215
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20210205_portik_k_gabor_gyure_gyilkossag",
+        "h1": "Portikhoz vezethet a 22 évvel ezelőtti gyilkosság gyanúsítottjának elfogása",
+        "txtlength": 17216
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/koronavirus-magyarorszag-halalos-aldozatok-fertozottek/tsp9wdc",
+        "h1": "Újabb 96 áldozatot követelt itthon a covid, eddig összesen ennyi embert oltottak be",
+        "txtlength": 16747
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kult/2021/02/06/cserna-szabo-andras-dogville-hu",
+        "h1": "Cserna-Szabó András: Dogville.hu",
+        "txtlength": 16686
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/tudomany/20210206_magyar_virologus_vakcina_koronavirus",
+        "h1": "Ismert magyar virológusok mondták el, melyik vakcinatípust tartják a legjobbnak",
+        "txtlength": 15993
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/szorakozas/2021/02/06/marilyn-manson-evan-rachel-wood-szexualis-bantalmazas-abuzus-vadak/",
+        "h1": "Élve elégetés, fejek szétverése kalapáccsal – egyre súlyosabb vádak érik Marilyn Mansont",
+        "txtlength": 14297
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/gazdasag/20210206_Kornai_Janos_tiszteloje_ad_tanacsokat_Joe_Bidennek_Kinarol",
+        "h1": "Kornai János tisztelője ad tanácsokat Joe Bidennek Kínáról",
+        "txtlength": 13423
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/02/05/uj-felvideki-magyar-partot-hoz-letre-az-mkp-es-a-hid-part",
+        "h1": "Új felvidéki magyar pártot hoz létre az MKP és a Híd párt",
+        "txtlength": 13224
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kulfold/2021/02/06/usa-oroszorszag-biden-trump-putyin-ukrajna-diplomacia/",
+        "h1": "Mire mehet egymással Biden és Putyin?",
+        "txtlength": 12944
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/02/05/szakaszos-oltas-szakaszos-nyitas",
+        "h1": "Szakaszos oltás, szakaszos nyitás",
+        "txtlength": 12867
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/eszkombajn/2021/02/06/kadar-rendszer-telefon-varolista-hianygazdasag-posta",
+        "h1": "Miért volt szinte lehetetlen telefonhoz jutni a Kádár-rendszerben?",
+        "txtlength": 12065
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/cegledi-zoltan-maganelet-sorok-kozott-lutter-imrevel/szst1le",
+        "h1": "Magánéletéről vallott Ceglédi Zoltán",
+        "txtlength": 11998
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/szorakozas/2021/02/06/gyilokjaro-a-pes-ko-falaban-nem-olyan-veszes-amilyennek-latszik",
+        "h1": "Gyilokjáró a Pes-kő falában: nem olyan vészes, amilyennek látszik",
+        "txtlength": 10646
+    },
+    {
+        "hostname": "nosalty.hu",
         "pagelink": "https://www.nosalty.hu/recept/edes-borsoleves-galuskaval",
         "h1": "Édes borsóleves galuskával",
         "txtlength": 10074
