@@ -1,6 +1,192 @@
 [
     {
         "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/hagyomanyos-tyukhusleves",
+        "h1": "Hagyományos tyúkhúsleves",
+        "txtlength": 9787
+    },
+    {
+        "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/edes-palacsinta-alapteszta",
+        "h1": "Édes palacsinta alaptészta",
+        "txtlength": 9497
+    },
+    {
+        "hostname": "kiszamolo.hu",
+        "pagelink": "https://kiszamolo.hu/kizarolagos-szerzodes/",
+        "h1": "Kizárólagos szerződés",
+        "txtlength": 36509
+    },
+    {
+        "hostname": "alapblog.hu",
+        "pagelink": "https://alapblog.hu/nem-kilabalas-kiloves-johet-a-nyaron/",
+        "h1": "NEM KILÁBALÁS, KILÖVÉS JÖHET A NYÁRON",
+        "txtlength": 6439
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210207_hatos_pal_interju_tanacskoztarsasag_horthy_miklos_rosszfiuk_vilagforradalma_kun_bela",
+        "h1": "A Tanácsköztársaság hatásai máig velünk vannak – Hatos Pál a Mandinernek",
+        "txtlength": 23195
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/elet/20210207/messivel-volt-egy-reklamban-sorra-nyeri-a-filmdijakat-es-soha-nem-latott-modon-mutat-ra-a-kornyezetszennyezesre-az-otvenes-magyar-modell/",
+        "h1": "Messivel volt egy reklámban, sorra nyeri a filmdíjakat, és soha nem látott módon mutat rá a környezetszennyezésre az ötvenes magyar modell",
+        "txtlength": 22719
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210206_radnaine_fogarasi_katalin_nemzeti_orokseg_intezete",
+        "h1": "„Az emlékezetkultúrának a gyerekeink is legyenek részesei”",
+        "txtlength": 21051
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210206_simontornya_erem_kincs",
+        "h1": "Becsület és aranyforint – így került elő a simontornyai éremkincs",
+        "txtlength": 18688
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/gyerek/mit-es-mikortol-sportoljon-a-gyerek/",
+        "h1": "Mit és mikor sportoljon a gyerek? Sportszakértők véleményét kérdeztük",
+        "txtlength": 17998
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20210206/otthonfelujitasi-tamogatas-fontos-valtoztatast-javasol-a-napelemes-szakma-468490",
+        "h1": "Otthonfelújítási támogatás – Fontos változtatást javasol a napelemes szakma",
+        "txtlength": 17868
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2021/02/06/ime-az-uj-magyar-nepviselet-rogan-barbara-es-orban-rahel-oraja-az-audemars-piguet-royal-oak",
+        "h1": "ÍME AZ ÚJ MAGYAR NÉPVISELET, ROGÁN BARBARA ÉS ORBÁN RÁHEL ÓRÁJA, AZ AUDEMARS PIGUET ROYAL OAK",
+        "txtlength": 16538
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/kozelet/20210204/a-tozsdezes-jobboldaliva-tesz-egy-kiserlet-eredmenyei-szerint/",
+        "h1": "A tőzsdézés jobboldalivá tesz egy kísérlet eredményei szerint",
+        "txtlength": 15493
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/prof/20210206/tamadnak-a-zombistatisztikak-elobb-utobb-talalkozol-veluk-466542",
+        "h1": "Támadnak a zombistatisztikák: előbb-utóbb találkozol velük",
+        "txtlength": 15354
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/testem/2020/11/25/futas-fejlodes-tippek-muhari-gabor-ultrafuto/",
+        "h1": "EZÉRT NEM MEGY A FUTÁS: PROFI ULTRAFUTÓT KÉRDEZTÜNK AZ OKOKRÓL ÉS A MEGOLDÁSOKRÓL",
+        "txtlength": 14588
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/bank/20210207/appok-es-insurtech-fejlesztesek-a-magyar-biztositasi-szektorban-ime-a-biztositos-ujitasok-468540",
+        "h1": "Appok és insurtech fejlesztések a magyar biztosítási szektorban - Íme a biztosítós újítások",
+        "txtlength": 13788
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/hitel/igy-jutnak-most-olcso-lakashoz-az-elelmes-magyarok-meg-nem-keso-lepni.1110384.html",
+        "h1": "Így jutnak most olcsó lakáshoz az élelmes magyarok: még nem késő lépni",
+        "txtlength": 13765
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/karrier/itt-a-hr-magyar-szotar-ezt-jelenti-a-versenykepes-fizetes-a-hirdetesekben.1110294.html",
+        "h1": "Itt a HR-magyar szótár: ezt jelenti a versenyképes fizetés a hirdetésekben",
+        "txtlength": 11656
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/szuloseg/2021/01/19/mese-tanulsag/",
+        "h1": "NE AKARD A GYEREK SZÁJÁBA RÁGNI EGY MESE TANULSÁGÁT, ÚGY NEM MŰKÖDIK",
+        "txtlength": 11008
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kulfold/2021/02/06/qanon-satanista-pedofil-politikai-elit-vezeti-az-egyesult-allamokat",
+        "h1": "QAnon: sátánista, pedofil politikai elit vezeti az Egyesült Államokat?",
+        "txtlength": 24601
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kulfold/2021/02/06/rejtelyes-ongyilkossagok-oceanjaro-hajo-szaller-jozsef-karanten/",
+        "h1": "„Még hány öngyilkosság kell?” – rejtélyes halálesetek az óceánjárókon",
+        "txtlength": 18560
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/szorakozas/2021/02/06/negylabuak-a-feher-hazban",
+        "h1": "Az elnöki kutyák mellett aligátor és kecske is élt már a Fehér Házban",
+        "txtlength": 17786
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/szorakozas/2021/02/06/lainey-molnar-dorka-style-and-dirt-interju-illsztrator-instagram/",
+        "h1": "Nem veszik észre az influenszerek, hogy a lájkok rabszolgáivá lettek",
+        "txtlength": 17009
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2021/02/07/vilagszep-alapitvany-gyermekotthon-gyermekvedelem/",
+        "h1": "„Elhittem, hogy én is jobb életet érdemlek” – így kapnak esélyt a gyermekotthonban élő gyerekek",
+        "txtlength": 16975
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/szorakozas/2021/02/06/cobra-kai-netflix-sorozat",
+        "h1": "A Karate kölyök-sorozat az elmúlt évek egyik legváratlanabb sikertörténete",
+        "txtlength": 14345
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/gazdasag/20210206_Az_emberek_meghuztak_a_nadragszijat_Orban_szerint_minden_rendben",
+        "h1": "Az emberek meghúzták a nadrágszíjat, Orbán szerint minden rendben",
+        "txtlength": 13513
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/piliscsaba-jurta-magara-maradt-negygyermekes-anyuka-jurta/qev4691",
+        "h1": "Rossel Ildikó Szilda négy gyerekével maradt magára férje halála után egy jurtában: eszébe sem jutott, hogy feladja – videó",
+        "txtlength": 12967
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/kulfold/penzbuntetest-kapott-balazs-gazolas-becs-gyaszolo-csalad/n8rswyx",
+        "h1": "„A fiunk halálának felelőse nem tanúsított megbánást, gúnyos mosollyal lépett ki a tárgyalóteremből” – Ennyit ért az elgázolt Balázs élete",
+        "txtlength": 12121
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/02/06/az-orvosi-kamara-titkara-a-vakcinakrol-a-magyar-hatosagok-szinte-pecsetnyomo-hellye-degradalodtak",
+        "h1": "Az Orvosi Kamara titkára a vakcinákról: A magyar hatóságok szinte pecsétnyomó hellyé degradálódtak",
+        "txtlength": 12107
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/gazdasag/20210207_Es_akkor_majdnem_munkanelkuliseg_hitel_valsag_ujranyitas_vakcina_vagyonnyilatkozat",
+        "h1": "És akkor Magyarország feltalálta a majdnem-munkanélküliséget",
+        "txtlength": 11994
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/02/06/lekapcsoltatta-az-internetet-mianmarban-a-kormanyt-megpuccsolo-hadsereg",
+        "h1": "Lekapcsoltatta az internetet Mianmarban a kormányt megpuccsoló hadsereg",
+        "txtlength": 11144
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/elet/20210206_Sir_Captain_Tom_nekrolog_nhs",
+        "h1": "Sir Captain Tomtól kaptunk valami nagyon fontosat: reményt",
+        "txtlength": 10708
+    },
+    {
+        "hostname": "nosalty.hu",
         "pagelink": "https://www.nosalty.hu/recept/nagymamam-fankja",
         "h1": "Nagymamám fánkja",
         "txtlength": 10866
