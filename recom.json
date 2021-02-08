@@ -1,6 +1,186 @@
 [
     {
         "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/hortobagyi-husos-palacsinta-lorianntol",
+        "h1": "Hortobágyi húsos palacsinta Lorianntól",
+        "txtlength": 9564
+    },
+    {
+        "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/spenot-fozelek-egyszeruen",
+        "h1": "Spenót főzelék egyszerűen",
+        "txtlength": 9508
+    },
+    {
+        "hostname": "kiszamolo.hu",
+        "pagelink": "https://kiszamolo.hu/ingatlanvetel-masodik-resz/",
+        "h1": "Ingatlanvétel második rész",
+        "txtlength": 41372
+    },
+    {
+        "hostname": "alapblog.hu",
+        "pagelink": "https://alapblog.hu/pandemiabol-aruhianyba-onnan-inflacioba/",
+        "h1": "PANDÉMIÁBÓL ÁRUHIÁNYBA, ONNAN INFLÁCIÓBA",
+        "txtlength": 10360
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210207_time_magazin_amerika_elnokvalasztas_arnyekkampany",
+        "h1": "„Összeesküvés mentette meg” az amerikai demokráciát a Time szerint",
+        "txtlength": 30232
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20210208/koronavirus-nem-sokat-er-az-astrazeneca-del-afrikaban-a-horvatok-65-ev-felett-is-oltanak-vele-468714",
+        "h1": "Koronavírus: nem sokat ér az AstraZeneca Dél-Afrikában, a horvátok 65 év felett is oltanak vele ",
+        "txtlength": 26661
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://precedens.mandiner.hu/cikk/20210208_halozatok_csapdajaban",
+        "h1": "Szabályozással a techcégek monopóliuma ellen",
+        "txtlength": 20959
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vallalat/20210208/a-pepsi-gyartasa-lehet-meszaros-lorinc-nagy-dobasa/",
+        "h1": "A Pepsi gyártása lehet Mészáros Lőrinc nagy dobása",
+        "txtlength": 19824
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/kapcsolat/a-kommenteles-tortenete/",
+        "h1": "Így jutottunk el a véleménytől a gyalázkodásig: ott voltam, és láttam, hogyan történt",
+        "txtlength": 17719
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210208_megvannak_az_uj_szamok_igy_valtozott_a_csaszarmetszesek_aranya",
+        "h1": "Megvannak az új számok, így változott a császármetszések aránya",
+        "txtlength": 17679
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20210208/eletmento-terapiak-varnak-a-befogadasra-az-innovativ-gyogyszeripar-kozben-ugrasra-kesz-468494",
+        "h1": "Életmentő terápiák várnak a befogadásra - Az innovatív gyógyszeripar közben ugrásra kész",
+        "txtlength": 16810
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/uzlet/20210208/szarnyal-a-bitcoin-itt-az-uj-tortenelmi-csucs-468708",
+        "h1": "Szárnyal a bitcoin, itt az új történelmi csúcs ",
+        "txtlength": 16378
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2021/02/07/a-homo-sapiens-arrol-ismerszik-meg-hogy-dolgozik-beszel-gondolkodik-es-ragaszt",
+        "h1": "A HOMO SAPIENS ARRÓL ISMERSZIK MEG, HOGY DOLGOZIK, BESZÉL, GONDOLKODIK ÉS RAGASZT",
+        "txtlength": 15717
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/adat/20210207/karanten-baby-boom-helyett-kevesebb-gyerek-szuletik-idehaza-es-nyugatabbra-is/",
+        "h1": "Karantén baby boom helyett kevesebb gyerek születik idehaza és nyugatabbra is",
+        "txtlength": 14197
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/nyugdij/itt-van-a-kuszobon-a-nyugdijkatasztrofa-mutatjuk-hogyan-keruld-el-a-nyomort.1110416.html",
+        "h1": "Itt van a küszöbön a nyugdíjkatasztrófa: mutatjuk, hogyan kerüld el a nyomort",
+        "txtlength": 12790
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/vasarlas/kiderult-a-csapviztitok-ezert-lehet-rosszabb-ize-a-konyhaban-mint-a-furdoben.1110288.html",
+        "h1": "Kiderült a csapvíztitok: ezért lehet rosszabb íze a konyhában, mint a fürdőben",
+        "txtlength": 12479
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/lajfhekk/etelek-romlandosag/",
+        "h1": "Innen tudhatod, jó-e még a kint hagyott étel",
+        "txtlength": 6763
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kulfold/2021/02/08/nagy-timea-emberkereskedelem-tulelo-interju",
+        "h1": "Megerőszakolták, rabszolgaként bántak vele, megszökött, most a többi túlélőért dolgozik",
+        "txtlength": 26736
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/belfold/2021/02/08/versenyengedely-edzoterem-eroemelo-szovetseg-sportorvosi-engedely-igazolt-sportolo",
+        "h1": "Néhány ezer forintért bárkiből versenysportolót csinál egy budapesti edzőterem, így kikerülheti a járványügyi korlátozást",
+        "txtlength": 20984
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kulfold/2021/02/08/mario-draghi-conte-renzi-salvini-olasz-kormanyvalsag-unios-penzek/",
+        "h1": "Super Mario révén Salvini is közel kerülhet a brüsszeli mannához",
+        "txtlength": 18650
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/operativ-torzs-koronavirus-hetfo-februar-8/9hx9s6c",
+        "h1": "Operatív törzs: napokon belül súlyos beutazási szigorítás Ausztriában – Itthon pedig nem jut minden háziorvoshoz vakcina és választani sem lehet",
+        "txtlength": 17635
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/eurologus/20210208_migracio_europai_unio_menekultugy",
+        "h1": "A kör négyszögesítése: egyre reménytelenebb a migrációs vita az EU-ban",
+        "txtlength": 14077
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/politika/donalt-trump-impeachent-felelossegre-vonas-eljaras/kpqc251",
+        "h1": "Gyors tárgyalást sürgetnek: ekkor születhet döntést Donald Trump alkotmányos felelősségre vonási ügyében",
+        "txtlength": 12990
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kulfold/2021/02/08/usa-donald-trump-masodik-impeachment-kezdodik-republikanus-part-demokrata-part/",
+        "h1": "Egy hét alatt lepörgethetik Trump második impeachmentjét",
+        "txtlength": 12864
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/02/08/a-kedvezonek-tuno-adat-valojaban-romlo-jarvanyhelyzetet-jelez",
+        "h1": "A kedvezőnek tűnő adat valójában romló járványhelyzetet jelez",
+        "txtlength": 12275
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/02/08/a-20-eves-alex-kearns-megolte-magat-mert-azt-hitte-730-ezer-dollart-bukott-a-tozsden-pedig-nem",
+        "h1": "A 20 éves Alex Kearns megölte magát, mert azt hitte, 730 ezer dollárt bukott a tőzsdén, pedig nem",
+        "txtlength": 12076
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/kultura/20210208_freeszfe_egyesulet_sajtotajekoztato_kozossegi_ter_erzsebetvaros",
+        "h1": "Freeszfe: Átvették az SZFE felmondott tanárai és hallgatói az egyesület új épületének kulcsát",
+        "txtlength": 12000
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/sport/2021/02/08/super-bowl-tampa-bay-buccaneers-kansas-city-chiefs/",
+        "h1": "Brady és a védelem megcsinálta, Super Bowl-győztes a Tampa Bay",
+        "txtlength": 11556
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20210208_operativ_torzs_koronavirus_orosz_vakcina_ausztria_oltasi_terv_astrazeneca_szputnyik_v",
+        "h1": "Operatív törzs: új beutazási szabályok Ausztria felé, az orosz oltóanyag biztonságos",
+        "txtlength": 9940
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/belfold/2021/02/08/kaiser-ede-nem-valtoztatok-nevet-valtoztasson-a-vilag",
+        "h1": "Kaiser Ede: Nem változtatok nevet, változtasson a világ!",
+        "txtlength": 8977
+    },
+    {
+        "hostname": "nosalty.hu",
         "pagelink": "https://www.nosalty.hu/recept/hagyomanyos-tyukhusleves",
         "h1": "Hagyományos tyúkhúsleves",
         "txtlength": 9787
