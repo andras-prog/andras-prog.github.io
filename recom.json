@@ -1,6 +1,204 @@
 [
     {
         "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/eredeti-csirkeporkolt.recept",
+        "h1": "CSIRKEPÖRKÖLT",
+        "txtlength": 9892
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/szalamis-parmezanos-rizs.recept",
+        "h1": "SZALÁMIS-PARMEZÁNOS RIZS",
+        "txtlength": 9835
+    },
+    {
+        "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/kelkaposzta-fozelek-regiesen",
+        "h1": "Kelkáposzta-főzelék régiesen",
+        "txtlength": 9492
+    },
+    {
+        "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/klasszikus-csaszarmorzsa",
+        "h1": "Klasszikus császármorzsa",
+        "txtlength": 9207
+    },
+    {
+        "hostname": "kiszamolo.hu",
+        "pagelink": "https://kiszamolo.hu/ingatlanvasarlas-negyedik-resz-a-helyi-rendelkezesek-ellenorzese/",
+        "h1": "Ingatlanvásárlás negyedik rész: a helyi rendelkezések ellenőrzése",
+        "txtlength": 24115
+    },
+    {
+        "hostname": "kulturpart.hu",
+        "pagelink": "https://kulturpart.blog.hu/2021/02/10/gyozni_a_ringben_es_azon_kivul_is",
+        "h1": "GYŐZNI A RINGBEN ÉS AZON KÍVÜL IS",
+        "txtlength": 9524
+    },
+    {
+        "hostname": "alapblog.hu",
+        "pagelink": "https://alapblog.hu/amikor-a-politukus-tozsdere-megy/",
+        "h1": "AMIKOR A POLITIKUS TŐZSDÉRE MEGY",
+        "txtlength": 4412
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210127_egi_beket_hozott_laci_bacsi",
+        "h1": "Iskolaőrök a valóságban: égi békét hozott Laci bácsi",
+        "txtlength": 21733
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210127_politikai_agitator_brusszeli_kikuldetesben",
+        "h1": "Politikai agitátor kiküldetésben: Jávor Benedek Brüsszelben",
+        "txtlength": 20804
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20210210/kerul-amibe-kerul-europa-szenvedo-orszagat-is-megmenti-a-nagy-varazslo-469040",
+        "h1": "\"Kerül, amibe kerül\" - Európa szenvedő országát is megmenti a nagy varázsló?",
+        "txtlength": 20499
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://makronom.mandiner.hu/cikk/20210210_rauf_sven_tamas_etteremkritikus_tokom_tele_van_az_egesszel",
+        "h1": "Kezd a tököm tele lenni az egésszel – étteremkritikus a Makronómnak",
+        "txtlength": 19043
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/adat/20210210/szoboszlai-a-valaha-volt-legdragabb-magyar-focista-vagy-megsem/",
+        "h1": "Szoboszlai a valaha volt legdrágább magyar focista – vagy mégsem?",
+        "txtlength": 18434
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/global/20210210/ez-mar-a-harmadik-magyar-jarvanyhullam-kezdete-469104",
+        "h1": "Ez már a harmadik magyar járványhullám kezdete? ",
+        "txtlength": 17343
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/ingatlan/20210210/csendben-elfogadtak-az-uj-szabalyt-ami-csunyan-megdobhatja-az-uj-lakasok-arait-468768",
+        "h1": "Csendben elfogadták az új szabályt, ami csúnyán megdobhatja az új lakások árait",
+        "txtlength": 17069
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vallalat/20210209/sor-chips-auto-nem-az-idei-super-bowl-gyoztese-egy-jelzalog-reklam/",
+        "h1": "Sör, chips, autó? Nem, az idei Super Bowl győztese egy jelzálog reklám",
+        "txtlength": 14084
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/karrier/ez-nagyon-sok-allasinterju-utan-elmarad-pedig-oriasi-psziches-megkonnyebbulest-jelent.1110624.html",
+        "h1": "Ez nagyon sok állásinterjú után elmarad: pedig óriási pszichés megkönnyebbülést jelent",
+        "txtlength": 13707
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/gyerek/mit-ne-mondj-a-gyereknek/",
+        "h1": "Mondatok, amiket ne mondj a gyerekednek: annyi mindent elcseszhetsz, legalább ezt ne!",
+        "txtlength": 12667
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/karrier/mar-tesztelik-a-4-napos-munkahetet-tenyleg-egyre-kozelebb-vagyunk-hozza.1110546.html?r=melleklet",
+        "h1": "Már tesztelik a 4 napos munkahetet: tényleg egyre közelebb vagyunk hozzá?",
+        "txtlength": 12443
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2021/02/08/hiaba-hirdettek-gyozelmet-a-reddites-kisbefektetok-a-gamestop-meccset-a-wall-street-nyerte",
+        "h1": "HIÁBA HIRDETTEK GYŐZELMET A REDDITES KISBEFEKTETŐK, A GAMESTOP-MECCSET A WALL STREET NYERTE",
+        "txtlength": 10903
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/lajfhekk/szaritogep-teszt/",
+        "h1": "Teszt: mennyibe kerül egy jó szárítógép, és melyiket érdemes megvenni?",
+        "txtlength": 10013
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/sport/2021/02/10/polgar-judit-vezercsel-kaszparov-vilagbajnoksag",
+        "h1": "Tudtuk, hogy nem vagyunk normális gyerekek",
+        "txtlength": 25416
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kultura/2021/02/10/hegedus-d-geza-interju-szfe-vigszinhaz-katona-jozsef-szinhaz/",
+        "h1": "Hegedűs D. Géza: Nem olyan egyszerű, hogy valaki besétál az egyetemre azzal, hogy mostantól tanítani fogok",
+        "txtlength": 24731
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/koronavirus-magyarorszag-1279-fertozott-98-elhunyt/ppcd99w",
+        "h1": "Friss napi adatok érkeztek: ennyivel emelkedett a koronavírus-fertőzöttek és a halálos áldozatok száma Magyarországon",
+        "txtlength": 17143
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/gazdasag/2021/02/10/amerikai-tokepiacok-targikus-ongyilkossag-reddit-hadsereg-ossztuz-a-technologiai-cegekre-de-megis-dragulas",
+        "h1": "Mit hoz 2021 a pénzvilágban a Reddit-sereg és a Covid árnyékában?",
+        "txtlength": 15148
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/koronavirus/2021/02/10/virusszimulator-jarvany-oltas-kijarasi-korlatozas-hatas-fertozottek-elhunytak-modell",
+        "h1": "A Telex járványszimulátorán megnézheti, hogy intézi el az oltás a koronavírust",
+        "txtlength": 14821
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/politika/karacsony-gergely-nyilt-level-orban-viktor-unios-penz/tx1x7wn",
+        "h1": "Karácsony Gergely nyílt levele Orbán Viktornak",
+        "txtlength": 14358
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2021/02/10/fidesz-orban-balavany-velemeny/",
+        "h1": "Balavány: Amikor a Fidesz a független média ellen harcol, az állampolgárok ellen harcol",
+        "txtlength": 13811
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2021/02/10/regisztracio-idosek-oltasa-haziorvos/",
+        "h1": "Gondot jelent az idősek oltásánál, hogy eltűnnek regisztrációk",
+        "txtlength": 13378
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/eurologus/20210210_ursula_von_der_leyen_ep_vakcinabeszerzes",
+        "h1": "Ursula von der Leyen: A közös vakcinabeszerzés az egyetlen út, de követett el az EU hibákat",
+        "txtlength": 11236
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/tudomany/20210210_aliz_22_millio_forintos_robotkutya_boston_dynamics_spot_budapesten",
+        "h1": "Megsimogattuk Alízt, a Budapestre érkezett 22 millió forintos robotkutyát",
+        "txtlength": 11156
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20210210_pedagogusok_virustagadas_koronavirus",
+        "h1": "Mit tehetünk, ha a gyerek tanára vírus- és oltástagadó nézeteket terjeszt?",
+        "txtlength": 11060
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/02/10/a-kecskemeti-focicsapat-tulajdonosa-vitte-a-balatonboglari-kempinget",
+        "h1": "A kecskeméti focicsapat tulajdonosa vitte a balatonboglári kempinget",
+        "txtlength": 10902
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/02/10/tobb-penzt-kapnak-a-haziorvosok-ha-belepnek-a-praxiskozossegbe",
+        "h1": "Több pénzt kapnak a háziorvosok, ha belépnek a praxisközösségbe",
+        "txtlength": 10392
+    },
+    {
+        "hostname": "mindmegette.hu",
         "pagelink": "https://www.mindmegette.hu/almas-habos-palacsintatorta.recept",
         "h1": "ALMÁS HABOS PALACSINTATORTA",
         "txtlength": 9832
