@@ -1,6 +1,198 @@
 [
     {
         "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/vargabeles-ahogy-gaspar-bea-kesziti.recept",
+        "h1": "VARGABÉLES, AHOGY GÁSPÁR BEA KÉSZÍTI",
+        "txtlength": 10136
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/a-legfinomabb-hortobagyi-palacsinta.recept",
+        "h1": "A LEGFINOMABB HORTOBÁGYI PALACSINTA",
+        "txtlength": 9992
+    },
+    {
+        "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/10-perces-tojasleves",
+        "h1": "10 perces tojásleves",
+        "txtlength": 9328
+    },
+    {
+        "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/tarkedli-talkedli",
+        "h1": "Tarkedli vagy talkedli",
+        "txtlength": 9223
+    },
+    {
+        "hostname": "kiszamolo.hu",
+        "pagelink": "https://kiszamolo.hu/idopontfoglalas-a-facebookon/",
+        "h1": "Időpontfoglalás a Facebookon",
+        "txtlength": 24629
+    },
+    {
+        "hostname": "alapblog.hu",
+        "pagelink": "https://alapblog.hu/hetvegi-cikkajanlo-173/",
+        "h1": "HÉTVÉGI CIKKAJÁNLÓ",
+        "txtlength": 4183
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://makronom.mandiner.hu/cikk/20210202_transparency_international_korrupcio_makronom_radi_balazs",
+        "h1": "Korrupt cégek pénzelik a Magyarországot legkorruptabbnak ítélő szervezetet",
+        "txtlength": 29966
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/global/20210210/2021-ben-is-duborog-a-magyar-hadiipar-fejlesztese-megtudtuk-mit-tervez-a-kormany-465188",
+        "h1": "2021-ben is dübörög a magyar hadiipar fejlesztése - Megtudtuk, mit tervez a kormány",
+        "txtlength": 26000
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210211_ceu_demokracia_intezet",
+        "h1": "A nyílt társadalmat erősítené a CEU Demokrácia Intézete, benne Magyar Bálinttal",
+        "txtlength": 23156
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/adat/20210209/ki-hogy-all-a-muri-ban-magyarorszag-eurofelkeszultsege-atlagos/",
+        "h1": "Ki hogy áll a MURI-ban? Magyarország eurófelkészültsége átlagos",
+        "txtlength": 19032
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/elet/20210211/a-koronavirus-iden-teljesen-lenullazta-az-influenzat/",
+        "h1": "A koronavírus idén teljesen lenullázta az influenzát",
+        "txtlength": 17446
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/vallalkozas/5-1-mikrovallalkozas-kis-indulo-tokevel-amit-te-is-elindithatsz-otthonrol-mar-ma.1110550.html",
+        "h1": "5+1 mikrovállalkozás kis induló tőkével, amit te is elindíthatsz otthonról már ma",
+        "txtlength": 17262
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20210210/kinos-talalkozon-fedte-fel-a-kinai-elnok-mi-lehet-a-radikalis-magyar-kormanydontesek-egyik-mozgatorugoja-469220",
+        "h1": "Kínos találkozón fedte fel a kínai elnök, mi lehet a radikális magyar kormánydöntések egyik mozgatórugója",
+        "txtlength": 16425
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210210_remhirterjesztesert_feljelentette_orban_viktort_a_jobbik",
+        "h1": "Rémhírterjesztésért feljelentette Orbán Viktort a Jobbik",
+        "txtlength": 16224
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/uzlet/20210211/az-egesz-vallalati-szektor-eletet-megnehezithetik-a-katas-szigoritasok-468960",
+        "h1": "Az egész vállalati szektor életét megnehezíthetik a katás szigorítások",
+        "txtlength": 14847
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/otthon/megtanultam-makramezni/",
+        "h1": "Lenyugtatja az agyad, kisimítja a ráncaidat: mitől olyan szerethető a makramézás?",
+        "txtlength": 13583
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/szuloseg/2021/01/21/apak-gyerekneveles/",
+        "h1": "Az apák ugyanolyan jól gondoskodnak a gyerekről, csak nem hisszük el nekik",
+        "txtlength": 13247
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/biztositas/ezt-tette-a-koronavirus-a-fogaszati-ellatassal-tobb-mint-200-telepulesen-kritikus-a-helyzet.1110616.html",
+        "h1": "Ezt tette a koronavírus a fogászati ellátással: több mint 200 településen kritikus a helyzet",
+        "txtlength": 11896
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2021/02/10/jo-hir-minden-foldi-elolenynek-ujra-csokken-az-ozonreteget-karosito-cfc-11-kibocsatasa",
+        "h1": "JÓ HÍR MINDEN FÖLDI ÉLŐLÉNYNEK: ÚJRA CSÖKKEN AZ ÓZONRÉTEGET KÁROSÍTÓ CFC-11 KIBOCSÁTÁSA",
+        "txtlength": 11207
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kultura/2021/02/10/ismeretlen-budapest-attila-szobor-lovasszobor-duna-budai-varpalota-novoszeleczky-karakan-elemer/",
+        "h1": "Attila óriási lovasszobra is állhatna ma a Duna közepén",
+        "txtlength": 16209
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/tech/2021/02/10/internet-lekapcsolas-blokkolas-korlatozas/",
+        "h1": "Elnyomó hatalmak tényleg lekapcsolják olykor az internetet",
+        "txtlength": 15938
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/koronavirus/2021/02/10/gyerekek-covid-koronavirus-fertozes-tunetek-vakcina-szoptatas",
+        "h1": "Minden, amit a Covid és a gyerekek kapcsolatáról tudunk eddig",
+        "txtlength": 15780
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20210210_oltas_koronavirus_oltopont_haziorvos",
+        "h1": "„Délelőtt 11-kor szóltak, hogy 1-ig adjam le a neveket, akiket be tudok oltani”",
+        "txtlength": 15361
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/nevertek/2021/02/11/inflacio-kilo-e-2021-ben",
+        "h1": "2021 nagy kérdése: felrobban-e az infláció, ha túl leszünk a járványon?",
+        "txtlength": 15313
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/kkv/20210211_Parragh_Laszlo_MKIK_kamara",
+        "h1": "Parragh László 500 forintokért tartja a markát, közben több mint egymilliárdon ül",
+        "txtlength": 13489
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kulfold/2021/02/10/borrell-baki-oroszorszag-barnier-eu/",
+        "h1": "Nagy szégyen, hogy az unió egy ilyen felkészületlen politikust küldött Oroszországba",
+        "txtlength": 13174
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/02/10/nahat-ader-megszolalt-a-jarvanyrol",
+        "h1": "Nahát, Áder megszólalt a járványról",
+        "txtlength": 12798
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/donath-laszlo-alku-kemeny-buntetes-birosag/4fsp3v3",
+        "h1": "A bíróságon dőlhet el a sorsa: így úszhatja meg a keményebb büntetést Donáth László",
+        "txtlength": 12718
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/2020-a-rejtvenyek-eve-ras-interju-ivanyi-geza/ffmgjnj",
+        "h1": "Ma van a magyar rejtvényfejtők napja: eláruljuk, melyek most a legtrendibb fejtörők",
+        "txtlength": 12297
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/02/10/meghosszabbitja-a-korlatozasokat-a-nemet-kormany",
+        "h1": "Meghosszabbítja a korlátozásokat a német kormány",
+        "txtlength": 11634
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "http://eduline.hu/felsooktatas/20210211_800_forintos_oraberert_dolgoznak_a_fiatal_egyetemi_oktatok",
+        "h1": "Siralmas fizetések az egyetemeken: 800 forintos órabérért dolgoznak a fiatal oktatók",
+        "txtlength": 10955
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kult/2021/02/10/eddig-ismeretlen-jozsef-attila-vers-kerult-elo",
+        "h1": "Eddig ismeretlen József Attila-vers került elő",
+        "txtlength": 10688
+    },
+    {
+        "hostname": "mindmegette.hu",
         "pagelink": "https://www.mindmegette.hu/eredeti-csirkeporkolt.recept",
         "h1": "CSIRKEPÖRKÖLT",
         "txtlength": 9892
