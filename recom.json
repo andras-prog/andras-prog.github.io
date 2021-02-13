@@ -1,5 +1,197 @@
 [
     {
+        "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/bogres-kremes-meggyes-makos-kocka",
+        "h1": "Bögrés krémes meggyes-mákos kocka",
+        "txtlength": 11470
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/bananos-turos-zabpalacsinta.recept",
+        "h1": "BANÁNOS-TÚRÓS ZABPALACSINTA",
+        "txtlength": 9343
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/coleslaw-ahogy-a-csalad-szereti.recept",
+        "h1": "COLESLAW, AHOGY A CSALÁD SZERETI",
+        "txtlength": 9308
+    },
+    {
+        "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/egyszeru-paradicsomleves-betutesztaval",
+        "h1": "Egyszerű paradicsomleves betűtésztával",
+        "txtlength": 9220
+    },
+    {
+        "hostname": "hataratkelo.blog.hu",
+        "pagelink": "https://hataratkelo.blog.hu/2021/02/09/igy_mukodik_az_osztrak_egeszsegugy",
+        "h1": "Így működik az osztrák egészségügy",
+        "txtlength": 33165
+    },
+    {
+        "hostname": "kulturpart.hu",
+        "pagelink": "https://kulturpart.blog.hu/2021/02/13/blueskeringes",
+        "h1": "KÉNYTELEN VOLTAM KIJELÖLNI MAGAMAT FŐHŐSNEK",
+        "txtlength": 9335
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210211_niedermuller_sejtelmem_sincs_hogy_az_elozo_vezetes_mirol_targyalt?utm_source=mandiner&utm_medium=link&utm_campaign=mandiner_202102",
+        "h1": "Dokumentumok cáfolják Niedermüller tagadását a zeneiskola ügyében",
+        "txtlength": 25371
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210212_laschet_merkel_bauer_bence_interju",
+        "h1": "Laschettel folytatódhat a korrekt és stabil német-magyar kapcsolat – Bauer Bence a Mandinernek",
+        "txtlength": 22679
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210211_gyurcsanyi_fordulatok_tizenhat_evertekelo_tanulsagai",
+        "h1": "Gyurcsányi fordulatok – tizenhat évértékelő tanulságai",
+        "txtlength": 22377
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2021/02/13/a-kave-kalandos-utja-az-etiop-magasfoldtol-a-cibetmacska-vegbeleig",
+        "h1": "A KÁVÉ KALANDOS ÚTJA AZ ETIÓP MAGASFÖLDTŐL A CIBETMACSKA VÉGBELÉIG",
+        "txtlength": 21420
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/kapcsolat/szily-nora-interju/",
+        "h1": "Szily Nóra-interjú: „Az otthonom és a lelkem nem átjáróház\"",
+        "txtlength": 18429
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/podcast/20210213/sokkal-megrazobb-volt-a-magyar-gazdasagnak-az-elso-hullam-mint-azt-a-statisztikak-mutatjak/",
+        "h1": "Sokkal megrázóbb volt a magyar gazdaságnak az első hullám, mint azt a statisztikák mutatják",
+        "txtlength": 18153
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/uzlet/20210212/uj-csucsok-szulettek-amerikaban-469492",
+        "h1": "Új csúcsok születtek Amerikában ",
+        "txtlength": 15537
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/karrier/ezert-nem-kellenek-a-cegeknek-az-50-feletti-dolgozok-nagy-hiba-veszni-hagyni-oket.1110636.html?r=melleklet",
+        "h1": "Ezért nem kellenek a cégeknek az 50 feletti dolgozók: nagy hiba veszni hagyni őket",
+        "txtlength": 14939
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/uzlet/20210213/itt-a-vilag-egyik-legnagyobb-tozsdei-manipulatora-mar-szavak-nelkul-is-penzhegyeket-mozgat-meg-469422",
+        "h1": "Itt a világ egyik legnagyobb tőzsdei manipulátora, már szavak nélkül is pénzhegyeket mozgat meg",
+        "txtlength": 14861
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/vasarlas/ugyes-huzas-igy-ker-el-sokszoros-arat-a-tesco-az-almaert.1110708.html",
+        "h1": "Ügyes húzás: így kér el sokszoros árat a Tesco az almáért",
+        "txtlength": 14740
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/penz/20210212/lassabban-nohet-iden-a-magyar-gazdasag-de-a-tozsdet-ez-nem-zavarja/",
+        "h1": "Lassabban nőhet idén a magyar gazdaság, de a tőzsdét ez nem zavarja",
+        "txtlength": 14330
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/global/20210212/olyan-lepest-tett-a-kozel-kelet-egyik-legerosebb-orszaga-ami-komolyan-kiverheti-a-biztositekot-joe-biden-kormanyanal-469414",
+        "h1": "Olyan lépést tett a Közel-Kelet egyik legerősebb országa, ami komolyan kiverheti a biztosítékot Joe Biden kormányánál",
+        "txtlength": 13371
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/lajfhekk/2021/01/12/haloszoba-megnyugtato-szine/",
+        "h1": "Ilyen színűre fesd a hálódat, hogy jobban aludj",
+        "txtlength": 6003
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kulfold/2021/02/12/joe-biden-donald-trump-bevandorlasi-reform-usa-egyesult-allamok-allampolgarsag-illegalis-bevandorlok",
+        "h1": "11 millió bevándorlón segítene Biden első radikális reformterve",
+        "txtlength": 33029
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/gazdasag/2021/02/12/ketmillio-kobmeter-betonbol-epulhet-meg-paks-2-nana-hogy-a-cementipar-is-keszul",
+        "h1": "Kétmillió köbméter betonból épülhet meg Paks 2, naná, hogy a cementipar is rámozdul",
+        "txtlength": 19373
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/belfold/2021/02/12/szasz-janos-bangladesi-ikrek-orvosok-pataki-gergely-film-nem-muveszfilmre-kapott-felkerest-konfliktus-cselekves-alapitvany",
+        "h1": "A bangladesi ikreket szétválasztó sebész: Emiatt a filmrészlet miatt kell szenvednie Szásznak",
+        "txtlength": 14626
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kultura/2021/02/12/elfojtott-hangok-dokumentumfilm-colonia-dignidad-bidf/",
+        "h1": "Sosem heverik ki rettenetes gyerekkorukat a chilei német kolónia egykori lakói",
+        "txtlength": 14210
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20210212_haziorvos_oltas_orosz_vakcina_szputnyik",
+        "h1": "„Elkezdtem összeállítani az orosz oltóanyagra jogosultak listáját, aztán feladtam”",
+        "txtlength": 13127
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/politika/varga-judit-igazsagugyi-miniszter-valas-ferj-magyar-peter/zl850sq",
+        "h1": "13 év után válik Orbán kedvenc minisztere – Miért játszották el a boldog családot?",
+        "txtlength": 12965
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/klubradio-kozlemeny-mediatanacs/1vt9jw9",
+        "h1": "Itt a közlemény: keményen nekiment a Klubrádió a Médiatanácsnak",
+        "txtlength": 12958
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20210213_taj_tb_potyautastorveny",
+        "h1": "Potyautastörvény: “Orvos vagyok, nem végrehajtó!”",
+        "txtlength": 12833
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/02/12/amikor-orban-is-hajlando-eszrevenni",
+        "h1": "Amikor Orbán is hajlandó észrevenni",
+        "txtlength": 12724
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kozelet/2021/02/12/bodolai-partizan-index-interju/",
+        "h1": "Bodolai: Nekem össze volt készítve egy repülőgép, hogy ha valami gond van, el tudjak menni Bécsbe",
+        "txtlength": 12473
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20210212_rogan_antal_foldvasarlas",
+        "h1": "Sajátos érveléssel cáfolja Rogán a felesége és családja földvásárlását",
+        "txtlength": 12144
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kozelet/2021/02/13/ev-taxisoforje-noi-soforszolgalat-fotaxi-varadi-zsuzsa-portre/",
+        "h1": "„Ahhoz képest, hogy nő, elég jól vezet” – így lett a háromgyerekes anyuka az év taxisofőrje",
+        "txtlength": 11452
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/02/13/kosa-felesege-szerint-haromszor-indultak-volna-a-csengeri-orokosnovel-hogy-a-nemet-penzugyminiszterrel-talalkozzanak",
+        "h1": "Kósa felesége szerint háromszor indultak volna a csengeri örökösnővel, hogy a német pénzügyminiszterrel találkozzanak",
+        "txtlength": 10982
+    },
+    {
         "hostname": "mindmegette.hu",
         "pagelink": "https://www.mindmegette.hu/csokolades-banankenyer-video.recept",
         "h1": "CSOKOLÁDÉS BANÁNKENYÉR",
