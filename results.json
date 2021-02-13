@@ -106,6 +106,19 @@
   {
     "azon": "TESCO",
     "forras": "",
+    "termeknev": "Magyar UHT tej",
+    "termekar": "209 Ft",
+    "termekcur": "",
+    "termekmenny": "2,8% 1 l",
+    "tarfajl": "",
+    "tarfajlmert": "",
+    "disc": "-26%",
+    "erv": "2021.03.03",
+    "termeklink": "https://bevasarlas.tesco.hu/groceries/hu-HU/products/2004010263866"
+  },
+  {
+    "azon": "TESCO",
+    "forras": "",
     "termeknev": "Mizo UHT tej",
     "termekar": "229 Ft",
     "termekcur": "",
@@ -158,41 +171,28 @@
   {
     "azon": "TESCO",
     "forras": "",
-    "termeknev": "Szarvasi mascarpone",
-    "termekar": "899 Ft",
+    "termeknev": "Riska Séf vaj",
+    "termekar": "199 Ft",
     "termekcur": "",
-    "termekmenny": "500 g",
-    "tarfajl": "(1 kg = 1798 Ft)",
+    "termekmenny": "100 g",
+    "tarfajl": "(1 kg = 1990 Ft)",
     "tarfajlmert": "",
-    "disc": "-33%",
-    "erv": "2021.02.17",
-    "termeklink": "https://bevasarlas.tesco.hu/groceries/hu-HU/products/2004006977494"
+    "disc": "-45%",
+    "erv": "2021.02.24",
+    "termeklink": "https://bevasarlas.tesco.hu/groceries/hu-HU/products/2004120456804"
   },
   {
     "azon": "TESCO",
     "forras": "",
-    "termeknev": "Tesco laktózmentes görög joghurt",
-    "termekar": "169 Ft",
+    "termeknev": "Roberto szeletelt kenyér",
+    "termekar": "369 Ft",
     "termekcur": "",
-    "termekmenny": "natúr, epres, 150 g laktózmentes",
-    "tarfajl": "(1 kg = 1127 Ft)",
+    "termekmenny": "400 g",
+    "tarfajl": "(1 kg = 998 Ft)",
     "tarfajlmert": "",
-    "disc": "-32%",
-    "erv": "",
-    "termeklink": "https://tesco.hu/akciok/akcios-termekek/termek/hm/tejtermekek-tojas-pekaru/laktozmentes-tejtermekek/tesco-laktozmentes-gorog-joghurt-1/"
-  },
-  {
-    "azon": "TESCO",
-    "forras": "",
-    "termeknev": "Tolle felezett trappista sajt",
-    "termekar": "1299 Ft",
-    "termekcur": "",
-    "termekmenny": "700 g",
-    "tarfajl": "(1 kg = 1856 Ft)",
-    "tarfajlmert": "",
-    "disc": "-25%",
-    "erv": "2021.02.17",
-    "termeklink": "https://bevasarlas.tesco.hu/groceries/hu-HU/products/2004007908831"
+    "disc": "-30%",
+    "erv": "2021.02.24",
+    "termeklink": "https://bevasarlas.tesco.hu/groceries/hu-HU/products/2004010363351"
   },
   {
     "azon": "TESCO",
@@ -206,6 +206,19 @@
     "disc": "-32%",
     "erv": "2021.02.17",
     "termeklink": "https://bevasarlas.tesco.hu/groceries/hu-HU/products/2004005991200"
+  },
+  {
+    "azon": "TESCO",
+    "forras": "",
+    "termeknev": "Friss csirkecomb farrésszel",
+    "termekar": "315 Ft ",
+    "termekcur": "",
+    "termekmenny": " baromfipultban kapható ",
+    "tarfajl": "",
+    "tarfajlmert": "",
+    "disc": "-36%",
+    "erv": "2021.02.24",
+    "termeklink": "https://bevasarlas.tesco.hu/groceries/hu-HU/products/2004008315102"
   },
   {
     "azon": "TESCO",
@@ -236,6 +249,19 @@
   {
     "azon": "TESCO",
     "forras": "",
+    "termeknev": "Friss magyar sertéscomb",
+    "termekar": "1049 Ft ",
+    "termekcur": "",
+    "termekmenny": " csont nélkül, húspultban kapható ",
+    "tarfajl": "",
+    "tarfajlmert": "",
+    "disc": "-30%",
+    "erv": "2021.02.24",
+    "termeklink": "https://bevasarlas.tesco.hu/groceries/hu-HU/products/2004007357660"
+  },
+  {
+    "azon": "TESCO",
+    "forras": "",
     "termeknev": "Friss magyar sertéskaraj",
     "termekar": "1149 Ft ",
     "termekcur": "",
@@ -250,9 +276,9 @@
     "azon": "TESCO",
     "forras": "",
     "termeknev": "Friss magyar sertéstarja",
-    "termekar": "1099 Ft ",
+    "termekar": "1099 Ft",
     "termekcur": "",
-    "termekmenny": " csontos, húspultban kapható ",
+    "termekmenny": "csontos, húspultban kapható",
     "tarfajl": "",
     "tarfajlmert": "",
     "disc": "-26%",
@@ -263,9 +289,9 @@
     "azon": "TESCO",
     "forras": "",
     "termeknev": "Friss pulyka-alsócomb, Friss pulykafelsőcomb",
-    "termekar": "499 Ft ",
+    "termekar": "499 Ft",
     "termekcur": "",
-    "termekmenny": " Friss pulyka-alsócomb, baromfipultban kapható Friss pulykafelsőcomb: baromfipultban kapható, 1099 Ft/kg 899 Ft/kg ",
+    "termekmenny": "Friss pulyka-alsócomb, baromfipultban kapható Friss pulykafelsőcomb: baromfipultban kapható, 1099 Ft/kg 899 Ft/kg",
     "tarfajl": "",
     "tarfajlmert": "",
     "disc": "-28%",
@@ -353,6 +379,19 @@
   {
     "azon": "TESCO",
     "forras": "",
+    "termeknev": "Tesco magyar csirkemellfilé",
+    "termekar": "649 Ft",
+    "termekcur": "",
+    "termekmenny": "csomagolt, 500 g",
+    "tarfajl": "(1 kg = 1298 Ft)",
+    "tarfajlmert": "",
+    "disc": "-23%",
+    "erv": "2021.02.24",
+    "termeklink": "https://bevasarlas.tesco.hu/groceries/hu-HU/products/2004120841550"
+  },
+  {
+    "azon": "TESCO",
+    "forras": "",
     "termeknev": "Ananász",
     "termekar": "399 Ft ",
     "termekcur": "",
@@ -362,6 +401,19 @@
     "disc": "-42%",
     "erv": "2021.02.17",
     "termeklink": "https://bevasarlas.tesco.hu/groceries/hu-HU/products/2004120780362"
+  },
+  {
+    "azon": "TESCO",
+    "forras": "",
+    "termeknev": "Brokkoli",
+    "termekar": "339 Ft ",
+    "termekcur": "",
+    "termekmenny": " 500 g ",
+    "tarfajl": "(1 kg = 678 Ft)",
+    "tarfajlmert": "",
+    "disc": "-43%",
+    "erv": "2021.02.24",
+    "termeklink": "https://bevasarlas.tesco.hu/groceries/hu-HU/products/2004008299792"
   },
   {
     "azon": "TESCO",
@@ -405,10 +457,49 @@
   {
     "azon": "TESCO",
     "forras": "",
-    "termeknev": "Narancs",
-    "termekar": "289 Ft ",
+    "termeknev": "Gála alma",
+    "termekar": "349 Ft ",
     "termekcur": "",
     "termekmenny": " ",
+    "tarfajl": "",
+    "tarfajlmert": "",
+    "disc": "-30%",
+    "erv": "2021.02.24",
+    "termeklink": "https://bevasarlas.tesco.hu/groceries/hu-HU/products/2004003260414"
+  },
+  {
+    "azon": "TESCO",
+    "forras": "",
+    "termeknev": "Kígyóuborka",
+    "termekar": "219 Ft",
+    "termekcur": "",
+    "termekmenny": "",
+    "tarfajl": "",
+    "tarfajlmert": "",
+    "disc": "-37%",
+    "erv": "2021.02.24",
+    "termeklink": "https://bevasarlas.tesco.hu/groceries/hu-HU/products/2004009252888"
+  },
+  {
+    "azon": "TESCO",
+    "forras": "",
+    "termeknev": "Koktélparadicsom",
+    "termekar": "299 Ft",
+    "termekcur": "",
+    "termekmenny": "250 g",
+    "tarfajl": "(1 kg = 1196 Ft)",
+    "tarfajlmert": "",
+    "disc": "-25%",
+    "erv": "2021.02.24",
+    "termeklink": "https://bevasarlas.tesco.hu/groceries/hu-HU/products/2004005899391"
+  },
+  {
+    "azon": "TESCO",
+    "forras": "",
+    "termeknev": "Narancs",
+    "termekar": "289 Ft",
+    "termekcur": "",
+    "termekmenny": "",
     "tarfajl": "",
     "tarfajlmert": "",
     "disc": "-42%",
@@ -419,9 +510,9 @@
     "azon": "TESCO",
     "forras": "",
     "termeknev": "Piros szőlő",
-    "termekar": "999 Ft ",
+    "termekar": "999 Ft",
     "termekcur": "",
-    "termekmenny": " ",
+    "termekmenny": "",
     "tarfajl": "",
     "tarfajlmert": "",
     "disc": "-37%",
@@ -483,6 +574,19 @@
   {
     "azon": "TESCO",
     "forras": "",
+    "termeknev": "belVita Jó Reggelt! Softy gabonakeksz multipack vagy belVita Jó Reggelt! rostos és magvas gabonakeksz multipack",
+    "termekar": "549 Ft ",
+    "termekcur": "",
+    "termekmenny": " belVita Jó Reggelt! Softy gabonakeksz multipack: többféle, 5x50 g/cs, 2196 Ft/1 kg, belVita Jó Reggelt! rostos és magvas gabonakeksz multipack: kétféle, 6x45 g/cs, 2033 Ft/1 kg ",
+    "tarfajl": "",
+    "tarfajlmert": "",
+    "disc": "-15%",
+    "erv": "2021.02.24",
+    "termeklink": "https://bevasarlas.tesco.hu/groceries/hu-HU/products/2004020302801"
+  },
+  {
+    "azon": "TESCO",
+    "forras": "",
     "termeknev": "Bonduelle Gold csemegekukorica",
     "termekar": "379 Ft ",
     "termekcur": "",
@@ -496,10 +600,36 @@
   {
     "azon": "TESCO",
     "forras": "",
-    "termeknev": "Csokoládéval borított mandulamix",
-    "termekar": "1159 Ft ",
+    "termeknev": "belVita Jó Reggelt! Softy gabonakeksz multipack vagy belVita Jó Reg...",
+    "termekar": "549 Ft",
     "termekcur": "",
-    "termekmenny": " 200 g ",
+    "termekmenny": "belVita Jó Reggelt! Softy gabonakeksz multipack: többféle, 5x50 g/cs, 2196 Ft/1 kg, belVita Jó Reggelt! rostos és magvas gabonakeksz multipack: kétféle, 6x45 g/cs, 2033 Ft/1 kg",
+    "tarfajl": "",
+    "tarfajlmert": "",
+    "disc": "-15%",
+    "erv": "2021.02.24",
+    "termeklink": "https://bevasarlas.tesco.hu/groceries/hu-HU/products/2004020302801"
+  },
+  {
+    "azon": "TESCO",
+    "forras": "",
+    "termeknev": "Chio Snacks burgonyaszirom",
+    "termekar": "169 Ft",
+    "termekcur": "",
+    "termekmenny": "többféle, 40 g",
+    "tarfajl": "",
+    "tarfajlmert": "",
+    "disc": "-19%",
+    "erv": "2021.02.24",
+    "termeklink": "https://bevasarlas.tesco.hu/groceries/hu-HU/products/2004008614045"
+  },
+  {
+    "azon": "TESCO",
+    "forras": "",
+    "termeknev": "Csokoládéval borított mandulamix",
+    "termekar": "1159 Ft",
+    "termekcur": "",
+    "termekmenny": "200 g",
     "tarfajl": "(1 kg = 5795 Ft)",
     "tarfajlmert": "",
     "disc": "-17%",
@@ -531,6 +661,19 @@
     "disc": "-17%",
     "erv": "2021.02.17",
     "termeklink": "https://bevasarlas.tesco.hu/groceries/hu-HU/products/2004008368849"
+  },
+  {
+    "azon": "TESCO",
+    "forras": "",
+    "termeknev": "Ezerédes Eritrito",
+    "termekar": "699 Ft",
+    "termekcur": "",
+    "termekmenny": "300 g",
+    "tarfajl": "(1 kg = 2330 Ft)",
+    "tarfajlmert": "",
+    "disc": "-22%",
+    "erv": "2021.02.24",
+    "termeklink": "https://bevasarlas.tesco.hu/groceries/hu-HU/products/2004120333489"
   },
   {
     "azon": "TESCO",
@@ -574,54 +717,15 @@
   {
     "azon": "TESCO",
     "forras": "",
-    "termeknev": "Lindt Lindor desszert",
-    "termekar": "2499 Ft",
+    "termeknev": "Lay's chips",
+    "termekar": "239 Ft",
     "termekcur": "",
-    "termekmenny": "tej, válogatás, 337 g",
-    "tarfajl": "(1 kg = 7415 Ft)",
+    "termekmenny": "többféle, 60/65 g",
+    "tarfajl": "4317/3985 Ft / 1 kg",
     "tarfajlmert": "",
-    "disc": "-16%",
-    "erv": "2021.02.17",
-    "termeklink": "https://bevasarlas.tesco.hu/groceries/hu-HU/products/2004020177387"
-  },
-  {
-    "azon": "TESCO",
-    "forras": "",
-    "termeknev": "Lindt Lindor desszert (200 g)",
-    "termekar": "1499 Ft",
-    "termekcur": "",
-    "termekmenny": "többféle, 200 g",
-    "tarfajl": "(1 kg = 7495 Ft)",
-    "tarfajlmert": "",
-    "disc": "-34%",
-    "erv": "2021.02.14",
-    "termeklink": "https://bevasarlas.tesco.hu/groceries/hu-HU/products/2004008270517"
-  },
-  {
-    "azon": "TESCO",
-    "forras": "",
-    "termeknev": "Maggi leveskocka vagy pörköltszaftkocka",
-    "termekar": "419 Ft",
-    "termekcur": "",
-    "termekmenny": "leveskocka: többféle, 100/120/132 g, 4190/3492/3174 Ft/1 kg pörköltszaftkocka: 120 g, 3492 Ft/1 kg",
-    "tarfajl": "",
-    "tarfajlmert": "",
-    "disc": "-22%",
-    "erv": "2021.03.09",
-    "termeklink": "https://bevasarlas.tesco.hu/groceries/hu-HU/products/2004003236846"
-  },
-  {
-    "azon": "TESCO",
-    "forras": "",
-    "termeknev": "Monini Classico extra szűz olívaolajspray",
-    "termekar": "1099 Ft",
-    "termekcur": "",
-    "termekmenny": "200 ml",
-    "tarfajl": "(1 l = 5495 Ft)",
-    "tarfajlmert": "",
-    "disc": "-35%",
-    "erv": "2021.02.17",
-    "termeklink": "https://bevasarlas.tesco.hu/groceries/hu-HU/products/2004120333380"
+    "disc": "-17%",
+    "erv": "2021.03.03",
+    "termeklink": "https://bevasarlas.tesco.hu/groceries/hu-HU/products/2004020227681"
   },
   {
     "azon": "TESCO",
@@ -635,6 +739,32 @@
     "disc": "-30%",
     "erv": "2021.02.17",
     "termeklink": "https://bevasarlas.tesco.hu/groceries/hu-HU/products/2004020262335"
+  },
+  {
+    "azon": "TESCO",
+    "forras": "",
+    "termeknev": "Teleki Villányi Merlot, Portugieser vagy Kékfrankos vagy Teleki Villányi Rosé Cuvée",
+    "termekar": "849 Ft ",
+    "termekcur": "",
+    "termekmenny": " Teleki Villányi Merlot, Portugieser vagy Kékfrankos: 0,75 l, + betétdíj: 10 Ft/üveg Teleki Villányi Rosé Cuvée: 0,75 l A Teleki Villányi Kékfrankos a következő áruházainkban nem kapható: Ajka, Balatonfüred, Bonyhád, Mezőkövesd, Miskolc – Szentpéteri kapu, Nyíregyháza, Paks, Tapolca. ",
+    "tarfajl": "(1 l = 1132 Ft)",
+    "tarfajlmert": "",
+    "disc": "-22%",
+    "erv": "2021.02.24",
+    "termeklink": "https://bevasarlas.tesco.hu/groceries/hu-HU/products/2004002899042"
+  },
+  {
+    "azon": "TESCO",
+    "forras": "",
+    "termeknev": "Teleki Villányi Merlot, Portugieser vagy Kékfrankos vagy Teleki Vil...",
+    "termekar": "849 Ft",
+    "termekcur": "",
+    "termekmenny": "Teleki Villányi Merlot, Portugieser vagy Kékfrankos: 0,75 l, + betétdíj: 10 Ft/üveg Teleki Villányi Rosé Cuvée: 0,75 l A Teleki Villányi Kékfrankos a következő áruházainkban nem kapható: Ajka, Balatonfüred, Bonyhád, Mezőkövesd, Miskolc – Szentpéteri kapu, Nyíregyháza, Paks, Tapolca.",
+    "tarfajl": "(1 l = 1132 Ft)",
+    "tarfajlmert": "",
+    "disc": "-22%",
+    "erv": "2021.02.24",
+    "termeklink": "https://bevasarlas.tesco.hu/groceries/hu-HU/products/2004002899042"
   },
   {
     "azon": "TESCO",
@@ -1350,32 +1480,6 @@
     "disc": "",
     "erv": " 02.14.",
     "termeklink": "https://www.lidl.hu/hu/p/zoeldseg-gyuemoelcs-akcioink-02-11-csuetoertoektol/foeldieper/p89248"
-  },
-  {
-    "azon": "LIDL",
-    "forras": "",
-    "termeknev": "Kígyóuborka",
-    "termekar": "239",
-    "termekcur": "Ft",
-    "termekmenny": "",
-    "tarfajl": "",
-    "tarfajlmert": "",
-    "disc": "-40%",
-    "erv": " 02.14.",
-    "termeklink": "https://www.lidl.hu/hu/p/zoeldseg-gyuemoelcs-akcioink-02-11-csuetoertoektol/kigyouborka/p89249"
-  },
-  {
-    "azon": "LIDL",
-    "forras": "",
-    "termeknev": "Brokkoli",
-    "termekar": "389",
-    "termekcur": "Ft",
-    "termekmenny": "500 g",
-    "tarfajl": " 1 kg = 778 Ft",
-    "tarfajlmert": "",
-    "disc": "-22%",
-    "erv": " 02.14.",
-    "termeklink": "https://www.lidl.hu/hu/p/zoeldseg-gyuemoelcs-akcioink-02-11-csuetoertoektol/brokkoli/p89250"
   },
   {
     "azon": "LIDL",
@@ -4916,19 +5020,6 @@
   {
     "azon": "CBA",
     "forras": "",
-    "termeknev": "Zott Jogobella eper-f.rib,szed-mál,ep-rebar,meggy-p.rib.150g",
-    "termekar": "109,- Ft/db",
-    "termekcur": "",
-    "termekmenny": "",
-    "tarfajl": " 726,67 Ft/kg",
-    "tarfajlmert": "",
-    "disc": "-41%",
-    "erv": "",
-    "termeklink": "https://online.prima.hu/s/zott-jogobella-eper-f-rib-szed-mal-ep-rebar-meggy-p-rib-150g-10000175105?cat=102030"
-  },
-  {
-    "azon": "CBA",
-    "forras": "",
     "termeknev": "Zott Jogobella light (eper,meggy,almás-fah,málna)150g",
     "termekar": "109,- Ft/db",
     "termekcur": "",
@@ -4938,6 +5029,19 @@
     "disc": "-41%",
     "erv": "",
     "termeklink": "https://online.prima.hu/s/zott-jogobella-light-eper-meggy-almas-fah-malna-150g-10000020957?cat=102030"
+  },
+  {
+    "azon": "CBA",
+    "forras": "",
+    "termeknev": "Zott Jogobella eper-f.rib,szed-mál,ep-rebar,meggy-p.rib.150g",
+    "termekar": "109,- Ft/db",
+    "termekcur": "",
+    "termekmenny": "",
+    "tarfajl": " 726,67 Ft/kg",
+    "tarfajlmert": "",
+    "disc": "-41%",
+    "erv": "",
+    "termeklink": "https://online.prima.hu/s/zott-jogobella-eper-f-rib-szed-mal-ep-rebar-meggy-p-rib-150g-10000175105?cat=102030"
   },
   {
     "azon": "CBA",
@@ -5072,19 +5176,6 @@
   {
     "azon": "CBA",
     "forras": "",
-    "termeknev": "Ariel mosókapszula color 26db",
-    "termekar": "1999,- Ft/db",
-    "termekcur": "",
-    "termekmenny": "",
-    "tarfajl": " 76,88 Ft/db",
-    "tarfajlmert": "",
-    "disc": "-39%",
-    "erv": "",
-    "termeklink": "https://online.prima.hu/s/ariel-mosokapszula-color-26db-10000198799?cat=701030"
-  },
-  {
-    "azon": "CBA",
-    "forras": "",
     "termeknev": "Ariel folyékony mosószer mountan spring 2.2l 40mosás",
     "termekar": "1999,- Ft/db",
     "termekcur": "",
@@ -5094,6 +5185,19 @@
     "disc": "-39%",
     "erv": "",
     "termeklink": "https://online.prima.hu/s/ariel-folyekony-mososzer-mountan-spring-2-2l-40mosas-10000173644?cat=701020"
+  },
+  {
+    "azon": "CBA",
+    "forras": "",
+    "termeknev": "Ariel mosókapszula color 26db",
+    "termekar": "1999,- Ft/db",
+    "termekcur": "",
+    "termekmenny": "",
+    "tarfajl": " 76,88 Ft/db",
+    "tarfajlmert": "",
+    "disc": "-39%",
+    "erv": "",
+    "termeklink": "https://online.prima.hu/s/ariel-mosokapszula-color-26db-10000198799?cat=701030"
   },
   {
     "azon": "CBA",
@@ -5137,6 +5241,19 @@
   {
     "azon": "CBA",
     "forras": "",
+    "termeknev": "Ariel mosókapszula touch of Lenor color 3in1 26db",
+    "termekar": "1999,- Ft/db",
+    "termekcur": "",
+    "termekmenny": "",
+    "tarfajl": " 76,88 Ft/db",
+    "tarfajlmert": "",
+    "disc": "-39%",
+    "erv": "",
+    "termeklink": "https://online.prima.hu/s/ariel-mosokapszula-touch-of-lenor-color-3in1-26db-10000198510?cat=701030"
+  },
+  {
+    "azon": "CBA",
+    "forras": "",
     "termeknev": "Ariel folyékony mosószer touch of Lenor 2.2l 40mosás",
     "termekar": "1999,- Ft/db",
     "termekcur": "",
@@ -5150,7 +5267,7 @@
   {
     "azon": "CBA",
     "forras": "",
-    "termeknev": "Ariel mosókapszula touch of Lenor color 3in1 26db",
+    "termeknev": "Ariel mosokapszula sensitive 26db",
     "termekar": "1999,- Ft/db",
     "termekcur": "",
     "termekmenny": "",
@@ -5158,7 +5275,7 @@
     "tarfajlmert": "",
     "disc": "-39%",
     "erv": "",
-    "termeklink": "https://online.prima.hu/s/ariel-mosokapszula-touch-of-lenor-color-3in1-26db-10000198510?cat=701030"
+    "termeklink": "https://online.prima.hu/s/ariel-mosokapszula-sensitive-26db-10000198509?cat=701030"
   },
   {
     "azon": "CBA",
@@ -5185,19 +5302,6 @@
     "disc": "-39%",
     "erv": "",
     "termeklink": "https://online.prima.hu/s/ariel-mosokapszula-complete-all-in1-24db-10000198514?cat=701030"
-  },
-  {
-    "azon": "CBA",
-    "forras": "",
-    "termeknev": "Ariel mosokapszula sensitive 26db",
-    "termekar": "1999,- Ft/db",
-    "termekcur": "",
-    "termekmenny": "",
-    "tarfajl": " 76,88 Ft/db",
-    "tarfajlmert": "",
-    "disc": "-39%",
-    "erv": "",
-    "termeklink": "https://online.prima.hu/s/ariel-mosokapszula-sensitive-26db-10000198509?cat=701030"
   },
   {
     "azon": "CBA",
@@ -5566,6 +5670,19 @@
   {
     "azon": "CBA",
     "forras": "",
+    "termeknev": "Alpro mandulaital original 1l",
+    "termekar": "599,- Ft/db",
+    "termekcur": "",
+    "termekmenny": "",
+    "tarfajl": " 599,00 Ft/l",
+    "tarfajlmert": "",
+    "disc": "-33%",
+    "erv": "",
+    "termeklink": "https://online.prima.hu/s/alpro-mandulaital-original-1l-10000013103?cat=101050"
+  },
+  {
+    "azon": "CBA",
+    "forras": "",
     "termeknev": "Alpro kókuszital 1l",
     "termekar": "599,- Ft/db",
     "termekcur": "",
@@ -5618,15 +5735,15 @@
   {
     "azon": "CBA",
     "forras": "",
-    "termeknev": "Alpro mandulaital original 1l",
+    "termeknev": "Alpro Cukormentes pörköletlen mandulaital 1l",
     "termekar": "599,- Ft/db",
     "termekcur": "",
     "termekmenny": "",
     "tarfajl": " 599,00 Ft/l",
     "tarfajlmert": "",
-    "disc": "-33%",
+    "disc": "",
     "erv": "",
-    "termeklink": "https://online.prima.hu/s/alpro-mandulaital-original-1l-10000013103?cat=101050"
+    "termeklink": "https://online.prima.hu/s/alpro-cukormentes-porkoletlen-mandulaital-1l-10000164952?cat=101050"
   },
   {
     "azon": "CBA",
@@ -5644,19 +5761,6 @@
   {
     "azon": "CBA",
     "forras": "",
-    "termeknev": "Alpro Cukormentes pörköletlen mandulaital 1l",
-    "termekar": "599,- Ft/db",
-    "termekcur": "",
-    "termekmenny": "",
-    "tarfajl": " 599,00 Ft/l",
-    "tarfajlmert": "",
-    "disc": "",
-    "erv": "",
-    "termeklink": "https://online.prima.hu/s/alpro-cukormentes-porkoletlen-mandulaital-1l-10000164952?cat=101050"
-  },
-  {
-    "azon": "CBA",
-    "forras": "",
     "termeknev": "Alpro Kókusz-mandulaital 1l",
     "termekar": "599,- Ft/db",
     "termekcur": "",
@@ -5666,6 +5770,19 @@
     "disc": "",
     "erv": "",
     "termeklink": "https://online.prima.hu/s/alpro-kokusz-mandulaital-1l-10000133406?cat=101050"
+  },
+  {
+    "azon": "CBA",
+    "forras": "",
+    "termeknev": "Alpro kókuszital hozzáadott kalciummal és vitaminokkal 1l",
+    "termekar": "599,- Ft/db",
+    "termekcur": "",
+    "termekmenny": "",
+    "tarfajl": " 599,00 Ft/l",
+    "tarfajlmert": "",
+    "disc": "",
+    "erv": "",
+    "termeklink": "https://online.prima.hu/s/alpro-kokuszital-hozzaadott-kalciummal-es-vitaminokkal-1l-10000188699?cat=101050"
   },
   {
     "azon": "CBA",
@@ -5722,19 +5839,6 @@
   {
     "azon": "CBA",
     "forras": "",
-    "termeknev": "Alpro kókuszital hozzáadott kalciummal és vitaminokkal 1l",
-    "termekar": "599,- Ft/db",
-    "termekcur": "",
-    "termekmenny": "",
-    "tarfajl": " 599,00 Ft/l",
-    "tarfajlmert": "",
-    "disc": "",
-    "erv": "",
-    "termeklink": "https://online.prima.hu/s/alpro-kokuszital-hozzaadott-kalciummal-es-vitaminokkal-1l-10000188699?cat=101050"
-  },
-  {
-    "azon": "CBA",
-    "forras": "",
     "termeknev": "Alpro Csokoládés kókuszital 1l",
     "termekar": "599,- Ft/db",
     "termekcur": "",
@@ -5774,19 +5878,6 @@
   {
     "azon": "CBA",
     "forras": "",
-    "termeknev": "Burn szénsavas ital koffein. original 250ml",
-    "termekar": "199,- Ft/db",
-    "termekcur": "",
-    "termekmenny": "",
-    "tarfajl": " 796,00 Ft/l",
-    "tarfajlmert": "",
-    "disc": "-33%",
-    "erv": "",
-    "termeklink": "https://online.prima.hu/s/burn-szensavas-ital-koffein-original-250ml-10000158857?cat=555510"
-  },
-  {
-    "azon": "CBA",
-    "forras": "",
     "termeknev": "Burn szénsavas ital koffein. apple kiwi 250 ml",
     "termekar": "199,- Ft/db",
     "termekcur": "",
@@ -5796,6 +5887,19 @@
     "disc": "-33%",
     "erv": "",
     "termeklink": "https://online.prima.hu/s/burn-szensavas-ital-koffein-apple-kiwi-250-ml-10000158854?cat=555510"
+  },
+  {
+    "azon": "CBA",
+    "forras": "",
+    "termeknev": "Burn szénsavas ital koffein. original 250ml",
+    "termekar": "199,- Ft/db",
+    "termekcur": "",
+    "termekmenny": "",
+    "tarfajl": " 796,00 Ft/l",
+    "tarfajlmert": "",
+    "disc": "-33%",
+    "erv": "",
+    "termeklink": "https://online.prima.hu/s/burn-szensavas-ital-koffein-original-250ml-10000158857?cat=555510"
   },
   {
     "azon": "CBA",
@@ -5943,19 +6047,6 @@
   {
     "azon": "CBA",
     "forras": "",
-    "termeknev": "HERZ Gála szeletelt sült sonka 90g",
-    "termekar": "389,- Ft/db",
-    "termekcur": "",
-    "termekmenny": "",
-    "tarfajl": " 4322,22 Ft/kg",
-    "tarfajlmert": "",
-    "disc": "-32%",
-    "erv": "",
-    "termeklink": "https://online.prima.hu/s/herz-gala-szeletelt-sult-sonka-90g-10000151654?cat=25502010"
-  },
-  {
-    "azon": "CBA",
-    "forras": "",
     "termeknev": "HERZ Gála szeletelt sonka 90g",
     "termekar": "389,- Ft/db",
     "termekcur": "",
@@ -5965,6 +6056,19 @@
     "disc": "-32%",
     "erv": "",
     "termeklink": "https://online.prima.hu/s/herz-gala-szeletelt-sonka-90g-10000151652?cat=25502010"
+  },
+  {
+    "azon": "CBA",
+    "forras": "",
+    "termeknev": "HERZ Gála szeletelt sült sonka 90g",
+    "termekar": "389,- Ft/db",
+    "termekcur": "",
+    "termekmenny": "",
+    "tarfajl": " 4322,22 Ft/kg",
+    "tarfajlmert": "",
+    "disc": "-32%",
+    "erv": "",
+    "termeklink": "https://online.prima.hu/s/herz-gala-szeletelt-sult-sonka-90g-10000151654?cat=25502010"
   },
   {
     "azon": "CBA",
@@ -5982,19 +6086,6 @@
   {
     "azon": "CBA",
     "forras": "",
-    "termeknev": "Sea Fish tonhaltörzs növ. olajban chili ízesítéssel 80g/56g",
-    "termekar": "329,- Ft/db",
-    "termekcur": "",
-    "termekmenny": "",
-    "tarfajl": " 5875,00 Ft/kg",
-    "tarfajlmert": "",
-    "disc": "-32%",
-    "erv": "",
-    "termeklink": "https://online.prima.hu/s/sea-fish-tonhaltorzs-nov-olajban-chili-izesitessel-80g-56g-10000131362?cat=356050"
-  },
-  {
-    "azon": "CBA",
-    "forras": "",
     "termeknev": "Sea Fish tonhaltörzs növ. olajban citrom ízesítéssel 80g/56g",
     "termekar": "329,- Ft/db",
     "termekcur": "",
@@ -6004,6 +6095,19 @@
     "disc": "-32%",
     "erv": "",
     "termeklink": "https://online.prima.hu/s/sea-fish-tonhaltorzs-nov-olajban-citrom-izesitessel-80g-56g-10000131364?cat=356050"
+  },
+  {
+    "azon": "CBA",
+    "forras": "",
+    "termeknev": "Sea Fish tonhaltörzs növ. olajban chili ízesítéssel 80g/56g",
+    "termekar": "329,- Ft/db",
+    "termekcur": "",
+    "termekmenny": "",
+    "tarfajl": " 5875,00 Ft/kg",
+    "tarfajlmert": "",
+    "disc": "-32%",
+    "erv": "",
+    "termeklink": "https://online.prima.hu/s/sea-fish-tonhaltorzs-nov-olajban-chili-izesitessel-80g-56g-10000131362?cat=356050"
   },
   {
     "azon": "CBA",
@@ -6515,19 +6619,6 @@
   {
     "azon": "SPAR",
     "forras": "",
-    "termeknev": "Füstölt sertés hátsó csülök vákumfóliában",
-    "termekar": "1 290",
-    "termekcur": "Ft",
-    "termekmenny": "",
-    "tarfajl": "(1 290,00 Ft/kg)",
-    "tarfajlmert": "",
-    "disc": "",
-    "erv": "",
-    "termeklink": "https://www.spar.hu/onlineshop/fustolt-sertes-hatso-csulok-vakumfoliaban/p/322228007"
-  },
-  {
-    "azon": "SPAR",
-    "forras": "",
     "termeknev": "PICK Sertés párizsi",
     "termekar": "1 590",
     "termekcur": "Ft",
@@ -6684,19 +6775,6 @@
   {
     "azon": "SPAR",
     "forras": "",
-    "termeknev": "PICK Góliát paprikás szalámi 1400 g",
-    "termekar": "3 790",
-    "termekcur": "Ft",
-    "termekmenny": "",
-    "tarfajl": "(3 790,00 Ft/kg)",
-    "tarfajlmert": "",
-    "disc": "",
-    "erv": "",
-    "termeklink": "https://www.spar.hu/onlineshop/pick-goliat-paprikas-szalami-1400-g/p/303136000"
-  },
-  {
-    "azon": "SPAR",
-    "forras": "",
     "termeknev": "S-BUDGET Sertés zsírszalonna csomagolt kb. 5kg",
     "termekar": "629",
     "termekcur": "Ft",
@@ -6706,6 +6784,19 @@
     "disc": "",
     "erv": "",
     "termeklink": "https://www.spar.hu/onlineshop/s-budget-sertes-zsirszalonna-csomagolt-kb-5kg/p/250085000"
+  },
+  {
+    "azon": "SPAR",
+    "forras": "",
+    "termeknev": "PICK Góliát paprikás szalámi 1400 g",
+    "termekar": "3 790",
+    "termekcur": "Ft",
+    "termekmenny": "",
+    "tarfajl": "(3 790,00 Ft/kg)",
+    "tarfajlmert": "",
+    "disc": "",
+    "erv": "",
+    "termeklink": "https://www.spar.hu/onlineshop/pick-goliat-paprikas-szalami-1400-g/p/303136000"
   },
   {
     "azon": "SPAR",
@@ -6736,19 +6827,6 @@
   {
     "azon": "SPAR",
     "forras": "",
-    "termeknev": "S-BUDGET Sertés kolbászhúscsomag csomagolt kb. 5kg",
-    "termekar": "949",
-    "termekcur": "Ft",
-    "termekmenny": "",
-    "tarfajl": "(949,00 Ft/kg)",
-    "tarfajlmert": "",
-    "disc": "",
-    "erv": "",
-    "termeklink": "https://www.spar.hu/onlineshop/s-budget-sertes-kolbaszhuscsomag-csomagolt-kb-5kg/p/370594000"
-  },
-  {
-    "azon": "SPAR",
-    "forras": "",
     "termeknev": "REGNUM Bőrös sertéslapocka csülökkel",
     "termekar": "849",
     "termekcur": "Ft",
@@ -6758,6 +6836,19 @@
     "disc": "",
     "erv": "",
     "termeklink": "https://www.spar.hu/onlineshop/regnum-boros-serteslapocka-csulokkel/p/422316000"
+  },
+  {
+    "azon": "SPAR",
+    "forras": "",
+    "termeknev": "S-BUDGET Sertés kolbászhúscsomag csomagolt kb. 5kg",
+    "termekar": "949",
+    "termekcur": "Ft",
+    "termekmenny": "",
+    "tarfajl": "(949,00 Ft/kg)",
+    "tarfajlmert": "",
+    "disc": "",
+    "erv": "",
+    "termeklink": "https://www.spar.hu/onlineshop/s-budget-sertes-kolbaszhuscsomag-csomagolt-kb-5kg/p/370594000"
   },
   {
     "azon": "SPAR",
@@ -7243,19 +7334,6 @@
   {
     "azon": "SPAR",
     "forras": "",
-    "termeknev": "Coca-Cola Zero cola- és citromízű energiamentes szénsavas üdítőital édesítősze...",
-    "termekar": "339",
-    "termekcur": "Ft",
-    "termekmenny": "",
-    "tarfajl": "(193,71 Ft/l)",
-    "tarfajlmert": "",
-    "disc": "",
-    "erv": "",
-    "termeklink": "https://www.spar.hu/onlineshop/coca-cola-zero-cola-es-citromizu-energiamentes-szensavas-uditoital-edesitoszerekkel-175-l/p/485082003"
-  },
-  {
-    "azon": "SPAR",
-    "forras": "",
     "termeknev": "Wiesbauer Prémium bécsi sertésvirsli 400 g",
     "termekar": "999",
     "termekcur": "Ft",
@@ -7265,6 +7343,19 @@
     "disc": "",
     "erv": "",
     "termeklink": "https://www.spar.hu/onlineshop/wiesbauer-premium-becsi-sertesvirsli-400-g/p/339619003"
+  },
+  {
+    "azon": "SPAR",
+    "forras": "",
+    "termeknev": "Coca-Cola Zero cola- és citromízű energiamentes szénsavas üdítőital édesítősze...",
+    "termekar": "339",
+    "termekcur": "Ft",
+    "termekmenny": "",
+    "tarfajl": "(193,71 Ft/l)",
+    "tarfajlmert": "",
+    "disc": "",
+    "erv": "",
+    "termeklink": "https://www.spar.hu/onlineshop/coca-cola-zero-cola-es-citromizu-energiamentes-szensavas-uditoital-edesitoszerekkel-175-l/p/485082003"
   },
   {
     "azon": "SPAR",
@@ -7295,19 +7386,6 @@
   {
     "azon": "SPAR",
     "forras": "",
-    "termeknev": "REGNUM darált marhahús 400 g",
-    "termekar": "849",
-    "termekcur": "Ft",
-    "termekmenny": "",
-    "tarfajl": "(2 122,50 Ft/kg)",
-    "tarfajlmert": "",
-    "disc": "",
-    "erv": "",
-    "termeklink": "https://www.spar.hu/onlineshop/regnum-daralt-marhahus-400-g/p/357216000"
-  },
-  {
-    "azon": "SPAR",
-    "forras": "",
     "termeknev": "Szarvasi Mini Light mozzarella sajt 100 g",
     "termekar": "209",
     "termekcur": "Ft",
@@ -7317,6 +7395,19 @@
     "disc": "",
     "erv": "",
     "termeklink": "https://www.spar.hu/onlineshop/szarvasi-mini-light-mozzarella-sajt-100-g/p/301613008"
+  },
+  {
+    "azon": "SPAR",
+    "forras": "",
+    "termeknev": "REGNUM darált marhahús 400 g",
+    "termekar": "849",
+    "termekcur": "Ft",
+    "termekmenny": "",
+    "tarfajl": "(2 122,50 Ft/kg)",
+    "tarfajlmert": "",
+    "disc": "",
+    "erv": "",
+    "termeklink": "https://www.spar.hu/onlineshop/regnum-daralt-marhahus-400-g/p/357216000"
   },
   {
     "azon": "SPAR",
@@ -7408,6 +7499,19 @@
     "disc": "",
     "erv": "",
     "termeklink": "https://www.spar.hu/onlineshop/kinder-pingui-choco-tejes-toltesu-sutemeny-csokoladebevonattal-4-db-120-g/p/292646009"
+  },
+  {
+    "azon": "SPAR",
+    "forras": "",
+    "termeknev": "Pannónia Eredeti szeletelt sajt 125 g",
+    "termekar": "399",
+    "termekcur": "Ft",
+    "termekmenny": "",
+    "tarfajl": "(3 192,00 Ft/kg)",
+    "tarfajlmert": "",
+    "disc": "",
+    "erv": "",
+    "termeklink": "https://www.spar.hu/onlineshop/pannonia-eredeti-szeletelt-sajt-125-g/p/286705002"
   },
   {
     "azon": "PENNY",
@@ -7636,8 +7740,8 @@
     "termeknev": "TOMI MOSÓPOR MOSÓGÉL KAPSZULA*",
     "termekar": "2.799 Ft",
     "termekcur": "",
-    "termekmenny": " 4.68 kilogramm",
-    "tarfajl": "1 kilogramm = 598 Ft",
+    "termekmenny": " 56 darab",
+    "tarfajl": "1 darab = 50 Ft",
     "tarfajlmert": "",
     "disc": "",
     "erv": "2021.02.17",
@@ -7663,9 +7767,9 @@
     "termekar": "229 Ft",
     "termekcur": "",
     "termekmenny": " 1240 gramm",
-    "tarfajl": "100 gramm = 18 ",
+    "tarfajl": "100 gramm = 18 Ft",
     "tarfajlmert": "",
-    "disc": "--5%",
+    "disc": "",
     "erv": "2021.02.17",
     "termeklink": "https://www.penny.hu/ajanlatok/kovetkezo-heti-ajanlatok"
   },
@@ -7763,19 +7867,6 @@
   {
     "azon": "PENNY",
     "forras": "",
-    "termeknev": "CHEETOS",
-    "termekar": "79 Ft",
-    "termekcur": "",
-    "termekmenny": " 1 darab",
-    "tarfajl": "99 Ft",
-    "tarfajlmert": "",
-    "disc": "-20%",
-    "erv": "2021.02.17",
-    "termeklink": "https://www.penny.hu/ajanlatok/kovetkezo-heti-ajanlatok"
-  },
-  {
-    "azon": "PENNY",
-    "forras": "",
     "termeknev": "AXE DEO ",
     "termekar": "659 Ft",
     "termekcur": "",
@@ -7835,6 +7926,19 @@
     "tarfajl": "100 gramm = 56 Ft",
     "tarfajlmert": "",
     "disc": "",
+    "erv": "2021.02.17",
+    "termeklink": "https://www.penny.hu/ajanlatok/kovetkezo-heti-ajanlatok"
+  },
+  {
+    "azon": "PENNY",
+    "forras": "",
+    "termeknev": "CHEETOS",
+    "termekar": "79 Ft",
+    "termekcur": "",
+    "termekmenny": " 43 gramm",
+    "tarfajl": "100 gramm = 184 ",
+    "tarfajlmert": "",
+    "disc": "-20%",
     "erv": "2021.02.17",
     "termeklink": "https://www.penny.hu/ajanlatok/kovetkezo-heti-ajanlatok"
   },
@@ -7997,11 +8101,11 @@
   {
     "azon": "PENNY",
     "forras": "",
-    "termeknev": "MR. SPICE KÖMÉNY ",
-    "termekar": "59 Ft",
+    "termeknev": "MR. SPICE GYÖMBÉR ",
+    "termekar": "79 Ft",
     "termekcur": "",
-    "termekmenny": " 40 gramm",
-    "tarfajl": "100 gramm = 148 ",
+    "termekmenny": " 20 gramm",
+    "tarfajl": "100 gramm = 395 ",
     "tarfajlmert": "",
     "disc": "-33%",
     "erv": "2021.02.17",
@@ -8010,11 +8114,11 @@
   {
     "azon": "PENNY",
     "forras": "",
-    "termeknev": "MR. SPICE GYÖMBÉR ",
-    "termekar": "79 Ft",
+    "termeknev": "MR. SPICE KÖMÉNY ",
+    "termekar": "59 Ft",
     "termekcur": "",
-    "termekmenny": " 20 gramm",
-    "tarfajl": "100 gramm = 395 ",
+    "termekmenny": " 40 gramm",
+    "tarfajl": "100 gramm = 148 ",
     "tarfajlmert": "",
     "disc": "-33%",
     "erv": "2021.02.17",
@@ -8439,19 +8543,6 @@
   {
     "azon": "PENNY",
     "forras": "",
-    "termeknev": "KOMÉTA ÍNYENC ZSELICI SZALÁMI",
-    "termekar": "1.499 Ft",
-    "termekcur": "",
-    "termekmenny": " 500 gramm",
-    "tarfajl": "100 gramm = 300 Ft",
-    "tarfajlmert": "",
-    "disc": "",
-    "erv": "2021.02.17",
-    "termeklink": "https://www.penny.hu/ajanlatok/kovetkezo-heti-ajanlatok"
-  },
-  {
-    "azon": "PENNY",
-    "forras": "",
     "termeknev": "MIZO COFFEE SELECTION",
     "termekar": "189 Ft",
     "termekcur": "",
@@ -8543,19 +8634,6 @@
   {
     "azon": "PENNY",
     "forras": "",
-    "termeknev": "HAZAI ÍZEK PECSENYE KACSAMÁJ ZSÍRJÁBAN",
-    "termekar": "649 Ft",
-    "termekcur": "",
-    "termekmenny": " 180 gramm",
-    "tarfajl": "100 gramm = 361 Ft",
-    "tarfajlmert": "",
-    "disc": "",
-    "erv": "2021.02.17",
-    "termeklink": "https://www.penny.hu/ajanlatok/kovetkezo-heti-ajanlatok"
-  },
-  {
-    "azon": "PENNY",
-    "forras": "",
     "termeknev": "CSÓNAKORCHIDEA VALENTIN",
     "termekar": "1.899 Ft",
     "termekcur": "",
@@ -8608,19 +8686,6 @@
   {
     "azon": "PENNY",
     "forras": "",
-    "termeknev": "VIRÁGZÓ NÖVÉNY MIX",
-    "termekar": "899 Ft",
-    "termekcur": "",
-    "termekmenny": " 1 darab",
-    "tarfajl": "",
-    "tarfajlmert": "",
-    "disc": "",
-    "erv": "2021.02.14",
-    "termeklink": "https://www.penny.hu/ajanlatok/kovetkezo-heti-ajanlatok"
-  },
-  {
-    "azon": "PENNY",
-    "forras": "",
     "termeknev": "KORALLVIRÁG",
     "termekar": "999 Ft",
     "termekcur": "",
@@ -8636,6 +8701,19 @@
     "forras": "",
     "termeknev": "CIKLÁMEN MIX DÍSZKOSÁRBAN",
     "termekar": "1.299 Ft",
+    "termekcur": "",
+    "termekmenny": " 1 darab",
+    "tarfajl": "",
+    "tarfajlmert": "",
+    "disc": "",
+    "erv": "2021.02.14",
+    "termeklink": "https://www.penny.hu/ajanlatok/kovetkezo-heti-ajanlatok"
+  },
+  {
+    "azon": "PENNY",
+    "forras": "",
+    "termeknev": "VIRÁGZÓ NÖVÉNY MIX",
+    "termekar": "899 Ft",
     "termekcur": "",
     "termekmenny": " 1 darab",
     "tarfajl": "",
@@ -8673,19 +8751,6 @@
   {
     "azon": "PENNY",
     "forras": "",
-    "termeknev": "TELJES KIŐRLÉSŰ VÁGOTT",
-    "termekar": "69 Ft",
-    "termekcur": "",
-    "termekmenny": " 80 gramm",
-    "tarfajl": "100 gramm = 86 ",
-    "tarfajlmert": "",
-    "disc": "-22%",
-    "erv": "2021.02.17",
-    "termeklink": "https://www.penny.hu/ajanlatok/kovetkezo-heti-ajanlatok"
-  },
-  {
-    "azon": "PENNY",
-    "forras": "",
     "termeknev": "KAKAÓS CSIGA",
     "termekar": "59 Ft",
     "termekcur": "",
@@ -8693,6 +8758,19 @@
     "tarfajl": "100 gramm = 74 ",
     "tarfajlmert": "",
     "disc": "-33%",
+    "erv": "2021.02.17",
+    "termeklink": "https://www.penny.hu/ajanlatok/kovetkezo-heti-ajanlatok"
+  },
+  {
+    "azon": "PENNY",
+    "forras": "",
+    "termeknev": "TELJES KIŐRLÉSŰ VÁGOTT",
+    "termekar": "69 Ft",
+    "termekcur": "",
+    "termekmenny": " 80 gramm",
+    "tarfajl": "100 gramm = 86 ",
+    "tarfajlmert": "",
+    "disc": "-22%",
     "erv": "2021.02.17",
     "termeklink": "https://www.penny.hu/ajanlatok/kovetkezo-heti-ajanlatok"
   },
@@ -8907,8 +8985,8 @@
   {
     "azon": "PENNY",
     "forras": "",
-    "termeknev": "ESSENTIALS KEREK TÁL",
-    "termekar": "499 Ft",
+    "termeknev": "VILEDA UNIVERSAL PARTVIS NYÉLLEL",
+    "termekar": "1.499 Ft",
     "termekcur": "",
     "termekmenny": " 1 darab",
     "tarfajl": "",
@@ -8920,8 +8998,8 @@
   {
     "azon": "PENNY",
     "forras": "",
-    "termeknev": "VILEDA UNIVERSAL PARTVIS NYÉLLEL",
-    "termekar": "1.499 Ft",
+    "termeknev": "ESSENTIALS KEREK TÁL",
+    "termekar": "499 Ft",
     "termekcur": "",
     "termekmenny": " 1 darab",
     "tarfajl": "",
