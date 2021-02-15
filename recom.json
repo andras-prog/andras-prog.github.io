@@ -1,6 +1,198 @@
 [
     {
         "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/klasszikus-paprikas-krumpli-lecsokolbasszal.recept",
+        "h1": "KLASSZIKUS PAPRIKÁS KRUMPLI LECSÓKOLBÁSSZAL",
+        "txtlength": 9797
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/kolbaszos-paradicsomos-gnocchi.recept",
+        "h1": "KOLBÁSZOS-PARADICSOMOS GNOCCHI",
+        "txtlength": 9404
+    },
+    {
+        "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/zsenge-borsofozelek",
+        "h1": "Zsenge borsófőzelék",
+        "txtlength": 9326
+    },
+    {
+        "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/pihe-puha-fank-sutoben-sutve",
+        "h1": "Pihe-puha fánk sütőben sütve",
+        "txtlength": 9144
+    },
+    {
+        "hostname": "hataratkelo.blog.hu",
+        "pagelink": "https://hataratkelo.blog.hu/2021/02/12/az_amerikaiak_es_a_szex_477#c39841278",
+        "h1": "Az amerikaiak és a szex",
+        "txtlength": 33830
+    },
+    {
+        "hostname": "kulturpart.hu",
+        "pagelink": "https://kulturpart.blog.hu/2021/02/13/10_konyv_valentin_napra",
+        "h1": "TÍZ KÖNYV VALENTIN-NAPRA",
+        "txtlength": 14923
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210210_fantombuszmutyi_fovarosi_modra",
+        "h1": "Fantombuszmutyi fővárosi módra",
+        "txtlength": 30812
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210210_hiszek_a_polgari_magyarorszag_eszmejeben",
+        "h1": "Hiszek a polgári Magyarország eszméjében – Stumpf István a Mandinernek",
+        "txtlength": 29624
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/vasarlas/meghogy-vege-a-drasztikus-dragulasnak-nem-heveri-ki-a-jarvanyt-egykonnyen-a-nyugdijasok-penztarcaja.1110772.html",
+        "h1": "Méghogy vége a drasztikus drágulásnak: nem heveri ki a járványt egykönnyen a nyugdíjasok pénztárcája",
+        "txtlength": 22145
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210301_az_elhallgatott_gyilkossag_70_eve_olte_meg_a_ferje_bajor_gizit_02_12_esmegjelenes_evfordulo_miatt",
+        "h1": "Az elhallgatott gyilkosság: 70 éve ölte meg a férje Bajor Gizit",
+        "txtlength": 17999
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/gyerek/szerelmes-gyerekek/",
+        "h1": "Vegyük komolyan, ha szerelmes a kisgyerek: a pszichológus szerint fontos, hogy az első szerelem pozitív élmény maradjon",
+        "txtlength": 17964
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/uzlet/20210215/elesites-elott-a-magyar-digitalis-oltasigazolas-de-meg-mindig-sok-minden-valtozhat-a-hatterben-469630",
+        "h1": "Élesítés előtt a magyar digitális oltásigazolás, de még mindig sok minden változhat a háttérben",
+        "txtlength": 16862
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2021/02/15/atszervezik-a-wikipedia-mukodeset-de-megmarad-e-az-enciklopedia-a-szabad-internet-utolso-bastyajanak",
+        "h1": "ÁTSZERVEZIK A WIKIPÉDIA MŰKÖDÉSÉT, DE MEGMARAD-E AZ ENCIKLOPÉDIA A SZABAD INTERNET UTOLSÓ BÁSTYÁJÁNAK?",
+        "txtlength": 16224
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/elet/20210215/a-magyarok-tobbsege-egyaltalan-nem-szamit-arra-hogy-iden-kulfoldon-nyaralhat/",
+        "h1": "A magyarok többsége egyáltalán nem számít arra, hogy idén külföldön nyaralhat",
+        "txtlength": 16087
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/otthon/ezt-rengeteg-magyar-par-elrontja-minden-penzuk-es-meg-a-kapcsolatuk-is-ramehet.1110782.html",
+        "h1": "Ezt rengeteg magyar pár elrontja: minden pénzük és még a kapcsolatuk is rámehet",
+        "txtlength": 15872
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vilag/20210214/ha-lassunak-tunik-az-europai-oltasi-tempo-erdemes-megnezni-egy-afrikai-orszagot/",
+        "h1": "Ha lassúnak tűnik az európai oltási tempó, érdemes megnézni egy afrikai országot",
+        "txtlength": 14183
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/uzlet/20210214/mennyibe-kerulnek-a-koronavirus-vakcinak-es-miert-tizszer-olyan-draga-a-kinai-mint-az-astrazeneca-vakcina-469746",
+        "h1": "Mennyibe kerülnek a koronavírus-vakcinák és miért tízszer olyan drága a kínai, mint az AstraZeneca-vakcina?",
+        "txtlength": 12990
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20210213/orban-viktor-alairta-vedettsegi-igazolvany-jon-marciustol-itt-a-rendelet-469666",
+        "h1": "Orbán Viktor aláírta: védettségi igazolvány jön márciustól, itt a rendelet!",
+        "txtlength": 12511
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/lajfhekk/miert-assa-el-a-kutya-a-csontot/",
+        "h1": "Miért ássa el a kutya a csontot?",
+        "txtlength": 6179
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kulfold/2021/02/14/olaszorszag-mario-draghi-politikai-valsag-bukas-koronavirus-jarvany-mentocsomag",
+        "h1": "A járvány közepén robbantottak egy politikai válságot, és nagyon büszkék magukra",
+        "txtlength": 20904
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kulfold/2021/02/14/oltasi-tervek-europaban-unio-vilagban-koronavirus-magyarorszag-jarvany-franciaorszag-nemetorszag",
+        "h1": "Németországban a kismamák kontaktjai, máshol a dohányosok kapnak hamarabb oltást",
+        "txtlength": 18221
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/koronavirus-halalos-aldozatok-magyarorszag/5ymmbgk",
+        "h1": "Bőven ezer felett az új koronavírus-fertőzöttek száma, 46 áldozatot követelt az elmúlt napon a covid",
+        "txtlength": 18050
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/belfold/2021/02/14/lajkbajnoksag-12",
+        "h1": "Ilyen még nem volt: Orbán Viktor elkezdett facebookos követőket veszíteni",
+        "txtlength": 16355
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/kultura/20210214_elena_ferrante_a_felnottek_hazug_elete_kritika_napolyi_regenyek_netflix",
+        "h1": "Lehet-e egy kislány egyszerre ronda és szép?",
+        "txtlength": 14138
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kultura/2021/02/14/elizabeth-carmichael-a-holgy-es-az-auto-szelhamos-hbo-go-doku-dokumentum-sorozat-kritika/",
+        "h1": "Előbb férfiből nő lett, aztán egy sportkocsival megvezette egész Amerikát, majd ikonná vált",
+        "txtlength": 13552
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/siofok-disznool-marika-mama-horror-nyomozas/cped25f",
+        "h1": "Kiforgatták a vagyonából, majd másfél évig disznóólban tartották az idős nőt: brutális körülmények között élt Marika mama",
+        "txtlength": 12214
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/02/14/22-eves-klimaaktivistat-tartoztattak-le-indiaban-amiert-megosztotta-azt-a-dokumentumot-amit-greta-thunberg-is",
+        "h1": "22 éves klímaaktivistát tartóztattak le Indiában, amiért megosztotta azt a dokumentumot, amit Greta Thunberg is",
+        "txtlength": 11095
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kultura/2021/02/14/isten-hozott-a-mennyorszagban-lance-oppenheim-bidf-kritika-the-villages-florida/",
+        "h1": "Élni mennek a „nyugdíjasok Disneylandjébe”, nem meghalni",
+        "txtlength": 10836
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/02/14/folytatodnak-a-szazezres-tuntetesek-mianmarban-pancelosok-jelentek-meg-rangun-utcain",
+        "h1": "Folytatódnak a százezres tüntetések Mianmarban, páncélosok jelentek meg Rangun utcáin",
+        "txtlength": 10437
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kozelet/2021/02/15/klubradiobolgar-gyorgy-orban-viktor/",
+        "h1": "Rosszul érezném magam, ha Orbán Viktor szeretne",
+        "txtlength": 10434
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/vilag/20210214_Koronavirus_oltas_NagyBritannia",
+        "h1": "Már több mint 15 millió oltást beadtak Nagy-Britanniában",
+        "txtlength": 9741
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20210215_muller_cecilia_szel_bernadett",
+        "h1": "Müller Cecília gyakorlatilag használhatatlan járványadatokat küldött Szél Bernadettnek",
+        "txtlength": 9216
+    },
+    {
+        "hostname": "mindmegette.hu",
         "pagelink": "https://www.mindmegette.hu/csontleves-majgaluskaval-ahogy-gaspar-bea-kesziti.recept",
         "h1": "CSONTLEVES MÁJGALUSKÁVAL, AHOGY GÁSPÁR BEA KÉSZÍTI",
         "txtlength": 9768
