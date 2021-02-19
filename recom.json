@@ -1,6 +1,204 @@
 [
     {
         "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/egyszeru-citromos-muffin.recept",
+        "h1": "EGYSZERŰ CITROMOS MUFFIN",
+        "txtlength": 9240
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/zoldfuszeres-pulykamell.recept",
+        "h1": "ZÖLDFŰSZERES PULYKAMELL",
+        "txtlength": 9092
+    },
+    {
+        "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/tejszines-zellerkremleves",
+        "h1": "Tejszínes zellerkrémleves",
+        "txtlength": 9023
+    },
+    {
+        "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/kokuszgolyo-legegyszerubben",
+        "h1": "Kókuszgolyó a legegyszerűbben",
+        "txtlength": 8720
+    },
+    {
+        "hostname": "kiszamolo.hu",
+        "pagelink": "https://kiszamolo.hu/transferwise-ceges-szamla-sporolj-tizezreket-belfoldon-is/",
+        "h1": "Transferwise céges számla: spórolj tízezreket belföldön is",
+        "txtlength": 30063
+    },
+    {
+        "hostname": "alapblog.hu",
+        "pagelink": "https://alapblog.hu/bitcoin-utan-longevity-lufik-vagy-a-nagyon-hosszu-elet-titkai/",
+        "h1": "BITCOIN UTÁN LONGEVITY. LUFIK VAGY A NAGYON HOSSZÚ ÉLET TITKAI?",
+        "txtlength": 10207
+    },
+    {
+        "hostname": "kulturpart.hu",
+        "pagelink": "https://kulturpart.hu/2021/02/15/online_fesztivallal_koszontik_kurtag_gyorgyot",
+        "h1": "ONLINE FESZTIVÁLLAL KÖSZÖNTIK KURTÁG GYÖRGYÖT",
+        "txtlength": 9458
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/vallalkozas/megszolalt-az-rtl-klub-legujabb-capaja-nem-voltam-celeb-es-nem-is-akarok-azza-valni.1110942.html",
+        "h1": "Megszólalt az RTL Klub legújabb Cápája: nem voltam celeb, és nem is akarok azzá válni",
+        "txtlength": 29639
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vilag/20210218/super-mario-kicsoda-valojaban-az-uj-olasz-miniszterelnok/",
+        "h1": "Super Mario: kicsoda valójában az új olasz miniszterelnök?",
+        "txtlength": 25721
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/uzlet/20210219/uj-sztarja-sem-tudta-megmenteni-a-molt-betettek-a-korlatozasok-470556",
+        "h1": "Új sztárja sem tudta megmenteni a Molt, betettek a korlátozások",
+        "txtlength": 21961
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/kapcsolat/rasko-eszter-interju/",
+        "h1": "Ráskó Eszter: „A nőt mindig a férfi fényében szoktuk vizsgálni” - Szily Nóra interjúja",
+        "txtlength": 19413
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210219_orban_viktor",
+        "h1": "Orbán Viktor: Egy veszélyes pillanatban vagyunk",
+        "txtlength": 19385
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/kozelet/20210219/a-fideszes-telepulesek-kozel-500-szor-tobb-turisztikai-tamogatast-kaptak-mint-az-ellenzekiek/",
+        "h1": "A fideszes települések közel 500-ször több turisztikai támogatást kaptak, mint az ellenzékiek",
+        "txtlength": 18477
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210218_karacsony_hipa_fovaros_bkik",
+        "h1": "BKIK: Aki teheti, a bajba jutott vállalkozásokat segítse!",
+        "txtlength": 17359
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210219_allatvedelem",
+        "h1": "A természet- és az állatvédelem kéz a kézben jár – Ovádi Péter a Mandinernek",
+        "txtlength": 17018
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/testem/alap-anyagcseret-befolyasolo-tenyezok/",
+        "h1": "Ezek az alapanyagcserét befolyásoló legfontosabb tényezők",
+        "txtlength": 15658
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/ingatlan/20210219/felulmulta-a-varakozasokat-a-logisztikai-ingatlanok-piacanak-teljesitmenye-470476",
+        "h1": "Felülmúlta a várakozásokat a logisztikai ingatlanok piacának teljesítménye",
+        "txtlength": 14616
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/global/20210219/hat-nagy-veszely-leselkedik-a-vilagra-a-koronavirus-semmi-ezekhez-kepest-470504",
+        "h1": "Hat nagy veszély leselkedik a világra, a koronavírus semmi ezekhez képest",
+        "txtlength": 12916
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/vasarlas/igazsagot-a-kombiknak-teszten-a-volvo-ami-lenyom-barmilyen-suv-ot.1110888.html",
+        "h1": "Igazságot a kombiknak: teszten a Volvo, ami lenyom bármilyen SUV-ot",
+        "txtlength": 12053
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2021/02/19/sikeres-volt-az-eddigi-legnehezebb-landolas-a-marson-megerkezett-a-perseverance",
+        "h1": "SIKERES VOLT AZ EDDIGI LEGNEHEZEBB LANDOLÁS A MARSON, MEGÉRKEZETT A PERSEVERANCE",
+        "txtlength": 11833
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kozelet/2021/02/18/laposa-bence-interju-badacsony-magyar-turisztikai-ugynokseg-kisfaludy-program-egyedi-tamogatas/",
+        "h1": "Laposa Bence: Nincs sem palotám, sem Ferrarim",
+        "txtlength": 20831
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/gazdasag/2021/02/19/rogan-obrusanszki-foldvasarlas-szerzodes-elkaszalas-kormanyhivatal-formai-okok",
+        "h1": "Kanyargós út vezetett Rogán Barbara földvásárlási tervének elkaszálásáig",
+        "txtlength": 19744
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/belfold/2021/02/18/hableany-targyalas-szakertok",
+        "h1": "Szakértők: Ha az előírt létszámmal fut ki a Hableány, hamarabb érzékelhették volna a Viking Sigyn közeledését",
+        "txtlength": 18053
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/velemeny/2021/02/18/a-felfoghatatlan-kosa-ugy-es-orban-dilemmaja",
+        "h1": "A felfoghatatlan Kósa-ügy és Orbán dilemmája",
+        "txtlength": 16821
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kultura/2021/02/18/gellerthegy-utca-naphegy-ismeretlen-budapest-irgalmasrend-irgalmas-noverek-iskola-cordia-ingatlanfejlesztes-naphegy12-tarsashaz/",
+        "h1": "Eltűnik az irgalmasrendiek budai iskolája, negyvennégy lakás kerül a helyére",
+        "txtlength": 16233
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/operativ-torzs-novekedo-jarvanyadatok/gt9ym0y",
+        "h1": "Müller Cecília: a harmadik hullám elkezdődött",
+        "txtlength": 14610
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/eurologus/20210218_jogallamisag_Magyarorszag_europai_birosag_kotelezettsegszeges",
+        "h1": "Eljárást indít Brüsszel Magyarország ellen, mert a kormány nem tett eleget egy bírósági ítéletnek",
+        "txtlength": 13285
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/politika/szajer-jozsef-manzheley-orgia-kapcsolat/y0szx79",
+        "h1": "Nincs harag: Szájer Józseffel tartják a kapcsolatot, állítja a brüsszeli orgia szervezője – Manzheley szerint súlyos teher szakadt le a politikus válláról",
+        "txtlength": 13236
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kozelet/2021/02/19/oltasi-sorrend-haziorvos-idosek-oltasa-vakcina/",
+        "h1": "Hogyan fordulhat elő, hogy a 41 éves megkapta az oltást, a 86 éves még nem?",
+        "txtlength": 12738
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20210218_Mar_nem_kerulnenek_bortonbe_azok_akik_Szajernel_es_Torgyannal_robbantottak",
+        "h1": "Már nem kerülnének börtönbe azok, akik Szájernél és Torgyánnál robbantottak",
+        "txtlength": 12588
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/02/18/egyszerre-erkezett-meg-a-harmadik-hullam-es-a-nemzeti-konzultacio",
+        "h1": "Egyszerre érkezett meg a harmadik hullám és a nemzeti konzultáció",
+        "txtlength": 11599
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20210219_Orban_kossuth",
+        "h1": "Orbán: 3093 új fertőzöttet találtak, veszélyes pillanatban vagyunk",
+        "txtlength": 10990
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/02/19/feheroroszorszagban-bortonbuntetesre-iteltek-ket-ujsagirot-amiert-tudositottak-a-lukasenka-elleni-tuntetesekrol",
+        "h1": "Fehéroroszországban börtönbüntetésre ítéltek két újságírót, amiért tudósítottak a Lukasenka elleni tüntetésekről",
+        "txtlength": 9697
+    },
+    {
+        "hostname": "mindmegette.hu",
         "pagelink": "https://www.mindmegette.hu/gaspar-bea-csirkeporkolt-nokedlivel.recept",
         "h1": "CSIRKEPÖRKÖLT NOKEDLIVEL, AHOGY GÁSPÁR BEA KÉSZÍTI",
         "txtlength": 9693
