@@ -1,5 +1,191 @@
 [
     {
+        "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/egyszeru-piskotatekercs",
+        "h1": "Egyszerű piskótatekercs",
+        "txtlength": 9998
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/a-legpuhabb-piskota-alaprecept.recept",
+        "h1": "A LEGPUHÁBB PISKÓTA ALAPRECEPT",
+        "txtlength": 8719
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/serpenyos-pizza.recept",
+        "h1": "SERPENYŐS PIZZA",
+        "txtlength": 8283
+    },
+    {
+        "hostname": "hataratkelo.blog.hu",
+        "pagelink": "https://hataratkelo.blog.hu/2021/02/17/osztrak_szigor_de_enyhitenek-e",
+        "h1": "Osztrák szigor, de enyhítenek-e?",
+        "txtlength": 24336
+    },
+    {
+        "hostname": "kulturpart.hu",
+        "pagelink": "https://kulturpart.hu/2021/02/13/10_konyv_valentin_napra",
+        "h1": "TÍZ KÖNYV VALENTIN-NAPRA",
+        "txtlength": 14921
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20210219/egyre-erosebben-erinti-a-harmadik-hullam-magyarorszagot-de-keszul-a-nyitasra-470628",
+        "h1": "Egyre erősebben érinti a harmadik hullám Magyarországot - de készül a nyitásra ",
+        "txtlength": 29513
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210210_a_stafetat_nem_adom_at_csak_ha_elveszik",
+        "h1": "„A stafétát nem adom át, csak ha elveszik” – Tátrai Tibor a Mandinernek",
+        "txtlength": 24997
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2021/02/20/tobb-bizonytalansagot-a-kozbeszedbe",
+        "h1": "TÖBB BIZONYTALANSÁGOT A KÖZBESZÉDBE!",
+        "txtlength": 24152
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210217_leisztinger_tamas_portre",
+        "h1": "A sakkozó oligarcha – Leisztinger Tamás portréja",
+        "txtlength": 22429
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210219_vakcinaof",
+        "h1": "Fogy a türelem, támad a brit mutáns, itt a harmadik hullám – heti vakcinaösszefoglaló",
+        "txtlength": 22194
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/uzlet/20210219/johet-a-kovetkezo-nagy-kor-felfele-a-tozsdeken-470570",
+        "h1": "Jöhet a következő nagy kör felfelé a tőzsdéken? ",
+        "txtlength": 20347
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/podcast/20210220/a-magyar-varosok-haromnegyede-zsugorodik-es-alig-tud-tenni-valamit-ez-ellen/",
+        "h1": "A magyar városok háromnegyede zsugorodik, és alig tud tenni valamit ez ellen",
+        "txtlength": 18326
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/kapcsolat/kitagadas-a-csaladbol/",
+        "h1": "\"Mintha nem is léteznék\" - Túl lehet-e lépni azon, ha valakit kitaszít a családja?",
+        "txtlength": 17751
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/uzlet/20210219/a-gamestop-csucsan-egyetlen-bizarr-elon-musk-tweetnyire-volt-a-penzugyi-szisztema-az-osszecsuklastol-470610",
+        "h1": "A Gamestop csúcsán egyetlen bizarr Elon Musk-tweetnyire volt a pénzügyi szisztéma az összecsuklástól?",
+        "txtlength": 17713
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vilag/20210219/megiscsak-lehet-ebbol-kulfoldi-nyaralas-iden/",
+        "h1": "Mégiscsak lehet ebből külföldi nyaralás idén",
+        "txtlength": 16287
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/vasarlas/kiderult-az-aruhazi-huspultok-titka-ezzel-etetnek-minket-a-boltok.1111076.html",
+        "h1": "Kiderült az áruházi húspultok titka: ezzel etetnek minket a boltok",
+        "txtlength": 11000
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/biztositas/betorok-jarjak-budapest-utcait-erre-portyaztak-november-ota.1111034.html",
+        "h1": "Betörők járják Budapest utcáit: erre portyáztak november óta",
+        "txtlength": 10304
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/lajfhekk/etelmergezes-fertozesek-okai/",
+        "h1": "5 példa, hogy a súlyos ételmérgezés okai nem mindig olyan nyilvánvalóak",
+        "txtlength": 8899
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/koronavirus-magyarorszag-2995-fertozott-107-elhunyt/67xz4df",
+        "h1": "Friss napi adatok: tovább nőtt a fertőzöttek száma, ennyi halálos áldozatot követelt a vírus Magyarországon",
+        "txtlength": 18895
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kulfold/2021/02/19/texas-usa-hideg-vihar-havazas-aramkimaradas-vizhiany-houston",
+        "h1": "74 óra áram, fűtés és csapvíz nélkül a texasi extrém hidegben",
+        "txtlength": 18095
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kulfold/2021/02/20/europai-unio-vakcinakereskedelem-koronavirus-covid-19-elosztas-oltasok/",
+        "h1": "Magyarország szabadon különcködhet a vakcinákkal, de nem véletlen, hogy az orosz oltóanyagot még nem hagyták jóvá Európában",
+        "txtlength": 17658
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://rangado.24.hu/magyar_foci/2021/02/20/mol-fehervar-fc-marton-gabor-edzovaltas/",
+        "h1": "Ha a Vidi tényleg be akarja fogni a Fradit, ideje lenne tanulnia tőle",
+        "txtlength": 15979
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/szorakozas/2021/02/20/pilis-tura-budapest-nagy-kevely",
+        "h1": "A főváros felett kevélyen terpeszkedő hegy titkai",
+        "txtlength": 14287
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/gazdasag/20210219_mkik_szerzodesek_kamara",
+        "h1": "VIP repülőjegyek Sao Paulóba, tízmilliók “mentális felkészítésre”: megszereztük az MKIK szerződéseit",
+        "txtlength": 14044
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20210219_harmadikhullam_koronavirus_brit_varians",
+        "h1": "Az egészségügy már érzi, mekkora terhet róhat rá a járvány harmadik hulláma",
+        "txtlength": 13309
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/kinai-vakcina-sinopharm-alkalmazasi-eloiras-mellekhatas/vgmy4xl",
+        "h1": "A jövő héttől megkezdődhet az oltás a kínai vakcinával is, nyilvánosságra hozták az alkalmazási leírását",
+        "txtlength": 13294
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/belfold/2021/02/19/oriszentpeter-tervezett-mol-olajkut-peticio-or-zoltan-orseg-szenhidrogen-termeszetvedelem-nemzeti-park",
+        "h1": "Az Őrség csendje is lehet ugyanolyan közérdek, mint egy földgázkút forrása",
+        "txtlength": 12470
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/02/19/harmadik-hullam-casino-twist",
+        "h1": "Harmadik hullám, casino twist",
+        "txtlength": 12287
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/tudomany/20210220_Az_a_legjobb_oltas_amelyik_a_vallamban_van",
+        "h1": "„Az a legjobb oltás, amelyik a vállamban van“",
+        "txtlength": 11957
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/02/19/novak-katalin-ki-merem-jelenteni-hogy-a-homoszexualisok-orokbefogadasanak-kerdese-pillanatnyilag-nem-szerepel-a-magyar-emberek-elso-szaz-problemaja-kozott",
+        "h1": "Novák Katalin: \"Ki merem jelenteni, hogy a homoszexuálisok örökbefogadásának kérdése pillanatnyilag nem szerepel a magyar emberek első száz problémája között\"",
+        "txtlength": 11878
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kultura/2021/02/19/ferenc-jozsef-hid-szabadsag-ezust-ezust-szegecs-ismeretlen-budapest-epiteszettortenet/",
+        "h1": "Ferenc József ütötte be a Szabadság híd utolsó, színezüst szegecsét",
+        "txtlength": 11513
+    },
+    {
         "hostname": "mindmegette.hu",
         "pagelink": "https://www.mindmegette.hu/egyszeru-citromos-muffin.recept",
         "h1": "EGYSZERŰ CITROMOS MUFFIN",
