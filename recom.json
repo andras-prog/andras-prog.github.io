@@ -1,6 +1,198 @@
 [
     {
         "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/paradicsomos-kaposzta",
+        "h1": "Paradicsomos káposzta",
+        "txtlength": 9114
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/baconcsomok-fuszeres-martogatossal.recept",
+        "h1": "BACONCSOMÓK FŰSZERES MÁRTOGATÓSSAL",
+        "txtlength": 8841
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/cukkinis-sajtos-soros-kenyer.recept",
+        "h1": "SAJTOS CUKKINIKENYÉR",
+        "txtlength": 8182
+    },
+    {
+        "hostname": "kiszamolo.hu",
+        "pagelink": "https://kiszamolo.hu/kuponfuzet-epitkezoknek-lakasfelujitoknak/",
+        "h1": "Kuponfüzet építkezőknek, lakásfelújítóknak",
+        "txtlength": 35471
+    },
+    {
+        "hostname": "kulturpart.hu",
+        "pagelink": "https://kulturpart.blog.hu/2021/02/21/2021_szinei_munkacim",
+        "h1": "SZÜRKE ÉS SÁRGA LESZ AZ ÉVÜNK",
+        "txtlength": 13633
+    },
+    {
+        "hostname": "alapblog.hu",
+        "pagelink": "https://alapblog.hu/a-varosi-periferia-felemelkedese/",
+        "h1": "A VÁROSI PERIFÉRIA FELEMELKEDÉSE",
+        "txtlength": 6067
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2021/02/21/100-erv-a-dogeves-mellett-100-erv-ellene",
+        "h1": "100 ÉRV A DÖGEVÉS MELLETT, 100 ÉRV ELLENE",
+        "txtlength": 25748
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210218_afrika_mukincs_gyarmatositas_franciaorszag",
+        "h1": "Vissza Afrikába? Műkincsek tömegét vinnék vissza a fekete kontinensre",
+        "txtlength": 23418
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210203_lendulet_es_kozegellenallas_nagykanizsan",
+        "h1": "Falusi focicsapatot emlegetve kritizálja a helyi Fideszt a kanizsai baloldal",
+        "txtlength": 21728
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vilag/20210221/a-texasi-kozmukatasztrofa-mutatja-milyen-sulyos-dolgokra-kell-keszulni-a-klimavaltozas-miatt/",
+        "h1": "A texasi közműkatasztrófa mutatja, milyen súlyos dolgokra kell készülni a klímaváltozás miatt",
+        "txtlength": 21679
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/global/20210220/mi-lesz-ha-vlagyimir-putyinnak-at-kell-adnia-oroszorszagot-mar-mozgolodnak-az-eros-emberek-470666",
+        "h1": "Mi lesz, ha Vlagyimir Putyinnak át kell adnia Oroszországot? - Már mozgolódnak az erős emberek",
+        "txtlength": 19499
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/global/20210219/felcsillant-a-remeny-hogy-visszakapjuk-a-regi-eletunk-az-egesz-vilag-ennek-az-orszagnak-szorit-most-470692",
+        "h1": "Felcsillant a remény, hogy visszakapjuk a régi életünk: az egész világ ennek az országnak szorít most",
+        "txtlength": 16800
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/elet/20210220/meg-mindig-a-magyar-a-legboldogtalanabb-visegradi-nemzet-de-a-2010-es-evekben-itt-volt-a-legnagyobb-javulas/",
+        "h1": "Még mindig a magyar a legboldogtalanabb visegrádi nemzet, de a 2010-es években itt volt a legnagyobb javulás",
+        "txtlength": 15731
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210221_valsagban_a_mazsihisz_szakad_a_rabbikar",
+        "h1": "Egyre súlyosabb viták a Mazsihiszben, szakad a rabbikar",
+        "txtlength": 15474
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/ingatlan/20210220/meg-hosszabb-lesz-a-pandemia-visszahuzo-hatasa-ugy-tunik-nem-indul-hotelfejlesztes-ebben-az-evben-469560",
+        "h1": "Még hosszabb lesz a pandémia visszahúzó hatása: úgy tűnik nem indul hotelfejlesztés ebben az évben",
+        "txtlength": 14374
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/vasarlas/itt-az-igazsag-a-boltok-ellen-inditott-haborurol-ez-lehet-az-aldi-lidl-tesco-csodafegyvere.1111114.html",
+        "h1": "Itt az igazság a boltok ellen indított háborúról: ez lehet az Aldi, Lidl, Tesco csodafegyvere",
+        "txtlength": 11483
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/egeszseg/basalioma-tunete/",
+        "h1": "6 ok, ami növeli a bőrrák kialakulását: a basaliomát nehéz észrevenni",
+        "txtlength": 10565
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/vallalkozas/milyen-lehetosegeink-vannak-a-forgoeszkozunk-hatekony-menedzselesere.1110768.html",
+        "h1": "Milyen lehetőségeink vannak a forgóeszközünk hatékony menedzselésére?",
+        "txtlength": 9969
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/lajfhekk/milyen-fold-kell-a-szobanovenyeknek/",
+        "h1": "Szakértő mondja el, milyen föld kell a szobanövényeidnek",
+        "txtlength": 5927
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kozelet/2021/02/21/vakcina-oltas-csaladi-konfliktus/",
+        "h1": "Komoly feszültséget okozhat, ha a családtagok eltérően gondolkodnak az oltásról",
+        "txtlength": 24811
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kulfold/2021/02/21/sziget-tenger-norveg-matine-konyvajanlo/",
+        "h1": "Tök egyedül lakik egy szigeten egy norvég nő",
+        "txtlength": 22559
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kult/2021/02/20/joss-whedon",
+        "h1": "Feministaként ünnepelte mindenki, most a saját színésznői rombolják le a karrierjét",
+        "txtlength": 21695
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/koronavirus-feertozottek-halalos-aldozatok-magyarorszag/sez0j08",
+        "h1": "Csaknem 3000 új koronavírus-fertőzöttet azonosítottak hazánkban, a halálos áldozatok száma is tovább emelkedett",
+        "txtlength": 18584
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kultura/2021/02/20/tortenelmi-film-korhuseg-diszlettervezo-latvany-heti-fortepan/",
+        "h1": "Így tolják a vászonra a korhűséget – archív fotók segítik a történelmi filmek készítőit",
+        "txtlength": 17767
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/sport/2021/02/20/sport-forma-1-red-bull-racing-red-bull-sergio-perez-alex-albon-pierre-gasly-danyiil-kvjat",
+        "h1": "Hogyan torpanhatott meg az F1 legjobb pilótaképzője?",
+        "txtlength": 16255
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/sport/2021/02/20/horvath-ferenc-palyafutas-ftc-genk-maccabi-valogatott-golok",
+        "h1": "Kiragasztottam a bankkártyát az ajtóra, hogy tudjam, miért vagyok ott",
+        "txtlength": 15562
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/gazdasag/20210221_Es_akkor_gdp_covid_mkik",
+        "h1": "És akkor a bukást is eladta sikerként a kormány",
+        "txtlength": 14516
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/maszk-erotikus-bolt-vasarlok-novekedes/x8ddgrz",
+        "h1": "Nincs gátlás a maszk alatt: egyre többen merészkednek be az erotikus boltokba – Meglepő, kiknek az aránya ugrott meg látványosan",
+        "txtlength": 14049
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/02/20/emlekhelyet-avatnak-es-a-koronavirus-aldozataira-emlekeznek-olaszorszagban",
+        "h1": "Emlékhelyet avatnak és a koronavírus áldozataira emlékeznek Olaszországban",
+        "txtlength": 12211
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/02/20/tuzet-nyitottak-a-mianmari-rendorok-a-tuntetokre",
+        "h1": "Tüzet nyitottak a mianmari rendőrök a tüntetőkre",
+        "txtlength": 10164
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/cegauto/20210115_BMW_2es_Gran_Coupe_teszt_csak_ne_ulj_hatra",
+        "h1": "BMW 2-es Gran Coupé teszt: minden jó, csak ne kerülj hátra",
+        "txtlength": 9473
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/tudomany/20210221_kroger_health_gauss_surgical_okostelefon_covid_antigen_gyorsteszt",
+        "h1": "Engedélyezésre vár: telefon segítené a Covid-tesztelést",
+        "txtlength": 9398
+    },
+    {
+        "hostname": "nosalty.hu",
         "pagelink": "https://www.nosalty.hu/recept/egyszeru-piskotatekercs",
         "h1": "Egyszerű piskótatekercs",
         "txtlength": 9998
