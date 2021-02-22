@@ -1,5 +1,197 @@
 [
     {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/klasszikus-paradicsomleves-betutesztaval.recept",
+        "h1": "KLASSZIKUS PARADICSOMLEVES BETŰTÉSZTÁVAL",
+        "txtlength": 9049
+    },
+    {
+        "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/tartarmartas",
+        "h1": "Tartármártás",
+        "txtlength": 8676
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/egyszeru-krumplis-pogacsa.recept",
+        "h1": "EGYSZERŰ KRUMPLIS POGÁCSA",
+        "txtlength": 8230
+    },
+    {
+        "hostname": "hataratkelo.blog.hu",
+        "pagelink": "https://hataratkelo.blog.hu/2021/02/19/a_jo_borrol_sorrol_tudod_mindezekrol_247",
+        "h1": "A jó borról, sörről, tudod, mindezekről",
+        "txtlength": 23925
+    },
+    {
+        "hostname": "hafr.hvgblog.hu",
+        "pagelink": "https://hafr.hvgblog.hu/2020/12/04/a_nemetek_szerepe_az_orban-rezsim_eddigi_stabilitasaban/",
+        "h1": "A németek szerepe az Orbán-rezsim eddigi stabilitásában",
+        "txtlength": 9074
+    },
+    {
+        "hostname": "cineartstudio.blog.hu",
+        "pagelink": "https://cineartstudio.blog.hu/2021/02/16/horvat_lili_es_a_criterion_collection",
+        "h1": "Horvát Lili is Criterion listát írt",
+        "txtlength": 7384
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210217_botrany_hos",
+        "h1": "Botrány, hős – Czeglédy Csaba portréja",
+        "txtlength": 27849
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210217_1956_ota_nem_tapasztalt_lelki_krizisben_a_magyarok",
+        "h1": "1956 óta nem tapasztalt lelki krízisben a magyarok",
+        "txtlength": 22273
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vallalat/20210222/elso-szamitogepuket-kispolszkival-hoztak-ma-mar-okosautok-kommunikaciojan-dolgoznak/",
+        "h1": "Első számítógépüket Kispolszkival hozták, ma már okosautók kommunikációján dolgoznak",
+        "txtlength": 22242
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/global/20210221/az-egesz-vilag-arra-kivancsi-honnan-ered-a-koronavirus-kijozanito-lehet-a-jelentes-amelytol-a-valaszt-varjuk-470800",
+        "h1": "Az egész világ arra kíváncsi, honnan ered a koronavírus - Kijózanító lehet a jelentés, amelytől a választ várjuk",
+        "txtlength": 21834
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/kapcsolat/balsai-moni-interju/",
+        "h1": "Balsai Móni: „A női létezésemben számomra a legfontosabb, hogy anya lehetek” - Szily Nóra interjúja",
+        "txtlength": 18456
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2021/02/19/a-mutansok-gyorsabbak-mint-a-vakcinak-itt-a-jarvany-harmadik-hullama",
+        "h1": "A MUTÁNSOK GYORSABBAK, MINT A VAKCINÁK: ITT A JÁRVÁNY HARMADIK HULLÁMA",
+        "txtlength": 18019
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/ingatlan/20210221/ezert-tolhattak-ki-az-uj-lakasok-energiahatekonysagi-szigoritasat-470052",
+        "h1": "Ezért tolhatták ki az új lakások energiahatékonysági szigorítását",
+        "txtlength": 17197
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210221_bejelentettek_a_momentum_miniszterelnok_jeloltjet",
+        "h1": "Bejelentették a Momentum miniszterelnök-jelöltjét",
+        "txtlength": 16322
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/adat/20210221/kello-lokessel-a-legszegenyebbek-is-kitorhetnek-a-szegenysegi-csapdabol/",
+        "h1": "Kellő lökéssel a legszegényebbek is kitörhetnek a szegénységi csapdából",
+        "txtlength": 14739
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/hitel/igy-lesz-remalom-a-lakasfelujitasbol-te-ne-kovesd-el-ezeket-a-hibakat.1111180.html",
+        "h1": "Így lesz rémálom a lakásfelújításból: te ne kövesd el ezeket a hibákat",
+        "txtlength": 14166
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20210222/az-egesz-vilag-az-inflaciotol-retteg-de-miert-nem-lodultak-meg-az-arak-magyarorszagon-470652",
+        "h1": "Az egész világ az inflációtól retteg - De miért nem lódultak meg az árak Magyarországon?",
+        "txtlength": 13481
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/otthon/fajni-fog-a-marcius-azoknak-akik-kertes-hazban-laknak-erkeznek-a-gigabirsagok.1111166.html",
+        "h1": "Fájni fog a március azoknak, akik kertes házban laknak: érkeznek a gigabírságok",
+        "txtlength": 11238
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/lajfhekk/kutya-rangatozik-almaban-fut/",
+        "h1": "Tényleg fut álmában a kutya, amikor úgy rángatózik?",
+        "txtlength": 5698
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/belfold/2021/02/22/interju-fekete-gyor-andras-momentum-miniszterelnok-jelolt-elovalasztas-elszamoltatas",
+        "h1": "Fekete-Győr András: Orbán, Rogán, Mészáros bűnöző, bíróság előtt van a helyük",
+        "txtlength": 29780
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kulfold/2021/02/21/belarusz-futball-diktatura-megtorlas-lukasenka/",
+        "h1": "„Nagy kő esett le a szívemről, amikor azt mondta, megtalálták a férjem. Aztán hozzátette: felakasztva”",
+        "txtlength": 20274
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kulfold/2021/02/21/tajvan-autoipar-chiphiany-chip-chipgyartas-tsmc-kina-nemetorszag-audi-volkswagen",
+        "h1": "Az autóipar válsága gazdasági nagyhatalmat csinált egy 23 milliós szigetből",
+        "txtlength": 19242
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20210222_miniszterek_kormany_lista_fizetesek",
+        "h1": "Évente több mint 5 milliárdba kerül a tíz év alatt kétharmadával hizlalt kormányzati vezérkar",
+        "txtlength": 14706
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kult/2021/02/21/hogyan-lesz-egy-megunt-teli-zoldseg-ujra-nagyon-meno",
+        "h1": "Hogyan lesz egy megunt téli zöldség újra nagyon menő?",
+        "txtlength": 14473
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/elet/20210221_Ahol_a_kokaincsempeszet_helyettesiti_a_diakhitelt",
+        "h1": "Ahol a kokaincsempészet helyettesíti a diákhitelt",
+        "txtlength": 13885
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kulfold/2021/02/22/koronavirus-jarvany-izrael-oltasi-terv-megakadt-oltasi-igazolas/",
+        "h1": "Izraelben alábbhagyott az oltási kedv, úgyhogy élesítik az védettségi igazolást",
+        "txtlength": 13451
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/sztarvilag/kultura/szent-istvan-terem-budavari-palota/8zptbgk",
+        "h1": "Ekkor lesz látogatható az újjászületett Szent István-terem a Budavári Palotában",
+        "txtlength": 12651
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/fejszamolasban-verhetetlen-benett-matekzseni/c2xttet",
+        "h1": "Fejszámolásban verhetetlen a 7 éves matekzseni: néhány hete egy nemzetközi bajnokságot is megnyert – videó",
+        "txtlength": 12096
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/02/21/enyhen-er-veget-a-tel",
+        "h1": "Enyhén ér véget a tél",
+        "txtlength": 11052
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/02/22/a-szurkolok-kifutyultek-a-vedooltast-az-australian-open-dijatadojan",
+        "h1": "A szurkolók kifütyülték a védőoltást az Australian Open díjátadóján",
+        "txtlength": 10356
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20210221_Szputnyik_V_oltas_vakcina_koronavirus",
+        "h1": "„Amikor felhívtak, hogy volna lehetőség a Szputnyikra, csak pár perc gondolkodási időt kértem”",
+        "txtlength": 9971
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2021/02/21/domotor-csaba-nemzeti-konzultacio-nyitas/",
+        "h1": "Az államtitkár szerint a kormány körbebástyázta a munkahelyeket",
+        "txtlength": 9378
+    },
+    {
         "hostname": "nosalty.hu",
         "pagelink": "https://www.nosalty.hu/recept/paradicsomos-kaposzta",
         "h1": "Paradicsomos káposzta",
