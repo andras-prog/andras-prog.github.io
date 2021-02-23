@@ -1,6 +1,192 @@
 [
     {
         "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/narancsos-kacsasult-paprikas-bulgurral.recept",
+        "h1": "NARANCSOS KACSASÜLT PAPRIKÁS BULGURRAL",
+        "txtlength": 9915
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/lecsos-sertesszuz-fott-petrezselymes-burgonyaval.recept",
+        "h1": "LECSÓS SERTÉSSZŰZ FŐTT PETREZSELYMES BURGONYÁVAL",
+        "txtlength": 9502
+    },
+    {
+        "hostname": "kulturpart.hu",
+        "pagelink": "https://kulturpart.hu/2021/02/16/var_az_online_tulvilag",
+        "h1": "VÁR AZ ONLINE TÚLVILÁG",
+        "txtlength": 10503
+    },
+    {
+        "hostname": "alapblog.hu",
+        "pagelink": "https://alapblog.hu/egy-nem-letezo-tortenet-burleszkje/",
+        "h1": "EGY NEM LÉTEZŐ TÖRTÉNET BURLESZKJE",
+        "txtlength": 7212
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/karrier/ket-egyetemet-otthagyva-lett-sztarfesto-nemes-marton-a-kepei-mar-milliokat-ernek.1111182.html",
+        "h1": "Két egyetemet otthagyva lett elismert festő Nemes Márton: a képei már milliókat érnek",
+        "txtlength": 38791
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vilag/20210222/a-techszektor-maga-ala-gyurne-de-minimum-megcsapolna-az-autoipart/",
+        "h1": "A techszektor maga alá gyűrné, de minimum megcsapolná az autóipart",
+        "txtlength": 23571
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210218_ausztralia_facebook",
+        "h1": "Kitört a nagy tech háború a Facebook és Ausztrália között",
+        "txtlength": 17304
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vallalat/20210223/a-nagy-nemet-autogyartok-nyertek-az-unios-kibocsatasi-buntetesrendszerrel/",
+        "h1": "A nagy német autógyártók nyertek az uniós kibocsátási büntetésrendszerrel",
+        "txtlength": 17028
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210222_orban_viktor_a_kozpontositott_vakcinabeszerzes_rossz_dontes_volt",
+        "h1": "Orbán Viktor: A központosított vakcinabeszerzés rossz döntés volt",
+        "txtlength": 16567
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210222_vidnyanszky_sikertelen_a_liberalis_tamadas",
+        "h1": "Vidnyánszky: Előre megmondtam, fájó lesz a kijózanodás",
+        "txtlength": 15325
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20210223/veszelyes-pillanatban-dont-orban-viktor-a-kijarasi-tilalomrol-471030",
+        "h1": "Veszélyes pillanatban dönt Orbán Viktor a kijárási tilalomról",
+        "txtlength": 14478
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20210223/itt-a-harmadik-hullam-kihirdettek-a-veszelyhelyzetet-magyarorszagon-471042",
+        "h1": "Itt a harmadik hullám, kihirdették a veszélyhelyzetet Magyarországon ",
+        "txtlength": 13133
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/ingatlan/20210223/tegyuk-rendbe-tenyleg-1-millio-felett-van-mar-az-uj-lakasok-negyzetmeterara-budapesten-470704",
+        "h1": "Tegyük rendbe! - Tényleg 1 millió felett van már az új lakások négyzetméterára Budapesten?",
+        "txtlength": 13025
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/szuloseg/apa-gyerek-kapcsolat/",
+        "h1": "Ezért olyan fontos része az apa-gyerek kapcsolat a családnak",
+        "txtlength": 12815
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/testem/napi-sulyingadozas-okai/",
+        "h1": "Miért vagyok 3 kilóval több, mint tegnap? A napi súlyingadozás okait mutatjuk",
+        "txtlength": 12749
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/biztositas/szavaztak-a-kijarasi-tilalom-eltorleserol-tobb-jogot-kaphatnak-a-beoltottak.1111296.html?r=melleklet",
+        "h1": "Szavaztak a kijárási tilalom eltörléséről: több jogot kaphatnak a beoltottak?",
+        "txtlength": 12683
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/recept/mi-az-a-fermentalas/",
+        "h1": "Lehet, hogy már fermentáltál, csak nem tudsz róla? Ennyi mindent lehet így készíteni",
+        "txtlength": 11708
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2021/02/22/a-mesterseges-intelligencianak-kiemelt-szerep-jut-a-koronavirus-elleni-haboruban",
+        "h1": "A MESTERSÉGES INTELLIGENCIÁNAK KIEMELT SZEREP JUT A KORONAVÍRUS ELLENI HÁBORÚBAN",
+        "txtlength": 11279
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/politika/koronavirus-rendkivuli-jogrend-felhatalmazas-veszelyhelyzet/f2l2lw7",
+        "h1": "Itt a veszélyhelyzetről szóló parlamenti szavazás eredménye – Heves vita után született meg a döntés",
+        "txtlength": 23616
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/elet/20210222_zaszlomuzeum_terkep_balogh_laszlo",
+        "h1": "„Több mint 200 ország zászlóját kellene elégetni” – Veszélyben a zászlómúzeum",
+        "txtlength": 17524
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/politika/parlamenti-vita-koronavirus-miatti-veszhelyzet-napirend-elott-kormany-ellenzek/98vs02b",
+        "h1": "A párizsi mögé bújó jobbikos, a nagycsoportos miniszterelnök és a két lábon járó „hű pénztárca”: kemény felszólalásokkal indult a mai parlamenti ülés",
+        "txtlength": 16997
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/elet/20210222_szfe_felmondo_oktatok_nyilatkozat",
+        "h1": "„Finoman fogalmazva is derékba töri az életünket ez a döntés” – nyilatkoztak az SZFE-n felmondó oktatók",
+        "txtlength": 15231
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/belfold/2021/02/23/zuglo-ellenzeki-elovalasztas-hadhazy-akos-momentum-toth-csaba-mszp",
+        "h1": "Karácsony Gergelyt is megsebezheti Hadházy zuglói indulása",
+        "txtlength": 14563
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/fn/gazdasag/2021/02/23/beremeles-2021-minimalber-cegek/",
+        "h1": "Ahol lesz béremelés, ott 5-6 százalékra is számíthatnak a dolgozók",
+        "txtlength": 13893
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20210222_Ellenzek_nelkul_is_megszavaztak_a_veszhelyzet_meghosszabbitasat",
+        "h1": "Ellenzék nélkül is megszavazták a veszélyhelyzet meghosszabbítását",
+        "txtlength": 13530
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/tech/2021/02/22/boeing-repulo-777-747-denver-meersen-usa-hollandia-hajtomu-meghibasodas",
+        "h1": "Volt egy nagy bumm, aztán egy olyan hang, amit nem akarsz hallani, amikor repülőn ülsz",
+        "txtlength": 11720
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/eszkombajn/2021/02/22/jack-unterweger-sorozatgyilkos-ausztria",
+        "h1": "Ölt, börtönbe került, híres lett, kiengedték, ölt tovább",
+        "txtlength": 11362
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kozelet/2021/02/23/simonka-gyorgy-fidesz-pusztaottlaka-ketharmados-szavazas-mentelmi-jog-polt-peter/",
+        "h1": "Veszélybe kerülhetnek a kétharmados szavazások – Simonka György érvei mentelmi joga mellett",
+        "txtlength": 11009
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kulfold/2021/02/23/nagy-britannia-koronavirus-jarvany-vakcina-lazitas-lockdown/",
+        "h1": "A brutális harmadik hullám után lazításba kezdenek a britek, de messze még a visszatérés a normalitáshoz",
+        "txtlength": 10893
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/02/22/futnak-fel-a-szamok",
+        "h1": "Futnak fel a számok",
+        "txtlength": 10196
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/02/22/az-eu-szankciokkal-bunteti-azokat-akik-felelosek-alekszej-navalnij-bebortonzeseert",
+        "h1": "Az EU szankciókkal bünteti azokat, akik felelősek Alekszej Navalnij bebörtönzéséért",
+        "txtlength": 9767
+    },
+    {
+        "hostname": "mindmegette.hu",
         "pagelink": "https://www.mindmegette.hu/klasszikus-paradicsomleves-betutesztaval.recept",
         "h1": "KLASSZIKUS PARADICSOMLEVES BETŰTÉSZTÁVAL",
         "txtlength": 9049
