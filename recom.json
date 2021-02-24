@@ -1,6 +1,186 @@
 [
     {
         "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/gyros-gorogosen-tzatzikivel.recept",
+        "h1": "GYROS GÖRÖGÖSEN TZATZIKIVEL",
+        "txtlength": 9768
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/sajtos-sonkas-rakott-csusza.recept",
+        "h1": " SAJTOS-SONKÁS RAKOTT CSUSZA",
+        "txtlength": 9698
+    },
+    {
+        "hostname": "kiszamolo.hu",
+        "pagelink": "https://kiszamolo.hu/lakas-arat-transferwisera/",
+        "h1": "Lakás árát Transferwisera?",
+        "txtlength": 29364
+    },
+    {
+        "hostname": "alapblog.hu",
+        "pagelink": "https://alapblog.hu/nem-politikusok-nem-mediavezerek-hanem-a-tokesek-tartjak-a-lelket-az-emberekben-a-jarvany-idejen/",
+        "h1": "NEM POLITIKUSOK, NEM MÉDIAVEZÉREK, HANEM A TŐKÉSEK TARTJÁK A LELKET AZ EMBEREKBEN (A JÁRVÁNY IDEJÉN)",
+        "txtlength": 14361
+    },
+    {
+        "hostname": "kulturpart.hu",
+        "pagelink": "https://kulturpart.blog.hu/2021/02/23/hullasapadt_holdfenyben_doglik_meg_a_fiatalsagunk",
+        "h1": "BÖLCS AKKORDOK FIATALSÁGUNK ALKONYÁN",
+        "txtlength": 10380
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210215_gyurcsany_mumuskent_mobilizalja_a_fideszes_tabort_lendvai_ildiko_a_mandinernek",
+        "h1": "Gyurcsány mumusként mobilizálja a fideszes tábort – Lendvai Ildikó a Mandinernek",
+        "txtlength": 28190
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210223_japan_magyarorszag_fujisaki_navracsics",
+        "h1": "„Irigyeljük Magyarország helyzetét” – Fujisaki és Navracsics a japán-magyar kapcsolatokról",
+        "txtlength": 22560
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210217_magyar_szuperhosoket_a_moziba",
+        "h1": "„Magyar szuperhősöket a moziba!” – Köbli Norbert a Mandinernek!",
+        "txtlength": 22508
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/uzlet/20210224/itt-a-mol-nagy-bejelentese-meghirdettek-a-fordulatot-471198",
+        "h1": "Itt a Mol nagy bejelentése, meghirdették a fordulatot",
+        "txtlength": 21873
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vallalat/20210224/a-multik-es-azon-belul-a-nemetek-igen-jol-jartak-a-kormany-gazdasagi-akcioprogramjaval/",
+        "h1": "A multik, és azon belül a németek igen jól jártak a kormány gazdasági akcióprogramjával",
+        "txtlength": 21167
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/kozelet/20210223/kinek-kell-megfizetnie-a-gyermekvallalast/",
+        "h1": "Kinek kell megfizetnie a gyermekvállalást?",
+        "txtlength": 17896
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2021/02/24/igy-keszulj-a-vakcinara-itt-a-qubit-oltasi-kisokosa",
+        "h1": "ÍGY KÉSZÜLJ A VAKCINÁRA: ITT A QUBIT OLTÁSI KISOKOSA",
+        "txtlength": 17201
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/otthon/haszonelvezeti-jog/",
+        "h1": "A tulajdonos vagy a haszonélvező szava döntő az ingatlanban? Az ügyvéd válaszolt",
+        "txtlength": 16612
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/bank/20210224/10-millios-ingyenhitel-megjelent-a-tervezet-a-feltetelekrol-ime-a-reszletek-471252",
+        "h1": "10 milliós ingyenhitel: megjelent a tervezet a feltételekről, íme a részletek",
+        "txtlength": 15907
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/vasarlas/mereszet-huzott-a-hyundai-tenyleg-sporolos-az-uj-hibrid-tucson.1111300.html",
+        "h1": "Merészet húzott a Hyundai: tényleg spórolós az új hibrid Tucson?",
+        "txtlength": 14372
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20210224/ijeszto-mozgasok-a-piacon-erre-figyel-most-mindenki-argus-szemmel-471122",
+        "h1": "Ijesztő mozgások a piacon, erre figyel most mindenki árgus szemmel",
+        "txtlength": 13584
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/vasarlas/brutalis-arhullamvasut-a-magyar-boltokban-filleres-termekekkel-huzzak-le-a-vasarlokat.1111314.html",
+        "h1": "Brutális árhullámvasút a magyar boltokban: filléres termékekkel húzzák le a vásárlókat",
+        "txtlength": 11305
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/koronavirus/2021/02/24/sinopharm-kinai-vakcina-60-ev-felett-idosek-kronikus-betegek-oltas-haziorvosok",
+        "h1": "Nem tudni, mi alapján adható időseknek a kínai vakcina",
+        "txtlength": 23973
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2021/02/24/egeszsegugyi-torveny-traumatologia-surgossegi-sved-tamas-mok-interju/",
+        "h1": "Bedöntheti a traumatológiai és a sürgősségi ellátást a hétfőn hatályba lépő törvény",
+        "txtlength": 22312
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/belfold/2021/02/23/alkoholfogyasztas-jarvany-kek-pont-bajzath-sandor-szemelyacz-janos",
+        "h1": "Többet iszunk a járvány alatt, és nem kérünk segítséget, ha baj van",
+        "txtlength": 17310
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/tudomany/2021/02/23/23-f-a-spanyol-9-11-amirol-40-ev-utan-is-mindenkinek-megvan-a-maga-konteoja",
+        "h1": "40 év után is mindenkinek megvan a maga konteója",
+        "txtlength": 16109
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20210224_Egeszsegugyi_jogviszony_szerzodesek",
+        "h1": "A kiélezett járványhelyzetben az ellátás megszűnésével fenyegetnek orvosok az új szerződésük miatt",
+        "txtlength": 15106
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/beremeles-egeszsegugy-szerzodes-alapdij-osszeomlas/1le4tws",
+        "h1": "Teljes a bizonytalanság, napokon belül összeomolhat az egészségügy, ha nem születik döntés",
+        "txtlength": 13289
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/2855-fovel-nott-koronavirus-fertozottek-102-halalos-aldozat-magyarorszag/eszbwlq",
+        "h1": "Megint megugrott a beazonosított koronavírus-fertőzöttek száma, meghalt 102 beteg - Itt vannak a friss hazai adatok",
+        "txtlength": 12235
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20210223_Republikon_konferencia",
+        "h1": "Az ellenzék terepen akarja megnyerni a 2022-es választást",
+        "txtlength": 11760
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20210223_Alagut_epulhet_a_Puskas_Arena_ala_a_vedett_szemelyeknek",
+        "h1": "A védett személyeknek épül alagút a Puskás Aréna alá",
+        "txtlength": 10419
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/02/24/ivanyi-gaborek-azonnali-jogvedelmet-kernek",
+        "h1": "Iványi Gáborék azonnali jogvédelmet kérnek",
+        "txtlength": 10253
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/02/24/havi-40-ezerert-tarolta-zugloi-lakasaban-a-magyar-ferfi-a-szerb-drogkereskedo-heroinjat",
+        "h1": "Havi 40 ezerért tárolta egy magyar férfi zuglói lakásában a szerb drogkereskedő heroinját",
+        "txtlength": 10169
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2021/02/24/felujitasi-tamogatas-felhasznalasa/",
+        "h1": "Megvan, mire költenék a legtöbben a 3 millió forintos felújítási támogatást",
+        "txtlength": 8821
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2021/02/24/surgossegi-osztalyok-szolgalati-jogviszony/",
+        "h1": "Szolnokon, Zalaegerszegen, Szekszárdon és Szegeden is forronganak a sürgősségi osztályok dolgozói",
+        "txtlength": 7933
+    },
+    {
+        "hostname": "mindmegette.hu",
         "pagelink": "https://www.mindmegette.hu/narancsos-kacsasult-paprikas-bulgurral.recept",
         "h1": "NARANCSOS KACSASÜLT PAPRIKÁS BULGURRAL",
         "txtlength": 9915
