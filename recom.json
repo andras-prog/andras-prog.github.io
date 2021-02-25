@@ -1,6 +1,192 @@
 [
     {
         "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/csokolades-sajttorta-pite.recept",
+        "h1": "CSOKOLÁDÉS SAJTTORTA",
+        "txtlength": 9297
+    },
+    {
+        "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/paprikas-krumpli-kolbasszal",
+        "h1": "Paprikás krumpli kolbásszal",
+        "txtlength": 8859
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/isteni-mogyoros-muffin.recept",
+        "h1": "MOGYORÓS MUFFIN",
+        "txtlength": 8477
+    },
+    {
+        "hostname": "hataratkelo.blog.hu",
+        "pagelink": "https://hataratkelo.blog.hu/2021/02/21/amerikai_elet_a_jarvany_alatt",
+        "h1": "Amerikai élet a járvány alatt",
+        "txtlength": 43345
+    },
+    {
+        "hostname": "cineartstudio.blog.hu",
+        "pagelink": "https://cineartstudio.blog.hu/2021/02/23/keszuloben_a_disney_legujabb_rovidfilmje_az_us_again",
+        "h1": "Készülőben a Disney legújabb rövidfilmje, az Us again",
+        "txtlength": 6481
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://essd.copernicus.org/articles/13/237/2021/",
+        "h1": "Article  ",
+        "txtlength": 73377
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210217_a_fidesz_meg_tudja_nyerni_a_meccset",
+        "h1": "A Fidesz meg tudja nyerni a meccset – Pokorni Zoltán a Mandinernek",
+        "txtlength": 33433
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/kapcsolat/mero-vera-interju/",
+        "h1": "Mérő Vera: „A nők öntudatra ébredése megtörtént, erre hamarosan rá is fognak jönni” - Szily Nóra interjúja",
+        "txtlength": 23635
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/uzlet/20210225/nem-all-meg-a-masterplast-ujabb-rekordev-johet-471414",
+        "h1": "Nem áll meg a Masterplast: újabb rekordév jöhet",
+        "txtlength": 22202
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://makronom.mandiner.hu/cikk/20210215_greta_thunberg_india_indiai_farmerek_sztrajk_radi_balazs_makronom",
+        "h1": "Millió dolláros tweetekkel mutat „szolidaritást” a Nyugat krémje az indiai szegényparasztok mellett",
+        "txtlength": 20778
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/global/20210224/joe-biden-nagyon-bekemenyitett-vlagyimir-putyinnal-meddig-feszitheti-meg-a-hurt-471332",
+        "h1": "Joe Biden nagyon bekeményített Vlagyimir Putyinnal – Meddig feszítheti még a húrt?",
+        "txtlength": 19438
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210224_vita_a_migraciorol_koszegen",
+        "h1": "„Nem akarunk változást” – vita a migrációról Kőszegen",
+        "txtlength": 18974
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/ingatlan/20210224/ne-lakast-vegyel-gazdagodj-inkabb-masok-ingatlanvasarlasabol-471282",
+        "h1": "Ne lakást vegyél! - Gazdagodj inkább mások ingatlanvásárlásából",
+        "txtlength": 18082
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/tamogatoi-tartalom/20210224/egyre-tobbet-tudunk-arrol-hogy-milyen-cegek-lehetnek-a-nyitas-nyertesei/",
+        "h1": "Egyre többet tudunk arról, hogy milyen cégek lehetnek a nyitás nyertesei",
+        "txtlength": 18045
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/otthon/igy-nullazzak-most-a-villanyszamlat-az-elelmes-magyarok-teljesen-legalis-ez-a-modszeruk.1111380.html",
+        "h1": "Így nullázzák most a villanyszámlát az élelmes magyarok: teljesen legális, ez a módszerük",
+        "txtlength": 16702
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/hitel/alattomos-nepbetegseg-terjed-a-jarvany-arnyekaban-ezekre-a-tunetekre-figyelj.1111432.html",
+        "h1": "Alattomos népbetegség terjed a járvány árnyékában: ezekre a tünetekre figyelj",
+        "txtlength": 14630
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2021/02/25/van-aki-meg-a-vakcinakat-is-elutasitja-nemhogy-egy-sertesszivet",
+        "h1": "VAN, AKI MÉG A VAKCINÁKAT IS ELUTASÍTJA, NEMHOGY EGY SERTÉSSZÍVET",
+        "txtlength": 12986
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/szuloseg/testi-fenyites-gyereket-megutni-nem-szabad/",
+        "h1": "Mikor tanuljuk már meg, hogy gyereket megütni nem szabad?",
+        "txtlength": 12574
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/politika/kommunizmus-emleknapja-kovacs-bela-letartoztatasa-avo/tpq0f19",
+        "h1": "Sírt fájdalmában a magyar miniszterelnök – Ezért tartjuk ma a kommunizmus áldozatainak emléknapját",
+        "txtlength": 13925
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/belfold/2021/02/24/valaki-meguszott-egy-kettos-gyilkossagot-menden",
+        "h1": "Valaki megúszott egy kettős gyilkosságot Mendén",
+        "txtlength": 13776
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/tudomany/2021/02/25/dzsingisz-kan-feleseg-kozepkor/",
+        "h1": "Megerőszakolták Dzsingisz kán feleségét?",
+        "txtlength": 13666
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2021/02/25/kinai-vakcina-haziorvos-pfizer-oltas-koronavirus/",
+        "h1": "„A Pfizerre heteket kell várnia, de van kínai, jöjjön”",
+        "txtlength": 13397
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/tudomany/2021/02/24/foldrenges-komarom-epicentrum/",
+        "h1": "Lefokozhatják a magyar csúcsföldrengést",
+        "txtlength": 13181
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/belfold/2021/02/25/testnevelesi-egyetem-csorsz-utca-epitkezes-zaj-szomszedos-epulet",
+        "h1": "Mindenkit kiborít Mészáros Lőrinc cégének budai építkezése",
+        "txtlength": 13054
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/4385-fovel-nott-koronavirus-fertozottek-halalos-aldozat-120-beteg-magarorszag/1gzh712",
+        "h1": "Brutálisan megugrott az új koronavírus-fertőzöttek száma hazánkban, meghalt 120 beteg – Itt vannak a friss adatok",
+        "txtlength": 12898
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/belfold/2021/02/24/tolna-megye-agar-seta-vadaszat-lofegyver",
+        "h1": "Nincs igaza senkinek, csak az agaraknak",
+        "txtlength": 12780
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/02/24/konnyitesre-meg-korai-gondolni-de-van-aki-mar-latja-a-jarvany-veget",
+        "h1": "Könnyítésre még korai gondolni, de van, aki már látja a járvány végét",
+        "txtlength": 10839
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/02/24/izraelben-engedelyeztek-az-oltasi-adatok-atadasat",
+        "h1": "Izraelben engedélyezték az oltási adatok átadását",
+        "txtlength": 10798
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/tudomany/20210225_izrael_pfizer_koronavirus_vakcina_tanulmany",
+        "h1": "Nagymintás izraeli tanulmány bizonyítja a Pfizer vakcinájának 94 százalékos hatékonyságát",
+        "txtlength": 9164
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/kultura/20210225_Maruzsa_Zoltan_Jokai_nem_lehet_vita_targya",
+        "h1": "Maruzsa Zoltán: Jókai nem lehet vita tárgya",
+        "txtlength": 9154
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/tudomany/20210225_nvidia_videokartya_rtx_3060_kriptopenz_banyaszat_ethereum_cmp",
+        "h1": "Visszavesz új videokártyája teljesítményéből az Nvidia, hogy az ne váljon a kriptobányászok játékszerévé",
+        "txtlength": 8805
+    },
+    {
+        "hostname": "mindmegette.hu",
         "pagelink": "https://www.mindmegette.hu/gyros-gorogosen-tzatzikivel.recept",
         "h1": "GYROS GÖRÖGÖSEN TZATZIKIVEL",
         "txtlength": 9768
