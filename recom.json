@@ -1,6 +1,186 @@
 [
     {
         "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/meggyes-pite-pofonegyszeruen.recept",
+        "h1": "MEGGYES PITE POFONEGYSZERŰEN",
+        "txtlength": 8857
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/fokhagymas-kenyer-leveles-tesztabol.recept",
+        "h1": "FOKHAGYMÁS KENYÉR LEVELES TÉSZTÁBÓL",
+        "txtlength": 7999
+    },
+    {
+        "hostname": "hataratkelo.blog.hu",
+        "pagelink": "https://hataratkelo.blog.hu/2021/02/24/magyar_legyen_a_kulfoldon_szuletett_gyerek_elso_nyelve",
+        "h1": "Magyar legyen a külföldön született gyerek első nyelve?",
+        "txtlength": 41795
+    },
+    {
+        "hostname": "kulturpart.hu",
+        "pagelink": "https://kulturpart.blog.hu/2021/02/25/60_tipp_a_vilag_megmentesehez",
+        "h1": "HATVAN TIPP A VILÁG MEGMENTÉSÉHEZ",
+        "txtlength": 8728
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210227_horvath_attila_dalszovegiro_interju",
+        "h1": "Mindig zeneközelben akartam élni – Horváth Attila dalszövegíró a Mandinernek",
+        "txtlength": 24705
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2021/02/27/oda-kell-fejleszteni-a-nemzetet-hogy-a-loves-nemzeti-passioja-sportja-legyen",
+        "h1": "„ODA KELL FEJLESZTENI A NEMZETET, HOGY A LÖVÉS NEMZETI PASSIÓJA, SPORTJA LEGYEN!”",
+        "txtlength": 23447
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210226_dramai_romlas_vakcinaosszefoglalo",
+        "h1": "Drámai romlás: jön a járvány két legdurvább hete – vakcinaösszefoglaló",
+        "txtlength": 23006
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210226_scorsese_fellini_film",
+        "h1": "Mi lesz a filmművészet sorsa? – Scorsese vallomása Felliniről és a filmiparról",
+        "txtlength": 20915
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20210226/mar-2022-tavaszan-indulhat-a-300-milliard-forintos-szuperkorhaz-kivitelezes-elokeszitese-471534",
+        "h1": "Már 2022 tavaszán indulhat a 300 milliárd forintos szuperkórház-kivitelezés előkészítése",
+        "txtlength": 20348
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/biztositas/ennyiert-jut-be-az-orvoshoz-soron-kivul-a-magyar-elit-nem-titok-itt-az-arlista.1111508.html",
+        "h1": "Ennyiért jut be az orvoshoz soron kívül a magyar elit: nem titok, itt az árlista",
+        "txtlength": 20231
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/podcast/20210227/nem-a-rendszervaltas-hanem-a-19-szazad-ota-nem-tudunk-felzarkozni-nyugat-europahoz/",
+        "h1": "Nem a rendszerváltás, hanem a 19. század óta nem tudunk felzárkózni Nyugat-Európához",
+        "txtlength": 19193
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/penz/20210226/minden-adott-hogy-az-inflacio-megloduljon/",
+        "h1": "Minden adott, hogy az infláció meglóduljon",
+        "txtlength": 19137
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/szuloseg/szobeli-felveteli-tippek-siker/",
+        "h1": "Tippek a sikeres szóbeli felvételihez leendő középiskolásoknak",
+        "txtlength": 16188
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/global/20210227/kemeny-uzenetet-kuldott-joe-biden-legitamadasa-a-kozel-kelet-egyik-legerosebb-orszaganak-471684",
+        "h1": "Kemény üzenetet küldött Joe Biden légitámadása a Közel-Kelet egyik legerősebb országának",
+        "txtlength": 15400
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/vasarlas/megdolt-a-nagy-konzerv-tevhit-ezek-a-keszetelek-jok-de-a-tobbit-inkabb-ne-vedd-meg.1111554.html",
+        "h1": "Megdőlt a nagy konzerv-tévhit: ezek a készételek jók, de a többit inkább ne vedd meg",
+        "txtlength": 13914
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/uzlet/20210226/nagy-uzletkotesek-johetnek-a-hazai-maganegeszsegugyben-is-471544",
+        "h1": "Nagy üzletkötések jöhetnek a hazai magánegészségügyben is",
+        "txtlength": 12534
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/egeszseg/koponyalekeles-tortenete/",
+        "h1": "A koponyalékelést már a kőkortól használták gyógyításra: a honfoglaló magyaroknál is elterjedt gyakorlat volt",
+        "txtlength": 9306
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2021/02/27/koronavirus-zombiapokalipszis-kozbeszed-velemeny-balavany/",
+        "h1": "Balavány: Ez itt a zombiapokalipszis, és tényleg végünk van, ha a vírus helyett egymást pusztítjuk",
+        "txtlength": 19659
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://insighthungary.444.hu/2021/02/26/hungarian-catholic-church-leaders-filed-charges-against-a-victim-of-sexual-abuse",
+        "h1": "Hungarian Catholic Church Leaders Filed Charges Against a Victim of Sexual Abuse",
+        "txtlength": 18488
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/elet-stilus/2021/02/27/kim-kourtney-khloe-kardashian-kris-kendall-kylie-jenner-szerelem-valas-pasi-hazassag-gyerek/",
+        "h1": "Hat válás, tíz gyerek, számtalan megcsalás – így néz ki a Kardashian lányok szerelmi élete ",
+        "txtlength": 18079
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/operativ-torzs-februar-26-jarvany-harmadik-hullam/573ctgd",
+        "h1": "Szigorítást jelentett be az operatív törzs",
+        "txtlength": 15971
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20210225_Kormanyinfo_orbankormany_gulyas_gergely",
+        "h1": "Gulyás Gergely: Március 15-ig maradnak a korlátozások, a következő két hét kifejezetten nehéz lesz",
+        "txtlength": 15335
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/pecel-kutyagyilkos-mereg-helyiek-osszefogas/hhpnfj3",
+        "h1": "Méreggel és csavarral „töltött” kolbásszal öl az ismeretlen: összefogtak a péceliek a brutális kutyagyilkos ellen",
+        "txtlength": 13733
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/elet-stilus/2021/02/27/parsomia-szaglaszavar-orovos-budos-romlott/",
+        "h1": "„Minden megbüdösödött, hányingerem van a kedvenc ételeimtől” – fantomszagok a koronavírus után",
+        "txtlength": 13321
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/kkv/20210227_haziorvosok_praxiskozossegek_beremeles_egeszsegugy",
+        "h1": "Kevesebb béremeléssel lesznek kénytelenek beérni az óvatosabb háziorvosok",
+        "txtlength": 13000
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/belfold/2021/02/27/elovalasztas-dk-jeloltek-manhalter-daniel-kalman-olga-kampany",
+        "h1": "Mind a 106 választókerületben lesz jelöltje a DK-nak",
+        "txtlength": 12968
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/02/26/10-forint-a-forro-langos-be-van-oltva-ader-janos",
+        "h1": "10 forint a forró lángos, be van oltva Áder János",
+        "txtlength": 10839
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/gazdasag/2021/02/26/24-hu-zamardi-szakitana-a-fesztivalokkal",
+        "h1": "Zamárdi szakítana a fesztiválokkal: a város vállalkozói megosztottak",
+        "txtlength": 10736
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/gazdasag/2021/02/26/gepjarmuado-nagyvonaluan-kerekit-a-nav-sajnos-a-lakossag-karara",
+        "h1": "Gépjárműadó: kerekítéssel keseríti sok autós életét a NAV",
+        "txtlength": 9479
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/tudomany/20210226_zsarolovirus_tamadas_bkik_szerzodes_kozerdeku_adatigenyles",
+        "h1": "A BKIK zsarolóvírus-támadásra hivatkozva hárította el a hvg.hu adatigénylését",
+        "txtlength": 9074
+    },
+    {
+        "hostname": "mindmegette.hu",
         "pagelink": "https://www.mindmegette.hu/borsos-egytal-virslivel.recept",
         "h1": "BORSÓS EGYTÁL VIRSLIVEL",
         "txtlength": 8690
