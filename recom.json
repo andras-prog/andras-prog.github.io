@@ -1,5 +1,197 @@
 [
     {
+        "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/egyszeru-tokfozelek",
+        "h1": "Egyszerű tökfőzelék",
+        "txtlength": 9631
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/narancsos-puffancs.recept",
+        "h1": "NARANCSOS PUFFANCS",
+        "txtlength": 8633
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/joghurtos-majonezes-tonhalkrem.recept",
+        "h1": "JOGHURTOS-MAJONÉZES TONHALKRÉM",
+        "txtlength": 7969
+    },
+    {
+        "hostname": "kiszamolo.hu",
+        "pagelink": "https://kiszamolo.hu/ksh-ingatlanberles-index/",
+        "h1": "KSH ingatlanbérlés index",
+        "txtlength": 30323
+    },
+    {
+        "hostname": "alapblog.hu",
+        "pagelink": "https://alapblog.hu/nem-tudhato-meg-hogy-az-inflacio-valoban-inflacio/",
+        "h1": "NEM TUDHATÓ (MÉG), HOGY AZ INFLÁCIÓ VALÓBAN INFLÁCIÓ",
+        "txtlength": 10536
+    },
+    {
+        "hostname": "efesasanisimasa.com",
+        "pagelink": "https://efesasanisimasa.com/2021/02/17/a-korona-1-4-evad-the-crown-tv-series-2016/",
+        "h1": "A Korona – 1-4. évad (The Crown, TV-Series, 2016-)",
+        "txtlength": 9986
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2021/03/01/eiben-agoston-a-robotszaporito-attorjuk-az-elo-es-az-elettelen-kozti-hatart",
+        "h1": "EIBEN ÁGOSTON, A ROBOTSZAPORÍTÓ: ÁTTÖRJÜK AZ ÉLŐ ÉS AZ ÉLETTELEN KÖZTI HATÁRT",
+        "txtlength": 33752
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vallalat/20210301/a-magyar-asvanyvizkiraly-tundoklesenek-es-bukasanak-tanulsagos-tortenete/",
+        "h1": "Luxusjacht, letartóztatás és viszály, a magyar ásványvízkirály bukásának története",
+        "txtlength": 31366
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210228_demeter_zoltan_tokaj_borasz_interju",
+        "h1": "Tokaj a világ egyik kulturális fundamentuma – Demeter Zoltán borász a Mandinernek",
+        "txtlength": 29960
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210225_eroszakos_es_jogallamellenes_az_ellenzek_forgatokonyve_allitja_volner_pal_allamtitkar",
+        "h1": "Erőszakos és jogállamellenes az ellenzék forgatókönyve – Völner Pál a Mandinernek",
+        "txtlength": 27299
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210224_negylabuak_vedelmeben",
+        "h1": "Négylábúak védelmében: hogyan szigorítanák az állatok védelmét?",
+        "txtlength": 21973
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/kapcsolat/gyasz-feldolgozasa/",
+        "h1": "\"Úgy lehet a legjobban gyászolni, ha merünk rosszul lenni.\" - Interjú Rácmolnár Lili pszichológus, gyásztanácsadóval",
+        "txtlength": 18364
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20210228/az-extrem-idojaras-olyan-durva-katasztrofat-okozott-amire-meg-evekig-emlekezni-fogunk-471788",
+        "h1": "Az extrém időjárás olyan durva katasztrófát okozott, amire még évekig emlékezni fogunk",
+        "txtlength": 18246
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/global/20210228/nehezsulyu-politikus-lepett-szinre-europaban-az-euro-megmentoje-atrendezheti-a-hatalmi-viszonyokat-471818",
+        "h1": "Nehézsúlyú politikus lépett színre Európában – Az euró megmentője átrendezheti a hatalmi viszonyokat",
+        "txtlength": 18038
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/elet/20210227/a-magyar-noi-vezetok-fele-hetente-legalabb-harom-alkalommal-sportol/",
+        "h1": "A magyar női vezetők fele hetente legalább három alkalommal sportol",
+        "txtlength": 16675
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20210301/ezert-all-bukasra-a-jarvany-harmadik-hullamaban-magyarorszag-de-meg-nem-keso-ebbol-tanulni-471670",
+        "h1": "Ezért áll bukásra a járvány harmadik hullámában Magyarország, de még nem késő ebből tanulni",
+        "txtlength": 16617
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/otthon/koltseges-tavasz-var-a-csaladi-haz-tulajokra-fizethetnek-ha-ilyen-fa-all-a-kertben.1111506.html",
+        "h1": "Költséges tavasz vár a családi ház tulajokra: fizethetnek, ha ilyen fa áll a kertben",
+        "txtlength": 13723
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/otthon/lakasfelujitasi-tamogatas-10-gyakori-elethelyzet-amikor-bukhatod-a-milliokat.1111384.html",
+        "h1": "Lakásfelújítási támogatás: 10 gyakori élethelyzet, amikor bukhatod a milliókat",
+        "txtlength": 11176
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/szuloseg/agressziv-gyerek-kepernyo-tevenezes/",
+        "h1": "A képernyőtől lesz agresszív a gyerek, nem a műsor tartalmától",
+        "txtlength": 9182
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/kultura/20210228_Budapesti_Nemzetkozi_Dokumentumfilm_Fesztival_BIDF_ajanlo",
+        "h1": "Vetkőzésen, kémkedésen, egy mozdulaton át is kiderülhet, milyen esendőek vagyunk",
+        "txtlength": 19154
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/belfold/2021/03/01/gyurcsanyozas-2022-valasztas-orban-viktor-gyurcsany-ferenc",
+        "h1": "A Fidesz komoly reményeket fűz a nagyipari gyurcsányozáshoz",
+        "txtlength": 18588
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kultura/2021/02/28/martens-bakancs-belvaros-boltbezaras/",
+        "h1": "Látom, ahogy kurvul a világ – ezért tűnt el a kultikus bolt a Rákóczi útról",
+        "txtlength": 17950
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20210301_halapenz_orvosvalasztas_szulesz_nogyogyasz_egeszsegugy_ellatas",
+        "h1": "Hálapénz nélkül, legálisan választana orvost? Ezt most épp nem tudja megtenni",
+        "txtlength": 17103
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kultura/2021/03/01/golden-globe-2021-dij-film-tv-netflix-nomadok-foldje-chadwich-boseman/",
+        "h1": "Történelmi díjak, technikai bakik a Golden Globe-on: ilyen volt a járványkorszak első nagy díjátadója",
+        "txtlength": 14671
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/politika/kormanyfoi-titkok-szinfalak-mogul-miniszterelnokok-magyarorszag/r6h0svn",
+        "h1": "Megbénult a csilitől Orbán – Kormányfők titokzatos történetei Antalltól Gyurcsányig",
+        "txtlength": 14660
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/fn/gazdasag/2021/03/01/veszprem-kezilabda-arena-csik-zoltan/",
+        "h1": "Nagy lángon égették a milliárdokat a veszprémi kézilabda-arénában",
+        "txtlength": 12979
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/kulfold/ferenc-papa-vatikani-leveltar-magyar-tortenesz/zpq29h6",
+        "h1": "Fény derülhet a Vatikán eddig rejtett titkaira? Ferenc pápa történésze lett a hazai tudós",
+        "txtlength": 11675
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/kkv/20210301_Harom_kilot_ledobtak_az_uj_Bubirol",
+        "h1": "Három kilót ledobtak az új Bubiról",
+        "txtlength": 9881
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/02/28/muller-cecilia-ertesitette-a-haziorvosokat-hogyan-oltsanak-ezentul-a-pfizerrel-es-az-astrazenecaval",
+        "h1": "Müller Cecília értesítette a háziorvosokat, hogyan oltsanak ezentúl a Pfizerrel és az AstraZenecával",
+        "txtlength": 9465
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/eszkombajn/2021/03/01/manhattan-ugy-lett-az-angoloke-hogy-elcsereltek-egy-isten-hata-mogotti-indonez-szigetre",
+        "h1": "Manhattan úgy lett az angoloké, hogy elcserélték egy isten háta mögötti indonéz szigetre",
+        "txtlength": 9351
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/03/01/oriasi-botrany-van-japanban-mert-a-miniszterelnok-fia-befolyasos-embereket-hivott-meg-vacsorazni",
+        "h1": "Óriási botrány van Japánban, mert a miniszterelnök fia befolyásos embereket hívott meg vacsorázni",
+        "txtlength": 9196
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/foto/2021/02/28/kamu-magyar-milliardoskent-orokitette-meg-a-luxust",
+        "h1": "Kamu magyar milliárdosként örökítette meg a luxust",
+        "txtlength": 8225
+    },
+    {
         "hostname": "mindmegette.hu",
         "pagelink": "https://www.mindmegette.hu/pulykafasirt-cordon-bleu-izesitessel.recept",
         "h1": "PULYKAFASÍRT CORDON BLEU ÍZESÍTÉSSEL",
