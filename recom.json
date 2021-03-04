@@ -1,5 +1,179 @@
 [
     {
+        "hostname": "hataratkelo.blog.hu",
+        "pagelink": "https://hataratkelo.blog.hu/2021/03/02/az_erem_masik_oldala_295#c39945528",
+        "h1": "Az érem másik oldala",
+        "txtlength": 39303
+    },
+    {
+        "hostname": "hafr.hvgblog.hu",
+        "pagelink": "https://hafr.hvgblog.hu/2020/11/27/gyozhet-e_az_egyesult_ellenzek_igen/",
+        "h1": "Győzhet-e az egyesült ellenzék? – Igen.",
+        "txtlength": 8704
+    },
+    {
+        "hostname": "cineartstudio.blog.hu",
+        "pagelink": "https://cineartstudio.blog.hu/2021/03/02/a_kaptar_rendezoje_kesziti_george_r_r_martin_fantasy_novellajanak_adaptaciojat",
+        "h1": "A Kaptár rendezője készíti George R.R. Martin fantasy novellájának adaptációját",
+        "txtlength": 4364
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210303_andrasfalvy_bertalan_interju",
+        "h1": "A hazafiságról beszéltem, és ezt kigúnyolták – Andrásfalvy Bertalan a Mandinernek",
+        "txtlength": 31359
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://precedens.mandiner.hu/cikk/20210303_nagy_batorsag_kell_ahhoz_hogy_olyan_igazsagot_hangoztassunk_amelyet_korunk_elfogadhatatlannak_tart",
+        "h1": "„Nagy bátorság kell ahhoz, hogy olyan igazságot hangoztassunk, amelyet korunk elfogadhatatlannak tart” - beszélgetés Lovászy Lászlóval",
+        "txtlength": 28166
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vallalat/20210303/a-nyomaszto-jarvany-leginkabb-felemelo-resze-hogy-az-emberek-ujfajta-egyuttmukodesekbe-kezdtek/",
+        "h1": "A nyomasztó járvány leginkább felemelő része, hogy az emberek újfajta együttműködésekbe kezdtek",
+        "txtlength": 25848
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210224_drukkolok_orbannak",
+        "h1": "Drukkolok Orbánnak! – Nagy Feró a Mandinernek",
+        "txtlength": 23255
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/kapcsolat/palya-bea-interju/",
+        "h1": "Palya Bea: „Drága férfiak, adjátok meg nekünk a szent elszállás lehetőségét” - Szily Nóra interjúja",
+        "txtlength": 20004
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2021/03/03/idegen-lenyek-kosziklak-es-az-a-bizonyos-harvardi-csillagasz",
+        "h1": "IDEGEN LÉNYEK, KŐSZIKLÁK ÉS AZ A BIZONYOS HARVARDI CSILLAGÁSZ",
+        "txtlength": 19973
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/elet/20210304/amikor-egy-nagy-piacot-akarsz-bevenni-a-befektetok-tulzottan-izgatotta-valnak/",
+        "h1": "„Amikor egy nagy piacot akarsz bevenni, a befektetők túlzottan izgatottá válnak”",
+        "txtlength": 19161
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/global/20210304/zaporoznak-az-ujabb-szogek-a-hagyomanyos-autogyartas-koporsojaba-halalra-itelik-a-belsoegesu-motorokat-472494",
+        "h1": "Záporoznak az újabb szögek a hagyományos autógyártás koporsójába - Halálra ítélik a belsőégésű motorokat",
+        "txtlength": 18379
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/ingatlan/20210304/kritikus-helyzetben-a-kiskereskedelem-szereploi-hogyan-elhetik-tul-az-elottunk-allo-idoszakot-471728",
+        "h1": "Kritikus helyzetben a kiskereskedelem szereplői - Hogyan élhetik túl az előttünk álló időszakot?",
+        "txtlength": 16062
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20210303/maskepp-kavezunk-mint-egy-evvel-ezelott-a-dohanybolt-lett-az-uj-presszo-471686",
+        "h1": "Másképp kávézunk, mint egy évvel ezelőtt: a dohánybolt lett az új presszó",
+        "txtlength": 13749
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/otthon/felujitod-a-furdot-konyhat-figyelem-igy-bukhatod-a-szaniterek-5-eves-jotallasat.1111686.html",
+        "h1": "Felújítod a fürdőt, konyhát? Figyelem, így bukhatod a szaniterek 5 éves jótállását",
+        "txtlength": 11673
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/karrier/meg-hogy-a-magyar-nok-egyenlok-a-ferfiakkal-itt-a-bizonyitek-hogy-ez-nem-igaz.1111648.html",
+        "h1": "Még hogy a magyar nők egyenlők a férfiakkal: itt a bizonyíték, hogy ez nem igaz",
+        "txtlength": 11624
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/lajfhekk/beepitheto-sutok-tesztje-2021/",
+        "h1": "Beépíthető sütők rangsora: ezek most a legjobb termékek",
+        "txtlength": 9475
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2021/03/04/lantos-gabriella-interju-koronavirus-jarvanykezeles-egy-eve/",
+        "h1": "Lantos Gabriella: Nem hiszem, hogy a kormány az uniótól kérne segítséget. Oldják meg a kórházak, ahogy tudják, és főleg hallgassanak",
+        "txtlength": 27245
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kulfold/2021/03/03/koronavirus-jarvany-oltoanyag-vakcina-astrazeneca-magyarorszag-nemetorszag-bizalmatlansag-oltasi-terv/",
+        "h1": "Nincs elég vakcina, mégis hegyekben áll a raktárakban Európában",
+        "txtlength": 17712
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/gazdasag/2021/03/04/orban-viktor-gyorsan-szeretne-sok-unios-forrast-ehhez-teljesen-kozpontositotta-a-kozbeszerzeseket",
+        "h1": "Orbán Viktor gyorsan szeretne sok uniós forrást, ehhez teljesen központosította a közbeszerzéseket",
+        "txtlength": 16978
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/belfold/2021/03/03/egeszsegugyi-szolgalati-jogviszony-orvos-apolo-beremeles-szerzodes-korhaz",
+        "h1": "Miért kellett elveszítenie 4000 embert a magyar egészségügynek?",
+        "txtlength": 16412
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/koronavirus-jarvany-operativ-torzs-sajtotajekoztato/8l2f1sp",
+        "h1": "Müller Cecília elárulta: ma dönt a kormány arról, kellenek-e újabb szigorítások – Íme, az operatív törzs legújabb bejelentései",
+        "txtlength": 16265
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/mrichard-rszilveszter-soroksari-futo-no-cella/c0e494q",
+        "h1": "Ki az úr a zárkában? Összezárták a két nehézsúlyú bűnözőt: együtt raboskodik a soroksári futó nő gyilkosa és a Dózsa György úti ámokfutó",
+        "txtlength": 12025
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/eurologus/20210304_Atalakulhatnak_eroviszonyok_EP_Fidesz_kilepes",
+        "h1": "Komoly felfordulást okozhat az Európai Parlamentben a Fidesz kilépése",
+        "txtlength": 11828
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/szorakozas/2021/03/03/buja-disznok-etterem-koltozes-gasztro",
+        "h1": "Rántott disznófüllel és hatalmas húsokkal éled újra a Fény utcai piac gasztronómiája",
+        "txtlength": 11004
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/03/03/pocs-maszktalan-fogad",
+        "h1": "Pócs maszktalan fogad",
+        "txtlength": 10910
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/tudomany/2021/03/03/oraatallitas-nyari-teli-idoszamitas/",
+        "h1": "Egyelőre keresztet vethetünk az óraátállítás eltörlésére",
+        "txtlength": 10859
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/kkv/20210304_adobevetel_hipa_onkormanyzat",
+        "h1": "500 ezertől több milliárd forintig veszítettek az önkormányzatok a hipa felezésével",
+        "txtlength": 9746
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/03/04/landolas-utan-ismet-felrobbant-elon-musk-urhajoja",
+        "h1": "Landolás után ismét felrobbant Elon Musk űrhajója",
+        "txtlength": 9645
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/gazdasag/20210304_Totalis_buszhaboru_Hodmezovasarhelyen",
+        "h1": "Totális buszháború Hódmezővásárhelyen",
+        "txtlength": 9296
+    },
+    {
         "hostname": "nosalty.hu",
         "pagelink": "https://www.nosalty.hu/recept/tejszines-carbonara-spagetti",
         "h1": "Tejszínes carbonara spagetti",
