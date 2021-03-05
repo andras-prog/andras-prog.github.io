@@ -1,5 +1,179 @@
 [
     {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/francia-narancsos-palacsinta-crepes-suzette.recept",
+        "h1": "FRANCIA NARANCSOS PALACSINTA (CREPES SUZETTE)",
+        "txtlength": 11685
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/fetas-ceklas-retesharomszogek.recept",
+        "h1": "CÉKLÁS-FETÁS RÉTESHÁROMSZÖGEK",
+        "txtlength": 10641
+    },
+    {
+        "hostname": "hataratkelo.blog.hu",
+        "pagelink": "https://hataratkelo.blog.hu/2021/03/02/az_erem_masik_oldala_295#c39949770",
+        "h1": "Az érem másik oldala",
+        "txtlength": 43282
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/uzlet/20210305/vilaguralomra-tor-a-bitcoin-eljott-a-fordulat-ideje-472446",
+        "h1": "Világuralomra tör a bitcoin, eljött a fordulat ideje",
+        "txtlength": 30551
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2021/03/05/felhaborodast-keltett-az-idei-kozepiskolai-magyar-felveteli-a-gyerek-hulye-vagy-a-teszt-a-rossz",
+        "h1": "FELHÁBORODÁST KELTETT AZ IDEI KÖZÉPISKOLAI MAGYAR FELVÉTELI: A GYEREK HÜLYE, VAGY A TESZT A ROSSZ?",
+        "txtlength": 26793
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://makronom.mandiner.hu/cikk/20210222_vilagelsokent_oldja_fel_a_korlatozasokat_izrael_vajon_nalunk_is_ilyen_lesz_az_ujranyitas",
+        "h1": "Extra pénzt fizetett Izrael, hogy a vakcinagyártók kísérleti laborjává válhasson",
+        "txtlength": 24181
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210304_ha_lesz_eleg_oltott_majus_kozepetol_fellelegezhetunk_merkely_bela_a_mandinernek",
+        "h1": "Ha lesz elég oltott, május közepétől fellélegezhetünk – Merkely Béla a Mandinernek",
+        "txtlength": 22995
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210304_koronavirus_gulyas_gergely_dontesek",
+        "h1": "Az iskolák egy hónapra, az üzletek két hétre bezárnak",
+        "txtlength": 21067
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/szuloseg/stajn-emma-interju-neveloszulo/",
+        "h1": "Szégyen és gyalázat, de a rendszert csak a nevelőszülők embersége tartja egyben",
+        "txtlength": 19112
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/elet/20210304/csucsot-donthet-az-uzemanyagok-ara-a-kovetkezo-evekben/",
+        "h1": "Csúcsot dönthet az üzemanyagok ára a következő években",
+        "txtlength": 19076
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/adat/20210304/hamis-mitosz-avagy-zsakutca-a-hazai-a-gazdasagi-fejlodes/",
+        "h1": "Zsákutca a hazai gazdasági fejlődés?",
+        "txtlength": 17933
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20210305/orban-viktor-oriasi-nyomas-lesz-a-korhazakon-15-20-ezren-szorulhatnak-apolasra-de-ket-het-mulva-mar-nyitas-johet-472674",
+        "h1": "Orbán Viktor: óriási nyomás lesz a kórházakon, 15-20 ezren szorulhatnak ápolásra, de két hét múlva már nyitás jöhet ",
+        "txtlength": 17075
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20210305/itt-a-korforgasos-gazdasag-ami-magyarorszagon-is-hamarosan-az-eletunk-reszeve-valhat-472578",
+        "h1": "Itt a körforgásos gazdaság, ami Magyarországon is hamarosan az életünk részévé válhat",
+        "txtlength": 17022
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/hitel/megsem-kell-a-magyaroknak-a-fogyasztobarat-hitel-megis-mitol-ijedtek-meg.1111806.html",
+        "h1": "Mégsem kell a magyaroknak a fogyasztóbarát hitel: mégis mitől ijedtek meg?",
+        "txtlength": 14390
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/karrier/egy-megoldas-maradt-a-munkaerohianyra-tobb-not-kell-alkalmazni-ezekben-a-szakmakban.1111866.html",
+        "h1": "Egy megoldás maradt a munkaerőhiányra: több nőt kell alkalmazni ezekben a szakmákban",
+        "txtlength": 13961
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/otthon/vizora-rosszul-mer/",
+        "h1": "3 vészjósló jel, hogy hibásan mérhet a vízórád: a felülvizsgálat előtt magad is ellenőrizheted, de nem mindegy, hogyan",
+        "txtlength": 10897
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/belfold/2021/03/04/koronavirus-karanten-statisztika-alkoholfogyasztas-szuletesek-vecepapir-nok-internet-iroda",
+        "h1": "10 grafikon a járványról, ami a hazai pálinka- és vécépapír-fogyasztásra is komoly hatással volt",
+        "txtlength": 15308
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kultura/2021/03/04/nagyanyaink-artalmatlan-hobbija-szobanovenyezes-milliardos-gyilkos-biznisz/",
+        "h1": "Milliárdos, veszélyes biznisz lett nagyanyáink ártalmatlan hobbija – a szobanövényezés",
+        "txtlength": 14853
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2021/03/05/bulinegyed-erzsebetvaros-vii-kerulet-niedermuller-vendeglatas-koronavirus-terasz/",
+        "h1": "Erzsébetváros a kijárási tilalom idején is sarcolja a vendéglátóhelyeket",
+        "txtlength": 13884
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/orban-viktor-kossuth-radio-koronavirus-jarvany-szigoritasok-lezaras/b1nlwky",
+        "h1": "„Tragédia lesz, ha nem lépünk” – Orbán Viktor fontos bejelentése a szigorításokról",
+        "txtlength": 13546
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/kormanyinfo-gulyas-gergely-jarvany-intezkedesek/v0wtw7f",
+        "h1": "Kormányinfó – Gulyás Gergely bejelentette az egész Magyarországot érintő lezárást – részletek",
+        "txtlength": 13506
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20210305_Orban_kossuth_interju",
+        "h1": "Orbán: A bölcsődék nyitva maradnak még, a virágboltok csak keddtől zárnak",
+        "txtlength": 12429
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/03/04/a-kormany-vegul-nem-halogatta-tovabb-a-szigoritast",
+        "h1": "A kormány végül nem halogatta tovább a szigorítást",
+        "txtlength": 12079
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/03/04/megint-bortonbuntetesre-iteltek-siklosnagyfalu-polgarmesteret",
+        "h1": "Megint börtönbüntetésre ítélték Siklósnagyfalu polgármesterét",
+        "txtlength": 11309
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/kkv/20210305_Buszhaboru_hodmezovasarhely_volanbusz",
+        "h1": "Buszháború Vásárhelyen: Márki-Zay politikai akcióról beszél",
+        "txtlength": 11104
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/eszkombajn/2021/03/05/george-spencer-malac-mutans-halalos-itelet-new-haven",
+        "h1": "Halálos ítélet egy félszemű malac miatt",
+        "txtlength": 10638
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kult/2021/03/05/fliegauf-bence-rengeteg-2-kritika-berlinale",
+        "h1": "Visszatért a magyar művészfilmes nyomasztás nagymestere",
+        "txtlength": 10154
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kozelet/2021/03/05/koronavirus-orban-lezaras/",
+        "h1": "Orbán Viktor: Mindenkire kiterjesztjük a bértámogatást, akit érint a lezárás",
+        "txtlength": 9329
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/gazdasag/20210305_Az_Autoklub_torvenymodositast_kezdemenyez_a_gepjarmuado_kerekitese_miatt",
+        "h1": "Az Autóklub törvénymódosítást kezdeményez a gépjárműadó kerekítése miatt",
+        "txtlength": 9307
+    },
+    {
         "hostname": "hataratkelo.blog.hu",
         "pagelink": "https://hataratkelo.blog.hu/2021/03/02/az_erem_masik_oldala_295#c39945528",
         "h1": "Az érem másik oldala",
