@@ -1,6 +1,198 @@
 [
     {
         "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/svab-sufnudli-medvehagymaval.recept",
+        "h1": "SVÁB SUFNUDLI MEDVEHAGYMÁVAL",
+        "txtlength": 10767
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/sajtos-pestos-toltott-kenyer.recept",
+        "h1": "SAJTOS-PESTÓS TÖLTÖTT KENYÉR",
+        "txtlength": 10434
+    },
+    {
+        "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/sport-szelet",
+        "h1": "Sport szelet",
+        "txtlength": 9310
+    },
+    {
+        "hostname": "kiszamolo.hu",
+        "pagelink": "https://kiszamolo.hu/mikor-kezdjek-el-vallalkozni/",
+        "h1": "Mikor kezdjek el vállalkozni?",
+        "txtlength": 40677
+    },
+    {
+        "hostname": "kulturpart.hu",
+        "pagelink": "https://kulturpart.hu/2021/02/28/filmet_forgat_a_kaposvari_szinhaz",
+        "h1": "FILMET FORGAT A KAPOSVÁRI SZÍNHÁZ",
+        "txtlength": 6903
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/uzlet/20210305/az-emberiseg-legnagyobb-kihivasa-valosagga-valik-az-alom-472566",
+        "h1": "Az emberiség legnagyobb kihívása - Valósággá válik az álom?",
+        "txtlength": 29993
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/kozelet/20210305/a-tanarok-a-kormanyzat-elhanyagolt-veszelyeztetett-es-bantalmazott-gyerekei/",
+        "h1": "A tanárok a kormányzat elhanyagolt, veszélyeztetett és bántalmazott gyerekei",
+        "txtlength": 25226
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210305_vakcinaof",
+        "h1": "Bezár az ország, lóhalálában oltanak – heti vakcinaösszefoglaló",
+        "txtlength": 21401
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210305_orban_viktor",
+        "h1": "Orbán Viktor: Most zárnunk kell ahhoz, hogy húsvét környékén nyithassunk",
+        "txtlength": 21027
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2021/03/05/ennyire-jol-szervezett-dolog-ebben-az-orszagban-meg-nem-volt-szerbiaban-nyitva-a-kocsmak-porognek-az-oltokozpontok",
+        "h1": "„ENNYIRE JÓL SZERVEZETT DOLOG EBBEN AZ ORSZÁGBAN MÉG NEM VOLT” – SZERBIÁBAN NYITVA A KOCSMÁK, PÖRÖGNEK AZ OLTÓKÖZPONTOK",
+        "txtlength": 19869
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/kapcsolat/toth-krisztina-es-az-arany-ember/",
+        "h1": "Kedves Tóth Krisztina! Megteszem én, hogy azt mondjam, ebből elég volt",
+        "txtlength": 19187
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/podcast/20210306/a-magyar-es-a-kinai-korrupcio-kozos-pontja-hogy-a-kisember-egyre-inkabb-kimarad-belole/",
+        "h1": "A magyar és a kínai korrupció közös pontja, hogy a kisember egyre inkább kimarad belőle",
+        "txtlength": 18342
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210306_nem_adom_fel_alapitvany_papp_szabolcs",
+        "h1": "Akik nem adják fel – Papp Szabolcs a fogyatékkal élőket segítő alapítványról",
+        "txtlength": 18240
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/hitel/lemondanak-az-ingyenmilliokrol-a-friss-hazasok-mitol-felnek-ennyire.1111886.html",
+        "h1": "Lemondanak az ingyenmilliókról a friss házasok: mitől félnek ennyire?",
+        "txtlength": 18079
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20210305/sebesseget-valtott-volna-az-oltas-magyarorszagon-de-elhasalt-472824",
+        "h1": "Sebességet váltott volna az oltás Magyarországon, de elhasalt",
+        "txtlength": 17059
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20210306/megjott-a-rendelet-a-magyar-maganklinikak-ingatlanjait-is-bevonhatja-a-kormany-a-vedekezesbe-472906",
+        "h1": "Megjött a rendelet: a magyar magánklinikák ingatlanjait is bevonhatja a kormány a védekezésbe",
+        "txtlength": 14116
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/utazas/brutalis-arrobbanas-jon-a-balatonnal-iden-is-siess-ha-jo-aron-akarsz-szallast-foglalni.1111764.html?r=melleklet",
+        "h1": "Brutális árrobbanás jön a Balatonnál idén is? Siess, ha jó áron akarsz szállást foglalni",
+        "txtlength": 12184
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/testem/az-otthoni-edzesek-hatekonysaganak-novelese/",
+        "h1": "Így növelheted az otthoni edzés hatékonyságát",
+        "txtlength": 11133
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/lajfhekk/katyu-keletkezese-bejelentes-karterites/",
+        "h1": "Kátyúk: itt a kisokos, amiből minden kérdésedre választ kaphatsz",
+        "txtlength": 7000
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kulfold/2021/03/05/oroszorszag-borton-buntetotelep-alekszej-navalnij/",
+        "h1": "Van, akinek saját dácsa jut az orosz büntetőtelepeken, másnak csak erőszak és halál",
+        "txtlength": 17023
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kulfold/2021/03/05/minden-tisztsegtol-megfosztja-ukrajna-a-kettos-allampolgarsagu-karpataljai-magyarokat",
+        "h1": "Minden tisztségtől megfosztja Ukrajna a kettős állampolgárságú kárpátaljai magyarokat",
+        "txtlength": 16199
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/belfold/2021/03/06/aba-szakrendelo-zarva-egeszsegugyi-szolgalati-jogviszony",
+        "h1": "A város, ahol a pénz és a politika miatt bezárt az egyetlen szakrendelő",
+        "txtlength": 16059
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/kultura/20210305_Miert_Digitalis_oktatas_lesz_Jaj_de_jo_egesz_nap_biciklizhetek_az_utcan",
+        "h1": "„Miért? Digitális oktatás lesz? Jaj, de jó, egész nap biciklizhetek az utcán!”",
+        "txtlength": 15632
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kultura/2021/03/05/berlinale-beszamolo-berlini-filmfesztival-rengeteg-mindenhol-latlak-termeszetes-feny/",
+        "h1": "Amatőr pornós filmet imádtunk a Berlinalén",
+        "txtlength": 15481
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/operativ-torzs-marcius-5-pentek-lezarasok-vakcina-oltas/07ldf4c",
+        "h1": "Operatív törzs: a favipiravirt kiadják a háziorvosoknak, az iskolákban, óvodákban nem lesz gyermekfelügyelet",
+        "txtlength": 15372
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20210306_Orban_talalkozasai_a_koronavirussal",
+        "h1": "Orbán Viktor találkozásai a koronavírussal",
+        "txtlength": 15253
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/szigoritasok-magyar-kozlony-lista-uzletek-zarva/nlt3pvg",
+        "h1": "Kijött a Magyar Közlönyben: ezek a szigorítások részletei – Teljes lista az üzletekről, szolgáltatásokról, amelyek működhetnek",
+        "txtlength": 14956
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/03/05/dramai-szamok-es-a-teljes-szeteses",
+        "h1": "Drámai számok és a teljes szétesés",
+        "txtlength": 14750
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2021/03/05/fidesz-harmadik-hullam-csod-osszeomlas-kormanyzas/",
+        "h1": "De legalább kormányozni se tudnak",
+        "txtlength": 14433
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/vilag/20210305_A_kormany_rossz_donteseinek_sorozata_kellett_ahhoz_hogy_Csehorszag_az_EU_legjobban_fertozott_orszaga_legyen",
+        "h1": "A kormány rossz döntéseinek sorozata kellett ahhoz, hogy Csehország az EU legjobban fertőzött országa legyen",
+        "txtlength": 14013
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/koronavirus/2021/03/05/oltas-szervezes-oltopont-orban-viktor-muller-cecilia-astrazeneca-sms",
+        "h1": "Minden meg volt szervezve, de valami nagyon félrement most az oltásokkal",
+        "txtlength": 11314
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/03/06/az-iraki-siitak-legbefolyasosabb-vezetojevel-talalkozott-ferenc-papa",
+        "h1": "Az iraki síiták legbefolyásosabb vezetőjével találkozott Ferenc pápa",
+        "txtlength": 10202
+    },
+    {
+        "hostname": "mindmegette.hu",
         "pagelink": "https://www.mindmegette.hu/francia-narancsos-palacsinta-crepes-suzette.recept",
         "h1": "FRANCIA NARANCSOS PALACSINTA (CREPES SUZETTE)",
         "txtlength": 11685
