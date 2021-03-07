@@ -1,6 +1,204 @@
 [
     {
         "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/tepsis-karfiolos-csirke.recept",
+        "h1": "TEPSIS KARFIOLOS CSIRKE",
+        "txtlength": 10550
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/meggyes-pudingos-pite.recept",
+        "h1": "MEGGYES-PUDINGOS PITE",
+        "txtlength": 10401
+    },
+    {
+        "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/nagyon-omlos-pite",
+        "h1": "Nagyon omlós pite",
+        "txtlength": 9901
+    },
+    {
+        "hostname": "hataratkelo.blog.hu",
+        "pagelink": "https://hataratkelo.blog.hu/2021/03/05/iratlan_nyelvi_szabalyok#c39960148",
+        "h1": "Íratlan nyelvi szabályok",
+        "txtlength": 22676
+    },
+    {
+        "hostname": "hafr.hvgblog.hu",
+        "pagelink": "https://hafr.hvgblog.hu/2020/12/01/mi_a_baj_a_liberalizmussal_364/",
+        "h1": "Mi a baj a liberalizmussal?",
+        "txtlength": 7954
+    },
+    {
+        "hostname": "cineartstudio.blog.hu",
+        "pagelink": "https://cineartstudio.blog.hu/2021/03/05/napejegyenloseg-_a_kulonos_hangulatu_dan_sorozat",
+        "h1": "Egy különös hangulatú Dán sorozat - Napéjegyenlőség kritika",
+        "txtlength": 7264
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210224_kisertet_jarja_be_amerikat",
+        "h1": "Kísértet járja be Amerikát",
+        "txtlength": 26114
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20210306/a-nap-es-szelenergia-forradalma-ellenere-orokke-tarthat-az-energiaatmenet-472854",
+        "h1": "A nap- és szélenergia forradalma ellenére örökké tarthat az energiaátmenet",
+        "txtlength": 23528
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/global/20210306/kina-sotet-titka-milliokat-tartanak-brutalis-elnyomasban-totalis-megfigyelesben-zart-taborokban-472444",
+        "h1": "Kína sötét titka: milliókat tartanak brutális elnyomásban, totális megfigyelésben, zárt táborokban",
+        "txtlength": 21285
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210307_cseh_irodalom_voros_istvan",
+        "h1": "Semmi sörgyári capriccio – ilyen a kortárs cseh irodalom",
+        "txtlength": 19255
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/tech/20210306/mikor-vasarolunk-tobbet-online-mint-hagyomanyos-boltokban/",
+        "h1": "Mikor vásárolunk többet online, mint hagyományos boltokban?",
+        "txtlength": 18810
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vallalat/20210307/nem-ertette-sajat-rezsiszamlajat-ebbol-szuletett-meg-europa-leggyorsabban-novekvo-cege/",
+        "h1": "Nem értette saját rezsiszámláját, ebből született meg Európa leggyorsabban növekvő cége",
+        "txtlength": 17904
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210305_deutsche_welle_budai_var_ungvary_naszalyi_orban_horthy_diktatura",
+        "h1": "A Deutsche Wellének a budai vár felújításáról is a zsidóüldözés jut az eszébe",
+        "txtlength": 17402
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/karrier/gigafizetes-varja-a-magyar-melosokat-ezekben-a-szakmakban-kereshetik-romma-magukat.1111962.html",
+        "h1": "Gigafizetés várja a magyar melósokat: ezekben a szakmákban kereshetik rommá magukat",
+        "txtlength": 16809
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2021/03/05/a-negyedik-ipari-forradalom-nemcsak-a-munkankat-hanem-a-gondolkodasunkat-is-meg-fogja-valtoztatni",
+        "h1": "A NEGYEDIK IPARI FORRADALOM NEMCSAK A MUNKÁNKAT, HANEM A GONDOLKODÁSUNKAT IS MEG FOGJA VÁLTOZTATNI",
+        "txtlength": 14955
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/ingatlan/20210306/budapestrol-az-agglomeracioba-koltoznel-mutatjuk-hol-lesz-gyerekjatek-a-vasarlas-469798",
+        "h1": "Budapestről az agglomerációba költöznél? - Mutatjuk, hol lesz gyerekjáték a vásárlás",
+        "txtlength": 14732
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/vasarlas/ismet-fellangolhat-a-vasarlasi-laz-ezt-keresi-most-rengeteg-magyar-az-aruhazakban.1111910.html",
+        "h1": "Ismét fellángolhat a vásárlási láz: ezt keresi most rengeteg magyar az áruházakban",
+        "txtlength": 12350
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/gyerek/egyedulallo-anyak-ismerkedes/",
+        "h1": "Hogyan ismerkedjek, ha soha véget nem érő 24 órás műszakom van? Az egyedülálló anyáknak nem egyszerű, de nem lehetetlen",
+        "txtlength": 11737
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/szuloseg/tinedzser-kamasz-illemszabaly-udvarias-tisztelet/",
+        "h1": "Illemszabályok, etikett, erkölcs: hová tűntek az udvarias gyerekek?",
+        "txtlength": 11618
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/testem/deadbug-hasizom-gyakorlat/",
+        "h1": "Dead bug: Alap-hasizomerősítés kezdőknek és haladóknak",
+        "txtlength": 11181
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kultura/2021/03/06/varosliget-tervezesi-koncepcio-budapest-fovaros-kozpark-tajepiteszeti-foosztaly-tajepiteszet-nebbien/",
+        "h1": "Újra élhető közparkká alakítaná a Városligetet a főváros",
+        "txtlength": 33688
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/szorakozas/2021/03/06/az-uzlet-nem-jatek-de-ha-megis-akkor-eleg-jo",
+        "h1": "Az üzlet nem játék – de ha mégis, akkor elég jó",
+        "txtlength": 26065
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kultura/2021/03/07/napoly-cserna-szabo-konyha-bor-matine-konyvajanlo/",
+        "h1": "Tíz percet rótt ki a magyar íróra a nápolyi pincér",
+        "txtlength": 22552
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/kultura/20210306_megszunik_a_poszt_vidnyanszky_attila_pecsi_orszagos_szinhazi_talalkozo_tortenete",
+        "h1": "Vidnyánszky felrúgott egy széket a POSZT-on, most utánaröpült az egész fesztivál",
+        "txtlength": 18477
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/gazdasag/2021/03/06/magyarorszag-zarja-a-kaszinokat-a-legnagyobb-kozpontok-mar-ovatosan-nyitnak",
+        "h1": "Magyarország zárja a kaszinókat, a legnagyobb központok már óvatosan nyitnak",
+        "txtlength": 18029
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/szorakozas/2021/03/06/billie-eilish-the-worlds-a-little-blurry-dokumentumfilm/",
+        "h1": "Billie Eilish élete inkább egy átlag tinédzseréhez hasonlít, mintsem egy szupersztáréhoz – sajnos",
+        "txtlength": 16480
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kulfold/2021/03/06/legdragabb-focistak-autoi-szupersportkocsi-alapjarat",
+        "h1": "Milyen autóik vannak a világ legdrágább focistáinak?",
+        "txtlength": 14318
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/gazdasag/20210305_nyitvatartas_kerdes_felelet",
+        "h1": "Megjelent a rendelet: így vásárolhatunk és intézhetjük ügyeinket hétfőtől",
+        "txtlength": 12649
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/politika/oltas-magyarorszag-gulyas-gergely/gd7ycjn",
+        "h1": "Gulyás Gergely bejelentést tett a koronavírus elleni oltásokkal kapcsolatban",
+        "txtlength": 12139
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/gazdasag/20210307_Es_akkor_lezaras_jarvany_hipa_arfolyam_buszok",
+        "h1": "És akkor kiderült, egy lezárást megszervezni bonyolultabb a stadionépítésnél",
+        "txtlength": 11418
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/03/06/gulyas-szerint-a-fidesz-nepparti-tagsaga-mar-csak-technikai-kerdes",
+        "h1": "Gulyás szerint a Fidesz néppárti tagsága már csak technikai kérdés",
+        "txtlength": 11026
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/idojaras-elorejelzes-kora-tavaszi-ido-napsutes-minuszok-eso/1wxt92b",
+        "h1": "Ennyi volt a tavasz? Kemény mínuszok és havazás is lehet a jövő héten - erre kell számítanunk",
+        "txtlength": 10918
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/03/07/rusvai-az-atimmunizaltsagnak-el-kene-erni-a-70-szazalekot-ami-hetmillio-embert-jelent",
+        "h1": "Rusvai: Az átimmunizáltságnak el kéne érni a 70 százalékot, ami hétmillió embert jelent",
+        "txtlength": 8535
+    },
+    {
+        "hostname": "mindmegette.hu",
         "pagelink": "https://www.mindmegette.hu/svab-sufnudli-medvehagymaval.recept",
         "h1": "SVÁB SUFNUDLI MEDVEHAGYMÁVAL",
         "txtlength": 10767
