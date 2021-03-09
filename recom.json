@@ -1,5 +1,191 @@
 [
     {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/majas-hurka.recept",
+        "h1": "MÁJAS HURKA",
+        "txtlength": 10426
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/legjobb-bakonyi-palacsinta.recept",
+        "h1": "BAKONYI PALACSINTA",
+        "txtlength": 10390
+    },
+    {
+        "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/egyszeru-ciganypecsenye",
+        "h1": "Egyszerű cigánypecsenye",
+        "txtlength": 9540
+    },
+    {
+        "hostname": "hataratkelo.blog.hu",
+        "pagelink": "https://hataratkelo.blog.hu/2021/03/08/igy_oltottak_hetvegen_a_franciak#c39966556",
+        "h1": "Így oltottak hétvégén a franciák",
+        "txtlength": 28978
+    },
+    {
+        "hostname": "kulturpart.hu",
+        "pagelink": "https://kulturpart.blog.hu/2021/03/09/kitartas_es_katarzis_a_jane_austen_terapia",
+        "h1": "KITARTÁS ÉS KATARZIS: A JANE AUSTEN TERÁPIA",
+        "txtlength": 11282
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/kapcsolat/toth-krisztina-interju/",
+        "h1": "Tóth Krisztina: „Én úgy nőttem fel, hogy az önfegyelem a legfőbb érték\" - Szily Nóra interjúja",
+        "txtlength": 28521
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20210309/most-dol-el-a-videk-sorsa-ezermilliardok-erkeznek-de-mire-keszul-a-kormany-472334",
+        "h1": "Most dől el a vidék sorsa, ezermilliárdok érkeznek - De mire készül a kormány?",
+        "txtlength": 28195
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210324_vakcina_diplomacia",
+        "h1": "Atomfegyvert könnyebb szerezni? – így dübörög a vakcinadiplomácia",
+        "txtlength": 27475
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2021/03/09/jatszd-ujra-rambo-bar-15-eve-eltemettek-a-vhs-nem-halt-meg-sot-egyenesen-potolhatatlan",
+        "h1": "JÁTSZD ÚJRA, RAMBO: BÁR 15 ÉVE ELTEMETTÉK, A VHS NEM HALT MEG, SŐT EGYENESEN PÓTOLHATATLAN",
+        "txtlength": 26941
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/vallalkozas/800-ezret-is-kaszalhat-egy-wolt-futar-rengeteg-embert-keresnek-a-nagyvarosokban.1112028.html",
+        "h1": "800 ezret is kaszálhat egy Wolt futár: rengeteg embert keresnek a nagyvárosokban",
+        "txtlength": 22875
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210308_kiszamoltuk_mi_lenne_ha_a_kormany_hallgatott_volna_a_baloldalra",
+        "h1": "Kiszámoltuk, mi lenne, ha a kormány hallgatott volna a baloldalra",
+        "txtlength": 20823
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210309_robotizacio_tulnepesedes_demografia",
+        "h1": "Túlnépesedés és robotizáció – mit hoz a 21. század az emberiségnek?",
+        "txtlength": 20772
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20210309/barcsak-ket-hetig-tartana-a-magyarorszagi-lezaras-a-kulfoldi-peldak-egeszen-mast-uzennek-473196",
+        "h1": "Bárcsak két hétig tartana a magyarországi lezárás! – A külföldi példák egészen mást üzennek",
+        "txtlength": 19019
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/uzlet/20210308/a-dunaferr-sajat-maga-vallotta-be-hogy-a-csod-szelere-kerultek-473132",
+        "h1": "A Dunaferr saját maga vallotta be, hogy a csőd szélére kerültek",
+        "txtlength": 18860
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vallalat/20210309/egyre-konnyebb-muanyag-zacsko-nelkul-vasarolni-megsem-szabadulunk-tole/",
+        "h1": "Egyre könnyebb műanyag zacskó nélkül vásárolni, mégsem szabadulunk tőle",
+        "txtlength": 18120
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/fizetett-hirdetes/20210308/cemix-neven-folytatja-a-lasselsberger-knauf/",
+        "h1": "Cemix néven folytatja a Lasselsberger-Knauf",
+        "txtlength": 17246
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/vasarlas/alattomos-penztarca-gyilkos-fosztogatja-a-magyarokat-a-boltok-is-siman-lehuznak-vele.1111816.html",
+        "h1": "Alattomos pénztárca-gyilkos fosztogatja a magyarokat: a boltok is simán lehúznak vele",
+        "txtlength": 12659
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/lajfhekk/pihenteto-szunditas/",
+        "h1": "Délutáni alvás: így csináld, hogy tényleg hatásos legyen",
+        "txtlength": 8633
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/belfold/2021/03/09/navracsics-tibor-interju-2021marcius",
+        "h1": "Navracsics Tibor: Nem tudom, belépnék-e ma a Fideszbe",
+        "txtlength": 38282
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/szorakozas/2021/03/09/amerikaba-jottem-amazon-eddie-murphy",
+        "h1": "Amerikába jöttem, híres mesterségem címere...egy közepesen gyenge folytatás",
+        "txtlength": 17789
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/szorakozas/2021/03/08/meghan-hercegne-harry-herceg-interju-oprah-winfrey-rasszizmus-brit-kiralyi-csalad/",
+        "h1": "Rasszista, kirekesztő, érzelemmentes – Meghanék interjúja után ezt hihetjük a brit királyi családról",
+        "txtlength": 15395
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kultura/2021/03/08/ismeretlen-magyarok-rosenbluh-roboz-erzsebet-hans-albert-einstein-vegyesz-biokemikus-orvostudomany/",
+        "h1": "Világhírű magyar tudósnőt vett feleségül Einstein legidősebb fia",
+        "txtlength": 15138
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kulfold/2021/03/08/ferenc-papa-irak-latogatas/",
+        "h1": "Mit adott Ferenc pápa látogatása az irakiaknak?",
+        "txtlength": 14669
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kulfold/2021/03/08/olaszorszag-1-euros-haz-lakas-ingatlan-tapasztalatok-megvette-felujit",
+        "h1": "Mostanra már látszik, mennyibe kerülnek valójában az egyeurós olasz házak",
+        "txtlength": 14205
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20210308_koronavirus_astrazeneca_oltasi_kaosz_orbankormany",
+        "h1": "Tiszta beszéddel kezelhették volna az oltási baklövést, csak épp ez nem az a kormány",
+        "txtlength": 13634
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/politika/kovacs-bela-ugyeszseg-fegyhaz/fb31bkj",
+        "h1": "Fordulat: fegyházba rakatnák Kovács Bélát, a Jobbik volt EP-képviselőjét",
+        "txtlength": 12774
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/ivanyi-gabor-lelkesz-nem-erez-felelmet/5c0e4e4",
+        "h1": "„Nem omlanék össze, ha bezárnának” – Iványi Gábor kétszer is megküzdött a vírussal, most a NAV-val harcol, de nem adja fel",
+        "txtlength": 12498
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/tudomany/20210308_harmadik_hullam_koronavirus_gyerekek_szures_teszteles",
+        "h1": "A szakemberek szerint a harmadik hullámban sokkal több gyermek betegszik meg Magyarországon",
+        "txtlength": 11494
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/gazdasag/20210308_nok_es_ferfiak_magyarorszagon",
+        "h1": "Amint jön a válság, a nők munkája nagyobb veszélybe kerül",
+        "txtlength": 10082
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/03/09/soha-nem-voltak-meg-olyan-sokan-korhazban-coviddal-mint-most",
+        "h1": "Soha nem voltak még olyan sokan kórházban coviddal, mint most",
+        "txtlength": 9997
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/03/08/tuntettek-varsoban-nonapon-az-abortusztilalom-ellen",
+        "h1": "Tüntettek Varsóban nőnapon az abortusztilalom ellen",
+        "txtlength": 9606
+    },
+    {
         "hostname": "kiszamolo.hu",
         "pagelink": "https://kiszamolo.hu/a-boseg-zavara/#more-115015",
         "h1": "A bőség zavara",
