@@ -1,6 +1,186 @@
 [
     {
         "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/csokis-rumos-szelet.recept",
+        "h1": "RUMOS-CSOKIS SZELET",
+        "txtlength": 10368
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/csaszarmorzsa-eperlekvarral.recept",
+        "h1": "CSÁSZÁRMORZSA EPERLEKVÁRRAL",
+        "txtlength": 10348
+    },
+    {
+        "hostname": "alapblog.hu",
+        "pagelink": "https://alapblog.hu/a-szerencse-legyen-velunk-2/",
+        "h1": "A SZERENCSE LEGYEN VELÜNK",
+        "txtlength": 11172
+    },
+    {
+        "hostname": "kulturpart.hu",
+        "pagelink": "https://kulturpart.blog.hu/2021/03/07/kis_nonapi_viragtortenelem",
+        "h1": "KIS NŐNAPI VIRÁGTÖRTÉNELEM",
+        "txtlength": 10123
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210303_baloldali_tesztcsorte_zugloban",
+        "h1": "Baloldali tesztcsörte Zuglóban",
+        "txtlength": 29724
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210303_ez_a_mi_hazank_a_mol_otthona",
+        "h1": "Ez a mi hazánk, a Mol otthona – Hernádi Zsolt a Mandinernek",
+        "txtlength": 26692
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20210310/mit-tanulhatunk-a-koronavirus-valsagbol-egy-uj-nehez-szakaszba-lep-a-magyar-gazdasag-473212",
+        "h1": "Mit tanulhatunk a koronavírus-válságból? - Egy új, nehéz szakaszba lép a magyar gazdaság",
+        "txtlength": 24232
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210308_ciganytelepen_jart_a_zdf_orbanozas_lett_belole",
+        "h1": "Cigánytelepen járt a ZDF riportere, és Jakab Péterré változott",
+        "txtlength": 22171
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/uzlet/20210309/a-koronavirus-valsag-eltorpul-amellett-ami-utana-johet-ha-nem-teszunk-valamit-473206",
+        "h1": "A koronavírus-válság eltörpül amellett, ami utána jöhet, ha nem teszünk valamit",
+        "txtlength": 21769
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/kozelet/20210310/mako-utan-gyongyoson-is-sztrajk-jelzi-az-egyre-nagyobb-berfeszultseget/",
+        "h1": "Makó után Gyöngyösön is sztrájk jelzi az egyre nagyobb bérfeszültséget",
+        "txtlength": 19008
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/uzlet/20210310/vakcinahaboru-onzetlen-vilagmegmento-akcio-vagy-csak-a-profit-szamit-473356",
+        "h1": "Vakcinaháború: önzetlen világmegmentő akció, vagy csak a profit számít?",
+        "txtlength": 18222
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/karrier/6-meghatarozo-trend-a-magyar-munkahelyeken-2021-ben-erre-jobb-ha-felkeszulsz.1112148.html",
+        "h1": "6 meghatározó trend a magyar munkahelyeken 2021-ben: erre jobb, ha felkészülsz!",
+        "txtlength": 17686
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/hitel/keves-magyar-jut-hozza-ezekhez-az-olcso-lakasokhoz-az-elelmesek-igy-csinaljak.1111990.html",
+        "h1": "Kevés magyar jut hozzá ezekhez az olcsó lakásokhoz: az élelmesek így csinálják",
+        "txtlength": 17016
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vallalat/20210308/rekordev-utan-visszaeses-es-boltbezaras-hogyan-veszeli-at-a-jarvanyt-egy-plaza/",
+        "h1": "Rekordév után visszaesés és boltbezárás – hogyan vészeli át a járványt egy pláza?",
+        "txtlength": 16866
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2021/03/08/8-gyakori-kerdes-a-vakcinakrol-8-alapos-valasz",
+        "h1": "8 GYAKORI KÉRDÉS A VAKCINÁKRÓL, 8 ALAPOS VÁLASZ",
+        "txtlength": 15279
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/otthon/jogcim-nelkuli-ingatlanhasznalat/",
+        "h1": "Jogcím nélküli ingatlanhasználat: mit tehet a tulaj, ha nem akar kiköltözni a lakó?",
+        "txtlength": 14050
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/szuloseg/kotodes-erositese-jatekok-gyerekek/",
+        "h1": "4 játéktípus, ami erősíti a szülő-gyerek kapcsolatot és a kötődést",
+        "txtlength": 11732
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/gazdasag/2021/03/10/kodaly-korond-pusztulo-muemlekhaz-lakoinak-kalvariaja",
+        "h1": "Az állam teljesen lerohasztotta Budapest egyik legszebb házát, ma már perben áll a lakókkal",
+        "txtlength": 21151
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/kultura/20210309_szfe_hok_elnok_interju_szinhaz_es_filmmuveszeti_egyetem_hallgatoi_onkormanyzat_horvath_eszter_freeszfe",
+        "h1": "Az SZFE új HÖK-elnöke: „Ez nem fájó kijózanodás, hanem folyamatos fájdalom”",
+        "txtlength": 18034
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/belfold/2021/03/09/ujra-itt-vannak-az-egy-eve-kiutasitott-irani-diakok-a-helsinki-szerint-konstrualt-eljaras-volt",
+        "h1": "Újra itt vannak az egy éve kiutasított iráni diákok",
+        "txtlength": 15425
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/belfold/2021/03/10/szocialis-agazat-munkaerohiany-gyarmati-andrea-idosellatas-ksh",
+        "h1": "Alulfizetett, túlterhelt, középkorú nőkre hárul a leginkább rászorulók ellátása",
+        "txtlength": 15396
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/gazdasag/20210309_Rendesen_megizzasztottak__folytatodott_a_huzd_megereszd_meg_a_kormany_es_az_onkormanyzatok_kozott",
+        "h1": "\"Rendesen megizzasztottak\" – folytatódott a húzd meg-ereszd meg a kormány és az önkormányzatok között",
+        "txtlength": 15327
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20210310_Maradok_egeszsegugyi_jogviszony",
+        "h1": "Maradók az egészségügyben: „Nyílt egy perspektíva az orvosok előtt, ezt sikerült most tönkretenni”",
+        "txtlength": 13862
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/vakcinainfo-regisztracio-koronavirus-informaciok/8j76q3s",
+        "h1": "Fontos információkat kaptunk a vakcinaregisztrációról – Simán lehet többször is jelentkezni, rengeteg embert érint – Videóra vettük az egészet",
+        "txtlength": 13424
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/politika/gyurcsany-ferenc-dobrev-klara-koronavirus-kettesben-fiaval/k1jz2v3",
+        "h1": "Pótanya lett Gyurcsány, nem kicsit, nagyon – Felesége betegsége miatt kettesben tölti a napokat a fiával",
+        "txtlength": 12350
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/fn/gazdasag/2021/03/10/hatalmas-kockazat-elore-kifizetni-lakasfelujitas-kivitelezo/",
+        "h1": "Komoly kockázatot vállal, aki előre kifizeti a lakásfelújítást",
+        "txtlength": 12192
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/03/09/negativ-rekordok-titkos-szerzodesek",
+        "h1": "Negatív rekordok, titkos szerződések",
+        "txtlength": 10919
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/fn/gazdasag/2021/03/09/benzinar-meddig-emelkedik/",
+        "h1": "Jobb, ha megbarátkozunk a gondolattal: nemsokára 450 forint fölé mehet a benzin átlagára",
+        "txtlength": 10190
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/03/09/a-nagy-techcegek-ket-adaz-kritikusa-kerul-fontos-pozicioba-az-egyesult-allamokban",
+        "h1": "A nagy techcégek két ádáz kritikusa kerül fontos pozícióba az Egyesült Államokban",
+        "txtlength": 10176
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kultura/2021/03/09/bardoczi-sandor-fotajepitesz-fovarosi-onkormanyzat-varosliget-rondo/",
+        "h1": "Budapest főtájépítésze: Látjuk, hogy készül valami a Ligetben ismét",
+        "txtlength": 9278
+    },
+    {
+        "hostname": "mindmegette.hu",
         "pagelink": "https://www.mindmegette.hu/majas-hurka.recept",
         "h1": "MÁJAS HURKA",
         "txtlength": 10426
