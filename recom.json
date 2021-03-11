@@ -1,6 +1,186 @@
 [
     {
         "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/szines-piritott-rizs-csirkemellel.recept",
+        "h1": "SZÍNES PIRÍTOTT RIZS CSIRKEMELLEL",
+        "txtlength": 10194
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/pyttipanna-sved-serpenyos-maradekokbol.recept",
+        "h1": "PYTTIPANNA – SVÉD SERPENYŐS MARADÉKOKBÓL",
+        "txtlength": 10127
+    },
+    {
+        "hostname": "hataratkelo.blog.hu",
+        "pagelink": "https://hataratkelo.blog.hu/2021/03/08/igy_oltottak_hetvegen_a_franciak#c39976174",
+        "h1": "Így oltottak hétvégén a franciák",
+        "txtlength": 51592
+    },
+    {
+        "hostname": "kulturpart.hu",
+        "pagelink": "https://kulturpart.blog.hu/2021/03/05/ezust_medvet_nyert_a_magyar_haborus_film",
+        "h1": "EZÜST MEDVÉT NYERT A MAGYAR HÁBORÚS FILM",
+        "txtlength": 6546
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210310_dave_rubin_interju",
+        "h1": "A klasszikus liberálisok ma már konzervatívok – Dave Rubin a Mandinernek",
+        "txtlength": 28059
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210310_zaborszky_ede_facebook_tenyellenor_a_mandinernek",
+        "h1": "„A dolgunk, hogy az álhíreket tételesen cáfoljuk” – Záborszky Ede Facebook-tényellenőr a Mandinernek",
+        "txtlength": 21212
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210309_jovot_kell_nyernunk_az_ujrainditasrol_es_a_magyar_kultura_jovojerol",
+        "h1": "Jövőt kell nyernünk – az újraindításról és a magyar kultúra jövőjéről",
+        "txtlength": 20925
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/kozelet/20210311/minden-megvan-ahhoz-hogy-az-oltast-jol-megszervezzek-ezert-kulonosen-kinos-amit-latunk/",
+        "h1": "Minden megvan ahhoz, hogy az oltást jól megszervezzék, ezért különösen kínos, amit látunk",
+        "txtlength": 20302
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20210311/sokkolta-a-vilagot-a-japan-atomeromu-katasztrofa-de-ismet-eljohet-a-nuklearis-energia-ideje-473658",
+        "h1": "Sokkolta a világot a japán atomerőmű-katasztrófa, de ismét eljöhet a nukleáris energia ideje",
+        "txtlength": 20049
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/ingatlan/20210310/ujratervezett-fejlesztesek-es-egyre-tobb-penz-a-hazai-ingatlanpiacon-472830",
+        "h1": "Újratervezett fejlesztések és egyre több pénz a hazai ingatlanpiacon",
+        "txtlength": 19631
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/adat/20210310/van-e-kiut-a-zsakutcabol/",
+        "h1": "Van-e kiút a zsákutcából?",
+        "txtlength": 19326
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/vasarlas/valsagos-helyzetben-a-magyar-kisnyugdijasok-zsemlere-parizerre-is-alig-eleg-a-penzuk.1112198.html",
+        "h1": "Válságos helyzetben a magyar kisnyugdíjasok: zsemlére, parizerre is alig elég a pénzük",
+        "txtlength": 17253
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2021/03/11/beoltottak-a-koronavirus-ellen-mostantol-enyem-a-vilag",
+        "h1": "BEOLTOTTAK A KORONAVÍRUS ELLEN. MOSTANTÓL ENYÉM A VILÁG?",
+        "txtlength": 16892
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/befektetes/20210311/a-jarvany-kitorese-ota-nem-volt-ekkora-felfordulas-a-magyar-piacon-ezert-kellett-lepnie-az-mnb-nek-473542",
+        "h1": "A járvány kitörése óta nem volt ekkora felfordulás a magyar piacon, ezért kellett lépnie az MNB-nek",
+        "txtlength": 14935
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/kapcsolat/klimax-mint-veszteseg/",
+        "h1": "Veszteségeink: a klimaxra nemcsak felkészülni kell, de végig is kell csinálni",
+        "txtlength": 14578
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/karrier/nesze-neked-maganelet-ma-mar-csak-alom-a-munkamentes-pihenes.1112206.html",
+        "h1": "Nesze neked magánélet: ma már csak álom a munkamentes pihenés",
+        "txtlength": 12748
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/szuloseg/szules-utani-has-anyatest-sport/",
+        "h1": "Terhesnek nézek ki szülés után, ez normális?",
+        "txtlength": 11900
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kulfold/2021/03/10/hasogdzsi-gyilkossag-mohamed-bin-szalman-amerikai-titkosszolgalat-jelentes-szaud-arabia",
+        "h1": "Csontfűrésszel daraboltatta fel kritikusát, mégis érinthetetlen maradt",
+        "txtlength": 20903
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kulfold/2021/03/11/lengyelorszag-kaczynski-pis-klientelizmus-kormany",
+        "h1": "Egyre zsarolóbbá válik Kaczyński rendszere",
+        "txtlength": 18126
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/gazdasag/2021/03/10/a-covid-lathatatlan-szektorokra-is-lesujtott-az-allam-minket-elfelejtett",
+        "h1": "A Covid láthatatlan szektorokra is lesújtott: az állam minket elfelejtett",
+        "txtlength": 16313
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20210311_rendkivuli_jogrend_egy_eve",
+        "h1": "Egy éves, mégis mindenkinél nagyobb a hatalma: így változott az életünk különleges jogrend alatt",
+        "txtlength": 16184
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kultura/2021/03/10/kem-kemkedes-frank-willibald-lelottek-bizarr-tortenelem/",
+        "h1": "Kémkedett, mire lelőtték – rejtélyes történet a hatvanas évek Magyarországáról",
+        "txtlength": 13113
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/voros-hadsereg-magyarorszag-megszallas-szovjet-csapatkivonas-horn-kosa-demszky/e7plqlj",
+        "h1": "Így töltötték az idejüket a szovjet megszálló katonák Magyarországon – Ott voltak mindenhol, de 31 éve kiderült: menniük kell – galéria",
+        "txtlength": 12660
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/politika/megfelezte-bereket-magan-nem-sporol-szekszard-polgarmestere/h81d13z",
+        "h1": "Saját magán nem spórol a szekszárdi polgármester: csak mások bérét felezte meg a járvány miatt",
+        "txtlength": 12358
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2021/03/11/otodik-kerulet-belvaros-so-ter-zsebpark-fejlesztes-palyazat/",
+        "h1": "„Zsebparkra” kaptak annyi pénzt, hogy abból húszezresekkel lehetne befedni az egész területet",
+        "txtlength": 11295
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/tudomany/20210310_ferenci_tamas_koronavirus_jarvany_vedooltas",
+        "h1": "Ferenci Tamás: A legoptimistább forgatókönyv szerint áprilisra már érzékelhető hatása lesz az oltásnak",
+        "txtlength": 11226
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/tudomany/2021/03/10/favipiravir-koronavirus-covid-19-antiviralis-szer-kezeles-mta/",
+        "h1": "Mit kell tudni a favipiravirról?",
+        "txtlength": 11131
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/03/10/a-fideszes-alapjogokert-kozpont-eljutott-oda-hogy-mar-akkor-is-csak-gyurcsany-nyerhet-a-baloldalon-ha-veszit",
+        "h1": "A fideszes Alapjogokért Központ eljutott oda, hogy már akkor is csak Gyurcsány nyerhet a baloldalon, ha veszít",
+        "txtlength": 11040
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/03/10/a-bitcoin-nemsokara-annyi-karosanyag-kibocsatasert-lesz-felelos-mint-london",
+        "h1": "A bitcoin nemsokára annyi károsanyag-kibocsátásért lesz felelős, mint London",
+        "txtlength": 10363
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/gazdasag/20210311_bankszamla_valtas_bank360",
+        "h1": "És ön mennyit fizet a bankszámlájáért? Évek alatt tízezreket is spórolhatunk egy jó választással",
+        "txtlength": 9963
+    },
+    {
+        "hostname": "mindmegette.hu",
         "pagelink": "https://www.mindmegette.hu/csokis-rumos-szelet.recept",
         "h1": "RUMOS-CSOKIS SZELET",
         "txtlength": 10368
