@@ -1,6 +1,186 @@
 [
     {
         "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/sonkas-paradicsomos-teszta.recept",
+        "h1": "SONKÁS-PARADICSOMOS TÉSZTA",
+        "txtlength": 10474
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/sargaborsoleves-zoldsegesen-egyszeruen.recept",
+        "h1": "ZÖLDSÉGES SÁRGABORSÓLEVES",
+        "txtlength": 10318
+    },
+    {
+        "hostname": "hataratkelo.blog.hu",
+        "pagelink": "https://hataratkelo.blog.hu/2021/03/08/igy_oltottak_hetvegen_a_franciak#c39980874",
+        "h1": "Így oltottak hétvégén a franciák",
+        "txtlength": 52518
+    },
+    {
+        "hostname": "kulturpart.hu",
+        "pagelink": "https://kulturpart.hu/2021/03/05/ezust_medvet_nyert_a_magyar_haborus_film",
+        "h1": "EZÜST MEDVÉT NYERT A MAGYAR HÁBORÚS FILM",
+        "txtlength": 6546
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210311_az_ellenzek_eselyeit_nem_akarjuk_rontani_varga_damm_andrea_a_mandinernek",
+        "h1": "A Jobbik baloldali párttá vált – Varga-Damm Andrea a Mandinernek",
+        "txtlength": 23953
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/kozelet/20210312/a-vissza-nem-teritendo-tamogatasok-megmergezik-a-magyar-gazdasagot/",
+        "h1": "A vissza nem térítendő támogatások megmérgezik a magyar gazdaságot",
+        "txtlength": 22152
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/global/20210311/teritekre-kerult-nagy-britannia-szetszakadasa-megvalosulhat-a-horror-forgatokonyv-473520",
+        "h1": "Terítékre került Nagy-Britannia szétszakadása - Megvalósulhat a horror forgatókönyv?",
+        "txtlength": 21218
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/kapcsolat/almasi-kitti-interju/",
+        "h1": "Almási Kitti: „Egy nő abban gondolkodik, mit kellene ahhoz fölmutatnia, hogy ne ítéljék el” - Szily Nóra interjúja",
+        "txtlength": 20213
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/krtk/20210312/mit-dobunk-ki-a-kukaba-felterkepeztuk-a-hazai-hulladekhelyzetet-473564",
+        "h1": "Mit dobunk ki a kukába? – Feltérképeztük a hazai hulladékhelyzetet",
+        "txtlength": 19588
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/elet/20210311/miert-nohet-a-foglalkoztatottsag-ha-emelik-a-minimalbert/",
+        "h1": "Miért nőhet a foglalkoztatottság, ha emelik a minimálbért?",
+        "txtlength": 18830
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2021/03/11/megfizetni-nyan-catet-miert-er-tobb-tizezer-dollart-egy-milliard-peldanyban-letezo-fajl",
+        "h1": "MEGFIZETNI NYAN CATET: MIÉRT ÉR TÖBB TÍZEZER DOLLÁRT EGY MILLIÁRD PÉLDÁNYBAN LÉTEZŐ FÁJL?",
+        "txtlength": 17124
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/uzlet/20210312/nagy-bejelenteseket-tett-az-opus-meghatarozo-szereplok-lennenek-a-hazai-energetikai-piacon-473874",
+        "h1": "Nagy bejelentéseket tett az Opus - Meghatározó szereplők lennének a hazai energetikai piacon",
+        "txtlength": 16301
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210311_nem_gondolja_hogy_egy_kis_szar_virus_legyoz_bennunket_zacher_gabor_a_mandinernek",
+        "h1": "Nem gondolja, hogy egy kis szar vírus legyőz bennünket? – Zacher Gábor a Mandinernek",
+        "txtlength": 15897
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210310_valofelben",
+        "h1": "Válófélben",
+        "txtlength": 14702
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/hitel/sok-fiatal-kerul-bajba-az-elso-lakas-miatt-ezekre-a-csapdakra-mindenkepp-figyelj.1112204.html",
+        "h1": "Sok fiatal kerül bajba az első lakás miatt: ezekre a csapdákra mindenképp figyelj",
+        "txtlength": 12848
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/hitel/ujra-megy-a-kamat-jatek-a-magyar-bankokban-ha-nem-figyelsz-durvan-lehuznak.1112244.html",
+        "h1": "Újra megy a kamat-játék a magyar bankokban: ha nem figyelsz, durván lehúznak!",
+        "txtlength": 12625
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/szuloseg/mit-csinal-a-dula/",
+        "h1": "Mit csinál pontosan egy dúla?",
+        "txtlength": 11282
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/sport/2021/03/11/hrutka-janos-labdarugas-gulacsi-nagyinterju/",
+        "h1": "Hrutka János: Nem kis bátorság kellett Gulácsi tettéhez, ismerve a közeget",
+        "txtlength": 45420
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kulfold/2021/03/11/joe-biden-mentocsomag-elenkites-usa-szemleletvaltas-szegenyek-szocialis-halo-allamadossag-inflacio",
+        "h1": "Joe Biden 1900 milliárd dollárja új irányt szab Amerikának",
+        "txtlength": 22119
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/kormanyinfo-gulyas-gergely-jarvany-intezkedesek/rhc077q",
+        "h1": "Gulyás Gergely: csak az oltásokról tudunk jó hírekkel szolgálni, az idősek ismét levelet kapnak Müllertől",
+        "txtlength": 18907
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/03/12/vesztesen-a-ranglistakon",
+        "h1": "Vesztesként a ranglistákon",
+        "txtlength": 17263
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/elet/20210311_Halasz_Rita_A_nyelv_amit_leirunk_es_beszelunk_mi_vagyunk",
+        "h1": "Halász Rita: A közbeszédnek jót tenne az árnyaltság és az empátia",
+        "txtlength": 16931
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/tudomany/2021/03/11/hit-gyogyitas-placebo-szivunk-imaja-ima",
+        "h1": "Betegek gyógyulásáért imádkozni – mit mond a tudomány?",
+        "txtlength": 16922
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/tudomany/2021/03/11/magyarorszagon-is-mindenki-aldozat-akar-lenni",
+        "h1": "Magyarországon mindenki áldozat akar lenni",
+        "txtlength": 15765
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/szorakozas/2021/03/11/piers-morgan-meghan-markle-interju-reakcio-felmondas-raszizmus/",
+        "h1": "Beckham lepatkányozása, szexizmus, a kínaiak kifigurázása – így telt Piers Morgan karrierje",
+        "txtlength": 13364
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/03/11/vakcinafejlemenyek-es-rekordszamu-fertozott",
+        "h1": "Vakcinafejlemények és rekordszámú fertőzött",
+        "txtlength": 13033
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20210311_koronavirus_egy_ev",
+        "h1": "Rengeteg infografikán mutatjuk meg a koronavírus-járványunk egy évét",
+        "txtlength": 12977
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/parkapcsolat-eroszak-csaladon-beluli-eroszak-koma/c30p279",
+        "h1": "Életveszélyes sérülésekkel került kórházba: évekig tartotta terrorban Rékát kegyetlen barátja",
+        "txtlength": 12753
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20210311_Korhaz_intenziv_osztaly_lelegeztetogep_koronavirus",
+        "h1": "Egy orvos szerint választani kell a lélegeztetőgépre kerülő betegek között, a Kórházi Főigazgatóság cáfol",
+        "txtlength": 11490
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kultura/2021/03/11/balatonvilagos-balatonaliga-sarhegyi-es-tarsai-ugyvedi-iroda-nemzetgazdasagi-kiemeles/",
+        "h1": "Kormányhátszéllel születő társasház rontja tovább a Balaton képét",
+        "txtlength": 11063
+    },
+    {
+        "hostname": "mindmegette.hu",
         "pagelink": "https://www.mindmegette.hu/szines-piritott-rizs-csirkemellel.recept",
         "h1": "SZÍNES PIRÍTOTT RIZS CSIRKEMELLEL",
         "txtlength": 10194
