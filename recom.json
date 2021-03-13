@@ -1,6 +1,192 @@
 [
     {
         "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/thai-garnelas-rizsteszta-ahogy-kocsis-korinna-kesziti.recept",
+        "h1": "THAI GARNÉLÁS RIZSTÉSZTA, AHOGY KOCSIS KORINNA KÉSZÍTI",
+        "txtlength": 10172
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/babfozelek-kolbasszal.recept",
+        "h1": "KOLBÁSZOS BABFŐZELÉK",
+        "txtlength": 10007
+    },
+    {
+        "hostname": "kiszamolo.hu",
+        "pagelink": "https://kiszamolo.hu/ingatlanvetel-6-resz-mennyit-er-az-ingatlan/",
+        "h1": "Ingatlanvétel 6. rész: mennyit ér az ingatlan?",
+        "txtlength": 38484
+    },
+    {
+        "hostname": "alapblog.hu",
+        "pagelink": "https://alapblog.hu/bitcoin-es-fenntarthatosag/",
+        "h1": "BITCOIN ÉS FENNTARTHATÓSÁG",
+        "txtlength": 10631
+    },
+    {
+        "hostname": "efesasanisimasa.com",
+        "pagelink": "https://efesasanisimasa.com/2021/03/09/ellensegek-hostiles-2017/",
+        "h1": "Ellenségek (Hostiles, 2017)",
+        "txtlength": 9230
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/befektetes/20210312/uj-izgalmakat-hoz-a-befektetesek-vilagaba-a-friss-eu-s-szabaly-igy-keszulnek-a-magyar-alapkezelok-473824",
+        "h1": "Új izgalmakat hoz a befektetések világába a friss EU-s szabály – Így készülnek a magyar alapkezelők",
+        "txtlength": 27928
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210313_werner_patzelt_interju",
+        "h1": "Nem okos lépés a Fidesz kiszorítása a Néppártból – Werner Patzelt a Mandinernek",
+        "txtlength": 26337
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/kozelet/20210312/a-kozepes-jovedelem-csapdahelyzetebol-magyarorszagnak-egy-kiut-latszik/",
+        "h1": "A közepes jövedelem csapdahelyzetéből Magyarországnak egy kiút látszik",
+        "txtlength": 25566
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210310_lengyel_torteneti_muzeum_robert_kostro",
+        "h1": "„Az identitás a történelemmel fejlődő fogalom” – az új Lengyel Történeti Múzeum igazgatója lapunknak",
+        "txtlength": 23520
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/penz/20210312/a-mutansok-terjedese-es-a-korlatozasok-ellenere-a-piac-mar-latni-veli-a-jarvany-veget/",
+        "h1": "A mutánsok terjedése és a korlátozások ellenére a piac már látni véli a járvány végét",
+        "txtlength": 21600
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210312_lelegeztetogep_oltas_vakcinaosszefoglalo",
+        "h1": "Soha ennyien nem voltak még lélegeztetőgépen, de oltásban jók vagyunk – vakcinaösszefoglaló",
+        "txtlength": 21001
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/uzlet/20210313/janssen-vakcina-minden-amit-tudni-kell-a-vakcinarol-ezek-lehetnek-az-oltas-utani-mellekhatasok-szovodmenyek-473984",
+        "h1": "Janssen-vakcina: minden, amit tudni kell a vakcináról, ezek lehetnek az oltás utáni mellékhatások, szövődmények",
+        "txtlength": 19915
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/prof/20210312/amikor-a-penz-kevesebbet-ert-mint-a-papir-amibol-keszult-471894",
+        "h1": "Amikor a pénz kevesebbet ért mint a papír, amiből készült",
+        "txtlength": 16801
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/otthon/legtisztitas-otthon/",
+        "h1": "Egyetlen tüsszentéssel 40 ezer kórokozót tartalmazó részecske jut a levegőbe: az otthoni légtisztítás szakértői szemmel",
+        "txtlength": 16464
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/biztositas/ezekbol-a-vizsgalatokbol-kiderul-valoban-kigyogyultal-e-a-covidbol-nem-lesz-olcso.1112262.html?r=melleklet",
+        "h1": "Ezekből a vizsgálatokból kiderül, valóban kigyógyultál-e a covidból: nem lesz olcsó",
+        "txtlength": 15686
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2021/03/13/caesar-kudarcatol-amszterdam-szuleteseig-amikor-az-idojaras-irta-a-tortenelmet",
+        "h1": "CAESAR KUDARCÁTÓL AMSZTERDAM SZÜLETÉSÉIG: AMIKOR AZ IDŐJÁRÁS ÍRTA A TÖRTÉNELMET",
+        "txtlength": 12810
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/vasarlas/fontos-valtozas-elesedhet-a-bankkartyaknal-a-magyarok-ketharmada-ennek-nem-fog-orulni.1112328.html",
+        "h1": "Fontos változás élesedhet a bankkártyáknál: a magyarok kétharmada ennek nem fog örülni",
+        "txtlength": 12618
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/lajfhekk/anyatej-tarolasa-hutese-melegitese/",
+        "h1": "Lefejt anyatej tárolása: erre figyelj, hogy ne legyen baja",
+        "txtlength": 10681
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/koronavirus-magyarorszag-9444-fertozott-163-elhunyt/t2enn3t",
+        "h1": "Kiadták a szombati friss adatokat: még mindig kilencezer felett az új fertőzöttek száma, ennyien hunytak el egy nap alatt",
+        "txtlength": 21310
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/tudomany/20210312_AstraZeneca_oltoanyag_felfuggesztes",
+        "h1": "Felfüggesztett oltások: Mi az igazság az AstraZeneca vakcinájáról?",
+        "txtlength": 17261
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/tudomany/2021/03/13/favipirapir-remdezivir-keseru-gyorgy-miklos-magyar-kutatas/",
+        "h1": "A vírus még nyerhet meccseket, meg kell tanulnunk együtt élni vele",
+        "txtlength": 16454
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20210312_sved_tamas_interju_intenziv_koronavirus",
+        "h1": "„Hiába van gépem, oxigénem, személyzet nélkül nincs intenzív ágy”",
+        "txtlength": 16174
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/eszkombajn/2021/03/13/csecsemo-szinesz-hollywood-gyerek-casting",
+        "h1": "Ha egy filmhez újszülött kell, honnan szereznek?",
+        "txtlength": 15927
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/szorakozas/2021/03/13/nyakas-kor-a-pest-megyei-arizonaban",
+        "h1": "Nyakas-kör a Pest megyei Arizonában",
+        "txtlength": 14349
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/03/12/korhazak-a-hataron",
+        "h1": "Kórházak a határon",
+        "txtlength": 13003
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/koncz-ferenc-baleset-nem-volt-vetkes-blikk-extra/c3v8vvf",
+        "h1": "Elkészült a szakértői vélemény Koncz Ferenc fideszes képviselő tragikus balesete ügyében",
+        "txtlength": 12489
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/tudomany/2021/03/12/covid-lelki-kovetkezmenyek-harmadik-hullam-zacher-szlavik-oltasok/",
+        "h1": "Sebességet váltott a koronavírus, nekünk is fel kell zárkózni",
+        "txtlength": 12432
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/gazdasag/2021/03/12/orosz-kinai-vakcinak-beszerzesenek-szerzodesei",
+        "h1": "Zűrös közvetítő a kínainál, kényelmetlen feltételek az orosznál: mi látható a nyilvános vakcinaszerződésekből?",
+        "txtlength": 12350
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/gazdasag/20210312_Meszaros_Lorinc_jegybanki_segitseggel_lesz_KeletMagyarorszag_gazkiralya",
+        "h1": "Mészáros Lőrinc jegybanki segítséggel lesz Kelet-Magyarország gázkirálya",
+        "txtlength": 11844
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/tudomany/2021/03/13/johnson-vakcina-egydozisu-kulonbseg/",
+        "h1": "Ezért elég egyetlen adag a Johnson & Johnson vakcinájából",
+        "txtlength": 10213
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/03/12/letartoztattak-es-bantalmaztak-a-nemet-hirugynokseg-ujsagirojat-mianmarban",
+        "h1": "Letartóztatták és bántalmazták a német hírügynökség újságíróját Mianmarban",
+        "txtlength": 9977
+    },
+    {
+        "hostname": "mindmegette.hu",
         "pagelink": "https://www.mindmegette.hu/sonkas-paradicsomos-teszta.recept",
         "h1": "SONKÁS-PARADICSOMOS TÉSZTA",
         "txtlength": 10474
