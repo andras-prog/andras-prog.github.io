@@ -1,5 +1,197 @@
 [
     {
+        "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/klasszikus-rakott-krumpli",
+        "h1": "Klasszikus rakott krumpli",
+        "txtlength": 9891
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/marvanyos-kevert-suti-joghurt.recept",
+        "h1": "MÁRVÁNYOS KEVERT SÜTI",
+        "txtlength": 9671
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/mediterran-lecso-tukortojassal-shakshuka.recept",
+        "h1": "MEDITERRÁN LECSÓ TÜKÖRTOJÁSSAL (SHAKSHUKA)",
+        "txtlength": 9573
+    },
+    {
+        "hostname": "hataratkelo.blog.hu",
+        "pagelink": "https://hataratkelo.blog.hu/2021/03/08/igy_oltottak_hetvegen_a_franciak#c39987064",
+        "h1": "Így oltottak hétvégén a franciák",
+        "txtlength": 57594
+    },
+    {
+        "hostname": "kulturpart.hu",
+        "pagelink": "https://kulturpart.blog.hu/2021/03/13/franz_kafka_es_bob_dylan_felsoorson",
+        "h1": "FRANZ KAFKA ÉS BOB DYLAN FELSŐÖRSÖN",
+        "txtlength": 14709
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20210313/ossze-nem-omlik-de-a-hataron-feszul-az-egeszsegugy-hetekig-mit-jelent-ez-a-betegeknek-473936",
+        "h1": "Össze nem omlik, de a határon feszül az egészségügy, hetekig - Mit jelent ez a betegeknek?",
+        "txtlength": 25914
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20210313/koronavirus-gyorsan-no-a-sulyos-esetek-szama-magyarorszagon-jonnek-az-uj-variansok-vizsgaljak-a-vakcinakat-474040",
+        "h1": "Koronavírus: gyorsan nő a súlyos esetek száma Magyarországon, jönnek az új variánsok, vizsgálják a vakcinákat ",
+        "txtlength": 21018
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210314_orban_viktor_miniszterelnok_kossuth_radio_varnapi_ujsag_koronavirus",
+        "h1": "Orbán Viktor: Hárommillió felett van az oltásra regisztráltak száma",
+        "txtlength": 18461
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210227_bige_laszlo_portre?fbclid=IwAR1kyZLBAIepsbO_IylxNYk_OzIIWNF5o2v7TAEaiduc8PG3et9cHqNfbyM",
+        "h1": "A „műtrágyakirály”, aki „Péterkém”-nek szólította Medgyessyt – Bige László portréja",
+        "txtlength": 18028
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/global/20210313/kijozanito-peldak-rengeteg-embert-kell-meg-beoltani-hogy-egyaltalan-elgondolkodhassunk-a-lazitasrol-474016",
+        "h1": "Kijózanító példák: rengeteg embert kell még beoltani, hogy egyáltalán elgondolkodhassunk a lazításról",
+        "txtlength": 18008
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/kozelet/20210314/havi-500-dollart-kaptak-egy-evig-es-nem-ittak-el-a-penzt-sot-tobbet-kezdtek-dolgozni/",
+        "h1": "Havi 500 dollárt kaptak egy évig, és nem itták el a pénzt, sőt többet kezdtek dolgozni",
+        "txtlength": 17909
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/podcast/20210313/benne-van-a-pakliban-hogy-meszaros-lorincnek-a-versenypiacon-is-helyt-kell-allnia/",
+        "h1": "Benne van a pakliban, hogy Mészáros Lőrincnek a versenypiacon is helyt kell állnia",
+        "txtlength": 17567
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210225_horn_gabor_republikon_ellenzek_bige?fbclid=IwAR2-gKf-ZLst18q_3AFGHW00O-YMbCt3uVPIqmhhLRDjit_apra3qBsc8Jc",
+        "h1": "Mit szerveznek a háttérben Horn Gáborék ?",
+        "txtlength": 16789
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/vasarlas/millios-jakuzziknak-mutat-fityiszt-a-magyar-kertek-uj-sztarja-sokan-inkabb-ezt-veszik.1112364.html",
+        "h1": "Milliós jakuzziknak mutat fityiszt a magyar kertek új sztárja: sokan inkább ezt veszik",
+        "txtlength": 14332
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2021/03/14/kant-azt-akarna-hogy-oltasd-be-magad-de-vard-ki-mig-sorra-kerulsz",
+        "h1": "KANT AZT AKARNÁ, HOGY OLTASD BE MAGAD, DE VÁRD KI, MÍG SORRA KERÜLSZ",
+        "txtlength": 13605
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/testem/edzes-tanulsagok-tippek/",
+        "h1": "A 7 legfontosabb tanács, amit egy edző adhat több évtizedes sportmúlttal a háta mögött",
+        "txtlength": 12920
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/gyerek/etelallergia-gyerekkorban/",
+        "h1": "Az ételallergia jelei gyerekkorban: nem csak az arcon megjelenő vörös kiütéseket kell figyelni",
+        "txtlength": 12806
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/otthon/tragedia-a-magyar-falvakban-itt-jobban-felnek-ettol-az-emberek-mint-a-nagyvarosokban.1112352.html",
+        "h1": "Tragédia a magyar falvakban: itt jobban félnek ettől az emberek, mint a nagyvárosokban",
+        "txtlength": 11506
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/szuloseg/szuletesi-traumak-feldolgozasa/",
+        "h1": "Születési traumák: hogyan ismerjük fel és hogyan segítsünk a gyereknek feldolgozni?",
+        "txtlength": 10692
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kulfold/2021/03/13/vakcinadiplomacia-vakcinahaboru-nacionalizmus-kina-india-oroszorszag-amerika",
+        "h1": "Van, ahol használ, de hosszú távon árt a vakcinaháború",
+        "txtlength": 25890
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kultura/2021/03/13/durica-katarina-interju-varosi-rokak-prostitucio-rendes-lanyok-csendben-sirnak-vigszinhaz/",
+        "h1": "Még ma is el kell magyarázni, hogy a prostituált nem hobbiból szexel, és valójában nem élvezi",
+        "txtlength": 24665
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kultura/2021/03/14/virus-disztopia-kutya-matine-konyvajanlo/",
+        "h1": "Kutyafalkával küzdött meg az éhes gyereksereg",
+        "txtlength": 22769
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kozelet/2021/03/13/trevor-noah-bunben-szulettem-del-afrika-rasszizmus-apartheid-komikus-standup/",
+        "h1": "Már a születése is bűncselekmény volt, mégis meghódította a világot",
+        "txtlength": 19368
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20210314_orban_viktor_interju_kossuth_radio",
+        "h1": "Orbán: A következő lesz a járvány legnehezebb hete, de nem lesz szükség arra, hogy külföldről kérjünk segítséget",
+        "txtlength": 16312
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/sport/2021/03/13/hrutka-janos-kaiserslautern-bajnoksag-fradi-valogatott-gulacsi",
+        "h1": "Hrutka János: Egy ajándékéletet adott nekem a futball",
+        "txtlength": 16098
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/eszkombajn/2021/03/14/phineas-gage-baleset-agyserules-vas",
+        "h1": "Keresztülrepült egy vasrúd az agyán, aztán csak viccelődött az orvossal",
+        "txtlength": 14725
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/gazdasag/20210314_Es_akkor_boltzar_jarvany_vakcina_tigaz_szja",
+        "h1": "És akkor úgy bezárt az ország, hogy elindult a bolti roham",
+        "txtlength": 12629
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/elet/20210313_Arra_ebredt_hogy_lelovik__breonna_taylor_halala",
+        "h1": "Arra ébredt, hogy lelövik – egy éve ölték meg Breonna Taylort a rendőrök az otthonában",
+        "txtlength": 12347
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/kulfold/vilagon-119-millio-ember-fertozodott-meg-koronavirus-jarvanyban/lsrkbny",
+        "h1": "Koronavírus: a fertőzöttek száma a világon meghaladta a 119 milliót, a halálos áldozatoké pedig 2,65 millió",
+        "txtlength": 11599
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/kulfold/elit-iskola-zaklatas-london-nemi-eroszak/nb6scvm",
+        "h1": "„A tanárok is csak félrenéznek” – Ismerje meg az elitiskolát, ahol divat a nemi erőszak, sőt, az órákon is megy a zaklatás",
+        "txtlength": 11453
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/03/14/az-fa-kupa-donton-tesztelne-a-brit-kormany-a-tomegrendezvenyek-biztonsagos-megrendezeset",
+        "h1": "Az FA-kupa döntőn tesztelné a brit kormány a tömegrendezvények biztonságos megrendezését",
+        "txtlength": 9293
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/03/14/feloszlatta-a-rendorseg-a-sarah-everard-meggyilkolasa-miatt-szervezett-tuntetest-londonban",
+        "h1": "Feloszlatta a rendőrség a Sarah Everard meggyilkolása miatt szervezett tüntetést Londonban",
+        "txtlength": 9006
+    },
+    {
         "hostname": "mindmegette.hu",
         "pagelink": "https://www.mindmegette.hu/thai-garnelas-rizsteszta-ahogy-kocsis-korinna-kesziti.recept",
         "h1": "THAI GARNÉLÁS RIZSTÉSZTA, AHOGY KOCSIS KORINNA KÉSZÍTI",
