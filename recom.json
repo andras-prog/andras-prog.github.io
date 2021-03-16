@@ -1,6 +1,192 @@
 [
     {
         "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/zoldborsos-csirkemaj-fott-burgonyaval.recept",
+        "h1": "ZÖLDBORSÓS CSIRKEMÁJ",
+        "txtlength": 9441
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/cukormentes-citromos-gyomberes-zabkeksz.recept",
+        "h1": "CUKORMENTES CITROMOS-GYÖMBÉRES ZABKEKSZ",
+        "txtlength": 9210
+    },
+    {
+        "hostname": "kiszamolo.hu",
+        "pagelink": "https://kiszamolo.hu/kerlek-ne-tedd/#more-115081",
+        "h1": "Kérlek ne tedd",
+        "txtlength": 35456
+    },
+    {
+        "hostname": "alapblog.hu",
+        "pagelink": "https://alapblog.hu/gyermekkorunk-jatekszere-tobb-mint-szorakozas/",
+        "h1": "GYERMEKKORUNK JÁTÉKSZERE – TÖBB MINT SZÓRAKOZÁS",
+        "txtlength": 9532
+    },
+    {
+        "hostname": "efesasanisimasa.com",
+        "pagelink": "https://efesasanisimasa.com/2021/02/16/sajat-szoba-felfele-a-lejton-the-climb-2019/",
+        "h1": "Saját szoba – Felfelé a lejtőn (The Climb, 2019)",
+        "txtlength": 9192
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20210316/szenzacios-magyar-siker-a-jarvany-egyedulallo-hazai-megkozelitesere-es-a-peldatlan-osszefogasra-kulfoldon-is-felfigyeltek-474192",
+        "h1": "Szenzációs magyar siker: a járvány egyedülálló hazai megközelítésére és a példátlan összefogásra külföldön is felfigyeltek",
+        "txtlength": 27866
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/ingatlan/20210316/nyolc-daruval-epul-az-orszag-legnagyobb-lakoprojektje-472888",
+        "h1": "Nyolc daruval épül az ország legnagyobb lakóprojektje!",
+        "txtlength": 23980
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210310_nem_engedunk_negyvenhetbol",
+        "h1": "Nem engedünk negyvenhétből! – az elfelejtett ellenforradalmárok története",
+        "txtlength": 21846
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/tech/20210316/tokeletes-penzszivattyu-van-az-idegesito-youtube-jatekreklam-mogott/",
+        "h1": "Tökéletes pénzszivattyú van az idegesítő Youtube-játékreklám mögött",
+        "txtlength": 20896
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210308_kijut_a_gellert_kapott_golyokbol_a_karpataljai_magyaroknak",
+        "h1": "Kijut a gellert kapott ukrán golyókból a kárpátaljai magyaroknak",
+        "txtlength": 18431
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20210315/felfuggesztik-az-astrazeneca-vakcina-alkalmazasat-nemetorszagban-franciaorszagban-es-olaszorszagban-474190",
+        "h1": "Felfüggesztik az AstraZeneca-vakcina alkalmazását Németországban, Franciaországban és Olaszországban",
+        "txtlength": 17739
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210316_budavari_lakosok_deutsche_welle_helyreigazitasi_kerelem",
+        "h1": "Levélben tiltakoznak a budavári lakosok a Deutsche Welle riportja ellen",
+        "txtlength": 17340
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/elet/20210315/a-tovabbtanulas-segithet-megakadalyozni-a-demencia-kialakulasat/",
+        "h1": "A továbbtanulás segíthet megakadályozni a demencia kialakulását",
+        "txtlength": 15505
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/megtakaritas/ennyiert-gyogyul-a-magyar-elit-ezzel-a-trukkel-neked-is-osszejohet-a-vip-orvosi-ellatas.1112216.html",
+        "h1": "Ennyiért gyógyul a magyar elit: ezzel a trükkel neked is összejöhet a VIP orvosi ellátás",
+        "txtlength": 14880
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/vasarlas/aremelessel-indul-a-roham-a-gumisoknal-erdemes-mielobb-idopontot-foglalni.1112210.html",
+        "h1": "Áremeléssel indul a roham a gumisoknál: érdemes mielőbb időpontot foglalni",
+        "txtlength": 14699
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/otthon/vevo-alku-ingatlan-vasarlas/",
+        "h1": "Egy jó alku akár 10%-os árcsökkenést is jelenthet: az ingatlanszakértőt kérdeztük, milyen a sikeres taktika",
+        "txtlength": 11146
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2021/03/12/igeretes-molekulat-talaltak-az-alzheimer-kor-megelozesere",
+        "h1": "ÍGÉRETES MOLEKULÁT TALÁLTAK AZ ALZHEIMER-KÓR MEGELŐZÉSÉRE",
+        "txtlength": 9770
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/lajfhekk/mennyi-alkoholt-lehet-inni/",
+        "h1": "Megengedett napi alkoholfogyasztás: mennyi alkoholt lehet inni büntetlenül?",
+        "txtlength": 8660
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://rangado.24.hu/magyar_foci/2021/03/15/toth-potya-istvan-kertesz-geza-megmento-latabar-fiverek-gobbi-hilda-ferencvaros-labdarugas-foci-fradi/",
+        "h1": "A Fradi-legenda, aki Gobbi Hilda és a Latabár fivérek életét is megmentette",
+        "txtlength": 22734
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2021/03/15/szechenyi-dij-kossuth-dij-dijazottak-2021/",
+        "h1": "Karikó Katalin Széchenyi-díjat, Nagy Feró Kossuth-díjat kapott",
+        "txtlength": 20708
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/gazdasag/2021/03/16/indul-a-lakasfelujitasi-boom-ovatosan-a-koklerekkel-es-a-felkontarokkal",
+        "h1": "Indul a lakásfelújítási boom: óvatosan a kóklerekkel és a félkontárokkal!",
+        "txtlength": 18692
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/szorakozas/2021/03/15/a-tronok-harca-alkotoja-mindent-csinal-csak-a-konyveket-nem-sikerul-befejeznie",
+        "h1": "A Trónok harca alkotója mindent csinál, csak a könyveket nem tudja befejezni",
+        "txtlength": 18207
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/szorakozas/2021/03/15/justice-league-az-igazsag-ligaja-zack-snyder-dc-szuperhos-batman-superman-hbo-max-kritika",
+        "h1": "Kötelező látni mindenkinek, aki tudni akarja, milyen korban is élünk",
+        "txtlength": 16609
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/felmeres-erettsegire-keszulo-diakok-online-oktatas/qf53sjr",
+        "h1": "Digitális oktatás a járvány alatt: ezektől a vizsgáktól tartanak leginkább az idei érettségire készülők",
+        "txtlength": 15983
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20210316_jarvany_legnehezebb_het_korlatozas_fertozottseg_megye",
+        "h1": "Jön a megyénkénti zárás? – megnéztük, hol indokolhat a fertőzöttség nagyobb szigort",
+        "txtlength": 15547
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/tudomany/2021/03/15/vatikani-leveltar-molnar-antal-tortenettudomanyok-papai-bizottsag-magyar-tortenesz/",
+        "h1": "Tényleg sötét titkokat rejt a Vatikán levéltára?",
+        "txtlength": 14516
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/politika/mi-hazank-mozgalom-tuntetes-bantalmazas-gumibot-rendorseg-kozlemeny/w5q2kes",
+        "h1": "„A rendőrség igenis bántalmazott” – Megszólalt az állítólag gumibottal gyomorszájon vágott mi hazánkos politikus",
+        "txtlength": 13689
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/03/15/nemetorszag-mellett-olaszorszag-es-franciaorszag-is-felfuggeszti-az-astrazeneca-vakcinak-hasznalatat",
+        "h1": "Németország mellett Olaszország és Franciaország is felfüggeszti az AstraZeneca-vakcinák használatát",
+        "txtlength": 11291
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/03/15/eletjelet-adott-magarol-alekszej-navalnij",
+        "h1": "Életjelet adott magáról Alekszej Navalnij",
+        "txtlength": 9730
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20210316_Karacsony_budapest_korlatozasok_koronavirus",
+        "h1": "Karácsony: Egyelőre nem kaptunk tájékoztatást budapesti korlátozásokról",
+        "txtlength": 8966
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/tudomany/20210316_kemenesi_gabor_astrazeneca_koronavirus_elleni_vedooltas_verrogkepzodes",
+        "h1": "Kemenesi Gábor az AstraZeneca vakcinájáról: nem gyanús a helyzet, rutinvizsgálatok zajlanak",
+        "txtlength": 8806
+    },
+    {
+        "hostname": "mindmegette.hu",
         "pagelink": "https://www.mindmegette.hu/voroslencse-bolognai.recept",
         "h1": "VÖRÖSLENCSE-BOLOGNAI",
         "txtlength": 9676
