@@ -1,5 +1,179 @@
 [
     {
+        "hostname": "kiszamolo.hu",
+        "pagelink": "https://kiszamolo.hu/nem-valaszol-a-panaszomra-a-bank/",
+        "h1": "Nem válaszol a panaszomra a bank",
+        "txtlength": 32614
+    },
+    {
+        "hostname": "alapblog.hu",
+        "pagelink": "https://alapblog.hu/quadratic-funding-egy-igazsagosabb-elosztasi-rendszer/",
+        "h1": "QUADRATIC FUNDING – EGY IGAZSÁGOSABB ELOSZTÁSI RENDSZER",
+        "txtlength": 9975
+    },
+    {
+        "hostname": "efesasanisimasa.com",
+        "pagelink": "https://efesasanisimasa.com/2021/03/11/alelnok-vice-2018/",
+        "h1": "Alelnök (Vice, 2018)",
+        "txtlength": 8790
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vallalat/20210319/a-magyar-irodakban-is-megjelentek-a-robotok-es-gyorsan-megvaltoztatjak-a-munkat/",
+        "h1": "A magyar irodákban is megjelentek a robotok, és gyorsan megváltoztatják a munkát",
+        "txtlength": 26389
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210318_fekete_gyor_andras_bohocot_csinal_magabol_schiffer_andras_a_mandinernek",
+        "h1": "Fekete-Győr András bohócot csinál magából – Schiffer András a Mandinernek",
+        "txtlength": 24574
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://makronom.mandiner.hu/cikk/20210318_ezen_mulhat_hogy_szuletik_e_eleg_gyermek_a_kovetkezo_evekben_magyarorszagon",
+        "h1": "Fókuszban a családok: ezen múlhat, hogy születik-e elég gyermek a következő években Magyarországon",
+        "txtlength": 21229
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210318_kormanyinfo",
+        "h1": "Kormányinfó: A lazításnak nincs még itt az ideje",
+        "txtlength": 20674
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/kapcsolat/a-valas-mint-veszteseg/",
+        "h1": "Veszteségeink: a válás a család minden tagjának gyász - Interjú Bogár Zsuzsa szakpszichológus-családterapeutával",
+        "txtlength": 17452
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20210319/orban-viktor-bejelentette-hetfotol-meg-legalabb-egy-hetig-maradnak-a-korlatozasok-474818",
+        "h1": "Orbán Viktor bejelentette: hétfőtől még legalább egy hétig maradnak a korlátozások ",
+        "txtlength": 16455
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/elet/20210317/a-novekvo-munkahelyi-elvarasok-egyre-rosszabb-hatassal-vannak-az-emberekre/",
+        "h1": "A növekvő munkahelyi elvárások egyre rosszabb hatással vannak az emberekre",
+        "txtlength": 15989
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20210319/eddig-meg-hasonlot-sem-tapasztaltam-a-magyarok-is-a-borukon-erzik-majd-a-dramai-aremelkedest-a-tengereken-474518",
+        "h1": "„Eddig még hasonlót sem tapasztaltam” – A magyarok is a bőrükön érzik majd a drámai áremelkedést a tengereken",
+        "txtlength": 13823
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20210319/maradnak-a-korlatozasok-magyarorszagon-terjed-a-harmadik-hullam-474828",
+        "h1": "Maradnak a korlátozások Magyarországon, terjed a harmadik hullám ",
+        "txtlength": 13675
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/otthon/ujra-valsagos-helyzetben-a-magyar-dolgozok-csak-igy-uszhatjak-meg-a-lezarasokat.1112638.html?r=melleklet",
+        "h1": "Újra válságos helyzetben a magyar dolgozók: csak így úszhatják meg a lezárásokat",
+        "txtlength": 12365
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/szuloseg/koronavirus-gyerek-pcr-teszt-felelem-jarvany/",
+        "h1": "PCR-teszt gyerekeknek: szakértő segít eloszlatni a tévhiteket",
+        "txtlength": 12349
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/vasarlas/oriasi-kamu-hogy-olcso-a-magyar-sor-ime-a-kijozanito-szamok.1112628.html",
+        "h1": "Óriási kamu, hogy olcsó a magyar sör: íme a kijózanító számok",
+        "txtlength": 11966
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2021/03/19/ha-valakinek-felajanljak-a-kinai-vakcinat-es-visszautasitja-ne-szamitson-arra-hogy-mi-majd-ket-honap-mulva-beoltjuk-pfizerrel",
+        "h1": "„HA VALAKINEK FELAJÁNLJÁK A KÍNAI VAKCINÁT, ÉS VISSZAUTASÍTJA, NE SZÁMÍTSON ARRA, HOGY MI MAJD KÉT HÓNAP MÚLVA BEOLTJUK PFIZERREL”",
+        "txtlength": 11685
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/kormanyinfo-gulyas-gergely-koronavirus-husvet-kormanydontes/7y2ek73",
+        "h1": "Kormányinfó – Gulyás Gergely elmondta, hogyan döntött a kormány: csak hetekre vagyunk a lazításoktól – Így zajlik a nyitás",
+        "txtlength": 22601
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kultura/2021/03/18/barack-obama-bruce-springsteen-renegades-born-in-the-usa-podcast-politika-zene/",
+        "h1": "Obama most Bruce Springsteennel építi tovább popkulturális birodalmát",
+        "txtlength": 16725
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/kultura/20210318_zack_snyder_az_igazsag_ligaja_kritika_rendezoi_valtozat_batman_superman_wonder_woman",
+        "h1": "Batman és Superman győzedelmeskedtek Hollywoodban, nekünk meg a tévénk bánhatja",
+        "txtlength": 16305
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/szorakozas/2021/03/18/huvelyesek-babos-etelek-recept-gasztro",
+        "h1": "Ha már a bab a jövő étele, akkor játsszunk vele",
+        "txtlength": 15815
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/belfold/2021/03/18/naplo-a-tukorben-egy-deportalt-fenykepesz-feljegyzeseinek-eltunese-es-megtalalasa",
+        "h1": "Rejtélyes körülmények között bukkant fel egy deportált fényképész naplója a tükör mögül",
+        "txtlength": 14672
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/gazdasag/2021/03/19/merjuk-meg-hogy-melyik-orszag-kepes-leginkabb-fenntartani-a-jo-eletet",
+        "h1": "Mérjük meg, hogy melyik ország képes leginkább fenntartani a jó életet!",
+        "txtlength": 14430
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/orban-viktor-kossuth-radio-ujranyitas-harmadik-hullam-husvet/jw9qyn3",
+        "h1": "Orbán Viktor bejelentései a következő hetekről: nincs lazítás, maradnak a korlátozó intézkedések",
+        "txtlength": 13502
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20210319_Orban_Egy_hetig_biztos_maradnak_a_jelenlegi_szabalyok_husvetrol_jovo_heten_dontenek",
+        "h1": "Orbán: Egy hétig biztos maradnak a jelenlegi szabályok, húsvétról jövő héten döntenek",
+        "txtlength": 13080
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/03/18/amikor-a-kormany-mar-az-orvosokat-hazugozza",
+        "h1": "Amikor a kormány már az orvosokat hazugozza",
+        "txtlength": 12841
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kulfold/2021/03/19/orban-fidesz-ecr-id-epp-osszevonas-frakcio-ep/",
+        "h1": "A Fidesz sehogy sem tudja pótolni azt, amit az Európai Néppárttal elvesztett",
+        "txtlength": 12691
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kulfold/2021/03/18/romania-kororavirus-szinrendszer/",
+        "h1": "Romániában rugalmasabbak és kiszámíthatóbbak a korlátozások, de kijátszani is könnyebb a szabályokat",
+        "txtlength": 11100
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/03/19/heti-80-oras-munkaora-limitet-akarnak-a-goldman-sachs-palyakezdoi",
+        "h1": "Heti 80 órás munkaóra-limitet akarnak a Goldman Sachs pályakezdői",
+        "txtlength": 11002
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/vilag/20210319_koronavirus_jarvany_fertozes_vakcina_izrael",
+        "h1": "Már a szabadtéri strandok is megnyílhatnak Izraelben",
+        "txtlength": 9681
+    },
+    {
         "hostname": "hataratkelo.blog.hu",
         "pagelink": "https://hataratkelo.blog.hu/2021/03/14/japan_jarvanykezeles_sikerrecept_vagy_vihar_elotti_csend#c40005002",
         "h1": "Sikerrecept vagy vihar előtti csend?",
