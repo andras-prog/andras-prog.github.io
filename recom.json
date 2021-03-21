@@ -1,5 +1,185 @@
 [
     {
+        "hostname": "kiszamolo.hu",
+        "pagelink": "https://kiszamolo.hu/japan-elmult-harom-evtizede/",
+        "h1": "Japán elmúlt három évtizede",
+        "txtlength": 36738
+    },
+    {
+        "hostname": "efesasanisimasa.com",
+        "pagelink": "https://efesasanisimasa.com/2021/03/08/tudhattad-volna-the-undoing-tv-mini-series-2020/",
+        "h1": "Tudhattad volna (The Undoing, TV Mini-Series, 2020)",
+        "txtlength": 7816
+    },
+    {
+        "hostname": "alapblog.hu",
+        "pagelink": "https://alapblog.hu/meg-nem-dramai-a-helyzet-a-kotvenypiacon-de-az-mnb-valaszuthoz-erhet-370-feletti-euronal/",
+        "h1": "MÉG NEM DRÁMAI A HELYZET A KÖTVÉNYPIACON, DE AZ MNB VÁLASZÚTHOZ ÉRHET 370 FELETTI EURÓNÁL",
+        "txtlength": 6353
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2021/03/21/kannibalizmus-az-egyenlotlenseg-az-alszentseg-es-a-barbecue-tortenete",
+        "h1": "KANNIBALIZMUS: AZ EGYENLŐTLENSÉG, AZ ÁLSZENTSÉG ÉS A BARBECUE TÖRTÉNETE",
+        "txtlength": 44153
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210320_toth_krisztina_magyarorszag_mergezo_orszag",
+        "h1": "Tóth Krisztina: Magyarország mérgező ország",
+        "txtlength": 30855
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20210321/tulcsordult-a-magyar-egeszsegugy-a-koronavirus-miatt-megtalaltuk-a-szomoru-korhazi-szamokat-475048",
+        "h1": "Túlcsordult a magyar egészségügy a koronavírus miatt - Megtaláltuk a szomorú kórházi számokat",
+        "txtlength": 22241
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/gyerek/egyszulos-csaladok/",
+        "h1": "Mi a legnehezebb az egyszülős családok életében? Magyar édesanyák mesélték el valós tapasztalataikat",
+        "txtlength": 21912
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/elet/20210321/mi-kerul-egy-jpeg-en-21-milliard-forintba/",
+        "h1": "Mi kerül egy .jpeg-en 21 milliárd forintba?",
+        "txtlength": 19830
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20210320/peldatlan-erovel-tombol-a-jarvany-magyarorszagon-de-kozeleg-a-kormany-ujrainditasi-terve-474984",
+        "h1": "Példátlan erővel tombol a járvány Magyarországon, de közeleg a kormány újraindítási terve ",
+        "txtlength": 19657
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210323_identitaslopas_amerika_jessica_krug",
+        "h1": "Identitástolvajok: fekete latinának hazudta magát, karriert csinált belőle",
+        "txtlength": 18622
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210320_megszerezte_az_unios_vakcinaszerzodeseket_omolnar_miklos_brusszel_titkolozik",
+        "h1": "Dokumentum bizonyítja, az Európai Bizottság szerződött a vakcinagyártókkal",
+        "txtlength": 18113
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/uzlet/20210320/mar-a-nyaralast-tervezed-ezekbe-a-varosokba-repulhetsz-iden-nyaron-magyarorszagrol-474942",
+        "h1": "Már a nyaralást tervezed? Ezekbe a városokba repülhetsz idén nyáron Magyarországról",
+        "txtlength": 14658
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vallalat/20210320/alabecsultek-az-idosebb-dolgozok-erteket-egy-uj-tanulmany-szerint/",
+        "h1": "Alábecsülték az idősebb dolgozók értékét egy új tanulmány szerint",
+        "txtlength": 14639
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/vasarlas/ez-valthatna-az-anyasagi-tamogatast-igy-nezne-ki-a-magyar-babacsomag-ennyibe-kerulne.1112702.html",
+        "h1": "Ez válthatná az anyasági támogatást? Így nézne ki a magyar babacsomag, ennyibe kerülne",
+        "txtlength": 13713
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/karrier/180-ezret-is-megkeres-egy-kozepiskolas-ezek-most-a-legjobb-diakmunkak-itthon.1112560.html?r=melleklet",
+        "h1": "180 ezret is megkeres egy középiskolás: ezek most a legjobb diákmunkák itthon",
+        "txtlength": 11897
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/testem/otthoni-edzes-hibak-elkerulese/",
+        "h1": "Ezeket a hibákat kerüld el, ha otthon edzel",
+        "txtlength": 11567
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/szuloseg/szulo-nehez-gyerekkora/",
+        "h1": "Attól, hogy szerinted neked nehezebb gyerekkorod volt, a gyerekednek még nem lesz könnyebb",
+        "txtlength": 10679
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kultura/2021/03/21/oumuamua-foldonkivuli-matine-konyvajanlo-loeb/",
+        "h1": "Tegyük fel, hogy egy idegen űrhajó landol az egyetem udvarán, és a földönkívüliek viselkedéséből egyértelműen kiderül: barátságosak",
+        "txtlength": 22430
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kultura/2021/03/21/monokultura-popkultura-streaming-hatasa-netflix-spotify-algoritmus/",
+        "h1": "Tényleg jobb világ lenne, ha mind ugyanazt néznénk a tévében?",
+        "txtlength": 20314
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/ingatlan/20210321_Es_akkor_dubaj_mszros",
+        "h1": "És akkor a Burdzs Kalifa és egy Mészáros-forma férfi együtt emlékezett a szabadságharcra Dubajban",
+        "txtlength": 19914
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/eszkombajn/2021/03/21/spanyolnatha-media-virus-jarvanykezeles",
+        "h1": "A világ egyik legnagyobb járványa volt, amiről aztán alig írtak",
+        "txtlength": 14385
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/sport/2021/03/20/sebok-vilmos-aranylabu-gyerekek-sorozat",
+        "h1": "Sebők Vilmos sok kritikát kapott, de atrocitás egyszer sem érte",
+        "txtlength": 13930
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2021/03/20/arvahaz-koszeg-mav-gyermekotthon-egyenruhas-gyerekek-ottlik-heti-fortepan/",
+        "h1": "Árvaház a határon – egyenruhás gyerekek hétköznapjai egy kőszegi gyermekotthonban",
+        "txtlength": 13833
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/politika/koronavirus-vakcinautlevel-keleti-vakcina-utazhatnak-e-a-magyarok/j2c92yv",
+        "h1": "Megkérdeztük az EU tagállamait, utazhatnak-e majd a keleti vakcinával beoltott magyarok – Ezek a válaszok érkeztek",
+        "txtlength": 12818
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/koronavirus-jarvany-adatok-szombat-10-ezer-fertozott/m9zd1hy",
+        "h1": "Kiadták az elmúlt 24 óra járványügyi adatait - a helyzet drámai",
+        "txtlength": 12640
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/gazdasag/2021/03/20/lakasfelujitasi-roham-alig-jonnek-haza-a-magyar-szakik",
+        "h1": "Lakásfelújítási roham: alig jönnek haza a magyar szakik",
+        "txtlength": 11094
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/03/20/nagy-britanniaban-mar-a-felnott-lakossag-felet-beoltottak",
+        "h1": "Nagy-Britanniában már a felnőtt lakosság felét beoltották",
+        "txtlength": 10881
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/03/20/szombathelyen-van-a-legtobb-boldog-magyar",
+        "h1": "Szombathelyen van a legtöbb boldog magyar",
+        "txtlength": 10476
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/tudomany/20210321_koronavirus_vakcina_regisztracio_sikeres_adatvedelem_gdpr",
+        "h1": "Kis trükközéssel meg lehetne tudni, sikerült-e a regisztrációnk az oltásra",
+        "txtlength": 8932
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/tudomany/20210319_who_kozepeuropa_jarvanyadatok_kozlemeny",
+        "h1": "Közleményben aggódik a WHO a közép-európai járványadatok miatt",
+        "txtlength": 8260
+    },
+    {
         "hostname": "hataratkelo.blog.hu",
         "pagelink": "https://hataratkelo.blog.hu/2021/03/18/igy_oltanak_a_briteknel#c40013120",
         "h1": "Így oltanak a briteknél",
