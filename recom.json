@@ -1,6 +1,186 @@
 [
     {
         "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/turogomboc-3",
+        "h1": "Túrógombóc 3.",
+        "txtlength": 10268
+    },
+    {
+        "hostname": "hataratkelo.blog.hu",
+        "pagelink": "https://hataratkelo.blog.hu/2021/03/19/latogatas_a_titok_varosaban",
+        "h1": "Látogatás a titok városában",
+        "txtlength": 30020
+    },
+    {
+        "hostname": "cineartstudio.blog.hu",
+        "pagelink": "https://monty.blog.hu/2021/03/22/konyv_vadaszat_rommelre_steven_pressfield",
+        "h1": "KÖNYV: Vadászat Rommelre (Steven Pressfield)",
+        "txtlength": 9521
+    },
+    {
+        "hostname": "hafr.hvgblog.hu",
+        "pagelink": "https://hafr.hvgblog.hu/2020/11/28/orban_udvaroncai_tehetsegtelenek_csak_magara_szamithat/",
+        "h1": "Orbán udvaroncai tehetségtelenek, csak magára számíthat",
+        "txtlength": 7283
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210317_jaszberenyben_botranyt_orol_a_malom",
+        "h1": "Jászberényben botrányt őröl a malom",
+        "txtlength": 20417
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/global/20210323/joe-biden-alig-ket-honapja-elnok-de-mar-osszerugta-a-port-a-vilag-legerosebb-orszagaival-475240",
+        "h1": "Joe Biden alig két hónapja elnök, de már összerúgta a port a világ legerősebb országaival",
+        "txtlength": 18888
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vilag/20210322/piaci-es-a-hatalmi-erdekek-is-korlatozzak-a-szegenyebb-orszagok-lakosainak-oltasat/",
+        "h1": "Piaci és a hatalmi érdekek is korlátozzák a szegényebb országok lakosainak oltását",
+        "txtlength": 18119
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210318_viharos_vizeken_hazank",
+        "h1": "„Viharos vizeken hazánk” – Századvég-kötet migrációról és járványhelyzetről",
+        "txtlength": 17666
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vallalat/20210323/a-vezerigazgato-aki-tultolta-az-emberarcu-kapitalizmust-ezert-lapatra-tettek/",
+        "h1": "A vezérigazgató, aki túltolta az emberarcú kapitalizmust, ezért lapátra tették",
+        "txtlength": 17061
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/megtakaritas/igy-gazdagodnak-meg-az-elelmes-magyarok-a-kijarasi-korlatozas-alatt-barkinek-sikerulhet.1112822.html",
+        "h1": "Így gazdagodnak meg az élelmes magyarok a kijárási korlátozás alatt: bárkinek sikerülhet",
+        "txtlength": 15257
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210322_gyurcsany_dobrev_belfold_emir",
+        "h1": "Hűtlen kezelés miatt nyomoznak a Gyurcsányékhoz köthető EMIR-ügyben",
+        "txtlength": 15165
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/prof/20210322/ezert-ertektelenedik-el-a-penzed-471904",
+        "h1": "Ezért értéktelenedik el a pénzed",
+        "txtlength": 13938
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20210323/uj-piacokra-fokuszal-az-interticket-de-mikor-lesznek-ismet-koncertek-magyarorszagon-474880",
+        "h1": "Új piacokra fókuszál az InterTicket: de mikor lesznek ismét koncertek Magyarországon?",
+        "txtlength": 13380
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2021/03/22/hiperterugrassal-az-alfa-centaurira-tenyleg-epithetunk-mukodo-terhajtomuvet",
+        "h1": "HIPERTÉRUGRÁSSAL AZ ALFA CENTAURIRA: TÉNYLEG ÉPÍTHETÜNK MŰKÖDŐ TÉRHAJTÓMŰVET?",
+        "txtlength": 12734
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/ezo/sztalin-fia-vaszilij-sztalin/",
+        "h1": "Erőszakos és megtört fiú volt Sztálin fia: Vaszilij gyermekkorától súlyos alkoholfüggőséggel küzdött",
+        "txtlength": 12579
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/biztositas/sanyaru-nepbetegseg-a-magyarok-jussa-ha-igy-faj-a-fejed-azonnal-fordulj-orvoshoz.1112690.html",
+        "h1": "Sanyarú népbetegség a magyarok jussa: ha így fáj a fejed, azonnal fordulj orvoshoz!",
+        "txtlength": 11458
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/lajfhekk/macska-feher-mancs/",
+        "h1": "Macskatappancs: miért olyan gyakori a fehér szín?",
+        "txtlength": 7121
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/belfold/2021/03/23/elhizas-koronavirus-kockazat-halalozas-szivbetegseg-cukorbetegseg-megelozes-eletmod-fogyas",
+        "h1": "Elhízni olcsó, a túlsúly veszélyes és drága – főleg a Covid idején",
+        "txtlength": 21162
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/belfold/2021/03/22/kompolt-polgarmester-balazs-zoltan-lotto-csatorna-oltozo",
+        "h1": "Az emberek pofánverése ez a blöff",
+        "txtlength": 19207
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kulfold/2021/03/22/izrael-valasztas-netanjahu-koronavirus-vakcinacio-korrupcio",
+        "h1": "A járványt legyőzték, most a politikai válságtól szenvednek",
+        "txtlength": 16571
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/gazdasag/20210323_legvedelem_honvedseg_nasams",
+        "h1": "A Gripen-beszerzés szelleme kísért a kormány legújabb fegyvervásárlásánál",
+        "txtlength": 15724
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/vilag-sportoloi-magyarorszag-virus-veszelyes/tq5yrn2",
+        "h1": "Kockázatos, hogy márciusban több nagy eseményt is rendezünk: özönlenek ide a világ sportolói, de biztos jól van ez így?",
+        "txtlength": 12748
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/kulfold/hideghaboru-oroszorszag-europai-unio-brusszel/1gh79hd",
+        "h1": "Elkezdődött az új hidegháború: íme, Lavrov bejelentése az Európai Unióról és Brüsszelről – Kína is lépett, Amerika is a porondon",
+        "txtlength": 12384
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/03/23/megsem-lazitanak-husvet-elott-ausztriaban",
+        "h1": "Mégsem lazítanak húsvét előtt Ausztriában",
+        "txtlength": 10545
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2021/03/23/magyarorszag-koronavirus-vakcina-oltasok-szama-statisztika-astrazeneca-sinopharm-pfizer-szputynik-v-moderna/",
+        "h1": "Heteket kell várnunk a 2,5 millió beoltottra, pedig a vakcinánk megvan hozzá",
+        "txtlength": 10534
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/03/22/erdogan-megserteseert-35-ev-bortonre-iteltek-a-torokorszagi-kurdbarat-part-volt-tarselnoket",
+        "h1": "Erdogan megsértéséért 3,5 év börtönre ítélték a törökországi kurdbarát párt volt társelnökét",
+        "txtlength": 10113
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/tudomany/20210323_arcmaszk_elektronmikroszkop_koronavirus",
+        "h1": "Ilyet még nem látott: mikroszkóp alá tették az arcmaszkokat, íme az eredmény",
+        "txtlength": 9319
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/tudomany/20210323_xiaomi_mi11_ifixit_teardown",
+        "h1": "Hol spórolt a Xiaomi? Kiderítették, milyen belülről az olcsóbb csúcstelefon",
+        "txtlength": 9178
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2021/03/22/egy-fillert-sem-fizetett-be-a-tuntetesekert-kapott-millios-birsagbol-godeny/",
+        "h1": "Egy fillért sem fizetett be a tüntetésekért kapott milliós bírságból Gődény",
+        "txtlength": 8692
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://rangado.24.hu/magyar_foci/2021/03/22/marco-rossi-robert-lewandowski-vb-selejtezo-magyar-lengyel/",
+        "h1": "Marco Rossi: Ha azt mondanám, tudjuk, hogyan állítsuk meg Lewandowskit, idiótának tűnnék",
+        "txtlength": 8432
+    },
+    {
+        "hostname": "nosalty.hu",
         "pagelink": "https://www.nosalty.hu/recept/kokuszos-keksztekercs",
         "h1": "Kókuszos keksztekercs",
         "txtlength": 11059
