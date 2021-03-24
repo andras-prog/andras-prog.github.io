@@ -1,5 +1,185 @@
 [
     {
+        "hostname": "kiszamolo.hu",
+        "pagelink": "https://kiszamolo.hu/a-vagyoni-helyzet-alakulasa-az-usa-ban/",
+        "h1": "A vagyoni helyzet alakulása az USA-ban",
+        "txtlength": 40776
+    },
+    {
+        "hostname": "alapblog.hu",
+        "pagelink": "https://alapblog.hu/idovel-jon-a-boldogsag/",
+        "h1": "IDŐVEL JÖN A BOLDOGSÁG",
+        "txtlength": 12150
+    },
+    {
+        "hostname": "kulturpart.hu",
+        "pagelink": "https://kulturpart.blog.hu/2021/03/20/rohadt_egy_gyilkossag",
+        "h1": "ROHADT EGY GYILKOSSÁG",
+        "txtlength": 11619
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/bank/20210324/hegedus-eva-a-pandemia-felgyorsitotta-a-bankszektor-digitalis-atallasat-475470",
+        "h1": "Hegedüs Éva: A pandémia felgyorsította a bankszektor digitális átállását",
+        "txtlength": 32127
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2021/03/23/torvenybe-foglaljak-a-javitas-jogat-eljen-a-piaci-verseny",
+        "h1": "TÖRVÉNYBE FOGLALJÁK A JAVÍTÁS JOGÁT, ÉLJEN A PIACI VERSENY!",
+        "txtlength": 23799
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://makronom.mandiner.hu/cikk/20210323_vakcinautlevelek_megint_sikerult_atpolitizalni_egy_orvosszakmai_kerdest",
+        "h1": "Az EU-nak fontosabb lett az ideológia, mint a tudományos tények",
+        "txtlength": 23450
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/uzlet/20210324/a-birodalom-visszavag-meg-vannak-szamolva-a-tesla-napjai-a-vilag-tetejen-475374",
+        "h1": "A birodalom visszavág – Meg vannak számolva a Tesla napjai a világ tetején",
+        "txtlength": 22039
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210324_vona_gabor_a_mandinernek",
+        "h1": "„Én soha nem fogtam össze Gyurcsány Ferenccel!” – Vona Gábor a Mandinernek",
+        "txtlength": 19646
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vallalat/20210323/hogyan-kommunikaljanak-a-cegek-az-e-maillel-nem-rendelkezo-munkavallalokkal/",
+        "h1": "Hogyan kommunikáljanak a cégek az e-maillel nem rendelkező munkavállalókkal?",
+        "txtlength": 18895
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/tamogatoi-tartalom/20210324/az-otthonteremtesi-tamogatasok-szinte-megszuntettek-a-feketezest-az-uj-hazak-epitesenel/",
+        "h1": "Az otthonteremtési támogatások szinte megszüntették a feketézést az új házak építésénél",
+        "txtlength": 18146
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://precedens.mandiner.hu/cikk/20210324_europai_parlament_europai_bizottsag_jogallamisagi_mechanizmus_birosag_per",
+        "h1": "Beperelheti az Európai Parlament az Európai Bizottságot a jogállamisági mechanizmus miatt",
+        "txtlength": 17961
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20210324/kenyes-helyzetben-dont-a-kormany-a-jarvanyugyi-szigorrol-ezt-merlegelhetik-szerdan-475406",
+        "h1": "Kényes helyzetben dönt a kormány a járványügyi szigorról - Ezt mérlegelhetik szerdán",
+        "txtlength": 17934
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/karrier/igy-nem-fog-megoldodni-a-hazai-munkakrizis-a-jelentkezok-tobbsege-el-se-megy-az-interjura.1112808.html?r=melleklet",
+        "h1": "Így nem fog megoldódni a hazai munkakrízis: a jelentkezők többsége el se megy az interjúra",
+        "txtlength": 15672
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/testem/edzeskihagyas-testmozgas-hianya-hatasok/",
+        "h1": "Ez történik a szervezeteddel, ha felhagysz a sportolással",
+        "txtlength": 14943
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/hitel/ezek-a-magyarok-most-vegleg-bucsuzhatnak-a-babavarotol-eselyuk-sincs-az-ingyenpenzre.1112852.html",
+        "h1": "Ezek a magyarok most végleg búcsúzhatnak a babavárótól: esélyük sincs az ingyenpénzre",
+        "txtlength": 13475
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/szepseg/kozepkor-divatja/",
+        "h1": "Érdekességek a középkori divatról: a feneket szabadon hagyó tunikát a parasztok nem viselhették",
+        "txtlength": 10910
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/szuloseg/plussallat-gyerek-alvas-miert-szereti/",
+        "h1": "Ezért szeretik annyira a gyerekek a plüssállatokat",
+        "txtlength": 10359
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kultura/2021/03/23/kjersti-flaa-interju-golden-globe-hfpa/",
+        "h1": "Változásra kényszerítené Hollywoodot a norvég újságíró",
+        "txtlength": 21147
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/koronavirus/2021/03/23/a-covid-korkepe",
+        "h1": "Ennyi beteget nem tudunk ellátni. De akkor is megpróbáljuk",
+        "txtlength": 16781
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/operativ-torzs-muller-cecilia-marcius-23/qdwdjzf",
+        "h1": "Müller Cecília: elemi erővel tombol a járvány, gyakorlatilag teljessé vált a brit mutáns fertőző jelenléte",
+        "txtlength": 15699
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/elet-stilus/2021/03/23/anya-nagyon-szeretlek-orosz-anime-rajongo-ongyilkossag/",
+        "h1": "„Anya, nagyon szeretlek. Vidd el a cuccaimat a 16. emeletről” – ezt írta a lány, majd leugrott",
+        "txtlength": 15010
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kulfold/2021/03/24/europai-parlament-jogallamisagi-mechanizmus-allasfoglalas-europai-unio-birosaga-bizottsag",
+        "h1": "Kikényszerítené az Európai Parlament a jogállamisági rendelet alkalmazását",
+        "txtlength": 14922
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/03/23/a-ksh-elnokenek-a-szamai-a-sajat-hivatalanak-adataival-sincsenek-osszhangban-a-tavalyi-tobblethalalozasrol",
+        "h1": "A KSH elnökének számai a saját hivatalának adataival sincsenek összhangban a tavalyi többlethalálozásról",
+        "txtlength": 14861
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/velemeny/2021/03/23/muemlekvedelem-budapest-budai-var",
+        "h1": "Műemlékvédelem helyett történelemhamisítás folyik",
+        "txtlength": 13233
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/negyzetmeter-alapu-bevasarlas-korlatozas-hipermarket-uzlet/9xfzt4x",
+        "h1": "Jöhetnek az új bevásárlási szabályok: ez vár ránk is? Megmutatjuk, hogyan működik a négyzetméter-alapú korlátozás a szupermarketekben",
+        "txtlength": 12679
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/03/23/szlovakiaban-kormanyvalsag-van-de-lassul-a-jarvany",
+        "h1": "Szlovákiában durvul a kormányválság, de lassul a járvány",
+        "txtlength": 11901
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/tudomany/2021/03/24/oltas-vakcina-idosek-aszrazeneca/",
+        "h1": "Tiltás, oltás, hatékonyság: mi ez a káosz az AstraZeneca körül?",
+        "txtlength": 10807
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/tudomany/20210323_Kariko_Katalin_oltas_fertozes_megbetegedes",
+        "h1": "Karikó Katalin: A vakcina a megbetegedéstől és a kórházba kerüléstől védi az oltás után megfertőzödötteket",
+        "txtlength": 9496
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/tudomany/20210324_wc_kagylo_szellozo_aeroszol_koronavirus",
+        "h1": "Ennél jobban nem is lehetne elmagyarázni, miért kell gyakran szellőztetni egy járvány idején",
+        "txtlength": 8820
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/tudomany/20210323_Pfizer_szajon_at_szedheto_koronavirus_elleni_gyogyszer",
+        "h1": "A Pfizer elkezdte tesztelni a szájon át szedhető koronavírus elleni gyógyszerét",
+        "txtlength": 8656
+    },
+    {
         "hostname": "nosalty.hu",
         "pagelink": "https://www.nosalty.hu/recept/turogomboc-3",
         "h1": "Túrógombóc 3.",
