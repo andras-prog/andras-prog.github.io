@@ -1,5 +1,173 @@
 [
     {
+        "hostname": "hataratkelo.blog.hu",
+        "pagelink": "https://hataratkelo.blog.hu/2021/03/23/a_fulop-szigetek_sotet_oldala",
+        "h1": "A Fülöp-szigetek sötét oldala",
+        "txtlength": 44999
+    },
+    {
+        "hostname": "kulturpart.hu",
+        "pagelink": "https://kulturpart.hu/2021/03/20/rohadt_egy_gyilkossag",
+        "h1": "ROHADT EGY GYILKOSSÁG",
+        "txtlength": 11617
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210325_tudomanyos_kirekesztes_modszertana",
+        "h1": "Így szorulnak ki a konzervatívok a társadalomtudományokból",
+        "txtlength": 29193
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210203_a_magyarok_harcosnak_szuletnek",
+        "h1": "A magyarok harcosnak születnek – Marco Rossi a Mandinernek",
+        "txtlength": 24698
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/elet/20210325/a-magyar-jarvanyhelyzet-az-egyik-legsulyosabb-amit-a-vilagon-eddig-egy-orszag-elszenvedett/",
+        "h1": "A magyar járványhelyzet az egyik legsúlyosabb, amit a világon eddig egy ország elszenvedett",
+        "txtlength": 21255
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/karrier/ez-var-azokra-akiknek-iden-nem-sikerul-az-erettsegi-felveteli-meg-jobban-is-jarhatnak.1112882.html",
+        "h1": "Ez vár azokra, akiknek idén nem sikerül az érettségi, felvételi: még jobban is járhatnak?",
+        "txtlength": 20057
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210323_sulyos_mulasztasok_es_gondatlansagok_az_szfe_n_zalan_janos_a_mandinernek",
+        "h1": "A hallgatók diplomáját veszélyeztette az előző vezetés – Zalán János SZFE-rektorhelyettes a Mandinernek",
+        "txtlength": 19878
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/bank/20210324/a-teljes-regios-mezonyt-lefutna-a-magyar-szuperbank-interju-barna-zsolttal-475632",
+        "h1": "A teljes régiós mezőnyt lefutná a magyar szuperbank (Interjú Barna Zsolttal)",
+        "txtlength": 18900
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/kozelet/20210323/vegkepp-bebizonyosodott-hogy-kidobott-penz-a-lelegeztetogepekre-koltott-300-milliard-forint/",
+        "h1": "Végképp bebizonyosodott, hogy kidobott pénz a lélegeztetőgépekre költött 300 milliárd forint",
+        "txtlength": 18101
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/befektetes/20210325/nagy-dobassal-keszul-az-akk-a-fold-napjara-475548",
+        "h1": "Nagy dobással készül az ÁKK a Föld napjára",
+        "txtlength": 17731
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/bank/20210325/torlesztesi-moratorium-peldatlan-amit-magyarorszag-muvelt-ime-a-szamok-475582",
+        "h1": "Törlesztési moratórium: példátlan, amit Magyarország művelt, íme a számok",
+        "txtlength": 16708
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2021/03/25/elon-musk-utja-a-teljes-orulet-fele-het-merfoldes-lepesben",
+        "h1": "ELON MUSK ÚTJA A TELJES ŐRÜLET FELÉ, HÉT MÉRFÖLDES LÉPÉSBEN",
+        "txtlength": 14096
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/karrier/tizezernyi-magyar-robbanthat-bankot-ezzel-a-meloval-600-ezres-kezdober-varja-oket.1112954.html",
+        "h1": "Tízezernyi magyar robbanthat bankot: ezzel a melóval 600 ezres kezdőbér várja őket",
+        "txtlength": 11738
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/utazas/ferfikent-elo-nok-albania/",
+        "h1": "Miért élnek szűz férfiként Észak-Albániában egyes nők? Már csak maroknyian vannak a burneshák",
+        "txtlength": 11587
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/szuloseg/boldog-gyerekkor-duhos-feszult-gyerek/",
+        "h1": "Akkor lesz boldog a gyerekkora, ha lehet közben dühös és feszült is",
+        "txtlength": 10275
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/gazdasag/2021/03/24/a-jo-allam-gazdagabba-tesz-minket-de-a-mienk-inkabb-torzitja-a-gazdasagot",
+        "h1": "A jó állam gazdagabbá tesz minket, de a miénk inkább torzítja a gazdaságot",
+        "txtlength": 21928
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/9637-az-uj-koronavirus-fertozott-meghalt-272-beteg-magyarorszag/0zylx6e",
+        "h1": "Brutális számok: soha nem volt ennyi halott, de nagyon sok az új covid-fertőzött is hazánkban – Itt vannak a friss járványügyi adatok",
+        "txtlength": 12720
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20210324_Oroszi_Beatrix_Jakab_Ferenc_koronavirus",
+        "h1": "Oroszi Beatrix: Ne legyünk kishitűek, ezt a vírust le tudjuk győzni",
+        "txtlength": 12593
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/kkv/20210325_spar_evertekeles_interju",
+        "h1": "Már nem az élesztőt, hanem az akciós árukat keresik a magyar vevők",
+        "txtlength": 12584
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/krimi/megoltek-az-eltunt-villanyszereloket-nyomozas/4kq9sqn",
+        "h1": "Breaking - Lezárták az eltűnt villanyszerelők ügyét - ezt a helyet látták utoljára a meggyilkolt vállalkozók - részletek",
+        "txtlength": 12491
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20210324_iparuzesi_ado_kompenzacio_furjes_balazs_cserdine_nemeth_angela_xv_keruleti_onkormanyzat",
+        "h1": "Ultimátumszerű alapelvek, kevés ígéret – így egyeztet Fürjes Balázs egy kerülettel",
+        "txtlength": 12481
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/03/24/valamit-nagyon-elrontottuk-most-kozep-europaban",
+        "h1": "Valamit nagyon elrontottuk most Közép-Európában",
+        "txtlength": 12282
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2021/03/25/papcsak-ferenc-nyereg-etterem-varosliget/",
+        "h1": "Papcsák a Nyeregben: a fideszes politikus cége kaszál az éttermen, ami a polgármestersége alatt indulhatott el",
+        "txtlength": 11144
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/03/24/az-astrazeneca-kikuldott-az-orvosoknak-egy-tajekoztatot-arrol-hogy-milyen-tunetekre-erdemes-ovatossagbol-figyelni-az-oltas-utan",
+        "h1": "Az AstraZeneca kiküldött az orvosoknak egy tájékoztatót arról, hogy milyen tünetekre érdemes óvatosságból figyelni az oltás után",
+        "txtlength": 10748
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/gazdasag/2021/03/24/furcsa-itm-es-pavatanc-kaderjak-peter-szereperol",
+        "h1": "Az akkumulátorügyi miniszteri biztos tündöklése és bukása",
+        "txtlength": 10432
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kulfold/2021/03/25/koronavirus-vakcina-oltasi-terv-malta-eu-beszerzes/",
+        "h1": "Mégis honnan van Máltának ennyi vakcinája, hogy minket is megelőz?",
+        "txtlength": 10152
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/nevertek/2021/03/24/gigantikus-gazdasagpolitikai-kiserlet-helikopterpenz",
+        "h1": "Gigantikus gazdaságpolitikai kísérletben élünk",
+        "txtlength": 9900
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2021/03/24/kompolt-lottonyertes-polgarmestere-leromboltatott-egy-hazat-amig-a-lakok-dolgozni-voltak/",
+        "h1": "Kompolt lottónyertes polgármestere leromboltatott egy házat, amíg a lakók dolgozni voltak",
+        "txtlength": 9201
+    },
+    {
         "hostname": "kiszamolo.hu",
         "pagelink": "https://kiszamolo.hu/a-vagyoni-helyzet-alakulasa-az-usa-ban/",
         "h1": "A vagyoni helyzet alakulása az USA-ban",
