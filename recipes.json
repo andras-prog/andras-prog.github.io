@@ -1,85 +1,6 @@
 [
     {
-        "timestamp": 1616151645066,
-        "name": "Lángos gyorsan és egyszerűen",
-        "lead": "Egy jó vacsora után az ember bárkinek megbocsát. Akár még a saját rokonainak is.",
-        "phrase": "lángos",
-        "link": "https://www.nosalty.hu/recept/langos-gyorsan-egyszeruen",
-        "ingred": [
-            "liszt",
-            "élesztő",
-            "tojás",
-            "kefir",
-            "olaj"
-        ]
-    },
-    {
-        "timestamp": 1616151645066,
-        "name": "Kínai egytálétel",
-        "lead": "A jó minőségű élelmiszer nem más, mint olcsó egészségbiztosítás.",
-        "phrase": "egytál",
-        "link": "https://www.nosalty.hu/recept/kinai-egytaletel",
-        "ingred": [
-            "sárgarépa",
-            "hagyma",
-            "fokhagyma",
-            "gyömbér",
-            "gomba",
-            "tofu",
-            "csirkemell",
-            "zöldbab",
-            "kápia paprika",
-            "kaliforniai paprika",
-            "ananász",
-            "rizstészta",
-            "olaj",
-            "szójaszósz",
-            "chiliszósz",
-            "worcestershire-szósz",
-            "halszósz",
-            "tabasco szósz",
-            "barna cukor",
-            "szezámolaj"
-        ]
-    },
-    {
-        "timestamp": 1616151645066,
-        "name": "Habos túrós pite (Túrós pite 3.)",
-        "lead": "Bármily egyszerű is az étel, a született szakácsot tévedhetetlenül föl lehet ismerni.",
-        "phrase": "pite",
-        "link": "https://www.nosalty.hu/recept/habos-turos-pite-turos-pite-3",
-        "ingred": [
-            "mangalica zsír",
-            "liszt",
-            "tojás",
-            "lekvár",
-            "túró",
-            "cukor",
-            "vaníliaaroma",
-            "tejföl",
-            "citrom"
-        ]
-    },
-    {
-        "timestamp": 1616151645066,
-        "name": "Gulyásleves 4. -sertéshúsból",
-        "lead": "Az ember nem gondolkodhat, nem szerethet, nem alhat jól, ha nem evett jól.",
-        "phrase": "leves",
-        "link": "https://www.nosalty.hu/recept/gulyasleves-4-serteshusbol",
-        "ingred": [
-            "sertéscomb",
-            "hagyma",
-            "zsír",
-            "paprika",
-            "paradicsom",
-            "petrezselyem",
-            "sárgarépa",
-            "burgonya",
-            "csípős paprikakrém"
-        ]
-    },
-    {
-        "timestamp": 43336,
+        "timestamp": 1616756449423,
         "name": "Grízes tészta",
         "lead": "Minden étkezésben ott lakozhat a lélek, egy különös varázs; elég hozzá egy csöppnyi odafigyelés, képzelet és figyelmes gondoskodás.",
         "phrase": "tészta",
@@ -93,7 +14,7 @@
         ]
     },
     {
-        "timestamp": 43457,
+        "timestamp": 1616756449423,
         "name": "Mediterrán csicseriborsós egytál",
         "lead": "Tudod, miért fontos a finom étel? Összehozza az embereket, bárhonnan származnak is. Mindenkit barátságossá tesz és mosolyt csal az arcára.",
         "phrase": "egytál",
@@ -113,7 +34,7 @@
         ]
     },
     {
-        "timestamp": 43467,
+        "timestamp": 1616756449423,
         "name": "Tejfölös-kolbászos krumplileves",
         "lead": "Elképesztően finom",
         "phrase": "krumpli",
@@ -134,7 +55,7 @@
         ]
     },
     {
-        "timestamp": 44365,
+        "timestamp": 1616756449423,
         "name": "Virslis saláta",
         "lead": "Amit a tányérra teszek az nem étel, hanem a lelkem és a szenvedélyem.",
         "phrase": "saláta",
@@ -3197,6 +3118,85 @@
             "méz",
             "szezámmag",
             "olaj"
+        ]
+    },
+    {
+        "timestamp": 1616151645066,
+        "name": "Lángos gyorsan és egyszerűen",
+        "lead": "Egy jó vacsora után az ember bárkinek megbocsát. Akár még a saját rokonainak is.",
+        "phrase": "lángos",
+        "link": "https://www.nosalty.hu/recept/langos-gyorsan-egyszeruen",
+        "ingred": [
+            "liszt",
+            "élesztő",
+            "tojás",
+            "kefir",
+            "olaj"
+        ]
+    },
+    {
+        "timestamp": 1616151645066,
+        "name": "Kínai egytálétel",
+        "lead": "A jó minőségű élelmiszer nem más, mint olcsó egészségbiztosítás.",
+        "phrase": "egytál",
+        "link": "https://www.nosalty.hu/recept/kinai-egytaletel",
+        "ingred": [
+            "sárgarépa",
+            "hagyma",
+            "fokhagyma",
+            "gyömbér",
+            "gomba",
+            "tofu",
+            "csirkemell",
+            "zöldbab",
+            "kápia paprika",
+            "kaliforniai paprika",
+            "ananász",
+            "rizstészta",
+            "olaj",
+            "szójaszósz",
+            "chiliszósz",
+            "worcestershire-szósz",
+            "halszósz",
+            "tabasco szósz",
+            "barna cukor",
+            "szezámolaj"
+        ]
+    },
+    {
+        "timestamp": 1616151645066,
+        "name": "Habos túrós pite (Túrós pite 3.)",
+        "lead": "Bármily egyszerű is az étel, a született szakácsot tévedhetetlenül föl lehet ismerni.",
+        "phrase": "pite",
+        "link": "https://www.nosalty.hu/recept/habos-turos-pite-turos-pite-3",
+        "ingred": [
+            "mangalica zsír",
+            "liszt",
+            "tojás",
+            "lekvár",
+            "túró",
+            "cukor",
+            "vaníliaaroma",
+            "tejföl",
+            "citrom"
+        ]
+    },
+    {
+        "timestamp": 1616151645066,
+        "name": "Gulyásleves 4. -sertéshúsból",
+        "lead": "Az ember nem gondolkodhat, nem szerethet, nem alhat jól, ha nem evett jól.",
+        "phrase": "leves",
+        "link": "https://www.nosalty.hu/recept/gulyasleves-4-serteshusbol",
+        "ingred": [
+            "sertéscomb",
+            "hagyma",
+            "zsír",
+            "paprika",
+            "paradicsom",
+            "petrezselyem",
+            "sárgarépa",
+            "burgonya",
+            "csípős paprikakrém"
         ]
     }
 ]
