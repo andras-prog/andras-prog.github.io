@@ -1,5 +1,179 @@
 [
     {
+        "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/gyors-bogres-zserbo",
+        "h1": "Gyors bögrés \"zserbó\"",
+        "txtlength": 10474
+    },
+    {
+        "hostname": "hataratkelo.blog.hu",
+        "pagelink": "https://hataratkelo.blog.hu/2021/03/25/megtalaltuk_amit_otthon_hiaba_kerestunk#c40054716",
+        "h1": "Megtaláltuk, amit otthon hiába kerestünk",
+        "txtlength": 36203
+    },
+    {
+        "hostname": "kulturpart.hu",
+        "pagelink": "https://kulturpart.blog.hu/2021/03/22/mi_is_az_a_tesztoszteron-epiteszet",
+        "h1": "MI IS AZ A TESZTOSZTERON-ÉPÍTÉSZET?",
+        "txtlength": 10129
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210327_szabad_tudtam_maradni_hobo_a_mandinernek",
+        "h1": "Szabad tudtam maradni – Hobo a Mandinernek",
+        "txtlength": 32683
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210326_vakcinaof8",
+        "h1": "„Elemi erővel tombol a járvány”, húsvét után új szabályok jönnek – vakcinaösszefoglaló",
+        "txtlength": 24663
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210326_baloldal_nemzet_szili_katalin",
+        "h1": "A baloldal nemzeti elkötelezettsége hiteltelen – Szili Katalin a Mandinernek",
+        "txtlength": 21858
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/uzlet/20210326/merfoldko-tozsdere-megy-a-vilag-egyik-legnagyobb-kriptotozsdeje-475344",
+        "h1": "Mérföldkő: tőzsdére megy a világ egyik legnagyobb kriptotőzsdéje",
+        "txtlength": 21762
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/krtk/20210326/meglepo-mennyire-sok-magyar-telepulesen-neheziti-meg-az-eletet-az-alapveto-szolgaltatasok-hianya-475772",
+        "h1": "Meglepő, mennyire sok magyar településen nehezíti meg az életet az alapvető szolgáltatások hiánya",
+        "txtlength": 20908
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/global/20210327/egyre-tobb-a-veszjoslo-figyelmeztetes-par-even-belul-nagy-haboru-johet-475736",
+        "h1": "Egyre több a vészjósló figyelmeztetés: pár éven belül nagy háború jöhet",
+        "txtlength": 20429
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/penz/20210326/a-tavalyi-hivatalos-adatok-tulbecsultek-a-valosagban-a-realkeresetek-alig-emelkedhettek/",
+        "h1": "A tavalyi hivatalos adatok túlbecsültek, a valóságban a reálkeresetek alig emelkedhettek",
+        "txtlength": 18231
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/kozelet/20210324/a-szputnyik-es-az-astrazeneca-kesese-miatt-kellett-uj-vakcinakat-engedelyezni/",
+        "h1": "A Szputnyik és az AstraZeneca késése miatt kellett új vakcinákat engedélyezni",
+        "txtlength": 18130
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/otthon/alig-birsz-felkelni-az-ebresztodre-ezeken-valtoztass-hogy-konnyeden-induljon-a-reggel.1113020.html",
+        "h1": "Alig bírsz felkelni az ébresztődre? Ezeken változtass, hogy könnyedén induljon a reggel",
+        "txtlength": 16611
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/egeszseg/vakcinairigyseg/",
+        "h1": "A vakcinairigység arról szól, hogy az én életem, egészségem, szabadságom többet ér, mint a tiéd",
+        "txtlength": 16096
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/szuloseg/menstruacio-megszegyenites-kamasz-tinedzser-iskola/",
+        "h1": "Menstruálni csak otthon szoktam – öngyilkos is lehet a vérzése miatt megszégyenített kamasz",
+        "txtlength": 13236
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/vallalkozas/toman-szabina-a-tavaszi-bezaras-nem-szerepelt-a-forgatokonyvunkben.1112940.html",
+        "h1": "Tomán Szabina: A tavaszi bezárás nem szerepelt a forgatókönyvünkben",
+        "txtlength": 12362
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2021/03/27/a-koronavirus-jarvanynak-koszonhetjuk-hogy-meg-ma-ejjel-is-elore-kell-allitani-az-orakat",
+        "h1": "A KORONAVÍRUS-JÁRVÁNYNAK KÖSZÖNHETJÜK, HOGY MÉG MA ÉJJEL IS ELŐRE KELL ÁLLÍTANI AZ ÓRÁKAT",
+        "txtlength": 11432
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/krimi/csomagkuldos-sms-csalas-rendorseg-kibervedelem-vedekezes/ytbtqkq",
+        "h1": "Fontos: a rendőrség és a kibervédelem információi a csomagküldős-sms-es csalásról – Rengeteg hazai fertőzött van már, ők azonnal terjesztőkké válnak – részletek, tennivalók!",
+        "txtlength": 19681
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2021/03/26/hajlektalankorhaz-szabolcs-utca-budapest/",
+        "h1": "Rögtön felmondták a hajléktalankórház szerződését, amint lehetőség volt rá",
+        "txtlength": 16527
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://rangado.24.hu/magyar_foci/2021/03/26/vb-selejtezo-magyar-lengyel-elemzes/",
+        "h1": "Vb-selejtező: nem csak duma, hogy több volt a lengyelek elleni meccsben",
+        "txtlength": 16303
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/belfold/2021/03/26/velence-strand-lekeritese-gomi-kft-vs-onkormanyzat",
+        "h1": "Strandháború Velencén: a polgármester megtiltotta, mégis bekerítik a szabadstrandot",
+        "txtlength": 16113
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kultura/2021/03/26/freeszfe-partizan-film-hulye-fiatalok-premier-halasztas-vita-szfe/",
+        "h1": "Akkor most „betiltották” az SZFE-filmet, vagy a Partizán járt el gondatlanul?",
+        "txtlength": 15757
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20210327_iskolanyitas_pedagogus_oltas_koronavirus",
+        "h1": "Ha az oltással biztosra akar menni a kormány, akkor korai az április 19-i iskolanyitás",
+        "txtlength": 15636
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/velemeny/velemeny-covid-fertozes-edesapa-felelem/gql8d46",
+        "h1": "Vélemény – Egy covid-osztályon fekvő édesapa lányának tollából",
+        "txtlength": 15340
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/szorakozas/2021/03/27/ismerkedes-randi-jarvany-tinder-bumble-hammer-zsuzsanna-kenyszerszingli",
+        "h1": "Megkönnyebbültek, mert a járvány alatt végre nem kérik rajtuk számon, miért vannak egyedül",
+        "txtlength": 13919
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20210325_Kormanyinfo",
+        "h1": "Kormányinfó: 2,5 millió oltás után nyitnak az iskolák, beoltják a pedagógusokat is",
+        "txtlength": 13916
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/szorakozas/2021/03/26/krumplis-etelek-recept-rakott-krumpli-lepcsanka",
+        "h1": "Amit talán a rántott húsnál is jobban szeretünk: a krumplis ételek",
+        "txtlength": 13674
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/elet/20210326_forma1_hamilton_alonso_vettel",
+        "h1": "Hamilton letérdel, Alonso visszaül, Vettel átáll – rég tűntek ilyen izgalmasnak a Forma–1 arcai",
+        "txtlength": 13369
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/03/27/hetvegi-olvasnivalo-a-szomoru-szamoktol-a-hihetetlen-hajobalesetig",
+        "h1": "Hétvégi olvasnivaló a szomorú számoktól a hihetetlen hajóbalesetig",
+        "txtlength": 11181
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/03/27/a-december-ota-korhazba-kerulo-brit-fertozottek-42-szazaleka-volt-mar-beoltva",
+        "h1": "A december óta kórházba kerülő brit fertőzöttek 4,2 százaléka volt már beoltva",
+        "txtlength": 10497
+    },
+    {
         "hostname": "kiszamolo.hu",
         "pagelink": "https://kiszamolo.hu/uj-energiaosztalyok-marciustol/",
         "h1": "Új energiaosztályok márciustól",
