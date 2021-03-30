@@ -1,5 +1,191 @@
 [
     {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/rumos-mogyorokremes-gesztenyetorta.recept",
+        "h1": "RUMOS-MOGYORÓKRÉMES GESZTENYETORTA",
+        "txtlength": 10092
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/toltott-malacka-ahogy-szabi-a-pek-kesziti.recept",
+        "h1": "TÖLTÖTT MALACKA, AHOGY SZABI A PÉK KÉSZÍTI",
+        "txtlength": 9734
+    },
+    {
+        "hostname": "kiszamolo.hu",
+        "pagelink": "https://kiszamolo.hu/beanie-babak-buboreka/",
+        "h1": "Beanie Babák Buboréka",
+        "txtlength": 32927
+    },
+    {
+        "hostname": "alapblog.hu",
+        "pagelink": "https://alapblog.hu/gigantikus-gazdasagpolitikai-kiserlet/",
+        "h1": "GIGANTIKUS GAZDASÁGPOLITIKAI KÍSÉRLET",
+        "txtlength": 8771
+    },
+    {
+        "hostname": "kulturpart.hu",
+        "pagelink": "https://kulturpart.blog.hu/2021/03/22/a_21_szazadi_tinedzserkor_hatterzeneert_kialtott",
+        "h1": "A 21. SZÁZADI TINÉDZSERKOR HÁTTÉRZENÉÉRT KIÁLTOTT",
+        "txtlength": 8656
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/megtakaritas/pados-gabor-nem-talaltam-meg-jobb-befektetest-mint-a-kepzomuveszet.1113030.html",
+        "h1": "Pados Gábor: Nem találtam még jobb befektetést, mint a képzőművészet",
+        "txtlength": 36269
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210329_nincs_politikamentes_epiteszet_manyi_istvan_epiteszmernok_a_mandinernek",
+        "h1": "„Nincs politikamentes építészet” – Mányi István építészmérnök a Mandinernek",
+        "txtlength": 30821
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210324_jogallamisag_baloldali_modra",
+        "h1": "Jogállamiság baloldali módra",
+        "txtlength": 26463
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20210330/ot-ev-mulva-ra-sem-fogunk-ismerni-a-videkre-interju-nagy-istvan-agrarminiszterrel-474746",
+        "h1": "Öt év múlva rá sem fogunk ismerni a vidékre - Interjú Nagy István agrárminiszterrel",
+        "txtlength": 23922
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210323_oldoklo_kuzdelmek_varhatoak_az_elovalasztasokon_az_eselyes_valasztokeruletekben",
+        "h1": "Kemény harcok várhatóak az előválasztásokon az esélyes választókerületekben",
+        "txtlength": 22674
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/adat/20210330/a-tappenzadatok-arra-utalnak-hogy-fertozottkent-is-sokan-dolgozhattak/",
+        "h1": "A táppénzadatok arra utalnak, hogy fertőzöttként is sokan dolgozhattak",
+        "txtlength": 19105
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/otthon/kutya-tartasa-felelos-gazda/",
+        "h1": "\"A felelős gazdi jól etet, ivartalanít, képzi a kutyáját\" - Interjú Varga Adrienn-nel, a Kutyaovi Állatvédő Egyesületből",
+        "txtlength": 17618
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vilag/20210329/ki-volt-petr-kellner-a-leggazdagabb-kozep-kelet-europai/",
+        "h1": "Ki volt Petr Kellner, a leggazdagabb közép-kelet-európai?",
+        "txtlength": 17321
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/uzlet/20210329/gigafelvasarlas-johet-a-hazai-tavkozlesben-megvenne-a-digi-t-a-4ig-476302",
+        "h1": "Gigafelvásárlás jöhet a hazai távközlésben - Megvenné a DIGI-t a 4iG",
+        "txtlength": 15946
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/global/20210330/vegre-megjelenik-a-hetek-ota-vart-who-jelentes-szivarognak-a-reszletek-a-koronavirus-eredeterol-476318",
+        "h1": "Végre megjelenik a hetek óta várt WHO-jelentés – Szivárognak a részletek a koronavírus eredetéről",
+        "txtlength": 15814
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/utazas/megeri-kockaztatni-orult-ajanlatokkal-csabitanak-a-magyar-utazasi-irodak.1113278.html?r=melleklet",
+        "h1": "Megéri kockáztatni? Őrült ajánlatokkal csábítanak a magyar utazási irodák",
+        "txtlength": 13554
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2021/03/30/akkora-mint-az-empire-state-building-es-hegyeket-mozgattak-meg-erte-az-ever-given-kiszabaditasanak-szeduletes-fizikaja",
+        "h1": "SZÓ SZERINT HEGYEKET MOZGATTAK MEG ÉRTE – AZ EVER GIVEN KISZABADÍTÁSÁNAK SZÉDÜLETES FIZIKÁJA",
+        "txtlength": 10734
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/lajfhekk/szomszed-kutya-ugat/",
+        "h1": "Folyamatosan ugat a szomszéd kutyája: mit tegyek, hogy abbahagyja?",
+        "txtlength": 7403
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/gazdasag/2021/03/30/forditott-robin-hood-a-magyar-allam-a-nagyoknak-adja-a-kkv-k-uzleteit",
+        "h1": "Az állam sorban veszi el a kisebb cégek üzleteit és adja oda a kiválasztott nagyoknak",
+        "txtlength": 16735
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/fn/gazdasag/2021/03/30/benzinar-dragulas-meddig/",
+        "h1": "Azért drága a benzin, mert úgyis megvesszük?",
+        "txtlength": 16257
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/bige-laszlo-interju-eljaras-orban-viktor-velemeny/f7zy40w",
+        "h1": "Erős véleményt mondott Orbánról a házi őrizetben lévő magyar milliárdos",
+        "txtlength": 15753
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/operativ-torzs-muller-cecilia-jarvany-marcius-29/64we24t",
+        "h1": "Müller Cecília: „Senki sem érezheti biztonságban magát” – Fontos üzenetek húsvét előtt",
+        "txtlength": 15665
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/belfold/2021/03/29/abadszalok-tisza-to-turizmus-kikoto-fejlesztes-uszohaz-mobilhaz-horgaszat",
+        "h1": "Elkerített partszakasz, 40 milliós úszóházak – felpörögnek a fejlesztések a Tisza-tónál is",
+        "txtlength": 15329
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/belfold/2021/03/30/europa-tanacs-dunja-mijatovic-emberi-jogi-biztos-sajtoszabadsag-jelentes",
+        "h1": "Európa Tanács: A magyar kormány lerombolta a szabad véleménynyilvánítás feltételeit",
+        "txtlength": 15161
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/gazdasag/20210329_balaton_hosszu_hetvege_szallasok",
+        "h1": "Trükközve már húsvét hétvégére is kínálnak szállást a Balatonnál",
+        "txtlength": 13125
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/fn/gazdasag/2021/03/30/lakasfelujitas-kamattamogatott-hitel-piaci-hitel/",
+        "h1": "Lakásfelújítás: nem biztos, hogy mindenkinek a kamattámogatott kölcsön a legjobb megoldás",
+        "txtlength": 12541
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kulfold/2021/03/29/petr-kellner-meghalt-praga-gazdagsag/",
+        "h1": "Lezuhant a misztikus mágnás, aki Prágától Pekingig szárnyalt",
+        "txtlength": 11825
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/velemeny/20210329_covid_huszezer_koronavirus",
+        "h1": "Akkor tanulod meg, milyen aljas a Covid, amikor a családodat veszi célba",
+        "txtlength": 11582
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/gazdasag/20210330_last_minute_utazasi_iroda_nyar_nyaralas",
+        "h1": "Ha tengerre vágyik, last minute ajánlatokra idén ne számítson",
+        "txtlength": 11434
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/03/30/sharon-stone-becsaptak-hogy-villantsak-az-elemi-osztonben",
+        "h1": "Sharon Stone: Becsaptak, hogy villantsak az Elemi ösztönben",
+        "txtlength": 10496
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/03/30/keritessel-is-megvadoltak-jeffrey-epstein-bizalmasat-ghislaine-maxwellt",
+        "h1": "Kerítéssel is megvádolták Jeffrey Epstein bizalmasát, Ghislaine Maxwellt",
+        "txtlength": 9632
+    },
+    {
         "hostname": "hataratkelo.blog.hu",
         "pagelink": "https://hataratkelo.blog.hu/2021/03/25/megtalaltuk_amit_otthon_hiaba_kerestunk",
         "h1": "Megtaláltuk, amit otthon hiába kerestünk",
