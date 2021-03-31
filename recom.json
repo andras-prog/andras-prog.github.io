@@ -1,5 +1,197 @@
 [
     {
+        "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/vadas-martas-serteshussal",
+        "h1": "Vadas mártás sertéshússal",
+        "txtlength": 14314
+    },
+    {
+        "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/tiramisu-5-igazi",
+        "h1": "Tiramisu 5. - az \"igazi\"",
+        "txtlength": 11957
+    },
+    {
+        "hostname": "receptneked.hu",
+        "pagelink": "https://receptneked.hu/gyors/habkonnyu-turogomboc/",
+        "h1": "Habkönnyű túrógombóc recept",
+        "txtlength": 4307
+    },
+    {
+        "hostname": "receptneked.hu",
+        "pagelink": "https://receptneked.hu/gyors/villamgyors-hacsapuri/",
+        "h1": "Villámgyors hacsapuri recept",
+        "txtlength": 4282
+    },
+    {
+        "hostname": "alapblog.hu",
+        "pagelink": "https://alapblog.hu/business-travel-for-ever-vagy-never/",
+        "h1": "BUSINESS TRAVEL FOREVER – VAGY NEVER ?",
+        "txtlength": 14530
+    },
+    {
+        "hostname": "kulturpart.hu",
+        "pagelink": "https://kulturpart.blog.hu/2021/03/29/ha_felszall_a_kod",
+        "h1": "HA FELSZÁLL A KÖD",
+        "txtlength": 12031
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210324_orban_a_rendszervaltas_garanciaja",
+        "h1": "Lánczi András: Orbán a rendszerváltás garanciája",
+        "txtlength": 33207
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210324_parizer_demokra_cia_facebook",
+        "h1": "Parizer, demokrácia, Facebook – így nyomul az ellenzék a közösségi médiában",
+        "txtlength": 26258
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210329_aki_megteremtette_a_magyar_hadugyet_1848_ban_meszaros_lazar_portreja",
+        "h1": "Aki megteremtette a magyar hadügyet 1848-ban: Mészáros Lázár portréja",
+        "txtlength": 23502
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/penz/20210331/az-online-vasarlasok-eros-jelszohoz-kotese-tobb-kart-okoz-mint-hasznot/",
+        "h1": "Az online vásárlások erős jelszóhoz kötése több kárt okoz, mint hasznot",
+        "txtlength": 20611
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/vallalkozas/ez-lehet-a-magyar-kisvallalkozok-tulelesenek-zaloga-sokan-megleptek-rengetegen-meg-hezitalnak.1113300.html",
+        "h1": "Ez lehet a magyar kisvállalkozók túlélésének záloga: sokan meglépték, rengetegen még hezitálnak",
+        "txtlength": 18247
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/kozelet/20210330/veszunk-meg-465-lelegeztetogepet-de-ezeket-mar-az-eu-szamara/",
+        "h1": "Veszünk még 465 lélegeztetőgépet, de ezeket már az EU számára",
+        "txtlength": 17644
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20210331/ha-az-emberek-bulizni-fognak-husvetkor-akkor-nem-lesz-eleg-a-korhazi-szemelyzet-476548",
+        "h1": "Ha az emberek bulizni fognak húsvétkor, akkor nem lesz elég a kórházi személyzet",
+        "txtlength": 16512
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/uzlet/20210331/ez-lehet-a-megoldas-az-emberiseg-elott-allo-legkomolyabb-problemakra-476282",
+        "h1": "Ez lehet a megoldás az emberiség előtt álló legkomolyabb problémákra?",
+        "txtlength": 15903
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20210331/varga-mihaly-meglepoen-gyors-lehet-az-idei-gdp-novekedes-de-75-ra-emeljuk-az-idei-deficitcelt-476560",
+        "h1": "Varga Mihály: meglepően gyors lehet az idei GDP-növekedés, de 7,5%-ra emeljük az idei deficitcélt",
+        "txtlength": 14789
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/otthon/veszelyes-ev-varhat-az-allergiasokra-nem-is-sejtik-miert-romlott-ennyit-az-allapotuk.1113104.html",
+        "h1": "Veszélyes év várhat az allergiásokra: nem is sejtik, miért romlott ennyit az állapotuk",
+        "txtlength": 13547
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/otthon/alku-ingatlan-eladas-eseten/",
+        "h1": "Így kelhet el minél magasabb áron az ingatlan: a sikeres alkustratégiáról kérdeztük az ingatlanszakértőt",
+        "txtlength": 12029
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2021/03/30/ot-even-belul-atallhat-a-gazra-a-matra-szenfuggo-monstruma-de-kellenek-e-egyaltalan-gazeromuvek",
+        "h1": "ÖT ÉVEN BELÜL ÁTÁLLHAT A GÁZRA A MÁTRA SZÉNFÜGGŐ MONSTRUMA, DE KELLENEK-E EGYÁLTALÁN GÁZERŐMŰVEK?",
+        "txtlength": 11665
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/lajfhekk/mennyi-alkoholt-lehet-inni/",
+        "h1": "Megengedett napi alkoholfogyasztás: mennyi alkoholt lehet inni büntetlenül?",
+        "txtlength": 9180
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2021/03/30/romsics-ignac-tortenesz-hetveneves-szuletesnap-tanitvanyok/",
+        "h1": "De ki lopta el a professzor kabátját? – 70 éves lett Romsics Ignác",
+        "txtlength": 23757
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20210331_szijjarto_laszlo_nagyinterju",
+        "h1": "Szijjártó László: \"Magyarországon senki nem fogja észrevenni, ha összeomlik az egészségügyi rendszer\"",
+        "txtlength": 18611
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/koronavirus/2021/03/31/nyitas-koroanivrus-orban-viktor-kasler-miklos-oltas-millio-merkely-bela-statisztika-iskolak-tanarok-uzletek",
+        "h1": "Saját minisztere és szakértők cáfolnak rá Orbán nyitási terveire",
+        "txtlength": 15200
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/elet/20210330_Fogadott_a_halallal_lefutotta_a_rakot_is",
+        "h1": "Fogadott a halállal, lefutotta a rákot is",
+        "txtlength": 14543
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kultura/2021/03/30/avatar-2-folytatas-james-cameron-kina-disney-marvel/",
+        "h1": "Nem a Marvel, hanem az Avatar sikerkorszaka lehet a következő évtized",
+        "txtlength": 14266
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/politika/orban-viktor-kritika-kardos/lnjpl0b",
+        "h1": "„Ön- és közveszélyes” – Súlyos kritikát fogalmazott meg a Fidesz alapító tagja a párt születésnapján Orbán Viktorról",
+        "txtlength": 13616
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/szolgaltatok-fodraszok-leleplezes-hazhoz-mennek/d31q51m",
+        "h1": "Lelepleztük az ügyeskedő szolgáltatókat: vannak, akik házhoz járnak, hogy a lezárások alatt bevételhez jussanak",
+        "txtlength": 12618
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/szorakozas/2021/03/31/dota-dragons-blood-sorozat-anime-netflix-kritika",
+        "h1": "A legváratlanabb helyről futott be, mégis az elmúlt időszak egyik legkirályabb animációs sorozata lett",
+        "txtlength": 12609
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/tamogatott-tartalom/2021/03/30/a-bosch-rexroth-mar-most-megalmodta-a-jovo-gyarait-es-segiti-hogy-lepesrol-lepesre-valosagga-valhassanak",
+        "h1": "A Bosch Rexroth sokat tesz azért, hogy a jövő gyárai lépésről lépésre valósággá válhassanak Magyarországon is",
+        "txtlength": 11894
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/03/31/oroszorszag-azt-allitja-merkel-es-macron-a-szputnyik-europai-hasznalatarol-targyaltak-putyinnal",
+        "h1": "Oroszország azt állítja, Merkel és Macron a Szputnyik európai használatáról tárgyaltak Putyinnal",
+        "txtlength": 11517
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/03/30/a-who-foigazgatoja-szerint-a-koronavirus-eredetet-tovabb-kell-vizsgalni",
+        "h1": "A WHO főigazgatója szerint a koronavírus eredetét tovább kell vizsgálni",
+        "txtlength": 11318
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/gazdasag/20210331_Varga_Mihaly_A_kormany_varhatoan_felezer_milliarddal_tobbet_fog_kolteni",
+        "h1": "Varga Mihály: A kormány várhatóan félezer milliárddal többet fog költeni",
+        "txtlength": 11049
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/fn/gazdasag/2021/03/31/lelegeztetogep-tamogatas-debreceni-egyetem/",
+        "h1": "Hegyekben áll a lélegeztetőgép a raktárban, de még érkeznek újabbak",
+        "txtlength": 10774
+    },
+    {
         "hostname": "mindmegette.hu",
         "pagelink": "https://www.mindmegette.hu/rumos-mogyorokremes-gesztenyetorta.recept",
         "h1": "RUMOS-MOGYORÓKRÉMES GESZTENYETORTA",
