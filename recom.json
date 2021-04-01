@@ -1,6 +1,204 @@
 [
     {
         "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/igazi-strandos-langos",
+        "h1": "Igazi strandos lángos",
+        "txtlength": 13690
+    },
+    {
+        "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/klasszikus-toltott-kaposzta",
+        "h1": "Klasszikus töltött káposzta",
+        "txtlength": 11467
+    },
+    {
+        "hostname": "receptneked.hu",
+        "pagelink": "https://receptneked.hu/gyors/egyszeru-sajtkrokett/",
+        "h1": "Egyszerű sajtkrokett recept",
+        "txtlength": 4097
+    },
+    {
+        "hostname": "receptneked.hu",
+        "pagelink": "https://receptneked.hu/gyors/habos-tejbegriz-bogreben/",
+        "h1": "Habos tejbegríz bögrében recept",
+        "txtlength": 3950
+    },
+    {
+        "hostname": "kiszamolo.hu",
+        "pagelink": "https://kiszamolo.hu/kerlek-ne-tedd/#more-115081",
+        "h1": "Kérlek ne tedd",
+        "txtlength": 35770
+    },
+    {
+        "hostname": "efesasanisimasa.com",
+        "pagelink": "https://efesasanisimasa.com/2021/02/22/homeland-1-evad/",
+        "h1": "Homeland – A belső ellenség (Homeland, Season 1-8., 2011-2020)",
+        "txtlength": 16291
+    },
+    {
+        "hostname": "alapblog.hu",
+        "pagelink": "https://alapblog.hu/nft-a-legujabb-kriptoorulet/",
+        "h1": "NFT- A LEGÚJABB KRIPTOŐRÜLET",
+        "txtlength": 9463
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/kozelet/20210331/metrokocsi-felujitas-a-dontesek-mentegetese-helyett-ideje-levonni-a-tanulsagokat/",
+        "h1": "Metrókocsi-felújítás: a döntések mentegetése helyett ideje levonni a tanulságokat",
+        "txtlength": 32973
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210331_szamhaboru_utanajartunk_a_jarvanyhalalozasok_valodi_adatainak",
+        "h1": "Számháború – utánajártunk a járványhalálozások valódi adatainak",
+        "txtlength": 30937
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210331_nemeth_janos_borasz_szekszard",
+        "h1": "„A világnak lassulnia kell” – Németh János borász a Mandinernek",
+        "txtlength": 24463
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210326_belfold_koronavirus_adatok_halalozas_elemzes?fbclid=IwAR23yoH-LQwXSTFv9YUWeyucxSaRL91IUAIjyygy1OpERJoQR6hzEEeWkI4",
+        "h1": "Covid-halálozás: mik a valódi számok?",
+        "txtlength": 21832
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/megtakaritas/igy-keruld-el-a-katasztrofat-kevesen-lepik-meg-pedig-csak-ennyi-kell-a-giganyugdijhoz.1113354.html",
+        "h1": "Így kerüld el a katasztrófát: kevesen lépik meg, pedig csak ennyi kell a giganyugdíjhoz",
+        "txtlength": 19804
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/tamogatoi-tartalom/20210401/meddig-emelkedhet-az-eu-legfontosabb-klimavedelmi-eszkozenek-az-ara/",
+        "h1": "Meddig emelkedhet az EU legfontosabb klímavédelmi eszközének az ára?",
+        "txtlength": 18874
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/ingatlan/20210401/nyilvan-mindenki-tudta-hogy-baj-lesz-csak-ki-kellett-varni-476624",
+        "h1": "\"Nyilván mindenki tudta, hogy baj lesz, csak ki kellett várni!\"",
+        "txtlength": 18836
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/uzlet/20210401/tesla-gyilkosnak-kialtottak-ki-de-csunyan-osszeesett-a-nio-476468",
+        "h1": "Tesla-gyilkosnak kiáltották ki, de csúnyán összeesett a NIO",
+        "txtlength": 17843
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20210401/elarult-nehany-fontos-szamot-orban-viktor-bemutatjuk-a-nyitas-varhato-menetrendjet-476686",
+        "h1": "Elárult néhány fontos számot Orbán Viktor – Bemutatjuk a nyitás várható menetrendjét",
+        "txtlength": 16606
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2021/04/01/a-gazdagok-raugrottak-a-bitcoinra-mert-mar-az-is-biztosabbnak-tunik-a-penznel",
+        "h1": "A GAZDAGOK RÁUGROTTAK A BITCOINRA, MERT MÁR AZ IS BIZTOSABBNAK TŰNIK A PÉNZNÉL",
+        "txtlength": 16586
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/utazas/hazai-utazasi-irodak-a-varhato-nyitasrol-a-kotelezo-vedooltas-diszkriminativ.1113304.html",
+        "h1": "Hazai utazási irodák a várható nyitásról: \"A kötelező védőoltás diszkriminatív\"",
+        "txtlength": 14884
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/kapcsolat/hol-kellene-tartanod-anyagiakban/",
+        "h1": "Hol kéne már tartanod anyagiakban? Miért nem mindegy, hogy valakinek pénze van, vagy vagyonos?",
+        "txtlength": 13973
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/lajfhekk/kellemetlen-szagok-semlegesitese-hazi-praktikak/",
+        "h1": "Szagok semlegesítése: ezek a legtutibb házi praktikák",
+        "txtlength": 8395
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20210331_Rendkivuli_interjut_ad_Orban_Viktor_az_M1en",
+        "h1": "Orbán: Május végéig 7 millió első oltásig el lehet jutni",
+        "txtlength": 17978
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kultura/2021/03/31/ewan-mcgregor-50-eves-toplista/",
+        "h1": "A messzire jutott skót, akinek a hazugságokat is elhisszük – az ötvenéves Ewan McGregor tíz legjobb filmje",
+        "txtlength": 16955
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/belfold/2021/04/01/politikus-gyerek-facebook-foto-lajk-kep-kampany",
+        "h1": "Melyik politikus szerez több lájkot a gyerekével?",
+        "txtlength": 14932
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/budapest-szen-dioxid-kibocsatas-csokkentes-2030/m1x0qlw",
+        "h1": "Jelentős százalékkal csökkentené szén-dioxid-kibocsátását 2030-ra Budapest",
+        "txtlength": 14236
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/03/31/hemzseg-a-hibaktol-a-tota-w-arpad-elleni-itelet-az-eotvos-karoly-intezet-szerint",
+        "h1": "Hemzseg a hibáktól a Tóta W. Árpád elleni ítélet az Eötvös Károly Intézet szerint",
+        "txtlength": 13466
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/szorakozas/2021/03/31/wonder-woman-1984-kritika-dc",
+        "h1": "A második Wonder Womanből hiányzik minden, ami különlegessé tette az elsőt",
+        "txtlength": 12272
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/koronavirus-testverek-halal-felarva-gyerekek-tarnaors/rw90lzt",
+        "h1": "„Egy hét alatt vitte el a lányaimat a covid” – A könnyeivel küszködve beszélt a tragédiáról Ildikó: négy gyermek maradt félárván a fiatal testvérek után",
+        "txtlength": 12270
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kultura/2021/03/31/macsai-pal-60-eves-szuletesnap-marcius-31-terapia-orkeny-szinhaz-azt-meseld-el-pista-szfe/",
+        "h1": "Ha kell, együttérző pszichológus, máskor gitárt ragadó énekes – Mácsai Pál 60 éves",
+        "txtlength": 12168
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/hvgkonyvek/20210331_Miert_van_szukseg_noi_magazinokra",
+        "h1": "Miért van szükség női magazinokra?",
+        "txtlength": 11027
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/gazdasag/20210401_Nemcsak_maganyos_de_draga_is_lesz_az_idei_husvet",
+        "h1": "Nemcsak magányos, de drága is lesz az idei húsvét",
+        "txtlength": 10954
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/03/31/nem-azonositott-kockazati-tenyezot-az-astrazeneca-vakcinaja-eseteben-az-europai-gyogyszerugynokseg",
+        "h1": "Nem azonosított kockázati tényezőt az AstraZeneca vakcinája esetében az Európai Gyógyszerügynökség",
+        "txtlength": 10023
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2021/04/01/torvenyjavaslat-egyetem-modellvaltas/",
+        "h1": "Benyújtották a törvényjavaslatokat 11 újabb egyetem modellváltásáról",
+        "txtlength": 9058
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/belfold/2021/03/31/operativ-torzs-tajekoztato-muller-cecilia-korlatozas-oltas-janssen-kutya-kotelesseg",
+        "h1": "Müller Cecília: Kutya kötelessége mindenkinek betartani a járványügyi intézkedéseket",
+        "txtlength": 7910
+    },
+    {
+        "hostname": "nosalty.hu",
         "pagelink": "https://www.nosalty.hu/recept/vadas-martas-serteshussal",
         "h1": "Vadas mártás sertéshússal",
         "txtlength": 14314
