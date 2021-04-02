@@ -1,6 +1,210 @@
 [
     {
         "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/hagyomanyos-edes-fank",
+        "h1": "Hagyományos édes fánk",
+        "txtlength": 12786
+    },
+    {
+        "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/hagyomanyos-zserbo-viciko-konyhajabol",
+        "h1": "Hagyományos zserbó Vicikó konyhájából",
+        "txtlength": 11326
+    },
+    {
+        "hostname": "receptneked.hu",
+        "pagelink": "https://receptneked.hu/gyors/hamis-aranygaluska-muffin/",
+        "h1": "Hamis aranygaluska muffin recept",
+        "txtlength": 3930
+    },
+    {
+        "hostname": "receptneked.hu",
+        "pagelink": "https://receptneked.hu/gyors/toltott-sult-krumpli/",
+        "h1": "Töltött sült krumpli recept",
+        "txtlength": 3844
+    },
+    {
+        "hostname": "kiszamolo.hu",
+        "pagelink": "https://kiszamolo.hu/curve-kartya-tudnivalok-2/",
+        "h1": "Curve kártya tudnivalók",
+        "txtlength": 33347
+    },
+    {
+        "hostname": "kulturpart.hu",
+        "pagelink": "https://kulturpart.blog.hu/2021/04/01/husveti_sovargas",
+        "h1": "HÚSVÉTI SÓVÁRGÁS",
+        "txtlength": 6616
+    },
+    {
+        "hostname": "alapblog.hu",
+        "pagelink": "https://alapblog.hu/vilag-tajain-kinai-menyasszony-arak-2/",
+        "h1": "VILÁG TÁJAIN – KÍNAI MENYASSZONY ÁRAK",
+        "txtlength": 5913
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/karrier/mar-most-millios-kepeket-fest-schweger-zsofia-az-usa-ban-angliaban-hiresebb-mint-itthon.1113376.html",
+        "h1": "Már most milliós képeket fest Schwéger Zsófia: az USA-ban, Angliában híresebb, mint itthon",
+        "txtlength": 39816
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2021/04/01/17-csodas-irogatos-jatek-tavaszi-szunetre-a-qubit-ajanlasaval",
+        "h1": "17 CSODÁS ÍROGATÓS JÁTÉK TAVASZI SZÜNETRE, A QUBIT AJÁNLÁSÁVAL",
+        "txtlength": 35118
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210331_kemeny_harcok_varhatoak_az_elovalasztasokon_az_eselyes_valasztokeruletekben_2_resz",
+        "h1": "A fővárosi kerületekben is hangos ellenzéki csörték várhatók az előválasztáson",
+        "txtlength": 19721
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/uzlet/20210401/a-teslat-akartak-masolni-de-ez-most-nagyon-besult-ilyen-a-nemet-humor-476790",
+        "h1": "A Teslát akarták másolni, de ez most nagyon besült – Ilyen a német humor",
+        "txtlength": 19662
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/adat/20210401/a-globalis-jarvany-harmadik-leghalalosabb-napja-volt-kedden-magyarorszagon/",
+        "h1": "A globális járvány harmadik leghalálosabb napja volt kedden Magyarországon",
+        "txtlength": 19470
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/elet/20210402/sokszor-belefutunk-abba-hogy-mar-nincs-ertelme-lelegeztetogepre-rakni-apolok-a-korhazak-leterheltsegerol/",
+        "h1": "„Sokszor belefutunk abba, hogy már nincs értelme lélegeztetőgépre rakni” – ápolók a kórházak leterheltségéről",
+        "txtlength": 19305
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/global/20210402/a-koronavirus-elleni-harc-mintaallamai-nagyon-le-vannak-maradva-az-oltassal-meghozza-szandekosan-476886",
+        "h1": "A koronavírus elleni harc mintaállamai nagyon le vannak maradva az oltással - méghozzá szándékosan",
+        "txtlength": 19126
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210402_orban_viktor",
+        "h1": "Orbán Viktor: Ha nem tartjuk be a korlátozásokat húsvétkor, abból nagy baj is lehet",
+        "txtlength": 17739
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210401_orban_salvini_sajtaj",
+        "h1": "Orbán: Az EPP-árvák politikai képviselete lesz az új jobboldali szövetség",
+        "txtlength": 17162
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/uzlet/20210402/rohamtempoban-dolgoznak-hogy-minden-korhazba-jusson-eleg-orvosi-oxigen-476710",
+        "h1": "Rohamtempóban dolgoznak, hogy minden kórházba jusson elég orvosi oxigén",
+        "txtlength": 16379
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/testem/pulzusalapu-futas-pulzuskontrollalt-edzes/",
+        "h1": "Így találd meg az optimális futótempót: pulzuskontrollált edzés a jobb teljesítményért",
+        "txtlength": 15545
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/otthon/hiaba-van-csucson-a-lakasepitesek-szama-a-regioban-sereghajtok-vagyunk.1113264.html",
+        "h1": "Hiába van csúcson a lakásépítések száma, a régióban sereghajtók vagyunk",
+        "txtlength": 12407
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/ezo/urbe-kuldott-uzenet/",
+        "h1": "6 különleges üzenet, amit az emberiség a világűrbe küldött: Morse-kódoktól az operameghívóig",
+        "txtlength": 11828
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/lajfhekk/milyen-idos-a-kutya/",
+        "h1": "A kutya életkorának megállapítása: innen tudhatod, hogy hány éves lehet",
+        "txtlength": 7304
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kulfold/2021/04/01/ausztria-sebastian-kurz-hatalommal-valo-visszaeles-thomas-schmid/",
+        "h1": "„Ma a Dunába vetem magam” – egyre kínosabb ügyekbe keveredik Kurz kancellár",
+        "txtlength": 18724
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/elet/20210401_Az_osszeeskuveselmeletektol_egy_szep_uj_vilagig",
+        "h1": "Az összeesküvés-elméletektől egy szép új világig",
+        "txtlength": 18702
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kultura/2021/04/02/van-baj-ha-jokepu-pasi-kerul-a-szalloda-recepciojara/",
+        "h1": "Van baj, ha jóképű pasi kerül a szálloda recepciójára",
+        "txtlength": 17840
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20210402_corvinus_modellvaltas_tapasztalatok",
+        "h1": "Egyetemi puding: megnéztük, mi a tapasztalat az elsőként modellt váltott Corvinusnál",
+        "txtlength": 16874
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2021/04/02/autizmus-vilagnapja-magasan-funkcionalo-autista-auti-morzsak-instagram/",
+        "h1": "„Anya, az lehet, hogy én is autista vagyok? Mert olyan vagyok, mint Misi a mesében”",
+        "txtlength": 16020
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/krimi/lakasmaffia-nyomozas-fovarosi-nyomozo-ugyeszseg/4c7rwlk",
+        "h1": "„Van saját evőeszközöm és edényeim is...” – Így dolgoztatta le a lakhatást a borzalmas körülmények között tartott áldozatokkal a lakásmaffiaügy vádlottja",
+        "txtlength": 13776
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/krimi/regi-bunugyek-hungaria-koruti-bankrablas-emberoles/k177z8c",
+        "h1": "Hungária körúti bankrablás: két halálos áldozat, a tettes nincs meg",
+        "txtlength": 13664
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/04/01/orban-budapestre-hivta-salvinit-es-a-lengyel-miniszterelnokot-hogy-aztan-ne-jelentsenek-be-semmit",
+        "h1": "Orbán Budapestre hívta Salvinit és a lengyel miniszterelnököt, hogy aztán ne jelentsenek be semmit",
+        "txtlength": 12060
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kulfold/2021/04/01/george-floyd-per-targyalas-rendorseg-tanumeghallgatas",
+        "h1": "Rendőrt hívtam a rendőrökre, mert egy gyilkosságot láttam",
+        "txtlength": 11475
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/04/02/a-magyar-orvosi-kamara-szerint-be-kene-engedni-az-ujsagirokat-a-korhazakba",
+        "h1": "A Magyar Orvosi Kamara szerint be kéne engedni az újságírókat a kórházakba",
+        "txtlength": 10922
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/eszkombajn/2021/04/02/japan-hadihajo-sziget-hasima-hashima-szenbanya-kenyszermunka",
+        "h1": "Japán szellem-szigetvárosa sötét múltat rejteget",
+        "txtlength": 10488
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/gazdasag/20210401_modellvaltas_kozhasznu_alapitvanyok_egyetemek_fenntartok_torvenyjavaslatok",
+        "h1": "Jól kitöm néhány új egyetemi alapítványt, de többeket üres zsebbel indítana útnak a kormány",
+        "txtlength": 10277
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/tech/2021/04/01/samsung-a52-a72-5g-kozepkategoria-csucsa",
+        "h1": "Semmi újat nem mutatnak, de nem is kell",
+        "txtlength": 10176
+    },
+    {
+        "hostname": "nosalty.hu",
         "pagelink": "https://www.nosalty.hu/recept/igazi-strandos-langos",
         "h1": "Igazi strandos lángos",
         "txtlength": 13690
