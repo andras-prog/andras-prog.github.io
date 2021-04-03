@@ -1,6 +1,198 @@
 [
     {
         "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/aranygaluska-ahogy-nagymamam-kesziti",
+        "h1": "Aranygaluska ahogy a nagymamám készíti",
+        "txtlength": 12668
+    },
+    {
+        "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/palacsinta-0",
+        "h1": "Palacsinta",
+        "txtlength": 11183
+    },
+    {
+        "hostname": "receptneked.hu",
+        "pagelink": "https://receptneked.hu/gyors/tokeletes-rantott-sajt/",
+        "h1": "Tökéletes rántott sajt recept",
+        "txtlength": 3763
+    },
+    {
+        "hostname": "receptneked.hu",
+        "pagelink": "https://receptneked.hu/gyors/toltott-kenyer/",
+        "h1": "Töltött kenyér recept",
+        "txtlength": 3754
+    },
+    {
+        "hostname": "hataratkelo.blog.hu",
+        "pagelink": "https://hataratkelo.blog.hu/2021/04/01/beoltva_hollandiaban_tanulsagok_es_mellekhatasok#c40085698",
+        "h1": "Beoltva Hollandiában – tanulságok és mellékhatások",
+        "txtlength": 27449
+    },
+    {
+        "hostname": "kulturpart.hu",
+        "pagelink": "https://kulturpart.blog.hu/2021/03/27/isten_eltesse_tata_novak_ferenc",
+        "h1": "ISTEN ÉLTESSE TATA! – NOVÁK FERENC 90",
+        "txtlength": 4840
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210331_zart_koru_otkarikas_jatekok_kozeleg_a_legdragabb_olimpia",
+        "h1": "Zárt körű ötkarikás játékok – közeleg a legdrágább olimpia",
+        "txtlength": 30231
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/tech/20210402/ot-dolog-amit-megtanulhatunk-egy-sakkvilagbajnoktol/",
+        "h1": "Öt dolog, amit megtanulhatunk egy sakkvilágbajnoktól",
+        "txtlength": 23250
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210402_szantho_miklos_voros_imre_jogallamisag_ellenzek_interju",
+        "h1": "Azonnal üldözöttnek tételezik magukat, ha éppen nem ők vannak hatalmon – Szánthó Miklós a baloldalról",
+        "txtlength": 21864
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210331_precedenserteku_dontest_hozott_a_kuria_tota_w_ugyeben",
+        "h1": "Precedensértékű döntést hozott a Kúria Tóta W. ügyében",
+        "txtlength": 20971
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/podcast/20210403/a-keleti-multik-ugyanarra-hasznalnak-minket-mint-a-nyugatiak/",
+        "h1": "A keleti multik ugyanarra használnak minket, mint a nyugatiak",
+        "txtlength": 18215
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20210402/orban-viktor-husvet-utan-nehany-nappal-kinyithatnak-a-boltok-es-a-szolgaltatoszektor-476888",
+        "h1": "Orbán Viktor: húsvét után néhány nappal kinyithatnak a boltok és a szolgáltatószektor ",
+        "txtlength": 15182
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/uzlet/20210401/feje-tetejere-allt-a-vilag-ezek-eddig-az-ev-legjobb-befektetesei-476680",
+        "h1": "Feje tetejére állt a világ - Ezek eddig az év legjobb befektetései",
+        "txtlength": 14759
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/hitel/megrohantak-a-magyarok-a-bankokat-kezdodik-a-sorban-allas-ezekert-a-hitelekert.1113456.html",
+        "h1": "Megrohanták a magyarok a bankokat: kezdődik a sorban állás ezekért a hitelekért",
+        "txtlength": 14357
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20210403/milyen-mertekben-hatarozta-meg-az-eu-keleti-bovitese-a-regio-felzarkozasi-eselyeit-476860",
+        "h1": "Milyen mértékben határozta meg az EU keleti bővítése a régió felzárkózási esélyeit?",
+        "txtlength": 14266
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/egeszseg/mitokondrialis-betegseg-arany-kovacs-rozalia-tortenete/",
+        "h1": "„Nemrég még erős masszőr voltam, most a kanalat sem tudom megfogni”: Arany-Kovács Rozália ritka betegséggel küzd",
+        "txtlength": 12878
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/vasarlas/ujra-lecsaphat-europara-a-tojasvesz-husvettol-horror-arakra-kell-keszulni.1113306.html",
+        "h1": "Újra lecsaphat Európára a tojásvész? Húsvéttól horror árakra kell készülni",
+        "txtlength": 12451
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2021/04/03/katolikus-szentek-tortenetei-fedtek-fel-hogyan-hatott-a-klimavaltozas-a-6-szazadi-italiara",
+        "h1": "KATOLIKUS SZENTEK TÖRTÉNETEI FEDTÉK FEL, HOGYAN HATOTT A KLÍMAVÁLTOZÁS A 6. SZÁZADI ITÁLIÁRA",
+        "txtlength": 10793
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/lajfhekk/milyen-gyakran-erdemes-autot-mosni/",
+        "h1": "Milyen gyakran mossunk autót?",
+        "txtlength": 7381
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kultura/2021/04/03/krimi-lelkesz-matine-konyvajanlo/",
+        "h1": "A gyóntatófülkében aludt a falu lelkésze, amikor holttesthez riasztották a folyópartra",
+        "txtlength": 25415
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2021/04/03/toth-krisztina-jokai-arany-ember-agresszio-noi-jogok-toxikus-magyarorszag-interju/",
+        "h1": "Tóth Krisztina: A műveimben jórészt olyan elesett emberek szerepelnek, amilyenek most a véremet akarják venni",
+        "txtlength": 23920
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/tech/2021/04/02/dopaminbojt-szilicium-volgy-cameron-sepah-emberkiserlet",
+        "h1": "Kipróbáltuk a Szilícium-völgy milliárdosainak boldogságkúráját, a dopaminböjtöt",
+        "txtlength": 21325
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/belfold/2021/04/03/ez-volt-az-utolso-dofes-szellemvarossa-valhat-ozd-gyarbezaras-elvandorlas-munka",
+        "h1": "Ez a gyárbezárás lehet az utolsó döfés, szellemvárossá válhat Ózd",
+        "txtlength": 18657
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/gazdasag/2021/04/02/oxo-properties-nem-orban-viktor-csaladjatol-vettuk-a-balatonhenyei-ingatlant",
+        "h1": "Nem Orbán Viktor családjától vettük a balatonhenyei ingatlant, mondják Oszkó Péterék",
+        "txtlength": 14556
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kultura/2021/04/02/matthias-corvinus-collegium-somloi-ut-balassi-intezet-bontas-epites-zoboki-napur-nemzetgazdasagi-kiemeles/",
+        "h1": "Túlméretezett óriás kerülhet a Gellérthegy oldalába",
+        "txtlength": 14374
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/04/02/meg-mindig-vannak-olyanok-akik-nem-tudjak-hogy-regisztralni-kell-az-oltasra",
+        "h1": "Még mindig vannak olyanok, akik nem tudják, hogy regisztrálni kell az oltásra",
+        "txtlength": 13594
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/kulfold/brusszel-illegalis-buli-rohamrendorok-oszlatas/2xcmp8k",
+        "h1": "A korlátozás az korlátozás... – Rommá verték a brüsszeli rohamrendőrök a több ezres bulizó tömeget – döbbenetes felvételek",
+        "txtlength": 13022
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/erdo-peter-husvet-jarvany/kbgfe8m",
+        "h1": "\"Nagyszerű élmény lesz majd újra találkozni\" - Erdő Péter szerint az egy éve tartó járvány mindenkit kimerít",
+        "txtlength": 12672
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/04/02/az-etiop-hadsereg-tagjai-kovethettek-el-egy-tomeggyilkossagot-tigreben",
+        "h1": "Az etióp hadsereg tagjai követhettek el egy tömeggyilkosságot Tigrében",
+        "txtlength": 10429
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/tudomany/20210401_trendforce_felmeres_mekkora_tv_merete",
+        "h1": "A méret a lényeg: egyre nagyobb tévéket akarunk otthonra",
+        "txtlength": 8113
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/tudomany/20210402_mesterseges_intelligencia_paws_orvvadaszat",
+        "h1": "A mesterséges intelligencia már azt is megmondja, hol csapnak le legközelebb az orvvadászok",
+        "txtlength": 8086
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/vilag/20210403_Konnygazzal_es_gumilovedekekkel_fekeztek_meg_a_tuntetoket_Sankt_Gallenben",
+        "h1": "Könnygázt, gumilövedéket vetettek be a korlátozások ellen tüntetőkkel szemben Sankt Gallenben",
+        "txtlength": 7908
+    },
+    {
+        "hostname": "nosalty.hu",
         "pagelink": "https://www.nosalty.hu/recept/hagyomanyos-edes-fank",
         "h1": "Hagyományos édes fánk",
         "txtlength": 12786
