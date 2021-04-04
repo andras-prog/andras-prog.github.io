@@ -1,6 +1,204 @@
 [
     {
         "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/pizzateszta-jamie-oliver-tol",
+        "h1": "Pizzatészta Jamie Oliver-től",
+        "txtlength": 12525
+    },
+    {
+        "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/stefania-szelet",
+        "h1": "Stefánia szelet",
+        "txtlength": 10543
+    },
+    {
+        "hostname": "receptneked.hu",
+        "pagelink": "https://receptneked.hu/gyors/gyors-rakott-bundas-kenyer/",
+        "h1": "Gyors rakott bundás kenyér recept",
+        "txtlength": 3768
+    },
+    {
+        "hostname": "receptneked.hu",
+        "pagelink": "https://receptneked.hu/gyors/tojasos-szendvics-sutoben/",
+        "h1": "Tojásos szendvics sütőben recept",
+        "txtlength": 3643
+    },
+    {
+        "hostname": "hataratkelo.blog.hu",
+        "pagelink": "https://hataratkelo.blog.hu/2021/04/01/beoltva_hollandiaban_tanulsagok_es_mellekhatasok",
+        "h1": "Beoltva Hollandiában – tanulságok és mellékhatások",
+        "txtlength": 27501
+    },
+    {
+        "hostname": "kulturpart.hu",
+        "pagelink": "https://kulturpart.hu/2021/03/27/isten_eltesse_tata_novak_ferenc",
+        "h1": "ISTEN ÉLTESSE TATA! – NOVÁK FERENC 90",
+        "txtlength": 4833
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210403_teleki_pal",
+        "h1": "„Nem tartottalak vissza. Bűnös vagyok”: 80 éve lett öngyilkos Teleki Pál",
+        "txtlength": 32878
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210331_most_van_igazan_szuksegunk_a_hitre_bese_gergo_atya_a_mandinernek",
+        "h1": "„Most van igazán szükségünk a hitre” – Bese Gergő atya a Mandinernek",
+        "txtlength": 26837
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210329_wittner_maria_is_szerepel_a_lappango_pc_diktaturarol_szolo_uj_amerikai_konyvben",
+        "h1": "Wittner Mária is szerepel a lappangó PC-diktatúráról szóló új amerikai könyvben",
+        "txtlength": 20104
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vallalat/20210404/szemelyzet-nelkuli-boltokkal-szorna-tele-az-orszagot-egy-magyar-vallalkozas/",
+        "h1": "Személyzet nélküli boltokkal szórná tele az országot egy magyar vállalkozás",
+        "txtlength": 19038
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vilag/20210403/az-egyseges-europai-bankrendszer-az-eurozona-jovoje/",
+        "h1": "Az egységes európai bankrendszer az eurózóna jövője?",
+        "txtlength": 18204
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/ingatlan/20210403/valami-nagyon-fura-a-terezvarosi-airbnb-s-szabalyozassal-megsem-usszak-meg-olyan-konnyen-a-tulajdonosok-476688",
+        "h1": "Valami nagyon fura a terézvárosi airbnb-s szabályozással: mégsem ússzák meg olyan könnyen a tulajdonosok?",
+        "txtlength": 17576
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20210404/miert-fektetnek-termofoldbe-a-gazdagok-476534",
+        "h1": "Miért fektetnek termőföldbe a gazdagok?",
+        "txtlength": 16301
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/testem/izometrias-gyakorlatok/",
+        "h1": "Mire jók az izometriás gyakorlatok, például egy mozdulatlan tárgy tolása?",
+        "txtlength": 14556
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/krtk/20210403/hozzajarul-e-a-helyi-elelmiszervasarlas-a-hazai-gazdasag-fejlodesehez-476822",
+        "h1": "Hozzájárul-e a helyi élelmiszervásárlás a hazai gazdaság fejlődéséhez?",
+        "txtlength": 14351
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/otthon/sokba-fajhat-a-husveti-kirandulas-csunya-birsagot-kaphatsz-ha-ezekre-nem-figyelsz.1113348.html?r=melleklet",
+        "h1": "Sokba fájhat a húsvéti kirándulás: csúnya bírságot kaphatsz, ha ezekre nem figyelsz",
+        "txtlength": 14107
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2021/04/04/itt-a-husvet-adonisz-ozirisz-es-tammuz-unnepe",
+        "h1": "ITT A HÚSVÉT, ADÓNISZ, OZIRISZ ÉS TAMMÚZ ÜNNEPE",
+        "txtlength": 12337
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/vasarlas/ezt-rengeteg-szulo-rontja-el-husvetkor-gyermekuk-meg-felnottkent-is-nyogni-fogja.1113292.html",
+        "h1": "Ezt rengeteg szülő rontja el húsvétkor: gyermekük még felnőttként is nyögni fogja",
+        "txtlength": 12009
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/fogyokura/magas-vernyomas-ellen-sport/",
+        "h1": "Mit sportolhatsz és mit nem magas vérnyomás esetén? Ezek a szakorvos tanácsai",
+        "txtlength": 9895
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/lajfhekk/szobanovenyek-mire-jo-az-agyaggolyo/",
+        "h1": "Szobanövények: mire jó az agyaggolyó?",
+        "txtlength": 6987
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kulfold/2021/04/04/eszak-korea-szex/",
+        "h1": "Ilyen a szex Észak-Koreában",
+        "txtlength": 28364
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kultura/2021/04/03/halott-penz-marsalko-david-interju-koronavirus/",
+        "h1": "Marsalkó Dávid: Még öt éve sem gondoltam volna, hogy a Halott Pénz idáig eljut",
+        "txtlength": 19389
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kultura/2021/04/03/fortepan-hiressegek-es-csaladjuk/",
+        "h1": "Kukkantson be nagy művészeink nappalijába",
+        "txtlength": 18756
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/kesznyeten-szoboszlai-barnabas-aramlopas-meghalt/hdj5d1n",
+        "h1": "Négy éve meghalt a kesznyéteni Barna bácsi: máig megosztja a falut az önbíráskodó áramos gazda, a tolvajok továbbra sem nyugszanak",
+        "txtlength": 12748
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/gazdasag/2021/04/03/a-roman-allam-nagy-terve-a-magyar-gazellatast-is-megvaltoztathatja",
+        "h1": "A román állam nagy terve a magyar gázellátást is megváltoztathatja",
+        "txtlength": 12236
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/elet/20210403_Aranyeso_dijeso_es_nehany_kiralyi_kezigranat",
+        "h1": "Aranyeső, díjeső és néhány királyi kézigránát",
+        "txtlength": 11817
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/kulfold/hawaii-bordas-csalad-csaladalapitas-mesebeli-sziget/j0dgz3w?utm_source=related&utm_medium=www.blikk.hu&utm_campaign=widget-9446979",
+        "h1": "Ez tiszta Hawaii! Mesebeli szigeten alapítottak családot Bordásék",
+        "txtlength": 11549
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/eszkombajn/2021/04/03/church-of-the-subgenius-vallas-egyhaz-parodia-jr-bob-dobbs-slack",
+        "h1": "Furcsa vagy? Abnormális? Akkor ezt az egyházat neked találták ki",
+        "txtlength": 10670
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/vilag/20210403_Koronavirus_hethavi_melyponton_a_halalozasok_szama_a_briteknel",
+        "h1": "Koronavírus: héthavi mélyponton a halálozások száma a briteknél",
+        "txtlength": 10214
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20210403_koronavirus_jarvany_covid19_egeszsegugy_intenziv_osztaly",
+        "h1": "Hetek óta először közölt Covid-osztályokról fotókat az MTI",
+        "txtlength": 8711
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/04/03/koronavirus-jarvany-242-halott-tetozni-latszik-a-harmadik-hullam",
+        "h1": "Koronavírus-járvány: 242 halott, tetőzni látszik a harmadik hullám",
+        "txtlength": 8616
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/04/02/mar-hollandiaban-sem-oltanak-60-ev-alattiakat-astrazenecaval",
+        "h1": "Már Hollandiában sem oltanak 60 év alattiakat AstraZenecával",
+        "txtlength": 8577
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/zacc/2021/04/03/nyarra-elkeszulhet-a-hevizi-orosz-ortodox-templom",
+        "h1": "Nyárra elkészülhet a hévízi orosz ortodox templom",
+        "txtlength": 7707
+    },
+    {
+        "hostname": "nosalty.hu",
         "pagelink": "https://www.nosalty.hu/recept/aranygaluska-ahogy-nagymamam-kesziti",
         "h1": "Aranygaluska ahogy a nagymamám készíti",
         "txtlength": 12668
