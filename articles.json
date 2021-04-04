@@ -1433,26 +1433,22 @@
         "topic": "konyv",
         "picarr": [
             {
-                "picture": "https://kisgomboc.files.wordpress.com/2021/01/girl-3528292_1920.jpg?w=723",
-                "timestamp": 1616929298774
-            },
-            {
                 "picture": "https://kisgomboc.files.wordpress.com/2021/01/blond-1866951_1920.jpg?w=723",
-                "timestamp": 1615719679988
+                "timestamp": 1617534058075
             },
             {
                 "picture": "https://kisgomboc.files.wordpress.com/2021/01/golden-791072_1920.jpg?w=723",
                 "timestamp": 1616324496356
+            },
+            {
+                "picture": "https://kisgomboc.files.wordpress.com/2021/01/girl-3528292_1920.jpg?w=723",
+                "timestamp": 1616929298774
             }
         ],
         "titlearr": [
             {
-                "title": "https://bookline.hu/product/home.action?_v=Stieg_Larsson_A_tetovalt_lany&type=22&id=78198",
-                "timestamp": 1616929298774
-            },
-            {
                 "title": "https://bookline.hu/product/home.action?_v=Ransom_Riggs_Vandorsolyom_kisasszony_ku&type=22&id=104944",
-                "timestamp": 1610811287658
+                "timestamp": 1617534058075
             },
             {
                 "title": "https://bookline.hu/product/home.action?_v=Fredrik_Backman_Az_ember_akit_Ovenak_h&type=22&id=273234",
@@ -1497,6 +1493,10 @@
             {
                 "title": "https://bookline.hu/product/home.action?_v=Dan_Brown_Inferno&type=22&id=123773",
                 "timestamp": 1616324496356
+            },
+            {
+                "title": "https://bookline.hu/product/home.action?_v=Stieg_Larsson_A_tetovalt_lany&type=22&id=78198",
+                "timestamp": 1616929298774
             }
         ],
         "leadarr": [
