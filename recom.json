@@ -1,6 +1,198 @@
 [
     {
         "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/meteres-sutemeny",
+        "h1": "Méteres sütemény",
+        "txtlength": 12555
+    },
+    {
+        "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/tradicionalis-gulyasleves",
+        "h1": "Tradicionális gulyásleves",
+        "txtlength": 12073
+    },
+    {
+        "hostname": "receptneked.hu",
+        "pagelink": "https://receptneked.hu/gyors/hortobagyi-husgombocok/",
+        "h1": "Hortobágyi húsgombócok recept",
+        "txtlength": 3641
+    },
+    {
+        "hostname": "receptneked.hu",
+        "pagelink": "https://receptneked.hu/gyors/serpenyos-pizza/",
+        "h1": "Serpenyős pizza recept",
+        "txtlength": 3629
+    },
+    {
+        "hostname": "hataratkelo.blog.hu",
+        "pagelink": "https://hataratkelo.blog.hu/2021/04/04/magyar_ir_es_kinai_jarvanykezeles#c40089298",
+        "h1": "Magyar, ír és kínai járványkezelés",
+        "txtlength": 16026
+    },
+    {
+        "hostname": "kulturpart.hu",
+        "pagelink": "https://kulturpart.blog.hu/2021/03/25/gazdat_keresnek_a_legjobb_plakatok",
+        "h1": "GAZDÁT KERESNEK A LEGJOBB PLAKÁTOK",
+        "txtlength": 3116
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210331_orult_kalandokba_visz_bele_a_nagyfonok_husveti_interju_lackfi_janossal",
+        "h1": "Őrült kalandokba visz bele a Nagyfőnök – húsvéti interjú Lackfi Jánossal",
+        "txtlength": 26927
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210331_tobb_mint_szajkarate_washington_peking_es_moszkva_ellen",
+        "h1": "Több mint szájkarate? – Washington Peking és Moszkva ellen",
+        "txtlength": 22918
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20210404/valoban-meg-kell-emelni-az-amerikai-minimalbert-476398",
+        "h1": "Valóban meg kell emelni az amerikai minimálbért?",
+        "txtlength": 18396
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20210404/koronavirus-jarvany-vadonatuj-feladatot-kell-megoldania-az-orban-kormanynak-477020",
+        "h1": "Koronavírus-járvány: vadonatúj feladatot kell megoldania az Orbán-kormánynak",
+        "txtlength": 17950
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/tech/20210405/hiaba-szeretnenk-gyorsan-rengeteg-oltast-gyartani-ez-a-termek-nem-olyan-mint-a-tobbi/",
+        "h1": "Hiába szeretnénk gyorsan rengeteg oltást gyártani, ez a termék nem olyan, mint a többi",
+        "txtlength": 17633
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/elet/20210403/mar-csak-10-ezret-kell-aludni-hogy-elerjuk-az-osztrak-eletszinvonalat/",
+        "h1": "Már csak 10 ezret kell aludni, hogy elérjük az osztrák életszínvonalat",
+        "txtlength": 17319
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20210405/napokon-belul-indul-az-ujranyitas-magyarorszagon-valtozik-a-kijarasi-tilalom-es-a-boltok-nyitvatartasa-477036",
+        "h1": "Napokon belül indul az újranyitás Magyarországon - Változik a kijárási tilalom és a boltok nyitvatartása",
+        "txtlength": 16692
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210404_koronavirus_rusvai_falus",
+        "h1": "Falus: A nyarat maszkban kell végigcsinálni. Rusvai: Nyáron maszk nélkül nyaralhatunk, járhatunk vendéglőbe és szórakozóhelyre",
+        "txtlength": 16111
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/kapcsolat/hinni-valamiben/",
+        "h1": "A hitünk megtart minket, még ha csak akkora is, mint a mustármag. Valamiben hinni kell!",
+        "txtlength": 15882
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/vasarlas/ezek-a-legolcsobb-elektromos-autok-a-magyar-piacon-12-remek-modell-12-millio-alatt.1113434.html",
+        "h1": "Ezek a legolcsóbb elektromos autók a magyar piacon: 12 remek modell 12 millió alatt",
+        "txtlength": 14770
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/otthon/vizparti-nyaralot-10-millio-alatt-nem-lehetetlen-itt-a-telepulesek-listaja.1113368.html?r=melleklet",
+        "h1": "Vízparti nyaralót 10 millió alatt? Nem lehetetlen, itt a települések listája",
+        "txtlength": 13675
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2021/04/05/a-tudomany-nem-lehet-lajkmagnes",
+        "h1": "A TUDOMÁNY NEM LEHET LÁJKMÁGNES",
+        "txtlength": 10101
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/lajfhekk/filodendron-fajtai-gondozasa-ontozese-szaporitasa/",
+        "h1": "A filodendron fajtái és gondozása: szakértő segítségével szedtük össze a legfontosabb tudnivalókat",
+        "txtlength": 6671
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kultura/2021/04/05/brody-janos-75-szuletesnap-legjobb-szovegei/",
+        "h1": "A hetvenöt éves Bródy János hetvenöt fontos sora",
+        "txtlength": 58830
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kultura/2021/04/04/kiss-viktor-interju-kivul-belul-orban-viktor-kapitalizmus/",
+        "h1": "A politikai folyamatok kulcsa, hogy rettegjünk a kirekesztettek lázadásától",
+        "txtlength": 30904
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kultura/2021/04/05/coco-chanel-franco-parizs-matine-konyvajanlo/",
+        "h1": "Német kém a világ leghíresebb francia parfümjének névadója",
+        "txtlength": 28026
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/belfold/2021/04/05/koranyi-david-interju",
+        "h1": "Korányi Dávid: Ha egy jövőre megalakuló ellenzéki kormányban megtalálna egy feladat, nem ugranék el előle",
+        "txtlength": 26018
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/velemeny/2021/04/05/muemlekvita-csikos-udvar-foorseg-potzner-ferenc",
+        "h1": "Műemlékvita: a budai Vár eddigi használata volt sértő",
+        "txtlength": 12324
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/04/04/akit-mar-beoltottak-azokat-felmenthetik-a-korlatozasok-alol-nemetorszagban",
+        "h1": "Akiket már beoltottak, azokat felmenthetik a korlátozások alól Németországban",
+        "txtlength": 12265
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/04/04/hidegfront-jon-a-jovo-heten-tobb-helyen-havazhat-is",
+        "h1": "Hidegfront jön a jövő héten, több helyen havazhat is",
+        "txtlength": 11391
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/kulfold/koronavirus-adatok-vilagszerte/1n4vm6d",
+        "h1": "Így áll húsvéthétfőn a világ a koronavírussal vívott harcban",
+        "txtlength": 11130
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/tamogatott-tartalom/2021/04/03/ugy-fest-erre-szukseg-van",
+        "h1": "Borzasztó állapotban vannak a magyar lakások, sokan ráugorhatnak az állami támogatásra",
+        "txtlength": 10918
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/szep-kartya-szolgaltatoi-dij-lejart-egyenleg/szyy7zc",
+        "h1": "Hónapokig senkinek nem jutott eszébe, hogy a veszélyhelyzet idején elég nehéz elkölteni a SZÉP-kártya-kereteket – De miért olyan fontos ez? Mutatjuk!",
+        "txtlength": 10909
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/zhvg/20210405_hasznalt_butor_koronavirusjarvany",
+        "h1": "A használt bútorok piacának is új lökést ad majd a koronavírus-járvány?",
+        "txtlength": 9594
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/tudomany/20210404_Szlovenia_AstraZeneca_vakcina",
+        "h1": "Szlovéniában felfüggeszthetik az AstraZeneca-oltóanyag beadását a 60 évnél fiatalabbaknak",
+        "txtlength": 9084
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20210404_Husvet_Balog_Zoltan_Fabiny_Tamas",
+        "h1": "Balog Zoltán: \"A mi kis országunk nem elátkozott hely\"",
+        "txtlength": 7940
+    },
+    {
+        "hostname": "nosalty.hu",
         "pagelink": "https://www.nosalty.hu/recept/pizzateszta-jamie-oliver-tol",
         "h1": "Pizzatészta Jamie Oliver-től",
         "txtlength": 12525
