@@ -1,6 +1,216 @@
 [
     {
         "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/foliaban-sult-toltott-fasirttekercs",
+        "h1": "Fóliában sült töltött fasírttekercs",
+        "txtlength": 12178
+    },
+    {
+        "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/frankfurti-leves-egyszeruen",
+        "h1": "Frankfurti leves egyszerűen",
+        "txtlength": 11563
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/sved-mandula-torta-ikea.recept",
+        "h1": "SVÉD MANDULATORTA",
+        "txtlength": 10523
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/sonkas-medvehagymas-stangli-tormaval-szabi-a-pek.recept",
+        "h1": "SONKÁS-MEDVEHAGYMÁS STANGLI, AHOGY SZABI A PÉK KÉSZÍTI",
+        "txtlength": 9449
+    },
+    {
+        "hostname": "receptneked.hu",
+        "pagelink": "https://receptneked.hu/gyors/csaszarne-pogacsaja/",
+        "h1": "Császárné pogácsája recept",
+        "txtlength": 3609
+    },
+    {
+        "hostname": "receptneked.hu",
+        "pagelink": "https://receptneked.hu/gyors/baconben-sult-sajttekercs-1/",
+        "h1": "Baconben sült sajttekercs recept",
+        "txtlength": 3540
+    },
+    {
+        "hostname": "kiszamolo.hu",
+        "pagelink": "https://kiszamolo.hu/legjobb-befektetes-a-napelem/",
+        "h1": "Legjobb befektetés a napelem",
+        "txtlength": 44467
+    },
+    {
+        "hostname": "alapblog.hu",
+        "pagelink": "https://alapblog.hu/a-gyoztes-mindent-es-mindenkit-visz-2/",
+        "h1": "A GYŐZTES MINDENT ÉS MINDENKIT VISZ",
+        "txtlength": 15760
+    },
+    {
+        "hostname": "efesasanisimasa.com",
+        "pagelink": "https://efesasanisimasa.com/2021/04/07/fargo-1-evad-fargo-season-1-2014/",
+        "h1": "Fargo (TV-Series, Season 1-4, 2014-2020)",
+        "txtlength": 14471
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210407_bezsilipelve_kimeruleskozelben_kozvetites_a_virusellenes_harc_frontvonalabol",
+        "h1": "Bezsilipelve, kimerülésközelben – közvetítés a vírusellenes harc frontvonalából",
+        "txtlength": 27137
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20210408/javaslatokat-nyujtott-be-a-kormanynak-a-magyar-kozgazdasagi-tarsasag-a-koronavirus-valsag-kezelesere-477588",
+        "h1": "Javaslatokat nyújtott be a kormánynak a Magyar Közgazdasági Társaság a koronavírus-válság kezelésére",
+        "txtlength": 24314
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vallalat/20210408/europa-egyik-leggyorsabban-novekvo-cege-lett-a-kisvardai-kick-box-bajnok-csaladi-vallalkozasa/",
+        "h1": "Európa egyik leggyorsabban növekvő cége lett a kisvárdai kick-box-bajnok családi vállalkozása",
+        "txtlength": 23808
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20210408/fizetnel-az-egeszsegedert-havidijat-mint-egy-netflix-csomagert-igazi-nagypalyas-jatekos-szolitja-meg-a-betegeket-477534",
+        "h1": "Fizetnél az egészségedért havidíjat, mint egy Netflix-csomagért? Igazi nagypályás játékos szólítja meg a betegeket",
+        "txtlength": 23393
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20210407/mire-keszul-a-kormany-ezekhez-a-kivaltsagokhoz-juthatnak-hozza-a-beoltottak-magyarorszagon-477298",
+        "h1": "Mire készül a kormány? - Ezekhez a kiváltságokhoz juthatnak hozzá a beoltottak Magyarországon",
+        "txtlength": 21209
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vilag/20210407/a-szegeny-orszagok-szegenyednek-a-gazdagok-gazdagodnak-magyarorszag-marad-kozepen/",
+        "h1": "A szegény országok szegényednek, a gazdagok gazdagodnak, Magyarország marad középen",
+        "txtlength": 19170
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://precedens.mandiner.hu/cikk/20210407_a_big_data_delibabja_beszelgetes_sarah_brayne_nel",
+        "h1": "A „big data” délibábja – beszélgetés Sarah Brayne-nel",
+        "txtlength": 19134
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210407_gyurcsany_ferenc_parlament",
+        "h1": "Gyurcsány: Jövőre győzünk, és maguknak nem lesz kegyelem!",
+        "txtlength": 18475
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/otthon/20210405/ez-maradt-az-okj-beszantasa-utan-ennyit-kereshetsz-most-a-legnepszerubb-tanfolyamokkal-1113462",
+        "h1": "Ez maradt az OKJ beszántása után: ennyit kereshetsz most a legnépszerűbb tanfolyamokkal",
+        "txtlength": 16525
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/auto/20210404/ezek-a-legolcsobb-elektromos-autok-a-magyar-piacon-12-remek-modell-12-millio-alatt-1113434",
+        "h1": "Ezek a legolcsóbb elektromos autók a magyar piacon: 12 remek modell 12 millió alatt",
+        "txtlength": 16429
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2021/04/07/a-szamitogepek-es-a-mobiltelefonok-gyartoi-mellett-az-autoipar-is-beleremegett-a-jarvany-miatt-kialakult-csiphianyba",
+        "h1": "A SZÁMÍTÓGÉPEK ÉS A MOBILTELEFONOK GYÁRTÓI MELLETT AZ AUTÓIPAR IS BELEREMEGETT A JÁRVÁNY MIATT KIALAKULT CSIPHIÁNYBA",
+        "txtlength": 12979
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/egeszseg/visszatero-mellkasi-fajdalom-okai/",
+        "h1": "A mellkasi fájdalom 5 leggyakoribb oka: tünetek a légúti betegségektől a szívproblémákig",
+        "txtlength": 10039
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/lajfhekk/miert-fel-a-macska-az-uborkatol/",
+        "h1": "Miért félnek a macskák az uborkától?",
+        "txtlength": 6378
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/04/08/nyitoduh-es-a-valodi-korkep",
+        "h1": "Nyitódüh és a valódi kórkép",
+        "txtlength": 17358
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/covid-osztaly-korhaz-beteg-beszamolo-koronavirus/3x35f4y",
+        "h1": "Beszámoló a vörös zónából, egy magyar covid-osztályon ápolt betegtől – Emberfeletti harcot vívnak az egészségügyi dolgozók",
+        "txtlength": 17161
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/koronavirus/2021/04/07/szingapur-koronavirus-qr-kod-korlatozas-fertozottek-maszk-karanten-mobiltelefon-internet-tajekoztatas",
+        "h1": "Az ország, ahol egy év alatt harmincan haltak meg a járvány miatt, és QR-kóddal is harcoltak ellene",
+        "txtlength": 16084
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/sport/2021/04/07/bajnokok-ligaja-reform-atalakitas-2024-europai-szuperliga-uefa-eca",
+        "h1": "A futball válasza a Netflixre: 36 csapatos európai szuperliga",
+        "txtlength": 16075
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/szegedi-egyetem-gulyas-laszlo-rasszista-homofob-megjegyzesek-vizsgalat/w8h2lrv",
+        "h1": "Rasszista, homofób és szexista megjegyzések a Szegedi Egyetem óráján: vizsgálat a feljelentett oktató ügyében",
+        "txtlength": 15657
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/sport/2021/04/07/sidi-peter-peni-istvan-pekler-zalan-nagy-gyorgy-magyar-sportlovo-szovetseg-ujdelhi-vilagkupa-sportloveszet/",
+        "h1": "Sidi Péter: A negyedik felvonás volt Péni világkupa-döntő előtti hihetetlen sportszerűtlensége",
+        "txtlength": 14658
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/elet/20210407_petry_zsolt_nemetorszag_foci_kulturharc",
+        "h1": "A futball évek óta a kultúrharc része Németországban, Petry Zsolt a legújabb áldozat",
+        "txtlength": 13657
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://rangado.24.hu/nemzetkozi_foci/2021/04/07/bl-negyeddonto-bayern-munchen-paris-saint-germain-elo/",
+        "h1": "Kikapott hazai pályán a Bayern München, könyörtelen volt a PSG",
+        "txtlength": 13050
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/04/07/tulterhelt-korhazakra-nyit-a-kormany",
+        "h1": "Túlterhelt kórházakra nyit a kormány",
+        "txtlength": 12691
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/gazdasag/20210408_korhazi_beszallitok_adossag_covid",
+        "h1": "Hiába várnak pénzükre a kórházi beszállítók, sokan kerültek a csőd szélére",
+        "txtlength": 11440
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/belfold/2021/04/08/futball-eb-rol-petry-zsoltrol-petry-zsoltrol-es-a-nyitas-mellett-es-ellen-szolo-ervekrol-is-kerdezzuk-a-kormanyt",
+        "h1": "Gulyás Gergely: Még ebben a hónapban több mint 3 millióan lesznek beoltva Magyarországon",
+        "txtlength": 11263
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/fn/gazdasag/2021/04/08/muller-cecilia-kinai-vakcinauzlet-danubia-pharma/",
+        "h1": "Müller Cecíliának tudnia kell, hogy ki áll az 55 milliárdos kínai vakcinaüzletre kiszemelt cég mögött",
+        "txtlength": 9437
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/eurologus/20210408_Masfel_millio_ember_el_az_europai_bortonokben",
+        "h1": "Még mindig zsúfoltabbak a magyarországi börtönök az európai átlagnál",
+        "txtlength": 9174
+    },
+    {
+        "hostname": "nosalty.hu",
         "pagelink": "https://www.nosalty.hu/recept/hagyomanyos-toltott-paprika",
         "h1": "Hagyományos töltött paprika",
         "txtlength": 12352
