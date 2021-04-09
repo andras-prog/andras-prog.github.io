@@ -1,6 +1,216 @@
 [
     {
         "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/hagyomanyos-kakaos-csiga",
+        "h1": "Hagyományos kakaós csiga",
+        "txtlength": 10962
+    },
+    {
+        "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/tejszines-fokhagymakremleves",
+        "h1": "Tejszínes fokhagymakrémleves",
+        "txtlength": 10865
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/csirkes-krumplis-egytaletel.recept",
+        "h1": "CSIRKÉS-KRUMPLIS EGYTÁLÉTEL",
+        "txtlength": 9487
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/marhaporkolt-zoldsegekkel.recept",
+        "h1": "MARHAPÖRKÖLT ZÖLDSÉGEKKEL",
+        "txtlength": 9350
+    },
+    {
+        "hostname": "receptneked.hu",
+        "pagelink": "https://receptneked.hu/gyors/bundas-kenyer-maskeppen/",
+        "h1": "Bundás kenyér másképpen recept",
+        "txtlength": 3518
+    },
+    {
+        "hostname": "receptneked.hu",
+        "pagelink": "https://receptneked.hu/gyors/kenyerlangos-vagy-toki-pompos/",
+        "h1": "Kenyérlángos, vagy töki pompos recept",
+        "txtlength": 3513
+    },
+    {
+        "hostname": "hataratkelo.blog.hu",
+        "pagelink": "https://hataratkelo.blog.hu/2021/04/07/mennyibe_kerul_felnevelni_egy_gyereket_svajcban#c40112538",
+        "h1": "Mennyibe kerül felnevelni egy gyereket Svájcban?",
+        "txtlength": 37302
+    },
+    {
+        "hostname": "hafr.hvgblog.hu",
+        "pagelink": "https://hafr.hvgblog.hu/2020/12/26/merjunk-kicsit-gondolni-gondolkodok-egy-tgm-interju-margojara/",
+        "h1": "Merjünk kicsit gondolni, gondolkodók! (Egy TGM-interjú margójára)",
+        "txtlength": 14572
+    },
+    {
+        "hostname": "cineartstudio.blog.hu",
+        "pagelink": "https://cineartstudio.blog.hu/2021/04/05/szuperszornyek_gigaszi_osszecsapasa_godzilla_vs_kong_kritika",
+        "h1": "Szuperszörnyek gigászi összecsapása: Godzilla vs. Kong – kritika",
+        "txtlength": 10541
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vilag/20210408/merkel-visszavonulasa-utan-akar-fel-is-ertekelodhet-magyarorszag-szerepe/",
+        "h1": "Merkel visszavonulása után akár fel is értékelődhet Magyarország szerepe",
+        "txtlength": 22660
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/uzlet/20210409/tovabbi-forrasbevonast-es-230-milliard-feletti-arbevetelt-tervez-az-autowallis-2021-ben-477584",
+        "h1": "További forrásbevonást és 230 milliárd feletti árbevételt tervez az AutoWallis 2021-ben",
+        "txtlength": 20864
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210409_szlavi_trifonov",
+        "h1": "Tévésztárból születhet az új bolgár miniszterelnök, de sajnos elbújt",
+        "txtlength": 20648
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20210408/hatalmas-a-bizonytalansag-a-kormany-megis-temposan-megy-elore-a-nyitas-utjan-mi-lesz-ebbol-477602",
+        "h1": "Hatalmas a bizonytalanság, a kormány mégis tempósan megy előre a nyitás útján - Mi lesz ebből?",
+        "txtlength": 17899
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210408_xxi_szazad_intezet_konferencia",
+        "h1": "Mi a magyar jobboldali alternatíva Európának?",
+        "txtlength": 17730
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/adat/20210409/nagyitoval-kell-keresni-az-arkulonbseget-az-aldi-a-lidl-es-a-penny-market-kozott/",
+        "h1": "Nagyítóval kell keresni az árkülönbséget az Aldi, a Lidl és a Penny Market között",
+        "txtlength": 17148
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210408_upor_laszlo_vs_zalan_janos_dokumentumok_cafoljak_upor_allitasait?fbclid=IwAR1kcMOu38gPEUpZoEwsmioNb7hE4owde3ESmuebtdyXEQNk09UwWRckmEM",
+        "h1": "Upor László vs. Zalán János – dokumentumok cáfolják Upor állításait az SZFE-akkreditációról",
+        "txtlength": 16370
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/vallalkozas/20210407/higitott-es-hazug-bio-szlogenekrol-vallott-moldovan-andras-kemeny-ez-a-megkozelites-1113541",
+        "h1": "Moldován András: Az öko-ság nem értelmezhető fogalom",
+        "txtlength": 16209
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/hitel/20210407/lemondanak-az-allami-ingyenmilliokrol-ezek-a-fiatalok-ha-nem-sietnek-vegleg-lecsuszhatnak-1113555",
+        "h1": "Lemondanak az állami ingyenmilliókról ezek a fiatalok: ha nem sietnek, végleg lecsúszhatnak",
+        "txtlength": 14497
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20210409/orban-viktor-elhalasztjuk-a-kozepiskolak-kinyitasat-vedettsegi-igazolvannyal-lehet-majd-esemenyekre-menni-477720",
+        "h1": "Orbán Viktor: elhalasztjuk a középiskolák kinyitását, védettségi igazolvánnyal lehet majd eseményekre menni ",
+        "txtlength": 14216
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/kapcsolat/a-baratsagrol/",
+        "h1": "Meghalni sincs időnk, nemhogy kapcsolatokat ápolni: pedig a barátság nem toppan be csak úgy az életedbe",
+        "txtlength": 11987
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/szuloseg/toth-panni-interju-kornyezetvedelem-hulladekmentes-elet/",
+        "h1": "Így néz ki az életmódunk egy 12 éves környezetvédő szemével: túl sokat költünk és szemetelünk",
+        "txtlength": 11623
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2021/04/08/felesleges-allandoan-torolgetni-a-kilincset-a-covid-19-tulnyomoreszt-a-levegoben-terjed",
+        "h1": "FELESLEGES ÁLLANDÓAN TÖRÖLGETNI A KILINCSET, A COVID-19 TÚLNYOMÓRÉSZT A LEVEGŐBEN TERJED",
+        "txtlength": 11600
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2021/04/08/ket-magyarorszag-talalkozasa-vegleg-leszamol-ellenzekevel-orban-viktor-vagy-levaltjak-a-fideszt/",
+        "h1": "Két Magyarország találkozása: végleg leszámol ellenzékével Orbán Viktor, vagy leváltják a Fideszt?",
+        "txtlength": 30361
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2021/04/09/petry-zsolt-hertha-orban-viktor-futball/",
+        "h1": "És az megvan, hogy Orbán futballfilozófiájából következhet igazán Petry kirúgása?",
+        "txtlength": 15547
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2021/04/09/astrazeneca-haziorvos-visszamondas-vakcina-pfizer-oltas/",
+        "h1": "„Sokan úgy gondolják, ez egy webshop, ahol szabadon lehet válogatni az oltóanyagok közül”",
+        "txtlength": 14517
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/tudomany/20210409_Magyar_szakertok_Ne_szedjenek_aszpirint_a_beoltottak_a_trombozis_kockazatanak_csokkentesere",
+        "h1": "Magyar szakértők: Ne szedjenek aszpirint a beoltottak a trombózis kockázatának csökkentésére",
+        "txtlength": 13736
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/belfold/2021/04/09/fidesz-kormany-oltasellenes-ellenzek-kampany-fact-checking",
+        "h1": "Most akkor az ellenzék tényleg oltásellenes?",
+        "txtlength": 13604
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/koronavirus/2021/04/08/astrazeneca-vakcina-oltas-mellekhatas-verrog-verrogkepzodes-trombozis-kockazat-megelozes-aszpirin-aspirin-fajdalomcsillapito",
+        "h1": "Nincs sok értelme oltás után aszpirint szedni",
+        "txtlength": 13346
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/hitelmoratorium-tartozas-novekedese-torlesztes-budapesti-no/1h1nhdf",
+        "h1": "Ez aztán a ráfizetés! Élt a hitelmoratóriummal egy budapesti nő, most 1,33 milliója bánja",
+        "txtlength": 13269
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/politika/orban-viktor-interju-jarvany-magyarorszag-bejelentes-kossuth-radio/p490y9q",
+        "h1": "Orbán Viktor bejelentései az újranyitás után: döntés született az érettségiről is",
+        "txtlength": 13148
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20210409_kormany_11_ev_ner_orban_viktor",
+        "h1": "Jövőre ballag a kormány, idén kisérettségi – adjon most ön osztályzatokat",
+        "txtlength": 12084
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/belfold/2021/04/08/pilismarot-duna-part-strand-favagas-banya-polgarmester-idokozi-valasztas-elmaradt",
+        "h1": "Letarolták a fákat Pilismaróton, eltűntek a madárfiókák",
+        "txtlength": 11808
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/04/09/hat-eve-nem-voltak-ilyen-sulyos-zavargasok-eszak-irorszagban",
+        "h1": "Hat éve nem voltak ilyen súlyos zavargások Észak-Írországban",
+        "txtlength": 10482
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/04/08/moszkva-felkeszult-a-legrosszabb-forgatokonyvekre-az-orosz-amerikai-viszonyban",
+        "h1": "Moszkva felkészült a legrosszabb forgatókönyvekre az orosz-amerikai viszonyban",
+        "txtlength": 10356
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20210409_orban_radiointerju",
+        "h1": "Orbán: Június elejére hétmillió magyar megkaphatja az oltást",
+        "txtlength": 10185
+    },
+    {
+        "hostname": "nosalty.hu",
         "pagelink": "https://www.nosalty.hu/recept/foliaban-sult-toltott-fasirttekercs",
         "h1": "Fóliában sült töltött fasírttekercs",
         "txtlength": 12178
