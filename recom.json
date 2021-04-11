@@ -1,6 +1,204 @@
 [
     {
         "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/sult-oldalas-ahogy-nagyanyaink-keszitettek",
+        "h1": "Sült oldalas, ahogy nagyanyáink készítették",
+        "txtlength": 11301
+    },
+    {
+        "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/falusi-almas-pite",
+        "h1": "Falusi almás pite",
+        "txtlength": 11265
+    },
+    {
+        "hostname": "receptneked.hu",
+        "pagelink": "https://receptneked.hu/gyors/sajtos-krumpligolyok/",
+        "h1": "Sajtos krumpligolyók recept",
+        "txtlength": 3454
+    },
+    {
+        "hostname": "receptneked.hu",
+        "pagelink": "https://receptneked.hu/gyors/turos-lepenyke/",
+        "h1": "Túrós lepényke recept",
+        "txtlength": 3363
+    },
+    {
+        "hostname": "kiszamolo.hu",
+        "pagelink": "https://kiszamolo.hu/lakasarindex-frissitve/",
+        "h1": "Lakásárindex frissítve",
+        "txtlength": 32428
+    },
+    {
+        "hostname": "alapblog.hu",
+        "pagelink": "https://alapblog.hu/cathie-wood-tundoklese-es-bukasa/",
+        "h1": "CATHIE WOOD TÜNDÖKLÉSE ÉS BUKÁSA?",
+        "txtlength": 10390
+    },
+    {
+        "hostname": "efesasanisimasa.com",
+        "pagelink": "https://efesasanisimasa.com/2021/03/14/sajat-szoba-menekules-a-tohoz-vongozero-to-the-lake-2019/",
+        "h1": "Saját szoba – Menekülés a tóhoz (Vongozero /To the Lake, 2019)",
+        "txtlength": 9433
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.penzcentrum.hu/vallalkozas/20210411/mi-az-uzleti-terv-es-miert-fontos-uzleti-terv-minta-2021-kesz-uzleti-terv-minta-egyeni-vallalkozo-reszere-1113627",
+        "h1": "Mi az üzleti terv és miért fontos? Üzleti terv minta 2021, kész üzleti terv minta egyéni vállalkozó részére",
+        "txtlength": 29788
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210407_gyozelem_a_vakcinafronton_keleti_hatszellel",
+        "h1": "Győzelem a vakcinafronton – keleti hátszéllel",
+        "txtlength": 28881
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210407_megfaradt_covidnemzedek_merlegen_a_digitalis_oktatas_egy_eve",
+        "h1": "Megfáradt covidnemzedék – mérlegen a digitális oktatás egy éve",
+        "txtlength": 25497
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/gazdasag/20210408/kihivoja-akadt-a-forintnak-igy-tarolnak-a-helyi-penzek-magyarorszagon-1113568",
+        "h1": "Kihívója akadt a forintnak: így tarolnak a helyi pénzek Magyarországon",
+        "txtlength": 24820
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/global/20210410/vlagyimir-putyin-sulyos-arat-fizethet-ha-kirobban-a-haboru-ukrajnaban-477642",
+        "h1": "Vlagyimir Putyin súlyos árat fizethet, ha kirobban a háború Ukrajnában",
+        "txtlength": 20997
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vilag/20210411/mi-igaz-a-nagy-visszaallitasbol/",
+        "h1": "Mi igaz a Nagy Visszaállításból?",
+        "txtlength": 20737
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210410_vamos_miklos_demeter_szilard_egy_nyikhaj_egy_nagyon_ostoba_ember",
+        "h1": "Vámos Miklós: Demeter Szilárd egy nyikhaj, egy nagyon ostoba ember",
+        "txtlength": 18586
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/adat/20210409/elerheto-e-a-kormany-oltasi-celja-a-kiesett-keleti-vakcinak-nelkul/",
+        "h1": "Elérhető-e a kormány oltási célja a kiesett keleti vakcinák nélkül?",
+        "txtlength": 17451
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20210410/ahol-a-mesterseges-intelligencia-mar-a-gyakorlatban-segit-a-betegeken-477658",
+        "h1": "Ahol a mesterséges intelligencia már a gyakorlatban segít a betegeken",
+        "txtlength": 15676
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/oktatas/20210411/szulok-nincs-garancia-arra-hogy-az-iskolak-ovodak-ujranyitasa-biztonsagos-1113684",
+        "h1": "Szülők: nincs garancia arra, hogy az iskolák, óvodák újranyitása biztonságos",
+        "txtlength": 15612
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2021/04/11/ujabb-gyokeres-atalakulas-kuszoben-all-a-vilag",
+        "h1": "ÚJABB GYÖKERES ÁTALAKULÁS KÜSZÖBÉN ÁLL A VILÁG",
+        "txtlength": 15194
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/szuloseg/szofogado-gyerek/",
+        "h1": "5 tipp, hogy a gyereked valóban szófogadóbb legyen",
+        "txtlength": 11686
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/fogyokura/zabpelyhes-reggelik/",
+        "h1": "Kisöpri a bélrendszert, sokáig eltelít, és laktat: zabpelyhes reggelik a hét minden napjára",
+        "txtlength": 9669
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kultura/2021/04/11/szabo-kimmel-tamas-interju-antikhosok-viasat6-szfe-mintaapak-orlai-produkcio-kieges/",
+        "h1": "Szabó Kimmel Tamás: A színház is kicsit olyan téma itthon, mint a foci, amikor kell, akkor mindenki kurvára ért hozzá",
+        "txtlength": 21065
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kultura/2021/04/11/magyar-kolteszet-napja-10-vers/",
+        "h1": "Semmi sincs jól? Tíz vers a mai Magyarországról",
+        "txtlength": 18412
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kultura/2021/04/11/tango-parizs-maria-schneider-matine-konyvajanlo/",
+        "h1": "Popsztárral szerelmeskedett egy repülőn, a légiutas-kísérőknek kellett szétválasztani őket",
+        "txtlength": 15805
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/eszkombajn/2021/04/10/szelmenc-ketteszakitott-magyar-falu-csehszlovakia-szovjetunio-haterkerites",
+        "h1": "A szétszakított magyar falu, ami a Szovjetunióban és Csehszlovákiában élt tovább",
+        "txtlength": 15079
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20210409_kovacs_zoltan_interju_al_dzsazira_koronavirus_jarvany_jogallamisag_demokracia",
+        "h1": "Ilyen halálozási adatok mellett miért enyhít a kormány – szegezték a kérdést Kovács Zoltánnak az al-Dzsazírán",
+        "txtlength": 14938
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/elet/20210411_lmbtqi_szabadsag_zona_eu",
+        "h1": "Bűnbakok a magyar kormány szemében, de az EU szabadságzónát kínál a melegeknek",
+        "txtlength": 14776
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/sztarvilag/sztarsztorik/meghalt-fulop-herceg/ej6ljsz",
+        "h1": "Meghalt Fülöp herceg",
+        "txtlength": 14166
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/hitelmoratorium-tartozas-novekedese-torlesztes-budapesti-no/1h1nhdf?utm_source=related&utm_medium=www.blikk.hu&utm_campaign=widget-9446979",
+        "h1": "Ez aztán a ráfizetés! Élt a hitelmoratóriummal egy budapesti nő, most 1,33 milliója bánja",
+        "txtlength": 12709
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/gazdasag/20210411_Es_akkor_nyitas_kina_egeszsegugy_ozd_kertesz",
+        "h1": "És akkor 2,5 millió beoltott kellett ahhoz, hogy a kormány végre korlátozza a bolti tumultust",
+        "txtlength": 12322
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/sport/2021/04/10/guillaume-martin-kerekparos-filozofus-cofidis-hegyimeno-irodalom-szokratesz-biciklin-interju-tour-de-france",
+        "h1": "Furcsa, ha valaki azon csodálkozik, hogy egy sportolónak is lehet agya",
+        "txtlength": 11554
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/04/10/hetvegi-olvasnivalo-a-korhazak-valodi-helyzetetol-magyarorszag-megroviditeseig",
+        "h1": "Hétvégi olvasnivaló a kórházak valódi helyzetétől Magyarország megrövidítéséig",
+        "txtlength": 10339
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/04/11/torokorszag-kesz-barmilyen-segitseget-megadni-ukrajnanak-hogy-megszunjon-a-haborus-helyzet",
+        "h1": "Törökország kész bármilyen segítséget megadni Ukrajnának, hogy megszűnjön a háborús helyzet",
+        "txtlength": 10118
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/zacc/2021/04/10/koronavirus-covidegykepben-olvasoi-foto-felhivas",
+        "h1": "Üresek és sterilek vagyunk belül, hihetetlenül fáradtak és tompák",
+        "txtlength": 9909
+    },
+    {
+        "hostname": "nosalty.hu",
         "pagelink": "https://www.nosalty.hu/recept/hagyomanyos-kakaos-csiga",
         "h1": "Hagyományos kakaós csiga",
         "txtlength": 10962
