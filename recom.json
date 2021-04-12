@@ -1,6 +1,198 @@
 [
     {
         "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/mezes-kremes",
+        "h1": "Mézes krémes",
+        "txtlength": 11519
+    },
+    {
+        "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/rizskoch-citromhejjal",
+        "h1": "Rizskoch citromhéjjal",
+        "txtlength": 10971
+    },
+    {
+        "hostname": "receptneked.hu",
+        "pagelink": "https://receptneked.hu/gyors/sajtos-sult-rizsgolyok/",
+        "h1": "Sajtos sült rizsgolyók recept",
+        "txtlength": 3527
+    },
+    {
+        "hostname": "receptneked.hu",
+        "pagelink": "https://receptneked.hu/gyors/toltott-zsemle-2/",
+        "h1": "Töltött zsemle recept",
+        "txtlength": 3513
+    },
+    {
+        "hostname": "alapblog.hu",
+        "pagelink": "https://alapblog.hu/tobb-tiszteletet-a-reklamblokkolomnak/",
+        "h1": "TÖBB TISZTELETET A REKLÁMBLOKKOLÓMNAK!",
+        "txtlength": 10492
+    },
+    {
+        "hostname": "kulturpart.hu",
+        "pagelink": "https://kulturpart.blog.hu/2021/04/08/charlie_bacsi_es_az_uveges_tot",
+        "h1": "CHARLIE BÁCSI ÉS AZ ÜVEGES TÓT",
+        "txtlength": 9743
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210411_ii_andras_arpad_haz_egres",
+        "h1": "Idegenek bábja vagy hős lovagkirály – ki volt valójában és hol nyugszik II. András királyunk?",
+        "txtlength": 33851
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210501_a_sztarmodell_aki_hivatalosan_foldmerokent_dolgozott_pataki_agi_elete",
+        "h1": "A sztármodell, aki hivatalosan földmérőként dolgozott – Pataki Ági a Mandinernek",
+        "txtlength": 22718
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20210412/ime-az-abrak-amelyek-megmutatjak-mennyire-vagyunk-messze-meg-attol-hogy-jelentosen-lazitsunk-477938",
+        "h1": "Íme az ábrák, amelyek megmutatják, mennyire vagyunk messze még attól, hogy jelentősen lazítsunk",
+        "txtlength": 22024
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20210412/varga-peter-pal-a-jarvany-miatt-ellatatlanul-maradt-betegek-hamarosan-ra-fognak-zudulni-az-allami-egeszsegugyre-478028",
+        "h1": "Varga Péter Pál: a járvány miatt ellátatlanul maradt betegek hamarosan rá fognak zúdulni az állami egészségügyre",
+        "txtlength": 21322
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/gyerek/miert-van-gond-a-matekkal/",
+        "h1": "\"A szülő ne higgye el, hogy a gyereke hülye matekból!\" - Interjú Baloghné Békési Beával, a Matek Oázis alapítójával",
+        "txtlength": 20063
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210407_most_jon_a_munka_dandarja_hosszu_ut_all_meg_az_europai_reneszansz_elott",
+        "h1": "Most jön a munka dandárja – hosszú út áll még az „európai reneszánsz” előtt",
+        "txtlength": 18895
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/global/20210412/startupok-jatszoterebol-a-kisvallalkozasok-megmentoje-atalakuloban-a-kozossegi-finanszirozas-477652",
+        "h1": "Startupok játszóteréből a kisvállalkozások megmentője? – Átalakulóban a közösségi finanszírozás",
+        "txtlength": 17772
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/podcast/20210410/a-legjobb-iskolai-teljesitmeny-sem-hoz-annyi-vagyont-mint-az-orokles/",
+        "h1": "A legjobb iskolai teljesítmény sem hoz annyi vagyont, mint az öröklés",
+        "txtlength": 17069
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/adat/20210412/ideje-elgondolkodni-miert-hal-meg-jarvany-nelkul-is-ilyen-sok-magyar/",
+        "h1": "Ideje elgondolkodni, miért hal meg járvány nélkül is ilyen sok magyar",
+        "txtlength": 16820
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/vallalkozas/20210409/kulonleges-nok-a-capak-kozott-studiojaban-erre-adott-20-milliot-toman-szabina-es-balogh-peter-1113590",
+        "h1": "Különleges nők a Cápák között stúdiójában: erre adott 20 milliót Tomán Szabina és Balogh Péter",
+        "txtlength": 15788
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/auto/20210410/hihetetlen-manoverek-a-magyar-sztradakon-ezt-tedd-ha-valaki-szembe-hajtott-fel-1113661",
+        "h1": "Hihetetlen manőverek a magyar sztrádákon: ezt tedd, ha valaki szembe hajtott fel",
+        "txtlength": 13134
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2021/04/10/a-legjobb-szorakozas-karanten-idejen-a-radio",
+        "h1": "A LEGJOBB SZÓRAKOZÁS KARANTÉN IDEJÉN: A RÁDIÓ",
+        "txtlength": 11603
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/lajfhekk/tompa-ollo-elezese-javitasa/",
+        "h1": "Ollóélezés: tudtad, hogy erre is jó az alufólia?",
+        "txtlength": 8569
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/english/2021/04/12/tamas-deutch-epp-interview",
+        "h1": "MEP Tamas Deutsch: Fidesz and Telex are doing the same thing",
+        "txtlength": 30856
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kulfold/2021/04/11/utazas-tenger-koronavirus-nyar",
+        "h1": "A nyár biztos, de hogy hol ér minket, azt senki sem tudja",
+        "txtlength": 19239
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/belfold/2021/04/11/parkapcsolat-hazassag-valas-karanten-osszezartsag-koronavirus-szex-konfliktus-tari-annamaria-interju",
+        "h1": "Az összezártság minden párkapcsolatot megvisel, de jól is végződhet ez a katasztrófafilm",
+        "txtlength": 17839
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/veres-istvan-citadella-borton-exkluziv-interju/2rd8zdn",
+        "h1": "Veres István: visszatért a 90-es évek maffiája – Exkluzív interjút adott a börtönből a Blikknek a vállalkozó",
+        "txtlength": 13696
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kulfold/2021/04/11/kill-the-bill-torveny-tuntetes-nagy-britannia-sarah-everard/",
+        "h1": "Kill the Bill: azért tüntetnek a britek, hogy a jövőben is tüntethessenek",
+        "txtlength": 12340
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/megserult-fiu-kiforgattak-vagyonabol/h12vhq8",
+        "h1": "Kisemmizte nevelőapja a 164 milliós vagyonából a lebénult fiút – „Annyit sem kaptam, hogy ki tudjam fizetni a segítőmet”",
+        "txtlength": 11271
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/fn/gazdasag/2021/04/12/1-millio-magyar-utazhat-budapestre-nyaralni/",
+        "h1": "Több mint egymillió magyar utazhat Budapestre idén",
+        "txtlength": 11176
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/04/11/iran-szerint-terrorcselekmeny-miatt-allt-le-a-szombaton-atadott-natanzi-uj-urandusito",
+        "h1": "Irán szerint terrorcselekmény miatt állt le a szombaton átadott natanzi új urándúsító",
+        "txtlength": 10423
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/04/11/ne-szokjanak-hozza-a-meleg-idohoz-mindjart-vege",
+        "h1": "Ne szokjanak hozzá a meleg időhöz, mindjárt vége",
+        "txtlength": 10302
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kozelet/2021/04/12/rogan-antal-feleseg-rogan-barbara-fold-adasvetel-parlament-kepviselo-foldvagyon/",
+        "h1": "A képviselők földvagyona mutatja, mekkora dobásra készült Rogán Antal új felesége és családja",
+        "txtlength": 10254
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/vilag/20210412_Nyitas_koronavirus_Anglia",
+        "h1": "Kinyitnak a vendéglátóhelyek és a boltok Angliában",
+        "txtlength": 9374
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20210412_oroszi_beatrix_epidemologus_koronavirus_harmadik_hullam_tanarok_oltas_arcmaszk",
+        "h1": "A kormánynak tanácsokat adó epidemiológus szerint a tanároknak maszkban kellene tanítaniuk, amíg nem telik el két hét a második oltásuk után",
+        "txtlength": 8968
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/tudomany/20210412_kinai_vakcina_sinopharm_gao_fu_jarvanyugy",
+        "h1": "A kínai járványügy vezetője most már azt mondja, nem úgy értette, amit a kínai vakcinák hatékonyságáról mondott",
+        "txtlength": 8565
+    },
+    {
+        "hostname": "nosalty.hu",
         "pagelink": "https://www.nosalty.hu/recept/sult-oldalas-ahogy-nagyanyaink-keszitettek",
         "h1": "Sült oldalas, ahogy nagyanyáink készítették",
         "txtlength": 11301
