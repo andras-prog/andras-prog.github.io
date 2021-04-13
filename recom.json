@@ -1,6 +1,204 @@
 [
     {
         "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/gyors-chilis-bab",
+        "h1": "Gyors chilis bab",
+        "txtlength": 10979
+    },
+    {
+        "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/husveti-sonka-ahogy-dedmamam-keszitette",
+        "h1": "Húsvéti sonka, ahogy dédmamám készítette",
+        "txtlength": 10503
+    },
+    {
+        "hostname": "receptneked.hu",
+        "pagelink": "https://receptneked.hu/gyors/10-perces-csokis-finomsag/",
+        "h1": "10 perces csokis finomság recept",
+        "txtlength": 3556
+    },
+    {
+        "hostname": "receptneked.hu",
+        "pagelink": "https://receptneked.hu/gyors/sajtos-tejfolos-galuska-zoldhagymaval/",
+        "h1": "Sajtos tejfölös galuska zöldhagymával recept",
+        "txtlength": 3502
+    },
+    {
+        "hostname": "hataratkelo.blog.hu",
+        "pagelink": "https://hataratkelo.blog.hu/2021/04/11/a_londoni_szobaberles_kemeny_valosaga#c40131272",
+        "h1": "A londoni szobabérlés kemény valósága",
+        "txtlength": 29991
+    },
+    {
+        "hostname": "hafr.hvgblog.hu",
+        "pagelink": "https://hafr.hvgblog.hu/2020/12/22/a-kapitalizmus-konzervativ-apologiaja/",
+        "h1": "A kapitalizmus konzervatív apológiája",
+        "txtlength": 11308
+    },
+    {
+        "hostname": "cineartstudio.blog.hu",
+        "pagelink": "https://cineartstudio.blog.hu/2021/04/08/elhunyt_szomjas_gyorgy",
+        "h1": "Elhunyt Szomjas György",
+        "txtlength": 7003
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20210412/szep-csendben-korhazreformra-keszul-a-kormany-477962",
+        "h1": "Szép csendben kórházreformra készül a kormány",
+        "txtlength": 27876
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/uzlet/20210412/a-digi-megvasarlasa-csak-a-kezdo-lepes-varhatok-meg-akviziciok-a-4ig-nel-478122",
+        "h1": "A DIGI megvásárlása csak a kezdő lépés, várhatók még akvizíciók a 4iG-nél",
+        "txtlength": 24204
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vallalat/20210413/nem-oltatjuk-be-magunkat-keruljon-ez-barmibe-eros-az-oltasellenesseg-a-fizikai-dolgozoknal/",
+        "h1": "„Nem oltatjuk be magunkat, kerüljön ez bármibe” – erős az oltásellenesség a fizikai dolgozóknál",
+        "txtlength": 22771
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210412_miert_nem_ment_el_sok_pedagogus_oltakozni",
+        "h1": "Miért nem ment el sok pedagógus oltakozni?",
+        "txtlength": 21258
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210407_koronabiznisz_a_gyogyszeripar_lehet_a_jarvany_gyoztese",
+        "h1": "Koronabiznisz – a gyógyszeripar lehet a járvány győztese",
+        "txtlength": 20173
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/karrier/20210411/rengeteg-sofort-keresnek-itthon-akar-400-ezres-fizetes-diploma-nelkul-1113674",
+        "h1": "Rengeteg sofőrt keresnek itthon: akár 400 ezres fizetés, diploma nélkül",
+        "txtlength": 18709
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/fizetett-hirdetes/20210412/privatbank-ahol-biztonsagban-gyarapodhat-tobb-tizmillios-vagyonunk/",
+        "h1": "Privátbank: ahol biztonságban gyarapodhat több tízmilliós vagyonunk",
+        "txtlength": 17372
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://makronom.mandiner.hu/cikk/20210408_valsag_van_ugyhogy_az_imf_ujbol_a_sokat_kritizalt_magyar_modellhez_nyul_a",
+        "h1": "Válság van, úgyhogy az IMF újból a sokat kritizált magyar modellhez nyúl",
+        "txtlength": 17349
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20210413/megmutatjuk-mikor-ved-meg-minket-a-koronavirus-elleni-vakcina-478000",
+        "h1": "Megmutatjuk, mikor véd meg minket a koronavírus elleni vakcina!",
+        "txtlength": 16632
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/szorakozas/20210411/netflix-hbo-go-oruletes-premierek-erkeznek-a-kovetkezo-napokban-1113670",
+        "h1": "Netflix, HBO Go: őrületes premierek érkeznek a következő napokban",
+        "txtlength": 16554
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/ezo/miert-nem-beszelgetunk/",
+        "h1": "Ha félszavakból megérted a másikat, az még csak egótámogatás: milyen a jó beszélgetés?",
+        "txtlength": 13462
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2021/04/13/kis-segitseg-a-nagy-tavaszi-tarsasjatek-fejleszto-versenyhez",
+        "h1": "KIS SEGÍTSÉG A NAGY TAVASZI TÁRSASJÁTÉK-FEJLESZTŐ VERSENYHEZ",
+        "txtlength": 10697
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/lajfhekk/kutya-auto-utazas-biztonsag/",
+        "h1": "Erre figyelj, ha a kutya is veled utazik az autóban",
+        "txtlength": 7978
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/gazdasag/2021/04/12/lex-aegon-a-kormany-rarontott-a-tranzakcios-piacra-es-ezzel-leertekelte-a-magyar-vallalatokat",
+        "h1": "Lex Aegon: most mindenki bután néz, hogy mit lehetne tenni",
+        "txtlength": 17736
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/elet/20210413_koronavirus_altalanos_iskola_nyitas",
+        "h1": "Koronavírus és iskolanyitás: a diákoknak könnyebb, a tanároknak nehezebb lesz otthon maradni",
+        "txtlength": 16971
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/belfold/2021/04/13/romak-szegregatum-jarvany-oltas-bagazs-duranda-tiszabo",
+        "h1": "A romatelepeken a vírusnál is veszélyesebb az álhírek terjedése",
+        "txtlength": 16564
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/belfold/2021/04/13/deli-palyaudvar-uzemi-terulet-tf-szabadidokozpont-buszpalyudvar-i-kerulet-tiltakozas",
+        "h1": "Sportközpont helyett buszpályaudvar lesz a Déli régi sínjei helyén, a helyieket teljesen kiakasztotta a terv",
+        "txtlength": 16380
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kulfold/2021/04/12/csehorszag-koronavirus-jarvany-andrej-babis-eu-sebastian-kurz-szolidaritas-vakcina/",
+        "h1": "Nagy pofonba szaladtak bele a csehek, a magyarok enyhítették a fájdalmat",
+        "txtlength": 16129
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kozelet/2021/04/12/legszomj-a-falun-igy-erinti-a-videket-a-covid-jarvany/",
+        "h1": "Légszomj a falun – így érinti a vidéket a Covid-járvány",
+        "txtlength": 13758
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/m7-velence-zajvedo-fal-biztonsag/z6m4jhe",
+        "h1": "ITM: biztonsági üveg zajvédő falat próbálnak ki az M7-es autópályánál",
+        "txtlength": 11974
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/tudomany/2021/04/12/astrazeneca-verrogkepzodes-adagok-bizonyitek-koronavirus-vakcina/",
+        "h1": "AstraZeneca: egyes szakértők szerint fél adag vakcina lehet a megoldás a vérrögökre",
+        "txtlength": 11846
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/jarvanyugyi-intezkedesek-osszehasonlitas-europa-magyarorszag/04g8yke",
+        "h1": "A magyarok betartják a járványügyi intézkedéseket? – Jött pár érdekes adat",
+        "txtlength": 11821
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20210412_parlament_04_12",
+        "h1": "Tordai megkérdezte, miért időszerű a nyitás, mire megkapta, hogy az orosz vakcina ellen kampányolt",
+        "txtlength": 11744
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/04/12/messze-meg-a-vege",
+        "h1": "Messze még a vége",
+        "txtlength": 11176
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/zhvg/20210412_50_nappal_hosszabb_a_nyar_mint_a_hetvenes_evekben",
+        "h1": "Ötven nappal hosszabb a nyár, mint a hetvenes években",
+        "txtlength": 11016
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/04/12/putyin-moszkva-kesz-egyuttmukodni-a-vilagurben",
+        "h1": "Putyin: Moszkva kész együttműködni a világűrben",
+        "txtlength": 10781
+    },
+    {
+        "hostname": "nosalty.hu",
         "pagelink": "https://www.nosalty.hu/recept/mezes-kremes",
         "h1": "Mézes krémes",
         "txtlength": 11519
