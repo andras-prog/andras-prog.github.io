@@ -1,6 +1,204 @@
 [
     {
         "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/tokeletes-krumplis-teszta-ahogy-mi-szeretjuk",
+        "h1": "Tökéletes krumplis tészta - ahogy mi szeretjük",
+        "txtlength": 10781
+    },
+    {
+        "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/klasszikus-maglyarakas",
+        "h1": "Klasszikus máglyarakás",
+        "txtlength": 10542
+    },
+    {
+        "hostname": "receptneked.hu",
+        "pagelink": "https://receptneked.hu/gyors/bundaskenyer-muffin/",
+        "h1": "Bundáskenyér muffin recept",
+        "txtlength": 3516
+    },
+    {
+        "hostname": "receptneked.hu",
+        "pagelink": "https://receptneked.hu/gyors/sajttal-sonkaval-toltott-bundas-kenyer-rolad/",
+        "h1": "Sajttal, sonkával töltött bundás kenyér rolád recept",
+        "txtlength": 3464
+    },
+    {
+        "hostname": "hataratkelo.blog.hu",
+        "pagelink": "https://hataratkelo.blog.hu/2021/04/11/a_londoni_szobaberles_kemeny_valosaga#c40133704",
+        "h1": "A londoni szobabérlés kemény valósága",
+        "txtlength": 32049
+    },
+    {
+        "hostname": "kulturpart.hu",
+        "pagelink": "https://kulturpart.blog.hu/2021/04/13/flower_power_ferdinand_es_a_vilagbeke",
+        "h1": "A MESE, AMI FELBOSSZANTOTTA HITLERT",
+        "txtlength": 10390
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20210414/biztonsagos-e-az-iskolak-jovo-heti-ujranyitasa-magyarorszagon-478296",
+        "h1": "Biztonságos-e az iskolák jövő heti újranyitása Magyarországon?",
+        "txtlength": 25032
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/global/20210414/pattanasig-feszult-a-helyzet-ukrajna-korul-mi-lesz-ha-nyilt-haboru-robban-ki-magyarorszag-szomszedjaban-478298",
+        "h1": "Pattanásig feszült a helyzet Ukrajna körül – Mi lesz, ha nyílt háború robban ki Magyarország szomszédjában?",
+        "txtlength": 23954
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210413_iskolanyitas_rettegnek_a_szulok_de_mit_gondol_a_virologus",
+        "h1": "Iskolanyitás: rettegnek a szülők, de mit gondol a virológus?",
+        "txtlength": 22104
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vallalat/20210414/a-pekseg-amely-akkor-is-tobb-kenyeret-adott-el-amikor-mindenki-otthon-sutott/",
+        "h1": "A pékség, amely akkor is több kenyeret adott el, amikor mindenki otthon sütött",
+        "txtlength": 20699
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210414_a_vilag_legdragabb_forgalmi_dugoja_a_szuezi_valsag_tanulsagai",
+        "h1": "A világ legdrágább forgalmi dugója – a szuezi válság tanulságai",
+        "txtlength": 20158
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/tech/20210413/magyarorszag-kozep-kelet-europa-gazkereskedelmi-kozpontjava-valhat/",
+        "h1": "Magyarország Közép-Kelet-Európa gázkereskedelmi központjává válhat",
+        "txtlength": 17861
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210414_torkan_akadt_az_ellenzeki_partoknak_az_online_elovalasztas_ugye",
+        "h1": "Torkán akadt az ellenzéknek az online előválasztás ügye",
+        "txtlength": 17770
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/otthon/20210410/fenyszoro-polirozas-hazilag-egyszeruen-tudd-meg-hogyan-tortenik-a-fenyszoro-polirozas-otthon-1113668",
+        "h1": "Fényszóró polírozás házilag, egyszerűen: Tudd meg, hogyan történik a fényszóró polírozás otthon!",
+        "txtlength": 16186
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/testem/vegan-sporttaplalkozas-novenyi-etrend-edzes/",
+        "h1": "Vegán étrend és sport: mit együnk a különböző típusú edzések előtt és után?",
+        "txtlength": 14995
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20210414/atalakulas-alatt-az-egeszsegugy-mi-var-a-betegekre-478448",
+        "h1": "Átalakulás alatt az egészségügy – mi vár a betegekre?",
+        "txtlength": 14296
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/hitel/20210412/fontos-valtozas-a-hiteleknel-mindenkit-erinthet-aki-kolcsont-vesz-fel-ezeknel-a-bankoknal-1113719",
+        "h1": "Fontos változás a hiteleknél: mindenkit érinthet, aki kölcsönt vesz fel ezeknél a bankoknál",
+        "txtlength": 13655
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/szuloseg/gyerek-onallo-jatek/",
+        "h1": "Így érd el, hogy a gyereked önállóan játsszon – ezzel neki is jót teszel",
+        "txtlength": 12505
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/otthon/lakas-szineinek-osszevalogatasa/",
+        "h1": "Így kombináld okosan a lakás színeit: 4 aranyszabály, amitől gyönyörű lesz a végeredmény",
+        "txtlength": 10062
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2021/04/14/magyarorszagra-epp-megerkezett-a-johnson-johnson-vakcinaja-az-usa-ban-epp-leallitjak-a-beadasat",
+        "h1": "MAGYARORSZÁGRA ÉPP MEGÉRKEZETT A JOHNSON & JOHNSON VAKCINÁJA, AZ USA-BAN ÉPP LEÁLLÍTJÁK A BEADÁSÁT",
+        "txtlength": 10050
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/sport/20210414_olimpia_covid_tokio_100_nap",
+        "h1": "Száz nappal a tokiói olimpia előtt sem tudni biztosan, a járvány hogy alakítja át a játékokat",
+        "txtlength": 21068
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/gazdasag/2021/04/14/rrf-helyreallitasi-es-alkalmazkodasi-terv-energetika-felujitas-energiahatekonysag-energiapazarlas-megujulo",
+        "h1": "Hiába jönnek az uniós ezermilliárdok, a kormány továbbra sem ad arra, hogy ne az utcát fűtsük",
+        "txtlength": 18935
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/belfold/2021/04/13/koronavirus-oktatas-iskolak-ujranyitasa-aprilis-19-pedagogusok-velemenye-oltas-digitalis-tanitas",
+        "h1": "Félnek a tanárok az iskolák jövő hétfői nyitásától, sok szülő nem engedné be a gyermekét",
+        "txtlength": 18485
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/belfold/2021/04/14/mit-tehet-az-aki-nem-engedne-iskolaba-a-gyereket-a-jarvany-miatt",
+        "h1": "Mit tehet az, aki nem engedné iskolába a gyerekét a járvány miatt?",
+        "txtlength": 15610
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kulfold/2021/04/14/nemetorszag-kancellar-markus-soder-armin-laschet-angele-merkel-cdu/",
+        "h1": "Markus Söder, a trónkövetelő: Shrek-jelmezes politikusból is lehet Merkel-utód? ",
+        "txtlength": 15483
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kulfold/2021/04/13/daunte-wright-rendori-tulkapas-video-sokkolo-pisztoly/",
+        "h1": "„Bassza meg, meglőttem!” – pattanásig feszült a hangulat Daunte Wright halála miatt",
+        "txtlength": 11882
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kulfold/2021/04/13/ujsagiro-gyilkossag-gorogorszag-jorgosz-karaivaz-maffia-korrupcio-oknyomozas/",
+        "h1": "Hiába ölték meg a „harcoló újságírót”, 6099 kollégája úgyis kideríti, mi történt",
+        "txtlength": 11390
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/tudomany/20210413_Sarkadi_Balazs_sinopharm_immunvalasz",
+        "h1": "Sarkadi Balázs: Sürgősen kutatni kellene a kínai vakcinával oltottak immunitását",
+        "txtlength": 11330
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/gazdasag/20210414_matolcsy_gyorgy_joga_boldogsag_miniszterium",
+        "h1": "De mit csinálnak egy boldogság- és egy jógaminisztériumban, amit Matolcsy felvetett követendő példaként?",
+        "txtlength": 11115
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/vonat-baleset-szuletesnap-fekete-sandor-tragedia-mutet/94mkwnj",
+        "h1": "Az egész falu érte imádkozik: a szülinapján hajtott vonat elé Sándor, most is küzdenek az életéért",
+        "txtlength": 11038
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/politika/koronavirus-europai-bizottsag-vakcinautlevel-keleti-vakcinak/zr58c7s",
+        "h1": "Megvan a dátum: e napon vezetheti be az EU a vakcinaútlevelet – Keleti vakcinával beoltottak is megkaphatják, de van benne egy trükk",
+        "txtlength": 10816
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/04/13/az-europai-gyogyszerugynokseg-szerint-nincs-bizonyitek-hogy-kapcsolat-lenne-johnson-johnson-vakcinaja-es-a-verrogkepzodes-kozott",
+        "h1": "Az Európai Gyógyszerügynökség szerint nincs bizonyíték, hogy kapcsolat lenne Johnson & Johnson vakcinája és a vérrögképződés között",
+        "txtlength": 10580
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/04/14/nem-adjak-be-az-astrazeneca-masodik-oltasat-60-ev-alatt-nemetorszagban",
+        "h1": "Nem adják be az AstraZeneca második oltását a 60 év alattiaknak Németországban",
+        "txtlength": 9448
+    },
+    {
+        "hostname": "nosalty.hu",
         "pagelink": "https://www.nosalty.hu/recept/gyors-chilis-bab",
         "h1": "Gyors chilis bab",
         "txtlength": 10979
