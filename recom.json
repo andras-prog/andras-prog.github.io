@@ -1,6 +1,204 @@
 [
     {
         "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/fanta-szelet-detty-konyhajabol",
+        "h1": "Fanta szelet Detty konyhájából",
+        "txtlength": 10850
+    },
+    {
+        "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/tejfolos-gombaporkolt",
+        "h1": "Tejfölös gombapörkölt",
+        "txtlength": 10623
+    },
+    {
+        "hostname": "receptneked.hu",
+        "pagelink": "https://receptneked.hu/gyors/parizsiszoszba-forgatot-cukkini-tartarmartassal/",
+        "h1": "Párizsiszószba forgatott cukkini tartármártással recept",
+        "txtlength": 3301
+    },
+    {
+        "hostname": "receptneked.hu",
+        "pagelink": "https://receptneked.hu/gyors/meggyes-turos-villamsuti/",
+        "h1": "Meggyes-túrós villámsüti recept",
+        "txtlength": 3246
+    },
+    {
+        "hostname": "hataratkelo.blog.hu",
+        "pagelink": "https://hataratkelo.blog.hu/2021/04/11/a_londoni_szobaberles_kemeny_valosaga",
+        "h1": "A londoni szobabérlés kemény valósága",
+        "txtlength": 30819
+    },
+    {
+        "hostname": "kulturpart.hu",
+        "pagelink": "https://kulturpart.hu/2021/04/08/charlie_bacsi_es_az_uveges_tot",
+        "h1": "CHARLIE BÁCSI ÉS AZ ÜVEGES TÓT",
+        "txtlength": 9761
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210414_jarvanyugyi_kockazatok_politikai_mellekhatasok_elemzes_lanczival_es_zaveczcel",
+        "h1": "Járványügyi kockázatok, politikai mellékhatások – elemzés Lánczival és Záveczcel",
+        "txtlength": 29328
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210415_kimeletlen_allitasok_bonyolultabb_igazsagok_a_momentum_esete_a_ciganyokkal",
+        "h1": "Kíméletlen állítások, bonyolultabb igazságok – a Momentum esete a cigányokkal",
+        "txtlength": 26681
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/penz/20210415/jol-hangzik-az-50-szazalekos-allami-tamogatas-napelemre-csak-nem-biztos-hogy-megeri-igenybe-venni/",
+        "h1": "Jól hangzik az 50 százalékos állami támogatás napelemre, csak nem biztos, hogy megéri igénybe venni",
+        "txtlength": 22172
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/hitel/20210413/lakashorror-a-csok-laz-idejen-ez-var-arra-aki-egyik-tamogatasra-sem-jogosult-1113722",
+        "h1": "Lakáshorror a csok-láz idején: ez vár arra, aki egyik támogatásra sem jogosult",
+        "txtlength": 21715
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210413_momentum_nagy_karoly_interju_dk_ellenzek_vakcina_oltas",
+        "h1": "Többször megpróbáltak hátba szúrni – kilépett momentumos a Mandinernek",
+        "txtlength": 20742
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/egeszseg/20210414/ezt-rontja-most-el-a-legtobb-magyar-a-patikakban-igy-fel-aron-is-kivalthatod-a-gyogyszereidet-1113758",
+        "h1": "Ezt rontja most el a legtöbb magyar a patikákban: így fél áron is kiválthatod a gyógyszereidet",
+        "txtlength": 17339
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vallalat/20210414/a-magyar-lidl-felepitojevel-hoditana-meg-meszaros-lorinc-az-asvanyvizpiacot/",
+        "h1": "A magyar Lidl felépítőjével hódítaná meg Mészáros Lőrinc az ásványvízpiacot",
+        "txtlength": 17194
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/global/20210414/ha-putyin-nem-akar-haborut-megis-mit-keres-tobb-tizezer-orosz-katona-az-ukran-hataron-478580",
+        "h1": "Ha Putyin nem akar háborút, mégis mit keres több tízezer orosz katona az ukrán határon?",
+        "txtlength": 16233
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/bank/20210415/tovabb-fog-noni-a-hitelallomany-az-agrariumban-476020",
+        "h1": "Tovább fog nőni a hitelállomány az agráriumban",
+        "txtlength": 15942
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20210414/orban-viktor-lassitja-az-ujranyitas-tempojat-mi-var-rank-ezek-utan-478596",
+        "h1": "Orbán Viktor lassítja az újranyitás tempóját - Mi vár ránk ezek után?",
+        "txtlength": 14576
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2021/04/15/a-hetfore-tervezett-iskolanyitassal-ujra-belobbanhat-a-jarvany",
+        "h1": "A HÉTFŐRE TERVEZETT ISKOLANYITÁSSAL ÚJRA BELOBBANHAT A JÁRVÁNY",
+        "txtlength": 14187
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/testem/harcmuveszet-gyakorlasa-elonyok/",
+        "h1": "8 fontos dolog, amit a harcművészetektől kaphatsz",
+        "txtlength": 13601
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/kapcsolat/noi-karrier-tamogato-partner/",
+        "h1": "A nők legfontosabb karrierdöntése, hogy milyen párt választanak: a szakértő szerint ezért ilyen sok a válás 50 felett",
+        "txtlength": 10706
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/lajfhekk/szellentes-pukizas-fing-visszatartasa-veszely/",
+        "h1": "Mennyire veszélyes visszatartani a szellentést?",
+        "txtlength": 7763
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/koronavirus/2021/04/14/sinopharm-kinai-vakcina-oltas-antitest-sejtes-immunitas-vedettseg-teszt-sarkadi-balazs-vizsgalat",
+        "h1": "Kutya kötelességünk lenne vizsgálni a kínai vakcina hatékonyságát, ha egyszer tömegesen oltunk vele",
+        "txtlength": 17979
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/belfold/2021/04/15/gyori-peter-bmszki-szabolcs-utcai-hajlektalankorhaz-budapest-karacsony-gergely-februar-harmadika",
+        "h1": "A józan paraszti ész is azt diktálja, hogy megmaradjon ez a kórház",
+        "txtlength": 15414
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20210414_Elkezdtek_oltani_a_gyerekeket_csak_elfelejtettek_szolni",
+        "h1": "A 16-18 év közötti, cisztás fibrózisban szenvedő gyerekek oltása kezdődött meg",
+        "txtlength": 14236
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/blikk-tv/aktualis/astra-zeneca-vedooltas-ellenanyag-szint-meres/6k3b6k0",
+        "h1": "Segítség, a teszt szerint nem termel ellenanyagot a szervezetem az oltás után: utánajártunk, hogyan kell értelmezni ezt az eredményt – videó",
+        "txtlength": 13803
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/nyugdij-penz-magyarorszag-postas-nyugdjasok/7cytkgq",
+        "h1": "Jobban jár, ha idén megy nyugdíjba: másfélszer több pénzt hozhat a postás az új szorzó miatt",
+        "txtlength": 13610
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/gazdasag/20210414_Arra_senki_ne_szamitson_hogy_a_nyitas_bejelentese_utan_egybol_nyitnak_a_kocsmak_es_szallodak",
+        "h1": "Arra ne számítsunk, hogy egyből beindulnak majd a kocsmák és szállodák",
+        "txtlength": 12861
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/belfold/2021/04/14/eotvos-csoport-idos-tarsadalom-idosek-eroforras-teher",
+        "h1": "Az idősödés nem egy armageddon",
+        "txtlength": 12794
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kultura/2021/04/15/ismeretlen-budapest-istvan-ut-patika-gyogyszertar-szentendrei-skanzen-nemeth-szandra-dr-sari-zsolt/",
+        "h1": "Biztonságba került az Erzsébetvárosból mentett patikabelső",
+        "txtlength": 12277
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kulfold/2021/04/14/ideiglenes-menekulttaborok-helyzete-gorogorszag-dw-video/",
+        "h1": "„Úgy élünk itt, mint az állatok”",
+        "txtlength": 9783
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/tudomany/20210415_oltas_vakcina_facebook_hirfolyam_egyesult_allamok",
+        "h1": "Új panelt tesz a hírfolyam tetejére a Facebook: jön az oltási kisokos",
+        "txtlength": 9219
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/04/15/kemenesi-gabor-szerint-lesz-meg-negyedik-hullam",
+        "h1": "Kemenesi Gábor szerint lesz még negyedik hullám",
+        "txtlength": 9068
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/04/15/erdogan-rossz-neven-vette-hogy-az-olasz-miniszterelnok-lediktatorozta",
+        "h1": "Erdoğan rossz néven vette, hogy az olasz miniszterelnök lediktátorozta",
+        "txtlength": 8373
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2021/04/14/koronavirus-dr-mate-horvath-nora-intenziv-osztalyok/",
+        "h1": "Intenzív terápiás szakorvos: Amikor becsukod a szemed, látod magad előtt a halottakat",
+        "txtlength": 8278
+    },
+    {
+        "hostname": "nosalty.hu",
         "pagelink": "https://www.nosalty.hu/recept/tokeletes-krumplis-teszta-ahogy-mi-szeretjuk",
         "h1": "Tökéletes krumplis tészta - ahogy mi szeretjük",
         "txtlength": 10781
