@@ -1,6 +1,204 @@
 [
     {
         "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/lacikrumpli-ahogy-en-keszitem",
+        "h1": "Lacikrumpli ahogy én készítem",
+        "txtlength": 11426
+    },
+    {
+        "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/kaszinotojas",
+        "h1": "Kaszinótojás",
+        "txtlength": 10624
+    },
+    {
+        "hostname": "receptneked.hu",
+        "pagelink": "https://receptneked.hu/gyors/petrezselymes-tocsni/",
+        "h1": "Petrezselymes tócsni recept",
+        "txtlength": 3353
+    },
+    {
+        "hostname": "receptneked.hu",
+        "pagelink": "https://receptneked.hu/gyors/fokhagymas-krumpli/",
+        "h1": "Fokhagymás krumpli recept",
+        "txtlength": 3352
+    },
+    {
+        "hostname": "hataratkelo.blog.hu",
+        "pagelink": "https://hataratkelo.blog.hu/2021/03/30/igy_oltanak_amerikaban",
+        "h1": "Így oltanak Amerikában",
+        "txtlength": 24229
+    },
+    {
+        "hostname": "kulturpart.hu",
+        "pagelink": "https://kulturpart.blog.hu/2021/04/09/bamulatos_robotexpedicio",
+        "h1": "BÁMULATOS ROBOTEXPEDÍCIÓ INDULT",
+        "txtlength": 8856
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210415_fegyvertartas_amerika",
+        "h1": "Mihez kezd a fegyvertartás jogával Amerika?",
+        "txtlength": 26848
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/kozelet/20210416/penzeso-hullhat-budapestre-de-nem-karacsonyek-fogjak-elkolteni/",
+        "h1": "Pénzeső hullhat Budapestre, de nem Karácsonyék fogják elkölteni",
+        "txtlength": 21645
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2021/04/16/a-marihuananak-fontos-szerep-juthat-a-gyogyaszatban-de-magyarorszag-makacsul-ellenall-a-kisertesnek",
+        "h1": "A MARIHUÁNÁNAK FONTOS SZEREP JUTHAT A GYÓGYÁSZATBAN, DE MAGYARORSZÁG MAKACSUL ELLENÁLL A KÍSÉRTÉSNEK",
+        "txtlength": 21236
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/global/20210416/megerkezett-az-eqs-a-mercedes-benz-elso-valodi-elektromos-autoja-amin-emberi-sorsok-es-a-vallalat-jovoje-mulhat-478838",
+        "h1": "Megérkezett az EQS, a Mercedes-Benz első valódi elektromos autója, amin emberi sorsok és a vállalat jövője múlhat",
+        "txtlength": 20179
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/bank/20210416/a-nehezitett-palya-ellenere-is-van-novekedes-a-kkv-szektorban-478736",
+        "h1": "A nehezített pálya ellenére is van növekedés a kkv-szektorban",
+        "txtlength": 19889
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210416_szurke_kis_verebbol_lett_a_nemzet_szinesze_torocsik_marira_emlekezunk",
+        "h1": "„Szürke kis verébből” lett a Nemzet Színésze – Törőcsik Marira emlékezünk",
+        "txtlength": 18962
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210416_orban_viktor_belfold_koronavirus_interju_kossuth_radio",
+        "h1": "Orbán Viktor: A következő hat hétben meg tudjuk duplázni a beoltottak számát",
+        "txtlength": 18514
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/uzlet/20210416/megszolalt-a-mol-az-alapitvanyrol-az-orsegi-furasrol-az-osztalekrol-478840",
+        "h1": "Megszólalt a Mol az alapítványról, az őrségi fúrásról, az osztalékról",
+        "txtlength": 16184
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/kozelet/20210415/a-fideszes-szavazok-89-szazaleka-az-ellenzekiek-58-szazaleka-nincs-tisztaban-a-valos-jarvanyhelyzettel/",
+        "h1": "A fideszes szavazók 89 százaléka, az ellenzékiek 58 százaléka nincs tisztában a valós járványhelyzettel",
+        "txtlength": 15753
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/hazai_sztar/torocsik-mari-elhunyt/",
+        "h1": "Ma hajnalban elhunyt Törőcsik Mari: hosszú betegeskedés után, 85 évesen távozott",
+        "txtlength": 15672
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/otthon/20210412/kimeletlen-kor-fenyegeti-a-magyar-csaladokat-minden-hutoben-ott-lapulhat-a-vesz-1113703",
+        "h1": "Kíméletlen kór fenyegeti a magyar családokat: minden hűtőben ott lapulhat a vész",
+        "txtlength": 14981
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/egeszseg/20210413/10-megdobbento-eteltitok-jobb-ha-tisztaban-vagy-vele-mit-tesznek-veled-ezek-a-nepszeru-kajak-1113723",
+        "h1": "10 megdöbbentő ételtitok: jobb, ha tisztában vagy vele, mit tesznek veled ezek a népszerű kaják",
+        "txtlength": 13884
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/testem/hasizom-gyakorlatok-haspres-nelkul/",
+        "h1": "Csak hasprésekből nem lesz kockahas, sérülés viszont lehet: alternatív gyakorlatokat mutatunk",
+        "txtlength": 12762
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/szuloseg/fegyelmezes-a-gyerek-koranak-megfeleloen/",
+        "h1": "A fegyelmezés 3 fázisa – így kommunikálj a gyerekkel a korának megfelelően",
+        "txtlength": 12098
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/tudomany/2021/04/15/sztehlo-gabor-andrasi-andor-gaudiopolis-magyar-embermentok/",
+        "h1": "A földi pokolból mentett ki magyar gyerekeket Sztehlo Gábor",
+        "txtlength": 17511
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/elet/20210416_Torocsik_Mari",
+        "h1": "Törőcsik Mari az élet hihetetlen szeretetét adta nekünk",
+        "txtlength": 17419
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kult/2021/04/16/torocsik-mari-nekrolog",
+        "h1": "Meghalt Törőcsik Mari",
+        "txtlength": 15211
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/velemeny/2021/04/16/alapitvanyok-kozvagyon-lopas-velemeny-ligeti-miklos-transparency",
+        "h1": "Amit elloptam, az már az enyém – kormányzati alapítványok az örökkévalóságnak",
+        "txtlength": 15137
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kulfold/2021/04/15/langolo-busz-roncs-a-sineken-duhodt-zavargas-eszak-irorszag-megint-bajban/",
+        "h1": "Lángoló busz, roncs a síneken, dühödt zavargás: Észak-Írország megint bajban",
+        "txtlength": 15048
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/kulfold/parizs-notre-dame-ket-eve-leegett-ujjaepites-igy-nez-ki-most/nfc51gf",
+        "h1": "Ma két éve, hogy tűzvész pusztított a párizsi Notre-Dame-ban: ez áll most a székesegyház üszkös romjai helyén – fotók",
+        "txtlength": 14824
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/belfold/2021/04/15/vasvari-biro-eu-birosag-fotanacsnoki-inditvany-polt-kuria-elmarasztalas",
+        "h1": "EUB főtanácsnoka: megsértette az uniós jogot Polt Péter és a Kúria",
+        "txtlength": 14265
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/kultura/20210416_Meghalt_Torocsik_Mari",
+        "h1": "Meghalt Törőcsik Mari",
+        "txtlength": 13755
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kulfold/2021/04/15/koronavirus-iskola-nyitas-teszteles-svajc-ausztria/",
+        "h1": "A hely, ahol be sem zártak az iskolák, és ahol egészen másképp nyitják ki őket",
+        "txtlength": 13074
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/04/15/furjes-a-diakvaros-erintetlen-marad-a-deli-varoskapu-program-mas-teruletein-kap-helyet-a-fudan-egyetem-campusa",
+        "h1": "Fürjes: A Diákváros érintetlen marad, a Déli Városkapu Program más területein kap helyet a Fudan Egyetem campusa",
+        "txtlength": 11726
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/m1-idojaras-jelentes-megujul-molnar-csilla/q4krry5",
+        "h1": "Varázslatos látványt nyújt a közmédia megújult időjárás-jelentése",
+        "txtlength": 11570
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/04/15/kuzdenek-a-szabad-agyert-es-az-oxigenert-az-indiai-korhazak",
+        "h1": "Küzdenek a szabad ágyért és az oxigénért az indiai kórházak",
+        "txtlength": 10226
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/gazdasag/20210415_rendelet_iskola_nyitas_terasz",
+        "h1": "Megjelent a rendelet: este fél 10-ig lehetnek majd nyitva a teraszok, védettségi igazolványt egyelőre nem írtak elő",
+        "txtlength": 9408
+    },
+    {
+        "hostname": "nosalty.hu",
         "pagelink": "https://www.nosalty.hu/recept/fanta-szelet-detty-konyhajabol",
         "h1": "Fanta szelet Detty konyhájából",
         "txtlength": 10850
