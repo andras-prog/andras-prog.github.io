@@ -1,5 +1,185 @@
 [
     {
+        "hostname": "receptneked.hu",
+        "pagelink": "https://receptneked.hu/gyors/sutoben-sult-hotdog/",
+        "h1": "Sütőben sült hotdog recept",
+        "txtlength": 3404
+    },
+    {
+        "hostname": "receptneked.hu",
+        "pagelink": "https://receptneked.hu/gyors/sajtos-baconos-csavart/",
+        "h1": "Sajtos-baconos csavart recept",
+        "txtlength": 3340
+    },
+    {
+        "hostname": "alapblog.hu",
+        "pagelink": "https://alapblog.hu/volatilitas-a-tokepiacok-uj-mozgatorugoja/",
+        "h1": "VOLATILITÁS, A TŐKEPIACOK ÚJ MOZGATÓRUGÓJA",
+        "txtlength": 12595
+    },
+    {
+        "hostname": "kulturpart.hu",
+        "pagelink": "https://kulturpart.blog.hu/2021/04/06/tartositott_hamburger_a_szavanna_kozepen",
+        "h1": "TARTÓSÍTOTT HAMBURGER A SZAVANNA KÖZEPÉN",
+        "txtlength": 8812
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/uzlet/20210416/a-koronavirusnal-sokkal-tobb-emberrel-vegeznek-ezek-a-betegsegek-kitol-varhatjuk-a-megoldast-478734",
+        "h1": "A koronavírusnál sokkal több emberrel végeznek ezek a betegségek - Kitől várhatjuk a megoldást?",
+        "txtlength": 26342
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/szorakozas/20210416/macsai-pal-az-ujraindulast-2021-oszere-teszem-1113687",
+        "h1": "Mácsai Pál: Az újraindulást 2021 őszére teszem",
+        "txtlength": 20665
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/podcast/20210417/lehet-zold-es-fenntarthato-a-muanyag/",
+        "h1": "Lehet zöld és fenntartható a műanyag?",
+        "txtlength": 20156
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/utazas/20210415/konnyen-bukhatod-a-nyaralast-ha-astrazeneca-oltast-kaptal-errol-jobb-ha-tudsz-1113808",
+        "h1": "Könnyen bukhatod a nyaralást, ha AstraZeneca oltást kaptál: erről jobb, ha tudsz",
+        "txtlength": 18649
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vilag/20210416/sok-fontos-ember-keri-az-amerikai-elnokot-hogy-tegyen-valamit-az-ellen-hogy-a-gazdagabb-orszagokon-kivul-alig-oltanak/",
+        "h1": "Sok fontos ember kéri az amerikai elnököt, hogy tegyen valamit az ellen, hogy a gazdagabb országokon kívül alig oltanak",
+        "txtlength": 16857
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/uzlet/20210417/lehet-hogy-az-iden-nem-ulsz-uj-bringara-az-egesz-vilagon-hianycikk-a-kerekpar-478314",
+        "h1": "Lehet, hogy az idén nem ülsz új bringára - Az egész világon hiánycikk a kerékpár",
+        "txtlength": 15987
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210416_kutyak_szelsojobbos_kommentcsurhe_gyulevesz_csocselek_cikket_irt_puzser_a_mandiner_kommentelo_trolljairol",
+        "h1": "Kutyák, szélsőjobbos kommentcsürhe, gyülevész csőcselék – cikket írt Puzsér a Mandiner „kommentelő trolljairól”",
+        "txtlength": 15190
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210416_aprilis_16_a_a_holokauszt_magyarorszagi_aldozatainak_emleknapja",
+        "h1": "Április 16-a a holokauszt magyarországi áldozatainak emléknapja",
+        "txtlength": 14979
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210416_csehek_arsenal_terdeles",
+        "h1": "Állva maradtak a csehek az Arsenal ellen",
+        "txtlength": 14092
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20210417/eletveszely-miatt-nem-engedik-iskolaba-vezeto-orvosok-es-egeszsegugyi-dolgozok-a-gyerekeiket-479066",
+        "h1": "Életveszély miatt nem engedik iskolába vezető orvosok és egészségügyi dolgozók a gyerekeiket",
+        "txtlength": 13848
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2021/04/16/udvozlom-felho-professzor-vagyok-o-pedig-a-kollegam-adat-doktor",
+        "h1": "ÜDVÖZLÖM, FELHŐ PROFESSZOR VAGYOK, Ő PEDIG A KOLLÉGÁM, ADAT DOKTOR",
+        "txtlength": 13133
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/otthon/fuvesites-gyepgondozas/",
+        "h1": "Így lesz harsogóan zöld és erős, tömött a fű: Megyeri Szabolcs kertész fontos tippjei",
+        "txtlength": 12974
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/szuloseg/gyerek-dobalasa-apas-jatekok/",
+        "h1": "Ne dobáld már azt a gyereket! Szakértő magyarázza el, miért játszanak máshogy az apák",
+        "txtlength": 12101
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/kultura/20210416_Minden_idok_legfontosabb_magyar_filmjei__HVG_TOP30_1__Jobtol_az_erotikaig",
+        "h1": "Minden idők legfontosabb magyar filmjei – HVG TOP30 (1.) – Jóbtól az erotikáig",
+        "txtlength": 28083
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/elet-stilus/2021/04/17/burgonya-tortenete-inka-isten-krumplikiraly/",
+        "h1": "Istenként tisztelték az inkák, nálunk meg a választások előtt osztogatják – mi az?",
+        "txtlength": 19360
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/eurologus/20210416_Jogalom3_jogallamisagi_mechanizmus",
+        "h1": "Csak politikai akarat hiányzik, hogy az Európai Bizottság elindítsa a jogállamisági mechanizmust",
+        "txtlength": 18323
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/belfold/2021/04/17/iskolanyitas-altalanos-iskola-ovoda-gyerekek-oltas",
+        "h1": "Fertőtlenítés, felfestések, szülői igazolások – készülnek a hétfői nyitásra az óvodák és iskolák",
+        "txtlength": 16353
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2021/04/17/iskola-nyitas-aprilis-19-oktatas-tavoktatas/",
+        "h1": "Van is iskola, meg nem is – otthon maradó diákokkal indulhat újra a közoktatás",
+        "txtlength": 15971
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/eszkombajn/2021/04/17/ausztralia-william-buckley-elitelt-oslakos-bennszulott",
+        "h1": "A szökött rab, aki Ausztráliában évtizedekig élt a bennszülöttekkel",
+        "txtlength": 15517
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://rangado.24.hu/nemzetkozi_foci/2021/04/17/west-ham-united-david-moyes-bajnokok-ligaja-harc/",
+        "h1": "Anglia topcsapatai botlanak ennyit, vagy a West Ham United ennyire jó?",
+        "txtlength": 14657
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/koronavirus/2021/04/16/vakcina-oltas-irigyseg-feltekenyseg-koronavirus-fomo",
+        "h1": "Nehéz, de ki kell bírni ép ésszel, ha körülöttünk mindenkit oltanak, csak minket nem",
+        "txtlength": 14436
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/koronavirus-magyarorszag-fertozottek-halalos-aldozatok-friss-adatok/nwpqr8d",
+        "h1": "Újabb 217 halálos áldozatot követelt a koronavírus itthon - Itt vannak a legfrissebb járványügyi adatok",
+        "txtlength": 13570
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/kulfold/ukrajna-oroszorszag-fegyverkezes-haboru-konfliktus-donbasz-putyin/twn0p3y",
+        "h1": "„Komoly ellenállás lesz, rengeteg orosz katona fog meghalni” – Farkasszemet néz a két hadsereg az ukrán határon: véres háború közeleg?",
+        "txtlength": 13030
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/04/17/az-usa-es-japan-kinanak-uzenve-allt-ki-a-tajvani-szoros-bekeje-es-stabilitasa-mellett",
+        "h1": "Az USA és Japán Kínának üzenve állt ki a Tajvani-szoros „békéje és stabilitása” mellett",
+        "txtlength": 12475
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/04/17/karacsony-furjes-felreallitasarol-a-sajat-embereit-sem-kimeli-a-kormany-hogy-lakajtempoban-kiszolgalja-a-kinai-erdekeket",
+        "h1": "Karácsony Fürjes félreállításáról: A saját embereit sem kíméli a kormány, hogy lakájtempóban kiszolgálja a kínai érdekeket",
+        "txtlength": 12159
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/cegauto/20210417_merjunk_kicsit_almodni_teszten_a_kompakt_mercedes_eqa_villanyauto",
+        "h1": "Merjünk kicsit álmodni: teszten a kompakt Mercedes EQA villanyautó",
+        "txtlength": 11684
+    },
+    {
         "hostname": "nosalty.hu",
         "pagelink": "https://www.nosalty.hu/recept/lacikrumpli-ahogy-en-keszitem",
         "h1": "Lacikrumpli ahogy én készítem",
