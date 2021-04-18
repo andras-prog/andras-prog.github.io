@@ -1,6 +1,192 @@
 [
     {
         "hostname": "receptneked.hu",
+        "pagelink": "https://receptneked.hu/gyors/tojas-fasirt/",
+        "h1": "Tojásfasírt recept",
+        "txtlength": 3179
+    },
+    {
+        "hostname": "receptneked.hu",
+        "pagelink": "https://receptneked.hu/gyors/tokos-tocsni/",
+        "h1": "Tökös tócsni recept",
+        "txtlength": 3070
+    },
+    {
+        "hostname": "hataratkelo.blog.hu",
+        "pagelink": "https://hataratkelo.blog.hu/2021/04/15/mibol_elnek_a_magyarok_svajcban",
+        "h1": "Miből élnek a magyarok Svájcban?",
+        "txtlength": 20796
+    },
+    {
+        "hostname": "cineartstudio.blog.hu",
+        "pagelink": "https://cineartstudio.blog.hu/2021/01/12/szatirikus_feminista_bosszufilm_igeretes_fiatal_no_kritika",
+        "h1": "Szatirikus feminista bosszúfilm: Ígéretes fiatal nő – kritika",
+        "txtlength": 10765
+    },
+    {
+        "hostname": "hafr.hvgblog.hu",
+        "pagelink": "https://hafr.hvgblog.hu/2020/12/08/behanyas_az_mcc-ben_es_a_napi_525_forintnyi_elelem/",
+        "h1": "Behányás az MCC-ben és a napi 525 forintnyi élelem",
+        "txtlength": 10248
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210416_megtamadja_ujra_oroszorszag_ukrajnat",
+        "h1": "Oroszország újra megtámadja Ukrajnát?",
+        "txtlength": 29655
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210417_mindket_oldal_felult_egy_muveszeti_provokacionak_a_ledontott_blm_szobor_vevoje_a_mandinernek",
+        "h1": "„Mindkét oldal felült egy művészeti provokációnak” – a ledöntött „BLM-szobor” vevője a Mandinernek",
+        "txtlength": 24996
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210415_kozos_lista_a_kaoszert_baloldali_mesterterv_a_jogallamisag_elleneben",
+        "h1": "Közös lista a káoszért – baloldali mesterterv a jogállamiság ellenében",
+        "txtlength": 23372
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20210417/a-szemunk-lattara-alakul-at-a-magyar-egeszsegugy-mikozben-a-jarvany-kovetkezmenyeit-meg-evekig-nyoghetjuk-479116",
+        "h1": "A szemünk láttára alakul át a magyar egészségügy, miközben a járvány következményeit még évekig nyöghetjük",
+        "txtlength": 22696
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/penz/20210418/tobb-ravasz-terve-is-van-a-digitalis-juannal-a-kinai-vezetesnek/",
+        "h1": "Több ravasz terve is van a digitális jüannal a kínai vezetésnek",
+        "txtlength": 19685
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/uzlet/20210418/meghalt-a-cselszovo-jon-a-kovetkezo-igy-keruld-el-a-kovetkezo-madoff-fele-piramisjatekot-478782",
+        "h1": "Meghalt a cselszövő! Jön a következő? Így kerüld el a következő Madoff-féle piramisjátékot!",
+        "txtlength": 18788
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/adat/20210416/furcsan-koveti-a-jarvanyhullamokat-a-halalozasok-megugrasa/",
+        "h1": "Furcsán követi a járványhullámokat a halálozások megugrása",
+        "txtlength": 16192
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/unios-forrasok/20210417/jocskan-tulteljesiti-a-kormany-az-eu-s-helyreallitasi-terv-klimaelvarasat-ime-az-5900-milliardos-gigaprogram-reszletei-479064",
+        "h1": "Jócskán túlteljesíti a kormány az EU-s helyreállítási terv klímaelvárását - Íme, az 5900 milliárdos gigaprogram részletei",
+        "txtlength": 15386
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/auto/20210416/az-elektromos-autok-a-tozsdeket-is-letaroljak-ezekbol-a-reszvenyekbol-erdemes-bevasarolni-1113847",
+        "h1": "Az elektromos autók a tőzsdéket is letarolják: ezekből a részvényekből érdemes bevásárolni",
+        "txtlength": 14219
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/otthon/20210414/epitkezel-vagy-felujitasz-ezekre-erdemes-figyelni-ha-nem-akarsz-porul-jarni-1113619",
+        "h1": "Építkezel vagy felújítasz? Ezekre érdemes figyelni, ha nem akarsz pórul járni",
+        "txtlength": 14139
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/gyerek/stajn-emma-kobolcso-konyvajanlo/",
+        "h1": "Mi lesz a családdal, ha egy érzelmi ronccsá tett gyermeket fogad örökbe? Stájn Emma története",
+        "txtlength": 13324
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2021/04/18/miert-bantja-a-fulet-az-a-szo-hogy-oltakozik",
+        "h1": "MIÉRT BÁNTJA A FÜLET AZ A SZÓ, HOGY OLTAKOZIK?",
+        "txtlength": 12618
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/szuloseg/gyermek-szuletese-baratok-magany/",
+        "h1": "Hová tűntek a barátok, amint anyává váltál? Ezért érzed magad magányosnak",
+        "txtlength": 12144
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kulfold/2021/04/18/bevandorlas-egyesult-allamok-mexiko-hatar-kiseret-nelkuli-gyerekek-joe-biden/",
+        "h1": "500 gyerek érkezik naponta kísérő nélkül az USA-ba, ahol szörnyű helyzetben találják magukat",
+        "txtlength": 21840
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/politika/fulop-herceg-temetese-brit-kiralyi-csalad-erzsebet-elo/t3s83df",
+        "h1": "VIII. Henrik mellé temették Fülöp herceget – Félmeztelen nő próbálta megzavarni a ceremóniát",
+        "txtlength": 18053
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/kulfold/fulop-herceg-temetese-brit-kiralyi-csalad-erzsebet-elo/6wtegqv",
+        "h1": "VIII. Henrik mellé temették Fülöp herceget – Félmeztelen nő próbálta megzavarni a ceremóniát",
+        "txtlength": 17713
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/sport/2021/04/17/kozma-istvan-dunfermline-halhatatlan-liverpool-ujpest",
+        "h1": "A magyar futballista, aki a Liverpoollal ünnepelhetett kupagyőzelmet",
+        "txtlength": 15633
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2021/04/17/mezogazdasag-a-fovarosban-kotyavetye-es-grillcsirkezes-az-orszagos-mezogazdasagi-vasarokon/",
+        "h1": "Mezőgazdaság a fővárosban – kótyavetye és grillcsirkézés az országos mezőgazdasági vásárokon",
+        "txtlength": 15508
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kultura/2021/04/18/bugyi-neptanc-szaten-matine/",
+        "h1": "Néptáncbemutató bugyi nélkül – az első öt sorban minden látszott",
+        "txtlength": 14588
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/eszkombajn/2021/04/18/florida-coral-castle-kovek-kert-billy-idol-piramisok-titka",
+        "h1": "Hetven éve nem tudja senki, hogyan tudott 1100 tonnányi kőből látványosságot építeni a magányos férfi",
+        "txtlength": 14424
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/gazdasag/20210418_Es_akkor_ujranyitas_eu_lelegeztetogep_diakvaros_mol",
+        "h1": "És akkor a járvány tetőzik, mi pedig teraszozhatunk",
+        "txtlength": 12933
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/tudomany/2021/04/18/letezik-egyaltalan-tavaszi-faradtsag-vagy-csak-egy-mitosz",
+        "h1": "Létezik egyáltalán tavaszi fáradtság, vagy ez csak egy mítosz?",
+        "txtlength": 12137
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/tudomany/20210417_linguee_deepl_fordito_magyar_nyelv_google_translate",
+        "h1": "Sokkal jobb, mint a Google Fordító, és most már magyarul is tud",
+        "txtlength": 11687
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/vilag/20210418_Afganisztan_usa_hadsereg_kivonulas",
+        "h1": "Ilyen lehet Afganisztán a nyugati katonák kivonulása után",
+        "txtlength": 11218
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/04/17/vilaghiru-muveszek-koztuk-nadas-peter-irt-nyilt-levelet-putyinnak-hogy-biztositsak-navalnij-szamara-a-szukseges-orvosi-ellatast",
+        "h1": "Világhírű művészek, köztük Nádas Péter írt nyílt levelet Putyinnak, hogy biztosítsa Navalnij számára a szükséges orvosi ellátást",
+        "txtlength": 10819
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/04/17/peking-hatarozottan-elitelte-a-japan-amerikai-kozos-nyilatkozatot",
+        "h1": "Peking határozottan elítélte a japán-amerikai közös nyilatkozatot",
+        "txtlength": 10558
+    },
+    {
+        "hostname": "receptneked.hu",
         "pagelink": "https://receptneked.hu/gyors/sutoben-sult-hotdog/",
         "h1": "Sütőben sült hotdog recept",
         "txtlength": 3404
