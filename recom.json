@@ -1,6 +1,198 @@
 [
     {
         "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/egyszeru-tokfozelek",
+        "h1": "Egyszerű tökfőzelék",
+        "txtlength": 10541
+    },
+    {
+        "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/spenot-fozelek-egyszeruen",
+        "h1": "Spenót főzelék egyszerűen",
+        "txtlength": 10453
+    },
+    {
+        "hostname": "kiszamolo.hu",
+        "pagelink": "https://kiszamolo.hu/informatikus-gyorstalpalok-ernek-valamit/",
+        "h1": "Informatikus gyorstalpalók: érnek valamit?",
+        "txtlength": 42275
+    },
+    {
+        "hostname": "alapblog.hu",
+        "pagelink": "https://alapblog.hu/forgatokonyvek-egy-temara-sorsunk-a-kovetkezo-husz-esztendoben/",
+        "h1": "FORGATÓKÖNYVEK EGY TÉMÁRA: SORSUNK A KÖVETKEZŐ HÚSZ ESZTENDŐBEN",
+        "txtlength": 12282
+    },
+    {
+        "hostname": "kulturpart.hu",
+        "pagelink": "https://kulturpart.blog.hu/2021/04/20/el_es_elni_akar_384",
+        "h1": "JÁRVÁNY ÉS TÚLÉLÉS EGY KISVÁROSBAN",
+        "txtlength": 9950
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210415_szentgyorgyvolgyi_peter_karacsonyek_gyakran_az_itt_elok_feje_folott_dontenek_a_belvarosrol",
+        "h1": "Szentgyörgyvölgyi Péter: Karácsonyék gyakran az itt élők feje fölött döntenek a Belvárosról",
+        "txtlength": 27057
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/kozelet/20210419/a-magyar-iskolakbol-a-nyitassal-konnyen-orosz-rulett-lehet/",
+        "h1": "A magyar iskolákból a nyitással könnyen orosz rulett lehet",
+        "txtlength": 24802
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/tech/20210420/ozd-elbukott-a-robotokkal-szemben-de-tudjuk-hogy-ezt-mashol-hogyan-elozhetjuk-meg/",
+        "h1": "Ózd elbukott a robotokkal szemben, de tudjuk, hogy ezt máshol hogyan előzhetjük meg",
+        "txtlength": 24465
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210419_bajnokok_ligaja_europai_szuperliga_fifa_uefa_labdarugas",
+        "h1": "Megszűnik a Bajnokok Ligája? – Kitört a háború az európai labdarúgásban",
+        "txtlength": 19574
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210420_nemet_katolikus_egyhaz",
+        "h1": "Róma ellen a germánok: elszakadhat a német katolikus egyház?",
+        "txtlength": 17175
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/megtakaritas/20210420/egyetlen-papiron-mulik-a-csaladi-vagyon-sorsa-10-bol-9-magyar-megsem-gondol-ra-1113923",
+        "h1": "Egyetlen papíron múlik a családi vagyon sorsa: 10-ből 9 magyar mégsem gondol rá",
+        "txtlength": 15378
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.penzcentrum.hu/megtakaritas/20210420/egyetlen-papiron-mulik-a-csaladi-vagyon-sorsa-10-bol-9-magyar-megsem-gondol-ra-1113923",
+        "h1": "Egyetlen papíron múlik a családi vagyon sorsa: 10-ből 9 magyar mégsem gondol rá",
+        "txtlength": 15162
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/global/20210420/izgalmas-felvetelek-szivarognak-az-ukran-hataron-felvonulo-felelmetes-orosz-fegyverarzenalrol-479310",
+        "h1": "Izgalmas felvételek szivárognak az ukrán határon felvonuló félelmetes orosz fegyverarzenálról",
+        "txtlength": 14996
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/uzlet/20210420/tovabbra-is-gyengelkedik-a-bitcoin-impulzusra-varnak-a-tozsdek-479390",
+        "h1": "Továbbra is gyengélkedik a bitcoin, impulzusra várnak a tőzsdék ",
+        "txtlength": 14971
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/testem/sajat-testsulyos-gyakorlatok-szekkel/",
+        "h1": "7 saját testsúlyos gyakorlat székkel",
+        "txtlength": 13131
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/egeszseg/covid-beteg-otthoni-apolasa/",
+        "h1": "Mire kell feltétlenül figyelni, ha otthon gyógyul a Covid-beteg? Az sem mindegy, milyen pózban fekszik",
+        "txtlength": 12626
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/egeszseg/20210418/kiderult-az-igazsag-a-sinopharm-hatekonysagarol-svaby-andras-kivizsgaltatta-magat-ez-lett-az-eredmeny-1113886",
+        "h1": "Kiderült az igazság a Sinopharm hatékonyságáról: Sváby András kivizsgáltatta magát, ez lett az eredmény",
+        "txtlength": 12141
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2021/04/20/portugalia-oltasok-nelkul-feltuno-gyorsasaggal-kezelte-minden-idok-legnagyobb-jarvanyhullamat",
+        "h1": "PORTUGÁLIA OLTÁSOK NÉLKÜL, FELTŰNŐ GYORSASÁGGAL KEZELTE MINDEN IDŐK LEGNAGYOBB JÁRVÁNYHULLÁMÁT",
+        "txtlength": 11465
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/szuloseg/miert-nem-akar-aludni-gyerek-alvas-gyerekneveles/",
+        "h1": "Miért nem akar aludni a gyerek semmi áron? Ezért tiltakozik olyan hevesen",
+        "txtlength": 11171
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://rangado.24.hu/nemzetkozi_foci/2021/04/19/europai-szuperliga-kovetkezmenyek-uefa-fifa-bajnokok-ligja/",
+        "h1": "Megszűnt létezni a futball, amit ismertünk",
+        "txtlength": 20485
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20210420_Levegovetel_az_intenziv_osztalyon__Kinek_jusson",
+        "h1": "Levegővétel az intenzív osztályon: kinek jusson?",
+        "txtlength": 19249
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/sport/2021/04/19/esl-nagy-klubok-uefa-csata-jatekosok",
+        "h1": "Arcon köpik a futballt, vagy forradalmat csinál az európai szuperliga?",
+        "txtlength": 17216
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/covid-arva-koronavirus-ader-janos-alapitvany/30p412q",
+        "h1": "Egy ilyen trauma egész életükre rányomja a bélyegét: hatszáz fiatalból lett Covid-árva a járvány miatt – Áderék így próbálnak segíteni rajtuk",
+        "txtlength": 14588
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/belfold/2021/04/20/oltass-hogy-elhess-szegregatumok-miskolc-lyukovolgy-goromboly",
+        "h1": "Arról a ruszki oltásról azt hallottam, hogy erősebb, a kínai meg gyengébb",
+        "txtlength": 14071
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/foto/2021/04/19/koronavirus-hosszu-tavu-tunetek-long-covid",
+        "h1": "Úgy érzem magam fizikálisan, mint a 91 éves anyukám",
+        "txtlength": 13248
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kulfold/2021/04/19/nemetorszag-zoldek-annalena-baerbock/",
+        "h1": "Újabb nő jöhet Merkel után, ha folytatódik a Zöldek menetelése Németországban",
+        "txtlength": 13234
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/tudomany/2021/04/20/kinai-vakcina-covid-koronavirus-sinopharm/",
+        "h1": "Így tudja tesztelni a kínai vakcina hatását",
+        "txtlength": 12796
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/befektetes-dunaferr-dunaujvaros/1rcjfrx",
+        "h1": "„Még soha nem volt ilyen mélyponton a 70 éves Dunaferr” – A munkások gyomorgörccsel járnak be, míg a dunaújvárosi tulajok marakodnak az üzleten",
+        "txtlength": 12644
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/04/20/a-cdu-valasztmanya-armin-laschetet-jeloli-kancellarnak",
+        "h1": "A CDU választmánya Armin Laschetet jelöli kancellárnak",
+        "txtlength": 12226
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/04/19/van-mar-olyan-orszag-ahol-nem-kell-maszkban-napozni",
+        "h1": "Van már olyan ország, ahol nem kell maszkban napozni",
+        "txtlength": 11178
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/tudomany/20210420_koronavirus_verrog_astrazeneca_oltas",
+        "h1": "Nyolcszor nagyobb valószínűséggel okoz vérrögöt a koronavírus, mint az AstraZeneca oltása",
+        "txtlength": 8999
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/vilag/20210420_cdu_csu_armin_laschet_markus_soder_kancellar_jeloles",
+        "h1": "A CDU saját elnökét javasolja kancellárnak",
+        "txtlength": 8887
+    },
+    {
+        "hostname": "nosalty.hu",
         "pagelink": "https://www.nosalty.hu/recept/tarkonyos-csirkeraguleves-tarkonyos-raguleves-3",
         "h1": "Tárkonyos csirkeraguleves (Tárkonyos raguleves 3.)",
         "txtlength": 10986
