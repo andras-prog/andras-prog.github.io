@@ -1,6 +1,192 @@
 [
     {
         "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/tejfolben-pacolt-csirkemell-tepsis-reszelt-krumplival",
+        "h1": "Tejfölben pácolt csirkemell tepsis reszelt krumplival",
+        "txtlength": 13320
+    },
+    {
+        "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/hazi-kokuszkocka",
+        "h1": "Házi kókuszkocka",
+        "txtlength": 10646
+    },
+    {
+        "hostname": "kiszamolo.hu",
+        "pagelink": "https://kiszamolo.hu/a-dontesi-faradtsag/#more-115281",
+        "h1": "A döntési fáradtság",
+        "txtlength": 42377
+    },
+    {
+        "hostname": "alapblog.hu",
+        "pagelink": "https://alapblog.hu/osszeeskuves-amerika-ellen/",
+        "h1": "ÖSSZEESKÜVÉS AMERIKA ELLEN",
+        "txtlength": 13033
+    },
+    {
+        "hostname": "kulturpart.hu",
+        "pagelink": "https://kulturpart.hu/2021/04/09/bamulatos_robotexpedicio",
+        "h1": "BÁMULATOS ROBOTEXPEDÍCIÓ INDULT",
+        "txtlength": 8856
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210414_szegyellje_magat_aki_az_egeszsegugy_helytallasat_tagadja_kasler_miklos_a_mandinernek",
+        "h1": "Szégyellje magát, aki az egészségügy helytállását tagadja! – Kásler Miklós a Mandinernek",
+        "txtlength": 29288
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vallalat/20210421/az-egyetemen-kettest-kapott-a-ceg-otlete-amelybe-nemreg-tizmillio-euroval-szallt-be-a-spotify-befektetoje/",
+        "h1": "Az egyetemen kettest kapott a cég ötlete, amelybe nemrég tízmillió euróval szállt be a Spotify befektetője",
+        "txtlength": 20625
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210415_a_fal_adja_a_masikat_ujabb_migracios_kihivasok_amerikaban",
+        "h1": "A fal adja a másikat – újabb migrációs kihívások Amerikában",
+        "txtlength": 19709
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://24.hu/kulfold/2021/03/24/izrael-valasztas-benjamin-netanjahu-megosztottsag/",
+        "h1": "",
+        "txtlength": 18811
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20210421/tovabb-terjed-a-jarvany-a-vilagban-mar-3-millio-felett-az-elhunytak-szama-479566",
+        "h1": "Tovább terjed a járvány a világban, már 3 millió felett az elhunytak száma ",
+        "txtlength": 18409
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/egeszseg/20210420/draga-gyermekem-ennyibe-kerul-a-lombikbebi-program-itthon-es-kulfoldon-1113941",
+        "h1": "Drága gyermekem! Ennyibe kerül a lombikbébi program itthon és külföldön",
+        "txtlength": 18233
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210420_palinkas_a_fudan_egyetemrol_mi_szuksege_van_egy_ekkora_meretu_kulfoldi_egyetemre_magyarorszagnak_semmi",
+        "h1": "Pálinkás a Fudan Egyetemről: Mi szüksége van egy ekkora méretű külföldi egyetemre Magyarországnak? Semmi!",
+        "txtlength": 17300
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20210421/kedvezobb-lakaspiaci-folyamatok-mellett-magasabb-lenne-a-fejlettsegunk-478696",
+        "h1": "Kedvezőbb lakáspiaci folyamatok mellett magasabb lenne a fejlettségünk",
+        "txtlength": 17268
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/karrier/20210419/drasztikus-atalakulasok-a-magyar-munkahelyeken-ennek-sokaig-isszuk-majd-a-levet-1113937",
+        "h1": "Drasztikus átalakulások a magyar munkahelyeken: ennek sokáig isszuk majd a levét",
+        "txtlength": 16152
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.penzcentrum.hu/egeszseg/20210421/oriasi-a-roham-a-patikakban-zsakszamra-veszik-a-magyarok-ezt-gyogyszert-1113990",
+        "h1": "Óriási a roham a patikákban: zsákszámra veszik a magyarok ezt gyógyszert",
+        "txtlength": 14522
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2021/04/21/a-hamis-antigentesztek-rejtelyenek-kulcsa-a-bayes-tetel",
+        "h1": "A HAMIS ANTIGÉNTESZTEK REJTÉLYÉNEK KULCSA: A BAYES-TÉTEL",
+        "txtlength": 11334
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/egeszseg/glifozat-gyomirto-betiltas-ellen-lobbi/",
+        "h1": "A rákkeltő glifozát még mindig engedélyezett, és ha így megy tovább, sokáig az is maradhat",
+        "txtlength": 10827
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/szuloseg/szuloseg-elvarasok-megismeres-hibazas/",
+        "h1": "Tényleg az a jó szülő, aki elvárásoknak akar megfelelni?",
+        "txtlength": 10686
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kozelet/2021/04/21/koronavirus-temetok-hamvasztas-zsufoltsag/",
+        "h1": "Gondot okoz a covid-halottak tárolása, túlterheltek a temetkezési szolgáltatók és a hamvasztóüzemek",
+        "txtlength": 16442
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kulfold/2021/04/20/derek-chauvin-itelet-george-floyd-targyalas-rendor-nyakra-terdel-bunos-artatlan-borton",
+        "h1": "Mindhárom vádpontban bűnösnek mondta ki az esküdtszék Derek Chauvint a George Floyd-ügyben",
+        "txtlength": 16111
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/gazdasag/20210420_4_millio_beoltott_kulturalis_nyitas",
+        "h1": "Négymillió beoltottnál jöhet a teljes kulturális nyitás",
+        "txtlength": 15629
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/politika/ii-erzsebet-brit-kiralyno-szuletesnap-galeria/v86fsjb",
+        "h1": "Gyászol Erzsébet királynő, de az országa ünnepel – 25 csodálatos fotó a szülinapos uralkodó nem mindennapi életéről: így pergett le 95 év",
+        "txtlength": 15218
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kultura/2021/04/20/thunder-force-lecsap-csapat-netflix-melissa-mccarthy-ben-falcone-film-kritika/",
+        "h1": "A Netflix esélyesen legrosszabb filmje bizonyítja: nem biztos, hogy életed szerelmével kell együtt dolgoznod",
+        "txtlength": 15093
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/belfold/2021/04/20/gyasz-jarvany-idejen-gyaszterapeuta-veszteseg-halalozas",
+        "h1": "A koronavírus idején a gyászunkkal is egyedül maradtunk",
+        "txtlength": 14552
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/sport/2021/04/20/europai-szuperliga-megszunes-kilepes-chelsea-manchester-city-uefa",
+        "h1": "Szuperliga: Az összes angol klub visszalép, felfüggeszthetik a sorozatot",
+        "txtlength": 12628
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/kulfold/koronavirus-indiai-kettos-mutans-magyarorszag-fertozes/fv67c3l",
+        "h1": "Nem hiányzott: Magyarország felé terjed a rendkívül veszélyes, indiai kettős mutáns vírus – Ez a vakcina kevésbé hatékony ellene az első tesztek szerint",
+        "txtlength": 12564
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/gazdasag/20210421_koronavirus_felmeres_magyarorszag",
+        "h1": "Magyar kutatás a koronavírusról: a válaszadók tizede elvesztette a munkáját",
+        "txtlength": 12065
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/kkv/20210420_Egy_hatalmas_terassza_alakulhat_Budapest_belvarosa_35_millio_beoltott_utan",
+        "h1": "Hatalmas terasszá alakulhat Budapest belvárosa 3,5 millió beoltott után",
+        "txtlength": 11890
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/04/21/irorszag-tobbsege-szerint-eszak-irorszag-25-even-belul-kivalik-az-egyesult-kiralysagbol",
+        "h1": "Írország többsége szerint Észak-Írország 25 éven belül kiválik az Egyesült Királyságból",
+        "txtlength": 11455
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/04/20/nagyon-ritka-mellekhatasnak-minositette-a-verrogkepzodest-az-europai-gyogyszerugynokseg-a-johnson-johnson-vakcinajanal",
+        "h1": "Nagyon ritka mellékhatásnak minősítette a vérrögképződést az Európai Gyógyszerügynökség a Johnson & Johnson vakcinájánál",
+        "txtlength": 11233
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kozelet/2021/04/20/kinai-vakcina-sinopharm-haziorvos-dijazas/",
+        "h1": "Díjazást ígért a háziorvosoknak a kormányhivatal a kínai vakcina beadásáért",
+        "txtlength": 10076
+    },
+    {
+        "hostname": "nosalty.hu",
         "pagelink": "https://www.nosalty.hu/recept/egyszeru-tokfozelek",
         "h1": "Egyszerű tökfőzelék",
         "txtlength": 10541
