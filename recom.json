@@ -1,6 +1,186 @@
 [
     {
         "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/makos-guba-vaniliasodoval",
+        "h1": "Mákos guba vaníliasodóval",
+        "txtlength": 10925
+    },
+    {
+        "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/edes-borsoleves-galuskaval",
+        "h1": "Édes borsóleves galuskával",
+        "txtlength": 10700
+    },
+    {
+        "hostname": "kulturpart.hu",
+        "pagelink": "https://kulturpart.blog.hu/2021/04/22/a_fenevad_kora",
+        "h1": "A FENEVAD KORA",
+        "txtlength": 12326
+    },
+    {
+        "hostname": "alapblog.hu",
+        "pagelink": "https://alapblog.hu/jelentenek-e-menedeket-a-reszvenyek-inflacios-kornyezetben/",
+        "h1": "JELENTENEK-E MENEDÉKET A RÉSZVÉNYEK INFLÁCIÓS KÖRNYEZETBEN?",
+        "txtlength": 10841
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210421_a_nagy_fudan_projekt_elitegyetem_vagy_kommunista_kaderkepzo",
+        "h1": "Elitegyetem vagy kommunista káderképző? – Budapestre érkezik a Fudan",
+        "txtlength": 33327
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/karrier/20210421/tomegeket-keresnek-a-jarvany-vegen-450-ezres-kezdo-fizetes-diplomat-nem-kernek-1113974",
+        "h1": "Tömegeket keresnek a járvány végén: 450 ezres kezdő fizetés, diplomát nem kérnek",
+        "txtlength": 27360
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/auto/20210419/itt-nevelkedik-a-magyar-autosport-jovoje-egy-e-sportolot-is-palyara-kuld-michelisz-norbi-1113823",
+        "h1": "Itt nevelkedik a magyar autósport jövője: egy e-sportolót is pályára küld Michelisz Norbi",
+        "txtlength": 26705
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210421_jordan_peterson_uj_konyverol",
+        "h1": "Megmentett életeken edződött tanácsok: Jordan Peterson új könyvéről",
+        "txtlength": 21177
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2021/04/21/az-usa-annyi-penzt-kolt-nuklearis-fegyverkezesre-hogy-abbol-negyszer-eljuthatnank-a-marsra",
+        "h1": "AZ USA ANNYI PÉNZT KÖLT NUKLEÁRIS FEGYVERKEZÉSRE, HOGY ABBÓL NÉGYSZER ELJUTHATNÁNK A MARSRA",
+        "txtlength": 20832
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210421_gyurcsany_ferenc_bajnai_gordon_adatgyujtes_2022_valasztas",
+        "h1": "Választási adatbázist építenek Gyurcsány Ferenc és Bajnai emberei",
+        "txtlength": 20513
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vallalat/20210422/kulfoldon-van-olyan-ceg-amely-penzzel-motival-az-oltasra-keszulnek-erre-nalunk-is/",
+        "h1": "Külföldön van olyan cég, amely pénzzel motivál az oltásra, készülnek erre nálunk is?",
+        "txtlength": 17821
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/kozelet/20210421/begyujtottak-a-szputnyik-raketat-a-magyar-oltasi-programban/",
+        "h1": "Begyújtották a Szputnyik-rakétát a magyar oltási programban",
+        "txtlength": 16969
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/uzlet/20210421/a-turizmus-szenvedett-a-jarvanytol-megis-novelni-tudta-beveteleit-az-opus-479796",
+        "h1": "A turizmus szenvedett a járványtól, mégis növelni tudta bevételeit az Opus",
+        "txtlength": 15170
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20210422/matol-magyarorszagon-a-leghalalosabb-a-koronavirus-jarvany-a-vilagon-479502",
+        "h1": "Mától Magyarországon a leghalálosabb a koronavírus-járvány a világon",
+        "txtlength": 14459
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20210422/szombaton-nyitnak-a-teraszok-kesobb-kezdodik-a-kijarasi-tilalom-479806",
+        "h1": "Szombaton nyitnak a teraszok, később kezdődik a kijárási tilalom ",
+        "txtlength": 14333
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/gyerek/anya-nem-szereti-gyereket/",
+        "h1": "Miért utálhatja a szülő a saját gyerekét? Anyák adtak választ a kérdésre",
+        "txtlength": 11099
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/lajfhekk/hutoszekreny-fagyaszto-teszt-2021/",
+        "h1": "Teszt: melyik a legjobb hűtőszekrény? Itt a legfrissebb lista",
+        "txtlength": 10218
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kultura/2021/04/21/pazmany-peter-katolikus-egyetem-palotanegyed-magyar-radio-jozsefvaros-projekt-bontas-epites-kemenysepros-haz-palota/",
+        "h1": "Néhány év alatt átformálja a Palotanegyedet a Pázmány Péter Katolikus Egyetem",
+        "txtlength": 22809
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/koronavirus-hirek-jarvanyugyi-adatok-aprilis-22/23qpes5",
+        "h1": "Újabb 214 áldozatot követelt itthon a koronavírus, ennyi embert ápolnak kórházban – Itt vannak az elmúlt 24 járványügyi adatai",
+        "txtlength": 17935
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/belfold/2021/04/22/vagyonkezelo-alapitvany-kozvagyon-kozpenz-orban-viktor",
+        "h1": "Orbán megkezdte a hatalom átmentését",
+        "txtlength": 15761
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/velemeny/2021/04/22/replikaepiteszet-ero-zoltan-foepitesz",
+        "h1": "Műemlékvita: Egyre drágább, dühödten épülő, másolt épület-tárgyak",
+        "txtlength": 14228
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/belfold/2021/04/22/kormanyinfo-aprilis-22-gulyas-gergely-kormany-jarvanykezeles-koronavirus",
+        "h1": "Gulyás: Szombaton megnyithatnak a teraszok",
+        "txtlength": 14125
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/cegauto/20210421_magyarorszagon_az_elektromos_ford_mustang_mache_kiprobaltuk",
+        "h1": "V8 helyett villany: Magyarországon az elektromos Ford Mustang Mach-E, kipróbáltuk",
+        "txtlength": 13333
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/gyarfas-tamas-portik-tamas-fenyo-gyilkossag-targyalas/43p5mgw",
+        "h1": "Botrány a Gyárfás-perben – Portik Tamás kinevette a bírót, ez volt a válsz",
+        "txtlength": 12783
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/fn/gazdasag/2021/04/22/vadaszati-kiallitas-ceg-koltes-szobor-ugyved/",
+        "h1": "Százmilliók ügyvédekre, tízmilliók a Hír TV-nek – így költ a vadászati kiállítást szervező cég",
+        "txtlength": 11784
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kulfold/2021/04/21/makiyah-bryan-lovoldozes-gyilkossag-fekete-george-floyd/",
+        "h1": "Hiába mondták bűnösnek George Floyd gyilkosát, egy fekete tinédzser halála újra felborzolta a kedélyeket Amerikában",
+        "txtlength": 11362
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/04/21/csehorszag-koveteli-hogy-az-oroszok-engedjek-vissza-moszkvaba-a-kitiltott-diplomatakat",
+        "h1": "Csehország követeli, hogy az oroszok engedjék vissza Moszkvába a kitiltott diplomatákat",
+        "txtlength": 10452
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/04/22/40-vezeto-reszvetelevel-indul-ma-globalis-kilmacsucs",
+        "h1": "40 vezető részvételével indul ma globális kílmacsúcs",
+        "txtlength": 9889
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/sport/20210422_foci_eb_bilbao_uefa_koronavirus_jarvany",
+        "h1": "Foci-Eb: Bilbao nem vállalta nézők beengedését, elvették tőle a rendezést",
+        "txtlength": 9084
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/gazdasag/20210421_palkovics_laszlo_karacsony_gergely_baranyi_krisztina_fudan_egyetem",
+        "h1": "Palkovics olyan ajánlatot tenne Karácsonynak és Baranyinak a kínai egyetemért, ami “nem lesz semmi”",
+        "txtlength": 9049
+    },
+    {
+        "hostname": "nosalty.hu",
         "pagelink": "https://www.nosalty.hu/recept/tejfolben-pacolt-csirkemell-tepsis-reszelt-krumplival",
         "h1": "Tejfölben pácolt csirkemell tepsis reszelt krumplival",
         "txtlength": 13320
