@@ -1,6 +1,186 @@
 [
     {
         "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/csirkemell-ozgerincformaban-sutve-2",
+        "h1": "Csirkemell őzgerincformában sütve 2.",
+        "txtlength": 10732
+    },
+    {
+        "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/edes-paradicsomos-husgomboc",
+        "h1": "Édes paradicsomos húsgombóc",
+        "txtlength": 10414
+    },
+    {
+        "hostname": "kulturpart.hu",
+        "pagelink": "https://kulturpart.blog.hu/2021/04/23/kulonos_film_egy_borzalmas_haborurol",
+        "h1": "KÜLÖNÖS FILM EGY BORZALMAS HÁBORÚRÓL",
+        "txtlength": 9848
+    },
+    {
+        "hostname": "alapblog.hu",
+        "pagelink": "https://alapblog.hu/majd-a-robotok-megmentik-a-nyugdijasokat-2/",
+        "h1": "MAJD A ROBOTOK MEGMENTIK A NYUGDÍJASOKAT!",
+        "txtlength": 8482
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210421_europa_autoipar",
+        "h1": "Megfojtja az EU az európai autóipart?",
+        "txtlength": 31122
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/uzlet/20210423/hernadi-zsolt-hadigazdasagra-kellett-atallni-bekeidoben-479770",
+        "h1": "Hernádi Zsolt: Hadigazdaságra kellett átállni békeidőben",
+        "txtlength": 27053
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vallalat/20210423/mi-tortenhetett-a-bevetelet-meghetszerezo-magyar-csodacegnel-amelyet-feljelentett-a-jegybank/",
+        "h1": "Mi történhetett a bevételét meghétszerező magyar csodacégnél, amelyet feljelentett a jegybank?",
+        "txtlength": 23091
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210422_covid_halalozas_valoban_magyarorszag_vezeti_a_listat",
+        "h1": "Covid-halálozás: valóban Magyarország vezeti a listát?",
+        "txtlength": 19125
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2021/04/22/a-jarvany-alatt-vilagjelensegge-nott-az-alvas-halogatasa-ami-aztan-kegyetlenul-megbosszulja-magat",
+        "h1": "A JÁRVÁNY ALATT VILÁGJELENSÉGGÉ NŐTT AZ ALVÁS HALOGATÁSA, AMI AZTÁN KEGYETLENÜL MEGBOSSZULJA MAGÁT",
+        "txtlength": 18906
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/kozelet/20210422/az-iskolanyitas-sokkal-inkabb-politikai-mint-jarvanyugyi-dontes-lehetett/",
+        "h1": "Az iskolanyitás sokkal inkább politikai, mint járványügyi döntés lehetett",
+        "txtlength": 18637
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210421_ha_elunk_akkor_elunk_s_ha_nem_akkor_nem_a_csiksomlyoi_tragedia_nyomaban",
+        "h1": "„Az Isten gyermeke vagyok. Nem félek semmitől” – a csíksomlyói tragédia nyomában",
+        "txtlength": 17803
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/gazdasag/20210419/nohet-a-tarsadalmi-egyenlotlenseg-munkanelkuliseg-a-jarvany-utan-ha-nem-avatkoznak-be-1113921",
+        "h1": "Nőhet a társadalmi egyenlőtlenség, munkanélküliség a járvány után, ha nem avatkoznak be",
+        "txtlength": 15040
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/egeszseg/20210420/nyakunkon-az-indiai-mutans-vedenek-ellene-a-hazai-oltasok-1113962",
+        "h1": "Nyakunkon az indiai mutáns: védenek ellene a hazai oltások?",
+        "txtlength": 14287
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20210423/orban-viktor-a-lazitasokrol-jovo-hettol-jon-a-szabad-elet-azoknak-akik-vedettek-479962",
+        "h1": "Orbán Viktor a lazításokról: jövő héttől jön a szabad élet azoknak, akik védettek ",
+        "txtlength": 13850
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/bank/20210423/vihar-elotti-csend-kutya-vilag-johet-a-moratorium-utan-ha-nem-vigyazunk-479994",
+        "h1": "Vihar előtti csend? Kutya világ jöhet a moratórium után, ha nem vigyázunk",
+        "txtlength": 12929
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/kapcsolat/nem-minden-humoros/",
+        "h1": "Nem kell minden egyes citromból limonádét csinálni: a felnőtt életbe sokszor igenis bele lehet fáradni",
+        "txtlength": 12036
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/lajfhekk/helium-beszed-hang-vicces/",
+        "h1": "Miért lesz olyan vicces a hangunk a héliumtól?",
+        "txtlength": 9263
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kozelet/2021/04/22/koronavirus-kozvelemeny-kutatas-jarvanykezeles-fidesz-ellenzek-policy-solutions-fes/",
+        "h1": "Egy kutatás szomorú képet fest arról, mit tett velünk a járvány ",
+        "txtlength": 19009
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kulfold/2021/04/22/bulgaria-orban-boriszov-trifonov-bolgar-valasztas-gerb-van-ilyen-nep-radev",
+        "h1": "Orbán Viktor barátja megbukott, egy műsorvezető-zenész pártja robbant be új bolgár erőként",
+        "txtlength": 18782
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/zhvg/20210422_Kizarja_a_kapitalizmus_azt_hogy_ne_artsunk",
+        "h1": "Kizárja a kapitalizmus azt, hogy ne ártsunk?",
+        "txtlength": 17770
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/online-oltasi-idopontfoglalasi-rendszer-mukodese/0ytmjjt",
+        "h1": "Fontos: elindult az online oltási időpontfoglaló rendszer – Ki használhatja és hogyan működik? Íme, a legfontosabb kérdések és válaszok",
+        "txtlength": 15607
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/astrazeneca-ket-oltas-utan-korhazba-kerult/2qnwjck",
+        "h1": "Két oltást kapott, mégis covidos lett, sőt, kórházba is került Péter – Egyre többen vannak így, utánajártunk, mi az oka!",
+        "txtlength": 15513
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kultura/2021/04/22/vendeglatohelyek-budapest-teraszok-nyitas/",
+        "h1": "A vendéglátósok nem félnek attól, hogy nem lesz vendég a teraszokon",
+        "txtlength": 15497
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kozelet/2021/04/23/szabolcs-utca-hajlektalankorhaz-riport/",
+        "h1": "„Egészségileg és emberileg is össze vagyunk törve mindahányan”",
+        "txtlength": 15322
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/szorakozas/2021/04/22/balazs-klari-plagium-izrael",
+        "h1": "Milliókra perlik Balázs Klárit egy 40 évvel ezelőtti izraeli sláger miatt, elismeri a plágiumot",
+        "txtlength": 14309
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/belfold/2021/04/23/orban-viktor-penteki-kossuth-radio-interju-koronavirus-nyitas",
+        "h1": "Orbán elsorolta, mire lesz jó a védettségi igazolvány 4 millió beoltottnál",
+        "txtlength": 12906
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/04/22/csehorszag-tovabbi-orosz-diplomatakat-utasit-ki",
+        "h1": "Csehország további orosz diplomatákat utasít ki",
+        "txtlength": 12421
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/04/22/v4-lengyelorszag-utan-szlovakia-is-kiutasit-orosz-diplomatakat-a-csehek-melletti-szolidaritaskent",
+        "h1": "V4: Lengyelország után Szlovákia is kiutasít orosz diplomatákat a csehek melletti szolidaritásként",
+        "txtlength": 10874
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20210423_Orban_nyitas_kossuth_radio",
+        "h1": "Orbán bejelentette, a védettek számára nyitnak például a színházak, mozik, éttermek és szállodák",
+        "txtlength": 10264
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/202116_magyarra_kelet",
+        "h1": "Hamvay Péter: Magyarra Kelet!",
+        "txtlength": 9088
+    },
+    {
+        "hostname": "nosalty.hu",
         "pagelink": "https://www.nosalty.hu/recept/makos-guba-vaniliasodoval",
         "h1": "Mákos guba vaníliasodóval",
         "txtlength": 10925
