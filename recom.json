@@ -1,6 +1,186 @@
 [
     {
         "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/egyszeru-piskotatekercs",
+        "h1": "Egyszerű piskótatekercs",
+        "txtlength": 10276
+    },
+    {
+        "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/rakott-karfiol",
+        "h1": "Rakott karfiol",
+        "txtlength": 9962
+    },
+    {
+        "hostname": "hataratkelo.blog.hu",
+        "pagelink": "https://hataratkelo.blog.hu/2021/04/23/tiz_nagyvaros_husz_seta",
+        "h1": "Tíz nagyváros húsz séta",
+        "txtlength": 14009
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210423_gere_attila_es_gere_andrea",
+        "h1": "Ahol rend van, ott a borral se lesz probléma – Gere Attila és Gere Andrea a Mandinernek",
+        "txtlength": 23545
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210423_mcc_epulet_interju_kalman_erno_csany_eva",
+        "h1": "Felkiáltójel a Gellért-hegyen – zsűritagok az MCC-épülettervekről",
+        "txtlength": 22289
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/hitel/20210422/hiaba-a-millios-negyzetmeterarak-itt-meg-emberi-aron-vehetsz-balatoni-nyaralot-1113987",
+        "h1": "Hiába a milliós négyzetméterárak: itt még emberi áron vehetsz balatoni nyaralót",
+        "txtlength": 22195
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20210424/elszabadult-a-pokol-indiaban-amit-az-egesz-vilag-megszenvedhet-480028",
+        "h1": "Elszabadult a pokol Indiában, amit az egész világ megszenvedhet",
+        "txtlength": 19595
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/elet/20210423/a-gyermekvallalashoz-csak-ket-dolog-hianyzik-az-ido-es-a-penz/",
+        "h1": "A gyermekvállaláshoz csak két dolog hiányzik, az idő és a pénz",
+        "txtlength": 19393
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/bank/20210424/nagy-valtozasokra-keszulhetnek-a-magyar-bankok-mit-jelent-az-mnb-legujabb-ajanlasa-480022",
+        "h1": "Nagy változásokra készülhetnek a magyar bankok: mit jelent az MNB legújabb ajánlása?",
+        "txtlength": 19052
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/kozelet/20210423/300-ezer-embernek-kell-elfogadnia-a-kinai-vakcinat-hogy-tarthato-legyen-orban-menetrendje/",
+        "h1": "300 ezer embernek kell elfogadnia a kínai vakcinát, hogy tartható legyen Orbán menetrendje",
+        "txtlength": 18664
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210423_nemtudomkat_nem_valasztanak_miniszterelnoknek_perlaky_papp_jozsef_a_mandinernek",
+        "h1": "„Nemtudomkát” nem választanak miniszterelnöknek – Perlaky-Papp József a Mandinernek",
+        "txtlength": 18425
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2021/04/23/a-szovjet-katonak-nem-parancsra-hanem-sajat-szakallukra-garazdalkodtak-az-ostrom-alatt-allo-budapesten",
+        "h1": "A SZOVJET KATONÁK NEM PARANCSRA, HANEM SAJÁT SZAKÁLLUKRA GARÁZDÁLKODTAK AZ OSTROM ALATT ÁLLÓ BUDAPESTEN",
+        "txtlength": 18413
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/gyerek/feszt-timea-es-a-trappancs-egyesulet/",
+        "h1": "\"Az nem hírérték, ha egy veseátültetett gyerek nyer egy érmet\" - interjú Feszt Tímeával, a Trappancs Egyesület elnökével",
+        "txtlength": 17731
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20210423/a-vilagon-peldatlan-szabalyokkal-lehetetleniti-el-a-szelenergiat-magyarorszag-479054",
+        "h1": "A világon példátlan szabályokkal lehetetleníti el a szélenergiát Magyarország",
+        "txtlength": 15527
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/gazdasag/20210423/kuszobon-a-negynapos-munkahet-a-home-office-utan-ez-kavarhatja-fel-a-magyarok-eletet-1114062",
+        "h1": "Küszöbön a négynapos munkahét: a home office után ez kavarhatja fel a magyarok életét?",
+        "txtlength": 15298
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/testem/nem-latszik-az-edzes-eredmenye/",
+        "h1": "Rendszeresen edzel, még sincs látható eredménye? 5 + 1 tipp, ami segít továbblépni",
+        "txtlength": 14080
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/szuloseg/szulo-gyerek-jovokep-edison/",
+        "h1": "6 + 1 dolog, amit a magyar szülők gondolnak a gyerekek jövőjéről – Egyetértesz velük?",
+        "txtlength": 12193
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/kultura/20210423_Minden_idok_legfontosabb_magyar_filmjei__HVG_TOP30_2__A_focitol_Valentinoig",
+        "h1": "Minden idők legfontosabb magyar filmjei – HVG TOP30 (2.) – A focitól Valentinóig",
+        "txtlength": 29606
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kozelet/2021/04/24/osfas-paradicsomkertert-feszult-egymasnak-egy-varosnegyed-es-ujbuda/",
+        "h1": "Ősfás paradicsomkertért feszült egymásnak egy városnegyed és Újbuda",
+        "txtlength": 22170
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kultura/2021/04/23/oscar-dij-2021-nagy-hianyzok/",
+        "h1": "Vadnyugati fánksütőket hiába is keresnénk az Oscar-jelöltek között",
+        "txtlength": 17121
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/belfold/2021/04/23/orban-viktor-bejelentese-szolgaltatasok-nyitasa-4-millio-oltottnal-keszulnek-a-nyitasra",
+        "h1": "Nem mindenki tud rögtön kinyitni Orbán bejelentése után",
+        "txtlength": 17085
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/orban-viktor-koronavirus-hirek-nyitas-mozi-koncert-meccs-veszely/p5wbn0w",
+        "h1": "Ezek lehetnek a teljes nyitás feltételei: így mehetünk majd újra koncertre, meccsre, moziba – A virológus megmondja, hogyan kerülhetjük el a veszélyeket",
+        "txtlength": 16362
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/astrazeneca-ket-oltas-utan-korhazba-kerult/2qnwjck?utm_source=related&utm_medium=www.blikk.hu&utm_campaign=widget-9446979",
+        "h1": "Két oltást kapott, mégis covidos lett, sőt, kórházba is került Péter – Egyre többen vannak így, utánajártunk, mi az oka!",
+        "txtlength": 15919
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/belfold/2021/04/23/eltereles-kabitoszer-tasz-bunugyi-koltseg-ugyeszseg",
+        "h1": "Második esély helyett akár milliós összeget kaphat a nyakába a drogfogyasztó, ha végigcsinálja az elterelést",
+        "txtlength": 14372
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/04/24/hetvegi-olvasnivalo-az-antitestek-hianyatol-az-osszeomlott-szuperligaig",
+        "h1": "Hétvégi olvasnivaló az antitestek hiányától az összeomlott szuperligáig",
+        "txtlength": 14252
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/04/23/transparency-international-a-magyar-kormany-helyreallitasi-terve-nem-csokkenti-erdemben-a-korrupciot",
+        "h1": "Transparency International: A magyar kormány Helyreállítási Terve nem csökkenti érdemben a korrupciót",
+        "txtlength": 13425
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/tech/2021/04/24/realme-8-pro-okostelefon-teszt/",
+        "h1": "Realme 8 Pro: ennél többre lesz szükség a sikerhez",
+        "txtlength": 13327
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kult/2021/04/23/scott-rudin-producer-hollywood-toxikus-munkahely-eroszak",
+        "h1": "Krumplit, monitort, tűzőgépet hajigált emberekhez, de eljött az áldozatok ideje",
+        "txtlength": 13063
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/kultura/20210424_szinhaz_nyitas_vedettsegi_igazolvany_oltas_4_millio_beoltott",
+        "h1": "„A színházban volt, aki sírt, hogy nem akarja beoltani magát, akkor elveszti az állását?”",
+        "txtlength": 12807
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/tudomany/20210424_usa_oltas_janssen",
+        "h1": "Folytatják az oltást a Janssen-vakcinával az Egyesült Államokban",
+        "txtlength": 10640
+    },
+    {
+        "hostname": "nosalty.hu",
         "pagelink": "https://www.nosalty.hu/recept/csirkemell-ozgerincformaban-sutve-2",
         "h1": "Csirkemell őzgerincformában sütve 2.",
         "txtlength": 10732
