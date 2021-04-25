@@ -1,6 +1,192 @@
 [
     {
         "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/edes-palacsinta-alapteszta",
+        "h1": "Édes palacsinta alaptészta",
+        "txtlength": 10353
+    },
+    {
+        "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/klasszikus-rakott-krumpli",
+        "h1": "Klasszikus rakott krumpli",
+        "txtlength": 10101
+    },
+    {
+        "hostname": "hataratkelo.blog.hu",
+        "pagelink": "https://hataratkelo.blog.hu/2021/04/24/magyarorszag_a_fal_megepulese_elotti_ndk#c40176870",
+        "h1": "Magyarország a Fal megépülése előtti NDK?",
+        "txtlength": 51396
+    },
+    {
+        "hostname": "cineartstudio.blog.hu",
+        "pagelink": "https://cineartstudio.blog.hu/2021/03/18/kijottek_a_93_oscar-dij_jeloltjei",
+        "h1": "Kijöttek a 93. Oscar-díj jelöltjei",
+        "txtlength": 10097
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210425_somfai_kara_david_magyar_ostortenet",
+        "h1": "Honnan jött a magyar nép, és honnan a magyar nyelv? – Somfai Kara Dávid etnológus a Mandinernek",
+        "txtlength": 26914
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210421_oltakozasi_hadmuvelet_logisztikai_kihivasokkal",
+        "h1": "Oltakozási hadművelet logisztikai kihívásokkal",
+        "txtlength": 22937
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210424_detari_lajos_a_mandinernek",
+        "h1": "Itt a helyem, Magyarországon – Détári Lajos a Mandinernek",
+        "txtlength": 18886
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/unios-forrasok/20210424/kiderult-miert-utazott-penteken-brusszelbe-orban-viktor-belekotott-az-europai-bizottsag-a-gigantikus-magyar-eu-s-terv-tobb-fontos-elemebe-480130",
+        "h1": "Kiderült, miért utazott pénteken Brüsszelbe Orbán Viktor: belekötött az Európai Bizottság a gigantikus magyar EU-s terv több fontos elemébe",
+        "txtlength": 18806
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/elet/20210425/a-klimatudatos-nyugati-fiatalok-tobb-hust-esznek-mint-az-idosek-nalunk-a-nyugdijas-korosztaly-a-legnagyobb-husfogyaszto/",
+        "h1": "A klímatudatos nyugati fiatalok több húst esznek, mint az idősek",
+        "txtlength": 18261
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/global/20210425/az-egyetlen-orszag-a-tortenelemben-amely-onkent-megsemmisitette-atomfegyvereit-480030",
+        "h1": "Az egyetlen ország a történelemben, amely önként megsemmisítette atomfegyvereit",
+        "txtlength": 17355
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/podcast/20210424/egyre-tobb-a-barat-es-kevesebb-a-csaladtag-azok-kozott-akikben-a-leginkabb-megbizunk/",
+        "h1": "Egyre több a barát, és kevesebb a családtag azok között, akikben a leginkább megbízunk",
+        "txtlength": 17309
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/uzlet/20210424/megkaptad-a-koronavirus-elleni-oltasod-ezekbe-az-orszagokba-mar-szabadon-utazhatsz-nyaralni-480078",
+        "h1": "Megkaptad a koronavírus elleni oltásod? Ezekbe az országokba már szabadon utazhatsz nyaralni",
+        "txtlength": 16179
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/gazdasag/20210422/sulyos-tizezreket-huzhatsz-le-a-bankodrol-ha-igy-vasarolsz-legalis-megis-kevesen-elnek-vele-1113821",
+        "h1": "Súlyos tízezreket húzhatsz le a bankodról, ha így vásárolsz: legális, mégis kevesen élnek vele",
+        "txtlength": 15938
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/vallalkozas/20210423/most-tenyleg-kiakadtak-a-capak-kozott-nagyagyui-csunyan-elszolta-magat-ez-a-vallalkozo-1114003",
+        "h1": "Most tényleg kiakadtak a Cápák között nagyágyúi: csúnyán elszólta magát ez a vállalkozó",
+        "txtlength": 15912
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2021/04/25/az-elet-soja-a-so",
+        "h1": "AZ ÉLET SÓJA: A SÓ",
+        "txtlength": 14481
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/utazas/szokesek-berlini-falon-at/",
+        "h1": "A legelképesztőbb keletnémet szökési kísérletek a berlini falon át: ki lopott tankkal, ki gumimatraccal próbálkozott",
+        "txtlength": 12393
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/testem/heti-menu-tervezes-bevasarlas/",
+        "h1": "Így tervezd meg okosan a heti menüdet és bevásárlásaidat! Csak simán egy lista nem elég",
+        "txtlength": 11138
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/lajfhekk/mit-nem-szabad-az-autoban-tarolni/",
+        "h1": "Mi ne legyen az autóban? Itt a lista",
+        "txtlength": 9142
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/szorakozas/2021/04/24/oscar-2021-dij-jeloltek-dijatado-hollywood-film-filmek",
+        "h1": "Az Oscar nem adta meg magát a koronavírusnak",
+        "txtlength": 27618
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/kultura/20210424_oscar_jelolt_filmek_pieces_of_a_woman_vanessa_kirby_meg_egy_kort_mindenkinek_borat",
+        "h1": "Lehet ön is sikeres, csak gazemberré kell válni – A legizgalmasabb Oscar-jelölt filmek, 1. rész",
+        "txtlength": 23013
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/sport/2021/04/25/burian-kata-uszas-depresszio-olimpia2020-tokioi-olimpia-tokio2020/",
+        "h1": "Burián Kata: Nemcsak engem, de a sportot is meggyalázták",
+        "txtlength": 21976
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/tudomany/2021/04/24/ima-szivunk-imaja-mozgalom-tudomany-szivproblemak-kutatasok/",
+        "h1": "A tudomány szerint egyáltalán nem gyógyít, ha imádkoznak értünk",
+        "txtlength": 18556
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kultura/2021/04/25/krimi-dania-matine-soren-sveistrup-konyvajanlo/",
+        "h1": "Több száz gesztenyefigura fogadta a fejszés családi mészárlás helyszínére érkező dán rendőrt",
+        "txtlength": 18173
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/politika/herczegh-anita-ader-janos-felesege-koronavirus-gyasz-alapitvany/d5g14t5",
+        "h1": "Exkluzív interjú Herczegh Anitával, Áder János feleségével – Koronavírusban elhunyt ismerősöket gyászol az elnöki pár",
+        "txtlength": 15839
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/magyar-rendorkutya-kikepzes-rendorseg/werplzz",
+        "h1": "Az igazi hősök néha négy lábon járnak: a legrettegettebb rosszfiú sincs biztonságban, ha színre lépnek a magyar rendőrkutyák – Így zajlik a kiképzésük",
+        "txtlength": 15167
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/gazdasag/20210425_Es_akkor_nyitas_jarvany_koltsegvetes_szuperliga_balaton",
+        "h1": "És akkor Orbán Viktor egy korsó sörrel ünnepelheti a Felcsút ezüstérmét",
+        "txtlength": 12408
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/cegauto/20210425_zold_rendszamos_kombi_bmw_330e_teszt_velemeny_menetproba",
+        "h1": "Ötös alá: teszten a zöld rendszámos kombi BMW 330e",
+        "txtlength": 11822
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/04/25/nincs-uj-a-fold-alatt-magyar-kutatok-mar-54-eve-barlangba-kuldtek-nyolc-embert-azt-vizsgalva-hogy-viselik-a-bezartsagot",
+        "h1": "Nincs új a föld alatt: magyar kutatók már 54 éve barlangba küldtek nyolc embert, azt vizsgálva, hogyan viselik a bezártságot",
+        "txtlength": 11296
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/04/24/nagy-remenyeket-fuzott-az-eu-a-sajtdiplomaciahoz-de-a-jelek-szerint-az-inkabb-csak-uj-feszultsegeket-szult-cipruson",
+        "h1": "Nagy reményeket fűzött az EU a sajtdiplomáciához, de a jelek szerint az inkább csak új feszültségeket szült Cipruson",
+        "txtlength": 11197
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/belfold/2021/04/24/alapjarat-autopark-oregszik-atlageletkor",
+        "h1": "Meglepő statisztikából derül ki, hogyan öregszik a hazai autópark",
+        "txtlength": 10792
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/belfold/2021/04/24/terasznyitas-gyor-vendeglatohelyek-koronavirus-pincer",
+        "h1": "Ha betennék a vakcinát a sörbe, jövőre az egész ország be lenne oltva",
+        "txtlength": 10791
+    },
+    {
+        "hostname": "nosalty.hu",
         "pagelink": "https://www.nosalty.hu/recept/egyszeru-piskotatekercs",
         "h1": "Egyszerű piskótatekercs",
         "txtlength": 10276
