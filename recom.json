@@ -1,6 +1,186 @@
 [
     {
         "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/gyors-csirke-brassoi",
+        "h1": "Gyors csirke brassói",
+        "txtlength": 11015
+    },
+    {
+        "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/klasszikus-madartej",
+        "h1": "Klasszikus madártej",
+        "txtlength": 10179
+    },
+    {
+        "hostname": "hataratkelo.blog.hu",
+        "pagelink": "https://hataratkelo.blog.hu/2021/04/24/magyarorszag_a_fal_megepulese_elotti_ndk#c40181314",
+        "h1": "Magyarország a Fal megépülése előtti NDK?",
+        "txtlength": 50343
+    },
+    {
+        "hostname": "kulturpart.hu",
+        "pagelink": "https://kulturpart.blog.hu/2021/04/24/2020_legemberibb_filmje_egy_poliprol_szol",
+        "h1": "2020 LEGEMBERIBB FILMJE EGY POLIPRÓL SZÓL",
+        "txtlength": 8637
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210423_erdelyi_kopo_bodok_gergo_magyar_nemzeti_kutyafajta",
+        "h1": "Erdélyi kopó: a magyar nemzeti kutyafajta, ami épphogy megmenekült",
+        "txtlength": 25137
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210424_mar_nyugaton_sem_lehet_elhallgatni_az_uldozott_keresztenyek_ugyet_azbej_tristan_a_mandinernek",
+        "h1": "„Már nyugaton sem lehet elhallgatni az üldözött keresztények ügyét” – Azbej Tristan a Mandinernek",
+        "txtlength": 22352
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210426_gyurcsany_ficsor_adam_erosito_datadat_bajnai_kampany_dessewfy_tibor_szigetvari_viktor_baloldal_DK_ellenzek_ezalenyeg",
+        "h1": "Beindult Gyurcsány köre: milliókkal hirdetik az ellenzéki média cikkeit a Facebookon",
+        "txtlength": 21690
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/elet/20210426/kenyer-tej-tojas-hus-udito-asvanyviz-minden-dragulni-fog/",
+        "h1": "Kenyér, tej, tojás, hús, üdítő, ásványvíz – minden drágulni fog",
+        "txtlength": 21428
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/uzlet/20210426/a-fenntarthato-repuleshez-vezeto-ut-komoly-lepesekre-keszul-a-wizz-air-479218",
+        "h1": "A fenntartható repüléshez vezető út: komoly lépésekre készül a Wizz Air",
+        "txtlength": 20777
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/karrier/20210425/rengeteg-magyart-keresnek-daniai-munkara-900-ezres-fizetes-diploma-sem-kell-1114070",
+        "h1": "Rengeteg magyart keresnek dániai munkára: 900 ezres fizetés, diploma sem kell",
+        "txtlength": 17007
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/tech/20210425/a-varakozasokkal-ellentetben-az-e-bicikli-nem-lustit-el/",
+        "h1": "A várakozásokkal ellentétben az e-bicikli nem lustít el",
+        "txtlength": 16865
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/bank/20210426/egyre-csak-gazdagodik-a-magyarok-elit-klubja-iden-150-millio-is-lehet-egy-atlagos-privatbanki-szamlan-479758",
+        "h1": "Egyre csak gazdagodik a magyarok elit klubja, idén 150 millió is lehet egy átlagos privátbanki számlán",
+        "txtlength": 14836
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/egeszseg/20210421/sorra-szedi-aldozatait-a-chili-challenge-ezt-fontold-meg-mielott-marhasagot-csinalsz-1113968",
+        "h1": "Sorra szedi áldozatait a chili-challenge: ezt fontold meg, mielőtt marhaságot csinálsz",
+        "txtlength": 14589
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/ingatlan/20210426/nagyot-zuhant-az-ingatlanbefektetesi-kedv-de-vannak-kedvelt-teruletek-480272",
+        "h1": "Nagyot zuhant az ingatlanbefektetési kedv, de vannak kedvelt területek",
+        "txtlength": 14583
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/egeszseg/egeszseges-rizsfajtak-cukorbetegseg/",
+        "h1": "Melyik a legegészségesebb rizsfajta? A cukorbetegséggel élők is megtalálhatják a nekik legjobbat",
+        "txtlength": 12063
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2021/04/23/off-biennale-bedobtuk-a-kovet-es-az-alloviz-megmozdult",
+        "h1": "OFF-BIENNÁLE: BEDOBTUK A KÖVET, ÉS AZ ÁLLÓVÍZ MEGMOZDULT",
+        "txtlength": 12001
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/lajfhekk/tulporgott-kutya-macska-rohangal/",
+        "h1": "Túlpörgött kutya: ez az oka, hogy őrült módjára rohangál",
+        "txtlength": 8660
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/szorakozas/2021/04/25/oscar-dij-2021-jeloltek-nyertesek-filmek-hollywood",
+        "h1": "A nomádok földje a legjobb film, Anthony Hopkins a legjobb színész, Frances McDormand a legjobb színésznő",
+        "txtlength": 20449
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kultura/2021/04/25/hadas-kriszta-interju-heti-naplo-jon-a-baba/",
+        "h1": "Hadas Kriszta: Szeretnék szembemenni azzal a propagandával, hogy csak egyféle család a jó",
+        "txtlength": 20230
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/kkv/20210426_Nagy_Elek_interju_bkik",
+        "h1": "Nagy Elek: A főváros azt kérte, ítéljük el a kormány lépését, majd leállította az egyeztetéseket",
+        "txtlength": 19083
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/koronavirus/2021/04/25/vakcina-hatekonysag-vizsgalat-felmeres-oltottak-megbetegedes-halalozas-kormany-tablazat-adatok-problemak-kinai-sinopharm-pfizer",
+        "h1": "Szakmailag nehezen vállalhatók a kormány által közzétett vakcinahatékonysági adatok",
+        "txtlength": 18490
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/gazdasag/20210426_ferto_to_gigaprojekt_video",
+        "h1": "Nem Jesolo, romhalmaz – beeveztünk a Fertő tavi gigaprojekt területére (videó)",
+        "txtlength": 15088
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kultura/2021/04/26/oscar-gala-2021-a-nomadok-foldje-dijatado-koronavirus/",
+        "h1": "A Nomádok földjéről szólt a rendhagyó idei Oscar-gála",
+        "txtlength": 13609
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/04/25/a-kormanyzati-koronavirus-honlapon-mar-eleg-meresz-uzenettel-osztjak-meg-a-kormany-semenyire-sem-tudomanyos-vakcinaadatait",
+        "h1": "A kormányzati koronavírus honlapon már elég merész üzenettel osztják meg a kormány semennyire sem tudományos vakcinaadatait",
+        "txtlength": 13605
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/merkely-bela-koronavirus-vakcina-kerdes-valasz-kossuth-radio-virusinfo/vkqy0ry",
+        "h1": "Merkely doktor elmondta: ezeket a vakcinákat kaphatják a vesebetegek",
+        "txtlength": 13605
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/tudomany/2021/04/26/tudomanyos-publikacio-tanulmany-level-kemenesi-gabor-virologus-koronavirus/",
+        "h1": "Tudományos publikálás: gyorstalpaló laikusoknak",
+        "txtlength": 13407
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/english/2021/04/26/covid-19-hungary-25000-dead-underlying-medical-conditions-statistics",
+        "h1": "What can we learn from the data on the Hungarian victims of Covid-19?",
+        "txtlength": 12631
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/diktatorok-kiralyokkal-levelez-alairast-gyujt-dr-marian-zoltan/hfkt99n",
+        "h1": "Diktátorokkal, királyokkal, a világ uraival levelez Zoltán: soha nem adja fel, Fidel Castrót a feleségén keresztül hálózta be",
+        "txtlength": 12627
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/vilag/20210424_India_lassan_elmerul_a_koronavirusjarvany_poklaban",
+        "h1": "\"A kiürült indiai utcákat majmok és kutyák lepték el, mint egy sci-fiben\"",
+        "txtlength": 12051
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/04/25/a-kreml-szerint-juniusban-talalkozhat-biden-es-putyin",
+        "h1": "A Kreml szerint júniusban találkozhat Biden és Putyin",
+        "txtlength": 11549
+    },
+    {
+        "hostname": "nosalty.hu",
         "pagelink": "https://www.nosalty.hu/recept/edes-palacsinta-alapteszta",
         "h1": "Édes palacsinta alaptészta",
         "txtlength": 10353
