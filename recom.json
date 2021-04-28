@@ -1,6 +1,186 @@
 [
     {
         "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/tejszines-carbonara-spagetti",
+        "h1": "Tejszínes carbonara spagetti",
+        "txtlength": 10436
+    },
+    {
+        "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/klasszikus-tojasos-nokedli",
+        "h1": "Klasszikus tojásos nokedli",
+        "txtlength": 10083
+    },
+    {
+        "hostname": "hataratkelo.blog.hu",
+        "pagelink": "https://hataratkelo.blog.hu/2021/04/24/magyarorszag_a_fal_megepulese_elotti_ndk",
+        "h1": "Magyarország a Fal megépülése előtti NDK?",
+        "txtlength": 43987
+    },
+    {
+        "hostname": "kulturpart.hu",
+        "pagelink": "https://kulturpart.blog.hu/2021/04/27/raya_es_az_utolso_sarkany_raya_and_the_last_dragon_film_kritika",
+        "h1": "ÍGY TARTSD ÉLETBEN A SÁRKÁNYODAT",
+        "txtlength": 6719
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vilag/20210427/szigoru-es-dorzsolt-hitelezo-kina-egy-friss-kutatas-szerint/",
+        "h1": "Szigorú és dörzsölt hitelező Kína egy friss kutatás szerint",
+        "txtlength": 27151
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/vallalkozas/20210425/elstartolt-az-idei-fagyiszezon-a-gombocarakra-is-ranyomja-a-belyeget-a-jarvany-2021-ben-1114067",
+        "h1": "Elstartolt az idei fagyiszezon: a gombócárakra is rányomja a bélyegét a járvány 2021-ben",
+        "txtlength": 27119
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210426_x#comments",
+        "h1": "Tényleg a Szputnyik a legjobb? – szakértőket kérdeztünk",
+        "txtlength": 23675
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210427_a_marihuana_nem_gyogyszer_inkabb_kapudrog_dr_haller_jozsef_a_mandinernek",
+        "h1": "A marihuána nem gyógyszer, inkább kapudrog – Haller József a Mandinernek",
+        "txtlength": 22186
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210428_lmp_ellenzek",
+        "h1": "Az LMP-n a végelgyengülés jelei látszanak",
+        "txtlength": 20440
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/uzlet/20210428/63-milliard-forintos-eves-fizetes-a-fonok-urnak-mit-szolnak-ehhez-a-befektetok-480492",
+        "h1": "63 milliárd forintos éves fizetés a főnök úrnak! Mit szólnak ehhez a befektetők?",
+        "txtlength": 19720
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vallalat/20210428/hiaba-a-valsag-reneszansz-van-a-magyar-mutargypiacon/",
+        "h1": "Hiába a válság, reneszánsz van a magyar műtárgypiacon",
+        "txtlength": 19311
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20210428/szokatlan-helyrol-kapott-figyelmeztetest-a-kormany-480626",
+        "h1": "Szokatlan helyről kapott figyelmeztetést a kormány",
+        "txtlength": 17069
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2021/04/28/ha-termofolded-van-nemcsak-kukoricat-hanem-napenergiat-is-termelhetsz-rajta",
+        "h1": "HA TERMŐFÖLDED VAN, NEMCSAK KUKORICÁT, HANEM NAPENERGIÁT IS TERMELHETSZ RAJTA",
+        "txtlength": 16628
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/uzlet/20210428/zaporoznak-a-fontos-gyorsjelentesek-jo-a-hangulat-europa-tozsdein-480636",
+        "h1": "Záporoznak a fontos gyorsjelentések, jó a hangulat Európa tőzsdéin ",
+        "txtlength": 15898
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/szuloseg/transz-serdulo-tamogatas-csalad-elfogadas/",
+        "h1": "Transznemű fiatalok: így támogasd őket a Stanford Egyetem szerint",
+        "txtlength": 14045
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/egeszseg/20210427/ujabb-kor-utotte-fel-a-fejet-a-nyitas-arnyekaban-ez-a-tunet-nagyon-arulkodo-1114156",
+        "h1": "Újabb kór ütötte fel a fejét a nyitás árnyékában: ez a tünet nagyon árulkodó",
+        "txtlength": 12356
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/egeszseg/tippek-vercukorszint-csokkentesehez/",
+        "h1": "7 tipp a vércukorszint természetes csökkentéséhez: bogyós gyümölcsökből érdemes sokat enni",
+        "txtlength": 12246
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/gazdasag/2021/04/27/szergej-taruta-1-2-honap-alatt-teljesen-jogszeruen-stabilizalhato-lenne-az-isd-dunaferr",
+        "h1": "A Dunaferr kisebbségi tulajdonosa: Fékezőerő lehet a magyar államnál, hogy azt hiszi, orosz érdek a bedőlés",
+        "txtlength": 18218
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/koronavirus/2021/04/27/vakcina-hatekonysag-kormany-tablazat-kutatok-szamitasok-megbetegedes-halalozas-halottak-kinai-sinopharm-pfizer",
+        "h1": "Épp a kormány vakcinatáblázatából derül ki, hogy a kínai oltás kevésbé hatékony, mint a többi",
+        "txtlength": 17553
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2021/04/28/orokbefogadas-homoszexualis-meleg-novak-katalin-szivarvanycsalad-lmbt/",
+        "h1": "Dermesztő érzés, amikor közlik veled, hogy Novák Katalin dönt az életedről",
+        "txtlength": 17263
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/tudomany/2021/04/27/kormany-oltastablazat-pfizer-sinopharm-oltasellenesseg/",
+        "h1": "Hiányos, szakmaiatlan, és az oltásellenesek alá adja a lovat – ez a baj a kormány oltástáblázatával",
+        "txtlength": 17229
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/eurologus/20210428_unios_forras_rrf_orban_europai_bizottsag",
+        "h1": "Az ablakon bedobott pénz: miért nem kell az uniós források több mint fele a kormánynak?",
+        "txtlength": 16846
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kultura/2021/04/27/anthony-hopkins-portre-oscar-dij-2021-the-father/",
+        "h1": "Az Oscar eszünkbe véste, hogy még mindig Anthony Hopkins a legnagyobb",
+        "txtlength": 15826
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/koronavirus/2021/04/28/vedettsegi-igazolvany-adminisztracio-keses-kulfold-ellenorzes",
+        "h1": "Magának nem jött meg a védettségi igazolványa, mások kaptak, pedig nem járna nekik. A rendszer remekül működik",
+        "txtlength": 14251
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/04/28/hetfotol-uj-szintre-lepett-az-apple-es-a-facebook-csataja",
+        "h1": "Hétfőtől új szintre lépett az Apple és a Facebook csatája",
+        "txtlength": 11327
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/04/28/amerikai-kiadoja-nem-adja-ki-philip-roth-evek-ota-vart-eletrajzat-mert-a-szerzojet-szexualis-eroszakkal-vadoljak",
+        "h1": "Amerikai kiadója nem adja ki Philip Roth évek óta várt életrajzát, mert a szerzőjét szexuális erőszakkal vádolják",
+        "txtlength": 10784
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/hableany-per-dunai-hajobaleset-szakertok-meghallgatasa/0b028p3",
+        "h1": "Sokkoló, soha nem látott felvétel a Hableány tragédiájáról – A halálfélelem sikolyai a Viking fedélzetén",
+        "txtlength": 10682
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/operativ-torzs-muller-bejelentesek-aprilis-27-oltas/7bxpmxg",
+        "h1": "Müller Cecília: késhetnek a vakcinaútlevelek",
+        "txtlength": 9285
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/ingatlan/20210428_lakasfelujitasi_hitel_kivaltas_bank360",
+        "h1": "Mennyivel kell többet fizetnem, ha nem vagyok jogosult a lakásfelújítási hitelre, de mégis felújítanék?",
+        "txtlength": 8773
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/gazdasag/20210428_Birosagon_megy_neki_a_Ferto_tavi_epitkezesnek_a_Greenpeace",
+        "h1": "Bíróságon megy neki a Fertő tavi építkezésnek a Greenpeace",
+        "txtlength": 8138
+    },
+    {
+        "hostname": "nosalty.hu",
         "pagelink": "https://www.nosalty.hu/recept/gyors-csirke-brassoi",
         "h1": "Gyors csirke brassói",
         "txtlength": 11015
