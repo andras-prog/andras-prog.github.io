@@ -1,5 +1,203 @@
 [
     {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/sajttal-sonkaval-toltott-pulykamell.recept",
+        "h1": "SAJTTAL-SONKÁVAL TÖLTÖTT PULYKAMELL",
+        "txtlength": 10353
+    },
+    {
+        "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/gyors-amerikai-palacsinta",
+        "h1": "Gyors amerikai palacsinta",
+        "txtlength": 10247
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/fish-and-chips-tartarral.recept",
+        "h1": "FISH AND CHIPS TARTÁRRAL",
+        "txtlength": 10176
+    },
+    {
+        "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/kinai-szezammagos-csirke",
+        "h1": "Kínai szezámmagos csirke",
+        "txtlength": 10162
+    },
+    {
+        "hostname": "kiszamolo.hu",
+        "pagelink": "https://kiszamolo.hu/nyolc-ora-munka-nyolc-ora-pihenes/",
+        "h1": "Nyolc óra munka, nyolc óra pihenés",
+        "txtlength": 47218
+    },
+    {
+        "hostname": "alapblog.hu",
+        "pagelink": "https://alapblog.hu/a-tiszavirag-eletu-szuperliga/",
+        "h1": "A TISZAVIRÁG ÉLETŰ SZUPERLIGA",
+        "txtlength": 9626
+    },
+    {
+        "hostname": "kulturpart.hu",
+        "pagelink": "https://kulturpart.blog.hu/2021/04/29/en_is_szeretem_magat_mari",
+        "h1": "ÉN IS SZERETEM MAGÁT, MARI",
+        "txtlength": 7418
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20210430/magyarorszagon-egy-kicsit-tulaggodjak-az-eurobevezetes-kerdeset-480890",
+        "h1": "Magyarországon egy kicsit túlaggódják az euróbevezetés kérdését",
+        "txtlength": 33070
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210429_120_eves_a_magyar_film_kael_csaba_a_mandinernek",
+        "h1": "Liszt Ferencet és Munkácsyt is filmre vinné Káel Csaba",
+        "txtlength": 26343
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vallalat/20210430/az-igazsagot-hiaba-keressuk-a-multik-magyar-dolgozoinak-fizetesenel/",
+        "h1": "Az igazságot hiába keressük a multik magyar dolgozóinak fizetésénél",
+        "txtlength": 26068
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2021/04/29/mqa-audiofil-mennyorszag-vagy-a-zeneipar-legujabb-pofatlan-atverese",
+        "h1": "MQA: AUDIOFIL MENNYORSZÁG, VAGY A ZENEIPAR LEGÚJABB POFÁTLAN ÁTVERÉSE?",
+        "txtlength": 24627
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210429_kende_agnes_tanulmany_romak_intezmenyes_rasszizmus",
+        "h1": "A CEU szociológusa a romák problémáiról: A fehér felsőbbrendűség értéke mindent áthat",
+        "txtlength": 24075
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20210430/igy-fog-kinezni-a-vilag-miutan-az-elektromos-autok-letaroltak-480900",
+        "h1": "Így fog kinézni a világ, miután az elektromos autók letarolták",
+        "txtlength": 22056
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/egeszseg/oncompass-medicine-szily-nora-femina-klub/",
+        "h1": "\"Szembe kell néznünk az ellenséggel, ki kell mondanunk, hogy rák\": az Oncompass vezetői a személyre szabott terápiákról",
+        "txtlength": 19086
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/adat/20210428/mit-tartogat-az-ujranyitas-a-magyar-gazdasag-szamara/",
+        "h1": "Mit tartogat az újranyitás a magyar gazdaság számára?",
+        "txtlength": 18568
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210429_blm_tuntetesek_gyilkossagok",
+        "h1": "Kevesebb rendőri erőszak, több gyilkosság: ez lenne a BLM-mozgalom mérlege?",
+        "txtlength": 18111
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/egeszseg/20210428/covid-teszt-arak-2021-ben-ennyiert-mutatjak-ki-a-maganlaborok-hatasos-volt-e-az-oltas-1114160",
+        "h1": "Covid-teszt árak 2021-ben: ennyiért mutatják ki a magánlaborok, hatásos volt-e az oltás",
+        "txtlength": 18094
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/gazdasag/20210426/ide-tedd-a-penzed-2021-ben-ha-nem-akarod-elbukni-minden-megtakaritasod-1114032",
+        "h1": "Ide tedd a pénzed 2021-ben, ha nem akarod elbukni minden megtakarításod",
+        "txtlength": 16886
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20210430/romania-ugrott-be-magyarorszag-helyere-ok-hasznalhatjak-fel-az-ide-szant-orosz-gazt-480990",
+        "h1": "Románia ugrott be Magyarország helyére, ők használhatják fel az ide szánt orosz gázt",
+        "txtlength": 15764
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/lajfhekk/sivatag-ejszaka-hideg/",
+        "h1": "Miért van hideg a sivatagban éjszaka?",
+        "txtlength": 9509
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2021/04/29/koronavirus-karanten-harmadik-hullam-online-portrek/",
+        "h1": "„Lassan már a Domestost is felforralom” – online portrék harmadik hullám idején",
+        "txtlength": 20733
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kulfold/2021/04/29/indiai-mutans-jarvany-vakcinak-gyartas/",
+        "h1": "India előre eladta külföldre a vakcináit, nagy baj lett belőle",
+        "txtlength": 14358
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/tamogatott-tartalom/2021/04/29/akar-10-kal-is-tobbe-kerulhet-ingatlant-venni-egy-ev-mulva",
+        "h1": "Akár 10%-kal is többe kerülhet ingatlant venni egy év múlva",
+        "txtlength": 13764
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/kkv/20210429_oltas_magancegek_oltopontok",
+        "h1": "A kormány fű alatt kiszervezi az oltási kampányt a magánszektorba is",
+        "txtlength": 13557
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/04/29/a-kreml-megfenyegette-csehorszagot-es-bulgariat",
+        "h1": "A Kreml megfenyegette Csehországot és Bulgáriát",
+        "txtlength": 13494
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/szorakozas/2021/04/30/talk-a-bot-chatbot-kaland-jatek-kockazat-az-orszagut-harcosa-ian-livingston-messenger-viber",
+        "h1": "Csetbot formájában támad fel a kilencvenes évek legendás Kaland-Játék-Kockázat sorozata",
+        "txtlength": 12442
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20210430_Orban_kossuth_radio",
+        "h1": "Orbán: Szombattól jön az újabb nyitás, aki akar, ma kaphat Pfizert",
+        "txtlength": 12143
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/pszichologiamagazin/20210429_Amikor_szerettunk_csak_ugy_eltunik_a_koronavirusjarvanyban",
+        "h1": "Amikor a szerettünk csak úgy eltűnik a koronavírus-járványban",
+        "txtlength": 12116
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/04/29/bulgaria-is-kiutasit-egy-orosz-diplomatat-fegyvergyarakban-tortent-robbantasok-miatt",
+        "h1": "Bulgária is kiutasít egy orosz diplomatát fegyvergyárakban történt robbantások miatt",
+        "txtlength": 10731
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/orban-viktor-kossuth-radio-bejelentes-4-millio-beoltott/dhqmclc",
+        "h1": "Orbán Viktor bejelentései: új szabályok lépnek életbe szombattól, az érettségi után oltják a 16-18 éveseket",
+        "txtlength": 10391
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/belfold/2021/04/30/orban-viktor-szerint-az-a-jo-az-alapitvanyosodasban-hogy-igy-nem-lesznek-internacionalista-globalista-emberek-az-egyetemek-elen",
+        "h1": "Orbán Viktor szerint az a jó az alapítványosodásban, hogy így nem lesznek „internacionalista-globalista” emberek az egyetemek élén",
+        "txtlength": 9555
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2021/04/30/kinai-vakcina-sinopharm-oltas-budapest/",
+        "h1": "Két budapesti kerület oltási adatai is azt mutatják, sokan nem kérik a kínai vakcinát",
+        "txtlength": 9508
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/operativ-torzs-bejelentes-aprilis-29/kd07den",
+        "h1": "Müller Cecília: kinyitjuk az idősotthonokat, de csakis védettségi igazolvánnyal",
+        "txtlength": 9319
+    },
+    {
         "hostname": "alapblog.hu",
         "pagelink": "https://alapblog.hu/tavmunka-mar-megint-egy-ujabb-osztalyharc/",
         "h1": "TÁVMUNKA: MÁR MEGINT EGY ÚJABB OSZTÁLYHARC?",
