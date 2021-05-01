@@ -1,5 +1,203 @@
 [
     {
+        "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/gyors-bolognai-spagetti",
+        "h1": "Gyors bolognai spagetti",
+        "txtlength": 11187
+    },
+    {
+        "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/szekelykaposzta-1",
+        "h1": "Székelykáposzta 1.",
+        "txtlength": 10172
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/tavaszi-focaccia.recept",
+        "h1": "TAVASZI FOCACCIA",
+        "txtlength": 9542
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/muffuleta-szendvics-olivabogyosalataval.recept",
+        "h1": "MUFFULETA SZENDVICS OLÍVABOGYÓSALÁTÁVAL",
+        "txtlength": 9431
+    },
+    {
+        "hostname": "hataratkelo.blog.hu",
+        "pagelink": "https://hataratkelo.blog.hu/2021/04/30/oltas_hataratkelokent_ket_szek_kozt_a_pad_ala#c40196138",
+        "h1": "Oltás határátkelőként: két szék közt a pad alá",
+        "txtlength": 33004
+    },
+    {
+        "hostname": "kulturpart.hu",
+        "pagelink": "https://kulturpart.hu/2021/04/28/beszel_majd_az_utokor_100_eve_szuletett_romhanyi_jozsef",
+        "h1": "BESZÉL MAJD AZ UTÓKOR – 100 ÉVE SZÜLETETT ROMHÁNYI JÓZSEF",
+        "txtlength": 5809
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20210430/rendkivuli-oltasi-nap-megvan-a-4-millio-beoltott-nyitnak-az-intezmenyek-a-fiatalok-is-sorra-kerulnek-481024",
+        "h1": "Rendkívüli oltási nap: megvan a 4 millió beoltott, nyitnak az intézmények, a fiatalok is sorra kerülnek ",
+        "txtlength": 27355
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://makronom.mandiner.hu/cikk/20210430_banovic_aleksandra_interju",
+        "h1": "A délszláv háború elől menekült, magyarul sem tudott, mégis a hazai üzleti élet csúcsára jutott",
+        "txtlength": 25221
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210501_berecz_stephanie_borasz_interju",
+        "h1": "„Magyarország Európa szíve” – Berecz Stéphanie tokaji francia borász a Mandinernek",
+        "txtlength": 23145
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20210501/nagyon-furcsa-dolgot-lathatunk-a-magyarorszagi-koronavirusos-halalozasoknal-481174",
+        "h1": "Nagyon furcsa dolgot láthatunk a magyarországi koronavírusos halálozásoknál",
+        "txtlength": 22883
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210430_vakcinaosszefoglalo",
+        "h1": "Elstartolt a tömeges oltás, nagy port kavar a védettségi igazolvány – vakcinaösszefoglaló",
+        "txtlength": 22488
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/oktatas/20210429/itt-mar-bevezettek-a-9-oras-iskolakezdest-ilyen-egy-meltanyos-oktatasi-rendszer-1114195",
+        "h1": "Itt már bevezették a 9 órás iskolakezdést: ilyen egy méltányos oktatási rendszer",
+        "txtlength": 21642
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/uzlet/20210430/lefordultak-a-tortenelmi-csucsrol-az-amerikai-tozsdek-481028",
+        "h1": "Lefordultak a történelmi csúcsról az amerikai tőzsdék ",
+        "txtlength": 19371
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/kozelet/20210430/felesleges-volt-oltasi-kaoszt-csinalni-kulfoldre-is-kuldunk-szazezer-pfizert/",
+        "h1": "Felesleges volt oltási káoszt csinálni, külföldre is küldünk százezer Pfizert",
+        "txtlength": 17866
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2021/05/01/oltakozunk-oltakozgatunk",
+        "h1": "OLTAKOZUNK, OLTAKOZGATUNK?",
+        "txtlength": 17098
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/adat/20210428/ket-harom-heten-belul-a-legvalogatosabbak-is-megkaphatjak-a-vakcinajukat/",
+        "h1": "Két-három héten belül a legválogatósabbak is megkaphatják a vakcinájukat",
+        "txtlength": 16645
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/testem/futas-fajtai-edzestipusok/",
+        "h1": "Iramváltó futás, intervallumedzés, emelkedőfutás – melyik mire jó?",
+        "txtlength": 16526
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/karrier/20210429/jol-gondold-meg-hova-mennel-dolgozni-itt-hal-meg-a-legtobb-ember-munkahelyi-balesetben-1114227",
+        "h1": "Jól gondold meg, hová mennél dolgozni: itt hal meg a legtöbb ember munkahelyi balesetben",
+        "txtlength": 13245
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/otthon/madarfioka-kertben/",
+        "h1": "Madárfióka a kertben: pontosan hogyan segíthetsz rajta, ha tényleg jót akarsz neki?",
+        "txtlength": 10876
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/lajfhekk/nyers-fott-tojas-fagyasztasa-tarolasa/",
+        "h1": "Nyers és keménytojás fogyasztása: ezt javasolja a szakember",
+        "txtlength": 7915
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kultura/2021/04/30/nyitas-koncertek-zeneipar-koronavirus-afacsokkentes-valsag/",
+        "h1": "Csaknem a teljes zeneipart kifelejtették a nyitásból",
+        "txtlength": 23602
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/tech/2021/04/30/tilesch-gyorgy-mesterseges-intelligencia-interju/",
+        "h1": "„Amíg Mari néni nem érzi a saját bőrén, hogy a mesterséges intelligencia jó dolog, el vagyunk veszve”",
+        "txtlength": 21092
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/04/30/mar-pfizerre-is-lehet-jelentkezni",
+        "h1": "Már Pfizerre is lehet jelentkezni",
+        "txtlength": 16032
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/szorakozas/2021/04/30/shadow-and-bone-arnyek-es-csont-netflix-kritika",
+        "h1": "A rajongók imádják, a laikusoknak viszont követni is nehéz a Netflix Magyarországon készült fantasysorozatát",
+        "txtlength": 15180
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2021/04/30/szalloda-etterem-konditerem-kalandpark-uszoda-nyitas-4millio-beoltott/",
+        "h1": "Hatalmas lutri a nyitás, de nincs más esély a túlélésre",
+        "txtlength": 14411
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kulfold/2021/04/30/emberrablas-franciaorszag-mia-ugy-osszeeskuves-elmelet",
+        "h1": "Egy fekete öves összeesküvéselmélet-hívő állhatott a francia kislány elrablása mögött",
+        "txtlength": 13675
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20210430_pfizer_tomeges_oltas_budapest",
+        "h1": "\"Reggel kerítettem valakit, aki vigyáz a gyerekekre\" – ezrek hajkurászták egész pénteken a Pfizert",
+        "txtlength": 13664
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/velemeny/2021/05/01/legyen-a-majus-1-majus-1-nap-a-visszaadas-unnepe",
+        "h1": "Legyen a május 1. a visszaadás napja: áldozzanak az üzleti szereplők civil kezdeményezésekre",
+        "txtlength": 12813
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/gazdasag/20210430_Igy_valik_szabadabba_az_elet_ha_minden_jol_megy_mar_szombattol",
+        "h1": "Így válik még szabadabbá az élet szombattól",
+        "txtlength": 12175
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/04/30/hetvegen-varhatoan-nyit-a-fovarosi-allatkert-hat-budapesti-gyogyfurdo-es-tobb-mozi",
+        "h1": "Hétvégén nyit a Fővárosi Állatkert, hat budapesti gyógyfürdő és több mozi",
+        "txtlength": 11663
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/karacsony-gergely-gemesi-gyorgy-orban-nyilt-level/1l2k5pq",
+        "h1": "Nyílt levelet írt Karácsony Gergely és Gémesi György Orbán Viktornak",
+        "txtlength": 11060
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/politika/karacsony-gergely-gemesi-gyorgy-orban-nyilt-level/4p9d06b",
+        "h1": "Nyílt levelet írt Karácsony Gergely és Gémesi György Orbán Viktornak",
+        "txtlength": 11003
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20210429_idosotthon_fertozottseg_budapest",
+        "h1": "Egy fővárosi tanulmány szerint 176 idősotthonban volt magasabb volt a halálozási arány, mint a Pesti úton",
+        "txtlength": 10276
+    },
+    {
         "hostname": "mindmegette.hu",
         "pagelink": "https://www.mindmegette.hu/sajttal-sonkaval-toltott-pulykamell.recept",
         "h1": "SAJTTAL-SONKÁVAL TÖLTÖTT PULYKAMELL",
