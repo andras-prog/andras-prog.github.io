@@ -1433,26 +1433,22 @@
         "topic": "konyv",
         "picarr": [
             {
-                "picture": "https://kisgomboc.files.wordpress.com/2021/01/blond-1866951_1920.jpg?w=723",
-                "timestamp": 1619348504267
-            },
-            {
                 "picture": "https://kisgomboc.files.wordpress.com/2021/01/golden-791072_1920.jpg?w=723",
-                "timestamp": 1618138848991
+                "timestamp": 1619953242064
             },
             {
                 "picture": "https://kisgomboc.files.wordpress.com/2021/01/girl-3528292_1920.jpg?w=723",
                 "timestamp": 1618743636693
+            },
+            {
+                "picture": "https://kisgomboc.files.wordpress.com/2021/01/blond-1866951_1920.jpg?w=723",
+                "timestamp": 1619348504267
             }
         ],
         "titlearr": [
             {
-                "title": "https://bookline.hu/product/home.action?_v=Paula_Hawkins_A_lany_a_vonaton&type=22&id=276830",
-                "timestamp": 1619348504267
-            },
-            {
                 "title": "https://bookline.hu/product/home.action?_v=Orvos_Toth_Noemi_Orokolt_sors&type=22&id=308513",
-                "timestamp": 1612125233529
+                "timestamp": 1619953242064
             },
             {
                 "title": "https://bookline.hu/product/home.action?_v=Edith_Eva_Eger_A_dontes&type=250&id=42489",
@@ -1497,6 +1493,10 @@
             {
                 "title": "https://bookline.hu/product/home.action?_v=B_A_Paris_Zart_ajtok_mogott&type=22&id=284920",
                 "timestamp": 1618743636693
+            },
+            {
+                "title": "https://bookline.hu/product/home.action?_v=Paula_Hawkins_A_lany_a_vonaton&type=22&id=276830",
+                "timestamp": 1619348504267
             }
         ],
         "leadarr": [
