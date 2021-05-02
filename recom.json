@@ -1,6 +1,204 @@
 [
     {
         "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/retro-gyumolcstorta",
+        "h1": "Retro gyümölcstorta",
+        "txtlength": 10148
+    },
+    {
+        "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/husveti-sargaturo",
+        "h1": "Húsvéti sárgatúró",
+        "txtlength": 9762
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/tepsis-krumpli-spenottal-es-sok-sok-sajttal.recept",
+        "h1": "DUPLASAJTOS SPENÓTOS TEPSIS KRUMPLI",
+        "txtlength": 9359
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/csirkes-fetas-baconos-tesztasalata.recept",
+        "h1": "CSIRKÉS-FETÁS TÉSZTASALÁTA",
+        "txtlength": 9354
+    },
+    {
+        "hostname": "hataratkelo.blog.hu",
+        "pagelink": "https://hataratkelo.blog.hu/2021/04/30/oltas_hataratkelokent_ket_szek_kozt_a_pad_ala#c40198600",
+        "h1": "Oltás határátkelőként: két szék közt a pad alá",
+        "txtlength": 44391
+    },
+    {
+        "hostname": "kulturpart.hu",
+        "pagelink": "https://kulturpart.blog.hu/2021/04/29/bujdosas_a_tanc_vilagnapjan",
+        "h1": "BUJDOSÁS A TÁNC VILÁGNAPJÁN",
+        "txtlength": 5051
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210428_nincs_meg_zsebben_a_valasztas",
+        "h1": "Nincs még zsebben a választás – Tarlós István a Mandinernek",
+        "txtlength": 33955
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210502_honfoglalas_lango_peter_regesz",
+        "h1": "Hol tart most a honfoglalás kutatása? – Langó Péter régész a Mandinernek",
+        "txtlength": 28050
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20210501/nyit-magyarorszag-kituzte-a-kormany-a-kovetkezo-celt-481230",
+        "h1": "Nyit Magyarország, kitűzte a kormány a következő célt ",
+        "txtlength": 25323
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.penzcentrum.hu/megtakaritas/20210502/milliokat-ero-belyegeket-is-rejthetnek-a-magyar-otthonok-barmelyik-hagyatekban-ott-lapulhat-egy-1114268",
+        "h1": "Milliókat érő bélyegeket is rejthetnek a magyar otthonok: bármelyik hagyatékban ott lapulhat egy?",
+        "txtlength": 23397
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vilag/20210501/az-oltaspiac-egy-valtofutas-de-a-start-es-a-cel-kozott-privatizaljak-a-valtobotot/",
+        "h1": "Az oltáspiac egy váltófutás, de a start és a cél között privatizálják a váltóbotot",
+        "txtlength": 21928
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210430_levelet_irt_karacsonynak_kiraktak_a_boltjabol",
+        "h1": "Levelet írt Karácsonynak, kirakták a boltjából",
+        "txtlength": 21561
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vilag/20210502/lehet-hogy-biden-tenyleg-lezar-egy-negyveneves-gazdasagpolitikai-korszakot/",
+        "h1": "Lehet, hogy Biden tényleg lezár egy negyvenéves gazdaságpolitikai korszakot",
+        "txtlength": 20417
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/global/20210501/amerika-kivonul-afganisztanbol-kozben-a-civilizacios-harc-ma-mar-europaban-is-dul-481154",
+        "h1": "Amerika kivonul Afganisztánból, közben a civilizációs harc ma már Európában is dúl",
+        "txtlength": 17919
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/szuloseg/harcias-anyak-kleopatra-maria-terezia/",
+        "h1": "Harcias anyák, akik beleszóltak a történelem menetébe",
+        "txtlength": 16380
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/karrier/20210430/rengeteg-magyar-dolgozo-erez-ilyen-tuneteket-vigyazz-lehet-nem-sima-faradtsagrol-van-szo-1114254",
+        "h1": "Rengeteg magyar dolgozó érez ilyen tüneteket: vigyázz, lehet, nem sima fáradtságról van szó",
+        "txtlength": 14638
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/gyerek/az-onallo-gyermek/",
+        "h1": "Minden szülő álma az önálló gyerek: ahhoz, hogy elérjük, magunkat kell megnevelni",
+        "txtlength": 14539
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/egeszseg/20210501/kuszobon-a-kullancsinvazio-iden-is-rengeteg-parazita-lesz-a-magyar-erdokben-1114273",
+        "h1": "Küszöbön a kullancsinvázió: idén is rengeteg parazita lesz a magyar erdőkben",
+        "txtlength": 14537
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2021/05/02/miben-all-a-tudas",
+        "h1": "MIBEN ÁLL A TUDÁS?",
+        "txtlength": 13505
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/testem/edzes-hatasa-az-agyra/",
+        "h1": "Ennyiféle pozitív hatással van az agyra a rendszeres edzés",
+        "txtlength": 11827
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/tudomany/2021/05/02/haboru-loveszarok-fegyverek/",
+        "h1": "Véres egyensúly uralta a harcteret",
+        "txtlength": 22900
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kultura/2021/05/02/schein-gabor-o-rinocerosz-politika-irodalom-nyelv-propaganda-europa-bevandorlas/",
+        "h1": "Schein Gábor: A kontrollvesztés nemcsak félelmetes, de felszabadító is",
+        "txtlength": 22564
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/sport/2021/05/02/rali-vilagbajnoksag-group-b-henri-toivonen-halala-aranykor",
+        "h1": "A tragédia, amibe a rali aranykora is belehalt",
+        "txtlength": 18988
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://rangado.24.hu/nemzetkozi_foci/2021/05/01/ac-milan-serie-a-visszaeses-bajnokok-ligaja/",
+        "h1": "Őket csodálta mindenki, most a BL-indulás is veszélyben – mi történt az AC Milannal?",
+        "txtlength": 17559
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/sztarvilag/filmklikk/harry-potter-nap-filmek-erdekessegek/mp5rk07",
+        "h1": "Öt érdekesség a Harry Potter filmekről, amik talán a legnagyobb rajongóknak sem tűntek fel",
+        "txtlength": 17445
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://eduline.hu/erettsegi_felveteli/20210502_internet_es_szamitogep_nelkul_erettsegi_elott",
+        "h1": "Nincs iskola, nincs internet, nincs pénz: a legszegényebb településeken keményen meg kell harcolni az érettségiért",
+        "txtlength": 14304
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/eszkombajn/2021/05/02/radioaktiv-hulladek-atomenergia-atompap-macska",
+        "h1": "Atompapsággal vagy sugármacskákkal figyelmeztessük a jövő nemzedékeit a radioaktív hulladékra?",
+        "txtlength": 13036
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/05/01/hetvegi-olvasnivalo-a-pfizeres-soroktol-a-az-energianyalab-aldozatokig",
+        "h1": "Hétvégi olvasnivaló a pfizeres soroktól a az energianyaláb-áldozatokig",
+        "txtlength": 13034
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/04/30/kormanyozni-legalabb-tudnak",
+        "h1": "Kormányozni legalább tudnak",
+        "txtlength": 12841
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/gazdasag/20210502_Es_akkor_oltas_jarvany_koltsegvetes_fertoto_",
+        "h1": "És akkor a kormány feltalálta a pfizeres Black Fridayt",
+        "txtlength": 12651
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/zhvg/20210502_nuklearis_hulladekok_elhelyezese_zhvg",
+        "h1": "Négyezer hordó radioaktív hulladékot utaztatnak át Magyarországon",
+        "txtlength": 9453
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/gazdasag/2021/05/01/meszaros-lorinc-varkonyi-andrea-szechenyihegyi-haza",
+        "h1": "Megtaláltuk Mészáros Lőrinc és Várkonyi Andrea leendő otthonát",
+        "txtlength": 8882
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/idojaras-elorejelzes-riasztas-eso-zivatar/x34ekc1",
+        "h1": "Itt a nyakunkon a hidegfront, rengeteg megyére adtak ki riasztást",
+        "txtlength": 8483
+    },
+    {
+        "hostname": "nosalty.hu",
         "pagelink": "https://www.nosalty.hu/recept/gyors-bolognai-spagetti",
         "h1": "Gyors bolognai spagetti",
         "txtlength": 11187
