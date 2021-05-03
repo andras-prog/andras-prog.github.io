@@ -1,6 +1,186 @@
 [
     {
         "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/hagyomanyos-lencsefozelek",
+        "h1": "Hagyományos lencsefőzelék",
+        "txtlength": 10510
+    },
+    {
+        "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/kelkaposzta-fozelek-regiesen",
+        "h1": "Kelkáposzta-főzelék régiesen",
+        "txtlength": 9993
+    },
+    {
+        "hostname": "hataratkelo.blog.hu",
+        "pagelink": "https://hataratkelo.blog.hu/2021/04/30/oltas_hataratkelokent_ket_szek_kozt_a_pad_ala",
+        "h1": "Oltás határátkelőként: két szék közt a pad alá",
+        "txtlength": 51706
+    },
+    {
+        "hostname": "kulturpart.hu",
+        "pagelink": "https://kulturpart.hu/2021/04/29/bujdosas_a_tanc_vilagnapjan",
+        "h1": "BUJDOSÁS A TÁNC VILÁGNAPJÁN",
+        "txtlength": 5047
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210428_ki_az_oltasellenes",
+        "h1": "Ki az oltásellenes? – Böröcz és Ujhelyi vitáztak",
+        "txtlength": 29599
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vallalat/20210503/nyitnak-a-magyar-szallashelyek-de-a-turizmus-egy-resze-csak-2025-re-terhet-magahoz/",
+        "h1": "Nyitnak a magyar szálláshelyek, de a turizmus egy része csak 2025-re térhet magához",
+        "txtlength": 27100
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/egeszseg/dr-sapi-erzsebet/",
+        "h1": "Az orvos, aki postán küldi vissza a hálapénzt: interjú dr. Sápi Erzsébet aneszteziológus-intenzív terápiás főorvossal",
+        "txtlength": 24458
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210503_dobrev_klara_dk_portre",
+        "h1": "„Én imádok Gyurcsány Ferenc felesége lenni” – Dobrev Klára portréja",
+        "txtlength": 24256
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/unios-forrasok/20210503/kiuresitik-a-tajat-az-europai-mezogazdasagi-tamogatasok-mit-lehet-tenni-481182",
+        "h1": "Kiüresítik a tájat az európai mezőgazdasági támogatások – Mit lehet tenni?",
+        "txtlength": 21077
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20210503/ugy-tunik-hogy-mindennek-elszall-az-ara-meddig-tarthat-meg-ez-az-orulet-481192",
+        "h1": "Úgy tűnik, hogy mindennek elszáll az ára – Meddig tarthat még ez az őrület?",
+        "txtlength": 20905
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210502_eladja_az_iskolaudvart_a_korabban_zolditessel_kampanyolo_baloldal",
+        "h1": "Eladja az iskolakertet a korábban zöldítéssel kampányoló baloldal",
+        "txtlength": 20257
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/karrier/20210430/ok-lesznek-a-munkaerohiany-igazi-nyertesei-kapkodnak-utanuk-a-legnagyobb-vallalatok-1114237",
+        "h1": "Ők lesznek a munkaerőhiány igazi nyertesei: kapkodnak utánuk a legnagyobb vállalatok",
+        "txtlength": 20119
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/podcast/20210501/a-felhasznalok-nyomasztasa-nem-eri-meg-a-cegeknek-akkor-miert-probalkoznak-vele-megis/",
+        "h1": "A felhasználók nyomasztása nem éri meg a cégeknek – akkor miért próbálkoznak vele mégis?",
+        "txtlength": 16892
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.penzcentrum.hu/egeszseg/20210503/nem-eleg-a-rettegett-betegseg-ez-var-a-magyar-dolgozora-ha-felgyogyult-a-rakbol-1114296",
+        "h1": "Nem elég a rettegett betegség: ez vár a magyar dolgozóra, ha felgyógyult a rákból",
+        "txtlength": 16323
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/egeszseg/20210503/nem-eleg-a-rettegett-betegseg-ez-var-a-magyar-dolgozora-ha-felgyogyult-a-rakbol-1114296",
+        "h1": "Nem elég a rettegett betegség: ez vár a magyar dolgozóra, ha felgyógyult a rákból",
+        "txtlength": 15886
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2021/04/30/duborog-az-oltasturizmus-jon-a-vakcinautlevel-de-mikor-utazhatunk-vegre",
+        "h1": "DÜBÖRÖG AZ OLTÁSTURIZMUS, JÖN A VAKCINAÚTLEVÉL, DE MIKOR UTAZHATUNK VÉGRE?",
+        "txtlength": 12908
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/lajfhekk/alokazia-ordoglevel-gondozasa/",
+        "h1": "Mérgező, kényes, de nagyon szép: így tartsd életben az alokáziát a szakértő szerint",
+        "txtlength": 7191
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/sport/2021/05/02/vadocz-krisztian-uruguay-osasuna-forlan-trezeguet",
+        "h1": "Százezer Real-drukker hallgatott el, amikor gólt rúgott Iker Casillasnak",
+        "txtlength": 18031
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20210503_Hans_Kluge_WHO_interju",
+        "h1": "A WHO európai vezetője: A tömegesemények egyelőre nagy kockázatot jelenthetnek",
+        "txtlength": 15534
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/belfold/2021/05/03/diakokat-kerdeztunk-a-kezdodo-erettsegirol",
+        "h1": "Nagyon örülünk, hogy nem lesz szóbeli, azzal a gyengébb sulikban szokták felhúzni a számokat",
+        "txtlength": 14309
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/tudomany/2021/05/03/oszama-bin-laden-terrorizmus-ak-47/",
+        "h1": "Oszama keze ügyében mindig volt egy AK-47-es",
+        "txtlength": 14110
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/english/2021/05/03/how-to-get-top-marks-from-a-hungarian-professor-spout-conspiracy-theories-about-george-soros",
+        "h1": "How to get top marks from a Hungarian professor: spout conspiracy theories about George Soros",
+        "txtlength": 11667
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/tech/2021/05/03/powerline-adapter-konnektor-internet-teszt-mercusys-mp500-kit/",
+        "h1": "Tudta, hogy a konnektoron keresztül is lehet internete?",
+        "txtlength": 11632
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/05/02/nem-vagyok-megbizhato-informacioforras-egy-barom-vagyok-aki-altalaban-reszeg-es-sokat-sziv-emlekeztette-kozonseget-a-vilag-legnepszerubb-podcast-hazigazdaja",
+        "h1": "Nem vagyok megbízható információforrás, egy barom vagyok, aki általában részeg és sokat szív - emlékeztette közönségét a világ legnépszerűbb podcast-házigazdája",
+        "txtlength": 11579
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/05/02/a-halalozasok-szama-is-csokkeni-kezdett-de-meg-mindig-a-masodik-hullam-csucsnak-a-szintjen-van",
+        "h1": "A halálozások száma is csökkeni kezdett, de még mindig a második hullám csúcsnak a szintjén van",
+        "txtlength": 11361
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2021/05/03/antal-kadosa-provital-nav-olaf-homolya-robert/",
+        "h1": "OLAF-vizsgálat és házkutatás után hirtelen vége lett a vizsgálatnak a kétszer kifizetett tanácsadó cégnél",
+        "txtlength": 9721
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20210503_Az_ATV_bojkottjara_szolit_fel_Tamas_Gaspar_Miklos",
+        "h1": "Az ATV bojkottjára szólít fel Tamás Gáspár Miklós",
+        "txtlength": 8887
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/tudomany/20210503_mars_helikopter_ingenuity_marsi_repules",
+        "h1": "Sikerült az újabb repülés a Marson, két rekordot is megdöntött az Ingenuity",
+        "txtlength": 8554
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/penz/hitelmoratorium-megszuntetese/rep0gcd",
+        "h1": "Fontos: akár minden ötödik család bajba kerülhet a hitelmoratórium megszüntetése után",
+        "txtlength": 8019
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/krimi/quad-halalos-gazolas-reszeg-sofor-zalakoppany/v304yk2",
+        "h1": "Tragédia Zalakoppányon: háza előtt öklelte fel egy quad Marika nénit, szinte minden csontja összetört",
+        "txtlength": 7925
+    },
+    {
+        "hostname": "nosalty.hu",
         "pagelink": "https://www.nosalty.hu/recept/retro-gyumolcstorta",
         "h1": "Retro gyümölcstorta",
         "txtlength": 10148
