@@ -1,6 +1,204 @@
 [
     {
         "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/kinai-omlos-szezammagos-csirke-zoldseges-piritott-tesztaval",
+        "h1": "Kínai omlós szezámmagos csirke, zöldséges pirított tésztával",
+        "txtlength": 12255
+    },
+    {
+        "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/egyszeru-paradicsomleves-betutesztaval",
+        "h1": "Egyszerű paradicsomleves betűtésztával",
+        "txtlength": 10065
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/hagyomanyos-tejes-kifli-szabi-a-pek-receptje-alapjan.recept",
+        "h1": "HAGYOMÁNYOS TEJES KIFLI",
+        "txtlength": 9124
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/eperlekvaros-gozgomboc.recept",
+        "h1": "EPERLEKVÁROS GŐZGOMBÓC",
+        "txtlength": 8743
+    },
+    {
+        "hostname": "kiszamolo.hu",
+        "pagelink": "https://kiszamolo.hu/ennyit-koltesz-az-autodra-valojaban/",
+        "h1": "Ennyit költesz az autódra valójában",
+        "txtlength": 46132
+    },
+    {
+        "hostname": "kulturpart.hu",
+        "pagelink": "https://kulturpart.blog.hu/2021/05/04/hosok_a_vagoszobaban_is_szulethetnenek",
+        "h1": "HŐSÖK A VÁGÓSZOBÁBAN IS SZÜLETHETNÉNEK",
+        "txtlength": 11485
+    },
+    {
+        "hostname": "alapblog.hu",
+        "pagelink": "https://alapblog.hu/a-fak-nem-nonek-az-egig/",
+        "h1": "A FÁK NEM NŐNEK AZ ÉGIG",
+        "txtlength": 9476
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210429_kozelitenek_a_koncepcios_ellenzeki_elovalasztasok",
+        "h1": "Hitegetés, színjáték és show – avagy koncepciós ellenzéki előválasztások ",
+        "txtlength": 29256
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/penz/20210504/a-magyar-termofold-hozama-siman-veri-az-amerikai-reszvenypiacet/",
+        "h1": "A magyar termőföld hozama simán veri az amerikai részvénypiacét",
+        "txtlength": 25106
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/adat/20210504/egyaltalan-nem-mindegy-melyik-megyeben-kapod-el-a-koronavirust/",
+        "h1": "Egyáltalán nem mindegy, melyik megyében kapod el a koronavírust",
+        "txtlength": 19672
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210428_a_zoldek_hosszu_menetelese_a_hatalomba",
+        "h1": "Antipártból befutó – a Zöldek lehetnek az idei év nyertesei Németországban",
+        "txtlength": 19617
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210504_fajzer#comments",
+        "h1": "Csak a Fájzer!",
+        "txtlength": 19355
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/uzlet/20210504/rakapcsolt-a-versenyhivatal-ezekre-a-cegekre-jobban-figyelhetnek-majd-a-kovetkezo-honapokban-481132",
+        "h1": "Rákapcsolt a versenyhivatal: ezekre a cégekre jobban figyelhetnek majd a következő hónapokban",
+        "txtlength": 19077
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2021/05/04/eddig-tobb-mint-27-ezren-haltak-meg-magyarorszagon-a-reszigazsagok-es-felinformaciok-jarvanyaban",
+        "h1": "EDDIG TÖBB MINT 27 EZREN HALTAK MEG MAGYARORSZÁGON A RÉSZIGAZSÁGOK ÉS FÉLINFORMÁCIÓK JÁRVÁNYÁBAN",
+        "txtlength": 18785
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20210504/viharos-vizeken-a-reflacios-kockazatok-emelkedese-nem-okozott-turbulenciat-a-magyar-allampapirpiacon-481064",
+        "h1": "Viharos vizeken – a reflációs kockázatok emelkedése nem okozott turbulenciát a magyar állampapírpiacon",
+        "txtlength": 18213
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/uzlet/20210503/egyenesen-undoritonak-nevezte-a-bitcoint-warren-buffett-befektetotarsa-481432",
+        "h1": "Egyenesen undorítónak nevezte a bitcoint Warren Buffett befektetőtársa",
+        "txtlength": 17567
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/oktatas/20210504/aggaszto-tanarhiannyal-vagnak-bele-a-nyitasba-az-iskolak-most-mar-igy-huzzak-ki-ev-vegeig-1114337",
+        "h1": "Aggasztó tanárhiánnyal vágnak bele a nyitásba az iskolák: most már így húzzák ki év végéig?",
+        "txtlength": 16174
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/egeszseg/20210502/egyre-kesobb-vallalnak-gyermeket-a-magyar-nok-sokszor-mar-az-egeszseguk-a-tet-1114261",
+        "h1": "Egyre később vállalnak gyermeket a magyar nők: sokszor már az egészségük a tét",
+        "txtlength": 14477
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/utazas/kulfoldi-turizmus-utazasi-feltetelei/",
+        "h1": "Kiderült, ki utazhat nyáron Horvátországba vagy Olaszországba: íme, a feltételek országonként",
+        "txtlength": 12743
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/szuloseg/dobalas-rohangalas-maszas-fejlodesi-semak/",
+        "h1": "Dobál, borogat és mindenhova felmászik a gyerek? Csak a fejlődési sémáit gyakorolja, segíts neki!",
+        "txtlength": 11884
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/kkv/20210503_kulcs_soft_generaciovaltas_cegportre",
+        "h1": "\"Egy egoista ember nem való vállalkozónak\"",
+        "txtlength": 20494
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kulfold/2021/05/03/eszak-korea-kim-dzsongun-kiberbunozes-bankok-lopas-bankautomata-banglades-chile-japan/",
+        "h1": "Úgy lopja a pénzünket Észak-Korea, hogy észre sem vesszük",
+        "txtlength": 17680
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/kultura/20210503_A_fesztivalok_nem_akarjak_elengedni_ezt_a_nyarat_is_keszulnek_a_nyitasra",
+        "h1": "A fesztiválok nem akarják elengedni ezt a nyarat is, készülnek a nyitásra",
+        "txtlength": 16807
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/gazdasag/20210504_sport_tamogatas_stadionok_sportcsarnok_koltsegvetes",
+        "h1": "Az utolsó fillérig megnéztük, mire mennek a kormány sportra költött milliárdjai",
+        "txtlength": 14406
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/krimi/exnyomozo-donaszi-aladar-bene-laszlo/3gjvt9w",
+        "h1": "Egy magyar exnyomozó vallomásai: Donászi előre megmondta, hogy öngyilkos lesz",
+        "txtlength": 14327
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/koronavirus/2021/05/03/kariko-katalin-interju",
+        "h1": "Karikó Katalin: Most hirtelen mindenki járványszakértő lett, de én nem vagyok az",
+        "txtlength": 13011
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2021/05/04/ujbuda-saroktelek-ellenzeki-egyuttmukodes/",
+        "h1": "Egy saroktelek miatt recseg-ropog az ellenzéki együttműködés Újbudán",
+        "txtlength": 12797
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/05/03/vakcinaaradat-es-megnyilo-hatarok",
+        "h1": "Vakcinaáradat és megnyíló határok",
+        "txtlength": 11384
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/05/03/kariko-raneztem-erre-a-tablazatra-es-mondom-mi-ez",
+        "h1": "Karikó: Ránéztem erre a táblázatra, és mondom, mi ez?",
+        "txtlength": 11280
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/sport/2021/05/03/hosszu-tornadressz-noi-torna-europa-bajnoksag-sarah-voss-szexualis-felhang",
+        "h1": "Szexista felhangokat tüntethet el a női tornászok kezeslábasa",
+        "txtlength": 11054
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2021/05/03/erettsegi-szobeli-magyar-video/",
+        "h1": "„Sokkal könnyebb így, hogy nincsen szóbeli”",
+        "txtlength": 10440
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/veszpremi-etterem-talcak-szine/k8wqdz0",
+        "h1": "Megkezdődött az étteremrasszizmus: a tálcák színe miatt estek neki egy veszprémi étteremnek, ez már a vég – Vélemény",
+        "txtlength": 9823
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/koronavirus/2021/05/04/who-shinopharm-kinai-vakcina",
+        "h1": "A WHO szerint nincs bizonyíték rá, hogy a Sinopharm jó az időseknek",
+        "txtlength": 8288
+    },
+    {
+        "hostname": "nosalty.hu",
         "pagelink": "https://www.nosalty.hu/recept/hagyomanyos-lencsefozelek",
         "h1": "Hagyományos lencsefőzelék",
         "txtlength": 10510
