@@ -1,5 +1,203 @@
 [
     {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/epertorta-csokis-piskotaval.recept",
+        "h1": "EPERTORTA CSOKIS PISKÓTÁVAL",
+        "txtlength": 10794
+    },
+    {
+        "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/eredeti-gorog-salata",
+        "h1": "Eredeti görög saláta",
+        "txtlength": 10597
+    },
+    {
+        "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/10-perces-tojasleves",
+        "h1": "10 perces tojásleves",
+        "txtlength": 10128
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/tarkonyos-csirkeraguleves-hagyomanyosan.recept",
+        "h1": "TÁRKONYOS CSIRKERAGULEVES",
+        "txtlength": 9641
+    },
+    {
+        "hostname": "kiszamolo.hu",
+        "pagelink": "https://kiszamolo.hu/gyogyszerek-arazasa/#more-115495",
+        "h1": "Gyógyszerek árazása",
+        "txtlength": 39126
+    },
+    {
+        "hostname": "efesasanisimasa.com",
+        "pagelink": "https://efesasanisimasa.com/2021/04/21/kis-fejsze-small-axe-anthology-2020/",
+        "h1": "Kis fejsze (Small Axe – Anthology, 2020)",
+        "txtlength": 14459
+    },
+    {
+        "hostname": "alapblog.hu",
+        "pagelink": "https://alapblog.hu/durran-a-spac-buborek-de-buborek-ez-egyaltalan/",
+        "h1": "DURRAN A SPAC BUBORÉK?- DE BUBORÉK EZ EGYÁLTALÁN?",
+        "txtlength": 12239
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210505_katona_csaszar_szamuzott_ketszaz_eve_halt_meg_napoleon",
+        "h1": "Katona, császár, száműzött: kétszáz éve halt meg Napóleon",
+        "txtlength": 31265
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210505_farkas_laszlo_roma_cigany_tarsadalom_oltas",
+        "h1": "Az életükért kampányolnak a romák – önkormányzati vezető a Mandinernek az oltásokról",
+        "txtlength": 21544
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/kapcsolat/sztojka-edina-interju/",
+        "h1": "Sztojka Edina: „Azt mondták, nehogy már egy cigány szerezzen diplomát\" - Szily Nóra interjúja",
+        "txtlength": 19502
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210428_elovalasztas_budapest_hat_valasztokerulet",
+        "h1": "Fővárosi előválasztás: szimbolikus csörték Kálmán Olgával, Jámbor Andrással és másokkal",
+        "txtlength": 18930
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20210506/bod-peter-akos-mit-uzen-a-magyar-konvergenciaprogram-481768",
+        "h1": "Bod Péter Ákos: mit üzen a magyar konvergenciaprogram?",
+        "txtlength": 18137
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/kozelet/20210503/a-furdok-olyan-aranytojast-tojo-tyukok-hogy-a-jarvany-miatt-sem-kellett-nagyon-leepiteniuk/",
+        "h1": "A fürdők olyan aranytojást tojó tyúkok, hogy a járvány miatt sem kellett nagyon leépíteniük",
+        "txtlength": 18061
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/kozelet/20210504/mnb-s-es-princetonos-multtal-erkezett-a-corvinus-egyetlen-rektorjeloltje/",
+        "h1": "MNB-s és princetonos múlttal érkezett a Corvinus egyetlen rektorjelöltje",
+        "txtlength": 17538
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/egeszseg/20210502/gluten-orulet-tomegek-vesznek-feleslegesen-draga-elelmiszereket-az-egeszseguk-is-ramehet-1114259",
+        "h1": "Glutén-őrület: tömegek vesznek feleslegesen drága élelmiszereket, az egészségük is rámehet",
+        "txtlength": 17197
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2021/05/06/a-koronavirus-aldozatainak-nagy-tobbsege-eveket-vagy-evtizedeket-veszitett-az-eletebol",
+        "h1": "A KORONAVÍRUS ÁLDOZATAINAK NAGY TÖBBSÉGE ÉVEKET VAGY ÉVTIZEDEKET VESZÍTETT AZ ÉLETÉBŐL",
+        "txtlength": 16288
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/egeszseg/20210504/valtozas-a-covid-oltasoknal-fontos-sms-t-kap-200-ezer-magyar-1114355",
+        "h1": "Változás a COVID-oltásoknál: fontos SMS-t kap 200 ezer magyar",
+        "txtlength": 15379
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/global/20210506/mindenki-ketsegbeesetten-kongatja-a-veszharangot-a-globalis-chiphiany-hatalmas-karokat-okozhat-az-autoiparban-481864",
+        "h1": "Mindenki kétségbeesetten kongatja a vészharangot: a globális chiphiány hatalmas károkat okozhat az autóiparban",
+        "txtlength": 15062
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20210506/ezek-a-projektek-amelyek-alatamasztjak-a-magyar-gdp-novekedest-481428",
+        "h1": "Ezek a projektek, amelyek alátámasztják a magyar GDP-növekedést",
+        "txtlength": 15050
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/lajfhekk/csokis-gabonapehely-teszt-2021/",
+        "h1": "Csokis gabonapelyhek tesztje: lesújtó eredményt hozott a szakértői vizsgálat",
+        "txtlength": 11262
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/gazdasag/2021/05/06/hernadi-zsolt-a-mol-nem-politizal-csak-az-allammal-egyutt-epitkezik",
+        "h1": "Hernádi Zsolt: A Mol nem politizál, csak az állammal együtt építkezik",
+        "txtlength": 29473
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2021/05/06/batthyany-vak-iskola-feher-anna-nover-koszisz-erdo-peter/",
+        "h1": "Mi lesz a sérült vak gyerekekkel, akiknek Orbán minden húsvétra küld egy bárányt?",
+        "txtlength": 28628
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2021/05/05/covid-kisfalvak-politika-oltasellenesseg-baloldal-orban-migracio-riport/",
+        "h1": "„Észre se vettem ezt az oltásellenes szöveget, de most, hogy mondta, tényleg hallottam, hogy a baloldal miatt halnak meg az emberek”",
+        "txtlength": 16427
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/05/06/orban-viktor-gondolatai-lassulo-oltasi-programmal",
+        "h1": "Orbán Viktor gondolatai, lassuló oltási programmal",
+        "txtlength": 16243
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20210506_oltas_kampany_regisztracio_kormany",
+        "h1": "Május 23-a előtt nehezen lesz bármilyen lakodalom, több hetes csúszásban van a kormány",
+        "txtlength": 14645
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://rangado.24.hu/nemzetkozi_foci/2021/05/05/bajnokok-ligaja-elodonto-chelsea-real-madrid/",
+        "h1": "Angol házidöntőt rendeznek idén a Bajnokok Ligájában",
+        "txtlength": 14561
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/05/05/lassulo-oltasok-itthon-vakcinahaboru-a-vilagban",
+        "h1": "Lassuló oltások itthon, vakcinaháború a világban",
+        "txtlength": 12690
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/koronavirus/2021/05/05/szentendre-fidesz-oltas-kampany-kisfilm",
+        "h1": "Szentendrén a Fidesz inkább kimaradt az oltáskampányból, csak ne kelljen az ellenzékkel szerepelnie",
+        "txtlength": 12174
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20210505_orban_viktor_liberalizmus_demokracia_szlovak_lapinterju",
+        "h1": "Orbán: „Én harcolok a liberálisokkal szemben a szabadságért”",
+        "txtlength": 12167
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kulfold/2021/05/05/bill-gates-melinda-gates-valas-vagyon-megallapodas",
+        "h1": "Lesz mit szétosztani Bill és Melinda Gates válásában, de egyelőre nem tudni, hogy pontosan hogyan",
+        "txtlength": 11863
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/tudomany/20210506_pfizer_biontech_oltas_vakcina_mutacio",
+        "h1": "Újabb vizsgálatok szerint a Pfizer vakcinája a mutációk ellen is jól működik",
+        "txtlength": 9981
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/politika/kormanyinfo-gulyas-gergely-jarvany-dontesek-ujranyitas/020v3pt",
+        "h1": "Kormányinfó - Gulyás Gergely bejelentette: augusztusig védettségi igazolvány nélkül se fesztiválra, se koncertre nem mehetünk",
+        "txtlength": 9459
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/jakab-peter-osvath-zsolt-1-kanapen/nmfqd97",
+        "h1": "1kanapén értekezett Ostváth Zsolt és Jakab Péter: ezt mondja a melegek örökbefogadásáról a Jobbik miniszterelnök-jelöltje – videó",
+        "txtlength": 8895
+    },
+    {
         "hostname": "nosalty.hu",
         "pagelink": "https://www.nosalty.hu/recept/kinai-omlos-szezammagos-csirke-zoldseges-piritott-tesztaval",
         "h1": "Kínai omlós szezámmagos csirke, zöldséges pirított tésztával",
