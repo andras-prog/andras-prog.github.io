@@ -1,5 +1,203 @@
 [
     {
+        "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/habkonnyu-turogomboc",
+        "h1": "Habkönnyű túrógombóc",
+        "txtlength": 10436
+    },
+    {
+        "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/zsenge-borsofozelek",
+        "h1": "Zsenge borsófőzelék",
+        "txtlength": 9958
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/roppanos-csokis-almas-kremes.recept",
+        "h1": "ROPPANÓS CSOKIS ALMÁS KRÉMES",
+        "txtlength": 9293
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/zoldborsos-tokany-csirkemellbol.recept",
+        "h1": "ZÖLDBORSÓS TOKÁNY CSIRKEMELLBŐL",
+        "txtlength": 9238
+    },
+    {
+        "hostname": "kiszamolo.hu",
+        "pagelink": "https://kiszamolo.hu/mennyi-az-orabered/#more-115522",
+        "h1": "Mennyi az órabéred",
+        "txtlength": 41448
+    },
+    {
+        "hostname": "alapblog.hu",
+        "pagelink": "https://alapblog.hu/dollar-bitcoin-politika-a-nagy-atveres/",
+        "h1": "DOLLÁR, BITCOIN, POLITIKA – A NAGY ÁTVERÉS",
+        "txtlength": 11271
+    },
+    {
+        "hostname": "kulturpart.hu",
+        "pagelink": "https://kulturpart.blog.hu/2021/05/04/hallgasd_meg_a_legszebb_gitarra_irott_zenemuvet_eloben",
+        "h1": "HALLGASD MEG A LEGSZEBB GITÁRRA ÍROTT ZENEMŰVET ÉLŐBEN!",
+        "txtlength": 4987
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210505_fesztival",
+        "h1": "Elmarad a Sziget, a B my Lake és a STRAND még versenyben – Lobenwein Norbert fesztiválszervező a Mandinernek",
+        "txtlength": 30136
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vilag/20210505/szijjarto-peter-baratja-ki-van-tiltva-az-usa-bol-hirhedt-korruptsaga-miatt-de-az-unios-szankcioktol-megmenthetjuk/",
+        "h1": "Szijjártó Péter barátja ki van tiltva az USA-ból “hírhedt korruptsága” miatt, de az uniós szankcióktól megmenthetjük",
+        "txtlength": 21786
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vallalat/20210507/a-magyar-ceg-amely-kiszivja-a-hot-a-foldbol/",
+        "h1": "A magyar cég, amely kiszívja a hőt a Földből",
+        "txtlength": 21147
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210505_visszautasithato_ajanlat",
+        "h1": "„A posztkommunisták zsigerileg képtelenek igazat mondani” – Deutsch Tamás a Mandinernek",
+        "txtlength": 21129
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/uzlet/20210507/felebredt-almabol-a-szunnyado-oroszlan-verte-az-elemzoi-varakozasokat-a-mol-482048",
+        "h1": "Felébredt álmából a szunnyadó oroszlán, verte az elemzői várakozásokat a Mol",
+        "txtlength": 21115
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/vasarlas/20210504/itt-a-nagy-csokis-gabonapehely-teszt-kiderult-az-aldi-auchan-spar-tesco-termekei-kozul-melyik-a-legjobb-1114322",
+        "h1": "Itt a Nagy Csokis Gabonapehely Teszt: kiderült, az Aldi, Auchan, SPAR, Tesco termékei közül melyik a legjobb",
+        "txtlength": 19803
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210505_iskolanyitas_erettsegi_riogatas",
+        "h1": "Iskolanyitás: alaptalan volt a riogatás, rendben zajlik az érettségi is",
+        "txtlength": 18939
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/premium/20210507/jonnek-a-portfolio-nyari-konferenciai-teraszon-indulhat-a-szezon-480366",
+        "h1": "Jönnek a Portfolio nyári konferenciái: teraszon indulhat a szezon (x)",
+        "txtlength": 18767
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/hitel/20210507/rastartoltak-a-magyar-fiatalok-az-ajandekmilliokra-ha-nem-sietnek-kifutnak-az-idobol-1114412",
+        "h1": "Rástartoltak a magyar fiatalok az ajándékmilliókra: ha nem sietnek, kifutnak az időből",
+        "txtlength": 18749
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/uzlet/20210507/valamire-keszul-az-orban-kormany-nagy-nemzeti-biztosito-a-lathataron-482056",
+        "h1": "Valamire készül az Orbán-kormány: nagy nemzeti biztosító a láthatáron?",
+        "txtlength": 17101
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/gyerek/ezert-maganyosak-a-gyerekek/",
+        "h1": "A kütyüzés egy tünet: az igazi probléma, hogy a gyerekeink nem tudnak egymással lenni",
+        "txtlength": 15505
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2021/05/07/a-gazdag-orszagok-vakcinahalmozasa-miatt-evekig-elhuzodhat-a-vilagjarvany",
+        "h1": "A GAZDAG ORSZÁGOK VAKCINAHALMOZÁSA MIATT ÉVEKIG ELHÚZÓDHAT A VILÁGJÁRVÁNY",
+        "txtlength": 14197
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/lajfhekk/milyen-surun-kell-parnat-mosni/",
+        "h1": "Ilyen gyakran kellene mosnod a párnáidat a szakértők szerint",
+        "txtlength": 8125
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/gazdasag/2021/05/07/keleti-nyitas-szijjarto-orban-kina-gazdasag-vilaggazdasag-befektetes-kifektetes-agyrem",
+        "h1": "Magyarország sikere, hogy semmi nem változott",
+        "txtlength": 22651
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20210506_kormanyinfo_gulyas_gergely_orbankormany_tajekoztato_politika_kormany",
+        "h1": "Gulyás: Augusztusig biztos kell a védettségi igazolvány a rendezvényekhez, újra elérhető lesz a Pfizer",
+        "txtlength": 15981
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/kultura/20210506_George_Clooney_60",
+        "h1": "George Clooney 60 éves lett, és még mindig beragyogja a világot",
+        "txtlength": 15127
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kulfold/2021/05/06/bill-gates-melinda-gates-valas-alapitvany-nonprofit-adakozas-filantropia/",
+        "h1": "Komoly hatása lehet az egész világra, hogy válik az egyik leggazdagabb pár",
+        "txtlength": 15063
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/05/07/az-eu-ellenallasan-bukhat-el-a-vakcinak-szabadalmanak-a-feloldasa",
+        "h1": "Az EU ellenállásán bukhat el a vakcinák szabadalmának a feloldása",
+        "txtlength": 15029
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kulfold/2021/05/06/skocia-skot-valasztas-snp-konzervativok-munkaspart-nepszavazas-referendum-fuggetlensegi-sturgeon-johnson-salmond",
+        "h1": "Újabb lökést kaphatnak a skót függetlenségi törekvések",
+        "txtlength": 14650
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/tudomany/20210506_masodik_oltas_koronavirus",
+        "h1": "Többszörösen megjárhatják azok, akik elbliccelik a második oltásukat",
+        "txtlength": 13905
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/belfold/2021/05/07/apolok-ber-egeszsegugy",
+        "h1": "Kidolgozom a belem, a fizetés meg kevesebb? Ezt már nem!",
+        "txtlength": 13046
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/05/06/rossz-hirek-szigetekrol",
+        "h1": "Rossz hírek szigetekről",
+        "txtlength": 12158
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kultura/2021/05/06/gordon-mcculloch-verseskotet-listavezeto-kolteszet/",
+        "h1": "Örömet akart szerezni a nagyapjának, világszerte népszerű költővé tette",
+        "txtlength": 10720
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/tudomany/2021/05/06/indiai-mutans-koronavirus/",
+        "h1": "Mennyire kell félnünk az indiai mutánstól?",
+        "txtlength": 10351
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/politika/tordai-bence-penzbirsag-kover-laszlo-csaladi-hitel/1cd51r8",
+        "h1": "Minimálbérre zsugorodik hónapokig a rekordbüntetéssel sújtott politikus fizetése: családi hitelekből tengődik Tordai Bence",
+        "txtlength": 8855
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/decs-katyutenger-uj-ut-fel-ev-alatt-tonkrement-tolna-megye-140-millio/kxp537g",
+        "h1": "Fél éve adták át, mégis olyan, mintha 100 éve hozzá sem nyúltak volna: 140 millió forintból készült a Tolna megyei kátyútenger",
+        "txtlength": 8592
+    },
+    {
         "hostname": "mindmegette.hu",
         "pagelink": "https://www.mindmegette.hu/epertorta-csokis-piskotaval.recept",
         "h1": "EPERTORTA CSOKIS PISKÓTÁVAL",
