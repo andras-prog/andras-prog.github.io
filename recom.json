@@ -1,6 +1,204 @@
 [
     {
         "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/soskafozelek-tejjel",
+        "h1": "Sóskafőzelék tejjel",
+        "txtlength": 10296
+    },
+    {
+        "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/legegyszerubb-muffin",
+        "h1": "A legegyszerűbb muffin",
+        "txtlength": 10056
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/malnas-poharkrem-chardonnay-val.recept",
+        "h1": "MÁLNÁS POHÁRKRÉM CHARDONNAY-VAL",
+        "txtlength": 9976
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/sajtkremes-oriascsiga.recept",
+        "h1": "SAJTKRÉMES ÓRIÁSCSIGA",
+        "txtlength": 9339
+    },
+    {
+        "hostname": "kiszamolo.hu",
+        "pagelink": "https://kiszamolo.hu/kulfoldi-csomag-mennyi-a-vammentesseg-hatara/",
+        "h1": "Külföldi csomag: mennyi a vámmentesség határa?",
+        "txtlength": 38353
+    },
+    {
+        "hostname": "efesasanisimasa.com",
+        "pagelink": "https://efesasanisimasa.com/2021/02/17/a-korona-1-4-evad-the-crown-tv-series-2016/",
+        "h1": "A Korona – 1-4. évad (The Crown, TV-Series, 2016-)",
+        "txtlength": 10183
+    },
+    {
+        "hostname": "alapblog.hu",
+        "pagelink": "https://alapblog.hu/magyar-podcastok-ajanlo-es-legjobb-angol-pdcast/",
+        "h1": "LEGJOBB KÜLFÖLDI ÉS MAGYAR PODCASTOK",
+        "txtlength": 8542
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2021/05/07/a-pszichedelikus-szerek-reneszansza-a-gyogyitasban",
+        "h1": "A PSZICHEDELIKUS SZEREK RENESZÁNSZA A GYÓGYÍTÁSBAN",
+        "txtlength": 33471
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/global/20210508/egy-szuperhatalom-felelmetes-arca-erofitogtatasok-latvanyos-katonai-akciok-konyortelen-buntetesek-482188",
+        "h1": "Egy szuperhatalom félelmetes arca: erőfitogtatások, látványos katonai akciók, könyörtelen büntetések",
+        "txtlength": 22323
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210507_vakcinaof12",
+        "h1": "Világbajnokok lettünk oltásban, aranyat ér a védettségi igazolás – vakcinaösszefoglaló",
+        "txtlength": 21770
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210507_economist_karacsony_vethet_veget_orban_hatalmanak",
+        "h1": "Karácsony az Economistnak: Orbán alacsony és kövér, én magas és vékony vagyok",
+        "txtlength": 21335
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/kozelet/20210507/eszre-sem-vesszuk-hogy-egy-komoly-arviz-akkora-kiesest-okozhat-mint-tavaly-a-jarvany-a-turizmusban/",
+        "h1": "Észre sem vesszük, hogy egy komoly árvíz akkora kiesést okozhat, mint tavaly a járvány a turizmusban",
+        "txtlength": 21328
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210505_lehet_egy_le_pene_az_elysee_palota",
+        "h1": "Lehet egy Le Pené az Élysée-palota?",
+        "txtlength": 21014
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/kozelet/20210506/a-modositott-magyar-koltsegvetes-tele-van-atlathatatlan-es-trukkos-szamitassal/",
+        "h1": "A módosított magyar költségvetés tele van átláthatatlan és trükkös számítással",
+        "txtlength": 20842
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/vallalkozas/20210506/egyre-tobb-magyar-mond-nemet-a-bolti-zoldsegre-gyumolcsre-ok-atlatnak-a-szitan-1114402",
+        "h1": "Egyre több magyar mond nemet a bolti zöldségre, gyümölcsre: ők átlátnak a szitán",
+        "txtlength": 19124
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/hitel/20210506/megrohantak-a-magyarok-a-bankokat-fejvesztve-adosodnak-el-mintha-nem-lenne-holnap-1114379",
+        "h1": "Megrohanták a magyarok a bankokat: fejvesztve adósodnak el, mintha nem lenne holnap",
+        "txtlength": 17534
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/ezo/konyvek-hitrol-es-vallasrol/",
+        "h1": "6 remek könyv hívőknek és ateistáknak: a legjobb program tavaszi estékre",
+        "txtlength": 17481
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/unios-forrasok/20210507/ot-hatalmas-eu-palyazat-a-lathataron-most-meg-barki-beleszolhat-a-tartalmukba-482218",
+        "h1": "Öt hatalmas EU-pályázat a láthatáron! - Most még bárki beleszólhat a tartalmukba",
+        "txtlength": 13838
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20210507/most-indul-csak-be-az-igazi-dragulas-magyarorszagon-mit-lep-erre-az-mnb-482162",
+        "h1": "Most indul csak be az igazi drágulás Magyarországon - Mit lép erre az MNB?",
+        "txtlength": 13332
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/lajfhekk/a-ropogos-sult-krumpli-titka/",
+        "h1": "Így lesz még ropogósabb a sült krumplid: 3+1 trükk a tökéletes végereményért",
+        "txtlength": 7481
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kultura/2021/05/08/toth-kinga-interju-szepirok-tarsasaga-noi-erdekvedelmi-forum/",
+        "h1": "Ha észrevesszük, hogy több Tóth Krisztina van, őket már nem lehet lekurvázni",
+        "txtlength": 22513
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/kkv/20210507_magyar_termek_divat_dizajn_covid",
+        "h1": "Jöttek, láttak és nagyon úgy tűnik, maradnak is a hazai dizájnerek",
+        "txtlength": 20205
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kulfold/2021/05/07/armin-laschet-annalena-baerbock-olaf-scholz-nemetorszag-kancellar-angela-merkel-cdu",
+        "h1": "Évtizedek óta nem látott izgalmakat hoz a Merkel utódjáról döntő német választás",
+        "txtlength": 20045
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/elet/20210507_jelenleti_oktatas_koronavirus_kozepiskola",
+        "h1": "Vége a karanténoktatásnak, de nem tehet úgy az iskola, mintha semmi nem történt volna",
+        "txtlength": 17420
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/sport/2021/05/07/giro-d-italia-felvezeto-ket-magyar-a-mezonyben-valter-attila-dina-marton-kerekpar-olaszorszag-elozetes",
+        "h1": "Két magyar igyekszik megbirkózni a borzalmasan nehéz Giro d'Italiával",
+        "txtlength": 15232
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/zhvg/20210507_alteo_elektromobilitas_zhvg",
+        "h1": "Nem kell már sokat várni az elektromos autók forradalmáig",
+        "txtlength": 14890
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2021/05/08/hazuorvos-eeszt-oltas-vedettsegi-igazolvany/",
+        "h1": "Dühös betegek hívogatják a háziorvosokat a védettségi igazolvány miatt",
+        "txtlength": 14465
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kulfold/2021/05/07/seychelle-szigetek-ujranyitas-koronavirus-atoltottsag-fertozottek/",
+        "h1": "Mégis mi történt a Seychelle-szigeteken?",
+        "txtlength": 13413
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/gazdasag/2021/05/07/titkolja-az-mfb-hogy-kire-biz-negyszer-50-milliard-forintot",
+        "h1": "200 milliárd forintot bízott valakikre az állami MFB, de titok, hogy ki a négy szerencsés nyertes",
+        "txtlength": 13326
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/05/08/hetvegi-olvasnivalo-a-seychelles-szigetektol-a-magyar-viharokig",
+        "h1": "Hétvégi olvasnivaló a Seychelles-szigetektől a magyar viharokig",
+        "txtlength": 12467
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/05/07/elon-musk-eltulozza-a-tesla-onvezeto-rendszerenek-kepessegeit-arulta-el-a-ceg-egyik-vezeto-fejlesztoje-egy-meghallgatason",
+        "h1": "Elon Musk eltúlozza a Tesla önvezető rendszerének képességeit – árulta el a cég egyik vezető fejlesztője egy meghallgatáson",
+        "txtlength": 11468
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/koronavirus-elmult-24-ora-magyarorszag-jarvanyugyi-adatok/378tcef?sl_ps=d_3",
+        "h1": "Továbbra is 100 felett a halálos áldozatok száma – Itt vannak az elmúlt 24 óra járványügyi adatai",
+        "txtlength": 10239
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/11-eves-kislany-arva-celldomolk-mersevat-buszbaleset/y8zyszv?sl_ps=d_5",
+        "h1": "Sokkot kapott a buszbaleset áldozatainak 11 éves kislánya: a neten olvasta, hogy meghaltak a szülei",
+        "txtlength": 9108
+    },
+    {
+        "hostname": "nosalty.hu",
         "pagelink": "https://www.nosalty.hu/recept/habkonnyu-turogomboc",
         "h1": "Habkönnyű túrógombóc",
         "txtlength": 10436
