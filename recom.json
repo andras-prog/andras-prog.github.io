@@ -1,6 +1,210 @@
 [
     {
         "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/tejszines-brokkolikremleves-2",
+        "h1": "Tejszínes brokkolikrémleves 2.",
+        "txtlength": 10537
+    },
+    {
+        "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/egyszeru-borsos-tokany",
+        "h1": "Egyszerű borsos tokány",
+        "txtlength": 10115
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/boldogi-rozsafank.recept",
+        "h1": "BOLDOGI RÓZSAFÁNK",
+        "txtlength": 9639
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/egyszeru-piskotatekercs.recept",
+        "h1": "EGYSZERŰ PISKÓTATEKERCS",
+        "txtlength": 9126
+    },
+    {
+        "hostname": "kiszamolo.hu",
+        "pagelink": "https://kiszamolo.hu/hogyan-sporolj-vagyonokat-a-gyogyszertarban/",
+        "h1": "Hogyan spórolj vagyonokat a gyógyszertárban?",
+        "txtlength": 36899
+    },
+    {
+        "hostname": "alapblog.hu",
+        "pagelink": "https://alapblog.hu/kivalo-kivalo-vallalatok/",
+        "h1": "KIVÁLÓ KIVÁLÓ VÁLLALATOK",
+        "txtlength": 11053
+    },
+    {
+        "hostname": "efesasanisimasa.com",
+        "pagelink": "https://efesasanisimasa.com/2021/04/27/apa-the-father-2020/",
+        "h1": "Az apa (The Father, 2020)",
+        "txtlength": 10228
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20210510/ha-kanyarban-akarunk-elozni-jobban-kell-nyomni-a-gazt-interju-varga-mihallyal-482308",
+        "h1": "\"Ha kanyarban akarunk előzni, jobban kell nyomni a gázt\" - Interjú Varga Mihállyal",
+        "txtlength": 28228
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vilag/20210510/a-vakcinaszabadalmak-feloldasat-meg-biden-sem-gondolja-komolyan-es-nem-is-adna-teljes-megoldast-a-problemakra/",
+        "h1": "A vakcinaszabadalmak feloldását még Biden sem gondolja komolyan, és nem is adna teljes megoldást a problémákra",
+        "txtlength": 27219
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210509_putyin_nincs_bocsanat_azok_szamara_akik_elfelejtettek_a_masodik_vilaghaboru_tanulsagait",
+        "h1": "Putyin: Nincs bocsánat azok számára, akik elfelejtették a második világháború tanulságait",
+        "txtlength": 26828
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vilag/20210509/europa-visszaszerezne-gyogyszeripari-szuverenitasat-de-nem-tudni-kitol-es-minek/",
+        "h1": "Európa visszaszerezné gyógyszeripari szuverenitását, de nem tudni, kitől és minek",
+        "txtlength": 26363
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210508_honfoglalas_megtelepedes_lango_peter",
+        "h1": "Sokszínűek voltak a honfoglalás kori magyarok – Langó Péter a Mandinernek",
+        "txtlength": 25635
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210505_egyetemek_bontjak_le_az_europai_kulturat",
+        "h1": "Egyetemek bontják le az európai kultúrát – Marion Maréchal írása a Mandinernek",
+        "txtlength": 24183
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20210509/utott-a-svajci-ora-jon-a-forditott-brexit-482228",
+        "h1": "Ütött a svájci óra - Jön a fordított Brexit?",
+        "txtlength": 19757
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/oktatas/20210510/grafikonon-a-lesujto-valosag-fabatkat-sem-er-a-magyar-tanari-fizetes-1114490",
+        "h1": "Grafikonon a lesújtó valóság: fabatkát sem ér a magyar tanári fizetés",
+        "txtlength": 17455
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.penzcentrum.hu/oktatas/20210510/grafikonon-a-lesujto-valosag-fabatkat-sem-er-a-magyar-tanari-fizetes-1114490",
+        "h1": "Grafikonon a lesújtó valóság: fabatkát sem ér a magyar tanári fizetés",
+        "txtlength": 17442
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2021/05/10/vlagyimir-putyin-szemelyesen-felugyeli-oroszorszag-oruletes-genszerkesztesi-programjat-jon-a-fajdalmat-nem-erzo-katona",
+        "h1": "VLAGYIMIR PUTYIN ŐRÜLETES GÉNSZERKESZTÉSI PROGRAMJA: JÖN A FÁJDALMAT NEM ÉRZŐ KATONA?",
+        "txtlength": 16702
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/egeszseg/20210506/uj-modszer-terjed-a-hazai-rakgyogyitasban-100-ban-pozitivak-az-eredmenyek-1114394",
+        "h1": "Új módszer terjed a hazai rákgyógyításban: 100%-ban pozitívak az eredmények",
+        "txtlength": 16295
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/testem/ropogo-kattogo-izuletek/",
+        "h1": "Erről árulkodnak a ropogó, kattogó ízületek: mikor normális, mikor nem?",
+        "txtlength": 11722
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/ezo/heti_horoszkop/202119/",
+        "h1": "Heti horoszkóp május 10-től 16-ig: a Kos új fejezetet kezd, a Bika jó lehetőséget kap",
+        "txtlength": 10973
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/lajfhekk/miert-nyalogat-a-macska/",
+        "h1": "Miért nyalogat a macska? Ez a magyarázat az állatorvosok szerint",
+        "txtlength": 7658
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/belfold/2021/05/10/dobrev-klara-interju-majus-jelolt",
+        "h1": "Dobrev Klára: Nincs Gyurcsány-kérdés, Orbán-kérdés van",
+        "txtlength": 33825
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/tudomany/2021/05/09/magyar-kiralysag-tatarjaras-csata/",
+        "h1": "Óriásit hibáztak a magyarok az utolsó pillanatban",
+        "txtlength": 17180
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/koronavirus/2021/05/09/vakcinaszabadalom-felfuggesztese-szellemi-tulajdon-globalis-oltas",
+        "h1": "Vakcinaszabadalmat adna Amerika a világnak, de hisztiznek a gyógyszergyártók, és a valós hatás bizonytalan",
+        "txtlength": 16200
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/gazdasag/20210510_onkormanyzatok_tartalekok_koltsegvetes_varosok",
+        "h1": "A tartalékokat élik fel az önkormányzatok, hogy túléljék 2021-et",
+        "txtlength": 16053
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2021/05/10/balatoni-kor-toth-balazs-laposa-bence-magyar-turisztikai-ogynokseg/",
+        "h1": "„Nem voltam irigy rájuk, az zavart, hogy a tagtársaik szemébe hazudtak”",
+        "txtlength": 15385
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20210509_rablasi_ugy_megalapozatlan_gyanusitas_fiatalok_orizetben_bekasmegyer_3_keruleti_rendorkapitanysag",
+        "h1": "Rosszkor voltak rossz helyen Békásmegyeren, a Gyorskocsi utcában kötöttek ki a tinik",
+        "txtlength": 15116
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/cegauto/20210508_mercedes_s500_4matic_lang_teszt_menetproba_velemeny",
+        "h1": "Osztályfőnök: teszten a teljesen új Mercedes S500 4Matic Lang",
+        "txtlength": 14745
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2021/05/09/covid19-vakcinak-vedettsegi-igazolvany-kozokirat-hamisitas-sandor-zsuzsa-velemeny/",
+        "h1": "Védettségi igazolvány: lehet-e büntetni egy hamis közokirat meghamisítását?",
+        "txtlength": 13932
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kulfold/2021/05/09/kanada-rejtelyes-betegseg-agykor",
+        "h1": "Hetekig titkolóztak a hatóságok Kanadában egy rejtélyes agykórról",
+        "txtlength": 11697
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://foci.444.hu/2021/05/09/meszaros-lorinc-is-megkapta-az-nb-i-ezustermet",
+        "h1": "Mészáros Lőrinc is megkapta az NB I ezüstérmét",
+        "txtlength": 11650
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/05/10/palkovics-meghivta-karacsonyt-es-baranyit-hogy-tajekoztassa-oket-a-fudanrol",
+        "h1": "Palkovics meghívta Karácsonyt és Baranyit, hogy tájékoztassa őket a Fudanról",
+        "txtlength": 10941
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/politika/dobrev-klara-miniszterelnok-jelolt-interju-ellenzek-telex/d3jdbbj",
+        "h1": "Dobrev Klára vallomása: „Empátia és erő, ennek a kettősségnek egy nő pontosan ugyanolyan jól meg tud felelni, mint egy férfi”",
+        "txtlength": 10708
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/kulfold/sadiq-khan-london-fopolgarmester-valasztas/k8htn8l",
+        "h1": "London főpolgármestert választott: Sadiq Khan legyőzte konzervatív kihívóját",
+        "txtlength": 10043
+    },
+    {
+        "hostname": "nosalty.hu",
         "pagelink": "https://www.nosalty.hu/recept/soskafozelek-tejjel",
         "h1": "Sóskafőzelék tejjel",
         "txtlength": 10296
