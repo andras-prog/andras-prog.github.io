@@ -1,5 +1,203 @@
 [
     {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/paris-brest.recept",
+        "h1": "PARIS - BREST",
+        "txtlength": 10723
+    },
+    {
+        "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/klasszikus-csaszarmorzsa",
+        "h1": "Klasszikus császármorzsa",
+        "txtlength": 10114
+    },
+    {
+        "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/paprikas-krumpli-kolbasszal",
+        "h1": "Paprikás krumpli kolbásszal",
+        "txtlength": 9752
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/ropogos-grissini.recept",
+        "h1": "ROPOGÓS GRISSINI",
+        "txtlength": 9577
+    },
+    {
+        "hostname": "kulturpart.hu",
+        "pagelink": "https://kulturpart.blog.hu/2021/05/07/balnazsir_es_nyirfakereg_a_ragogumi_kulturtortenete",
+        "h1": "BÁLNAZSÍR ÉS NYÍRFAKÉREG: A RÁGÓGUMI KULTÚRTÖRTÉNETE",
+        "txtlength": 17423
+    },
+    {
+        "hostname": "alapblog.hu",
+        "pagelink": "https://alapblog.hu/hogyan-teljesit-kozep-kelet-europa/",
+        "h1": "HOGYAN TELJESÍT KÖZÉP-KELET-EURÓPA?",
+        "txtlength": 9307
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210505_ujra_embernek_kell_lennunk",
+        "h1": "Újra embernek kell lennünk! – Bagdy Emőke a Mandinernek",
+        "txtlength": 32323
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/gyerek/igy-erettsegiztunk/",
+        "h1": "Dragomán György nyúllábat cipelt a zsebében, Ceglédi Zoltán löszös nyelvvel improvizált - Az érettségijükről meséltek",
+        "txtlength": 24015
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/vasarlas/20210508/az-uj-evtized-harry-pottere-is-megjelenhet-iden-kolosszalis-konyves-ev-valhat-2021-bol-1114448",
+        "h1": "Az új évtized Harry Pottere is megjelenhet idén: kolosszális könyves év válhat 2021-ből",
+        "txtlength": 22944
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/otthon/20210507/messze-meg-a-vegan-gasztroforradalom-meregdraga-itthon-a-husmentes-hamburger-1114380",
+        "h1": "Messze még a vegán gasztroforradalom: méregdrága itthon a húsmentes hamburger",
+        "txtlength": 19550
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/podcast/20210508/miert-fogadtak-el-csendben-az-apolok-hogy-az-orvosok-helyzete-javult-mikozben-az-ovek-meg-romlott-is/",
+        "h1": "Miért fogadták el csendben az ápolók, hogy az orvosok helyzete javult, miközben az övék még romlott is?",
+        "txtlength": 19158
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/uzlet/20210511/hiaba-az-ipar-40-sokan-meg-mindig-fapados-gepekre-ruhaznak-be-481628",
+        "h1": "Hiába az Ipar 4.0, sokan még mindig „fapados” gépekre ruháznak be",
+        "txtlength": 18811
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210510_vakcina_kulfoldi_osszehasonlitas",
+        "h1": "Vakcinaverseny: mögöttünk kullog az EU",
+        "txtlength": 18752
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/kozelet/20210510/fiktiv-bekoltozok-miatt-lott-ki-az-egyik-legszegenyebb-magyar-regio-lakossagszama/",
+        "h1": "Fiktív beköltözők miatt lőtt ki az egyik legszegényebb magyar régió lakosságszáma",
+        "txtlength": 17600
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210505_nem_hunyaszkodtam_meg_soha_senki_elott",
+        "h1": "„Nekünk a visegrádi együttműködés szent – Gyimesi György, az OĽaNO politikusa a Mandinernek",
+        "txtlength": 15683
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/global/20210511/megasta-az-egyesult-kiralysag-sirjat-egy-skot-part-sikere-rogos-ut-vezethet-a-fuggetlenseghez-482482",
+        "h1": "Megásta az Egyesült Királyság sírját egy skót párt sikere? - Rögös út vezethet a függetlenséghez",
+        "txtlength": 15478
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/global/20210510/mikozben-mindenki-ukrajnara-figyel-oroszorszag-szep-csendben-hatalmas-terulet-meghoditasara-keszul-482488",
+        "h1": "Miközben mindenki Ukrajnára figyel, Oroszország szép csendben hatalmas terület meghódítására készül",
+        "txtlength": 15432
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2021/05/10/a-magas-ellenanyagszint-nem-jelent-automatikusan-magasabb-szintu-vedettseget-a-fertozes-ellen",
+        "h1": "A MAGAS ELLENANYAGSZINT NEM JELENT AUTOMATIKUSAN MAGASABB SZINTŰ VÉDETTSÉGET A FERTŐZÉS ELLEN",
+        "txtlength": 14648
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/testem/erosito-gyakorlatok-futoknak/",
+        "h1": "3 gyakorlat a jobb futóteljesítményért és a sérülések megelőzéséért",
+        "txtlength": 11201
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/szuloseg/opium-csecsemo-gyerek-drog-tortenelem/",
+        "h1": "A középkorban ópiummal drogozták be a gyereket, hogy csendben maradjon",
+        "txtlength": 10004
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2021/05/10/hiller-istvan-felcsuti-per-ellenzek-orszaggyules-nagyinterju/",
+        "h1": "Hiller István: Nem valószínű, hogy a Fidesz gratulációval veszi tudomásul demokratikus vereségét",
+        "txtlength": 42929
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2021/05/11/kiarusitas-onkormanyzati-lakas-var-belvaros-rogan-antal-kedvezmenyek-modell/",
+        "h1": "Kiárusítás a Várban: Rogán egykori birodalmában találtak ki hasonló kedvezményeket",
+        "txtlength": 24638
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/koronavirus/2021/05/10/romak-vakcina-oltass-hogy-elhess-szegregatum-opalyi-huszar-telep-ibrany-fabianhaza",
+        "h1": "Meggyőzött minket a vírus, hogy igenis létezik, és meg tudja gyepálni az embert",
+        "txtlength": 19070
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/kultura/20210510_Nem_eleg_akarni_a_szabadsagot_sokszor_mazli_is_kell_hogy_megtalaljuk__interju_Beremenyi_Gezaval",
+        "h1": "„Nem elég akarni a szabadságot, sokszor mázli is kell, hogy megtaláljuk” – interjú Bereményi Gézával",
+        "txtlength": 18737
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/05/11/1600-forint-az-elet",
+        "h1": "1600 forint az élet",
+        "txtlength": 18366
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kultura/2021/05/10/bem-ter-radetzky-laktanya-3h-epitesziroda-gunther-zsolt-market-csillag-katalin-borsay-attila-turanyi-gabor-bence-muemlekvedelem-muemlek-bontas/",
+        "h1": "Környezetébe illeszkedő fejlesztést is kaphatott volna a Radetzky-laktanya",
+        "txtlength": 16208
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/gazdasag/2021/05/11/kozeledik-a-moratorium-vege-az-ugyfelek-de-a-bankok-is-aggodva-varjak-a-nagy-napot",
+        "h1": "Mindenki fél a moratórium végétől",
+        "txtlength": 15765
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/05/11/a-tehentragya-nem-ved-a-koronavirustol-figyelmeztetnek-az-indiai-orvosok",
+        "h1": "A tehéntrágya nem véd a koronavírustól, figyelmeztetnek az indiai orvosok",
+        "txtlength": 12311
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/belfold/2021/05/11/ellenzeki-elovalasztas-vas-megye-1-szombathely-ungar-peter-czegledy-csaba",
+        "h1": "Závecz: Nagyobb eséllyel győzhetné le Ungár Hende Csabát, de az előválasztás csak egy hajszálon múlhat",
+        "txtlength": 11768
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/tudomany/20210511_egyesult_allamok_fda_pfizer_vakcina_12_15_evesek",
+        "h1": "Az Egyesült Államokban engedélyezték a 12-15 évesek oltását a Pfizer-vakcinával",
+        "txtlength": 9778
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20210510_dobrev_klara_interju_dk_valasztas_2022",
+        "h1": "Dobrev Klára: Magyarországon ma egy macsó, hímsoviniszta vezetés uralkodik",
+        "txtlength": 9729
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/sztarvilag/filmklikk/tom-cruise-40-eves-karrier-jubileum/de472tj",
+        "h1": "40 éve a pályán a Mission: Impossible filmek közkedvelt akciósztárja: érdekességek Tom Cruise karrierjéről, amikről talán sosem hallott",
+        "txtlength": 8786
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/politika/hadhazy-akos-kerteszkedes-kozmunka-szekszard/hjqknes?sl_ps=d_11",
+        "h1": "Kantáros nadrágot húzott a közmunkára ítélt Hadházy Ákos: meglátogattuk új munkahelyén a politikust",
+        "txtlength": 8649
+    },
+    {
         "hostname": "nosalty.hu",
         "pagelink": "https://www.nosalty.hu/recept/tejszines-brokkolikremleves-2",
         "h1": "Tejszínes brokkolikrémleves 2.",
