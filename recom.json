@@ -1,6 +1,186 @@
 [
     {
         "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/petrezselymes-tocsni.recept",
+        "h1": "PETREZSELYMES TÓCSNI",
+        "txtlength": 9116
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/karfiolpizza-margherita-dietas-pizza.recept",
+        "h1": "KARFIOLPIZZA (MARGHERITA)",
+        "txtlength": 9025
+    },
+    {
+        "hostname": "hataratkelo.blog.hu",
+        "pagelink": "https://hataratkelo.blog.hu/2021/05/09/a_multikulti_anglia_elonyei_es_hatranyai",
+        "h1": "A multikulti Anglia előnyei és hátrányai",
+        "txtlength": 30671
+    },
+    {
+        "hostname": "cineartstudio.blog.hu",
+        "pagelink": "https://cineartstudio.blog.hu/2021/04/28/az_oscar-kozeli_a_nomadok_foldje_ismet_nagy_sikert_ert_el",
+        "h1": "Az Oscar-közeli A nomádok földje ismét nagy sikert ért el",
+        "txtlength": 6519
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20210511/koronavirus-az-indiai-tripla-mutanstol-tarthat-a-vilag-482588",
+        "h1": "Koronavírus: az indiai tripla mutánstól tarthat a világ ",
+        "txtlength": 20461
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/kapcsolat/beszeljunk-jol-a-sajat-hangunkon/",
+        "h1": "\"A nők fejhangon beszélnek, a férfiak lenyomják a saját hangjukat\"- interjú Vollner Judit kommunikációs instruktorral",
+        "txtlength": 20113
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vallalat/20210512/egyre-nagyobb-az-ikea-folenye-a-butorra-koltott-forintok-negyede-a-cegnel-landol/",
+        "h1": "Egyre nagyobb az IKEA fölénye, a bútorra költött forintok negyede a cégnél landol",
+        "txtlength": 19293
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20210512/drasztikusan-letertunk-az-oltasi-palyarol-mikorra-lehet-meg-az-5-millio-beoltott-482742",
+        "h1": "Drasztikusan letértünk az oltási pályáról – Mikorra lehet meg az 5 millió beoltott?",
+        "txtlength": 18633
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/kozelet/20210511/sok-szulonek-elfogyott-az-eves-szabadsaga-mi-lesz-igy-a-nyaron/",
+        "h1": "Sok szülőnek elfogyott az éves szabadsága, mi lesz így a nyáron?",
+        "txtlength": 18444
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20210512/elszallt-a-szen-dioxid-kvotak-ara-kinek-all-ez-erdekeben-481796",
+        "h1": "Elszállt a szén-dioxid-kvóták ára - Kinek áll ez érdekében?",
+        "txtlength": 18218
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210512_izrael#comments",
+        "h1": "Háború határán áll Izrael",
+        "txtlength": 18158
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2021/05/12/boldogabb-dolgozokat-es-hatekonyabb-munkavegzest-eredmenyez-a-4-napos-munkahet",
+        "h1": "BOLDOGABB DOLGOZÓKAT ÉS HATÉKONYABB MUNKAVÉGZÉST EREDMÉNYEZ A 4 NAPOS MUNKAHÉT",
+        "txtlength": 17752
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/nyugdij/20210512/ennyit-kopott-ev-eleje-ota-a-nyugdijemeles-sok-idos-magyarnak-mar-zsemlere-se-futja-1114539",
+        "h1": "Ennyit kopott év eleje óta a nyugdíjemelés: sok idős magyarnak már zsemlére se futja",
+        "txtlength": 17071
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210511_v_naszalyi_marta_buszpalyaudvar_naphegy",
+        "h1": "Tanulmánnyal igazolják a tiltakozó I. kerületi lakosok V. Naszályi buszpályaudvarának káros hatásait",
+        "txtlength": 16990
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/egeszseg/20210509/kiderult-mennyire-hatekony-a-sinopharm-vakcina-lehet-ra-alkoholt-fogyasztani-1114447",
+        "h1": "Kiderült, mennyire hatékony a Sinopharm vakcina: lehet rá alkoholt fogyasztani?",
+        "txtlength": 16796
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210511_magyarorszag_jol_fut_versenyt_a_virussal_nyitaspolitikak_kozep_europaban",
+        "h1": "Magyarország jól fut versenyt a vírussal – nyitáspolitikák Közép-Európában",
+        "txtlength": 16685
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/lajfhekk/feher-barna-tojas-kulonbseg/",
+        "h1": "Mitől függ a tojás színe? A fehér vagy a barna a jobb?",
+        "txtlength": 7168
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/belfold/2021/05/12/marki-zay-peter-interju-miniszterelnok-jelolt-elovalasztas-hodmezovasarhely-lazar-janos",
+        "h1": "Több olyan ellenzéki városvezetőről tudunk, akiket a Fidesz meg tudott venni",
+        "txtlength": 35230
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/kultura/20210512_fuggetlen_szinhazak_tamogatasa_emberi_eroforrasok_miniszteriuma_emmi_visszaelesek_gyanus_palyazatok",
+        "h1": "Kivéreztetés és törvénytelenség: problémás pénzosztás a független színházaknál",
+        "txtlength": 16206
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/belfold/2021/05/11/endometriozis-egeszsegugyi-torveny",
+        "h1": "Megkönyörült rajtam a család, és összedobta a pénzt, csak legyek túl rajta, ne szenvedjek tovább!",
+        "txtlength": 15981
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kulfold/2021/05/11/jeruzsalemi-osszecsapasok-utan-raketatamadas-hamasz-izrael",
+        "h1": "Újabb intifádával fenyeget a templom-hegyi összecsapás",
+        "txtlength": 14337
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kulfold/2021/05/11/oltasellenes-bevandorlokl-csodalja-orban-viktort-amerikai-tevesztar-tucker-carlson/",
+        "h1": "Oltásellenes, retteg a bevándorlóktól és csodálja Orbán Viktort",
+        "txtlength": 13542
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/fn/gazdasag/2021/05/12/covid-oltas-munkahely/",
+        "h1": "Megkövetelheti a munkáltatónk, hogy oltassuk be magunkat?",
+        "txtlength": 13226
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/05/11/a-fovarosi-itelotablan-is-elvesztette-az-esterhazy-kincsekert-inditott-pert-az-esterhazy-maganalapitvany",
+        "h1": "A Fővárosi Ítélőtáblán is elvesztette az Esterházy-kincsekért indított pert az Esterházy Magánalapítvány",
+        "txtlength": 12663
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20210511_Ha_nem_gyorsitunk_junius_elott_nem_lesz_ujabb_konnyites",
+        "h1": "Ha nem gyorsítunk az oltással, június előtt nem lesz újabb könnyítés",
+        "txtlength": 11418
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/05/11/egy-amerikai-tanulmany-szerint-a-covid-19-cel-korhazba-kerultek-tobb-mint-99-szazaleka-nem-volt-teljesen-beoltva",
+        "h1": "Egy amerikai tanulmány szerint a Covid-19-cel kórházba kerültek több mint 99 százaléka nem volt teljesen beoltva",
+        "txtlength": 11305
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/lehoczky-zsuzsa-nemzet-szinesze-torocsik-mari-operett/3p54msy?sl_ps=d_12",
+        "h1": "Külön megható: egyöntetűen szavazták meg Lehoczky Zsuzsát a Nemzet Színészének",
+        "txtlength": 11017
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/tudomany/2021/05/12/who-ajanlas-sinopharm-koronavirus-vakcina-menczer-tamas/",
+        "h1": "Csúsztatás, hogy a WHO szerint a Sinopharm az időseknél is hatékony és biztonságos",
+        "txtlength": 10656
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20210511_tartasdij_kormany_torvenyjavaslat_egyszulok",
+        "h1": "Szigorúan behajtaná az elmaradt tartásdíjakat a kormány új törvényjavaslata – itt vannak a részletek",
+        "txtlength": 9883
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/krimi/brutalisan-megkinzott-magyar-zenesz-jemen-kulugyminiszterium/5v1y4ey?sl_ps=d_4",
+        "h1": "„Akkor hívjatok hozzá orvost, ha meghalt!” – Bestiálisan bántak őrei a Jemenben elrabolt, majd kivégzett magyarral – Sokkoló részletek",
+        "txtlength": 8944
+    },
+    {
+        "hostname": "mindmegette.hu",
         "pagelink": "https://www.mindmegette.hu/paris-brest.recept",
         "h1": "PARIS - BREST",
         "txtlength": 10723
