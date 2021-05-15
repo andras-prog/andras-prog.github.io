@@ -1,6 +1,198 @@
 [
     {
         "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/szaftos-brassoi-apropecsenye",
+        "h1": "Szaftos brassói aprópecsenye",
+        "txtlength": 11292
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/ujkrumplisalata.recept",
+        "h1": "ÚJKRUMPLISALÁTA",
+        "txtlength": 9979
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/sparga-roston-sult-csirkevel-es-hollandi-martassal.recept",
+        "h1": "SPÁRGA ROSTON SÜLT CSIRKÉVEL ÉS HOLLANDI MÁRTÁSSAL",
+        "txtlength": 9948
+    },
+    {
+        "hostname": "kiszamolo.hu",
+        "pagelink": "https://kiszamolo.hu/egy-orvos-feljegyzesei/",
+        "h1": "Egy orvos feljegyzései",
+        "txtlength": 36402
+    },
+    {
+        "hostname": "alapblog.hu",
+        "pagelink": "https://alapblog.hu/esg-alapok-kirobbano-formaban-amerika/",
+        "h1": "ESG BUMM – KIROBBANÓ FORMÁBAN AMERIKA",
+        "txtlength": 11191
+    },
+    {
+        "hostname": "efesasanisimasa.com",
+        "pagelink": "https://efesasanisimasa.com/2021/04/13/mit-sugdos-az-erdo/",
+        "h1": "Mit sugdos az erdő?",
+        "txtlength": 9558
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/kozelet/20210514/a-kiszamithatatlan-es-korrupt-allam-a-sikeres-jarvanykezelest-is-akadalyozza/",
+        "h1": "A kiszámíthatatlan és korrupt állam a sikeres járványkezelést is akadályozza",
+        "txtlength": 27560
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/hitel/20210511/te-is-kered-felujitasra-a-3-millios-allami-ajandekpenzt-erre-figyelj-kulonben-bukhatod-1114386",
+        "h1": "Te is kéred felújításra a 3 milliós állami ajándékpénzt? Erre figyelj, különben bukhatod",
+        "txtlength": 26413
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/uzlet/20210514/koronavirus-az-indiai-mutacio-borzolja-a-kedelyeket-483130",
+        "h1": "Koronavírus: az indiai mutáció borzolja a kedélyeket ",
+        "txtlength": 24011
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vilag/20210514/senkit-nem-erdekel-a-jarvany-a-kozeli-orszagban-ahol-a-legtobben-halhattak-meg-covidban/",
+        "h1": "Senkit nem érdekel a járvány a közeli országban, ahol a legtöbben halhattak meg Covidban",
+        "txtlength": 23874
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/krtk/20210514/elkerulhetetlen-az-autoipar-atalakulasa-tomeges-leepitesekkel-ez-mar-nem-uszhato-meg-483062",
+        "h1": "Elkerülhetetlen az autóipar átalakulása - tömeges leépítésekkel ez már nem úszható meg",
+        "txtlength": 23397
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2021/05/15/alexander-petofivel-jol-elbantak-de-moricz-zsigmond-a-sarkara-allt-es-nem-hagyta-hogy-siegmundot-csinaljanak-belole",
+        "h1": "ALEXANDER PETŐFIVEL JÓL ELBÁNTAK, DE MÓRICZ ZSIGMOND A SARKÁRA ÁLLT, ÉS NEM HAGYTA, HOGY SIEGMUNDOT CSINÁLJANAK BELŐLE",
+        "txtlength": 23143
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210515_kovacs_kati_elete",
+        "h1": "„Én megszállottja lettem a zenének” – Kovács Kati a Mandinernek",
+        "txtlength": 21643
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://makronom.mandiner.hu/cikk/20210512_az_ujgurok_miatt_hozott_szankciokon_bukhat_el_tortenelmi_eu_kina_befektetesi_megallapodas",
+        "h1": "Az emberi jogi szankciókon bukhat el a történelmi EU-Kína befektetési megállapodás?",
+        "txtlength": 20144
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210514_colonial_pipeline_olaj",
+        "h1": "Meghackelték az USA fő olajvezetékét, kitört a benzinpánik",
+        "txtlength": 19489
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20210515/mindenki-a-nyaralast-varja-barhova-is-megyunk-iden-igazi-arrobbanasra-szamithatunk-483160",
+        "h1": "Mindenki a nyaralást várja: bárhová is megyünk, idén igazi árrobbanásra számíthatunk",
+        "txtlength": 17072
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/auto/20210512/ezzel-szerezhet-strategiai-poziciot-a-kozeljovo-autoiparaban-magyarorszag-1114560",
+        "h1": "Ezzel szerezhet stratégiai pozíciót a közeljövő autóiparában Magyarország",
+        "txtlength": 17066
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/fogyokura/hizlalo-szokasok-elhagyasa/",
+        "h1": "Azt hiszed, fogyaszt, pedig valójában hizlal: az 5 leggyakoribb szokás, amit felejts el a diéta alatt",
+        "txtlength": 11737
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/lajfhekk/kivi-heja-egeszseges/",
+        "h1": "Ezért olyan egészséges a kivi héja: nem érdemes meghámozni",
+        "txtlength": 8843
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/tudomany/2021/05/15/sisi-szules-erzsebet-kiralyna-buda/",
+        "h1": "Ő volt az utolsó magyar királylány",
+        "txtlength": 23151
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2021/05/15/hejokeresztur-komplex-instrukcios-program-kip-k-nagy-emese/",
+        "h1": "Egy borsodi faluból indult a program, amivel végre a ketteseknek és az ötösöknek is élmény a tanulás",
+        "txtlength": 19167
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://rangado.24.hu/nemzetkozi_foci/2021/05/14/championship-angol-masodosztalyu-futballbajnoksag-football-league-szezonzaras/",
+        "h1": "A járvány hazavágta a legizgalmasabb focibajnokságot is",
+        "txtlength": 17480
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/velemeny/2021/05/15/muemlekvita-muemlek-epitesz-budai-var",
+        "h1": "Műemlékvita: A Vár nem arról szól, hogy hogyan néz ki, hanem hogy mi van benne",
+        "txtlength": 16141
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/kultura/20210514_magyar_filmek_kozonsegszavazat",
+        "h1": "„Iszonyatos mennyiségű filmdráma, sehol egy valódi vígjáték” – olvasóink kedvenc magyar filmjei",
+        "txtlength": 15993
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/tech/2021/05/14/kina-marsraszallas-tienven-1-csu-zsung-urprogram",
+        "h1": "A kínai tűzisten a NASA-t is lekörözte a Marsra szállással",
+        "txtlength": 15445
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/05/14/ciszjordaniara-is-atterjedt-a-kiujult-izraeli-palesztin-konfliktus",
+        "h1": "Ciszjordániára is átterjedt a kiújult izraeli-palesztin konfliktus",
+        "txtlength": 12572
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/velemeny/2021/05/15/ellenzeki-elovalasztas-fidesz-hekkeles-mero-laszlo-velemeny",
+        "h1": "Ellenzéki előválasztás: Félő, hogy Orbán megválasztja a leendő ellenfelét",
+        "txtlength": 12554
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/05/15/ha-valakirol-azt-gyanitjak-a-brit-hataron-hogy-dolgozni-jon-azt-akar-szogesdrot-moge-is-zarhatjak",
+        "h1": "Ha valakiről azt gyanítják a brit határon, hogy dolgozni jön, azt akár szögesdrót mögé is zárhatják",
+        "txtlength": 12495
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/krimi/katzenbach-imre-gyilkossag-curtis-testvere-magannyomozo/psg9l61?sl_ps=d_5",
+        "h1": "Kínzó sejtelmek miatt szállt ki a Curtis testvérét érintő ügyből: magánnyomozó kereste az eltűnt Katzenbach Imrét",
+        "txtlength": 11648
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20210515_Karacsony_ismet_kiallna_Orban_ellen",
+        "h1": "Karácsony bejelentette, hogy elindul a miniszterelnök-jelölt választáson",
+        "txtlength": 10275
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/gazdasag/20210515_Rengeteg_penzt_bukhat_aki_el_a_meghosszabbitott_hitelmoratoriummal",
+        "h1": "Rengeteg pénzt bukhat, aki él a meghosszabbított hitelmoratórium lehetőségével",
+        "txtlength": 10154
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/krimi/curtis-batyja-katzenbach-gyilkossag-koltekezes/894xz00",
+        "h1": "Curtis bátyja a Katzenbach-gyilkosság után nagy költekezésbe kezdett – Ezt mondják az ismerősök",
+        "txtlength": 9003
+    },
+    {
+        "hostname": "nosalty.hu",
         "pagelink": "https://www.nosalty.hu/recept/lecso-alaprecept-geo-konyhajabol",
         "h1": "Lecsó alaprecept geo konyhájából",
         "txtlength": 12333
