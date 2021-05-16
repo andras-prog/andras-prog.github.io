@@ -87,8 +87,8 @@
     "tarfajl": "(1 kg = 785 Ft)",
     "tarfajlmert": "",
     "disc": "-29%",
-    "erv": "2021.05.19",
-    "termeklink": "https://bevasarlas.tesco.hu/groceries/hu-HU/products/2004010263903"
+    "erv": "",
+    "termeklink": "https://tesco.hu/akciok/akcios-termekek/termek/hm/tejtermekek-tojas-pekaru/tejfol-kefir/magyar-tejfol/"
   },
   {
     "azon": "TESCO",
@@ -958,8 +958,8 @@
     "tarfajl": "(1 l = 2898 Ft)",
     "tarfajlmert": "",
     "disc": "-20%",
-    "erv": "2021.05.19",
-    "termeklink": "https://bevasarlas.tesco.hu/groceries/hu-HU/products/2004020004442"
+    "erv": "",
+    "termeklink": "https://tesco.hu/akciok/akcios-termekek/termek/hm/auto-otthon-szorakozas/autoapolas-autofelszereles/castrol-motorolaj/"
   },
   {
     "azon": "TESCO",
@@ -1127,8 +1127,8 @@
     "tarfajl": "(1 kg = 1098 Ft)",
     "tarfajlmert": "",
     "disc": "-42%",
-    "erv": "2021.05.19",
-    "termeklink": "https://bevasarlas.tesco.hu/groceries/hu-HU/products/2004007116090"
+    "erv": "",
+    "termeklink": "https://tesco.hu/akciok/akcios-termekek/termek/hm/zoldseg-gyumolcs/gyumolcsok/nektarin/"
   },
   {
     "azon": "TESCO",
@@ -8529,6 +8529,19 @@
   {
     "azon": "CBA",
     "forras": "",
+    "termeknev": "Alpro rizsital original 1l",
+    "termekar": "599,- Ft/db",
+    "termekcur": "",
+    "termekmenny": "",
+    "tarfajl": " 599,00 Ft/l",
+    "tarfajlmert": "",
+    "disc": "-33%",
+    "erv": "",
+    "termeklink": "https://online.prima.hu/s/alpro-rizsital-original-1l-10000120298?cat=101050"
+  },
+  {
+    "azon": "CBA",
+    "forras": "",
     "termeknev": "Alpro mandulaital original 1l",
     "termekar": "599,- Ft/db",
     "termekcur": "",
@@ -8555,15 +8568,15 @@
   {
     "azon": "CBA",
     "forras": "",
-    "termeknev": "Alpro rizsital original 1l",
+    "termeknev": "Alpro mandula ital kalciummal és vitaminokkal dúsítva 1l",
     "termekar": "599,- Ft/db",
     "termekcur": "",
     "termekmenny": "",
     "tarfajl": " 599,00 Ft/l",
     "tarfajlmert": "",
-    "disc": "-33%",
+    "disc": "",
     "erv": "",
-    "termeklink": "https://online.prima.hu/s/alpro-rizsital-original-1l-10000120298?cat=101050"
+    "termeklink": "https://online.prima.hu/s/alpro-mandula-ital-kalciummal-es-vitaminokkal-dusitva-1l-10000133405?cat=101050"
   },
   {
     "azon": "CBA",
@@ -8577,19 +8590,6 @@
     "disc": "-33%",
     "erv": "",
     "termeklink": "https://online.prima.hu/s/alpro-zabital-original-1l-10000120296?cat=101050"
-  },
-  {
-    "azon": "CBA",
-    "forras": "",
-    "termeknev": "Alpro mandula ital kalciummal és vitaminokkal dúsítva 1l",
-    "termekar": "599,- Ft/db",
-    "termekcur": "",
-    "termekmenny": "",
-    "tarfajl": " 599,00 Ft/l",
-    "tarfajlmert": "",
-    "disc": "",
-    "erv": "",
-    "termeklink": "https://online.prima.hu/s/alpro-mandula-ital-kalciummal-es-vitaminokkal-dusitva-1l-10000133405?cat=101050"
   },
   {
     "azon": "CBA",
@@ -8633,6 +8633,19 @@
   {
     "azon": "CBA",
     "forras": "",
+    "termeknev": "Alpro kókuszital hozzáadott kalciummal és vitaminokkal 1l",
+    "termekar": "599,- Ft/db",
+    "termekcur": "",
+    "termekmenny": "",
+    "tarfajl": " 599,00 Ft/l",
+    "tarfajlmert": "",
+    "disc": "",
+    "erv": "",
+    "termeklink": "https://online.prima.hu/s/alpro-kokuszital-hozzaadott-kalciummal-es-vitaminokkal-1l-10000188699?cat=101050"
+  },
+  {
+    "azon": "CBA",
+    "forras": "",
     "termeknev": "Alpro zabital hozzáadott kalciummal és vitaminokkal 1l",
     "termekar": "599,- Ft/db",
     "termekcur": "",
@@ -8668,19 +8681,6 @@
     "disc": "-33%",
     "erv": "",
     "termeklink": "https://online.prima.hu/s/alpro-kesudioital-1l-10000164951?cat=101050"
-  },
-  {
-    "azon": "CBA",
-    "forras": "",
-    "termeknev": "Alpro kókuszital hozzáadott kalciummal és vitaminokkal 1l",
-    "termekar": "599,- Ft/db",
-    "termekcur": "",
-    "termekmenny": "",
-    "tarfajl": " 599,00 Ft/l",
-    "tarfajlmert": "",
-    "disc": "",
-    "erv": "",
-    "termeklink": "https://online.prima.hu/s/alpro-kokuszital-hozzaadott-kalciummal-es-vitaminokkal-1l-10000188699?cat=101050"
   },
   {
     "azon": "CBA",
@@ -8919,19 +8919,6 @@
   {
     "azon": "CBA",
     "forras": "",
-    "termeknev": "Dr.Oetker Ristorante pizza pollo 355g",
-    "termekar": "649,- Ft/db",
-    "termekcur": "",
-    "termekmenny": "",
-    "tarfajl": " 1937,31 Ft/kg",
-    "tarfajlmert": "",
-    "disc": "-31%",
-    "erv": "",
-    "termeklink": "https://online.prima.hu/s/dr-oetker-ristorante-pizza-pollo-355g-10000176430?cat=501010"
-  },
-  {
-    "azon": "CBA",
-    "forras": "",
     "termeknev": "Dr.Oetker Ristorante pizza salame 320g",
     "termekar": "649,- Ft/db",
     "termekcur": "",
@@ -8941,6 +8928,19 @@
     "disc": "-31%",
     "erv": "",
     "termeklink": "https://online.prima.hu/s/dr-oetker-ristorante-pizza-salame-320g-10000176435?cat=501010"
+  },
+  {
+    "azon": "CBA",
+    "forras": "",
+    "termeknev": "Dr.Oetker Ristorante pizza pollo 355g",
+    "termekar": "649,- Ft/db",
+    "termekcur": "",
+    "termekmenny": "",
+    "tarfajl": " 1937,31 Ft/kg",
+    "tarfajlmert": "",
+    "disc": "-31%",
+    "erv": "",
+    "termeklink": "https://online.prima.hu/s/dr-oetker-ristorante-pizza-pollo-355g-10000176430?cat=501010"
   },
   {
     "azon": "CBA",
@@ -8958,19 +8958,6 @@
   {
     "azon": "CBA",
     "forras": "",
-    "termeknev": "Dr.Oetker Ristorante pizza pepperoni salame picante 340g",
-    "termekar": "649,- Ft/db",
-    "termekcur": "",
-    "termekmenny": "",
-    "tarfajl": " 1908,82 Ft/kg",
-    "tarfajlmert": "",
-    "disc": "-31%",
-    "erv": "",
-    "termeklink": "https://online.prima.hu/s/dr-oetker-ristorante-pizza-pepperoni-salame-picante-340g-10000176429?cat=501010"
-  },
-  {
-    "azon": "CBA",
-    "forras": "",
     "termeknev": "Dr.Oetker Ristorante pizza speciale 330g",
     "termekar": "649,- Ft/db",
     "termekcur": "",
@@ -8980,6 +8967,19 @@
     "disc": "-31%",
     "erv": "",
     "termeklink": "https://online.prima.hu/s/dr-oetker-ristorante-pizza-speciale-330g-10000176433?cat=501010"
+  },
+  {
+    "azon": "CBA",
+    "forras": "",
+    "termeknev": "Dr.Oetker Ristorante pizza pepperoni salame picante 340g",
+    "termekar": "649,- Ft/db",
+    "termekcur": "",
+    "termekmenny": "",
+    "tarfajl": " 1908,82 Ft/kg",
+    "tarfajlmert": "",
+    "disc": "-31%",
+    "erv": "",
+    "termeklink": "https://online.prima.hu/s/dr-oetker-ristorante-pizza-pepperoni-salame-picante-340g-10000176429?cat=501010"
   },
   {
     "azon": "CBA",
@@ -9205,6 +9205,19 @@
   {
     "azon": "CBA",
     "forras": "",
+    "termeknev": "Apenta light üditőital szőlő enyhén széns.ásványvíz. 1.5l",
+    "termekar": "179,- Ft/db",
+    "termekcur": "",
+    "termekmenny": "",
+    "tarfajl": " 119,33 Ft/l",
+    "tarfajlmert": "",
+    "disc": "-30%",
+    "erv": "",
+    "termeklink": "https://online.prima.hu/s/apenta-light-uditoital-szolo-enyhen-szens-asvanyviz-1-5l-10000205265?cat=551020"
+  },
+  {
+    "azon": "CBA",
+    "forras": "",
     "termeknev": "Apenta üdítőital málna 1,5l",
     "termekar": "179,- Ft/db",
     "termekcur": "",
@@ -9231,7 +9244,7 @@
   {
     "azon": "CBA",
     "forras": "",
-    "termeknev": "Apenta light üditőital szőlő enyhén széns.ásványvíz. 1.5l",
+    "termeknev": "Apenta üdítőital light kaktuszfüge ízű édesítőszerekkel 1,5l",
     "termekar": "179,- Ft/db",
     "termekcur": "",
     "termekmenny": "",
@@ -9239,7 +9252,7 @@
     "tarfajlmert": "",
     "disc": "-30%",
     "erv": "",
-    "termeklink": "https://online.prima.hu/s/apenta-light-uditoital-szolo-enyhen-szens-asvanyviz-1-5l-10000205265?cat=551020"
+    "termeklink": "https://online.prima.hu/s/apenta-uditoital-light-kaktuszfuge-izu-edesitoszerekkel-1-5l-10000149135?cat=551020"
   },
   {
     "azon": "CBA",
@@ -9318,19 +9331,6 @@
     "disc": "-30%",
     "erv": "",
     "termeklink": "https://online.prima.hu/s/apenta-uditoital-narancs-1-5l-10000027694?cat=551020"
-  },
-  {
-    "azon": "CBA",
-    "forras": "",
-    "termeknev": "Apenta üdítőital light kaktuszfüge ízű édesítőszerekkel 1,5l",
-    "termekar": "179,- Ft/db",
-    "termekcur": "",
-    "termekmenny": "",
-    "tarfajl": " 119,33 Ft/l",
-    "tarfajlmert": "",
-    "disc": "-30%",
-    "erv": "",
-    "termeklink": "https://online.prima.hu/s/apenta-uditoital-light-kaktuszfuge-izu-edesitoszerekkel-1-5l-10000149135?cat=551020"
   },
   {
     "azon": "CBA",
@@ -9998,19 +9998,6 @@
   {
     "azon": "CBA",
     "forras": "",
-    "termeknev": "Pöttyös óriás túró rudi étcsokoládés mogyorókrémes 51g",
-    "termekar": "139,- Ft/db",
-    "termekcur": "",
-    "termekmenny": "",
-    "tarfajl": " 2725,49 Ft/kg",
-    "tarfajlmert": "",
-    "disc": "-26%",
-    "erv": "",
-    "termeklink": "https://online.prima.hu/s/pottyos-orias-turo-rudi-etcsokolades-mogyorokremes-51g-10000118244?cat=104040"
-  },
-  {
-    "azon": "CBA",
-    "forras": "",
     "termeknev": "Milli krémtúró lágy kekszdarabokkal 90g",
     "termekar": "139,- Ft/db",
     "termekcur": "",
@@ -10020,6 +10007,19 @@
     "disc": "-26%",
     "erv": "",
     "termeklink": "https://online.prima.hu/s/milli-kremturo-lagy-kekszdarabokkal-90g-10000149819?cat=104020"
+  },
+  {
+    "azon": "CBA",
+    "forras": "",
+    "termeknev": "Milli krémtúró epres 90g",
+    "termekar": "139,- Ft/db",
+    "termekcur": "",
+    "termekmenny": "",
+    "tarfajl": " 1544,44 Ft/kg",
+    "tarfajlmert": "",
+    "disc": "-26%",
+    "erv": "",
+    "termeklink": "https://online.prima.hu/s/milli-kremturo-epres-90g-10000162713?cat=104020"
   },
   {
     "azon": "SPAR",
@@ -10297,19 +10297,6 @@
   {
     "azon": "SPAR",
     "forras": "",
-    "termeknev": "SPAR chilis frankfurti virsli",
-    "termekar": "1 690",
-    "termekcur": "Ft",
-    "termekmenny": "",
-    "tarfajl": "(1 690,00 Ft/kg)",
-    "tarfajlmert": "",
-    "disc": "",
-    "erv": "",
-    "termeklink": "https://www.spar.hu/onlineshop/spar-chilis-frankfurti-virsli/p/353884005"
-  },
-  {
-    "azon": "SPAR",
-    "forras": "",
     "termeknev": "Master Good friss csirke mellfilé",
     "termekar": "1 999",
     "termekcur": "Ft",
@@ -10319,6 +10306,19 @@
     "disc": "",
     "erv": "",
     "termeklink": "https://www.spar.hu/onlineshop/master-good-friss-csirke-mellfile/p/505634007"
+  },
+  {
+    "azon": "SPAR",
+    "forras": "",
+    "termeknev": "SPAR chilis frankfurti virsli",
+    "termekar": "1 690",
+    "termekcur": "Ft",
+    "termekmenny": "",
+    "tarfajl": "(1 690,00 Ft/kg)",
+    "tarfajlmert": "",
+    "disc": "",
+    "erv": "",
+    "termeklink": "https://www.spar.hu/onlineshop/spar-chilis-frankfurti-virsli/p/353884005"
   },
   {
     "azon": "SPAR",
@@ -10570,19 +10570,6 @@
   {
     "azon": "SPAR",
     "forras": "",
-    "termeknev": "PICK Góliát chilis szalámi",
-    "termekar": "4 790",
-    "termekcur": "Ft",
-    "termekmenny": "",
-    "tarfajl": "(4 790,00 Ft/kg)",
-    "tarfajlmert": "",
-    "disc": "",
-    "erv": "",
-    "termeklink": "https://www.spar.hu/onlineshop/pick-goliat-chilis-szalami/p/401982004"
-  },
-  {
-    "azon": "SPAR",
-    "forras": "",
     "termeknev": "SPAR BBQ szeletelt mester sertés tarja, csont nélkül, pikáns fűszerezésű olajos marinádban",
     "termekar": "1 940",
     "termekcur": "Ft",
@@ -10592,6 +10579,19 @@
     "disc": "",
     "erv": "",
     "termeklink": "https://www.spar.hu/onlineshop/spar-bbq-szeletelt-mester-sertes-tarja-csont-nelkul-pikans-fuszerezesu-olajos-marinadban/p/378551005"
+  },
+  {
+    "azon": "SPAR",
+    "forras": "",
+    "termeknev": "PICK Góliát chilis szalámi",
+    "termekar": "4 790",
+    "termekcur": "Ft",
+    "termekmenny": "",
+    "tarfajl": "(4 790,00 Ft/kg)",
+    "tarfajlmert": "",
+    "disc": "",
+    "erv": "",
+    "termeklink": "https://www.spar.hu/onlineshop/pick-goliat-chilis-szalami/p/401982004"
   },
   {
     "azon": "SPAR",
@@ -11363,19 +11363,6 @@
   {
     "azon": "SPAR",
     "forras": "",
-    "termeknev": "Globus morzsolt csemegekukorica 340 g",
-    "termekar": "262",
-    "termekcur": "Ft",
-    "termekmenny": "",
-    "tarfajl": "(919,30 Ft/kg)",
-    "tarfajlmert": "",
-    "disc": "",
-    "erv": "",
-    "termeklink": "https://www.spar.hu/onlineshop/globus-morzsolt-csemegekukorica-340-g/p/331411001"
-  },
-  {
-    "azon": "SPAR",
-    "forras": "",
     "termeknev": "Márka meggy szénsavas üdítőital cukorral és édesítőszerekkel 2 l",
     "termekar": "179",
     "termekcur": "Ft",
@@ -11385,6 +11372,19 @@
     "disc": "",
     "erv": "",
     "termeklink": "https://www.spar.hu/onlineshop/marka-meggy-szensavas-uditoital-cukorral-es-edesitoszerekkel-2-l/p/344420007"
+  },
+  {
+    "azon": "SPAR",
+    "forras": "",
+    "termeknev": "Globus morzsolt csemegekukorica 340 g",
+    "termekar": "262",
+    "termekcur": "Ft",
+    "termekmenny": "",
+    "tarfajl": "(919,30 Ft/kg)",
+    "tarfajlmert": "",
+    "disc": "",
+    "erv": "",
+    "termeklink": "https://www.spar.hu/onlineshop/globus-morzsolt-csemegekukorica-340-g/p/331411001"
   },
   {
     "azon": "SPAR",
@@ -11441,19 +11441,6 @@
   {
     "azon": "SPAR",
     "forras": "",
-    "termeknev": "DESPAR szeletelt durumbúza kenyér olívaolajjal 400 g",
-    "termekar": "399",
-    "termekcur": "Ft",
-    "termekmenny": "",
-    "tarfajl": "(997,50 Ft/kg)",
-    "tarfajlmert": "",
-    "disc": "",
-    "erv": "",
-    "termeklink": "https://www.spar.hu/onlineshop/despar-szeletelt-durumbuza-kenyer-olivaolajjal-400-g/p/458264009"
-  },
-  {
-    "azon": "SPAR",
-    "forras": "",
     "termeknev": "Szarvasi szeletelt natúr pizza mozzarella sajt 100 g",
     "termekar": "349",
     "termekcur": "Ft",
@@ -11463,6 +11450,19 @@
     "disc": "",
     "erv": "",
     "termeklink": "https://www.spar.hu/onlineshop/szarvasi-szeletelt-natur-pizza-mozzarella-sajt-100-g/p/343790002"
+  },
+  {
+    "azon": "SPAR",
+    "forras": "",
+    "termeknev": "DESPAR szeletelt durumbúza kenyér olívaolajjal 400 g",
+    "termekar": "399",
+    "termekcur": "Ft",
+    "termekmenny": "",
+    "tarfajl": "(997,50 Ft/kg)",
+    "tarfajlmert": "",
+    "disc": "",
+    "erv": "",
+    "termeklink": "https://www.spar.hu/onlineshop/despar-szeletelt-durumbuza-kenyer-olivaolajjal-400-g/p/458264009"
   },
   {
     "azon": "SPAR",
@@ -11519,19 +11519,6 @@
   {
     "azon": "SPAR",
     "forras": "",
-    "termeknev": "Hohes C Mild 100% narancs-acerola gyümölcslé 1 l",
-    "termekar": "499",
-    "termekcur": "Ft",
-    "termekmenny": "",
-    "tarfajl": "(499,00 Ft/l)",
-    "tarfajlmert": "",
-    "disc": "",
-    "erv": "",
-    "termeklink": "https://www.spar.hu/onlineshop/hohes-c-mild-100-narancs-acerola-gyumolcsle-1-l/p/248904009"
-  },
-  {
-    "azon": "SPAR",
-    "forras": "",
     "termeknev": "SPAR bazsalikomos pesto 190 g",
     "termekar": "449",
     "termekcur": "Ft",
@@ -11541,6 +11528,19 @@
     "disc": "",
     "erv": "",
     "termeklink": "https://www.spar.hu/onlineshop/spar-bazsalikomos-pesto-190-g/p/261509007"
+  },
+  {
+    "azon": "SPAR",
+    "forras": "",
+    "termeknev": "Hohes C Mild 100% narancs-acerola gyümölcslé 1 l",
+    "termekar": "499",
+    "termekcur": "Ft",
+    "termekmenny": "",
+    "tarfajl": "(499,00 Ft/l)",
+    "tarfajlmert": "",
+    "disc": "",
+    "erv": "",
+    "termeklink": "https://www.spar.hu/onlineshop/hohes-c-mild-100-narancs-acerola-gyumolcsle-1-l/p/248904009"
   },
   {
     "azon": "SPAR",
@@ -11597,15 +11597,15 @@
   {
     "azon": "SPAR",
     "forras": "",
-    "termeknev": "Completa Original UHT cukrozott tejszín spray 26% 250 ml",
-    "termekar": "529",
+    "termeknev": "Magyar Túró félzsíros tehéntúró 250 g",
+    "termekar": "269",
     "termekcur": "Ft",
     "termekmenny": "",
-    "tarfajl": "(2 116,00 Ft/l)",
+    "tarfajl": "(1 076,00 Ft/kg)",
     "tarfajlmert": "",
     "disc": "",
     "erv": "",
-    "termeklink": "https://www.spar.hu/onlineshop/completa-original-uht-cukrozott-tejszin-spray-26-250-ml/p/213866004"
+    "termeklink": "https://www.spar.hu/onlineshop/magyar-turo-felzsiros-tehenturo-250-g/p/363815006"
   },
   {
     "azon": "SPAR",
@@ -11623,15 +11623,15 @@
   {
     "azon": "SPAR",
     "forras": "",
-    "termeknev": "Magyar Túró félzsíros tehéntúró 250 g",
-    "termekar": "269",
+    "termeknev": "Completa Original UHT cukrozott tejszín spray 26% 250 ml",
+    "termekar": "529",
     "termekcur": "Ft",
     "termekmenny": "",
-    "tarfajl": "(1 076,00 Ft/kg)",
+    "tarfajl": "(2 116,00 Ft/l)",
     "tarfajlmert": "",
     "disc": "",
     "erv": "",
-    "termeklink": "https://www.spar.hu/onlineshop/magyar-turo-felzsiros-tehenturo-250-g/p/363815006"
+    "termeklink": "https://www.spar.hu/onlineshop/completa-original-uht-cukrozott-tejszin-spray-26-250-ml/p/213866004"
   },
   {
     "azon": "SPAR",
@@ -12325,14 +12325,14 @@
   {
     "azon": "SPAR",
     "forras": "",
-    "termeknev": "Jaus hot-dog kifli 4 db 250 g",
-    "termekar": "458",
+    "termeknev": "Márka Limonádé bodza ízű szénsavas üdítőital cukorral és édesítőszerekkel 2 l",
+    "termekar": "179",
     "termekcur": "Ft",
     "termekmenny": "",
-    "tarfajl": "(1 832,00 Ft/kg)",
+    "tarfajl": "(89,50 Ft/l)",
     "tarfajlmert": "",
     "disc": "",
     "erv": "",
-    "termeklink": "https://www.spar.hu/onlineshop/jaus-hot-dog-kifli-4-db-250-g/p/400176008"
+    "termeklink": "https://www.spar.hu/onlineshop/marka-limonade-bodza-izu-szensavas-uditoital-cukorral-es-edesitoszerekkel-2-l/p/429997004"
   }
 ]
