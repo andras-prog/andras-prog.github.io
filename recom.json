@@ -1,6 +1,198 @@
 [
     {
         "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/egyszeru-ciganypecsenye",
+        "h1": "Egyszerű cigánypecsenye",
+        "txtlength": 10288
+    },
+    {
+        "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/spargakremleves",
+        "h1": "Spárgakrémleves",
+        "txtlength": 10195
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/ciganypecsenye-alaprecept.recept",
+        "h1": "CIGÁNYPECSENYE ALAPRECEPT",
+        "txtlength": 9634
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/gyros-tal-hazilag-egyszeruen.recept",
+        "h1": "GYROS TÁL HÁZILAG",
+        "txtlength": 9597
+    },
+    {
+        "hostname": "hataratkelo.blog.hu",
+        "pagelink": "https://hataratkelo.blog.hu/2021/05/15/a_hataratkelok_is_kaphatnak_oltast_magyarorszagon",
+        "h1": "A határátkelők is kaphatnak oltást Magyarországon",
+        "txtlength": 36153
+    },
+    {
+        "hostname": "kulturpart.hu",
+        "pagelink": "https://kulturpart.blog.hu/2021/05/15/arkok_es_arnyak",
+        "h1": "ÁRKOK ÉS ÁRNYAK",
+        "txtlength": 8512
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/uzlet/20210516/a-jarvany-ujabb-mellekhatasa-nincs-eleg-ketchup-chip-acel-muanyag-es-csirke-483350",
+        "h1": "A járvány újabb mellékhatása: nincs elég ketchup, chip, acél, műanyag és csirke",
+        "txtlength": 27154
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210512_mindenki_jobban_felt_a_botranytol_puskas_balazs_a_papi_pedofiliarol_a_mandinernek",
+        "h1": "Nincs olyan, hogy „papi pedofília” – Puskás Balázs gyermekvédelmi felelős a Mandinernek",
+        "txtlength": 26132
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210515_uj_mozgalom_indul_karacsony_gergely_tamogatasara",
+        "h1": "Új mozgalom indul Karácsony Gergely támogatására",
+        "txtlength": 24228
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210512_kesz_volt_a_nekrologja_a_halal_torkabol_szabadult_aradszki_andras_kepviselo",
+        "h1": "Kész volt a nekrológja – a halál torkából szabadult Aradszki András képviselő",
+        "txtlength": 22519
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/kapcsolat/haszid-zsido-szokas/",
+        "h1": "Először jelentek meg haszid zsidó nőkről képek: bensőséges pillanatokat fényképezett Agnieszka Traczewska",
+        "txtlength": 22026
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2021/05/14/2030-ig-fejenkent-1-negyzetmeterrel-nohet-a-zold-terulet-budapesten-es-azert-is-vert-fog-izzadni-a-varos",
+        "h1": "2030-IG FEJENKÉNT 1 NÉGYZETMÉTERREL NŐHET A ZÖLD TERÜLET BUDAPESTEN, ÉS AZÉRT IS VÉRT FOG IZZADNI A VÁROS",
+        "txtlength": 21724
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/penz/20210516/a-kriptovilag-megerkezett-a-teljes-nihilizmushoz-es-ez-meggyorsithatja-a-bukasat/",
+        "h1": "A kriptovilág megérkezett a teljes nihilizmushoz, és ez meggyorsíthatja a bukását",
+        "txtlength": 20545
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/elet/20210515/az-alulrol-halozatosan-szervezodo-muveszeti-tarsulasok-ideje-johet-el/",
+        "h1": "Az alulról, hálózatosan szerveződő művészeti társulások ideje jöhet el",
+        "txtlength": 19362
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/auto/20210515/ezert-horror-penz-a-jogsi-magyarorszagon-nem-csak-a-benzinar-a-ludas-1114505",
+        "h1": "Ezért horror pénz a jogsi Magyarországon: nem csak a benzinár a ludas",
+        "txtlength": 17853
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/szorakozas/20210515/eldolt-a-csucsettermek-sorsa-nehez-dontest-hozott-sarkozi-akos-racz-jeno-es-szell-tamas-1114631",
+        "h1": "Eldőlt a csúcséttermek sorsa: nehéz döntést hozott Sárközi Ákos, Rácz Jenő és Széll Tamás",
+        "txtlength": 17514
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/global/20210514/sorra-alakulnak-a-lazado-csoportok-ujabb-orszagban-robbanhat-ki-kaotikus-polgarhaboru-483088",
+        "h1": "Sorra alakulnak a lázadó csoportok, újabb országban robbanhat ki kaotikus polgárháború",
+        "txtlength": 16118
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.penzcentrum.hu/karrier/20210516/hogyan-nez-ki-egy-meghatalmazas-meghatalmazas-mintak-altalanos-meghatalmazas-minta-ceges-meghatalmazas-minta-2021-1114605",
+        "h1": "Hogyan néz ki egy meghatalmazás? Meghatalmazás minták: általános meghatalmazás minta, céges meghatalmazás minta 2021",
+        "txtlength": 15872
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/lajfhekk/ebredes-visszaalvas/",
+        "h1": "Mit csináljak, ha nem tudok visszaaludni éjszaka?",
+        "txtlength": 7775
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/tudomany/2021/05/16/gyilkos-bunozo-templom-kozepkor/",
+        "h1": "Gyilkosok bújtak el a templomban",
+        "txtlength": 17368
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kultura/2021/05/16/renyi-adam-osztalytalalkozo-matine-konyvajanlo/",
+        "h1": "Matiné: hetven év után találkozhatott volna újra Pesten a csecsemőként elszakított ikerpár",
+        "txtlength": 17134
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2021/05/15/megvalto-a-patikaban-egy-veszpremi-gyogyszereszcsalad-huszadik-szazadi-tortenete/",
+        "h1": "Megváltó a patikában – egy veszprémi gyógyszerészcsalád huszadik századi története",
+        "txtlength": 16319
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/sport/2021/05/16/chandler-oliveira-ufc-konnyusuly-mma-ko",
+        "h1": "Pozdorjává verték, utána 10 másodperc alatt eldöntötte a UFC bajnoki döntőjét",
+        "txtlength": 11910
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/05/15/sikeresen-landolt-a-kinaiak-marsjaroja",
+        "h1": "Sikeresen landolt a kínaiak marsjárója",
+        "txtlength": 11466
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/05/14/vegyi-haboruval-gyurnek-le-ausztraliaban-az-egerinvaziot",
+        "h1": "Vegyi háborúval gyűrnék le Ausztráliában az egérinváziót",
+        "txtlength": 11377
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/krimi/katzenbach-imre-gyilkossag-curtis-testvere-magannyomozo/psg9l61",
+        "h1": "Kínzó sejtelmek miatt szállt ki a Curtis testvérét érintő ügyből: magánnyomozó kereste az eltűnt Katzenbach Imrét",
+        "txtlength": 11287
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/sport/2021/05/15/robert-lewandowski-bayern-munchen-bundesliga-golrekord-gerd-muller-nemet-bajnoksag",
+        "h1": "Lewandowski beállította Gerd Müller elérhetetlennek hitt gólrekordját",
+        "txtlength": 10273
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/eszkombajn/2021/05/15/frank-lentini-freak-show-19-szazad-cirkusz-amerika",
+        "h1": "Egy háromlábú, kétpéniszű szicíliai férfi volt a 19. századi cirkuszok gigasztárja",
+        "txtlength": 9944
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/kkv/20210515_vendeglatohelyek_nyitasa_terasz",
+        "h1": "\"Az a vendéglős, aki szeptemberig talpon marad, túlélheti a válságot\"",
+        "txtlength": 9569
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/gazdasag/20210515_Tobb_japan_vallalati_vezeto_is_fel_a_tokioi_olimpiatol_a_koronavirusjarvany_miatt",
+        "h1": "Több japán vállalati vezető is fél a tokiói olimpiától a koronavírus-járvány miatt",
+        "txtlength": 9176
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/tudomany/20210515_Vizsgaljak_ki_nem_megis_egy_laborbol_szarmazike_a_koronavirus_keri_18_tudos",
+        "h1": "Vizsgálják ki, nem mégis egy laborból származik-e a koronavírus, kéri 18 tudós",
+        "txtlength": 9170
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/krimi/manyi-angelika-borton-hamis-vallomas/yv8v0vn",
+        "h1": "15 évet kapott erőszakért F. Dezső: hamis vallomással juttatta börtönbe az apját Angelika?",
+        "txtlength": 8026
+    },
+    {
+        "hostname": "nosalty.hu",
         "pagelink": "https://www.nosalty.hu/recept/szaftos-brassoi-apropecsenye",
         "h1": "Szaftos brassói aprópecsenye",
         "txtlength": 11292
