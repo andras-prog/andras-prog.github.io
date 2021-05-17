@@ -1,5 +1,185 @@
 [
     {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/pizzakenyerke-ahogy-szabi-a-pek-kesziti.recept",
+        "h1": "PIZZAKENYÉRKE, AHOGY SZABI A PÉK KÉSZÍTI",
+        "txtlength": 9362
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/epres-cobbler-desszert.recept",
+        "h1": "EPRES COBBLER",
+        "txtlength": 9360
+    },
+    {
+        "hostname": "hataratkelo.blog.hu",
+        "pagelink": "https://hataratkelo.blog.hu/2021/05/15/a_hataratkelok_is_kaphatnak_oltast_magyarorszagon#c40648226",
+        "h1": "A határátkelők is kaphatnak oltást Magyarországon",
+        "txtlength": 40202
+    },
+    {
+        "hostname": "kulturpart.hu",
+        "pagelink": "https://kulturpart.blog.hu/2021/05/14/veszpremben_lep_fel_tom_jones",
+        "h1": "VESZPRÉMBEN LÉP FEL SIR TOM JONES",
+        "txtlength": 6462
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210516_weiner_sennyey_tibor_interju",
+        "h1": "„Kertmagyarország” élhető haza lenne a 21. században – Weiner Sennyey Tibor a Mandinernek",
+        "txtlength": 38736
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/ingatlan/20210517/scheer-sandor-uj-ipari-forradalom-zajlik-es-mi-igyekszunk-resen-lenni-483068",
+        "h1": "Scheer Sándor: „Új ipari forradalom zajlik, és mi igyekszünk résen lenni!”",
+        "txtlength": 26151
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210515_karacsony_gergely_portre",
+        "h1": "Az ember, aki nem (?) akart miniszterelnök-jelölt lenni – Karácsony Gergely portréja",
+        "txtlength": 25996
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/global/20210516/rendszerellenes-mozgalomnak-indult-hamarosan-megis-atvehetik-az-uralmat-europa-legerosebb-orszaga-felett-483204",
+        "h1": "Rendszerellenes mozgalomnak indult, hamarosan mégis átvehetik az uralmat Európa legerősebb országa felett",
+        "txtlength": 20936
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://makronom.mandiner.hu/cikk/20210513_szazadveg_mcc_eu_forrasok_2021_27_konferencia_tudositas",
+        "h1": "Az EU működésének változását vetíti előre az uniós fejlesztési források rendszerének átalakulása?",
+        "txtlength": 20641
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/fogyokura/dr-lukacs-liza/",
+        "h1": "\"Nem törvényszerű meghízni a járvány alatt\" - Interjú Dr. Lukács Liza krízistanácsadó szakpszichológussal",
+        "txtlength": 20023
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/elet/20210517/miert-nem-er-sokat-a-klimavaltozas-ellen-ha-szelektiven-gyujtjuk-a-hulladekot/",
+        "h1": "Miért nem ér sokat a klímaváltozás ellen, ha szelektíven gyűjtjük a hulladékot?",
+        "txtlength": 19885
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/podcast/20210515/egyre-hatekonyabb-technologiaval-eljuk-fel-egyre-jobban-a-termeszeti-eroforrasokat/",
+        "h1": "Egyre hatékonyabb technológiával éljük fel egyre jobban a természeti erőforrásokat",
+        "txtlength": 19092
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/otthon/20210513/lakasfelujitasi-tamogatas-onero-nelkul-is-jarnak-a-milliok-szinte-ingyen-adjak-a-bankok-1114568",
+        "h1": "Lakásfelújítási támogatás: önerő nélkül is járnak a milliók, szinte ingyen adják a bankok",
+        "txtlength": 17315
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/egeszseg/20210512/kiderult-mennyire-hatekony-az-orosz-szputnyik-v-vakcina-kinek-nem-lehet-beadni-1114566",
+        "h1": "Kiderült, mennyire hatékony az orosz Szputnyik V vakcina: kinek nem lehet beadni?",
+        "txtlength": 15952
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20210516/hatalmas-fordulat-nagy-elonyhoz-juthatnak-az-oltottak-483396",
+        "h1": "Hatalmas fordulat, nagy előnyhöz juthatnak az oltottak",
+        "txtlength": 15321
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2021/05/13/karacsony-gergely-esete-orban-viktor-testalkataval-es-a-nyelveszeti-pragmatikaval",
+        "h1": "KARÁCSONY GERGELY ESETE ORBÁN VIKTOR TESTALKATÁVAL ÉS A NYELVÉSZETI PRAGMATIKÁVAL",
+        "txtlength": 14390
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/szuloseg/gyerek-szulo-tisztelete/",
+        "h1": "Akkor fog tisztelni a gyereked, ha te is tiszteled őt – már gyerekkorában is",
+        "txtlength": 10978
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/interju/2021/05/17/rekassy-balazs-interju-egeszsegugy-covid-apolo-orvos-fizetes-motivacio-kieges-emmi-oltas-haziorvos",
+        "h1": "Hiába digitalizáljuk az egészségügyet, ápolók nélkül emberek halnak meg",
+        "txtlength": 30514
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/fn/gazdasag/2021/05/17/onkormanyzati-lakasok-eladasa-berlok/",
+        "h1": "Fideszes polgármesterek is kiakadtak az önkormányzati lakások kényszereladásától, ezermilliárdos vagyon a tét",
+        "txtlength": 22842
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/05/17/karacsony-hosszu-hetvegeje",
+        "h1": "Karácsony hosszú hétvégéje",
+        "txtlength": 18467
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kultura/2021/05/16/ellen-degeneres-show-vege-oprah-winfrey-dakota-johnson/",
+        "h1": "Amerika jó fej nagynénijét mindenképp gonoszságon akarjuk kapni",
+        "txtlength": 16175
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kulfold/2021/05/16/koronavirus-jarvany-nyajimmunitas-vakcina-beoltottsag/",
+        "h1": "Nagyon úgy tűnik, hogy álom marad a nyájimmunitás",
+        "txtlength": 15899
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/szorakozas/2021/05/16/castlevania-powerhouse-animation-netflix-adaptacio-videojatek-sorozat",
+        "h1": "A végére tényleg minden puskaport ellőtt a Netflix legkirályabb animációs sorozata",
+        "txtlength": 15794
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/gazdasag/2021/05/17/ot-szazalek-felett-az-inflacio-hogy-nyomjuk-majd-vissza-a-fogpasztat-a-tubusba",
+        "h1": "Öt százalék felett az infláció: hogy nyomjuk majd vissza a fogpasztát a tubusba?",
+        "txtlength": 14229
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/05/16/tiltakozik-az-onkormanyzati-berlakasszektor-megszunesevel-fenyegeto-fideszes-torvenyjavaslat-ellen-a-magyar-onkormanyzatok-szovetsege",
+        "h1": "Tiltakozik az önkormányzati bérlakásszektor megszűnésével fenyegető fideszes törvényjavaslat ellen a Magyar Önkormányzatok Szövetsége",
+        "txtlength": 12260
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/koronavirus-hirek-majus-17-magyarorszag-jarvanyugyi-adatok/lq40168?sl_ps=d_2",
+        "h1": "Megjöttek a friss járványügyi adatok: hosszú hetek óta nem volt ilyen alacsony az áldozatok száma",
+        "txtlength": 10637
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/veszhelyzet/izraeli-palesztin-raketahaboru/5qj3v1d",
+        "h1": "Izrael száz rakétát lőtt ki az éjjel gázai célpontokra: drámai fotókon a romok alá szorult emberek mentése",
+        "txtlength": 9420
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/zhvg/20210516_fenntarthatosag_tippek_eletmod",
+        "h1": "Őket kövesse ötletekért és tippekért, ha zöldebben szeretne élni",
+        "txtlength": 9070
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/vilag/20210517_izrael_legicsapas_gaza_hamasz_raketa_ensz_bt",
+        "h1": "Izraeli–palesztin konfliktus: rakétatámadásra légi csapás volt a válasz hajnalban",
+        "txtlength": 8206
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/tudomany/20210517_joe_biden_kibervedelem_usa",
+        "h1": "Kiberfalat húz fel az USA a kritikus hackertámadás után",
+        "txtlength": 7914
+    },
+    {
         "hostname": "nosalty.hu",
         "pagelink": "https://www.nosalty.hu/recept/egyszeru-ciganypecsenye",
         "h1": "Egyszerű cigánypecsenye",
