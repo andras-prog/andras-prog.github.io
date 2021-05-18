@@ -1,6 +1,192 @@
 [
     {
         "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/epres-scone.recept",
+        "h1": "EPRES SCONE",
+        "txtlength": 10014
+    },
+    {
+        "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/bacskai-rizses-hus",
+        "h1": "Bácskai rizses hús",
+        "txtlength": 10003
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/karfiolkremleves-pofonegyszeruen.recept",
+        "h1": "KARFIOLKRÉMLEVES POFONEGYSZERŰEN",
+        "txtlength": 9956
+    },
+    {
+        "hostname": "kiszamolo.hu",
+        "pagelink": "https://kiszamolo.hu/egy-hasznalt-auto-egy-evtizede/",
+        "h1": "Egy használt autó egy évtizede",
+        "txtlength": 35276
+    },
+    {
+        "hostname": "efesasanisimasa.com",
+        "pagelink": "https://efesasanisimasa.com/2021/04/18/sajat-szoba-a-nomadok-foldje-nomadland-2020/",
+        "h1": "Saját szoba – A nomádok földje (Nomadland, 2020)",
+        "txtlength": 9459
+    },
+    {
+        "hostname": "alapblog.hu",
+        "pagelink": "https://alapblog.hu/a-gazdasagi-donteshozok-kobra-effektusa/",
+        "h1": "A GAZDASÁGI DÖNTÉSHOZÓK KOBRA-EFFEKTUSA",
+        "txtlength": 7137
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20210518/azonnal-meg-kell-valtoznia-annak-ahogy-a-nyugdijasokrol-gondolkodunk-483136",
+        "h1": "Azonnal meg kell változnia annak, ahogy a nyugdíjasokról gondolkodunk",
+        "txtlength": 50813
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210512_egy_dk_mind_felett",
+        "h1": "Egy DK mind felett – gyurcsányi térfoglalás a baloldalon",
+        "txtlength": 24176
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20210517/orulet-a-hazai-munkahelyeken-van-ahol-1-millio-forintot-kap-aki-azonnal-munkaba-all-483486",
+        "h1": "Őrület a hazai munkahelyeken: van, ahol 1 millió forintot kap, aki azonnal munkába áll",
+        "txtlength": 22927
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vallalat/20210518/megmaszta-a-vilag-egyik-legdurvabb-sziklafalat-majd-letrehozta-a-legismertebb-magyar-turaboltot/",
+        "h1": "Megmászta a világ egyik legdurvább sziklafalát, majd létrehozta a legismertebb magyar túraboltot",
+        "txtlength": 22475
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/vasarlas/20210516/meg-dragabb-az-eteled-ez-meg-csak-a-kezdet-igy-szallt-el-par-honap-alatt-a-bevasarlas-1114640",
+        "h1": "Még drágább az ételed: ez még csak a kezdet, így szállt el pár hónap alatt a bevásárlás",
+        "txtlength": 22141
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/ingatlan/20210518/amikrol-eddig-nem-tudtal-a-legaprobb-reszletek-az-1-es-villamos-eszaki-vegen-megujulo-plazarol-482874",
+        "h1": "Amikről eddig nem tudtál: a legapróbb részletek, az 1-es villamos északi végén megújuló plázáról",
+        "txtlength": 19701
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210512_2_kerulet_elmaradt_fejlesztesek_meg_nem_valosult_igeretek",
+        "h1": "Elmaradt fejlesztések, meg nem valósult ígéretek a II. kerületben",
+        "txtlength": 18031
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vallalat/20210517/tizezer-forint-bevetelbol-is-lehet-12-milliard-profitot-csinalni-csak-egy-elszurt-allami-sportprojekt-kell-hozza/",
+        "h1": "Tízezer forint bevételből is lehet 1,2 milliárd profitot csinálni, csak egy elszúrt állami sportprojekt kell hozzá",
+        "txtlength": 17378
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210517_gyurcsany_fidesz_dobrev_ellenzek_2022",
+        "h1": "Gyurcsány Ferenc: Dobrev Klára szakértelme vitathatatlan, nyelvtudása drámaian széles",
+        "txtlength": 17171
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/hitel/20210514/ennel-jobb-ertekteremto-befektetes-nincs-2021-ben-kolcsonbol-is-kijon-a-matek-1114607",
+        "h1": "Ennél jobb értékteremtő befektetés nincs 2021-ben: kölcsönből is kijön a matek",
+        "txtlength": 14624
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2021/05/16/a-legfrissebb-kutatasok-szerint-a-kolniviz-olte-meg-napoleont",
+        "h1": "A LEGFRISSEBB KUTATÁSOK SZERINT A KÖLNIVÍZ ÖLTE MEG NAPÓLEONT",
+        "txtlength": 9559
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/lajfhekk/miert-eszik-fuvet-a-macska/",
+        "h1": "Miért eszik füvet a macska, mikor egyszer ragadozó? Állatorvos válaszol",
+        "txtlength": 7309
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/sport/2021/05/17/lorincz-tamas-birkozas-olimpia-favorit-fogyasztas-eb-gyozelem",
+        "h1": "Bosszantott, hogy egy papírból akarták megmondani, mi lehet belőlem",
+        "txtlength": 19499
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/kultura/20210517_velencei_biennale_modernizmus_epiteszet_othernity",
+        "h1": "Mi lenne, ha megpróbálnánk nem utálni a szocializmus vasbeton monstrumjait?",
+        "txtlength": 16880
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/tech/2021/05/17/oneplus-9-vanilla-pro-teszt-mobiltelefon",
+        "h1": "Oneplus 9 és 9 Pro: Azzá lett, amiket egykor gyilkolt",
+        "txtlength": 15964
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/kkv/20210517_Pfizer_magyarorszagi_igazgato_vereckei_peter_interju",
+        "h1": "Pfizer: Minden adott lesz, hogy szeptemberre be legyenek oltva a 12–15 évesek",
+        "txtlength": 15769
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kozelet/2021/05/18/zajak-rita-bomba-gabor-ellenzeki-fideszes-polgarmester-acs-rezso-szekszard/",
+        "h1": "Nem akart nyolcból a nyolcadik ellenzéki maradni – így veszett el a kormányváltó többség Szekszárdon",
+        "txtlength": 15695
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/gazdasag/2021/05/18/a-magyar-allam-meg-kemenyebben-rafordul-az-egeszsegugyi-onellatasra",
+        "h1": "A magyar állam még keményebben ráfordul az egészségügyi önellátásra",
+        "txtlength": 14873
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/gazdasag/20210518_GDP_csokkenes_recesszio_ksh",
+        "h1": "Nem tudta elkerülni az újabb GDP-csökkenést a magyar gazdaság",
+        "txtlength": 12551
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/tech/2021/05/18/mercusys-mr70x-wi-fi-6-router-teszt/",
+        "h1": "Már egész olcsón lehet otthon szuperwifije",
+        "txtlength": 12151
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/05/17/2022-vegere-mar-termelhet-a-magyar-vakcinagyar",
+        "h1": "2022 végére már termelhet a magyar vakcinagyár",
+        "txtlength": 11699
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/05/18/dontott-a-kormany-meg-lehet-tartani-a-ballagasokat-es-a-poterettsegit",
+        "h1": "Döntött a kormány, meg lehet tartani a ballagásokat és a pótérettségit",
+        "txtlength": 10589
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/koronavirus-hirek-jarvanyugyi-adatok-majus-18-magyarorszag/dnck2t0?sl_ps=d_1",
+        "h1": "Koronavírus hírek: újabb 64 áldozatot követelt itthon a covid, a fertőzöttek száma viszont csökken",
+        "txtlength": 10527
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/beremeles-egeszsegugy-orvosok-vitatjak/qxlr39n?sl_ps=d_10",
+        "h1": "„Annyi mindent megcsináltunk eddig helyettük, és így becsüli meg a kormány a munkánkat” – Egymásnak ugrasztotta a bérrendezés az ápolókat és az orvosokat",
+        "txtlength": 9645
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/fn/gazdasag/2021/05/18/ott-one-kartonpack-birsag-tozsde/",
+        "h1": "A lélegeztetőgépeken kaszáló cég és az állami kézbe vett Kartonpack is megszegi a tőzsdei szabályokat",
+        "txtlength": 9638
+    },
+    {
+        "hostname": "mindmegette.hu",
         "pagelink": "https://www.mindmegette.hu/pizzakenyerke-ahogy-szabi-a-pek-kesziti.recept",
         "h1": "PIZZAKENYÉRKE, AHOGY SZABI A PÉK KÉSZÍTI",
         "txtlength": 9362
