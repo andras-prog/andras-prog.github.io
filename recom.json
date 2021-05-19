@@ -1,5 +1,209 @@
 [
     {
+        "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/vadas-martas-serteshussal",
+        "h1": "Vadas mártás sertéshússal",
+        "txtlength": 14184
+    },
+    {
+        "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/palacsinta-0",
+        "h1": "Palacsinta",
+        "txtlength": 11273
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/son-sult-csirkecomb-sult-zoldsegekkel.recept",
+        "h1": "SÓN SÜLT CSIRKECOMB SÜLT ZÖLDSÉGEKKEL",
+        "txtlength": 10253
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/fott-krumpli.recept",
+        "h1": "FŐTT KRUMPLI",
+        "txtlength": 9996
+    },
+    {
+        "hostname": "receptneked.hu",
+        "pagelink": "https://receptneked.hu/gyors/villamgyors-hacsapuri/",
+        "h1": "Villámgyors hacsapuri recept",
+        "txtlength": 5623
+    },
+    {
+        "hostname": "receptneked.hu",
+        "pagelink": "https://receptneked.hu/gyors/habkonnyu-turogomboc/",
+        "h1": "Habkönnyű túrógombóc recept",
+        "txtlength": 5487
+    },
+    {
+        "hostname": "alapblog.hu",
+        "pagelink": "https://alapblog.hu/kaoszbol-fakad-a-rend-a-globalis-ingatlanpiacrol/",
+        "h1": "KÁOSZBÓL FAKAD A REND – A GLOBÁLIS INGATLANPIACRÓL",
+        "txtlength": 12112
+    },
+    {
+        "hostname": "kulturpart.hu",
+        "pagelink": "https://kulturpart.hu/2021/05/14/veszpremben_lep_fel_tom_jones",
+        "h1": "VESZPRÉMBEN LÉP FEL SIR TOM JONES",
+        "txtlength": 6455
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/karrier/20210517/bak-imre-mindig-is-gatlasaim-voltak-a-penzugyekkel-kapcsolatban-nagyon-rossz-uzletember-vagyok-1114634",
+        "h1": "Bak Imre: Mindig is gátlásaim voltak a pénzügyekkel kapcsolatban, nagyon rossz üzletember vagyok",
+        "txtlength": 39836
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210512_valodi_populista_mozgalomra_van_szukseg",
+        "h1": "Valódi populista mozgalomra van szükség – Rod Dreher a Mandinernek",
+        "txtlength": 28494
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210518_allami_egyhazugyi_hivatal",
+        "h1": "A kommunisták keresztényellenes harca: 70 éve hozták létre az Állami Egyházügyi Hivatalt",
+        "txtlength": 24090
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210517_akarmi_lesz_az_elovalasztason_mindenkepp_karacsonyt_hoznak_ki_gyoztesnek",
+        "h1": "Visszalépéskényszer – akármi lesz az előválasztáson, Karácsonyt hoznák ki győztesnek",
+        "txtlength": 21378
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/kozelet/20210519/a-kozepiskolai-felveteli-rendszer-hatraszoritja-az-allami-gimnaziumokat-az-allam-az-egyhazi-iskolakba-tereli-a-diakokat/",
+        "h1": "A középiskolai felvételi rendszer hátraszorítja az állami gimnáziumokat, az állam az egyházi iskolákba tereli a diákokat",
+        "txtlength": 21226
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/gyerek/zadori-henrietta-szikra-tehetseggongozo-egyesulet-interju/",
+        "h1": "Más, de nem kevesebb! Egy autista kisfiú élete a mai oktatási rendszerben: interjú Zádori Henriettával és férjével",
+        "txtlength": 20297
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2021/05/18/a-teatol-a-metamfetaminig-evszazadok-alatt-epult-fel-az-okosdrogok-tobb-milliard-dollaros-piaca",
+        "h1": "A TEÁTÓL A METAMFETAMINIG: ÉVSZÁZADOK ALATT ÉPÜLT FEL AZ OKOSDROGOK TÖBB MILLIÁRD DOLLÁROS PIACA",
+        "txtlength": 20087
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vallalat/20210518/ezermilliard-forint-magyar-allami-megrendeles-all-a-ner-horvat-focicsapatanak-tamogatasa-mogott/",
+        "h1": "Ezermilliárd forint magyar állami megrendelés áll a NER horvát focicsapatának támogatása mögött",
+        "txtlength": 18547
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/global/20210519/harci-helikoptert-fejleszt-magyarorszag-nezzuk-mi-van-a-bombabejelentes-mogott-483760",
+        "h1": "Harci helikoptert fejleszt Magyarország? Nézzük, mi van a bombabejelentés mögött!",
+        "txtlength": 17706
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.penzcentrum.hu/vasarlas/20210519/500-forintert-aruljak-a-magyar-boltok-a-280-300-forintos-nemet-cseh-soroket-mi-tortenik-itt-1114710",
+        "h1": "500 forintért árulják a magyar boltok a 280-300 forintos német, cseh söröket: mi történik itt?",
+        "txtlength": 17704
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/egeszseg/20210514/beindult-a-szuloi-vakcina-para-valoban-meddoseget-okozhat-a-fiataloknal-a-pfizer-oltas-1114621",
+        "h1": "Beindult a szülői vakcina-para: valóban meddőséget okozhat a fiataloknál a Pfizer-oltás?",
+        "txtlength": 15915
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20210519/rengeteg-penz-forog-kockan-az-uj-csillagozasi-rendszer-bevezetesevel-mi-var-a-magyar-turistakra-483702",
+        "h1": "Rengeteg pénz forog kockán az új csillagozási rendszer bevezetésével - Mi vár a magyar turistákra?",
+        "txtlength": 15832
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/lajfhekk/miert-konnyezik-a-konnyezopalma/",
+        "h1": "Miért könnyezik a könnyezőpálma, és hogyan tehetem boldoggá?",
+        "txtlength": 7026
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/05/19/mihez-kezdjunk-00-antitesttel",
+        "h1": "Mihez kezdjünk 0,0 antitesttel?",
+        "txtlength": 16784
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kultura/2021/05/18/halston-sorozat-kritika-netflix/",
+        "h1": "Orchideába és kokainba fullad Ewan McGregor géniusza",
+        "txtlength": 15488
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/gazdasag/20210519_Az_utolso_pillanatra_hagyta_az_adobevallast_Segitunk",
+        "h1": "Az utolsó pillanatra hagyta az adóbevallást? Segítünk",
+        "txtlength": 15283
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2021/05/19/magyar-turisztikai-ugynokseg-mtu-tanacsadok-rokusfalvy-pal-zoob-kati-laposa-bence-borbas-marcsi/",
+        "h1": "Borbás Marcsi és Laposa Bence mellett cégvezetéstől eltiltott képviselő is a turisztikai ügynökség fizetett tanácsadója",
+        "txtlength": 15194
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/belfold/2021/05/19/ivancsa-sk-innovation-akkumlatorgyar-epites-fejer-megye-epitkezes-zaj-munkahely",
+        "h1": "Az ország legnagyobb akkumulátorgyára épül a falu szélén, de nem mindenki örül ennek",
+        "txtlength": 14352
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2021/05/19/16-evesek-valasztojog-kozeleti-aktivitas-felmeresek-ifjusagkutatok-elemzes/",
+        "h1": "Nem kell félni a 16 évesek szavazati jogától",
+        "txtlength": 13906
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/belfold/2021/05/18/nka-bubla-aron-bus-balazs-tamogatas-startup",
+        "h1": "Az ELTE-s gólyatáboros botrányba belebukott egykori HÖK-elnök cégei taroltak a kulturális alap pályázatán",
+        "txtlength": 12851
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/nevertek/2021/05/19/globalis-minimumado",
+        "h1": "Alapjaiban forgathatja fel a magyar adórendszert a globális minimumadó",
+        "txtlength": 12636
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/05/19/a-koltsegvetesi-tanacsnak-tovabbra-sem-tetszik-a-kormany-koltsegvetesi-terve-a-gazdasag-tulfutesetol-tartanak",
+        "h1": "A Költségvetési Tanácsnak továbbra sem tetszik a kormány költségvetési terve, a gazdaság túlfűtésétől tartanak",
+        "txtlength": 10824
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/koronavirus-hirek-majus-19-jarvanyugyi-adatok-magyarorszag/s561ckj?sl_ps=d_2",
+        "h1": "Koronavírus hírek: újabb 52 áldozatot követelt itthon a covid, közben egyre közelebb kerülünk az 5 millió beoltotthoz",
+        "txtlength": 10621
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/tudomany/20210519_pfizer_biontech_moderna_mrns_vakcina_hosszan_tarto_covid_tunetek_oltas",
+        "h1": "Kiderült még egy fontos dolog a Pfizer oltásáról",
+        "txtlength": 10392
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/gazdasag/20210519_Mikor_engedelyezi_az_Europai_Gyogyszerugynokseg_a_Szputnyikot",
+        "h1": "Mikor engedélyezi az Európai Gyógyszerügynökség a Szputnyikot?",
+        "txtlength": 9791
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/kertesz-agnes-szabadulas-gyermek-per/hk24v4t?sl_ps=d_5",
+        "h1": "Kertész Ágnes örömkönnyekben tört ki: szabadulása után pert indít gyermekéért az elnöki kegyelmet kapó nő",
+        "txtlength": 8762
+    },
+    {
         "hostname": "mindmegette.hu",
         "pagelink": "https://www.mindmegette.hu/epres-scone.recept",
         "h1": "EPRES SCONE",
