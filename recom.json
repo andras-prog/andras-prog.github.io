@@ -1,6 +1,198 @@
 [
     {
         "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/igazi-strandos-langos",
+        "h1": "Igazi strandos lángos",
+        "txtlength": 13897
+    },
+    {
+        "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/tejszines-fokhagymakremleves",
+        "h1": "Tejszínes fokhagymakrémleves",
+        "txtlength": 10988
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/sajtos-sonkas-quesadilla-rukkolaval.recept",
+        "h1": "SAJTOS-SONKÁS QUESADILLA RUKKOLÁVAL",
+        "txtlength": 9787
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/ropogos-csirkenuggets.recept",
+        "h1": "ROPOGÓS CSIRKENUGGETS",
+        "txtlength": 9717
+    },
+    {
+        "hostname": "receptneked.hu",
+        "pagelink": "https://receptneked.hu/gyors/egyszeru-sajtkrokett/",
+        "h1": "Egyszerű sajtkrokett recept",
+        "txtlength": 5486
+    },
+    {
+        "hostname": "receptneked.hu",
+        "pagelink": "https://receptneked.hu/gyors/hamis-aranygaluska-muffin/",
+        "h1": "Hamis aranygaluska muffin recept",
+        "txtlength": 5222
+    },
+    {
+        "hostname": "hataratkelo.blog.hu",
+        "pagelink": "https://hataratkelo.blog.hu/2021/05/15/a_hataratkelok_is_kaphatnak_oltast_magyarorszagon#c40657004",
+        "h1": "A határátkelők is kaphatnak oltást Magyarországon",
+        "txtlength": 44558
+    },
+    {
+        "hostname": "kulturpart.hu",
+        "pagelink": "https://kulturpart.blog.hu/2021/05/19/biztonsagos_utazas_irany_gorogorszag",
+        "h1": "BIZTONSÁGOS UTAZÁS? IRÁNY GÖRÖGORSZÁG!",
+        "txtlength": 11319
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210518_ujbuda_baloldal_albertfalva_piac",
+        "h1": "„Hagyták szétrohadni, aztán eladják” – kiakadtak a piacozók az újbudai baloldalra",
+        "txtlength": 28131
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/kapcsolat/csorogi-tanoda/",
+        "h1": "\"Cigány kisgyerekkel azt éreztetni, úgysem lesz belőled senki, az iszonyú!\" - Helyszíni riport a Csörögi Tanodában",
+        "txtlength": 23950
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210519_magyarorszag_kiall_izrael_mellett_az_eu_ban_az_izraeli_nagykovet_a_mandinernek",
+        "h1": "Magyarország kiáll Izrael mellett az EU-ban – az izraeli nagykövet a Mandinernek",
+        "txtlength": 21697
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20210520/gyorsvonatkent-szaguld-at-a-zold-forradalom-a-vilagon-magyarorszag-felszall-ra-483236",
+        "h1": "Gyorsvonatként száguld át a zöld forradalom a világon - Magyarország felszáll rá?",
+        "txtlength": 21540
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2021/05/19/bagyadt-faradt-dekoncentralt-a-vilag-2021-nepbetegsege-a-languishing",
+        "h1": "BÁGYADT, FÁRADT, DEKONCENTRÁLT A VILÁG – 2021 NÉPBETEGSÉGE A LANGUISHING",
+        "txtlength": 18522
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/gazdasag/20210518/elszalltak-az-arak-retteghetnek-a-hitelesek-mi-lesz-a-csaladokkal-ha-kamatot-emel-az-mnb-1114705",
+        "h1": "Elszálltak az árak, retteghetnek a hitelesek: mi lesz a családokkal, ha kamatot emel az MNB?",
+        "txtlength": 18188
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210519_torok_gabor_szerint_az_orbantol_valo_felelem_osszetarthatja_az_ellenzeket_miutan_nyertek",
+        "h1": "Török Gábor szerint az Orbántól való félelem összetarthatja az ellenzéket, miután nyertek",
+        "txtlength": 17815
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/egeszseg/20210518/kiderult-mennyire-hatekony-az-astrazeneca-vakcina-kinek-erdemes-aspirint-szedni-melle-1114711",
+        "h1": "Kiderült, mennyire hatékony az AstraZeneca vakcina: kinek érdemes Aspirint szedni mellé?",
+        "txtlength": 17668
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/kozelet/20210520/az-allam-egyre-jobban-kivonul-a-magasabb-minosegu-kozepiskolai-oktatasbol/",
+        "h1": "Az állam egyre jobban kivonul a magasabb minőségű középiskolai oktatásból",
+        "txtlength": 16816
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/uzlet/20210520/eladoi-hullamot-kovetoen-mar-emelkedes-lathato-a-tozsdeken-484002",
+        "h1": "Eladói hullámot követően már emelkedés látható a tőzsdéken ",
+        "txtlength": 16782
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20210519/ujranyito-magyar-egeszsegugy-kell-hogy-varj-483806",
+        "h1": "Újranyitó magyar egészségügy: Kell, hogy várj",
+        "txtlength": 16511
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/adat/20210416/furcsan-koveti-a-jarvanyhullamokat-a-halalozasok-megugrasa/",
+        "h1": "Furcsán követi a járványhullámokat a halálozások megugrása",
+        "txtlength": 15963
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/szuloseg/nehez-helyzet-szulokent/",
+        "h1": "Kiborít a gyerek? Ez a 3 lehetőség a legnehezebb helyzetben is veled van",
+        "txtlength": 12062
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/05/20/kinait-kapott-a-kormany",
+        "h1": "Kínait kapott a kormány",
+        "txtlength": 17078
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/tech/2021/05/19/izrael-palesztina-hamasz-vaskupola-raketak",
+        "h1": "Szándékosan nem nyújt 100%-os védelmet az izraeli Vaskupola",
+        "txtlength": 14233
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/belfold/2021/05/20/sokkoloval-szerelik-fel-a-magyar-rendoroket-ami-ijesztoen-hangzik-de-ugy-tunik-nem-politikai-oka-van",
+        "h1": "Sokkolóval szerelik fel a magyar rendőröket, ami ijesztően hangzik, de nem politikai oka van",
+        "txtlength": 13258
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kulfold/2021/05/19/eu-kulpolitika-magyar-veto-kina-oroszorszag-izrael/",
+        "h1": "A magyar vétók mutatják, hogy így nem lehet uniós külpolitikát csinálni",
+        "txtlength": 13134
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/sport/2021/05/20/sportlovobotrany-sidi-peter-peni-istvan-kozlemeny-magyar-sportlovo-szovetseg/",
+        "h1": "Sportlövőbotrány: Sidi Péter közleményt adott ki",
+        "txtlength": 13125
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/05/19/valasz-online-43-magantokealapban-rejti-a-penzet-a-kormanykozeli-elit",
+        "h1": "Válasz Online: 43 magántőkealapban rejti a pénzét a kormányközeli elit",
+        "txtlength": 11263
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/cegauto/20210520_nem_kell_a_konnektor_teszten_a_normal_hibrid_uj_ford_kuga",
+        "h1": "Nem kell a konnektor: teszten a normál hibrid új Ford Kuga",
+        "txtlength": 10448
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/tech/2021/05/19/lg-gram-laptop-teszt",
+        "h1": "Az egykilós laptop, ami munkára is szuper",
+        "txtlength": 9654
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kozelet/2021/05/20/borkai-zsolt-orgia-felvetelek-jogsegely-ugyeszseg/",
+        "h1": "A fővárosi főügyész Washingtontól kért segítséget a Borkai-orgián készült felvételek ügyében",
+        "txtlength": 9216
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/cegauto/20210519_kornyezetvedelem_fenntarthato_kornyezet_felelossegvallalas_faultetes_fecskementes_szemetszedes",
+        "h1": "Faültetéstől a szemétszedésig: így óvhatja nagyon a környezetét kicsiben",
+        "txtlength": 8142
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20210520_Washington_Borkai_Zsolt_felvetel_fovarosi_fougyesz",
+        "h1": "Washingtontól kért segítséget a Borkai-orgián készült felvételek miatt a fővárosi főügyész, de egy fontos dolgot nem említett meg",
+        "txtlength": 8140
+    },
+    {
+        "hostname": "nosalty.hu",
         "pagelink": "https://www.nosalty.hu/recept/vadas-martas-serteshussal",
         "h1": "Vadas mártás sertéshússal",
         "txtlength": 14184
