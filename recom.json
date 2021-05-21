@@ -1,6 +1,186 @@
 [
     {
         "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/pizzateszta-jamie-oliver-tol",
+        "h1": "Pizzatészta Jamie Oliver-től",
+        "txtlength": 13011
+    },
+    {
+        "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/tejfolos-karfiolleves",
+        "h1": "Tejfölös karfiolleves",
+        "txtlength": 11016
+    },
+    {
+        "hostname": "receptneked.hu",
+        "pagelink": "https://receptneked.hu/gyors/tokeletes-rantott-sajt/",
+        "h1": "Tökéletes rántott sajt recept",
+        "txtlength": 5027
+    },
+    {
+        "hostname": "receptneked.hu",
+        "pagelink": "https://receptneked.hu/gyors/toltott-kenyer/",
+        "h1": "Töltött kenyér recept",
+        "txtlength": 5024
+    },
+    {
+        "hostname": "kiszamolo.hu",
+        "pagelink": "https://kiszamolo.hu/mindenki-gazdagabb-nalam/",
+        "h1": "Mindenki gazdagabb nálam",
+        "txtlength": 41848
+    },
+    {
+        "hostname": "efesasanisimasa.com",
+        "pagelink": "https://efesasanisimasa.com/2021/05/09/narcos-mexiko-1-2-evad-tv-series-2018/",
+        "h1": "Narcos: Mexikó – 1-2. évad (TV Series, 2018-)",
+        "txtlength": 9023
+    },
+    {
+        "hostname": "alapblog.hu",
+        "pagelink": "https://alapblog.hu/megeri-a-nyugdijert-a-bejelentett-fizu/",
+        "h1": "MEGÉRI A NYUGDÍJÉRT A BEJELENTETT FIZU?",
+        "txtlength": 6597
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210520_baloldal_izrael",
+        "h1": "Így fordult a nemzetközi baloldal Izrael ellen",
+        "txtlength": 20802
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/gazdasag/20210521/a-moratorium-ara-komoly-teher-szakad-a-fizeteskeptelen-adosok-nyakaba-1114752",
+        "h1": "A moratórium ára: komoly teher szakad a fizetésképtelen adósok nyakába",
+        "txtlength": 19715
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210522_nagy_ervin_filozofus_a_mandinernek",
+        "h1": "Szellemi közösségeket kell szervezni – Nagy Ervin filozófus a Mandinernek",
+        "txtlength": 19510
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210521_belfold_orban_viktor_kossuth_radio_koronavirus_interju",
+        "h1": "Orbán Viktor: Legyőztük a járvány harmadik hullámát",
+        "txtlength": 19202
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/kozelet/20210521/a-berlakasok-pont-ott-szunnenek-meg-a-legnagyobb-aranyban-ahol-a-legnagyobb-szukseg-van-rajuk/",
+        "h1": "A bérlakások pont ott szűnnének meg a legnagyobb arányban, ahol a legnagyobb szükség van rájuk",
+        "txtlength": 18297
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/vasarlas/20210520/ezek-az-alapveto-szuksegleti-cikkek-joval-olcsobbak-kulfoldon-magyarorszagon-mar-meghalni-is-luxus-1114768",
+        "h1": "Ezek az alapvető szükségleti cikkek jóval olcsóbbak külföldön: Magyarországon már meghalni is luxus",
+        "txtlength": 18229
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/penz/20210520/ugy-tunik-hogy-a-jegybank-nem-engedi-360-forint-fole-az-eurot/",
+        "h1": "Úgy tűnik, hogy a jegybank nem engedi 360 forint fölé az eurót",
+        "txtlength": 16707
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/otthon/regi-epitesu-lakas-vasarlas-buktatok/",
+        "h1": "Lehetnek váratlan buktatók lakásvásárláskor: mire figyelj az ingatlanszakértő szerint, ha régi lakást vennél?",
+        "txtlength": 14588
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2021/05/21/egyre-tobb-kutato-allitja-hogy-a-lassu-kognitiv-tempo-az-sct-nem-az-adhd-egyik-tunete-hanem-kulonallo-zavar",
+        "h1": "EGYRE TÖBB KUTATÓ ÁLLÍTJA, HOGY A LASSÚ KOGNITÍV TEMPÓ, AZ SCT NEM AZ ADHD EGYIK TÜNETE, HANEM KÜLÖNÁLLÓ ZAVAR",
+        "txtlength": 13455
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/lajfhekk/mire-valok-a-funkciogombok-a-billentyuzeten/",
+        "h1": "Funkciógombok a billenyűzeten: te tudod, hogy mire valók?",
+        "txtlength": 7444
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/gazdasag/20210521_inflacio_allami_beavatkozas_mnb",
+        "h1": "Csúcson az infláció: hány százalék áfa lehet a választási győzelem ára?",
+        "txtlength": 18906
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/cegauto/20210521_uj_villanyauto_4_millio_forintbol_teszten_a_44_loeros_dacia_spring",
+        "h1": "Új villanyautó 4 millió forintból? Teszten a 44 lóerős Dacia Spring",
+        "txtlength": 16816
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kulfold/2021/05/20/franciaorszag-usa-nemetorszag-hadsereg-nyilt-level-katonak-polgarhaboru-iszlamizmus-szelsojobb-bevandorlas-trump-macron",
+        "h1": "Polgárháborút vizionáló katonák fenyegetik Macront és Bident",
+        "txtlength": 15208
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kultura/2021/05/20/het-kis-veletlen-kritika-gothar-peter/",
+        "h1": "Gothár Péter utoljára még trollkodott egy hatalmasat",
+        "txtlength": 12387
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kultura/2021/05/21/oszodi-beszed-film-gyurcsany-kalomista-gabor-szereplok-banovits-vivanne-mozes-andras/",
+        "h1": "Megtudtuk, kik szerepelhetnek az őszödi beszédről szóló politikai krimiben",
+        "txtlength": 12104
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/belfold/2021/05/20/gyor-gyor-szol-zrt-vesztes-per",
+        "h1": "Szövevényes jogi ügy miatt bukott 436 milliót a győri közszolgáltató",
+        "txtlength": 11826
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/kultura/20210520_Nem_arra_szulettunk_hogy_olvassunk",
+        "h1": "Nem arra születtünk, hogy olvassunk",
+        "txtlength": 11584
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/kulfold/diana-bbc-interju-hazugsag-vilmos-herceg/h76cs22",
+        "h1": "Vilmos herceg megszólalt Diana híres botrányinterjújáról: állítja, a csatorna hazugságokkal vette rá az édesanyját a riportra",
+        "txtlength": 10163
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/belfold/2021/05/21/orban-viktor-kossuth-radio-koronavirus-enyhitesek-kijarasi-tilalom",
+        "h1": "Orbán: Megszűnik a kijárási tilalom, lehet tüntetni és lakodalmat tartani",
+        "txtlength": 9706
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/05/21/a-mianmari-hadsereg-feloszlatja-aung-szan-szu-kji-partjat",
+        "h1": "A mianmari hadsereg feloszlatja Aung Szan Szú Kjí pártját",
+        "txtlength": 9655
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/05/20/birosag-ele-allitottak-a-nemet-hadnagyot-aki-szir-menekultnek-adta-ki-magat",
+        "h1": "Bíróság elé állították a német hadnagyot, aki szír menekültnek adta ki magát",
+        "txtlength": 9194
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kulfold/2021/05/21/bbc-diana-interju-hazugsag/",
+        "h1": "A BBC hazugságokkal vette rá Diana hercegnőt egy híres interjúra",
+        "txtlength": 9092
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/kulfold/eu-beke-izrael-tuzszunet/mdnxzme",
+        "h1": "Az EU vezetői üdvözölték az izraeli–palesztin tűzszünet bejelentését",
+        "txtlength": 8369
+    },
+    {
+        "hostname": "nosalty.hu",
         "pagelink": "https://www.nosalty.hu/recept/igazi-strandos-langos",
         "h1": "Igazi strandos lángos",
         "txtlength": 13897
