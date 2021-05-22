@@ -1,6 +1,204 @@
 [
     {
         "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/hagyomanyos-edes-fank",
+        "h1": "Hagyományos édes fánk",
+        "txtlength": 12880
+    },
+    {
+        "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/kinder-maxi-king-torta-xxl",
+        "h1": "Kinder Maxi King torta XXL",
+        "txtlength": 12738
+    },
+    {
+        "hostname": "receptneked.hu",
+        "pagelink": "https://receptneked.hu/gyors/toltott-sult-krumpli/",
+        "h1": "Töltött sült krumpli recept",
+        "txtlength": 5070
+    },
+    {
+        "hostname": "receptneked.hu",
+        "pagelink": "https://receptneked.hu/gyors/tojasos-szendvics-sutoben/",
+        "h1": "Tojásos szendvics sütőben recept",
+        "txtlength": 4998
+    },
+    {
+        "hostname": "hataratkelo.blog.hu",
+        "pagelink": "https://hataratkelo.blog.hu/2021/05/19/hogyan_keltsunk_bizalmat_kulfoldi_munkahelyen",
+        "h1": "Hogyan keltsünk bizalmat külföldi munkahelyen?",
+        "txtlength": 39816
+    },
+    {
+        "hostname": "hafr.hvgblog.hu",
+        "pagelink": "https://hafr.hvgblog.hu/2020/12/26/merjunk-kicsit-gondolni-gondolkodok-egy-tgm-interju-margojara/",
+        "h1": "Merjünk kicsit gondolni, gondolkodók! (Egy TGM-interjú margójára)",
+        "txtlength": 14572
+    },
+    {
+        "hostname": "cineartstudio.blog.hu",
+        "pagelink": "https://cineartstudio.blog.hu/2021/05/04/az_apple_tv-hez_kerultek_a_keszulo_tom_hanks-film_jogai",
+        "h1": "Az Apple TV-hez kerültek a készülő Tom Hanks-film jogai",
+        "txtlength": 5857
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210522_heimann_csalad_bor_szekszard",
+        "h1": "Életük a bor – a szekszárdi Heimann család a Mandinernek",
+        "txtlength": 28224
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210519_mentorok_a_ciganysag_atoltasaert",
+        "h1": "Országos kampány indult – mentorok a cigányság átoltásáért",
+        "txtlength": 25647
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/karrier/20210520/probaljak-titkolni-ezeken-a-magyar-munkahelyeken-tortenik-a-legtobb-baleset-1114750",
+        "h1": "Próbálják titkolni: ezeken a magyar munkahelyeken történik a legtöbb baleset",
+        "txtlength": 25047
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2021/05/22/milyen-lehet-polipnak-lenni",
+        "h1": "MILYEN LEHET POLIPNAK LENNI?",
+        "txtlength": 24524
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/bank/20210522/home-office-a-magyar-bankoknal-biztositoknal-erdekes-terveket-kaptunk-484370",
+        "h1": "Home office a magyar bankoknál, biztosítóknál: érdekes terveket kaptunk",
+        "txtlength": 21381
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/tamogatoi-tartalom/20210521/fa-szalma-es-valyog-miert-erdemes-termeszetes-epitoanyagokat-hasznalni/",
+        "h1": "Fa, szalma és vályog – miért érdemes természetes építőanyagokat használni?",
+        "txtlength": 19763
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/elet/20210521/miert-a-globalis-felmelegedes-lett-a-legfontosabb-kornyezeti-problema/",
+        "h1": "Miért a globális felmelegedés lett a legfontosabb környezeti probléma?",
+        "txtlength": 19645
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20210521/megjelentek-a-kormany-ujabb-lazito-dontesei-a-kozlonyben-484408",
+        "h1": "Megjelentek a kormány újabb lazító döntései a közlönyben!",
+        "txtlength": 19204
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210520_ko_kovon_fekete_gyor_andras_es_orban_balazs_csapott_ossze",
+        "h1": "Kő kövön: Fekete-Győr András és Orbán Balázs csapott össze",
+        "txtlength": 19127
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/karrier/20210519/ezek-a-dolgozok-a-jarvany-legnagyobb-vesztesei-hamarosan-nagy-szukseg-lesz-rajuk-1114749",
+        "h1": "Ezek a dolgozók a járvány legnagyobb vesztesei: hamarosan nagy szükség lesz rájuk",
+        "txtlength": 17809
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/szuloseg/pedofil-szexualis-buncselekmeny-nyilvantartas-lista/",
+        "h1": "A pedofilok listázása jól hangzik, de nem oldja meg a problémát",
+        "txtlength": 16687
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/global/20210522/joe-biden-elhibazott-dontese-miatt-ujabb-iszlam-allamhoz-hasonlo-katasztrofa-szulethet-484336",
+        "h1": "Joe Biden elhibázott döntése miatt újabb Iszlám Államhoz hasonló katasztrófa születhet",
+        "txtlength": 16570
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/otthon/konyhakerti-zoldsegek/",
+        "h1": "Egészségesek és roppanósak lesznek a konyhakerti zöldségek, ha így termeszted őket: Megyeri Szabolcs kertész tanácsai",
+        "txtlength": 14740
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kultura/2021/05/21/laszlo-laszlo-spiritiszta-szellemidezo-festo-scheiber-hugo-ismeretlen-magyarok-borton/",
+        "h1": "Libazsíros spiritisztából lett betörő László László, a filmvászonra való kalandor",
+        "txtlength": 36703
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/szorakozas/2021/05/21/twitch-hot-tub-streamer-reklam-bevetel-botrany",
+        "h1": "Gumimedencés, bikinis nők mutattak rá, hogy a legnagyobb videójátékközvetítő-platformot csak saját maga érdekli",
+        "txtlength": 18167
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/szorakozas/2021/05/21/szerzok-zeneszek-jogdijak-2020-artisjus-majka-lotfi-begi-irigy-honaljmirigy/",
+        "h1": "Keveslik a zenészek a 2020-ra járó jogdíjakat – többen részesednek a csökkenő bevételből",
+        "txtlength": 17114
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2021/05/22/szakkepzes-technikum-szakgimnazium-osztondij-reformok/",
+        "h1": "„Változtass meg mindent, hogy a végén semmi ne változzon” – ez történt a szakképzéssel",
+        "txtlength": 16952
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/eszkombajn/2021/05/22/haraszthy-agoston-varosalapitas-boraszat-usa-sauk-city-aranylaz",
+        "h1": "A kalandos életű kivándorolt magyar, aki nélkül nem lenne amerikai borászat",
+        "txtlength": 16204
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/foto/2021/05/21/izrael-palesztin-gazai-ovezet-hamasz",
+        "h1": "67 ártatlan gyerek halála kellett a tűzszünethez",
+        "txtlength": 13948
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/kkv/20210522_vedettseg_rendelet_otmillio_beoltott",
+        "h1": "Itt a rendelet, lassan indulhat a buli: így válik szabadabbá az élet a jövő héttől",
+        "txtlength": 12836
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/kkv/20210521_Listaztak_a_tatai_szallodaberuhazast_ellenzo_civileket",
+        "h1": "Listázták Tatán a helyi szállodaberuházást ellenző civileket",
+        "txtlength": 11909
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/elet/20210521_Diana_hercegno_BBC_interju_Martin_Bashir",
+        "h1": "Diana hercegnőt nemcsak lecsupaszították érzelmileg a kamerák előtt, hanem át is verték",
+        "txtlength": 11774
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/05/21/az-imf-szerint-50-milliard-dollarbol-legyozheto-volna-a-vilagjarvany",
+        "h1": "Az IMF szerint 50 milliárd dollárból legyőzhető volna a világjárvány",
+        "txtlength": 10829
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/politika/benzinkartya-koltsegterites-rekorder-parlamenti-kepviselo-bangone/c4dk9fk",
+        "h1": "451 ezer forintot számolt el benzinkártyájára tavaly júliusban Bangóné Borbély Ildikó – Magyarázatot kértünk a rekorderektől",
+        "txtlength": 10765
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/05/21/36-eve-kirugtak-most-diszpolgarra-avattak-kariko-katalint-szegeden",
+        "h1": "36 éve kirúgták, most díszpolgárrá avatták Karikó Katalint Szegeden",
+        "txtlength": 10347
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/kormanyrendelet-lazitas-koronavirus/tfd6mld?sl_ps=d_1",
+        "h1": "Megjelent a kormányrendelet a lazításokról: ez lesz tilos azoknak, akik nincsenek beoltva",
+        "txtlength": 10161
+    },
+    {
+        "hostname": "nosalty.hu",
         "pagelink": "https://www.nosalty.hu/recept/pizzateszta-jamie-oliver-tol",
         "h1": "Pizzatészta Jamie Oliver-től",
         "txtlength": 13011
