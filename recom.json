@@ -1,6 +1,198 @@
 [
     {
         "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/aranygaluska-ahogy-nagymamam-kesziti",
+        "h1": "Aranygaluska ahogy a nagymamám készíti",
+        "txtlength": 12403
+    },
+    {
+        "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/sult-oldalas-ahogy-nagyanyaink-keszitettek",
+        "h1": "Sült oldalas, ahogy nagyanyáink készítették",
+        "txtlength": 11317
+    },
+    {
+        "hostname": "receptneked.hu",
+        "pagelink": "https://receptneked.hu/gyors/habos-tejbegriz-bogreben/",
+        "h1": "Habos tejbegríz bögrében recept",
+        "txtlength": 5147
+    },
+    {
+        "hostname": "receptneked.hu",
+        "pagelink": "https://receptneked.hu/gyors/gyors-rakott-bundas-kenyer/",
+        "h1": "Gyors rakott bundás kenyér recept",
+        "txtlength": 4990
+    },
+    {
+        "hostname": "hataratkelo.blog.hu",
+        "pagelink": "https://hataratkelo.blog.hu/2021/05/21/_nagyon_nagy_elony_svajcban_magyarnak_lenni#c40663236",
+        "h1": "„Nagyon nagy előny Svájcban magyarnak lenni”",
+        "txtlength": 22135
+    },
+    {
+        "hostname": "kulturpart.hu",
+        "pagelink": "https://kulturpart.blog.hu/2021/05/23/belgravia_a_londoni_luxusnegyed_sotet_titkai",
+        "h1": "BELGRAVIA: A LONDONI LUXUSNEGYED SÖTÉT TITKAI",
+        "txtlength": 14273
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210521_schaller_baross",
+        "h1": "Hol hibázott az unió a vakcinabeszerzésben? – Schaller-Baross Ernő a Mandinernek",
+        "txtlength": 25348
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vilag/20210522/egy-orszag-ugy-is-javithatja-a-kibocsatasi-merleget-hogy-a-globalis-kibocsatas-no/",
+        "h1": "Egy ország úgy is javíthatja a kibocsátási mérlegét, hogy a globális kibocsátás nő",
+        "txtlength": 22898
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/krtk/20210523/szamit-e-a-foldrajzi-tavolsag-varosok-kozotti-nemzetkozi-tudomanyos-egyuttmukodesek-valtozasa-484116",
+        "h1": "Számít-e a földrajzi távolság? Városok közötti nemzetközi tudományos együttműködések változása",
+        "txtlength": 22831
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210517_dobszay_benedek_a_mandinernek",
+        "h1": "Fontos, hogy az áldozat ne veszítse el a hitét – Dobszay Benedek ferences szerzetes a Mandinernek",
+        "txtlength": 22697
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/karrier/20210521/orult-sok-fiatal-jelentkezik-a-rendorseghez-ennyit-fognak-keresni-ez-var-rajuk-1114746",
+        "h1": "Őrült sok fiatal jelentkezik a rendőrséghez: ennyit fognak keresni, ez vár rájuk",
+        "txtlength": 21935
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20210523/kulfoldre-utaznal-a-vedettsegi-igazolvannyal-osszegyujtottuk-mire-kell-figyelned-484284",
+        "h1": "Külföldre utaznál a védettségi igazolvánnyal? Összegyűjtöttük, mire kell figyelned",
+        "txtlength": 21337
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/otthon/20210522/odzkodsz-a-tegnapelotti-maradektol-rosszul-teszed-egyes-etelek-sokkal-finomabban-felmelegitve-1114811",
+        "h1": "Ódzkodsz a tegnapelőtti maradéktól? Rosszul teszed: egyes ételek sokkal finomabbak felmelegítve",
+        "txtlength": 17707
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210522_kariko_katalin_elismerte_1978_ban_beszerveztek_artatlansagat_hangoztatja",
+        "h1": "Karikó Katalin elismerte: 1978-ban beszervezték, ártatlanságát hangoztatja",
+        "txtlength": 17705
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/podcast/20210522/uj-eletformat-teremtve-jelentek-meg-a-videki-magyarorszagon-a-kreativ-vallalkozonok/",
+        "h1": "Új életformát teremtve jelentek meg a vidéki Magyarországon a kreatív vállalkozónők",
+        "txtlength": 16831
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2021/05/23/ugy-bebetonozzak-a-fudan-hungary-egyetemet-hogy-kormanyvaltas-eseten-se-lehessen-megszabadulni-tole",
+        "h1": "ÚGY BEBETONOZZÁK A FUDAN HUNGARY EGYETEMET, HOGY KORMÁNYVÁLTÁS ESETÉN SE LEHESSEN MEGSZABADULNI TŐLE",
+        "txtlength": 16415
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/otthon/hogyan-vegyunk-biciklit/",
+        "h1": "A legtöbb hibát gyermekkerékpár vásárlásakor követjük el: ökölszabályok új bringa vásárlásához",
+        "txtlength": 15730
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.penzcentrum.hu/utazas/20210523/foghatjak-a-fejuket-a-kerekparosok-jovo-tavasz-elott-biztos-nem-javul-a-helyzet-1114847",
+        "h1": "Foghatják a fejüket a kerékpárosok: jövő tavasz előtt biztos nem javul a helyzet",
+        "txtlength": 15681
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/lajfhekk/kutya-etrendje-emberi-etelek/",
+        "h1": "Mit ehet a kutya? Ezt a 11 emberi ételt kedvenceddel is megoszthatod",
+        "txtlength": 9825
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/kultura/20210522_mit_nezzunk_a_netflixen_filmek_kritika_no_az_ablakban_cherry_oxigen_a_potyautas_kiserto_mult",
+        "h1": "Tudta? Megjelent egy csomó világsztár új filmje",
+        "txtlength": 17261
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kultura/2021/05/23/zold-konyv-kornyezetvedelem-matine-konyvajanlo/",
+        "h1": "Egy minap megjelent drámai kézikönyv segít abban, hogy életben maradjunk",
+        "txtlength": 17152
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kultura/2021/05/22/mirelit-menza-kozert-igy-nezett-ki-a-konzervszocializmus/",
+        "h1": "Mirelit, menza, közért – így nézett ki a konzervszocializmus",
+        "txtlength": 16169
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kulfold/2021/05/22/somertoni-ferfi-rejtely-ausztralia-tamam-shud-kem/",
+        "h1": "Hiába derítik ki, ki volt a somertoni férfi, ezzel nem oldódik meg Ausztrália hátborzongató rejtélye",
+        "txtlength": 15606
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/belfold/2021/05/22/kariko-katalint-beszervezettkent-tartotta-nyilvan-a-szocialista-allambiztonsag",
+        "h1": "Karikó Katalint fenyegetéssel beszervezte a szocialista állambiztonság, de egyetlen jelentést sem adott",
+        "txtlength": 13886
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kulfold/2021/05/22/a-yorkshire-i-hasfelmetszo-akit-kilencszer-hagyott-futni-a-rendorseg",
+        "h1": "A Yorkshire-i Hasfelmetsző, akit kilencszer hagyott futni a rendőrség",
+        "txtlength": 12814
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/gazdasag/20210523_Es_akkor_ujranyitas_gdp_inflacio_kriptopenz_napelem",
+        "h1": "És akkor újra fizethetünk a parkolásért a kórházi látogatás alatt",
+        "txtlength": 11965
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/zhvg/20210522_mehlegelo_biologiai_sokszinuseg",
+        "h1": "Miért is van óriási szükség városi méhlegelőkre?",
+        "txtlength": 11684
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/kormanyrendelet-lazitas-koronavirus/tfd6mld",
+        "h1": "Megjelent a kormányrendelet a lazításokról: ez lesz tilos azoknak, akik nincsenek beoltva",
+        "txtlength": 9850
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/kariko-katalin-ugynok-szocializmus-biokemikus/ym3snjk?sl_ps=d_6",
+        "h1": "Karikó Katalin döbbenetes vallomása: édesapja 56-os múltjával zsarolva szervezte be a szocialista állambiztonsági szolgálat",
+        "txtlength": 9767
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/05/22/a-mianmari-juntavezer-szerint-az-orszag-korabbi-de-facto-vezetoje-jol-van-es-napokon-belul-birosag-ele-allitjak",
+        "h1": "A mianmari juntavezér szerint az ország korábbi de facto vezetője jól van, és napokon belül bíróság elé állítják",
+        "txtlength": 9552
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/05/23/indiaban-betiltottak-az-indiai-varians-kifejezest",
+        "h1": "Indiában betiltották az indiai variáns kifejezést",
+        "txtlength": 9447
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/sport/2021/05/22/giro-d-italia-14-szakasz-monte-zoncolan-valter-attila-dina-marton-kerekpar-hegyi-szakasz-emelkedo",
+        "h1": "Egy újonc bringás győzött a Giro d'Italia borzalmasan nehéz emelkedőjén",
+        "txtlength": 7855
+    },
+    {
+        "hostname": "nosalty.hu",
         "pagelink": "https://www.nosalty.hu/recept/hagyomanyos-edes-fank",
         "h1": "Hagyományos édes fánk",
         "txtlength": 12880
