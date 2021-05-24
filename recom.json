@@ -1,5 +1,155 @@
 [
     {
+        "hostname": "receptneked.hu",
+        "pagelink": "https://receptneked.hu/gyors/sajtos-cukkinigolyok-2/",
+        "h1": "Sajtos cukkinigolyók recept",
+        "txtlength": 5111
+    },
+    {
+        "hostname": "receptneked.hu",
+        "pagelink": "https://receptneked.hu/gyors/bogres-rizsfelfujt-2/",
+        "h1": "Bögrés rizsfelfújt recept",
+        "txtlength": 5002
+    },
+    {
+        "hostname": "kulturpart.hu",
+        "pagelink": "https://kulturpart.hu/2021/05/19/biztonsagos_utazas_irany_gorogorszag",
+        "h1": "BIZTONSÁGOS UTAZÁS? IRÁNY GÖRÖGORSZÁG!",
+        "txtlength": 11246
+    },
+    {
+        "hostname": "alapblog.hu",
+        "pagelink": "https://alapblog.hu/az-aktivastak-mar-a-spajzban-vannak/",
+        "h1": "AZ AKTIVÁSTÁK MÁR A SPÁJZBAN VANNAK",
+        "txtlength": 7686
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/utazas/20210523/kulfoldi-utazast-tervezel-mutatjuk-melyik-orszagban-mire-kell-figyelned-2021-ben-1114856",
+        "h1": "Külföldi utazást tervezel? Mutatjuk, melyik országban mire kell figyelned 2021-ben",
+        "txtlength": 22825
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210519_mesevel_es_enekkel_gyogyulo_gyerekek",
+        "h1": "Mesével és énekkel gyógyuló gyermekek – Korzenszky Klára a Mandinernek",
+        "txtlength": 21869
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/bank/20210524/e-kereskedelembol-a-bankok-palyajara-megszolal-a-magyarorszagon-hodito-fintech-a-zen-alapitoja-481840",
+        "h1": "E-kereskedelemből a bankok pályájára - Megszólal a Magyarországon hódító fintech, a ZEN alapítója",
+        "txtlength": 19343
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/utazas/20210523/orulet-ennyit-keresnek-olasz-gasztroturakkal-a-magyar-vallalkozok-1114852",
+        "h1": "Őrület! Ennyit keresnek olasz gasztrotúrákkal a magyar vállalkozók",
+        "txtlength": 17776
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210523_micsoda_tanacstalansag_bujik_meg_ebben_a_nemzedekben_bucsujaras_es_utkereses_a_jarvany_idejen",
+        "h1": "Ezt hoztam otthonról, ez a kavics a cipőmben – búcsújárás és útkeresés a járvány idején",
+        "txtlength": 16941
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/uzlet/20210523/miert-volt-ekkora-zuhanas-a-kriptovalutaknal-484050",
+        "h1": "Miért volt ekkora zuhanás a kriptovalutáknál?",
+        "txtlength": 16526
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/global/20210523/a-kozel-kelet-nagy-tuleloje-ismet-megmeretteti-magat-a-tisztessegtelen-valasztas-vegeredmenye-boritekolhato-484498",
+        "h1": "A Közel-Kelet nagy túlélője ismét megméretteti magát - A tisztességtelen választás végeredménye borítékolható",
+        "txtlength": 16423
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210523_karacsony_nehezseget_es_elonyt_is_okozott_felnottkent_a_gyerekkori_diszlexiam",
+        "h1": "Karácsony: Diszlexiám lehetett, de már kinőttem",
+        "txtlength": 15847
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2021/05/21/valoban-gonosz-a-kapitalizmus",
+        "h1": "VALÓBAN GONOSZ A KAPITALIZMUS?",
+        "txtlength": 15025
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/egeszseg/rossz-verkeringes-jelei/",
+        "h1": "A rossz vérkeringés 6 legfontosabb tünete: nem csak a hideg végtagok jelezhetik a problémát",
+        "txtlength": 11266
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/lajfhekk/igy-keszul-csirkefalat-chicken-nuggets/",
+        "h1": "Így lett a chicken nuggets: út a II. világháborútól egy laboratóriumon át a McDonald’sig",
+        "txtlength": 8697
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/kkv/20210523_luxus_vintage_lovedesign_divatipar",
+        "h1": "Ön is szeretne olyan táskát, mint amilyennel Várkonyi Andrea volt Dubajban?",
+        "txtlength": 11450
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/gazdasag/20210523_bozsik_arena_budapest_honved",
+        "h1": "Ha már a Budapest Honvéd kap az utolsók közt stadiont, nem spórolt rajta az állam",
+        "txtlength": 10891
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/05/23/a-szikra-mozgalom-junius-4-re-tuntetest-szervez-a-diakvarosert",
+        "h1": "A Szikra Mozgalom június 5-re tüntetést szervez a Diákvárosért",
+        "txtlength": 9164
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/05/23/az-eu-es-a-nato-vezetoi-szerint-elfogadhatatlan-hogy-minszkben-leszallittattak-a-ryanair-athenbol-vilniusba-tarto-gepet",
+        "h1": "Az EU és a NATO vezetői szerint elfogadhatatlan, hogy Minszkben leszállíttatták a Ryanair Athénból Vilniusba tartó gépét",
+        "txtlength": 8986
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/tudomany/20210522_kariko_katalin_ugynokaktak_kemelharitas_beszervezes",
+        "h1": "Beszervezett ügynökként tartotta számon Karikó Katalint a kádári kémelhárítás",
+        "txtlength": 8621
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/eszkombajn/2021/05/24/amelia-earhart-noi-pilota-repules-uttoro-fold-koruli-ut-1937-eltunes",
+        "h1": "Máig nem tudni, hogyan tűnt el a világ leghíresebb női pilótája",
+        "txtlength": 8280
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/koronavirus/2021/05/23/merkely-bela-jarvany-covid-vakcinak-oltasok-nem-lesz-negyedik-hullam",
+        "h1": "Merkely Béla: Nem lesz Magyarországon negyedik hullám",
+        "txtlength": 8023
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/szasz-marci-csodagyerek-zsenik-magas-iq/ytenhvp?sl_ps=d_6",
+        "h1": "Ön emlékszik még az ország csodagyerekére, Szász Marcira? – 5 évesen 195-ös IQ-ja volt, de mit is jelent mindez?",
+        "txtlength": 7901
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/kulfold/black-lives-matter-aktivista-london-fejbe-lott-valsagos-allapot-27-eves-no/wdckxex",
+        "h1": "Fejbe lőttek Londonban egy Black Lives Matter-aktivistát, a 27 éves nő állapota válságos",
+        "txtlength": 7615
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kulfold/2021/05/23/belarusz-ryanair-repulogep-ujsagiro-ellenzek",
+        "h1": "Nemzetközi botrány lett abból, hogy Lukasenko vadászgépeket küldött a Ryanair egyik gépére",
+        "txtlength": 7547
+    },
+    {
         "hostname": "nosalty.hu",
         "pagelink": "https://www.nosalty.hu/recept/aranygaluska-ahogy-nagymamam-kesziti",
         "h1": "Aranygaluska ahogy a nagymamám készíti",
