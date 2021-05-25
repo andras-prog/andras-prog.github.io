@@ -1,5 +1,173 @@
 [
     {
+        "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/hagyomanyos-toltott-paprika",
+        "h1": "Hagyományos töltött paprika",
+        "txtlength": 12228
+    },
+    {
+        "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/klasszikus-maglyarakas",
+        "h1": "Klasszikus máglyarakás",
+        "txtlength": 10675
+    },
+    {
+        "hostname": "receptneked.hu",
+        "pagelink": "https://receptneked.hu/gyors/kenyerlangos-vagy-toki-pompos/",
+        "h1": "Kenyérlángos, vagy töki pompos recept",
+        "txtlength": 4881
+    },
+    {
+        "hostname": "receptneked.hu",
+        "pagelink": "https://receptneked.hu/gyors/hortobagyi-husgombocok/",
+        "h1": "Hortobágyi húsgombócok recept",
+        "txtlength": 4873
+    },
+    {
+        "hostname": "kiszamolo.hu",
+        "pagelink": "https://kiszamolo.hu/uj-nemzetkozi-tarsasagi-adozas/",
+        "h1": "Új nemzetközi társasági adózás",
+        "txtlength": 35187
+    },
+    {
+        "hostname": "alapblog.hu",
+        "pagelink": "https://alapblog.hu/az-mnb-nekiment-az-inflacionak-es-egy-kicsit-a-kormanynak-is/",
+        "h1": "AZ MNB NEKIMENT AZ INFLÁCIÓNAK, ÉS EGY KICSIT A KORMÁNYNAK IS",
+        "txtlength": 6414
+    },
+    {
+        "hostname": "kulturpart.hu",
+        "pagelink": "https://kulturpart.blog.hu/2021/05/19/aki_a_sajat_fejen_atbucskazva_utazik_a_hiperterben",
+        "h1": "AKI A SAJÁT FEJÉN ÁTBUCSKÁZVA UTAZIK A HIPERTÉRBEN...",
+        "txtlength": 5622
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210519_modellvaltas_a_felsooktatasban_mi_kell_a_vilagszinvonalhoz",
+        "h1": "Mi kell a világszínvonalhoz? – újabb részletek a felsőoktatási modellváltásról",
+        "txtlength": 26590
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210525_uj_korszak_uj_eszkozok_bendarzsevszkij_anton_a_belarusz_incidensrol",
+        "h1": "Az elrettentés volt a cél – Bendarzsevszkij Anton a belarusz incidensről",
+        "txtlength": 25093
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210519_delhi_felett_fustszinu_az_eg",
+        "h1": "Delhi felett füstszínű az ég – tarol a koronavírus Indiában",
+        "txtlength": 22440
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/uzlet/20210525/melyrepulesre-keszultunk-de-ez-a-valsag-egeszen-ujat-hozott-interju-483966",
+        "h1": "Mélyrepülésre készültünk, de ez a válság egészen újat hozott (Interjú)",
+        "txtlength": 21309
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/tech/20210524/iden-felrobbant-a-magyar-napelempiac/",
+        "h1": "Idén felrobbant a magyar napelempiac",
+        "txtlength": 18970
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/elet/20210524/a-klimavalsag-nem-csak-a-jegesmedvek-ehezesen-keresztul-ertheto-meg/",
+        "h1": "A klímaválság nem csak a jegesmedvék éhezésén keresztül érthető meg",
+        "txtlength": 18463
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/egeszseg/20210524/sulyos-nepbetegseg-tamadja-a-magyarokat-egy-egyszeru-rutinnal-elkerulheto-a-baj-1114867",
+        "h1": "Súlyos népbetegség támadja a magyarokat: egy egyszerű rutinnal elkerülhető a baj",
+        "txtlength": 17224
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/gazdasag/20210522/a-magyarok-jelentos-resze-ilyen-ingatlanokban-lakik-a-szamok-azt-igazoljak-amit-sejtettunk-1114823",
+        "h1": "A magyarok jelentős része ilyen ingatlanokban lakik: a számok azt igazolják, amit sejtettünk",
+        "txtlength": 17177
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.penzcentrum.hu/auto/20210525/erre-is-jar-az-allami-ingyenpenz-csaladoknak-is-megfelel-a-volkswagen-id3-1114818",
+        "h1": "Erre is jár az állami ingyenpénz: családoknak is megfelel a Volkswagen ID.3?",
+        "txtlength": 15826
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20210525/a-tortenelmi-pillanat-amikor-a-teljesen-vak-ember-megtalal-egy-targyat-az-asztalon-mert-reszben-visszakapta-a-latasat-484688",
+        "h1": "A történelmi pillanat, amikor a teljesen vak ember megtalál egy tárgyat az asztalon, mert részben visszakapta a látását",
+        "txtlength": 14768
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2021/05/24/a-mennyei-palotaval-kina-atveheti-az-uralmat-az-alacsony-fold-koruli-palyan",
+        "h1": "A MENNYEI PALOTÁVAL KÍNA ÁTVEHETI AZ URALMAT AZ ALACSONY FÖLD KÖRÜLI PÁLYÁN",
+        "txtlength": 14345
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/utazas/turazo-gatewood-nagyi/",
+        "h1": "Elment kicsit kirándulni a nagyi, végül legyalogolta a 3500 kilométeres Appalache-ösvényt: Grandma Gatewood története",
+        "txtlength": 13749
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/lajfhekk/szobanovenyek-kezdoknek/",
+        "h1": "Szobanövények kezdőknek: ezt az 5 fajt ajánlja a szakértő",
+        "txtlength": 8342
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/belfold/2021/05/25/karacsony-gergely-miniszterelnok-jelolti-interju",
+        "h1": "Karácsony: Üzentek, mondjam meg, mit kérek azért, hogy ne induljak",
+        "txtlength": 41990
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/elet-stilus/2021/05/24/hajdu-balazs-humorista-dumaszinhaz-interju-uborka/",
+        "h1": "„Átérzem, milyen lehet porszívónak lenni”",
+        "txtlength": 15542
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2021/05/25/tb-torveny-tajszam-hatralek/",
+        "h1": "„Addig jó az ember, amíg dolgozik, aztán inkább feküdjön bele gyorsan a gödörbe?”",
+        "txtlength": 14920
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kulfold/2021/05/24/karacsony-gergely-presse-orban-eu-finansziroz/",
+        "h1": "Karácsony Gergely az osztrák lapnak: az EU finanszírozza Orbán hibrid rezsimjét",
+        "txtlength": 12574
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/szorakozas/2021/05/24/friss-hus-magyar-film-fesztival-rovidfilm",
+        "h1": "Te levágtad Erdélyt?",
+        "txtlength": 12252
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kulfold/2021/05/24/belarusz-ujsagiro-gepelterites-kgb-lukasenko-ryanair",
+        "h1": "Nő a botrány az eltérített gép és a letartóztatott belarusz újságíró ügye körül, a belarusz hatóságok a Hamászt okolják",
+        "txtlength": 10265
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/05/25/vadat-emeltek-egy-ferfi-ellen-aki-a-negyeves-gyerekuk-szeme-lattara-keselte-meg-az-elettarsat",
+        "h1": "Vádat emeltek egy férfi ellen, aki a négyéves gyerekük szeme láttára késelte meg az élettársát",
+        "txtlength": 9040
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/05/25/az-usa-hetekkel-az-olimpia-elott-adott-ki-utazasi-figyelmeztetest-japanra",
+        "h1": "Az USA hetekkel az olimpia előtt adott ki utazási figyelmeztetést Japánra",
+        "txtlength": 8365
+    },
+    {
         "hostname": "receptneked.hu",
         "pagelink": "https://receptneked.hu/gyors/sajtos-cukkinigolyok-2/",
         "h1": "Sajtos cukkinigolyók recept",
