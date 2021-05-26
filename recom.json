@@ -1,6 +1,210 @@
 [
     {
         "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/frankfurti-leves-egyszeruen",
+        "h1": "Frankfurti leves egyszerűen",
+        "txtlength": 12501
+    },
+    {
+        "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/bodzaszorp-tartositoszer-nelkul",
+        "h1": "Bodzaszörp tartósítószer nélkül",
+        "txtlength": 11948
+    },
+    {
+        "hostname": "receptneked.hu",
+        "pagelink": "https://receptneked.hu/gyors/sajtos-sult-rizsgolyok/",
+        "h1": "Sajtos sült rizsgolyók recept",
+        "txtlength": 4787
+    },
+    {
+        "hostname": "receptneked.hu",
+        "pagelink": "https://receptneked.hu/gyors/serpenyos-pizza/",
+        "h1": "Serpenyős pizza recept",
+        "txtlength": 4777
+    },
+    {
+        "hostname": "kiszamolo.hu",
+        "pagelink": "https://kiszamolo.hu/az-otthoni-munkavegzes-vege/",
+        "h1": "Az otthoni munkavégzés vége?",
+        "txtlength": 35431
+    },
+    {
+        "hostname": "kulturpart.hu",
+        "pagelink": "https://kulturpart.hu/2021/05/19/aki_a_sajat_fejen_atbucskazva_utazik_a_hiperterben",
+        "h1": "AKI A SAJÁT FEJÉN ÁTBUCSKÁZVA UTAZIK A HIPERTÉRBEN...",
+        "txtlength": 5630
+    },
+    {
+        "hostname": "alapblog.hu",
+        "pagelink": "https://alapblog.hu/hetvegi-cikkajanlo-183/",
+        "h1": "HÉTVÉGI CIKKAJÁNLÓ",
+        "txtlength": 4191
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210519_elso_osztalyu_egyetemekert_dolgoznak",
+        "h1": "Első osztályú egyetemekért dolgoznak – kuratóriumi tagok a Mandinernek",
+        "txtlength": 31935
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/uzlet/20210525/elve-eltemettek-a-bitcoint-de-mi-lesz-helyette-484740",
+        "h1": "Élve eltemették a bitcoint - De mi lesz helyette?",
+        "txtlength": 31544
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210527_hamasz_bomba_blogger_oroszok_igy_all_most_a_belarusz_repteri_incidens",
+        "h1": "Hamász, bomba, blogger, oroszok: így áll most a belarusz reptéri incidens",
+        "txtlength": 26462
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/bank/20210526/bekerulhet-a-tortenelemkonyvekbe-amit-most-fogunk-latni-magyarorszagon-interju-484696",
+        "h1": "Bekerülhet a történelemkönyvekbe, amit most fogunk látni Magyarországon (Interjú)",
+        "txtlength": 21320
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/global/20210526/ilyen-vad-huzasra-nem-volt-felkeszulve-a-vilag-vlagyimir-putyin-karjaiban-kothet-ki-feheroroszorszag-484880",
+        "h1": "Ilyen vad húzásra nem volt felkészülve a világ - Vlagyimir Putyin karjaiban köthet ki Fehéroroszország",
+        "txtlength": 19865
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210525_nagy_oltaskorkep_nemetorszagbol",
+        "h1": "Nagy oltáskörkép Németországból",
+        "txtlength": 19851
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vallalat/20210525/tobbszoros-megterulest-is-hozhatnak-a-munkahelyi-egeszsegprogramok/",
+        "h1": "Többszörös megtérülést is hozhatnak a munkahelyi egészségprogramok",
+        "txtlength": 18129
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/adat/20210525/a-leggazdagabb-magyarok-kozeposztalybeli-olaszokat-es-spanyolokat-tudtak-leelozni/",
+        "h1": "A leggazdagabb magyarok középosztálybeli olaszokat és spanyolokat tudtak leelőzni",
+        "txtlength": 17851
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/otthon/idogazdalkodas-a-mindennapokban/",
+        "h1": "Az időnkért felelősséget kell vállalnunk - Interjú Erdélyi Boróka időmenedzsment-szakértővel",
+        "txtlength": 17717
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2021/05/25/ha-vasarolsz-nemcsak-egy-termekbe-fektetsz-be-hanem-a-jovodbe-is",
+        "h1": "HA VÁSÁROLSZ, NEMCSAK EGY TERMÉKBE FEKTETSZ BE, HANEM A JÖVŐDBE IS",
+        "txtlength": 14091
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/gazdasag/20210521/evek-ota-nem-latott-dragulas-jon-csak-egy-dolog-biztos-a-bizonytalansag-1114812",
+        "h1": "Évek óta nem látott drágulás jön: csak egy dolog biztos, a bizonytalanság",
+        "txtlength": 12011
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/testem/tippek-kezdo-futoknak/",
+        "h1": "5 hasznos tipp, ha belevágnál a futásba",
+        "txtlength": 11659
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/egeszseg/20210522/megvan-az-otmilliomodik-beoltott-mutatjuk-az-uj-szabalyokat-1114846",
+        "h1": "Megvan az ötmilliomodik beoltott! Mutatjuk az új szabályokat",
+        "txtlength": 11056
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/lajfhekk/florarium-palackkert-keszitese/",
+        "h1": "Kert a palackban: kis házi minioázis saját mikroklímával. Így készíts floráriumot",
+        "txtlength": 6882
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2021/05/26/orvosok-apolok-koronavirus-trauma-pszichologus/",
+        "h1": "Kezdeni kell valamit az orvosok és ápolók traumáival, különben baj lesz",
+        "txtlength": 22150
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/05/26/a-sajtomentes-sajtotajekoztatok-vege",
+        "h1": "A sajtómentes sajtótájékoztatók vége",
+        "txtlength": 16381
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20210526_Orban_karacsony_jakab_dobrev_politika_kommunikacio",
+        "h1": "Orbán szaftos ruhája és Karácsony turkálós inge – tényleg a nép egyszerű embere kell a választóknak?",
+        "txtlength": 14933
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20210526_koronavirus_vakcina_piaci_beszerzes_maganszolgaltato",
+        "h1": "A kormány nem kér több Pfizert, de magánúton lehet majd venni?",
+        "txtlength": 14630
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/tudomany/2021/05/26/koronavirus-jarvany-szocialpszichologia-lezarasok-kommunikacio-jarvanyugyi-intezkedesek-veszelyhelyzet/",
+        "h1": "Sokat ártott a politika a járványkezelésnek",
+        "txtlength": 14623
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/zhvg/20210526_Dragabba_es_egeszsegtelenebbe_teszi_a_teat_a_klimavaltozas",
+        "h1": "Drágábbá és egészségtelenebbé teszi a teát a klímaváltozás",
+        "txtlength": 14420
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/tudomany/2021/05/25/roska-botond-vaksag-gyogyitasa-genterapia/",
+        "h1": "Új tudomány született tegnap: elindultunk a vakság gyógyítása felé",
+        "txtlength": 14105
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/velemeny/2021/05/26/mero-laszlo-velemeny-elovalasztas-hekkeles-londoni-megoldas",
+        "h1": "A londoni megoldás, amellyel elkerülhető az előválasztások meghekkelése",
+        "txtlength": 12054
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/belfold/2021/05/26/tarsoly-csaba-plaza-ures-whb-gyor-quaestor",
+        "h1": "Óriásplázának álmodták, de inkább szellemkastélyra hasonlít a Quaestor-botrány egyik nagy szimbóluma",
+        "txtlength": 11974
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/kulfold/protaszevics-ryanair-gepelterites-feheroroszorszag-kgb-szemtanuk-video/g4jy4xk",
+        "h1": "„Ne csinálják ezt, engem meg fognak ölni” – Az életéért könyörgött az eltérített gépen a fehérorosz újságíró: szemtanúk beszámolója",
+        "txtlength": 10729
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/blikk-felmeres-husleves-kedvenc-etel/4rfw8jl",
+        "h1": "Itt a Blikk felmérése, most kiderül, mi a magyarok kedvenc étele",
+        "txtlength": 10618
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/05/25/jo-ranezni-ezekre-a-gorbekre",
+        "h1": "Jó ránézni ezekre a görbékre",
+        "txtlength": 10354
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/foto/2021/05/25/zalaegerszeg-piacter-dagerrotipia-keszitoje-auguste-de-gerando-1845-gajda-peter",
+        "h1": "Közelebb kerültek az egyik első hazai városfotó sztorijának megfejtéséhez",
+        "txtlength": 10170
+    },
+    {
+        "hostname": "nosalty.hu",
         "pagelink": "https://www.nosalty.hu/recept/hagyomanyos-toltott-paprika",
         "h1": "Hagyományos töltött paprika",
         "txtlength": 12228
