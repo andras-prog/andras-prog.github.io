@@ -1,6 +1,204 @@
 [
     {
         "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/tradicionalis-gulyasleves",
+        "h1": "Tradicionális gulyásleves",
+        "txtlength": 12228
+    },
+    {
+        "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/kinai-teszta-ahogy-bufeben-keszul",
+        "h1": "Kínai tészta, ahogy a büfében készül",
+        "txtlength": 10737
+    },
+    {
+        "hostname": "receptneked.hu",
+        "pagelink": "https://receptneked.hu/gyors/baconben-sult-sajttekercs-1/",
+        "h1": "Baconben sült sajttekercs recept",
+        "txtlength": 4813
+    },
+    {
+        "hostname": "receptneked.hu",
+        "pagelink": "https://receptneked.hu/gyors/csaszarne-pogacsaja/",
+        "h1": "Császárné pogácsája recept",
+        "txtlength": 4799
+    },
+    {
+        "hostname": "kiszamolo.hu",
+        "pagelink": "https://kiszamolo.hu/mennyi-milliomos-van-a-vilagon/",
+        "h1": "Mennyi milliomos van a világon?",
+        "txtlength": 33839
+    },
+    {
+        "hostname": "efesasanisimasa.com",
+        "pagelink": "https://efesasanisimasa.com/2021/05/24/sajat-szoba-hazassagi-tortenet-marriage-story-2019/",
+        "h1": "Saját szoba – Házassági történet (Marriage Story, 2019)",
+        "txtlength": 12188
+    },
+    {
+        "hostname": "alapblog.hu",
+        "pagelink": "https://alapblog.hu/happy-days-are-here-again/",
+        "h1": "HAPPY DAYS ARE HERE AGAIN",
+        "txtlength": 10627
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/oktatas/20210526/megszolalt-az-elte-pszichologia-vezetoje-igy-csabitanak-el-barkit-a-sarlatan-lelekgyogyaszok-1114887",
+        "h1": "Megszólalt az ELTE Pszichológia vezetője: így csábítanak el bárkit a sarlatán lélekgyógyászok",
+        "txtlength": 31651
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20210527/szigoritasok-elott-europa-durvan-elszallhatnak-a-futesi-koltsegek-es-az-uzemanyagarak-485034",
+        "h1": "Szigorítások előtt Európa, durván elszállhatnak a fűtési költségek és az üzemanyagárak",
+        "txtlength": 20243
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/kozelet/20210527/kisajtolna-meg-par-milliot-az-allami-botranycegbol-a-korozott-volt-gazdasagi-igazgato-kore/",
+        "h1": "Kisajtolna még pár milliót az állami botránycégből a körözött volt gazdasági igazgató köre",
+        "txtlength": 20118
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210417_dr_zwack_das_ist_ein_unikum_200_eve_szuletett_zwack_jozsef",
+        "h1": "Dr. Zwack, das ist ein Unikum! – A Zwack Unicum mesébe illő története",
+        "txtlength": 18821
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://precedens.mandiner.hu/cikk/20210527_nem_lenne_szabad_az_alapjan_szelektalni_hogy_a_vedooltas_honnan_szarmazik_beszelgetes_ana_santos_rutchman_nal",
+        "h1": "Nem lenne szabad az alapján szelektálni, hogy a védőoltás honnan származik – beszélgetés Ana Santos Rutchman-nal",
+        "txtlength": 18718
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210512_durvul_a_klimasakkjatszma",
+        "h1": "Durvul a klímasakkjátszma Németországban",
+        "txtlength": 18487
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/szorakozas/20210524/zsebbenyulos-nyar-var-a-szulokre-tobbszazezres-kiadas-is-lehet-a-moka-vege-1114824",
+        "h1": "Zsebbenyúlós nyár vár a szülőkre: többszázezres kiadás is lehet a móka vége",
+        "txtlength": 18420
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2021/05/26/az-univerzum-csaknem-ugy-viselkedik-mint-egy-hangszer",
+        "h1": "AZ UNIVERZUM CSAKNEM ÚGY VISELKEDIK, MINT EGY HANGSZER",
+        "txtlength": 17178
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/adat/20210526/oriasvallalatnyi-dolgozot-veszitett-el-az-orszag-a-koronavirus-miatt/",
+        "h1": "Óriásvállalatnyi dolgozót veszített el az ország a koronavírus miatt",
+        "txtlength": 16912
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/uzlet/20210527/impulzusra-varnak-a-befektetok-minuszban-a-kriptovalutak-485104",
+        "h1": "Impulzusra várnak a befektetők, mínuszban a kriptovaluták ",
+        "txtlength": 14523
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.penzcentrum.hu/utazas/20210527/horvatorszagban-nyaralnal-errol-feltetlenul-tudnod-kell-mielott-lefoglalod-a-szallast-1114944",
+        "h1": "Horvátországban nyaralnál? Erről feltétlenül tudnod kell, mielőtt lefoglalod a szállást",
+        "txtlength": 13684
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/kapcsolat/vilag-legidosebb-embere/",
+        "h1": "118 éves a világ legidősebb asszonya: Kane Tanaka máig aktív életet él, kedvenc hobbija a kalligráfia",
+        "txtlength": 11235
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/lajfhekk/mi-tarolhto-a-huto-ajtajaban/",
+        "h1": "Mit tárolhatunk a hűtő ajtajában, ahol a legmelegebb van? Tojást például nem volna szabad",
+        "txtlength": 6274
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/kultura/20210526_friss_hus_2021_rovidfilm_ajanlo_rovidfilmfesztival_osvart_andrea_gryllus_dorka_simon_kornel",
+        "h1": "Osvárt Andrea egy mozdulattal megold minden problémát",
+        "txtlength": 21481
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/szorakozas/2021/05/26/jobaratok-friends-reunion-orokseg-hatas-kritikak",
+        "h1": "Mit adott nekünk a Jóbarátok?",
+        "txtlength": 21183
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/sport/2021/05/26/lorant-peter-kosarlabda-ivkovics-sztojan-magyar-valogatott-visszavonulas-interju/",
+        "h1": "„Anyázva fröcsögött az arcomba a csarnokban, az utcán meg barátilag köszönt”",
+        "txtlength": 20151
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/gazdasag/2021/05/27/kulfoldi-utazas-vedettsegi-igazolvany-pcr-teszt-tanacsok-gyerekek-gorogorszag-horvatorszag-torokorszag",
+        "h1": "Hogy lehet így utazást tervezni? Most derül ki, mire nem jó a magyar védettségi igazolvány",
+        "txtlength": 16197
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/05/27/kinaban-elkezdtek-a-bitcoinbanyak-kiszoritasat",
+        "h1": "Kínában elkezdték a bitcoinbányák kiszorítását",
+        "txtlength": 15833
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/belfold/2021/05/26/az-oszodi-beszed-15-evforduloja-media-fidesz-gyurcsany-ferenc-kozmedia-m1-origo-magyar-nemzet-megyei-lapok",
+        "h1": "Szőnyegbombázással emlékezik a fideszes média Gyurcsány őszödi beszédére",
+        "txtlength": 15051
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2021/05/26/koronavirus-tarsadalom-szemelyes-felelmek-magyarorszag-europai-unio-problemak/",
+        "h1": "Nem félünk a robotoktól, viszont attól igen, hogy jön egy újabb világjárvány",
+        "txtlength": 13656
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/05/26/a-svajci-kormany-semmit-nem-tud-a-bombafenyegeterol-amire-hivatkozva-lukasenka-elteritett-egy-repulot",
+        "h1": "A svájci kormány semmit nem tud a bombafenyegetéről, amire hivatkozva Lukasenka eltérített egy repülőt",
+        "txtlength": 12106
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/fn/gazdasag/2021/05/26/nyugdijas-mozdonyvezeto-kirugas/",
+        "h1": "A bíróságok tévedtek, mégsem kap semmit a védett korban elbocsátott mozdonyvezető",
+        "txtlength": 12067
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/vilag/20210527_Az_egesz_EUban_veszelyben_lehetnek_a_feherorosz_ellenzekiek",
+        "h1": "Az egész EU-ban veszélyben lehetnek a fehérorosz ellenzékiek",
+        "txtlength": 11958
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/vilag/20210526_Ime_a_fiatalember_aki_miatt_meg_tobb_szankciot_bevallalt_a_feherorosz_diktator",
+        "h1": "Ki ez a fiatalember, aki miatt még több szankciót bevállalt a fehérorosz diktátor?",
+        "txtlength": 11322
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/blikk-ugyek-uj-lakas-alberlet-epitoipari-csalas/l66bg6q?sl_ps=d_10",
+        "h1": "Szélmalomharcot vív az igazáért: új lakás helyett albérletbe kényszerült István, akitől az előleget és az ingatlant is lenyúlták",
+        "txtlength": 9900
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/pedofil-futballedzo-gy-csaba-jatekosok/mv4x08r?sl_ps=d_11",
+        "h1": "Megnyerő modorral hálózta be áldozatait: a rajongásig szerették a játékosok a pedofil futballedzőt",
+        "txtlength": 9537
+    },
+    {
+        "hostname": "nosalty.hu",
         "pagelink": "https://www.nosalty.hu/recept/frankfurti-leves-egyszeruen",
         "h1": "Frankfurti leves egyszerűen",
         "txtlength": 12501
