@@ -1,85 +1,6 @@
 [
     {
-        "timestamp": 1621594906578,
-        "name": "Csirkés kínai pirított tészta",
-        "lead": "A filozófiám alapja, hogy cogito ergo sum - gondolkodni és létezni viszont csak akkor tudok, ha jóllakott vagyok.",
-        "phrase": "kínai",
-        "link": "https://www.nosalty.hu/recept/csirkes-kinai-piritott-teszta",
-        "ingred": [
-            "csirkemell",
-            "kínai tészta",
-            "sárgarépa",
-            "hagyma",
-            "káposzta",
-            "gyömbér",
-            "chili",
-            "fokhagyma",
-            "osztrigaszósz",
-            "szójaszósz",
-            "repceolaj",
-            "olaj"
-        ]
-    },
-    {
-        "timestamp": 1621594906578,
-        "name": "Klasszikus minestrone leves",
-        "lead": "Az étel arra van, hogy jókedvűek legyünk tőle.",
-        "phrase": "leves",
-        "link": "https://www.nosalty.hu/recept/klasszikus-minestrone-leves",
-        "ingred": [
-            "olívaolaj",
-            "hagyma",
-            "zeller",
-            "sárgarépa",
-            "fokhagyma",
-            "oregánó",
-            "fehérbor",
-            "paradicsomkozerv",
-            "cukkini",
-            "kelkáposzta",
-            "tészta",
-            "fehérbab",
-            "bazsalikom",
-            "parmezán"
-        ]
-    },
-    {
-        "timestamp": 1621594906578,
-        "name": "Anyukám kelkáposzta-főzeléke",
-        "lead": "A szerelem olyan, mint az étel vagy az ital. Lehet ezek nélkül élni?",
-        "phrase": "kelkáposzta",
-        "link": "https://www.nosalty.hu/recept/anyukam-kelkaposzta-fozeleke",
-        "ingred": [
-            "kelkáposzta",
-            "burgonya",
-            "hagyma",
-            "fokhagyma",
-            "sertéscomb",
-            "olaj",
-            "fűszerpaprika",
-            "kömény",
-            "kefir",
-            "joghurt",
-            "rizsliszt"
-        ]
-    },
-    {
-        "timestamp": 1621594906578,
-        "name": "Lusta lángos",
-        "lead": "A gasztronómia tisztán népköltészet. Nincs szabály, nincs feltaláló, nincsenek szerzői jogok. Csak a szájról szájra metódus működik.",
-        "phrase": "lángos",
-        "link": "https://www.nosalty.hu/recept/lusta-langos",
-        "ingred": [
-            "tej",
-            "élesztő",
-            "liszt",
-            "tejföl",
-            "szódabikarbóna",
-            "olaj"
-        ]
-    },
-    {
-        "timestamp": 64491,
+        "timestamp": 1622199669223,
         "name": "Tejfölös sertéspörkölt",
         "lead": "Bármily egyszerű is az étel, a született szakácsot tévedhetetlenül föl lehet ismerni.",
         "phrase": "sertés",
@@ -96,7 +17,7 @@
         ]
     },
     {
-        "timestamp": 65751,
+        "timestamp": 1622199669223,
         "name": "Krumplis pogácsa",
         "lead": "Minden étkezésben ott lakozhat a lélek, egy különös varázs; elég hozzá egy csöppnyi odafigyelés, képzelet és figyelmes gondoskodás.",
         "phrase": "krumpli",
@@ -112,7 +33,7 @@
         ]
     },
     {
-        "timestamp": 66556,
+        "timestamp": 1622199669223,
         "name": "Hatlapos sütemény",
         "lead": "Az étel arra van, hogy jókedvűek legyünk tőle.",
         "phrase": "édes",
@@ -129,7 +50,7 @@
         ]
     },
     {
-        "timestamp": 67097,
+        "timestamp": 1622199669223,
         "name": "Gesztenyés krémes sütés nélkül",
         "lead": "A terített asztal az egyetlen hely, ahol az ember az első órában soha se unatkozik.",
         "phrase": "krémes",
@@ -3197,6 +3118,85 @@
             "túró",
             "citrom",
             "tortabevonó"
+        ]
+    },
+    {
+        "timestamp": 1621594906578,
+        "name": "Csirkés kínai pirított tészta",
+        "lead": "A filozófiám alapja, hogy cogito ergo sum - gondolkodni és létezni viszont csak akkor tudok, ha jóllakott vagyok.",
+        "phrase": "kínai",
+        "link": "https://www.nosalty.hu/recept/csirkes-kinai-piritott-teszta",
+        "ingred": [
+            "csirkemell",
+            "kínai tészta",
+            "sárgarépa",
+            "hagyma",
+            "káposzta",
+            "gyömbér",
+            "chili",
+            "fokhagyma",
+            "osztrigaszósz",
+            "szójaszósz",
+            "repceolaj",
+            "olaj"
+        ]
+    },
+    {
+        "timestamp": 1621594906578,
+        "name": "Klasszikus minestrone leves",
+        "lead": "Az étel arra van, hogy jókedvűek legyünk tőle.",
+        "phrase": "leves",
+        "link": "https://www.nosalty.hu/recept/klasszikus-minestrone-leves",
+        "ingred": [
+            "olívaolaj",
+            "hagyma",
+            "zeller",
+            "sárgarépa",
+            "fokhagyma",
+            "oregánó",
+            "fehérbor",
+            "paradicsomkozerv",
+            "cukkini",
+            "kelkáposzta",
+            "tészta",
+            "fehérbab",
+            "bazsalikom",
+            "parmezán"
+        ]
+    },
+    {
+        "timestamp": 1621594906578,
+        "name": "Anyukám kelkáposzta-főzeléke",
+        "lead": "A szerelem olyan, mint az étel vagy az ital. Lehet ezek nélkül élni?",
+        "phrase": "kelkáposzta",
+        "link": "https://www.nosalty.hu/recept/anyukam-kelkaposzta-fozeleke",
+        "ingred": [
+            "kelkáposzta",
+            "burgonya",
+            "hagyma",
+            "fokhagyma",
+            "sertéscomb",
+            "olaj",
+            "fűszerpaprika",
+            "kömény",
+            "kefir",
+            "joghurt",
+            "rizsliszt"
+        ]
+    },
+    {
+        "timestamp": 1621594906578,
+        "name": "Lusta lángos",
+        "lead": "A gasztronómia tisztán népköltészet. Nincs szabály, nincs feltaláló, nincsenek szerzői jogok. Csak a szájról szájra metódus működik.",
+        "phrase": "lángos",
+        "link": "https://www.nosalty.hu/recept/lusta-langos",
+        "ingred": [
+            "tej",
+            "élesztő",
+            "liszt",
+            "tejföl",
+            "szódabikarbóna",
+            "olaj"
         ]
     }
 ]
