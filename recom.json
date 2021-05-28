@@ -1,6 +1,186 @@
 [
     {
         "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/hagyomanyos-kakaos-csiga",
+        "h1": "Hagyományos kakaós csiga",
+        "txtlength": 11544
+    },
+    {
+        "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/falusi-almas-pite",
+        "h1": "Falusi almás pite",
+        "txtlength": 11461
+    },
+    {
+        "hostname": "receptneked.hu",
+        "pagelink": "https://receptneked.hu/gyors/bundas-kenyer-maskeppen/",
+        "h1": "Bundás kenyér másképpen recept",
+        "txtlength": 4909
+    },
+    {
+        "hostname": "receptneked.hu",
+        "pagelink": "https://receptneked.hu/gyors/sajtos-krumpligolyok/",
+        "h1": "Sajtos krumpligolyók recept",
+        "txtlength": 4754
+    },
+    {
+        "hostname": "hataratkelo.blog.hu",
+        "pagelink": "https://hataratkelo.blog.hu/2021/05/18/amerikai_oltas_es_nemi_breaking_bad-erzes#c40676204",
+        "h1": "Amerikai oltás és némi Breaking Bad-érzés",
+        "txtlength": 37640
+    },
+    {
+        "hostname": "kulturpart.hu",
+        "pagelink": "https://kulturpart.blog.hu/2021/05/27/elobb-utobb_a_high-tech_koporsoban_is_elfogy_a_levego",
+        "h1": "ELŐBB-UTÓBB A HIGH-TECH KOPORSÓBAN IS ELFOGY A LEVEGŐ",
+        "txtlength": 11207
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20210528/peldatlan-egyuttmukodessel-epitenek-uj-orszagos-egeszsegugyi-halozatot-magyarorszagon-485228",
+        "h1": "Példátlan együttműködéssel építenek új országos egészségügyi hálózatot Magyarországon",
+        "txtlength": 29937
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210526_a_baloldal_eladna_a_lakok_megtartanak",
+        "h1": "A baloldal eladná, a lakók megtartanák – újbudai telekcsaták",
+        "txtlength": 26281
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210524_civilek_mmm_elovalasztas",
+        "h1": "Előválasztás: statisztaszerepre kényszerül Márki-Zay mozgalma",
+        "txtlength": 22097
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210526_a_jobboldal_nem_csak_frazisokat_pufogtat_bagi_ivan_a_mandinernek",
+        "h1": "A jobboldal nem csak frázisokat pufogtat – Bagi Iván a Mandinernek",
+        "txtlength": 21741
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/adat/20210528/a-magyarok-85-szazaleka-nem-ismeri-azt-a-gazdasagi-modellt-amely-fele-a-kormany-elindult/",
+        "h1": "A magyarok 85 százaléka nem ismeri azt a gazdasági modellt, amely felé a kormány elindult",
+        "txtlength": 21133
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/uzlet/20210527/a-jo-munkaeropiaci-adat-mara-megmentette-az-amerikai-tozsdeket-485104",
+        "h1": "A jó munkaerőpiaci adat mára megmentette az amerikai tőzsdéket ",
+        "txtlength": 19274
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/hitel/20210523/kiakadt-polgar-tunde-ne-legyen-a-diakhitel-helyett-a-sugar-daddy-a-trendi-1114855",
+        "h1": "Kiakadt Polgár Tünde: ne legyen a diákhitel helyett a sugar daddy a trendi",
+        "txtlength": 16530
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/uzlet/20210528/magyar-nemzet-tobbsegi-allami-tulajdonba-kerulhet-a-budapesti-repuloter-485312",
+        "h1": "Magyar Nemzet: többségi állami tulajdonba kerülhet a budapesti repülőtér",
+        "txtlength": 15280
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/utazas/20210525/6-egeto-covid-kerdes-magyarok-millioinak-mulhat-ezen-az-idei-evi-nyaralasuk-1114894",
+        "h1": "6 égető Covid-kérdés: magyarok millióinak múlhat ezen az idei évi nyaralásuk",
+        "txtlength": 15013
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/szuloseg/sport-ruha-zaklatas-tornasz/",
+        "h1": "Miért kényszerítjük szexi ruhákba a kislány sportolókat? Nem válnak enélkül is túl gyakran áldozattá?",
+        "txtlength": 14004
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/szepseg/alacsony-no-nadragot-venne/",
+        "h1": "Alacsony nő nadrágot venne! De rémálom a vásárlás széles csípővel, rövid lábakkal",
+        "txtlength": 13743
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vilag/20210527/miert-nem-nyitnak-uj-banyakat-ha-olyan-dragak-a-nyersanyagok/",
+        "h1": "Miért nem nyitnak új bányákat, ha olyan drágák a nyersanyagok?",
+        "txtlength": 13373
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/testem/labfej-erositese-gyakorlatok/",
+        "h1": "Futás: 3 hasznos gyakorlat a lábfej erősítésére",
+        "txtlength": 12500
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2021/05/28/megallithatatlanul-no-az-etolaj-ara-mert-kina-minden-alapanyagot-felvasarol",
+        "h1": "MEGÁLLÍTHATATLANUL NŐ AZ ÉTOLAJ ÁRA, MERT KÍNA MINDEN ALAPANYAGOT FELVÁSÁROL",
+        "txtlength": 11731
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/komplex/2021/05/28/szorakozohely-buli-kilencvenes-evek-retro-budapest",
+        "h1": "\n      A kilencvenes évek elsüllyedt buliatlantisza\n    ",
+        "txtlength": 67499
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2021/05/28/kerulet-lap-ellenzek-kozpenz-baloldal/",
+        "h1": "Megszületett a NER-t idéző balos propaganda, de van más is – milyen tömegsajtót csinál az ellenzék közpénzből?",
+        "txtlength": 23584
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kultura/2021/05/27/friss-hus-rovidfilm-fesztival-2021-ajanlo-magyar-film/",
+        "h1": "Kié lesz a legnagyobb szelet a nagy-magyarországos tortából?",
+        "txtlength": 20863
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/05/28/a-lenyeg-maradt-ki-a-pedofiltorvenybol",
+        "h1": "A lényeg maradt ki a pedofiltörvényből",
+        "txtlength": 18346
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/gazdasag/2021/05/28/digitalis-atallas-800-ezer-magyar-terne-inkabb-vissza-a-fizikai-boltokba",
+        "h1": "Digitális átállás: 800 ezer magyar térne inkább vissza a „fizikai” boltokba",
+        "txtlength": 10884
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/szorakozas/2021/05/27/jobaratok-reunion-ujra-egyutt-kritika-hbo",
+        "h1": "A Jóbarátok: Újra együtt egy kihagyott ziccer, mégis jó nézni",
+        "txtlength": 10882
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/05/28/oroszorszag-megtiltotta-a-berepulest-ket-belaruszt-elkerulo-europai-legitarsasagnak",
+        "h1": "Oroszország megtiltotta a berepülést két, Belaruszt elkerülő európai légitársaságnak",
+        "txtlength": 10240
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/szorakozas/2021/05/27/covid19-kobuci-bagossy-fellepes-idei-elso-koncert-video/",
+        "h1": "„Felszabadultunk!” – így néznek ki nyolc hónap után a sikító, éneklő, táncoló emberek",
+        "txtlength": 10086
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/blikk-ugyek-uj-lakas-alberlet-epitoipari-csalas/l66bg6q",
+        "h1": "Szélmalomharcot vív az igazáért: új lakás helyett albérletbe kényszerült István, akitől az előleget és az ingatlant is lenyúlták",
+        "txtlength": 9706
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/politika/orban-viktor-kossuth-radio-bejelentes/kv5l03t?sl_ps=d_3",
+        "h1": "Orbán Viktor megdöbbentő kijelentése: a fiát be kellett zárnia az őszödi beszéd miatt",
+        "txtlength": 9527
+    },
+    {
+        "hostname": "nosalty.hu",
         "pagelink": "https://www.nosalty.hu/recept/tradicionalis-gulyasleves",
         "h1": "Tradicionális gulyásleves",
         "txtlength": 12228
