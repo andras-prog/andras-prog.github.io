@@ -1,6 +1,198 @@
 [
     {
         "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/elallos-bodzaszorp",
+        "h1": "Elállós bodzaszörp",
+        "txtlength": 11828
+    },
+    {
+        "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/gyors-chilis-bab",
+        "h1": "Gyors chilis bab",
+        "txtlength": 10963
+    },
+    {
+        "hostname": "receptneked.hu",
+        "pagelink": "https://receptneked.hu/gyors/sutoben-sult-hotdog/",
+        "h1": "Sütőben sült hotdog recept",
+        "txtlength": 4802
+    },
+    {
+        "hostname": "receptneked.hu",
+        "pagelink": "https://receptneked.hu/gyors/10-perces-csokis-finomsag/",
+        "h1": "10 perces csokis finomság recept",
+        "txtlength": 4705
+    },
+    {
+        "hostname": "hataratkelo.blog.hu",
+        "pagelink": "https://hataratkelo.blog.hu/2021/05/18/amerikai_oltas_es_nemi_breaking_bad-erzes#c40677986",
+        "h1": "Amerikai oltás és némi Breaking Bad-érzés",
+        "txtlength": 38574
+    },
+    {
+        "hostname": "kulturpart.hu",
+        "pagelink": "https://kulturpart.hu/2021/05/27/elindult_az_idei_swimathon_ezuttal_szarazon",
+        "h1": "ELINDULT AZ IDEI SWIMATHON – EZÚTTAL SZÁRAZON",
+        "txtlength": 6696
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20210529/kulfoldi-nyaralast-tervezel-igy-lehet-majd-utazni-a-magyarok-kedvenc-udulohelyeire-485408",
+        "h1": "Külföldi nyaralást tervezel? Így lehet majd utazni a magyarok kedvenc üdülőhelyeire",
+        "txtlength": 33086
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210701_szeretnenk_felhangositani_a_patriotak_hangjat_a_facebookon_rakay_philip_a_mandinernek",
+        "h1": "Ők a partizánok, mi pedig a patrióták – Rákay Philip a Mandinernek",
+        "txtlength": 28307
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2021/05/29/aki-szegeny-annyit-is-er",
+        "h1": "„AKI SZEGÉNY, ANNYIT IS ÉR”",
+        "txtlength": 27714
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/uzlet/20210526/juniusban-konferencia-dompinggel-keszul-a-portfolio-484868",
+        "h1": "Júniusban visszatérnek a Portfolio konferenciái: a nyári szezonban is első a biztonság",
+        "txtlength": 20799
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vilag/20210528/az-otodik-szabaly-a-halal-avagy-miert-borul-langba-az-internet-a-kozel-keleti-konfliktus-miatt/",
+        "h1": "Az ötödik szabály a halál, avagy miért borul lángba az internet a közel-keleti konfliktus miatt?",
+        "txtlength": 19637
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/podcast/20210529/ha-el-akarjuk-kerulni-hogy-az-oltasaink-hasztalanna-valjanak-fel-kell-oldani-a-vakcinafejlesztok-es-a-gyartok-ellentetet/",
+        "h1": "Ha el akarjuk kerülni, hogy az oltásaink hasztalanná váljanak, fel kell oldani a vakcinafejlesztők és a gyártók ellentétét",
+        "txtlength": 18994
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210528_armin_laschet_orban_viktor_jogallamisag_eu_emmanuel_macron",
+        "h1": "Európát csak Orbánnal lehet továbbépíteni, mondja Merkel utóda",
+        "txtlength": 18144
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/ingatlan/20210529/a-kulisszak-mogott-igy-zajlik-a-vallalatoknal-a-zold-kotvenyek-kibocsatasa-485030",
+        "h1": "A kulisszák mögött: így zajlik a vállalatoknál a zöld kötvények kibocsátása",
+        "txtlength": 17708
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210526_diszszekely_vagy_alternativa",
+        "h1": "Díszszékely vagy alternatíva? – az erdélyi momentumos portréja",
+        "txtlength": 16168
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/karrier/20210525/kikeszit-a-munkahelyed-van-ahol-erzelmi-serulesekert-sokmillios-karterites-jar-1114869",
+        "h1": "Kikészít a munkahelyed? Van, ahol érzelmi sérülésekért sokmilliós kártérítés jár",
+        "txtlength": 15895
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/egeszseg/20210526/nem-eleg-a-vakcina-ez-az-5-dolog-kell-a-jarvany-totalis-legyozesehez-1114927",
+        "h1": "Nem elég a vakcina: ez az 5 dolog kell a járvány totális legyőzéséhez",
+        "txtlength": 15524
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/kapcsolat/mive-valt-a-kommunikacio/",
+        "h1": "Csoda, hogy folyamatosan gyanakszom? Azért akarunk megtanulni kommunikálni, hogy manipuláljunk másokat",
+        "txtlength": 13228
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/szuloseg/megeroszakolt-gyerek-csaladon-beluli-eroszak-iskola/",
+        "h1": "Kevesebb gyereket bántalmaznának, ha végre beszélnénk az erőszakról az iskolákban",
+        "txtlength": 11790
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2021/05/28/egyhaz-szexualis-bantalmazas-aldozatok-perintfalvi-rita-konyv-interju/",
+        "h1": "„Hogy bízzak meg ezek után egy papban?”",
+        "txtlength": 27769
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/tech/2021/05/28/xiaomi-mi-11-ultra-telefon-teszt-kamera-fenykepezes",
+        "h1": "A mobilfotózás csúcsát kerestük, egy fordított Batmant találtunk",
+        "txtlength": 16745
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/politika/orban-viktor-oxfordi-tanulmanyai-1989-pelczynski-mentor/exbx69k?sl_ps=d_2",
+        "h1": "Kitálalt a Blikknek Orbán Viktor egykori mentora: titkok a miniszterelnök fiatal éveiről",
+        "txtlength": 16614
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/cegauto/20210529_95_millio_forintos_aston_martin_dbx_teszt_velemeny_menetproba",
+        "h1": "Bokszkesztyű, kék vér, gyerekülés: teszten a 95 millió forintos Aston Martin DBX",
+        "txtlength": 16281
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/vilag/20210528_koronavirus_eredet_who_kina_joe_biden",
+        "h1": "Vissza a konteóba: mi van, ha mégis laborból szabadult a koronavírus?",
+        "txtlength": 15408
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kult/2021/05/29/cserna-szabo-andras-barbarok-telextarca-tarcanovella",
+        "h1": "Cserna-Szabó András: Barbárok",
+        "txtlength": 15135
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kultura/2021/05/28/snassz-neociki-buhera-epiteszet-szalai-andrasinterju/",
+        "h1": "Hogyan került hat pucér nő a homlokzatra?",
+        "txtlength": 14483
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kult/2021/05/28/koncert-fesztival-magyar-kozlony-kormanyrendelet-fishing-on-orfu-budapest-park",
+        "h1": "Életszerűtlen, hogy csak védettségi igazolvánnyal lehet bemenni egy koncertre, mégis ez a helyzet",
+        "txtlength": 13585
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/tudomany/20210529_mckinsey_global_digital_sentiment_digitalizacio_tanulmany",
+        "h1": "Lecsengőben a Covid-hatás, 800 ezer magyar szakadna el a képernyőjétől",
+        "txtlength": 11987
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kulfold/2021/05/29/izrael-palesztina-hamasz-oltas-konfliktus-helyszini-videoriport/",
+        "h1": "„A rakéta nem Covid, az kiszakítja az épületet, ott nem akarsz bulizini”",
+        "txtlength": 11292
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/05/28/sulyos-kornyezeti-katasztrofat-okozhat-a-kigyulladt-teherhajo-sri-lankan",
+        "h1": "Súlyos környezeti katasztrófát okozhat a kigyulladt teherhajó Srí Lankán",
+        "txtlength": 9366
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/05/28/nem-jut-vakcinahoz-egy-16-eves-lany-mert-valaki-mas-felvette-az-o-taj-szamara-az-oltast",
+        "h1": "Nem jut vakcinához egy 16 éves lány, mert valaki más felvette az ő TAJ-számára az oltást",
+        "txtlength": 9186
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/politika/capitolium-republikanus-szenator-tamadas-joe-biden-trump/ns206rc",
+        "h1": "Megakadályozták a Capitolium elleni támadás kivizsgálását",
+        "txtlength": 8218
+    },
+    {
+        "hostname": "nosalty.hu",
         "pagelink": "https://www.nosalty.hu/recept/hagyomanyos-kakaos-csiga",
         "h1": "Hagyományos kakaós csiga",
         "txtlength": 11544
