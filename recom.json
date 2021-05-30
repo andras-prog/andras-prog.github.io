@@ -1,6 +1,192 @@
 [
     {
         "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/klasszikus-toltott-kaposzta",
+        "h1": "Klasszikus töltött káposzta",
+        "txtlength": 11623
+    },
+    {
+        "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/fanta-szelet-detty-konyhajabol",
+        "h1": "Fanta szelet Detty konyhájából",
+        "txtlength": 10990
+    },
+    {
+        "hostname": "receptneked.hu",
+        "pagelink": "https://receptneked.hu/gyors/bundaskenyer-muffin/",
+        "h1": "Bundáskenyér muffin recept",
+        "txtlength": 4694
+    },
+    {
+        "hostname": "receptneked.hu",
+        "pagelink": "https://receptneked.hu/gyors/toltott-zsemle-2/",
+        "h1": "Töltött zsemle recept",
+        "txtlength": 4667
+    },
+    {
+        "hostname": "hataratkelo.blog.hu",
+        "pagelink": "https://hataratkelo.blog.hu/2021/05/27/svajci_elet_magyar_informatikuskent#c40679030",
+        "h1": "Svájci élet magyar informatikusként",
+        "txtlength": 25755
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210525_hamvas_palkovics",
+        "h1": "Hamvas Bélát se jobbról, se balról nem lehet kisajátítani – Palkovics Tibor a Mandinernek",
+        "txtlength": 36753
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2021/05/30/hanyan-tudjak-igazan-megkulonboztetni-a-valodi-magyar-karakteret-a-fektelen-betyarkodastol",
+        "h1": "HÁNYAN TUDJÁK IGAZÁN MEGKÜLÖNBÖZTETNI A VALÓDI MAGYAR KARAKTERÉT A FÉKTELEN BETYÁRKODÁSTÓL?",
+        "txtlength": 20994
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210526_remenyt_visznek_az_okumenikusok_irakba",
+        "h1": "Reményt visznek az Ökumenikusok Irakba",
+        "txtlength": 20846
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://precedens.mandiner.hu/cikk/20210528_szukseg_lenne_a_madl_ferenchez_hasonlo_tudos_politikusokra_beszelgetes_paczolay_peterrel",
+        "h1": "Szükség lenne a Mádl Ferenchez hasonló „tudós politikusokra” – beszélgetés Paczolay Péterrel",
+        "txtlength": 18971
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/global/20210530/10-rettegett-mesterlovesz-akik-igazi-legendakent-vonultak-be-a-tortenelembe-485396",
+        "h1": "10 rettegett mesterlövész, akik igazi legendaként vonultak be a történelembe",
+        "txtlength": 17932
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/global/20210530/a-tagallamok-erzik-hogy-az-eu-ebben-a-formaban-nem-letezhet-tovabb-a-nagy-szavakbol-nincs-hiany-nagy-tettekre-nincs-kilatas-485392",
+        "h1": "A tagállamok érzik, hogy az EU ebben a formában nem létezhet tovább: a nagy szavakból nincs hiány, nagy tettekre nincs kilátás",
+        "txtlength": 17448
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/szuloseg/narcisztikus-gyerek/",
+        "h1": "Létezik, hogy narcisztikus a gyerekem?",
+        "txtlength": 16892
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/tech/20210527/igy-tehet-teged-is-megszallotta-a-mobilod-konyortelen-szamban-sujtja-a-kor-a-magyarokat-1114958",
+        "h1": "Így tehet téged is megszállottá a mobilod: könyörtelen számban sújtja a kór a magyarokat",
+        "txtlength": 16742
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/elet/20210530/beindult-a-kockazatmentes-jatek-a-nyari-szallasfoglalasokkal/",
+        "h1": "Beindult a kockázatmentes játék a nyári szállásfoglalásokkal",
+        "txtlength": 15539
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/kozelet/20210527/nem-arulja-el-a-kormany-de-elindulhatott-kulfoldre-a-magyar-pfizer-es-moderna-szallitas/",
+        "h1": "Nem árulja el a kormány, de elindulhatott külföldre a magyar Pfizer- és Moderna-szállítás",
+        "txtlength": 15083
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/otthon/20210527/horror-a-magyar-ingatlanpiacon-nincs-konnyu-helyzetben-aki-most-epitkezne-1114929",
+        "h1": "Horror a magyar ingatlanpiacon: nincs könnyű helyzetben, aki most építkezne",
+        "txtlength": 14784
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/ingatlan/20210530/mennyit-segitenek-az-otthonteremtesi-kedvezmenyek-a-lakasvasarloknak-485400",
+        "h1": "Mennyit segítenek az otthonteremtési kedvezmények a lakásvásárlóknak?",
+        "txtlength": 14717
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/otthon/hogy-hivjak-azt-a-kis-lila-novenyt/",
+        "h1": "Jaj, de szép virág! Hogy hívják? Hát a rossebb tuggya!",
+        "txtlength": 14269
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/elet-stilus/2021/05/30/tetovalas-magyar-irodalom-pecs-bende-pinter-anita/",
+        "h1": "„A vádlijára került Szendrey Júlia meg az Ómagyar Mária-siralom”",
+        "txtlength": 21593
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kultura/2021/05/30/elmegyogyintezet-szef-hasadek-matine-konyvajanlo/",
+        "h1": "Dermesztő titkokat rejtett egy szlovákiai elhagyott elmegyógyintézet széfje",
+        "txtlength": 18346
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kultura/2021/05/29/jankovics-marcell-meghalt/",
+        "h1": "Meghalt Jankovics Marcell",
+        "txtlength": 17554
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kult/2021/05/29/ujkrumpli-var-felejts-el-mindent-mindent-ami-faj",
+        "h1": "Újkrumpli vár, felejts el mindent; mindent ami fáj",
+        "txtlength": 15273
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/tudomany/20210529_sebeszet_technologia_kiterjesztett_valosag_3d_nyomtatas_pte_egeszsegugyi_mernok_msc",
+        "h1": "Olyan forradalom zajlik a sebészetben, amely talán önt is érinteni fogja",
+        "txtlength": 14895
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/tudomany/20210530_biomutant_teszt_kritika_szerepjatek",
+        "h1": "Amikor a világ úgy szétesett, hogy csak egy torz mókus segíthet — ilyen lett a Biomutant",
+        "txtlength": 12758
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/gazdasag/20210530_Es_akkor_lakastorveny_ujranyitas_parkolas_pfizer_richter_amazon",
+        "h1": "És akkor Budapest legdrágább részein lesz szinte ajándék a bérlakás",
+        "txtlength": 12164
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/05/29/hetvegi-olvasnivalo-a-maszk-eldobasatol-a-belga-ramboig",
+        "h1": "Hétvégi olvasnivaló a maszk eldobásától a belga Rambóig",
+        "txtlength": 10594
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/eszkombajn/2021/05/30/ciabatta-kenyer-olaszorszag-bagett-franciaorszag",
+        "h1": "Ősrégi olasz tradíciónak tűnhet, de valójában csak a nyolcvanas években találták ki",
+        "txtlength": 9679
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/05/29/megis-lesz-nyomozas-a-matrai-eromu-teruleten-tortent-kornyezetszennyezes-ugyeben",
+        "h1": "Mégis lesz nyomozás a Mátrai Erőmű területén történt környezetszennyezés ügyében",
+        "txtlength": 9168
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/svabhegyi-szanatorium-lakohaz-epites/yg9h12w?sl_ps=d_5",
+        "h1": "Lakóház lesz az egykori legendás szanatórium: itt gyógyult Honthy Hanna, Fedák Sári és Karinthy Frigyes is",
+        "txtlength": 9009
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/kulfold/boris-johnson-carrie-symonds-titokban-osszehazasodott/vmlcrrm",
+        "h1": "Most érkezett: titokban megnősült Boris Johnson – Mutatjuk a jóval fiatalabb feleségét",
+        "txtlength": 8934
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/szorakozas/2021/05/30/nyomozom-a-detektivet",
+        "h1": "Nyomozom a detektívet – kipróbáltuk a társasok Oscar-díjára esélyes idei slágerjátékot",
+        "txtlength": 8620
+    },
+    {
+        "hostname": "nosalty.hu",
         "pagelink": "https://www.nosalty.hu/recept/elallos-bodzaszorp",
         "h1": "Elállós bodzaszörp",
         "txtlength": 11828
