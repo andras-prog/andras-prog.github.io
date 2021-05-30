@@ -9,8 +9,8 @@
     "tarfajl": "(1 kg = 1436 Ft)",
     "tarfajlmert": "",
     "disc": "-18%",
-    "erv": "2021.06.01",
-    "termeklink": "https://bevasarlas.tesco.hu/groceries/hu-HU/products/2004008341583"
+    "erv": "",
+    "termeklink": "https://tesco.hu/akciok/akcios-termekek/termek/hm/tejtermekek-tojas-pekaru/turo-tejszin/crema-bianco-habspray-1/"
   },
   {
     "azon": "TESCO",
@@ -100,8 +100,8 @@
     "tarfajl": "",
     "tarfajlmert": "",
     "disc": "-33%",
-    "erv": "2021.06.01",
-    "termeklink": "https://bevasarlas.tesco.hu/groceries/hu-HU/products/2004007494105"
+    "erv": "",
+    "termeklink": "https://tesco.hu/akciok/akcios-termekek/termek/hm/tejtermekek-tojas-pekaru/tejek-tejitalok/kunsagi-dobozos-tej/"
   },
   {
     "azon": "TESCO",
@@ -7463,19 +7463,6 @@
   {
     "azon": "CBA",
     "forras": "",
-    "termeknev": "Szentpéteri Irsai Olivér száraz fehérbor 12% 0.75l",
-    "termekar": "1099,- Ft/db",
-    "termekcur": "",
-    "termekmenny": "",
-    "tarfajl": " 1465,33 Ft/l",
-    "tarfajlmert": "",
-    "disc": "-37%",
-    "erv": "",
-    "termeklink": "https://online.prima.hu/s/szentpeteri-irsai-oliver-szaraz-feherbor-12-0-75l-10000204218?cat=55901010"
-  },
-  {
-    "azon": "CBA",
-    "forras": "",
     "termeknev": "Szentpéteri Cserszegi fűszeres sz. fehérbor 12% 0.75l",
     "termekar": "1099,- Ft/db",
     "termekcur": "",
@@ -7485,6 +7472,19 @@
     "disc": "-37%",
     "erv": "",
     "termeklink": "https://online.prima.hu/s/szentpeteri-cserszegi-fuszeres-sz-feherbor-12-0-75l-10000195451?cat=55901010"
+  },
+  {
+    "azon": "CBA",
+    "forras": "",
+    "termeknev": "Szentpéteri Irsai Olivér száraz fehérbor 12% 0.75l",
+    "termekar": "1099,- Ft/db",
+    "termekcur": "",
+    "termekmenny": "",
+    "tarfajl": " 1465,33 Ft/l",
+    "tarfajlmert": "",
+    "disc": "-37%",
+    "erv": "",
+    "termeklink": "https://online.prima.hu/s/szentpeteri-irsai-oliver-szaraz-feherbor-12-0-75l-10000204218?cat=55901010"
   },
   {
     "azon": "CBA",
@@ -7697,6 +7697,19 @@
   {
     "azon": "CBA",
     "forras": "",
+    "termeknev": "Bodvin Tokaji Szamorodni édes fehérbor 13% 0.5l",
+    "termekar": "1299,- Ft/db",
+    "termekcur": "",
+    "termekmenny": "",
+    "tarfajl": " 1732,00 Ft/l",
+    "tarfajlmert": "",
+    "disc": "-31%",
+    "erv": "",
+    "termeklink": "https://online.prima.hu/s/bodvin-tokaji-szamorodni-edes-feherbor-13-0-5l-10000145391?cat=559050"
+  },
+  {
+    "azon": "CBA",
+    "forras": "",
     "termeknev": "Bábolna gyorsfagyasztott röfiburger 1000g",
     "termekar": "1299,- Ft/db",
     "termekcur": "",
@@ -7719,19 +7732,6 @@
     "disc": "-31%",
     "erv": "",
     "termeklink": "https://online.prima.hu/s/lelovits-villanyi-rose-szaraz-rozebor-2018-12-0-75l-10000145410?cat=55902010"
-  },
-  {
-    "azon": "CBA",
-    "forras": "",
-    "termeknev": "Bodvin Tokaji Szamorodni édes fehérbor 13% 0.5l",
-    "termekar": "1299,- Ft/db",
-    "termekcur": "",
-    "termekmenny": "",
-    "tarfajl": " 1732,00 Ft/l",
-    "tarfajlmert": "",
-    "disc": "-31%",
-    "erv": "",
-    "termeklink": "https://online.prima.hu/s/bodvin-tokaji-szamorodni-edes-feherbor-13-0-5l-10000145391?cat=559050"
   },
   {
     "azon": "CBA",
@@ -7788,6 +7788,19 @@
   {
     "azon": "CBA",
     "forras": "",
+    "termeknev": "Häagen-Dazs jégkrém vanília, praliné 460ml",
+    "termekar": "1599,- Ft/db",
+    "termekcur": "",
+    "termekmenny": "",
+    "tarfajl": " 3476,09 Ft/l",
+    "tarfajlmert": "",
+    "disc": "",
+    "erv": "",
+    "termeklink": "https://online.prima.hu/s/haagen-dazs-jegkrem-vanilia-praline-460ml-10000205910?cat=505030"
+  },
+  {
+    "azon": "CBA",
+    "forras": "",
     "termeknev": "Teleki Selection Merlot száraz vörösbor 14.5% 0.75l",
     "termekar": "1599,- Ft/db",
     "termekcur": "",
@@ -7810,19 +7823,6 @@
     "disc": "",
     "erv": "",
     "termeklink": "https://online.prima.hu/s/haagen-dazs-jegkrem-vanilia-makadamdioval-460ml-10000205913?cat=505030"
-  },
-  {
-    "azon": "CBA",
-    "forras": "",
-    "termeknev": "Häagen-Dazs jégkrém vanília, praliné 460ml",
-    "termekar": "1599,- Ft/db",
-    "termekcur": "",
-    "termekmenny": "",
-    "tarfajl": " 3476,09 Ft/l",
-    "tarfajlmert": "",
-    "disc": "",
-    "erv": "",
-    "termeklink": "https://online.prima.hu/s/haagen-dazs-jegkrem-vanilia-praline-460ml-10000205910?cat=505030"
   },
   {
     "azon": "CBA",
@@ -8204,19 +8204,6 @@
   {
     "azon": "CBA",
     "forras": "",
-    "termeknev": "Milli krémtúró vaníliás 90g",
-    "termekar": "139,- Ft/db",
-    "termekcur": "",
-    "termekmenny": "",
-    "tarfajl": " 1544,44 Ft/kg",
-    "tarfajlmert": "",
-    "disc": "-26%",
-    "erv": "",
-    "termeklink": "https://online.prima.hu/s/milli-kremturo-vanilias-90g-10000149817?cat=104020"
-  },
-  {
-    "azon": "CBA",
-    "forras": "",
     "termeknev": "Pöttyös óriás túró rudi étbevonattal 51g",
     "termekar": "139,- Ft/db",
     "termekcur": "",
@@ -8226,6 +8213,19 @@
     "disc": "-26%",
     "erv": "",
     "termeklink": "https://online.prima.hu/s/pottyos-orias-turo-rudi-etbevonattal-51g-10000080617?cat=104040"
+  },
+  {
+    "azon": "CBA",
+    "forras": "",
+    "termeknev": "Milli krémtúró vaníliás 90g",
+    "termekar": "139,- Ft/db",
+    "termekcur": "",
+    "termekmenny": "",
+    "tarfajl": " 1544,44 Ft/kg",
+    "tarfajlmert": "",
+    "disc": "-26%",
+    "erv": "",
+    "termeklink": "https://online.prima.hu/s/milli-kremturo-vanilias-90g-10000149817?cat=104020"
   },
   {
     "azon": "CBA",
@@ -8308,19 +8308,6 @@
   {
     "azon": "CBA",
     "forras": "",
-    "termeknev": "Pöttyös óriás túró rudi szilvás 51g",
-    "termekar": "139,- Ft/db",
-    "termekcur": "",
-    "termekmenny": "",
-    "tarfajl": " 2725,49 Ft/kg",
-    "tarfajlmert": "",
-    "disc": "-26%",
-    "erv": "",
-    "termeklink": "https://online.prima.hu/s/pottyos-orias-turo-rudi-szilvas-51g-10000156788?cat=104040"
-  },
-  {
-    "azon": "CBA",
-    "forras": "",
     "termeknev": "Milli krémtúró lágy kekszdarabokkal 90g",
     "termekar": "139,- Ft/db",
     "termekcur": "",
@@ -8330,6 +8317,19 @@
     "disc": "-26%",
     "erv": "",
     "termeklink": "https://online.prima.hu/s/milli-kremturo-lagy-kekszdarabokkal-90g-10000149819?cat=104020"
+  },
+  {
+    "azon": "CBA",
+    "forras": "",
+    "termeknev": "Pöttyös óriás túró rudi szilvás 51g",
+    "termekar": "139,- Ft/db",
+    "termekcur": "",
+    "termekmenny": "",
+    "tarfajl": " 2725,49 Ft/kg",
+    "tarfajlmert": "",
+    "disc": "-26%",
+    "erv": "",
+    "termeklink": "https://online.prima.hu/s/pottyos-orias-turo-rudi-szilvas-51g-10000156788?cat=104040"
   },
   {
     "azon": "CBA",
@@ -8516,19 +8516,6 @@
   {
     "azon": "CBA",
     "forras": "",
-    "termeknev": "Persil Pow.Gel mosószer fehér és világos ruhához 20 mosás 1l",
-    "termekar": "1199,- Ft/db",
-    "termekcur": "",
-    "termekmenny": "",
-    "tarfajl": " 1199,00 Ft/l",
-    "tarfajlmert": "",
-    "disc": "",
-    "erv": "",
-    "termeklink": "https://online.prima.hu/s/persil-pow-gel-mososzer-feher-es-vilagos-ruhahoz-20-mosas-1l-10000175053?cat=701020"
-  },
-  {
-    "azon": "CBA",
-    "forras": "",
     "termeknev": "Persil mosópor regular 18 mosás 1.17kg",
     "termekar": "1199,- Ft/db",
     "termekcur": "",
@@ -8538,6 +8525,19 @@
     "disc": "-25%",
     "erv": "",
     "termeklink": "https://online.prima.hu/s/persil-mosopor-regular-18-mosas-1-17kg-10000186569?cat=701010"
+  },
+  {
+    "azon": "CBA",
+    "forras": "",
+    "termeknev": "Persil Pow.Gel mosószer fehér és világos ruhához 20 mosás 1l",
+    "termekar": "1199,- Ft/db",
+    "termekcur": "",
+    "termekmenny": "",
+    "tarfajl": " 1199,00 Ft/l",
+    "tarfajlmert": "",
+    "disc": "",
+    "erv": "",
+    "termeklink": "https://online.prima.hu/s/persil-pow-gel-mososzer-feher-es-vilagos-ruhahoz-20-mosas-1l-10000175053?cat=701020"
   },
   {
     "azon": "CBA",
@@ -8919,19 +8919,6 @@
   {
     "azon": "CBA",
     "forras": "",
-    "termeknev": "Törley Orfeum rosé sec száraz rosé minőségi pezsgő 12% 0.75l",
-    "termekar": "1599,- Ft/db",
-    "termekcur": "",
-    "termekmenny": "",
-    "tarfajl": " 2132,00 Ft/l",
-    "tarfajlmert": "",
-    "disc": "-23%",
-    "erv": "",
-    "termeklink": "https://online.prima.hu/s/torley-orfeum-rose-sec-szaraz-rose-minosegi-pezsgo-12-0-75l-10000067610?cat=55907010"
-  },
-  {
-    "azon": "CBA",
-    "forras": "",
     "termeknev": "Törley Tokaji doux édes pezsgő 12% 0.75l",
     "termekar": "1599,- Ft/db",
     "termekcur": "",
@@ -8941,6 +8928,19 @@
     "disc": "-23%",
     "erv": "",
     "termeklink": "https://online.prima.hu/s/torley-tokaji-doux-edes-pezsgo-12-0-75l-10000008168?cat=55907010"
+  },
+  {
+    "azon": "CBA",
+    "forras": "",
+    "termeknev": "Törley Orfeum rosé sec száraz rosé minőségi pezsgő 12% 0.75l",
+    "termekar": "1599,- Ft/db",
+    "termekcur": "",
+    "termekmenny": "",
+    "tarfajl": " 2132,00 Ft/l",
+    "tarfajlmert": "",
+    "disc": "-23%",
+    "erv": "",
+    "termeklink": "https://online.prima.hu/s/torley-orfeum-rose-sec-szaraz-rose-minosegi-pezsgo-12-0-75l-10000067610?cat=55907010"
   },
   {
     "azon": "CBA",
@@ -9231,19 +9231,6 @@
   {
     "azon": "CBA",
     "forras": "",
-    "termeknev": "Törley alkoholmentes édes habzó ital 0.2l",
-    "termekar": "389,- Ft/db",
-    "termekcur": "",
-    "termekmenny": "",
-    "tarfajl": " 1945,00 Ft/l",
-    "tarfajlmert": "",
-    "disc": "",
-    "erv": "",
-    "termeklink": "https://online.prima.hu/s/torley-alkoholmentes-edes-habzo-ital-0-2l-10000182446?cat=55907030"
-  },
-  {
-    "azon": "CBA",
-    "forras": "",
     "termeknev": "Törley Charmant édes rosé pezsgő 0.2l",
     "termekar": "389,- Ft/db",
     "termekcur": "",
@@ -9253,6 +9240,19 @@
     "disc": "",
     "erv": "",
     "termeklink": "https://online.prima.hu/s/torley-charmant-edes-rose-pezsgo-0-2l-10000008161?cat=55907010"
+  },
+  {
+    "azon": "CBA",
+    "forras": "",
+    "termeknev": "Törley alkoholmentes édes habzó ital 0.2l",
+    "termekar": "389,- Ft/db",
+    "termekcur": "",
+    "termekmenny": "",
+    "tarfajl": " 1945,00 Ft/l",
+    "tarfajlmert": "",
+    "disc": "",
+    "erv": "",
+    "termeklink": "https://online.prima.hu/s/torley-alkoholmentes-edes-habzo-ital-0-2l-10000182446?cat=55907030"
   },
   {
     "azon": "CBA",
@@ -9660,19 +9660,6 @@
   {
     "azon": "SPAR",
     "forras": "",
-    "termeknev": "SPAR füstölt, főtt erdélyi szalonna",
-    "termekar": "1 690",
-    "termekcur": "Ft",
-    "termekmenny": "",
-    "tarfajl": "(1 690,00 Ft/kg)",
-    "tarfajlmert": "",
-    "disc": "",
-    "erv": "",
-    "termeklink": "https://www.spar.hu/onlineshop/spar-fustolt-fott-erdelyi-szalonna/p/253922005"
-  },
-  {
-    "azon": "SPAR",
-    "forras": "",
     "termeknev": "ALMA GRANNY SMITH KG",
     "termekar": "479",
     "termekcur": "Ft",
@@ -9682,6 +9669,19 @@
     "disc": "",
     "erv": "",
     "termeklink": "https://www.spar.hu/onlineshop/alma-granny-smith-kg/p/254970005"
+  },
+  {
+    "azon": "SPAR",
+    "forras": "",
+    "termeknev": "SPAR füstölt, főtt erdélyi szalonna",
+    "termekar": "1 690",
+    "termekcur": "Ft",
+    "termekmenny": "",
+    "tarfajl": "(1 690,00 Ft/kg)",
+    "tarfajlmert": "",
+    "disc": "",
+    "erv": "",
+    "termeklink": "https://www.spar.hu/onlineshop/spar-fustolt-fott-erdelyi-szalonna/p/253922005"
   },
   {
     "azon": "SPAR",
@@ -10115,6 +10115,19 @@
   {
     "azon": "SPAR",
     "forras": "",
+    "termeknev": "Új Burgonya piros",
+    "termekar": "649",
+    "termekcur": "Ft",
+    "termekmenny": "",
+    "tarfajl": "(649,00 Ft/kg)",
+    "tarfajlmert": "",
+    "disc": "",
+    "erv": "",
+    "termeklink": "https://www.spar.hu/onlineshop/uj-burgonya-piros/p/258489008"
+  },
+  {
+    "azon": "SPAR",
+    "forras": "",
     "termeknev": "SPAR Enjoy korhely saláta édesítőszerrel 1000 g",
     "termekar": "1 390",
     "termekcur": "Ft",
@@ -10137,19 +10150,6 @@
     "disc": "",
     "erv": "",
     "termeklink": "https://www.spar.hu/onlineshop/s-budget-sonka/p/352195003"
-  },
-  {
-    "azon": "SPAR",
-    "forras": "",
-    "termeknev": "Új Burgonya piros",
-    "termekar": "649",
-    "termekcur": "Ft",
-    "termekmenny": "",
-    "tarfajl": "(649,00 Ft/kg)",
-    "tarfajlmert": "",
-    "disc": "",
-    "erv": "",
-    "termeklink": "https://www.spar.hu/onlineshop/uj-burgonya-piros/p/258489008"
   },
   {
     "azon": "SPAR",
@@ -10778,19 +10778,6 @@
   {
     "azon": "SPAR",
     "forras": "",
-    "termeknev": "FUZETEA Passionfruit energiamentes, szénsavmentes maracujaízű üdítőital zöld tea k...",
-    "termekar": "269",
-    "termekcur": "Ft",
-    "termekmenny": "",
-    "tarfajl": "(179,33 Ft/l)",
-    "tarfajlmert": "",
-    "disc": "",
-    "erv": "",
-    "termeklink": "https://www.spar.hu/onlineshop/fuzetea-passionfruit-energiamentes-szensavmentes-maracujaizu-uditoital-zold-tea-kivonattal-15-l/p/478916001"
-  },
-  {
-    "azon": "SPAR",
-    "forras": "",
     "termeknev": "Soproni Radler lime-mentás alkoholmentes sörital 0,5 l doboz",
     "termekar": "229",
     "termekcur": "Ft",
@@ -10800,6 +10787,19 @@
     "disc": "",
     "erv": "",
     "termeklink": "https://www.spar.hu/onlineshop/soproni-radler-lime-mentas-alkoholmentes-sorital-05-l-doboz/p/393414002"
+  },
+  {
+    "azon": "SPAR",
+    "forras": "",
+    "termeknev": "FUZETEA Passionfruit energiamentes, szénsavmentes maracujaízű üdítőital zöld tea k...",
+    "termekar": "269",
+    "termekcur": "Ft",
+    "termekmenny": "",
+    "tarfajl": "(179,33 Ft/l)",
+    "tarfajlmert": "",
+    "disc": "",
+    "erv": "",
+    "termeklink": "https://www.spar.hu/onlineshop/fuzetea-passionfruit-energiamentes-szensavmentes-maracujaizu-uditoital-zold-tea-kivonattal-15-l/p/478916001"
   },
   {
     "azon": "SPAR",
@@ -11194,19 +11194,6 @@
   {
     "azon": "SPAR",
     "forras": "",
-    "termeknev": "Peroni minőségi világos sör 5,1% 0,33 l",
-    "termekar": "289",
-    "termekcur": "Ft",
-    "termekmenny": "",
-    "tarfajl": "(875,76 Ft/l)",
-    "tarfajlmert": "",
-    "disc": "",
-    "erv": "",
-    "termeklink": "https://www.spar.hu/onlineshop/peroni-minosegi-vilagos-sor-51-033-l/p/327512002"
-  },
-  {
-    "azon": "SPAR",
-    "forras": "",
     "termeknev": "Sió szűrt szőlő ital 1 l",
     "termekar": "389",
     "termekcur": "Ft",
@@ -11216,6 +11203,19 @@
     "disc": "",
     "erv": "",
     "termeklink": "https://www.spar.hu/onlineshop/sio-szurt-szolo-ital-1-l/p/355921005"
+  },
+  {
+    "azon": "SPAR",
+    "forras": "",
+    "termeknev": "Peroni minőségi világos sör 5,1% 0,33 l",
+    "termekar": "289",
+    "termekcur": "Ft",
+    "termekmenny": "",
+    "tarfajl": "(875,76 Ft/l)",
+    "tarfajlmert": "",
+    "disc": "",
+    "erv": "",
+    "termeklink": "https://www.spar.hu/onlineshop/peroni-minosegi-vilagos-sor-51-033-l/p/327512002"
   },
   {
     "azon": "SPAR",
@@ -11363,19 +11363,6 @@
   {
     "azon": "SPAR",
     "forras": "",
-    "termeknev": "Cappy 100% almalé 1 l",
-    "termekar": "399",
-    "termekcur": "Ft",
-    "termekmenny": "",
-    "tarfajl": "(399,00 Ft/l)",
-    "tarfajlmert": "",
-    "disc": "",
-    "erv": "",
-    "termeklink": "https://www.spar.hu/onlineshop/cappy-100-almale-1-l/p/328013003"
-  },
-  {
-    "azon": "SPAR",
-    "forras": "",
     "termeknev": "Kubu 100% alma-banán püré C-vitaminnal 100 g",
     "termekar": "159",
     "termekcur": "Ft",
@@ -11385,6 +11372,19 @@
     "disc": "",
     "erv": "",
     "termeklink": "https://www.spar.hu/onlineshop/kubu-100-alma-banan-pure-c-vitaminnal-100-g/p/415705002"
+  },
+  {
+    "azon": "SPAR",
+    "forras": "",
+    "termeknev": "Cappy 100% almalé 1 l",
+    "termekar": "399",
+    "termekcur": "Ft",
+    "termekmenny": "",
+    "tarfajl": "(399,00 Ft/l)",
+    "tarfajlmert": "",
+    "disc": "",
+    "erv": "",
+    "termeklink": "https://www.spar.hu/onlineshop/cappy-100-almale-1-l/p/328013003"
   },
   {
     "azon": "SPAR",
@@ -11493,32 +11493,6 @@
   {
     "azon": "SPAR",
     "forras": "",
-    "termeknev": "Kubu alma-banán-eper-sárgarépa püré 100 g",
-    "termekar": "159",
-    "termekcur": "Ft",
-    "termekmenny": "",
-    "tarfajl": "(1 590,00 Ft/kg)",
-    "tarfajlmert": "",
-    "disc": "",
-    "erv": "",
-    "termeklink": "https://www.spar.hu/onlineshop/kubu-alma-banan-eper-sargarepa-pure-100-g/p/415708003"
-  },
-  {
-    "azon": "SPAR",
-    "forras": "",
-    "termeknev": "Baba folyékony szappan utántöltő antibakteriális hatású teafaolajjal 500 ml",
-    "termekar": "631",
-    "termekcur": "Ft",
-    "termekmenny": "",
-    "tarfajl": "(1 262,00 Ft/l)",
-    "tarfajlmert": "",
-    "disc": "",
-    "erv": "",
-    "termeklink": "https://www.spar.hu/onlineshop/baba-folyekony-szappan-utantolto-antibakterialis-hatasu-teafaolajjal-500-ml/p/484690001"
-  },
-  {
-    "azon": "SPAR",
-    "forras": "",
     "termeknev": "ALPRO cukormentes, pörköletlen mandulaital 1 l",
     "termekar": "629",
     "termekcur": "Ft",
@@ -11532,15 +11506,15 @@
   {
     "azon": "SPAR",
     "forras": "",
-    "termeknev": "Soproni Óvatos Duhaj APA szűretlen felsőerjesztésű sörkülönlegesség 5,5% 0,5 l d...",
-    "termekar": "299",
+    "termeknev": "Kubu alma-banán-eper-sárgarépa püré 100 g",
+    "termekar": "159",
     "termekcur": "Ft",
     "termekmenny": "",
-    "tarfajl": "(598,00 Ft/l)",
+    "tarfajl": "(1 590,00 Ft/kg)",
     "tarfajlmert": "",
     "disc": "",
     "erv": "",
-    "termeklink": "https://www.spar.hu/onlineshop/soproni-ovatos-duhaj-apa-szuretlen-felsoerjesztesu-sorkulonlegesseg-55-05-l-doboz/p/482993005"
+    "termeklink": "https://www.spar.hu/onlineshop/kubu-alma-banan-eper-sargarepa-pure-100-g/p/415708003"
   },
   {
     "azon": "SPAR",
@@ -11558,6 +11532,32 @@
   {
     "azon": "SPAR",
     "forras": "",
+    "termeknev": "Baba folyékony szappan utántöltő antibakteriális hatású teafaolajjal 500 ml",
+    "termekar": "631",
+    "termekcur": "Ft",
+    "termekmenny": "",
+    "tarfajl": "(1 262,00 Ft/l)",
+    "tarfajlmert": "",
+    "disc": "",
+    "erv": "",
+    "termeklink": "https://www.spar.hu/onlineshop/baba-folyekony-szappan-utantolto-antibakterialis-hatasu-teafaolajjal-500-ml/p/484690001"
+  },
+  {
+    "azon": "SPAR",
+    "forras": "",
+    "termeknev": "Soproni Óvatos Duhaj APA szűretlen felsőerjesztésű sörkülönlegesség 5,5% 0,5 l d...",
+    "termekar": "299",
+    "termekcur": "Ft",
+    "termekmenny": "",
+    "tarfajl": "(598,00 Ft/l)",
+    "tarfajlmert": "",
+    "disc": "",
+    "erv": "",
+    "termeklink": "https://www.spar.hu/onlineshop/soproni-ovatos-duhaj-apa-szuretlen-felsoerjesztesu-sorkulonlegesseg-55-05-l-doboz/p/482993005"
+  },
+  {
+    "azon": "SPAR",
+    "forras": "",
     "termeknev": "Kőbányai világos sör 4,3% 2 l",
     "termekar": "699",
     "termekcur": "Ft",
@@ -11567,6 +11567,19 @@
     "disc": "",
     "erv": "",
     "termeklink": "https://www.spar.hu/onlineshop/kobanyai-vilagos-sor-43-2-l/p/383755009"
+  },
+  {
+    "azon": "SPAR",
+    "forras": "",
+    "termeknev": "Apostel Weissbier szűretlen világos búzasör 5,3% 0,5 l",
+    "termekar": "229",
+    "termekcur": "Ft",
+    "termekmenny": "",
+    "tarfajl": "(458,00 Ft/l)",
+    "tarfajlmert": "",
+    "disc": "",
+    "erv": "",
+    "termeklink": "https://www.spar.hu/onlineshop/apostel-weissbier-szuretlen-vilagos-buzasor-53-05-l/p/486115007"
   },
   {
     "azon": "SPAR",
@@ -11593,19 +11606,6 @@
     "disc": "",
     "erv": "",
     "termeklink": "https://www.spar.hu/onlineshop/szarvasi-ricotta-savosajt-250-g/p/369360005"
-  },
-  {
-    "azon": "SPAR",
-    "forras": "",
-    "termeknev": "Apostel Weissbier szűretlen világos búzasör 5,3% 0,5 l",
-    "termekar": "229",
-    "termekcur": "Ft",
-    "termekmenny": "",
-    "tarfajl": "(458,00 Ft/l)",
-    "tarfajlmert": "",
-    "disc": "",
-    "erv": "",
-    "termeklink": "https://www.spar.hu/onlineshop/apostel-weissbier-szuretlen-vilagos-buzasor-53-05-l/p/486115007"
   },
   {
     "azon": "SPAR",
