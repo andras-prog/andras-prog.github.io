@@ -1,5 +1,203 @@
 [
     {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/mennyei-maglyarakas.recept",
+        "h1": "MÁGLYARAKÁS",
+        "txtlength": 11447
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/gombas-sertestarja-kapros-kelbimboval.recept",
+        "h1": "GOMBÁS SERTÉSTARJA KAPROS KELBIMBÓVAL",
+        "txtlength": 11404
+    },
+    {
+        "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/turogomboc-3",
+        "h1": "Túrógombóc 3.",
+        "txtlength": 10607
+    },
+    {
+        "hostname": "receptneked.hu",
+        "pagelink": "https://receptneked.hu/gyors/sajtos-tejfolos-galuska-zoldhagymaval/",
+        "h1": "Sajtos tejfölös galuska zöldhagymával recept",
+        "txtlength": 4683
+    },
+    {
+        "hostname": "receptneked.hu",
+        "pagelink": "https://receptneked.hu/gyors/meggyes-turos-villamsuti/",
+        "h1": "Meggyes-túrós villámsüti recept",
+        "txtlength": 4667
+    },
+    {
+        "hostname": "kulturpart.hu",
+        "pagelink": "https://kulturpart.blog.hu/2021/05/30/gyerekverset_gyereknapra",
+        "h1": "GYEREKVERSET GYEREKNAPRA!",
+        "txtlength": 5149
+    },
+    {
+        "hostname": "alapblog.hu",
+        "pagelink": "https://alapblog.hu/13-pont-amit-minden-befektetonek-erdemes-az-eszebe-vesni/",
+        "h1": "13 PONT, AMIT MINDEN BEFEKTETŐNEK ÉRDEMES AZ ESZÉBE VÉSNI!",
+        "txtlength": 4134
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210530_fankadeli",
+        "h1": "A kultúrháborút meg kell vívni – FankaDeli a Mandinernek",
+        "txtlength": 39408
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/kozelet/20210531/hiaba-teper-a-kormany-messze-vagyunk-a-magyar-elelmiszerek-20-evvel-ezelotti-aranyatol/",
+        "h1": "Hiába teper a kormány, messze vagyunk a magyar élelmiszerek 20 évvel ezelőtti arányától",
+        "txtlength": 21492
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210526_mi_csak_vedjuk_a_szuverenitasunkat",
+        "h1": "Mi csak védjük a szuverenitásunkat – cseh külügyminiszter a Mandinernek",
+        "txtlength": 19761
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/bank/20210531/600-millios-atlagvagyon-egy-magyar-szolgaltatonal-mibe-fektetnek-a-leggazdagabb-magyarok-485206",
+        "h1": "600 milliós átlagvagyon egy magyar szolgáltatónál – Mibe fektetnek a leggazdagabb magyarok?",
+        "txtlength": 19698
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210530_rendezok_es_producerek_is_fenyegettek_a_gyurcsany_film_szineszeit",
+        "h1": "Kálomista: „Rendezők és producerek is fenyegették a Gyurcsány-film színészeit”",
+        "txtlength": 18477
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/oktatas/20210528/ok-lesznek-az-uj-vilag-igazi-nyertesei-ez-a-tudas-aranyat-er-a-jarvany-utan-1114933",
+        "h1": "Ők lesznek az új világ igazi nyertesei: ez a tudás aranyat ér a járvány után",
+        "txtlength": 17376
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20210530/megerkezett-a-vendegek-haragja-lemondasok-benitjak-a-nyaralasokat-de-tobben-indulnak-utnak-a-vedettsegivel-485374",
+        "h1": "Megérkezett a vendégek haragja: lemondások bénítják a nyaralásokat, de többen indulnak útnak a védettségivel",
+        "txtlength": 16680
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/egeszseg/20210528/vakcinas-1114978",
+        "h1": "Ezek a Covidot kísérő újabb kór leggyakoribb tünetei: az oltás sem ad teljes védettséget",
+        "txtlength": 16650
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20210531/tortenelmi-szamok-romma-kereste-magat-a-gyenge-forinton-az-mnb-485368",
+        "h1": "Történelmi számok: rommá kereste magát a gyenge forinton az MNB",
+        "txtlength": 16245
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vilag/20210529/nincs-kariko-katalinjuk-megis-a-pfizer-tipusu-vakcinara-epitenek-sajat-gyarat-nem-a-kinaira/",
+        "h1": "Nincs Karikó Katalinjuk, mégis a Pfizer-típusú vakcinára építenek saját gyárat, nem a kínaira",
+        "txtlength": 14575
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/gyerek/tokofobia-felelem-a-szulestol/",
+        "h1": "\"Már akkor féltem a szüléstől, amikor még nem is menstruáltam\": a tokofóbia egy várandós nő szemével",
+        "txtlength": 12811
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/lajfhekk/soveny-kisokos/",
+        "h1": "Így lehet szép dús sövényed a kertész szerint: fajták, ültetés és locsolás",
+        "txtlength": 10830
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2021/05/28/a-kokainfogyasztas-sejtszintu-hatast-gyakorol-szinte-az-egesz-agyra-az-ecsetmuslicakban",
+        "h1": "A KOKAINFOGYASZTÁS SEJTSZINTŰ HATÁST GYAKOROL SZINTE AZ EGÉSZ AGYRA AZ ECETMUSLICÁKBAN",
+        "txtlength": 8981
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/koronavirus/2021/05/31/kozossegi-immunitas-nyajimmunitas-oltasi-kedv-hajlandosag-regisztracio-osztonzes-vakcinak-oltasi-terv-variansok",
+        "h1": "Mi lesz, ha nem akarja elég ember beoltatni magát?",
+        "txtlength": 30948
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/05/31/a-jobbik-kalman-olga-koalicio",
+        "h1": "A Jobbik-Kálmán Olga koalíció",
+        "txtlength": 17605
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/05/31/jot-akart-az-eu-az-agrartamogatasok-atalakitasaval-megis-mindenki-utalta-a-javaslatot",
+        "h1": "Jót akart az EU az agrártámogatások átalakításával, mégis mindenki utálta a javaslatot",
+        "txtlength": 17590
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/szorakozas/2021/05/30/kim-kardashian-kelly-clarkson-kelly-rowland-nelly-pussycat-dolls-britney-spears-videoklip-ketezres-evek/",
+        "h1": "Kim Kardashian a majmok között, sms egy Excel-táblában meg a Titanic gyémántja – ezeket a pillanatokat nem értjük a kétezres évek klipjeiben",
+        "txtlength": 16522
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2021/05/31/motivacio-muhely-tanoda-szeged-online-oktatas-tavoktatas/",
+        "h1": "„Senki sem akart visszamenni a suliba rajtam kívül”",
+        "txtlength": 15124
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/tudomany/2021/05/31/pfizer-vakcina-koronavirus-europai-beszerzes/",
+        "h1": "Érthetetlen, hogy Magyarország miért mond le a Pfizer vakcinájáról",
+        "txtlength": 14511
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/tech/2021/05/30/asus-ipon-videokartya-hiany-szamitogep",
+        "h1": "Felcsillant a remény, hogy eljön a videokártya-pokol vége",
+        "txtlength": 11061
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/tech/2021/05/30/mars-nasa-curiosity-marsjaro-kerek",
+        "h1": "Kezd szétesni a Curiosity marsjáró kereke, és itt nem lesz kerékcsere",
+        "txtlength": 10831
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/politika/nagy-istvan-agrarminiszterium-rovarfeherje-engedelyezett/8mcbqy2?sl_ps=d_6",
+        "h1": "„A magyar emberek egész egyszerűen nem akarnak rovarokat enni” – Exkluzív interjú Nagy István agrárminiszterrel",
+        "txtlength": 9049
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/dohanyzasmentes-vilagnap-karos-hatas-tudorak/1c2v8d7",
+        "h1": "A férfiaknál csökkent, a nőknél nőtt a dohányosok száma a szakértők szerint: egyre több közöttük a tüdőrákos is",
+        "txtlength": 8926
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/tudomany/20210531_sejtes_immunitas_koronavirus_teszt",
+        "h1": "Ez a magyar fejlesztésű teszt megmondja, kialakult-e a koronavírus elleni sejtes immunitás",
+        "txtlength": 8312
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/tudomany/20210531_usb_c_2_1_szabvany_240_watt_toltes",
+        "h1": "Jön az újfajta USB, ez már 240 W-os töltésre is képes",
+        "txtlength": 7385
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/tudomany/20210529_kina_partmenti_tengerszint_emelkedes",
+        "h1": "Kínában már készülődnek, mivel a partok mentén évente 3,4 millimétert emelkedik a tengerszint",
+        "txtlength": 6854
+    },
+    {
         "hostname": "nosalty.hu",
         "pagelink": "https://www.nosalty.hu/recept/klasszikus-toltott-kaposzta",
         "h1": "Klasszikus töltött káposzta",
