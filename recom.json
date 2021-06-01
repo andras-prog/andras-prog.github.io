@@ -1,5 +1,203 @@
 [
     {
+        "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/konnyu-puha-turogomboc",
+        "h1": "Könnyű és puha túrógombóc",
+        "txtlength": 11225
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/ostoros-kalacs-ricottas-toltelekkel-szabi-a-pek-receptje.recept",
+        "h1": "OSTOROS KALÁCS RICOTTÁS TÖLTELÉKKEL, AHOGY SZABI A PÉK KÉSZÍTI",
+        "txtlength": 10908
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/brassoi-belszinbol-es-zoldborsoval-berki-modra.recept",
+        "h1": "ZÖLDBORSÓS BRASSÓI BÉLSZÍNBŐL BERKI-MÓDRA",
+        "txtlength": 10839
+    },
+    {
+        "hostname": "receptneked.hu",
+        "pagelink": "https://receptneked.hu/gyors/fokhagymas-krumpli/",
+        "h1": "Fokhagymás krumpli recept",
+        "txtlength": 4629
+    },
+    {
+        "hostname": "receptneked.hu",
+        "pagelink": "https://receptneked.hu/gyors/turos-lepenyke/",
+        "h1": "Túrós lepényke recept",
+        "txtlength": 4535
+    },
+    {
+        "hostname": "hataratkelo.blog.hu",
+        "pagelink": "https://hataratkelo.blog.hu/2021/05/31/orban_londoni_uzenete_a_hataratkelo_magyaroknak",
+        "h1": "Orbán londoni üzenete a határátkelő magyaroknak",
+        "txtlength": 33717
+    },
+    {
+        "hostname": "kulturpart.hu",
+        "pagelink": "https://kulturpart.blog.hu/2021/05/21/szuper_teboly_hallucinacio_es_revu_a_romokon",
+        "h1": "SZUPER TÉBOLY HALLUCINÁCIÓ ÉS REVÜ A ROMOKON",
+        "txtlength": 4897
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210531_kommentar_ajanlo_kesz",
+        "h1": "Dróndemokrácia és szabálytalan háború: itt az új Kommentár",
+        "txtlength": 20613
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210529_a_szivarvanykoalicio_sotet_fellegei_ujbudan",
+        "h1": "Szivárványkoalíciós csörték, koalíciós törésvonalak Újbudán",
+        "txtlength": 19401
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vilag/20210601/hiaba-hatalmas-a-kereslet-a-termekeikre-a-kinai-gyarak-nem-akarnak-termelni/",
+        "h1": "Hiába hatalmas a kereslet a termékeikre, a kínai gyárak nem akarnak termelni",
+        "txtlength": 18380
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/bank/20210601/digitalizacio-a-bankszektorban-ahogy-a-4ig-latja-485512",
+        "h1": "Digitalizáció a bankszektorban – ahogy a 4iG látja",
+        "txtlength": 18082
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/gazdasag/20210601/a-chiphiany-meg-honapokig-borzolhatja-a-kedelyeket-az-autogyartasban-1114883",
+        "h1": "A chiphiány még hónapokig borzolhatja a kedélyeket az autógyártásban",
+        "txtlength": 17320
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vilag/20210329/ki-volt-petr-kellner-a-leggazdagabb-kozep-kelet-europai/",
+        "h1": "Ki volt Petr Kellner, a leggazdagabb közép-kelet-európai?",
+        "txtlength": 17063
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.penzcentrum.hu/gazdasag/20210601/a-chiphiany-meg-honapokig-borzolhatja-a-kedelyeket-az-autogyartasban-1114883",
+        "h1": "A chiphiány még hónapokig borzolhatja a kedélyeket az autógyártásban",
+        "txtlength": 17029
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/uzlet/20210601/ralizik-a-magyar-tozsde-tortenelmi-csucson-az-otp-es-a-bux-485810",
+        "h1": "Ralizik a magyar tőzsde, történelmi csúcson az OTP és a BUX ",
+        "txtlength": 15304
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210531_elte_s_oktato_es_kockazati_tokebefektetok_a_gyurcsany_kozeli_portalnal",
+        "h1": "ELTE-s oktató és „kockázati tőkebefektetők” a Gyurcsány-közeli portálnál",
+        "txtlength": 14995
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/otthon/20210529/robban-a-birsagbomba-mar-csak-par-hete-maradt-annak-akinek-kertes-haza-telke-van-1115000",
+        "h1": "Robban a bírságbomba: már csak pár hete maradt annak, akinek kertes háza, telke van",
+        "txtlength": 14130
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2021/06/01/evekre-de-akar-egy-eletre-is-kialakulhat-a-vedettseg-a-koronavirussal-szemben",
+        "h1": "ÉVEKRE, DE AKÁR EGY ÉLETRE IS KIALAKULHAT A VÉDETTSÉG A KORONAVÍRUSSAL SZEMBEN",
+        "txtlength": 12643
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/otthon/ilyen-volt-kulcsos-panelgyereknek-lenni/",
+        "h1": "Ilyen volt kulcsos panelgyereknek lenni: azt jelentette, egy közösség része vagy, és figyelnek rád",
+        "txtlength": 11883
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/lajfhekk/mosogep-teszt-2021/",
+        "h1": "Teszt: milyen mosógépet vegyek, ami tényleg megéri az árát?",
+        "txtlength": 8733
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20210531_orban_viktor_parlament_azonnali_kerdesek",
+        "h1": "Jakab lekommunistázta Orbánt, aki erre bohócnak nevezte",
+        "txtlength": 18887
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/06/01/ki-tud-nagyobb-buntetest-kapni-kover-laszlotol",
+        "h1": "Ki tud nagyobb büntetést kapni Kövér Lászlótól?",
+        "txtlength": 18312
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/gazdasag/2021/06/01/somlai-balint-a-31-eves-vallalkozo-aki-54-milliardert-epitheti-ujja-az-mnb-szekhazat",
+        "h1": "Somlai Bálint, a 31 éves vállalkozó, aki 54 milliárdért építheti újjá az MNB székházát",
+        "txtlength": 16799
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/elet/20210601_Ez_mar_nem_a_jovo_hanem_a_husbavago_jelen_nincs_aki_tanitsa_a_gyerekeinket",
+        "h1": "Ez már nem a jövő, hanem a húsbavágó jelen: nincs, aki tanítsa a gyerekeinket",
+        "txtlength": 16635
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/sport/2021/05/31/gyori-eto-szezonertekeles-kezilabda/",
+        "h1": "Álomszerűen indult, keserédes lett a győri kézisek szezonja",
+        "txtlength": 12112
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kozelet/2021/06/01/balatonboglar-meszaros-miklos-legli-geza-legli-otto-magyar-turisztikai-ugynokseg-egyedi-tamogatas/",
+        "h1": "Élményösvény, látogatóközpont, borteraszok – állami pénzből építik ki a Légli-birodalmat",
+        "txtlength": 11807
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/brandcontent/20210528_Merre_tart_az_ipar_a_koronavirus_utani_idoszamitasban_Bosch_Rexroth",
+        "h1": "Merre tart az ipar a koronavírus utáni időszámításban?",
+        "txtlength": 11612
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/szorakozas/2021/05/31/az-uj-mortal-kombat-film-egy-oriasi-kihagyott-ziccer",
+        "h1": "Az új Mortal Kombat-film egy óriási kihagyott ziccer",
+        "txtlength": 11494
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/belfold/2021/05/31/nyelvvizsga-amnesztia-nyelvtudas-nyelvoktatas",
+        "h1": "A nyelvtanárok idő előtt elveszik a gyerekek kedvét már attól is, hogy belekezdjenek a mondatba",
+        "txtlength": 10293
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/meszaros-lorinc-ceg-nyaraltatas-csaladok/l89hptd?sl_ps=d_3",
+        "h1": "Mészáros Lőrinc nyaralni viszi a családot",
+        "txtlength": 10103
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/06/01/peking-elesen-elitelte-az-ausztral-es-az-uj-zelandi-miniszterelnok-kozos-nyilatkozatat",
+        "h1": "Peking élesen elítélte az ausztrál és az új-zélandi miniszterelnök közös nyilatkozatát",
+        "txtlength": 9923
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/sport/2021/05/31/az-a-legjobb-a-tornanak-ha-visszalepek-oszaka-otthagyja-a-roland-garrost/",
+        "h1": "„Az a legjobb a tornának, ha visszalépek” – Oszaka otthagyja a Roland Garrost",
+        "txtlength": 9513
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/sztarvilag/kultura/bardy-gyorgy-halal-evfordulo/p4hxpdp?utm_source=related&utm_medium=www.blikk.hu&utm_campaign=widget-9446979",
+        "h1": "Titok a múltból: Jumurdzsák, a második világháború vadászpilótája – Bárdy György tragédiája",
+        "txtlength": 8502
+    },
+    {
         "hostname": "mindmegette.hu",
         "pagelink": "https://www.mindmegette.hu/mennyei-maglyarakas.recept",
         "h1": "MÁGLYARAKÁS",
