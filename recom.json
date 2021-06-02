@@ -1,6 +1,186 @@
 [
     {
         "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/rizskoch-citromhejjal",
+        "h1": "Rizskoch citromhéjjal",
+        "txtlength": 10849
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/rakott-serteskaraj-parolt-ujkaposztas-burgonyakorettel.recept",
+        "h1": "RAKOTT SERTÉSKARAJ PÁROLT ÚJKÁPOSZTÁS BURGONYAKÖRETTEL",
+        "txtlength": 10603
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/epres-raffaello.recept",
+        "h1": "EPRES RAFFAELLO",
+        "txtlength": 10361
+    },
+    {
+        "hostname": "receptneked.hu",
+        "pagelink": "https://receptneked.hu/gyors/parizsiszoszba-forgatot-cukkini-tartarmartassal/",
+        "h1": "Párizsiszószba forgatott cukkini tartármártással recept",
+        "txtlength": 4632
+    },
+    {
+        "hostname": "receptneked.hu",
+        "pagelink": "https://receptneked.hu/gyors/petrezselymes-tocsni/",
+        "h1": "Petrezselymes tócsni recept",
+        "txtlength": 4613
+    },
+    {
+        "hostname": "hataratkelo.blog.hu",
+        "pagelink": "https://hataratkelo.blog.hu/2021/05/30/mi_lesz_a_tavmunka_jovoje",
+        "h1": "Mi lesz a távmunka jövője?",
+        "txtlength": 35054
+    },
+    {
+        "hostname": "kulturpart.hu",
+        "pagelink": "https://kulturpart.blog.hu/2021/05/26/varazslatos_matrixok",
+        "h1": "VARÁZSLATOS MÁTRIXOK",
+        "txtlength": 4823
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210526_lehet_kozepen_allni",
+        "h1": "Lehet középen állni? – Földi-Kovács Andrea és Rónai Egon vitáztak",
+        "txtlength": 33592
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/bank/20210602/kriptopenzek-esg-es-digitalis-ux-melyek-most-a-legforrobb-wealthtech-trendek-magyarorszagon-485894",
+        "h1": "Kriptopénzek, ESG, és digitális UX - Melyek most a legforróbb Wealthtech trendek Magyarországon?",
+        "txtlength": 22266
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vilag/20210601/bizonytalan-uzleti-alapokon-nyugszik-a-teljes-europai-klubfoci/",
+        "h1": "Bizonytalan üzleti alapokon nyugszik a teljes európai klubfoci",
+        "txtlength": 20898
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://makronom.mandiner.hu/cikk/20210530_hellolama_interju",
+        "h1": "„Budapestről nézve könnyű azt mondani, hogy sok stadion épült feleslegesen” – építészeti cégvezető a Makronómnak",
+        "txtlength": 20571
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/penz/20210601/matolcsy-gyorgy-most-azt-mondja-amit-korabban-varga-mihaly-es-forditva/",
+        "h1": "Matolcsy György most azt mondja, amit korábban Varga Mihály, és fordítva",
+        "txtlength": 20377
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210601_dania_usa_europa_kembotrany",
+        "h1": "Valami bűzlik Dániában – mi áll a nagy kémbotrány mögött?",
+        "txtlength": 20139
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20210602/tobb-helyen-meg-kuzdenek-a-koronavirus-jarvannyal-a-kappa-varianstol-felnek-486030",
+        "h1": "Több helyen még küzdenek a koronavírus-járvánnyal, a kappa variánstól félnek ",
+        "txtlength": 19195
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2021/06/02/tobb-emberseget-a-tudomanyba",
+        "h1": "TÖBB EMBERSÉGET A TUDOMÁNYBA!",
+        "txtlength": 17691
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.penzcentrum.hu/vasarlas/20210602/fontos-valtozas-a-filleres-kinabol-rendelt-cuccoknal-erre-csunyan-rafizethetunk-1115082",
+        "h1": "Fontos változás a filléres, Kínából rendelt cuccoknál: erre csúnyán ráfizethetünk",
+        "txtlength": 16809
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/karrier/20210601/sulyos-gondokat-okoz-a-munkanelkuliseg-es-munkaerohiany-meg-koratsincs-vege-a-valsagnak-1115089",
+        "h1": "Súlyos gondokat okoz a munkanélküliség és munkaerőhiány: még korátsincs vége a válságnak",
+        "txtlength": 16704
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/vasarlas/20210602/fontos-valtozas-a-filleres-kinabol-rendelt-cuccoknal-erre-csunyan-rafizethetunk-1115082",
+        "h1": "Fontos változás a filléres, Kínából rendelt cuccoknál: erre csúnyán ráfizethetünk",
+        "txtlength": 16691
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/szuloseg/bullying-ovoda-lelki-segely/",
+        "h1": "Bullying már az óvodában. Hogyan támogathatjuk lelkileg a gyereket?",
+        "txtlength": 12069
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/kapcsolat/lida-baarova-goebbels-szeretoje/",
+        "h1": "A cseh színésznő, aki Joseph Goebbels szeretője volt: a házas náci propagandaminiszter bolondult Lída Baarováért",
+        "txtlength": 11678
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/belfold/2021/06/02/kell-a-penz-de-csak-ha-ugy-kolthetjuk-ahogy-akarjuk",
+        "h1": "Kell az EU pénze, de csak ha úgy költhetjük, ahogy akarjuk",
+        "txtlength": 19540
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/06/02/a-jarvany-egyenlotlensegei",
+        "h1": "A járvány egyenlőtlenségei",
+        "txtlength": 18128
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kulfold/2021/06/02/havanna-szindroma-rejtelyes-betegseg-egyesult-allamok-diplomata-kuba-oroszorszag-kina-kanton",
+        "h1": "Bárcsak egy lyuk lenne a testemben, mert azt talán helyre tudnák hozni",
+        "txtlength": 17435
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2021/06/02/egeszsegugy-orvos-jarvany-covid-beszamolo/",
+        "h1": "„Amikor azt mondták, mindenki megfelelő ellátást kap, nálunk az intenzív osztályon 12 betegre jutott egy szakápoló”",
+        "txtlength": 15017
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/eszkombajn/2021/06/02/linda-hazzard-eheztetes-gyilkossag-tortenelem-gyogyaszat",
+        "h1": "Több embert éheztetett halálra és zsákmányolt ki az amerikai kamuorvos, akit végül saját gyógymódja sem mentett meg",
+        "txtlength": 12888
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/06/01/a-who-hitelesitette-a-masodik-kinai-vakcinat-a-sinovacot",
+        "h1": "A WHO hitelesítette a második kínai vakcinát, a Sinovacot",
+        "txtlength": 9794
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/politika/parlamenti-szovaltas-azonnali-kerdesek-kormany-ellenzek/eesmre7?utm_source=related&utm_medium=www.blikk.hu&utm_campaign=widget-9446979",
+        "h1": "Gyurcsány Ferenc: \"Orbán Viktor azt mondja, velem kell megküzdenie, mégis gyáván államtitkárai mögé bújik\" - forrnak az indulatok a parlamentben",
+        "txtlength": 9302
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2021/06/02/kalocsai-gyermekotthon-bantalmazas-vadai-polt-peter-nyomozas/",
+        "h1": "Nem találta bizonyítottnak a rendőrség, hogy a kalocsai otthonban felnőttek verik a gyerekeket",
+        "txtlength": 9118
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/szekeres-szabolcs-sztrok-oltas-astrazeneca-ema/pbcfxn8?sl_ps=d_4",
+        "h1": "A második AstraZeneca oltás után kapott sztrókot a pilóta – Szabolcs a munkáját is elvesztette, most az igazáért küzd",
+        "txtlength": 8780
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kulfold/2021/06/01/oroszorszag-ellenzeki-lot-repulo-szentpetervar-andrej-pivovarov/",
+        "h1": "Lengyel repülőről szállítottak le egy orosz ellenzékit Szentpéterváron",
+        "txtlength": 8371
+    },
+    {
+        "hostname": "nosalty.hu",
         "pagelink": "https://www.nosalty.hu/recept/konnyu-puha-turogomboc",
         "h1": "Könnyű és puha túrógombóc",
         "txtlength": 11225
