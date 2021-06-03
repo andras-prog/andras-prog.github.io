@@ -1,5 +1,209 @@
 [
     {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/eredeti-olasz-bruscetta.recept",
+        "h1": "EREDETI OLASZ BRUSCETTA",
+        "txtlength": 10810
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/borzas-rantott-cukkini-tejfolos-martogatossal.recept",
+        "h1": "BORZAS RÁNTOTT CUKKINI TEJFÖLÖS MÁRTOGATÓSSAL",
+        "txtlength": 10651
+    },
+    {
+        "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/tartarmartas",
+        "h1": "Tartármártás",
+        "txtlength": 9892
+    },
+    {
+        "hostname": "receptneked.hu",
+        "pagelink": "https://receptneked.hu/gyors/sajttal-sonkaval-toltott-bundas-kenyer-rolad/",
+        "h1": "Sajttal, sonkával töltött bundás kenyér rolád recept",
+        "txtlength": 4557
+    },
+    {
+        "hostname": "receptneked.hu",
+        "pagelink": "https://receptneked.hu/gyors/sajtos-baconos-csavart/",
+        "h1": "Sajtos-baconos csavart recept",
+        "txtlength": 4460
+    },
+    {
+        "hostname": "hataratkelo.blog.hu",
+        "pagelink": "https://hataratkelo.blog.hu/2021/05/31/orban_londoni_uzenete_a_hataratkelo_magyaroknak#c40688876",
+        "h1": "Orbán londoni üzenete a határátkelő magyaroknak",
+        "txtlength": 45895
+    },
+    {
+        "hostname": "kulturpart.hu",
+        "pagelink": "https://kulturpart.blog.hu/2021/06/02/kaland_a_barbes-rochechouart-on",
+        "h1": "KALAND A BARBES-ROCHECHOUART-ON",
+        "txtlength": 10939
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/kozelet/20210603/exporthatalom-vagy-nemet-gyartosor-magyarorszag/",
+        "h1": "Exporthatalom vagy német gyártósor Magyarország?",
+        "txtlength": 28804
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20210603/a-vedettsegi-igazolvanyrol-az-unios-utazasrol-es-a-lehetseges-lazitasokrol-is-beszelt-gulyas-gergely-486236",
+        "h1": "A védettségi igazolványról, az uniós utazásról és a lehetséges lazításokról is beszélt Gulyás Gergely ",
+        "txtlength": 23118
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210527_toth_hadhazy_zuglo_varnai",
+        "h1": "Zuglóban egymás torkának esett Tóth és Hadházy",
+        "txtlength": 23061
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/oktatas/20210601/uj-fuggoseg-burjanzik-a-jarvany-arnyekaban-ennek-egy-eleten-at-isszak-a-levet-a-gyerekeink-1115053",
+        "h1": "Új függőség burjánzik a járvány árnyékában: ennek egy életen át isszák a levét a gyerekeink",
+        "txtlength": 22159
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/global/20210603/12-ev-utan-tavozik-a-hatalombol-az-ember-aki-megreformalta-izraelt-486148",
+        "h1": "12 év után távozik a hatalomból az ember, aki megreformálta Izraelt",
+        "txtlength": 21574
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/global/20210603/izrael-allam-nagykovete-ha-izraelen-mulna-mar-holnap-beke-lehetne-a-kozel-keleten-485730",
+        "h1": "Izrael Állam nagykövete: Ha Izraelen múlna, már holnap béke lehetne a Közel-Keleten",
+        "txtlength": 20830
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210603_kormanyinfo",
+        "h1": "Kormányinfó: Az igazolványok tartalmazni fogják az oltás típusát",
+        "txtlength": 20477
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/szuloseg/hintalovon-alapitvany-gyermekjogi-jelentes-2020/",
+        "h1": "Hintalovon Alapítvány Gyermekjogi jelentés 2020",
+        "txtlength": 20205
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210602_sargentini",
+        "h1": "Kiderül, érvényes volt-e a Sargentini-jelentésről szóló szavazás",
+        "txtlength": 19243
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/testem/legjobb-hatizomgyakorlatok/",
+        "h1": "Legjobb hátizomgyakorlatok",
+        "txtlength": 19165
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/otthon/20210531/pesten-kis-lakas-nogradban-palota-erre-eleg-50-millio-forint-a-magyar-ingatlanpiacon-1115027",
+        "h1": "Pesten kis lakás, Nógrádban palota: erre elég 50 millió forint a magyar ingatlanpiacon",
+        "txtlength": 17381
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2021/06/03/nem-biztos-hogy-jo-otlet-rovid-uton-veget-vetni-a-vakcinahaborunak",
+        "h1": "NEM BIZTOS, HOGY JÓ ÖTLET RÖVID ÚTON VÉGET VETNI A VAKCINAHÁBORÚNAK",
+        "txtlength": 16945
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/kozelet/20210602/mit-jelent-valojaban-ha-a-magyar-gazdasag-a-masodik-negyedevben-a-szamok-alapjan-szarnyalni-fog/",
+        "h1": "Mit jelent valójában, ha a magyar gazdaság a második negyedévben a számok alapján szárnyalni fog?",
+        "txtlength": 16909
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/szepseg/utanam-a-parfumom/",
+        "h1": "Ugyanolyan tapintatlanság erős illatfelhőben menni színházba, mint pávatollas kalapban: tekintettel lehetnénk egymásra",
+        "txtlength": 11836
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kulfold/2021/06/02/izraeli-kormanykoalicio-netanjahu-nelkul",
+        "h1": "Netanjahu 12 év után kikerül a hatalomból, először lesz Izraelnek arab képviselők támogatta kormánya",
+        "txtlength": 20218
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/belfold/2021/06/03/kormanyinfo-gulyas-gergely-unios-vedettsegi-igazolvany-pedofiltorveny-junius-3",
+        "h1": "A magyar digitális védettségi igazolvány alkalmas lesz az uniós zöldkártya kiváltására",
+        "txtlength": 15708
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/politika/palotas-janos-interju-ellenzeki-elovalasztas-visszater/83z1r0x?sl_ps=d_5",
+        "h1": "Visszatér a '90-es évek ikonikus politikusa: elindul az ellenzéki előválasztáson Palotás János",
+        "txtlength": 14729
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20210603_kormanyinfo",
+        "h1": "Gulyás: 524 ember halt meg a második oltása után Magyarországon",
+        "txtlength": 14155
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/belfold/2021/06/03/a-gyurcsanyozas-kiverte-a-biztositekot-tobb-betelefonalo-is-szamonkerte-a-kozmedia-musorvezetojet",
+        "h1": "A gyurcsányozás kiverte a biztosítékot, több betelefonáló is számonkérte a közmédia műsorvezetőjét",
+        "txtlength": 13304
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kulfold/2021/06/02/kina-harom-gyerek-politika-nyugdijkorhatar-kitolasa/",
+        "h1": "Drasztikus lépésre kényszerül Kína, ha nem jön be a „három gyerek politikája”",
+        "txtlength": 12254
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2021/06/03/kormanyinfo-junius-3-a-kormany-legujabb-donteseit-ismerteti-gulyas-gergely-miniszter/",
+        "h1": "A védettségi igazolvány digitális verziójában benne lesz a vakcina típusa és a két oltás időpontja is – kormányinfó",
+        "txtlength": 11986
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/kormanyinfo-koronavirus-gulyas-gergely/1td5fzc?sl_ps=d_2",
+        "h1": "Kormányinfó: Gulyás elárulta, hányan haltak meg a második oltás után",
+        "txtlength": 11658
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/06/02/guardian-szines-boru-ember-nem-lehetett-hivatalnok-ii-erzsebet-kiralyno-udvaraban",
+        "h1": "Guardian: színes bőrű ember nem lehetett hivatalnok II. Erzsébet királynő udvarában",
+        "txtlength": 11649
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kulfold/2021/06/02/peru-koronavirus-jarvany-halalozas-teszteles-huto/",
+        "h1": "Újraszámolták a koronavírusban elhunytakat Peruban, és megdöbbentő eredményre jutottak",
+        "txtlength": 11052
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/06/02/hollik-szerint-a-baloldal-nem-ismeri-el-a-keresztenyek-uldozeset-pedig-pont-most-neveztek-el-utat-egy-uldozott-keresztenyrol",
+        "h1": "Hollik szerint a baloldal nem ismeri el a keresztények üldözését, pedig pont most neveztek el utat egy üldözött keresztényről",
+        "txtlength": 10671
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/elet/20210602_katolikus_egyhaz_gyermekbantalmazas",
+        "h1": "Magyar Katolikus Egyház a gyermekbántalmazásról: Rendkívül nehéz a múlttal indulatok nélkül, alázattal szembenézni",
+        "txtlength": 10320
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20210602_Uj_vizeken_jarunk",
+        "h1": "Váltás a HVG élén",
+        "txtlength": 9386
+    },
+    {
         "hostname": "nosalty.hu",
         "pagelink": "https://www.nosalty.hu/recept/rizskoch-citromhejjal",
         "h1": "Rizskoch citromhéjjal",
