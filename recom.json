@@ -1,6 +1,198 @@
 [
     {
         "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/kotottgaluska-leves-ahogy-anyukam-csinalja-a-legjobb.recept",
+        "h1": "KÖTÖTTGALUSKA LEVES, AHOGY ANYUKÁM CSINÁLJA",
+        "txtlength": 10749
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/buzacsiras-epres-furjtojas-salata.recept",
+        "h1": "EPRES-FÜRJTOJÁSOS SALÁTA",
+        "txtlength": 10686
+    },
+    {
+        "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/klasszikus-hollandi-martas",
+        "h1": "Klasszikus hollandi mártás",
+        "txtlength": 10236
+    },
+    {
+        "hostname": "hataratkelo.blog.hu",
+        "pagelink": "https://hataratkelo.blog.hu/2021/05/31/orban_londoni_uzenete_a_hataratkelo_magyaroknak#c40690514",
+        "h1": "Orbán londoni üzenete a határátkelő magyaroknak",
+        "txtlength": 44773
+    },
+    {
+        "hostname": "kulturpart.hu",
+        "pagelink": "https://kulturpart.hu/2021/06/02/martonvasar_ujra_var",
+        "h1": "MARTONVÁSÁR ÚJRA VÁR!",
+        "txtlength": 7118
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210603_hergeles_vagy_tajekoztatas_a_nepszavas_hargitai_miklossal_csapott_ossze_kereki_gergo",
+        "h1": "Hergelés vagy tájékoztatás? – A népszavás Hargitai Miklóssal csapott össze Kereki Gergő",
+        "txtlength": 23951
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/global/20210604/koronavalsag-az-utolso-veszharangkonditas-484982",
+        "h1": "Koronaválság: az utolsó vészharangkondítás?",
+        "txtlength": 23102
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/uzlet/20210528/visszatertek-a-portfolio-konferenciai-premium-helyszinek-maximalis-biztonsag-es-terasz-elmeny-484868",
+        "h1": "Visszatértek a Portfolio konferenciái: prémium helyszínek, maximális biztonság és terasz-élmény",
+        "txtlength": 20918
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210602_a_tortenelmi_magyarorszag_felbomlasa_101_eves_a_trianoni_bekediktatum",
+        "h1": "A történelmi Magyarország felbomlása – 101 éves a trianoni békediktátum",
+        "txtlength": 19733
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210604_orban_viktor",
+        "h1": "Orbán Viktor: Oltásbiztonságban van Magyarország",
+        "txtlength": 19156
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/elet/20210603/ha-fiatal-akkor-szulni-fog-ha-szult-akkor-kisgyerekes-utana-meg-mar-nem-eleg-fiatal/",
+        "h1": "Ha fiatal, akkor szülni fog, ha szült, akkor kisgyerekes, utána meg már nem elég fiatal",
+        "txtlength": 18774
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/global/20210604/a-chiphianynal-nincs-egetobb-problemaja-a-magyar-jarmuiparnak-egy-kis-szerencsevel-viszont-nagyon-jo-ev-lehet-2021-486396",
+        "h1": "A chiphiánynál nincs égetőbb problémája a magyar járműiparnak - Egy kis szerencsével viszont nagyon jó év lehet 2021",
+        "txtlength": 17854
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/vasarlas/20210601/kiderult-a-kave-titok-ezt-teszi-valojaban-a-koffein-a-szervezeteddel-sorra-megdoltek-a-mitoszok-1115102",
+        "h1": "Kiderült a kávé-titok: ezt teszi valójában a koffein a szervezeteddel, sorra megdőltek a mítoszok",
+        "txtlength": 16866
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/kozelet/20210604/het-ev-alatt-15-milliard-forintot-keresett-az-orban-csalad-nem-berbol-es-fizetesbol/",
+        "h1": "Hét év alatt 15 milliárd forintot keresett az Orbán-család, nem bérből és fizetésből",
+        "txtlength": 16831
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/szorakozas/20210601/oruletes-netflix-es-hbo-go-premierek-erkeznek-juniusban-lesz-mit-nezni-az-esos-hetvegeken-1115101",
+        "h1": "Őrületes Netflix és HBO GO premierek érkeznek júniusban: lesz mit nézni az esős hétvégéken",
+        "txtlength": 15521
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/testem/edzesrutin-orvosok-tanacsai/",
+        "h1": "A kiegyensúlyozott edzésrutin 5 alappillére az orvosok szerint",
+        "txtlength": 14279
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2021/06/02/ujra-divat-az-ur-nasa-s-karora-kollekciot-mutatott-be-a-swatch",
+        "h1": "ÚJRA DIVAT AZ ŰR, NASA-S KARÓRA-KOLLEKCIÓT MUTATOTT BE A SWATCH",
+        "txtlength": 13042
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/szuloseg/gyerek-sport-ugyetlen/",
+        "h1": "A sportoló gyerek lehet ügyetlen, nem mindenkiben van tehetség, dicsérni viszont tudni kell a teljesítményt",
+        "txtlength": 12890
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/utazas/kihnu-nok-szigete/",
+        "h1": "Ilyen a nők szigete Európában: az észt Kihnun a lányok és az asszonyok gazdálkodnak, őrzik a hagyományokat",
+        "txtlength": 11259
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/06/04/amerika-ismet-seriff-kelet-europaban",
+        "h1": "Amerika ismét seriff Kelet-Európában",
+        "txtlength": 20020
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/elet/20210603_Olyan_mintha_ez_Amerika_piszkos_titka_lenne",
+        "h1": "Olyan ez, mint Amerika piszkos titka. Mintha egy német nem tudna a holokausztról",
+        "txtlength": 17346
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kulfold/2021/06/03/black-lives-matter-penzugyek-patrisse-cullors-lemond",
+        "h1": "Furcsán veszi ki magát a sztáralapítvány főnökének új malibui villája, ha közben a megsegítendők éheznek",
+        "txtlength": 16514
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20210603_kecskemeti_magyar_iszlamista",
+        "h1": "Elfogott kecskeméti iszlamista: a nyomozás legnehezebb része csak ezután jön",
+        "txtlength": 15481
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kulfold/2021/06/04/kina-egyesult-allamok-usa-gazdasagi-fuggoseg-kereskedelem-technologia-penzugy-halozatok-hatalom-termeles",
+        "h1": "A világ kettévált, csak nem úgy, ahogy az amerikaiak szeretnék",
+        "txtlength": 14562
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/belfold/2021/06/03/ferto-to-colophazak-bontas",
+        "h1": "Nem várta meg az állami beruházó, mit mond a bíróság, ledózerolta a Fertő tavi cölöpházakat",
+        "txtlength": 14012
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/sport/20210602_magyar_valogatott_keret_eb",
+        "h1": "Foci-Eb: semmi esélyt nem adnak nekünk, de így is jobb csapatunk van, mint 2016-ban",
+        "txtlength": 13878
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/tudomany/2021/06/04/nemzeti-energiaugynokseg-fosszilis-energia-foldgaz-jelentes/",
+        "h1": "Teljesen kiiktatná a szénerőműveket a Nemzeti Energiaügynökség",
+        "txtlength": 12766
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2021/06/04/mocsaros-dulo-bus-balazs-karacsony-gergely-obuda-luxus-lakopark/",
+        "h1": "Óbuda volt polgármestere nekiment Karácsonyéknak – politikai iszapbirkózás a Mocsáros-dűlőnél",
+        "txtlength": 11998
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/06/04/nagy-britanniaban-mar-a-fertozesek-75-szazalekat-a-koronavirus-delta-variansa-okozza",
+        "h1": "Nagy-Britanniában már a fertőzések 75 százalékát a koronavírus delta variánsa okozza",
+        "txtlength": 10518
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/krimi/tek-magyar-iszlamista-foiskolas-robbantas-fenyegetes-puskas-arena-csalad-kiall/ywxyckk?sl_ps=d_5",
+        "h1": "Családja kiáll a főiskolás fiatalember mellett – Piarista diákból vált az Iszlám Állam katonájává Kende",
+        "txtlength": 10435
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/orban-viktor-bejelentes-kossuth-radio-junius-4/x9p7zk2?sl_ps=d_3",
+        "h1": "Orbán Viktor bejelentette: vége a tömeges oltásnak",
+        "txtlength": 10361
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kozelet/2021/06/04/koronavirus-orban-viktor-fertozottek-enyhites/",
+        "h1": "Orbán: Nem észszerű a tömeges oltási rendszer fenntartása, átállás jön",
+        "txtlength": 9690
+    },
+    {
+        "hostname": "mindmegette.hu",
         "pagelink": "https://www.mindmegette.hu/eredeti-olasz-bruscetta.recept",
         "h1": "EREDETI OLASZ BRUSCETTA",
         "txtlength": 10810
