@@ -1,6 +1,192 @@
 [
     {
         "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/pancsos-perec-ahogy-szabi-a-pek-kesziti.recept",
+        "h1": "PANCSOS PEREC, AHOGY SZABI A PÉK KÉSZÍTI",
+        "txtlength": 10628
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/pavlova-tejszinhabbal-karamellel-gyumolcsokkel.recept",
+        "h1": "PAVLOVA TEJSZÍNHABBAL, KARAMELLEL, GYÜMÖLCSÖKKEL",
+        "txtlength": 10385
+    },
+    {
+        "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/fejessalata-ecetes-leben",
+        "h1": "Fejessaláta ecetes lében",
+        "txtlength": 9900
+    },
+    {
+        "hostname": "hataratkelo.blog.hu",
+        "pagelink": "https://hataratkelo.blog.hu/2021/06/03/remiszto_korulmenyek_kozott_hollandiaban",
+        "h1": "Rémisztő körülmények között Hollandiában",
+        "txtlength": 50385
+    },
+    {
+        "hostname": "kulturpart.hu",
+        "pagelink": "https://kulturpart.blog.hu/2021/06/05/az_elso_szines_boru_brit_arisztokratak",
+        "h1": "AZ ELSŐ SZÍNES BŐRŰ BRIT ARISZTOKRATÁK",
+        "txtlength": 12736
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210602_drakoi_szigor_a_pedofilokkal_szemben",
+        "h1": "Drákói szigorral lépne fel a Fidesz a pedofilokkal szemben",
+        "txtlength": 27218
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2021/06/04/papiron-jol-mutat-de-a-gyakorlatban-lehetetlennek-tunik-az-izraeli-palesztin-konfliktus-ketallamos-rendezese",
+        "h1": "PAPÍRON JÓL MUTAT, DE A GYAKORLATBAN LEHETETLENNEK TŰNIK AZ IZRAELI-PALESZTIN KONFLIKTUS KÉTÁLLAMOS RENDEZÉSE",
+        "txtlength": 26787
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/vallalkozas/20210602/ezen-all-vagy-bukik-a-boltok-haboruja-hatalmas-fegyvert-hagytak-a-magyar-vasarlok-kezeben-1115103",
+        "h1": "Ezen áll vagy bukik a boltok háborúja? Hatalmas fegyvert hagytak a magyar vásárlók kezében",
+        "txtlength": 24364
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/kozelet/20210604/nem-letezik-a-magyar-kozeposztaly-amelyet-a-fidesz-2010-ota-erositeni-akar/",
+        "h1": "Nem létezik a magyar középosztály, amelyet a Fidesz 2010 óta erősíteni akar",
+        "txtlength": 21529
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/podcast/20210605/a-klimavaltozas-es-az-oregedes-hozhatja-vissza-az-inflaciot-az-elottunk-allo-evekben/",
+        "h1": "A klímaváltozás és az öregedés hozhatja vissza az inflációt az előttünk álló években",
+        "txtlength": 20076
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210603_atkozott_a_kez_mely_ezt_a_beket_alairja_de_kinek_a_keze",
+        "h1": "Ők azok, akik aláírták a trianoni békeszerződést",
+        "txtlength": 19775
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210605_ime_a_tasz_kampanyvideoja_a_kirekesztes_ellen_nagy_zsolttal",
+        "h1": "Íme, a TASZ kampányvideója Nagy Zsolttal a „kirekesztés” ellen",
+        "txtlength": 19379
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20210604/csalodni-fognak-akik-olcsobb-foldgazra-es-aramra-szamitanak-484168",
+        "h1": "Csalódni fognak, akik olcsóbb földgázra és áramra számítanak",
+        "txtlength": 18231
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/tech/20210602/uj-fuggoseggel-neznek-szembe-a-csaladok-a-jarvany-arnyekaban-tobb-tizezer-gyermek-erintett-1115123",
+        "h1": "Új függőséggel néznek szembe a családok a járvány árnyékában: több tízezer gyermek érintett",
+        "txtlength": 17182
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20210604/beindul-a-hazai-hidrogenfejlesztes-nemzeti-hidrogenstrategia-palyazatok-es-vallalati-tervek-486516",
+        "h1": "Beindul a hazai hidrogénfejlesztés – Nemzeti Hidrogénstratégia, pályázatok és vállalati tervek",
+        "txtlength": 16029
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/lajfhekk/kerteszkedes-jotekony-hatasai/",
+        "h1": "kertészkedés jótékony hatásai",
+        "txtlength": 14681
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/krtk/20210604/a-klimavaltozasnak-alig-ismert-veszelye-a-terhessegre-es-a-fogantatasra-is-karos-hatassal-van-486288",
+        "h1": "A klímaváltozásnak alig ismert veszélye: a terhességre és a fogantatásra is káros hatással van",
+        "txtlength": 14059
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/egeszseg/scleroderma-diagnozis/",
+        "h1": "A tüdőt, a szívet, a veséket is megbetegítheti a scleroderma: gyakran külső tünetekkel jelentkezik",
+        "txtlength": 11516
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20210605_gyermekvedelem_neveloszulok_tegyesz_szent_agota_szolgaltato",
+        "h1": "Tényleg jobb a gondozott gyerekeknek az egyháznál, vagy csak az állam nem akar ezzel foglalkozni?",
+        "txtlength": 19269
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/velemeny/2021/06/05/fudan-egyetem-kina-budapesti-kampusz-tudomanyos-szabadsag-sukosd-miklos",
+        "h1": "Egyetem-e a Fudan tudományos szabadság nélkül?",
+        "txtlength": 17370
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/sport/2021/06/04/gorbicz-anita-visszavonulas-portre-gyori-eto/",
+        "h1": "Csínytevő kislányból lett a világ legjobbja – Görbicz Anita visszavonult",
+        "txtlength": 16695
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/sport/20210604_orban_viktor_foci_eb_szoboszlai",
+        "h1": "A magyar futball érdeke, hogy ne hallgassunk Orbán Viktorra",
+        "txtlength": 15969
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/tudomany/2021/06/04/trianon-gyasz-tuntetes-budapest/",
+        "h1": "Trianon: hangosan felzokogtak a templomokban",
+        "txtlength": 15370
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/belfold/2021/06/04/uj-bubi-ilyen-aron-a-hulyenek-is-megeri",
+        "h1": "Új Bubi: ilyen áron a hülyének is megéri",
+        "txtlength": 15040
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/kultura/20210604_keleti_blokk_budapest_probatermek_underground_zene",
+        "h1": "Körúttól körútig hátrálnak a Keleti Blokk árvái",
+        "txtlength": 14131
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kozelet/2021/06/05/terrortamadas-budapest-iszlam-allam-fiatalok-motivacio/",
+        "h1": "Miért akarhat egy magyar fiatal vérfürdőt rendezni az Iszlám Állam nevében?",
+        "txtlength": 14059
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/06/05/hetvegi-olvasnivalo-12-ezer-porosodo-lelegeztetogeptol-a-milliardosok-urversenyeig",
+        "h1": "Hétvégi olvasnivaló 12 ezer porosodó lélegeztetőgéptől a milliárdosok űrversenyéig",
+        "txtlength": 13671
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/szorakozas/2021/06/05/ram-kor-visegradi-hegyseg-tura",
+        "h1": "Rám-kör: a túra a Visegrádi-hegységben, amivel nem lehet befürödni",
+        "txtlength": 12684
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/kevesebb-nyugdijat-kaphat-akinek-nincs-gyereke/kqpgdk9",
+        "h1": "Ez nem igazságos! Tényleg kevesebb nyugdíjat kaphat az, akinek nincs gyereke? Ezt mondja a szakértő",
+        "txtlength": 11494
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/ruszin-szendi-romulusz-honvedseg-parancsnoksag-unnepseg/0eldrjt",
+        "h1": "Átvette a Honvédség parancsnokságát Ruszin-Szendi Romulusz: Orbán Viktor is beszédet mondott az ünnepségen",
+        "txtlength": 10843
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/06/04/modern-felfogasban-mutatjak-be-a-hagyomanyos-magyar-konyhat-a-dubaji-vilagkiallitas-11-milliardos-pavilonjaban",
+        "h1": "Modern felfogásban mutatják be a hagyományos magyar konyhát a Dubaji Világkiállítás 11 milliárdos pavilonjában",
+        "txtlength": 10163
+    },
+    {
+        "hostname": "mindmegette.hu",
         "pagelink": "https://www.mindmegette.hu/kotottgaluska-leves-ahogy-anyukam-csinalja-a-legjobb.recept",
         "h1": "KÖTÖTTGALUSKA LEVES, AHOGY ANYUKÁM CSINÁLJA",
         "txtlength": 10749
