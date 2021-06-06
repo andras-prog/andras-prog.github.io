@@ -1,6 +1,198 @@
 [
     {
         "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/szakallas-pogacsa-egyszeruen.recept",
+        "h1": "SZAKÁLLAS POGÁCSA EGYSZERŰEN",
+        "txtlength": 10575
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/mennyei-rebarbaras-pite.recept",
+        "h1": "MENNYEI REBARBARÁS PITE",
+        "txtlength": 10504
+    },
+    {
+        "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/alap-tojaskrem",
+        "h1": "Alap tojáskrém",
+        "txtlength": 9480
+    },
+    {
+        "hostname": "kiszamolo.hu",
+        "pagelink": "https://kiszamolo.hu/mi-ujsag-az-ingatlanpiacon-2/",
+        "h1": "Mi újság az ingatlanpiacon?",
+        "txtlength": 42775
+    },
+    {
+        "hostname": "alapblog.hu",
+        "pagelink": "https://alapblog.hu/ahol-nincs-lany-asszony-az-romlo-vilag-kina-pedig-ilyen/",
+        "h1": "AHOL NINCS LÁNY, ASSZONY, AZ ROMLÓ VILÁG – KÍNA PEDIG ILYEN",
+        "txtlength": 11021
+    },
+    {
+        "hostname": "efesasanisimasa.com",
+        "pagelink": "https://efesasanisimasa.com/2021/05/16/mank-2020/",
+        "h1": "Mank (2020)",
+        "txtlength": 8284
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/global/20210606/uj-ero-formalodik-europaban-es-orban-viktor-lehet-az-egyik-legfobb-vezetoje-486572",
+        "h1": "Új erő formálódik Európában, és Orbán Viktor lehet az egyik legfőbb vezetője",
+        "txtlength": 29807
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210602_a_posztkommunistak_lenyultak_az_egeszet_mezo_gabor_a_mandinernek",
+        "h1": "„A posztkommunisták lenyúlták az egészet” – Mező Gábor a Mandinernek",
+        "txtlength": 25279
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/kozelet/20210605/az-egyes-kormanyoknak-kell-megoldania-hogy-a-klimavedelem-arat-ne-a-szegenyek-fizessek-meg/",
+        "h1": "Az egyes kormányoknak kell megoldania, hogy a klímavédelem árát ne a szegények fizessék meg",
+        "txtlength": 23108
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210605_elkezdodott_a_fudan_elleni_tuntetes",
+        "h1": "Húszezres tömeg helyett 28 fokos meleg a Jámbor András vezette megmozduláson",
+        "txtlength": 21915
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/hitel/20210605/nem-csitul-a-magyar-csaladok-felujitasi-laza-megrohamoztak-a-bankokat-a-kedvezo-hitelekert-1115176",
+        "h1": "Nem csitul a magyar családok felújítási láza: megrohamozták a bankokat a kedvező hitelekért",
+        "txtlength": 19903
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210604_piarista_diak_volt_a_iszlamista_ferfi",
+        "h1": "Piarista diák volt a terrortámadásra készülő iszlamista férfi",
+        "txtlength": 19366
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/karrier/20210603/mostantol-ez-mar-nem-jatek-igy-alakitja-at-az-agyunkat-a-tulzott-online-jelenlet-1115138",
+        "h1": "Mostantól ez már nem játék: így alakítja át az agyunkat a túlzott online jelenlét",
+        "txtlength": 19232
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/kapcsolat/prostitucio-magyarorszagon/",
+        "h1": "Minden 4. magyar férfi fizetett már a szexért: máshogy látják a prostitúció és a pornó helyzetét a nők és a férfiak",
+        "txtlength": 18996
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/global/20210606/eloszor-nyerhetnek-a-jobboldali-radikalisok-egy-nemet-tartomanyban-az-utolso-erofelmerot-tartjak-az-oszi-orszagos-valasztas-elott-486636",
+        "h1": "Először nyerhetnek a jobboldali radikálisok egy német tartományban? Az utolsó erőfelmérőt tartják az őszi országos választás előtt",
+        "txtlength": 18928
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/adat/20210606/etolaj-serteskaraj-es-paradicsom-megneztuk-hogy-tenyleg-van-e-elelmiszer-dragulas/",
+        "h1": "Étolaj, sertéskaraj és paradicsom – megnéztük, hogy tényleg van-e élelmiszer-drágulás",
+        "txtlength": 17456
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/global/20210605/mar-keszulnek-a-jovo-tankjai-10-izgalmas-fejlesztes-amely-uralhatja-a-kovetkezo-evek-harctereit-486542",
+        "h1": "Már készülnek a jövő tankjai: 10 izgalmas fejlesztés, amely uralhatja a következő évek harctereit",
+        "txtlength": 15904
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2021/06/05/fergeteges-szovjet-siker-egy-4000-eves-dzsinn-ideologiai-kepzesenek-kronikaja",
+        "h1": "FERGETEGES SZOVJET SIKER: EGY 4000 ÉVES DZSINN IDEOLÓGIAI KÉPZÉSÉNEK KRÓNIKÁJA",
+        "txtlength": 12024
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/lajfhekk/ecet-felhasznalasa-kertben-novenyek/",
+        "h1": "Ecet felhasználása a kertben, növényeknél",
+        "txtlength": 7937
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/tudomany/2021/06/05/tatarjaras-csata-kiraly-mongol-karpatok/",
+        "h1": "Ezért hordták körbe a véres kardot Magyarországon",
+        "txtlength": 20208
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kulfold/2021/06/05/kamloops-bentlakasos-iskola-temeto-oslakos-gyerekek",
+        "h1": "Nyílt titok volt, hogy az őslakos gyerekek csak úgy eltűnnek a bentlakásos iskolákból",
+        "txtlength": 19030
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kultura/2021/06/06/benczur-utca-29-muemlek-villanegyed-elado-garancsi-istvan-hikisch-lajos/",
+        "h1": "Új gazdára vár az Andrássy úti villanegyed évtizedek óta kézről kézre járó műemléke",
+        "txtlength": 17513
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/szorakozas/2021/06/06/emily-ratajkowski-30-modell-szuletesnap-szexszimbolum-feminista/",
+        "h1": "„Kulturálisan félünk a nőktől, de a szexuális erejüktől is”",
+        "txtlength": 17316
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20210605_Fudan_magyar_felsooktatas",
+        "h1": "A Fudan elviszi az embereket és a pénzt – ettől tarthat a magyar felsőoktatás",
+        "txtlength": 15194
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/06/05/gyulekeznek-az-emberek-a-fudan-elleni-tuntetesre",
+        "h1": "Karácsony Gergely: A Fudan-ügy a Fidesz végső és teljes erkölcsi öngyilkossága",
+        "txtlength": 14422
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/06/05/olyan-tuntetes-mint-a-kinai-kommunista-egyetem-elleni-szombati-meg-sosem-volt-magyarorszagon",
+        "h1": "Olyan tüntetés, mint a kínai kommunista egyetem elleni szombati, még sosem volt Magyarországon",
+        "txtlength": 14131
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kulfold/2021/06/06/nemetorszag-szasz-anhalt-tartomanyi-valasztas-cdu-afd",
+        "h1": "Éles lehet a meccs vasárnap Merkel pártja és a német szélsőjobb között",
+        "txtlength": 13375
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/belfold/2021/06/05/keresztezodes-elozes-kresz-alapjarat",
+        "h1": "Előzés kereszteződésben: szabályos vagy sem?",
+        "txtlength": 11370
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/kkv/20210604_Az_Alfoldviz_kifeszitve_varja_hogy_vegre_atvegye_az_allami_vizmu",
+        "h1": "Az Alföldvíz kifeszítve várja, hogy végre átvegye az állam",
+        "txtlength": 11060
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/elso-loverseny-magyarorszag-194-ev-szechenyi-istvan/46j5zpn",
+        "h1": "Széchenyi miatt imádjuk a lovit: 194 éve rendezték az első lóversenyt Magyarországon, azóta is töretlen a száguldó paripák sikere",
+        "txtlength": 10279
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/bombak-duna-meder-lanchid-felujitas-tuzszereszek/tmrnd1s?sl_ps=d_11",
+        "h1": "Bombák a Duna mélyén: rengeteg a dolga a magyar tűzszerészeknek a Lánchíd felújítása előtt",
+        "txtlength": 10170
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20210605_Tobb_ezer_embert_varnak_a_Fudantuntetesre_ami_a_Fidesz_ellen_is_szol",
+        "h1": "Az Andrássy úttól a Kossuth térig - ilyen volt a szombati a Fudan-tüntetés",
+        "txtlength": 9771
+    },
+    {
+        "hostname": "mindmegette.hu",
         "pagelink": "https://www.mindmegette.hu/pancsos-perec-ahogy-szabi-a-pek-kesziti.recept",
         "h1": "PANCSOS PEREC, AHOGY SZABI A PÉK KÉSZÍTI",
         "txtlength": 10628
