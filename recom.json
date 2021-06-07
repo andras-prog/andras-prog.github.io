@@ -1,6 +1,192 @@
 [
     {
         "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/racsos-eperpite.recept",
+        "h1": "RÁCSOS EPRES PITE",
+        "txtlength": 10789
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/szuzermek-gorgonzolas-martasban-video.recept",
+        "h1": "SZŰZÉRMÉK GORGONZOLÁS MÁRTÁSBAN",
+        "txtlength": 10667
+    },
+    {
+        "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/bodzavirag-dzsem",
+        "h1": "Bodzavirág dzsem",
+        "txtlength": 10233
+    },
+    {
+        "hostname": "hataratkelo.blog.hu",
+        "pagelink": "https://hataratkelo.blog.hu/2021/06/04/az_elet_svajcban_takaritokent",
+        "h1": "Az élet Svájcban takarítóként",
+        "txtlength": 37661
+    },
+    {
+        "hostname": "kulturpart.hu",
+        "pagelink": "https://kulturpart.blog.hu/2021/06/02/martonvasar_ujra_var",
+        "h1": "MARTONVÁSÁR ÚJRA VÁR!",
+        "txtlength": 8292
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/otthon/20210606/ilyen-iskolakba-jaratja-kedvenceit-a-magyar-elit-mit-kapnak-a-penzukert-1115197",
+        "h1": "Ilyen iskolákba járatja kedvenceit a magyar elit: mit kapnak a pénzükért?",
+        "txtlength": 26010
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/kozelet/20210607/magyarorszag-ul-a-legnagyobb-vakcinatartalekon-az-eu-ban-de-egy-resze-rank-romolhat/",
+        "h1": "Magyarország ül a legnagyobb vakcinatartalékon az EU-ban, de egy része ránk romolhat",
+        "txtlength": 25807
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210602_orban_politikaja_referenciapont_santiago_abascal_a_mandinernek",
+        "h1": "Orbán politikája referenciapont – Santiago Abascal a Mandinernek",
+        "txtlength": 21391
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210606_gyengenlatok_audionarrator",
+        "h1": "Aki látássérülteknek teszi láthatóvá a láthatatlant",
+        "txtlength": 21172
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210603_izrael_netanjahu",
+        "h1": "Nyolcpárti kormány váltaná le Netanjahut – mi folyik Izraelben?",
+        "txtlength": 19593
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/hitel/20210604/megrohantak-a-magyarok-a-bankokat-igy-huzzak-be-a-legjobb-hiteleket-1115154",
+        "h1": "Megrohanták a magyarok a bankokat: így húzzák be a legjobb hiteleket",
+        "txtlength": 18574
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/uzlet/20210606/igy-csinalt-a-statisztika-magusa-700-ezer-dollarbol-egy-300-millo-dollart-ero-focicsapatot-486438",
+        "h1": "Így csinált a statisztika mágusa 700 ezer dollárból egy 300 milló dollárt érő focicsapatot",
+        "txtlength": 17367
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.penzcentrum.hu/karrier/20210607/640-ezres-fizetessel-csabitjak-a-diakmunkasokat-javaban-tart-a-toborzas-fogynak-a-helyek-1115175",
+        "h1": "640 ezres fizetéssel csábítják a diákmunkásokat: javában tart a toborzás, fogynak a helyek",
+        "txtlength": 17308
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/kozelet/20210602/szazmilliokkal-gazdagitotta-a-jarvany-a-virusszkeptikus-dr-lenkeit-nagyot-szakitott-dr-godeny-is/",
+        "h1": "Százmilliókkal gazdagította a járvány a vírusszkeptikus Dr. Lenkeit, nagyot szakítottak Dr. Gődénnyel is",
+        "txtlength": 14379
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/ingatlan/20210606/ertekallo-lakas-budapest-es-az-orszag-ezen-reszein-meg-a-nehez-idokben-sem-rettennek-meg-a-vasarlok-486200",
+        "h1": "Értékálló lakás? - Budapest és az ország ezen részein még a nehéz időkben sem rettennek meg a vásárlók",
+        "txtlength": 14138
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2021/06/07/igy-jelennek-meg-a-kognitiv-torzitasok-a-koronavirus-elleni-oltasok-korul",
+        "h1": "ÍGY JELENIK MEG A KOGNITÍV TORZÍTÁS A KORONAVÍRUS ELLENI OLTÁS KÖRÜL",
+        "txtlength": 11895
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/ezo/heti_horoszkop/202123/",
+        "h1": "Heti horoszkóp június 7-től 13-ig: a Halak új lehetőséget, a Bak jó hírt kap",
+        "txtlength": 11640
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/szuloseg/anyos-apos-beszol-konfliktus/",
+        "h1": "Anyós, após, nagyszülő konfliktus, feszültség, vita",
+        "txtlength": 10902
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/06/07/fudanbol-hatralo-kormany",
+        "h1": "Fudanból hátráló kormány",
+        "txtlength": 19620
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/gazdasag/20210607_Eb_stadion_foci_sport",
+        "h1": "A félretervezéstől a korrupcióig – épülhet stadion az Eb-re drágábban, mint a mienk?",
+        "txtlength": 18076
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kulfold/2021/06/06/kanada-oslakosok-kamloops-bentlakasos-iskola-kulturalis-nepirtas/",
+        "h1": "Apró cipők emlékeztetnek rá, hogyan került többezer kanadai gyermek tömegsírokba",
+        "txtlength": 14273
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2021/06/06/fidesz-kormany-fudan-tuntetes-elemzes/",
+        "h1": "A kormány nyerhetetlen kampánytémává tette a Fudan ügyét",
+        "txtlength": 13269
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/tech/2021/06/06/kina-videojatek-csalas-uzlet-fejleszto-rendorseg-cheat-ninja-catfish",
+        "h1": "A világ legnagyobb videójáték-csalás fejlesztője dollármilliókat kaszált, és azóta is bujkál",
+        "txtlength": 13262
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/zhvg/20210606_karbonsemlegesseg_vallalatok_fogyasztok",
+        "h1": "Fizetne többet a benzinkúton azért, hogy az olajcég fát telepítsen a világ másik felén?",
+        "txtlength": 13021
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/belfold/2021/06/07/zavecz-kampanyhomero-hoemelkedes-valasztasok-kampany-hangulat",
+        "h1": "Hőemelkedéssel indul a választási kampány",
+        "txtlength": 12606
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/fn/gazdasag/2021/06/07/epitoipar-2020-meszaros-lorinc-szijj-laszlo-duna-aszfalt-zaev-whb-merlegek/",
+        "h1": "Az építőipar megtorpant 2020-ban, Mészáros Lőrinc és Szíjj László mégis örülhetett",
+        "txtlength": 12298
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/gazdasag/2021/06/07/borokon-sajtokon-tomenyeken-veszekszik-a-fel-vilag",
+        "h1": "Borokon, sajtokon, töményeken veszekszik a fél világ",
+        "txtlength": 10879
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/06/07/karacsony-a-kozosseg-ereje-meghatralasra-kenyszeritette-a-kormanyt-fudan-ugyben",
+        "h1": "Karácsony: A közösség ereje meghátrálásra kényszerítette a kormányt Fudan-ügyben",
+        "txtlength": 10172
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/politika/jeszenszky-geza-orban-legenda-antall-jozsef/svl59zh?sl_ps=d_4",
+        "h1": "Évtizedes Orbán-legendát cáfol meg Jeszenszky Géza – Mit mondott valójában Antall József a halálos ágyán?",
+        "txtlength": 9643
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/tudomany/20210607_taposoakna_patkany_kambodzsa_nyugdijazas",
+        "h1": "Nyugdíjba vonul a kambodzsai óriáspatkány, amely pár év alatt 71 taposóaknát szagolt ki",
+        "txtlength": 8503
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/krimi/curtis-testvere-katzenbach-gyilkossag-dns-minta/2bs3qq0?sl_ps=d_5",
+        "h1": "Katzenbach-gyilkosság: DNS-minta buktathatja le Curtis bátyjáékat",
+        "txtlength": 8243
+    },
+    {
+        "hostname": "mindmegette.hu",
         "pagelink": "https://www.mindmegette.hu/szakallas-pogacsa-egyszeruen.recept",
         "h1": "SZAKÁLLAS POGÁCSA EGYSZERŰEN",
         "txtlength": 10575
