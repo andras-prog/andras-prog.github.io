@@ -1,6 +1,192 @@
 [
     {
         "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/egyszeru-malnas-poharkrem-video.recept",
+        "h1": "MÁLNÁS POHÁRKRÉM",
+        "txtlength": 10119
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/zablisztes-ropi.recept",
+        "h1": "ZABLISZTES ROPI",
+        "txtlength": 10111
+    },
+    {
+        "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/mentaszorp-citromfuszorp",
+        "h1": "Mentaszörp és citromfűszörp",
+        "txtlength": 9780
+    },
+    {
+        "hostname": "alapblog.hu",
+        "pagelink": "https://alapblog.hu/megoli-e-a-novekedest-az-indiai-virusvarians/",
+        "h1": "MEGÖLI-E A NÖVEKEDÉST AZ INDIAI VÍRUSVARIÁNS?",
+        "txtlength": 10022
+    },
+    {
+        "hostname": "kulturpart.hu",
+        "pagelink": "https://kulturpart.blog.hu/2021/06/07/a_veletlen_a_sors_a_lruha_ja",
+        "h1": "A VÉLETLEN A SORS ÁLRUHÁJA",
+        "txtlength": 6977
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vilag/20210608/csak-papiron-jarna-jol-magyarorszag-a-nagy-adozasi-ujitassal/",
+        "h1": "Csak papíron járna jól Magyarország a nagy adózási újítással",
+        "txtlength": 23753
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/global/20210608/miert-akar-eros-elrettento-hadsereget-orban-viktor-tobb-sulyos-indok-is-meghuzodik-a-hatterben-486852",
+        "h1": "Miért akar erős, elrettentő hadsereget Orbán Viktor? Több súlyos indok is meghúzódik a háttérben",
+        "txtlength": 20135
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/karrier/20210605/vege-a-jo-vilagnak-a-balatonnal-ennyiert-galyaznak-iden-nyaron-a-vendeglatosok-1115199",
+        "h1": "Vége a jó világnak a Balatonnál: ennyiért gályáznak idén nyáron a vendéglátósok",
+        "txtlength": 19315
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.penzcentrum.hu/hitel/20210608/rengeteg-magyar-fiatal-csuszhat-le-az-ingyenmilliokrol-ez-mar-az-utolso-roham-a-tamogatasokert-1115224",
+        "h1": "Rengeteg magyar fiatal csúszhat le az ingyenmilliókról: ez már az utolsó roham a támogatásokért?",
+        "txtlength": 19307
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2021/06/07/a-tudosnok-sikerkeplete-mas-mint-a-ferfiake",
+        "h1": "A TUDÓSNŐK SIKERKÉPLETE MÁS, MINT A FÉRFIAKÉ",
+        "txtlength": 18689
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210607_papalatogatas_kontextus",
+        "h1": "Háttérinfók: csak pletyka, hogy nem találkozna Orbánnal Ferenc pápa",
+        "txtlength": 17341
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210607_ferenc_papa_nem_szandekozik_orban_viktorral_es_ader_janossal_talalkozni",
+        "h1": "A migránspolitika miatt nem akar találkozni a pápa Orbánnal",
+        "txtlength": 16534
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/vasarlas/20210603/30-eves-a-spar-magyarorszagon-mutatjuk-hogy-nezett-ki-az-elso-uzlet-1115125",
+        "h1": "30 éves a SPAR Magyarországon: mutatjuk, hogy nézett ki az első üzlet",
+        "txtlength": 15534
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210607_orban_viktor_az_europai_unio_kulpolitikaja_nevetsegesse_valt",
+        "h1": "Orbán Viktor: Az Európai Unió külpolitikája nevetségessé vált",
+        "txtlength": 15123
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/kozelet/20210607/szazmilliardos-cegvagyontol-valt-meg-meszaros-lorinc-volt-felesege/",
+        "h1": "Százmilliárdos cégvagyontól vált meg Mészáros Lőrinc volt felesége",
+        "txtlength": 13850
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/bank/20210608/uj-szolgaltatast-erhetnek-el-a-cib-ugyfelei-kinek-eri-meg-valojaban-485676",
+        "h1": "Új szolgáltatást érhetnek el a CIB ügyfelei: kinek éri meg valójában?",
+        "txtlength": 12992
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/hazai_sztar/tanacs-kutyatap-vasarlas/",
+        "h1": "4+1 óriási tévhit és leleplezésük a kutyakajákról (x)",
+        "txtlength": 12656
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/lajfhekk/bolhas-kutya-macska-kezelese/",
+        "h1": "Bolhás kutya és macska: így szabadulj meg az élősködőktől",
+        "txtlength": 7016
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2021/06/07/furjes-balazs-interju-fudan-diakvaros-olimpia-buda-valasztas2022/",
+        "h1": "Fürjes Balázs: Annál nagyobb vitákat nehezen tudok elképzelni, mint amekkorák a Fideszben vannak",
+        "txtlength": 34394
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://tldr.444.hu/2021/06/08/ha-ezt-a-kvotat-is-olyan-konnyen-magyarazhatnak-mint-a-migransosat-akkor-mar-szen-dioxid-nepszavazasra-keszulne-az-orszag",
+        "h1": "Ha ezt a kvótát is olyan könnyen magyarázhatnák, mint a migránsosat, akkor már szén-dioxid népszavazásra készülne az ország",
+        "txtlength": 20115
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/belfold/2021/06/08/jobbik-dk-egyuttmukodes-ellenzeki-elovalasztas-jakab-peter-dobrev-klara",
+        "h1": "Inkább összefognak az ősellenséggel, csak ne Orbán nyerjen 2022-ben",
+        "txtlength": 19349
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kulfold/2021/06/08/kina-egy-gyermek-politika-harom-gyermek-nepesseg-demografia-nyugdij-gazdasag",
+        "h1": "Évtizedekig tilos volt, mire engedélyezték, már nem akarnak több gyereket a kínaiak",
+        "txtlength": 17399
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/06/07/a-magyar-ellenzeket-segiti-a-minden-aprosagert-odacsapo-kinai-diplomacia",
+        "h1": "A magyar ellenzéket segíti a minden apróságért odacsapó kínai diplomácia",
+        "txtlength": 16772
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20210608_meddosegi_kezeles_egeszsegugy_allami_beavatkozas",
+        "h1": "A kormány ködös érveléssel vérezteti ki a meddőségi magánklinikákat",
+        "txtlength": 16695
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20210608_Van_ahol_mar_het_kepviselojelolt_is_bejelentkezett_de_lehetnek_harmincan_is",
+        "h1": "Még messze a választás, de már most túljelentkezés van pár körzetben",
+        "txtlength": 12813
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/tudomany/20210607_bankkartyas_fizetes_mobilfizetes_trendek_magyarorszagon",
+        "h1": "Két dolog jól került ki a járványból: a kezünk és a bankkártyánk",
+        "txtlength": 12582
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/belfold/2021/06/07/miert-halt-meg-abu-a-csontta-sovanyodott-piliscsabai-kutya",
+        "h1": "Miért halt meg Abu, a csonttá soványodott piliscsabai kutya?",
+        "txtlength": 11759
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kulfold/2021/06/07/orban-viktor-unio-kina-veto/",
+        "h1": "Orbán Viktor: Szánalmas papírtigrisnek látszunk, rajtunk nevet a világ",
+        "txtlength": 9998
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/politika/ferenc-papa-feszultseg-diplomacia-ader-janos-orban-viktor-eucharisztikus-kongressus/2yk7jcp?utm_source=related&utm_medium=www.blikk.hu&utm_campaign=widget-9446979",
+        "h1": "„Hatalmas pofonnal ér fel” – Sem Áderrel, sem Orbánnal nem akar találkozni Ferenc pápa, amikor Budapestre jön",
+        "txtlength": 9822
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/fn/gazdasag/2021/06/08/piszok-dragak-lettek-a-nyaralok-20-60-szazalekos-aremelkedes-egy-ev-alatt/",
+        "h1": "Piszok drágák lettek a nyaralók, 20-60 százalékos áremelkedés egy év alatt",
+        "txtlength": 8835
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/holnapi-idojaras-elorejelzes-budapest/27k53b7",
+        "h1": "Időjárás ma: igazi strandidőre számíthatunk – Erre készüljön a hét többi napján",
+        "txtlength": 8501
+    },
+    {
+        "hostname": "mindmegette.hu",
         "pagelink": "https://www.mindmegette.hu/racsos-eperpite.recept",
         "h1": "RÁCSOS EPRES PITE",
         "txtlength": 10789
