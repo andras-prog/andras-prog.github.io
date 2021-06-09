@@ -1,5 +1,185 @@
 [
     {
+        "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/kovaszos-uborka-egyszeruen",
+        "h1": "Kovászos uborka egyszerűen",
+        "txtlength": 12522
+    },
+    {
+        "hostname": "hataratkelo.blog.hu",
+        "pagelink": "https://hataratkelo.blog.hu/2021/06/04/az_elet_svajcban_takaritokent#c40701034",
+        "h1": "Az élet Svájcban takarítóként",
+        "txtlength": 51958
+    },
+    {
+        "hostname": "kulturpart.hu",
+        "pagelink": "https://kulturpart.hu/2021/06/07/a_veletlen_a_sors_a_lruha_ja",
+        "h1": "A VÉLETLEN A SORS ÁLRUHÁJA",
+        "txtlength": 6976
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vilag/20210609/ma-egy-vezetek-holnap-par-husuzem-kulcsrakeszen-franchise-rendszerben-terjednek-a-zsarolovirusos-tamadasok/",
+        "h1": "Ma egy vezeték, holnap pár húsüzem – kulcsrakészen, franchise-rendszerben terjednek a zsarolóvírusos támadások",
+        "txtlength": 22545
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210602_japan_latkep_olimpia_elott_a_szigetorszag_a_v4_re_is_kiemelt_figyelmet_fordit",
+        "h1": "Japán látkép olimpia előtt, a szigetország a V4-re is kiemelt figyelmet fordít",
+        "txtlength": 21992
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/vallalkozas/20210606/folytatodik-a-magyar-butorhaboru-lenyomhatja-az-ikea-t-a-tronkovetelo-xxxlutz-1115167",
+        "h1": "Folytatódik a magyar bútorháború: lenyomhatja az IKEA-t a trónkövetelő XXXLutz?",
+        "txtlength": 20754
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/penz/20210608/forditott-devizahaborut-hoz-az-emelkedo-inflacio/",
+        "h1": "Fordított devizaháborút hoz az emelkedő infláció?",
+        "txtlength": 17936
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/kapcsolat/singer-magdolna-gyaszkiseres-interju/",
+        "h1": "\"A gyász folyamatában mindig megjelenik a közösség támogatása\" - interjú Singer Magdolnával",
+        "txtlength": 17925
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/megtakaritas/20210608/ide-tedd-a-penzed-a-2021-es-foci-eb-alatt-jobban-megterulhet-mint-a-sportfogadas-1115276",
+        "h1": "Ide tedd a pénzed a 2021-es foci-Eb alatt: jobban megtérülhet, mint a sportfogadás",
+        "txtlength": 16510
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210608_beer_miklos_orban_viktor_ferenc_papa_hosok_tere",
+        "h1": "Beer Miklós: Orbán a Hősök terén, a mise után találkozhat Ferenc pápával",
+        "txtlength": 16161
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20210609/matolcsy-gyorgy-allitsuk-helyre-a-penzugyi-egyensulyainkat-487138",
+        "h1": "Matolcsy György: jövőre állítsuk helyre a pénzügyi egyensúlyainkat! - Varga Mihály reagált: lassan a testtel!",
+        "txtlength": 15421
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210608_szcientologiai_egyhaz_buntetes_van_gyanusitott_nincs",
+        "h1": "Szcientológia Egyház-ügy: büntetés van, gyanúsított nincs",
+        "txtlength": 15260
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2021/06/09/alfa-vagy-brit-delta-vagy-indiai-nem-mindegy-hogy-hivjak-a-virusvariansokat",
+        "h1": "ALFA VAGY BRIT? DELTA VAGY INDIAI? NEM MINDEGY, HOGY HÍVJÁK A VÍRUSVARIÁNSOKAT?",
+        "txtlength": 15053
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/testem/hordozas-csipon-nyakban-gyerek/",
+        "h1": "Gyerek hordozása csípőn, nyakban",
+        "txtlength": 13884
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20210609/juliustol-tobbet-kell-fizetnunk-az-interneten-vasarolt-olcso-kinai-termekek-utan-487168",
+        "h1": "Júliustól többet kell fizetnünk az interneten vásárolt olcsó kínai termékek után",
+        "txtlength": 13304
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20210609/szorul-vissza-a-jarvany-a-vilagban-magyarorszagon-jovo-hettol-jon-az-ujabb-konnyites-487048",
+        "h1": "Szorul vissza a járvány a világban, Magyarországon jövő héttől jön az újabb könnyítés ",
+        "txtlength": 13060
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/szuloseg/gyerek-rajzolas/",
+        "h1": "Gyerek rajzolás",
+        "txtlength": 10370
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/komplex/2021/06/09/palkovics-laszlo-portre-miniszter-fudan-egyetem-itm-ceu-mta-1",
+        "h1": "\n      Egy elégedett terminátor – Palkovics László portréja\n    ",
+        "txtlength": 28307
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/06/08/europaban-a-mediapiacot-sehol-sem-verik-szet-ugy-mint-itt",
+        "h1": "Európában a médiapiacot sehol sem verik szét úgy, mint itt",
+        "txtlength": 19208
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/06/09/az-mar-nem-kerdes-hogy-a-koronavirus-az-agyat-es-az-idegrendszert-is-karosithatja",
+        "h1": "Az már nem kérdés, hogy a koronavírus az agyat és az idegrendszert is károsíthatja",
+        "txtlength": 15991
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/fn/gazdasag/2021/06/09/matolcsy-adam-matolcsy-timea-somlai-balint-mnb/",
+        "h1": "A jegybankot 54 milliárdért felújító cég tulajdonosától vett Duna-parti luxuslakást Matolcsy menye",
+        "txtlength": 15133
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/vilag/20210609_Tortenelmi_jelentoseg_europai_turnera_erkezik_Joe_Biden__de_miert",
+        "h1": "Biden végre Európába érkezik, de amire igazán vágyik, azt itt aligha kapja meg",
+        "txtlength": 14466
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://eb2020.24.hu/hirek/2021/06/09/labdarugo-europa-bajnoksag-tortenelem-1988/",
+        "h1": "Hollandia egy bokasérült kispadossal verte végig Európát",
+        "txtlength": 14344
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/velemeny/2021/06/09/a-fudan-ugy-pontosan-leirja-milyen-kina-gazdasagi-terhoditasa-az-autoriter-allamokban",
+        "h1": "A Fudan-ügy pontosan leírja, milyen Kína gazdasági térhódítása az autoriter államokban",
+        "txtlength": 13286
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/sport/2021/06/08/magyarorszag-vedelem-willi-orban-szalai-attila-fiola",
+        "h1": "A magyar futballválogatott védelme rég volt ennyire versenyképes, mint most",
+        "txtlength": 11654
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/eurologus/20210609_A_Fidesz_megszavazta_a_szerintuk_diszkriminativ_unios_vakcinaigazolast",
+        "h1": "A Fidesz is megszavazta a szerintük diszkriminatív uniós vakcinaigazolást",
+        "txtlength": 10892
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/tudomany/20210609_gyerekek_keresesi_szokasai_alkalmazasok_jatekok",
+        "h1": "Mire keresnek a gyerekek az interneten?",
+        "txtlength": 10449
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kulfold/2021/06/08/koronavirus-labor-szivargas-eredet-kina-kovetkezmenyek/",
+        "h1": "Ha a koronavírus laborból szivárgott ki, az a teljes világrendet megváltoztathatja",
+        "txtlength": 10417
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/sztarvilag/kultura/retro-1965-louis-armstrong-magyarorszag-koncert/p9zvtq4",
+        "h1": "A nap 1965-ből, amikor az élet Magyarországra költözött 24 órára, de az akkori BKV azt is tönkretette – Legenda a Népstadionban",
+        "txtlength": 8929
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/csengeri-orokosno-targyalas-tanu-vallalkozo/yyck362?sl_ps=d_1",
+        "h1": "Megszólalt a tanú: 380 milliót és a házát adta a csengeri örökösnőnek a tehetős vállalkozó, akit még Kósa Lajos is megkeresett",
+        "txtlength": 8753
+    },
+    {
         "hostname": "mindmegette.hu",
         "pagelink": "https://www.mindmegette.hu/egyszeru-malnas-poharkrem-video.recept",
         "h1": "MÁLNÁS POHÁRKRÉM",
