@@ -1,5 +1,173 @@
 [
     {
+        "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/kaposztas-teszta",
+        "h1": "Káposztás tészta",
+        "txtlength": 9651
+    },
+    {
+        "hostname": "hataratkelo.blog.hu",
+        "pagelink": "https://hataratkelo.blog.hu/2021/06/10/magyar_munkakozvetitokent_svajcban#c40706530",
+        "h1": "Magyar munkaközvetítőként Svájcban",
+        "txtlength": 23990
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/kozelet/20210610/tenyleg-nepszerubb-lett-a-szakkepzes-de-a-szamokkal-azert-baj-van/",
+        "h1": "Tényleg népszerűbb lett a szakképzés, de a számokkal azért baj van",
+        "txtlength": 23255
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210610_kariko_katalin_biologiatanara",
+        "h1": "„Én meg azt mondtam, hogy Katira büszke lesz még a világ!” – Karikó Katalin tanáránál jártunk",
+        "txtlength": 22358
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210609_nemzeti_szinhaz_evadnyito",
+        "h1": "Vidnyánszky: Nézők nélkül nem ér az egész semmit!",
+        "txtlength": 19701
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vallalat/20210611/penzezos-szokas-miatt-korozi-le-a-magyar-hazhoz-szallitasi-piac-szinvonala-nyugat-europat/",
+        "h1": "Pénzezős szokás miatt körözi le a magyar házhoz szállítási piac színvonala Nyugat-Európát",
+        "txtlength": 18329
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/utazas/szlovenia-nyugati-orszagresz/",
+        "h1": "Varázslatos tájak, amiket érdemes felfedezni Szlovénia nyugati részén: nem csak a Bledi-tó nyújt felejthetetlen élményt",
+        "txtlength": 15759
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/uzlet/20210611/nincs-megallas-itt-a-tortenelmi-csucs-a-magyar-borzen-487574",
+        "h1": "Nincs megállás, itt a történelmi csúcs a magyar börzén ",
+        "txtlength": 15539
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/biztositas/20210607/oriasi-veszelyben-vannak-otthonaikban-a-magyarok-lathatatlan-a-vesz-rengetegen-halnak-bele-1115160",
+        "h1": "Óriási veszélyben vannak otthonaikban a magyarok: láthatatlan a vész, rengetegen halnak bele",
+        "txtlength": 15507
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.penzcentrum.hu/karrier/20210611/kitort-a-berhaboru-ennyit-fizet-dolgozoinak-az-ikea-a-jysk-es-az-xxxlutz-1115313",
+        "h1": "Kitört a bérháború: ennyit fizet dolgozóinak az IKEA, a JYSK, és az XXXLutz",
+        "txtlength": 15488
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210611_orban_viktor_belfold_kossuth_radio",
+        "h1": "Orbán Viktor: A járványok és a népvándorlások korát éljük",
+        "txtlength": 15011
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/karrier/20210611/kitort-a-berhaboru-ennyit-fizet-dolgozoinak-az-ikea-a-jysk-es-az-xxxlutz-1115313",
+        "h1": "Kitört a bérháború: ennyit fizet dolgozóinak az IKEA, a JYSK, és az XXXLutz",
+        "txtlength": 14911
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/ingatlan/20210611/a-nav-annyi-adatbol-dolgozik-mint-egy-96-ev-hosszu-hd-minosegu-film-merete-487280",
+        "h1": "A NAV annyi adatból dolgozik, mint egy 96 év hosszú HD minőségű film mérete",
+        "txtlength": 14181
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2021/06/10/az-igazsagos-internetet-tuzte-zaszlajara-de-a-szabad-internet-halalat-okozhatja-az-eu-uj-szerzoi-jogi-reformja",
+        "h1": "AZ IGAZSÁGOS INTERNETET TŰZTE ZÁSZLAJÁRA, DE A SZABAD INTERNET HALÁLÁT OKOZHATJA AZ EU ÚJ SZERZŐI JOGI REFORMJA",
+        "txtlength": 13348
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/lajfhekk/szunyogriaszto-szunyogirto-teszt-2021/",
+        "h1": "Teszt: Melyik a leghatékonyabb szúnyogriasztó?",
+        "txtlength": 10105
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/06/10/amikor-orban-inkabb-elengedte-a-magyar-foci-eb-t",
+        "h1": "Amikor Orbán inkább elengedte a magyar foci Eb-t",
+        "txtlength": 20648
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/06/11/megszenvedtek-de-gyozelemkent-eltek-meg-a-jarvanyt-a-kisvallalkozasok",
+        "h1": "Megszenvedték, de győzelemként élték meg a járványt a kisvállalkozások",
+        "txtlength": 18966
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/belfold/2021/06/11/ferenc-papa-nemzetkozi-eucharisztikus-kongresszus-orban-viktor-fidesz",
+        "h1": "Tudatosan hangolják Orbán híveit a pápa ellen",
+        "txtlength": 18221
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://eb2020.24.hu/hirek/2021/06/10/labdarugo-europa-bajnoksag-tortenelem-2000/",
+        "h1": "Trézéguet aranygóljával írtak történelmet a franciák",
+        "txtlength": 16002
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/sport/2021/06/11/foci-eb-torokorszag-olaszorszag-wales-svajc-a-csoport",
+        "h1": "A sötét ló és a három kiscsikó az Európa-bajnokságon",
+        "txtlength": 16001
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://eb2020.24.hu/hirek/2021/06/11/labdarugo-europa-bajnoksag-tortenelem-2004/",
+        "h1": "Felejthetetlen antifocival is lehetett Eb-t nyerni",
+        "txtlength": 15847
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kulfold/2021/06/10/felelem-az-elettol-tulelok-a-felszabaditott-koncentracios-taborokban",
+        "h1": "Félelem az élettől: túlélők a felszabadított koncentrációs táborokban",
+        "txtlength": 15533
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/sport/20210610_kezdo_tizenegy_tippek_jatek_eb_euro2020_bemutatkozas",
+        "h1": "A hvg.hu Kezdő tizenegyében Rossi, Szijjártó, Merkely, Majka, Hrutka – tippel a csodacsapat",
+        "txtlength": 13843
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20210610_fidesz_modosito_pedofiltorveny_homoszexualitas",
+        "h1": "Fideszes módosító a pedofiltörvényhez: tilos 18 év alattiaknak a homoszexualitás bemutatása",
+        "txtlength": 12745
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/ingatlan/20210610_Setaloutca_lehet_a_Nepszinhaz_utcabol",
+        "h1": "Újjászületik a Margit körút, sétálóutca lehet a Népszínház utcából. De mi lesz a Rákóczi úttal?",
+        "txtlength": 12670
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/orban-viktor-bejelentes-kossuth-radio-junius-11-pentek/6tcbkp1?sl_ps=d_3",
+        "h1": "Orbán Viktor: járványügyi, migrációs és gazdasági kérdések is lesznek a konzultációban",
+        "txtlength": 12307
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/meszaros-lorinc-varkonyi-andrea-hazassag/1z0lpv6?sl_ps=d_1",
+        "h1": "Mészáros Lőrinc: válás, Várkonyi Andrea és évi 1200 milliárd – Íme, a leggazdagabb magyar vallomása",
+        "txtlength": 11604
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kozelet/2021/06/11/meszaros-lorinc-varkonyi-andrea-interju-felcsuti-per/",
+        "h1": "Mészáros Lőrinc egy esetleges kormányváltásról: Nincs félnivalóm",
+        "txtlength": 9805
+    },
+    {
         "hostname": "hataratkelo.blog.hu",
         "pagelink": "https://hataratkelo.blog.hu/2021/06/07/holland_lakasvalsag_es_a_bevandorlok",
         "h1": "Holland lakásválság és a bevándorlók",
