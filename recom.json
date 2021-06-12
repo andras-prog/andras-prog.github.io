@@ -1,6 +1,180 @@
 [
     {
         "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/bodzaszirup-telire",
+        "h1": "Bodzaszirup télire",
+        "txtlength": 9713
+    },
+    {
+        "hostname": "hataratkelo.blog.hu",
+        "pagelink": "https://hataratkelo.blog.hu/2021/06/10/magyar_munkakozvetitokent_svajcban",
+        "h1": "Magyar munkaközvetítőként Svájcban",
+        "txtlength": 38241
+    },
+    {
+        "hostname": "hafr.hvgblog.hu",
+        "pagelink": "https://hafr.hvgblog.hu/2020/12/22/a-kapitalizmus-konzervativ-apologiaja/",
+        "h1": "A kapitalizmus konzervatív apológiája",
+        "txtlength": 11308
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/uzlet/20210611/az-e-kereskedelemi-logisztikaban-terjeszkedne-tovabb-a-waberers-tovabbi-akviziciok-johetnek-487458",
+        "h1": "Az e-kereskedelemi logisztikában terjeszkedne tovább a Waberer's, további akvizíciók jöhetnek",
+        "txtlength": 29948
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210609_a_koverezestol_a_hianyzo_nyelvvizsgan_at_a_fudan_egyetemig",
+        "h1": "A kövérezéstől a hiányzó nyelvvizsgán át a Fudan Egyetemig – Karácsony előválasztási küzdelmei",
+        "txtlength": 28395
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210611_kijott_az_ellenzeki_osszefogas_kozos_programtervezete",
+        "h1": "Kiadták az ellenzéki összefogás közös programtervezetét",
+        "txtlength": 23932
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20210612/megszabadul-magyarorszag-valaha-is-a-koronavirustol-487546",
+        "h1": "Megszabadul Magyarország valaha is a koronavírustól?",
+        "txtlength": 20008
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210611_lakastorveny_modositas_berlakasok_varnegyed_borocz_laszlo",
+        "h1": "A politikus dolga, hogy azt képviselje, amit az emberek szeretnének – Böröcz László a Mandinernek",
+        "txtlength": 18519
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/podcast/20210612/nem-kell-messzire-menni-ha-a-kozkiadasok-minosegen-javito-orszagra-keresunk-peldat/",
+        "h1": "Nem kell messzire menni, ha a közkiadások minőségén javító országra keresünk példát",
+        "txtlength": 16877
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/ingatlan/20210611/a-2-3-nap-home-office-mar-okozhat-bajt-jon-a-teruletcsokkentesek-idoszaka-487724",
+        "h1": "A 2-3 nap home office már okozhat bajt - Jön a területcsökkentések időszaka?",
+        "txtlength": 16125
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/kozelet/20210610/sotetebben-latja-europa-jovojet-matolcsy-gyorgy-mint-az-economist/",
+        "h1": "Sötétebben látja Európa jövőjét Matolcsy György, mint az Economist",
+        "txtlength": 15939
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/egeszseg/mozgas-hatfajassal/",
+        "h1": "Mozgással gyógyítható csak az erős hátfájás: gyógytornász és reumatológus mondta el, miért rossz ötlet a passzív pihenés",
+        "txtlength": 15840
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/szorakozas/20210609/uzent-az-otoslotto-uj-milliardosanak-egy-korabbi-nyertes-rejtozz-el-es-vigyazz-a-penzedre-1115303",
+        "h1": "Üzent az Ötöslottó új milliárdosának egy korábbi nyertes: Rejtőzz el, és vigyázz a pénzedre!",
+        "txtlength": 15007
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2021/06/12/miert-van-tobbfele-modellje-a-vilagnak-es-mi-a-zur-az-alternativ-vilagokkal",
+        "h1": "MIÉRT VAN TÖBBFÉLE MODELLJE A VILÁGNAK, ÉS MI A ZŰR AZ ALTERNATÍV VILÁGOKKAL?",
+        "txtlength": 14919
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/gazdasag/20210611/tobb-szazezer-magyar-melos-lep-le-otthonrol-a-megelhetesert-teszik-nincs-mas-valasztasuk-1115356",
+        "h1": "Több százezer magyar melós lép le otthonról: a megélhetésért teszik, nincs más választásuk",
+        "txtlength": 14183
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/szuloseg/generaciok-egy-fedel-alatt/",
+        "h1": "Generációk egy fedél alatt",
+        "txtlength": 11743
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kulfold/2021/06/12/ufo-pentagon-jelentes-foldonkivuliek/",
+        "h1": "Százával látják az ufókat a vadászpilóták, de hihetünk-e nekik?",
+        "txtlength": 23196
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/belfold/2021/06/12/pedofilellenes-torveny-lmbtq-erzekenyites-szexualis-felvilagositas-film-reklam",
+        "h1": "Az ellenzéknek csapdát állít, a melegeket megbélyegzi a pedofília és a másság összemosása",
+        "txtlength": 18364
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/kultura/20210611_szinhazi_tobblettamogatas_dontesek_lovas_szinhaz_a38_szentesi_szinhaz_thealter",
+        "h1": "Kultúra a NER-ben: több százmillió lovas színházra, Vidnyánszkyék milliárdokról dönthetnek",
+        "txtlength": 17379
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/sport/2021/06/12/europa-bajnoksag-b-csoport-elemzes-belgium-dania-finnorszag-oroszorszag",
+        "h1": "A belgák nagy csapatának utolsó esélye lehet az Eb",
+        "txtlength": 16663
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/sport/20210612_EURO_2020_pp",
+        "h1": "Wales-Svájccal kezdődik a második nap, két angol focistát is lovaggá üt a királynő – percről percre közvetítés az Eb-ről a hvg.hu-n",
+        "txtlength": 15170
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/sport/20210611_kezdo_tizenegy_elso_fordulo_tippek_eb_uefa_euro2020",
+        "h1": "Valaki ezt már a kezdésnél csúnyán elszúrhatja – Így tippelt a hvg.hu Kezdő tizenegye az első csoportkörre",
+        "txtlength": 14343
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/tudomany/2021/06/12/koronavirus-covid-19-pszichiatria-jarvany-depresszio-szorongas-skizofrenia-mentalis-problemak/",
+        "h1": "Evolúciós csoda a koronavírus, és szó szerint az idegeinkre megy",
+        "txtlength": 13086
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kultura/2021/06/12/demonok-kozott-az-ordog-kenyszeritett-kritika-horror-vera-farmiga-patrick-wilson/",
+        "h1": "Mire trilógiává érett, elfelejtett félelmetes lenni a Démonok között",
+        "txtlength": 13038
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/06/12/lovasz-laszlo-jobb-lett-volna-ha-a-mar-meglevo-magyar-egyetemek-fejlesztesere-forditjak-a-fudanra-szant-penzt-es-energiat",
+        "h1": "Lovász László: Jobb lett volna, ha a már meglévő magyar egyetemek fejlesztésére fordítják a Fudanra szánt pénzt és energiát",
+        "txtlength": 12045
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/06/11/kohalmi-zoltan-iranymutatast-ker-a-kozmedia-vezetojetol-hogy-tole-ne-vegyek-el-a-karinthy-gyurujet",
+        "h1": "Kőhalmi Zoltán iránymutatást kér a közmédia vezetőjétől, hogy tőle ne vegyék el a Karinthy-gyűrűjét",
+        "txtlength": 11031
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/varkonyi-andrea-meszaros-lorinc-lefogyott-valtozas/drhvnky?sl_ps=d_1",
+        "h1": "Várkonyi Andrea mellett csodát tett a szerelem Mészáros Lőrinccel: elképesztő a változás",
+        "txtlength": 10578
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/blikk-tv/aktualis/covid-koronavirus-szorenyi-peter-elet-es-halal-kozott/s6wjene",
+        "h1": "„10 százalék esélyt adtak a túlélésre” – 96 napot töltött kórházban a COVID miatt Szörényi Péter",
+        "txtlength": 10383
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/szorakozas/2021/06/11/sweet-tooth-netflix-sorozat-kritika",
+        "h1": "Az év legkedvesebb sorozata egy agancsos kisfiú kalandjairól szól a posztapokalipszisben",
+        "txtlength": 10090
+    },
+    {
+        "hostname": "nosalty.hu",
         "pagelink": "https://www.nosalty.hu/recept/kaposztas-teszta",
         "h1": "Káposztás tészta",
         "txtlength": 9651
