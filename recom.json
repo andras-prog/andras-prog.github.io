@@ -1,6 +1,180 @@
 [
     {
         "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/tokeletes-krumplis-teszta-ahogy-mi-szeretjuk",
+        "h1": "Tökéletes krumplis tészta - ahogy mi szeretjük",
+        "txtlength": 11245
+    },
+    {
+        "hostname": "alapblog.hu",
+        "pagelink": "https://alapblog.hu/szegenyek-de-nem-hulyek-sot/",
+        "h1": "SZEGÉNYEK, DE NEM HÜLYÉK! SŐT!",
+        "txtlength": 12707
+    },
+    {
+        "hostname": "kulturpart.hu",
+        "pagelink": "https://kulturpart.blog.hu/2021/06/12/magyarorszag_animacios_nagyhatalom",
+        "h1": "MAGYARORSZÁG ANIMÁCIÓS NAGYHATALOM...",
+        "txtlength": 6154
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210606_tovabb_kesik_mindszenty_biboros_boldogga_avatasa",
+        "h1": "Tovább késik Mindszenty bíboros boldoggá avatása",
+        "txtlength": 20610
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210612_meszaros_adot_is_igert_a_tiborcz_ado_melle_karacsony_gergely_99_mozgalom_jovatetel_program_belfold",
+        "h1": "Mészáros-adót is igért a Tiborcz-adó mellé Karácsony Gergely",
+        "txtlength": 18687
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vilag/20210612/az-olimpia-amely-mar-nem-tunik-olyan-jo-otletnek/",
+        "h1": "Az olimpia, amely már nem tűnik olyan jó ötletnek",
+        "txtlength": 18341
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/elet/20210613/sok-tanart-ujitasra-sarkallt-a-digitalis-oktatas/",
+        "h1": "Sok tanárt újításra sarkallt a digitális oktatás",
+        "txtlength": 18271
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/otthon/20210612/van-egy-kis-gond-a-magyarorszagi-klimakkal-ezt-jobb-ha-tudod-mielott-beut-a-kanikula-1115347",
+        "h1": "Van egy kis gond a magyarországi klímákkal: ezt jobb ha tudod, mielőtt beüt a kánikula",
+        "txtlength": 17862
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/vasarlas/20210610/ennyit-dragult-egy-ev-alatt-a-nyugdijasok-elete-nehez-dolguk-lesz-a-nagybevasarlassal-1115304",
+        "h1": "Ennyit drágult egy év alatt a nyugdíjasok élete: nehéz dolguk lesz a nagybevásárlással",
+        "txtlength": 17497
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210611_momentum_fekete_gyor_andras",
+        "h1": "Fekete-Győr a nyár végén bedobja a törölközőt",
+        "txtlength": 17175
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20210611/bod-peter-akos-eles-kanyar-kovetkezik-magyarorszagon-487312",
+        "h1": "Bod Péter Ákos: éles kanyar következik Magyarországon",
+        "txtlength": 16645
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/global/20210612/sosem-latott-migracios-nyomas-alatt-amerika-bevalhat-joe-biden-mesterterve-487708",
+        "h1": "Sosem látott migrációs nyomás alatt Amerika - Beválhat Joe Biden mesterterve?",
+        "txtlength": 15753
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/krtk/20210612/mennyire-fajna-a-koltsegvetesnek-ha-szabadabban-donthetnenk-a-nyugdijba-vonulasrol-ime-a-szamok-487188",
+        "h1": "Mennyire fájna a költségvetésnek, ha szabadabban dönthetnénk a nyugdíjba vonulásról? Íme a számok",
+        "txtlength": 15258
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2021/06/13/miert-etetjuk-az-allatokat",
+        "h1": "MIÉRT ETETJÜK AZ ÁLLATOKAT?",
+        "txtlength": 14763
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/egeszseg/dr-szondy-klara-tudogyogyasz/",
+        "h1": "A tüdőgyógyász, aki minden elvesztett betegével meghalt: Dr. Szondy Klára szerint sokan daganattal sem tudnak leszokni",
+        "txtlength": 11938
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/lajfhekk/wc-be-esett-telefon/",
+        "h1": "WC-be esett telefon",
+        "txtlength": 11019
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kultura/2021/06/12/rabszolgatartas-film-mozi-sorozat-fold-alatti-vasut-12-ev-rabszolgasag-tamas-batya-kunyhoja-elfujta-a-szel-egy-nemzet-szuletese/",
+        "h1": "Hazug nosztalgia és szenvedéspornó – végletek közt hullámzik a rabszolgatartás filmes feldolgozása",
+        "txtlength": 24517
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/06/12/a-meddosegi-centrumok-allamositasaval-a-csaladbarat-kormany-csak-eluldozi-a-csaladra-vagyokat",
+        "h1": "A meddőségi centrumok államosításával a családbarát kormány csak elüldözi a családra vágyókat",
+        "txtlength": 22347
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kultura/2021/06/13/spangli-chabon-fenegyerekek-matine/",
+        "h1": "Spanglizás közben lepte meg a kertben tanárát a diák",
+        "txtlength": 20558
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/sport/2021/06/13/foci-eb-c-csoport-eszak-macedonia-ausztria-hollandia-ukrajna",
+        "h1": "Ahonnan a váratlan meglepetés érkezhet az Európa-bajnokságon",
+        "txtlength": 18576
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://eb2020.24.hu/hirek/2021/06/13/foci-eb-2020-eszak-macedonia-elso-europa-bajnoksaga/",
+        "h1": "A legszerencsésebb válogatott története első Európa-bajnokságára készül",
+        "txtlength": 17711
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/belfold/2021/06/12/alapjarat-hasznalt-auto-csapda-idos-tulaj-keveset-futott-alig-hasznalt",
+        "h1": "Az évszázad tévedése, hogy mindig az idős tulaj keveset futott autóját jó megvenni",
+        "txtlength": 17121
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/kultura/20210612_peli_tamas_szuletes_roma_kultura_festeszet_BTM",
+        "h1": "Negyven év sötétség után a szemünk láttára születik újjá a roma eredetmítosz",
+        "txtlength": 16671
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/sport/2021/06/13/europa-bajnoksag-d-csoport-anglia-horvatorszag-skocia-csehorszag",
+        "h1": "Az angolok már az első meccsükön bosszút állhatnak, de nem ez lesz az egyetlen kemény menet",
+        "txtlength": 16581
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20210612_karacsony_jovatetel_program",
+        "h1": "Karácsony Gergely: Jóvátételt adunk az elmúlt évtized bűneiért és káraiért",
+        "txtlength": 15501
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://foci.444.hu/2021/06/12/ezek-most-nem-azok-az-olaszok",
+        "h1": "Ezek most nem azok az olaszok",
+        "txtlength": 14961
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/tudomany/20210612_hisense_100l5f_lezerteve_teszt_velemeny",
+        "h1": "Ha igazán nagy képernyő kell: kipróbáltuk a Hisense lézertévéjét",
+        "txtlength": 13887
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/kadar-janos-balatonvilagos-villa-multidezes/48bpq0k",
+        "h1": "Valódi kísértetkastéllyá vált Kádár János egykori villája, már ami megmaradt belőle",
+        "txtlength": 13029
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/rippl-ronai-tarsashaz-raepites-csod-tonkretett-lakas/9gjpg5y",
+        "h1": "„Tizennégy éve ez a rom az otthonunk, a felelősök eltűntek” – Tönkretette Csenge otthonát és életét a csődbe vitt cég",
+        "txtlength": 9857
+    },
+    {
+        "hostname": "nosalty.hu",
         "pagelink": "https://www.nosalty.hu/recept/bodzaszirup-telire",
         "h1": "Bodzaszirup télire",
         "txtlength": 9713
