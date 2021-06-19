@@ -1,6 +1,174 @@
 [
     {
         "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/tejfolos-gombaporkolt",
+        "h1": "Tejfölös gombapörkölt",
+        "txtlength": 10628
+    },
+    {
+        "hostname": "hataratkelo.blog.hu",
+        "pagelink": "https://hataratkelo.blog.hu/2021/06/17/hol_toltened_eleted_hatralevo_reszet#c40726324",
+        "h1": "Hol töltenéd életed hátralévő részét?",
+        "txtlength": 19574
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210615_fontos_hogy_merjuk_megelni_az_erzeseinket_dr_kadar_annamaria_a_mandinernek",
+        "h1": "„Fontos, hogy merjük megélni az érzéseinket” – Kádár Annamária a Mandinernek",
+        "txtlength": 24934
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/oktatas/20210616/na-ezert-vandorolnak-el-fiatalok-tomegevel-az-orszagbol-ez-varja-oket-1115455",
+        "h1": "Na ezért vándorolnak el fiatalok tömegével az országból: ez várja őket",
+        "txtlength": 24915
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20210619/kulfoldi-nyaralast-tervezel-itt-a-friss-lista-ahol-elfogadjak-a-magyar-vedettsegi-igazolvanyt-488740",
+        "h1": "Külföldi nyaralást tervezel? Itt a friss lista, ahol elfogadják a magyar védettségi igazolványt",
+        "txtlength": 24732
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/prof/20210618/pont-a-lenyeget-ertik-felre-ez-a-rendszer-termeszetesen-jott-letre-nem-rank-eroltettek-486186",
+        "h1": "Pont a lényegét értik félre: Ez a rendszer természetesen jött létre, nem ránk erőltették",
+        "txtlength": 20835
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vallalat/20210617/belefaradtak-a-multis-es-a-gyari-munkaba-letrehoztak-egy-peldamutato-biogazdasagot/",
+        "h1": "Belefáradtak a multis és a gyári munkába, létrehoztak egy példamutató biogazdaságot",
+        "txtlength": 20061
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2021/06/18/egy-demokracia-nemhogy-illiberalis-de-meg-kereszteny-sem-lehet",
+        "h1": "EGY DEMOKRÁCIA NEMHOGY ILLIBERÁLIS, DE MÉG KERESZTÉNY SEM LEHET",
+        "txtlength": 19327
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/penz/20210618/tenyleg-elkerulhetetlen-a-nyugdijrendszer-osszeomlasa/",
+        "h1": "Tényleg elkerülhetetlen a nyugdíjrendszer összeomlása?",
+        "txtlength": 19213
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20210619/6-fa-vagy-60-nap-aram-nelkul-488568",
+        "h1": "6 fa vagy 60 nap áram nélkül?",
+        "txtlength": 17407
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210618_tovabb_fogy_az_mszp_ha_nem_megy_magatol_kizarjak_a_partbol_a_dk_hoz_huzo_molnar_gyulat",
+        "h1": "Tovább fogy az MSZP: ha nem megy magától, kizárják a pártból a DK-hoz húzó Molnár Gyulát",
+        "txtlength": 16113
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210619_george_floyd_szobrot_kapott_amerikaban",
+        "h1": "George Floyd szobrot kapott Amerikában",
+        "txtlength": 15364
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/szorakozas/20210615/ordoguzes-divatbemutato-lovoldozes-a-magyar-mozikban-mi-kell-meg-hogy-becsabitsak-a-nezoket-1115445",
+        "h1": "Ördögűzés, divatbemutató, lövöldözés a magyar mozikban: mi kell még, hogy becsábítsák a nézőket?",
+        "txtlength": 15354
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/kapcsolat/hitler-anyja-klara-polzl/",
+        "h1": "Ő volt az egyetlen ember, akit Hitler igazán szeretett: utolsó napjaiban is magánál tartotta anyja, Klara Pölzl képét",
+        "txtlength": 12430
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/szuloseg/nyafogas-ellen/",
+        "h1": "Nyafogás ellen",
+        "txtlength": 11843
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://qubit.hu/2021/06/18/egy-demokracia-nemhogy-illiberalis-de-meg-kereszteny-sem-lehet",
+        "h1": "EGY DEMOKRÁCIA NEMHOGY ILLIBERÁLIS, DE MÉG KERESZTÉNY SEM LEHET",
+        "txtlength": 19327
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/06/19/32-evesen-mehet-neki-a-vilag-legnagyobb-monopoliumainak",
+        "h1": "32 évesen mehet neki a világ legnagyobb monopóliumainak",
+        "txtlength": 16321
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/eszkombajn/2021/06/19/nemet-gyerekkonyv-struwwelpeter-kocos-peti-horror-hitler",
+        "h1": "Egy német orvos horrormeséket írt a gyerekének, száz évvel később ezekkel gúnyolták Hitlert",
+        "txtlength": 15795
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/sport/20210618_Kezdo_tizenegy_tippek_meglepetes_eb",
+        "h1": "Kezdő tizenegy: Magyar elődöntő, francia kiesés a 16 között, vagy sima spanyol alázás lesz az Eb meglepetése?",
+        "txtlength": 14698
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/cegauto/20210619_771_loeros_shelby_gt500_teszt_menetproba_velemeny",
+        "h1": "Pokoli mennyország: meghajtottuk a 771 lóerős Shelby GT500-at",
+        "txtlength": 14636
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kulfold/2021/06/19/brazilia-flordelis-predikator-egyhaz-gyilkossag-nyomornegyed-orokbefogadott-gyerekek/",
+        "h1": "Gyilkosságért kell felelnie a prédikátornak, aki 55 gyereket adoptált",
+        "txtlength": 14542
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kulfold/2021/06/19/melegellenes-torveny-margaret-thatcher-nagy-britannia-lmbt/",
+        "h1": "Nem tudta, mit jelent melegnek lenni, csak azt tudta, hogy szégyenkeznie kell miatta, mivel a törvény is ezt sugallta",
+        "txtlength": 13613
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20210619_magyar_francia_beharangozo",
+        "h1": "Egy cél lehet a franciák ellen: boldoggá tenni a közönséget",
+        "txtlength": 13500
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/politika/szovjet-csapatok-magyarorszag-horn-gyula-demszky-gabor-kosa-lajos/dj89yss?sl_ps=d_11",
+        "h1": "„Meghallott a szovjet külügyminiszter, nagy purparlé kerekedett” – Demszky Gábor is ott volt, amikor Moszkvában eldőlt: kivonják az orosz csapatokat",
+        "txtlength": 13198
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/tudomany/2021/06/19/kartevo-leveltetu-kajszi-idegenhonos-faj/",
+        "h1": "Új kártevő terjed hazánkban",
+        "txtlength": 12698
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/tudomany/2021/06/18/velencei-to-halpusztulas-meleg-oxigenhiany-algak",
+        "h1": "Egyszerűen megfulladtak azok a halak, amelyek tetemei tömegesen úszkálnak a Velencei-tavon",
+        "txtlength": 11720
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kult/2021/06/19/lackfi-janos-madar-tudomanyos-akademia-telextarcak-tarcanovella",
+        "h1": "Lackfi János: Madár Tudományos Akadémia",
+        "txtlength": 10715
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/balaton-volan-vonat-nyari-menetrend/5vzetyj",
+        "h1": "Mostantól a nyári menetrend érvényes: erre számítsanak azok, akik a Balatonra utaznának",
+        "txtlength": 10118
+    },
+    {
+        "hostname": "nosalty.hu",
         "pagelink": "https://www.nosalty.hu/recept/zoldborsofozelek-viciko-konyhajabol",
         "h1": "Zöldborsófőzelék - Vicikó konyhájából",
         "txtlength": 9860
