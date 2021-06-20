@@ -1,6 +1,174 @@
 [
     {
         "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/legfinomabb-bodzaszorp",
+        "h1": "Legfinomabb bodzaszörp",
+        "txtlength": 11497
+    },
+    {
+        "hostname": "hataratkelo.blog.hu",
+        "pagelink": "https://hataratkelo.blog.hu/2021/06/17/hol_toltened_eleted_hatralevo_reszet",
+        "h1": "Hol töltenéd életed hátralévő részét?",
+        "txtlength": 20761
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/vasarlas/20210618/kiderult-mi-lehet-az-aldi-lidl-tesco-csodafegyvere-ez-dontheti-el-a-bolthaboru-sorsat-1115519",
+        "h1": "Kiderült, mi lehet az Aldi, Lidl, Tesco csodafegyvere: ez döntheti el a boltháború sorsát?",
+        "txtlength": 24721
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vilag/20210620/a-jarvany-sokkal-lathatobba-tette-az-ingatlanpiacon-a-tarsadalom-szetszakadasat/",
+        "h1": "A járvány sokkal láthatóbbá tette az ingatlanpiacon a társadalom szétszakadását",
+        "txtlength": 24538
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/befektetes/20210619/a-tozsdecapa-aki-miatt-eltunt-a-porno-nagy-resze-a-netrol-488680",
+        "h1": "A tőzsdecápa, aki miatt eltűnt a pornó nagy része a netről",
+        "txtlength": 23740
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210616_ferenc_papa_budapesten_mi_lehet_a_hatterben",
+        "h1": "Ferenc pápa Budapesten – mi lehet a háttérben?",
+        "txtlength": 22024
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/uzlet/20210619/mi-tortenik-itt-lecserelodtek-a-foci-eb-foszponzorai-488572",
+        "h1": "Mi történik itt? Lecserélődtek a foci-Eb főszponzorai",
+        "txtlength": 20549
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/podcast/20210619/juliusban-elindulhat-a-kormany-uj-rezsiharca-brusszelben/",
+        "h1": "Júliusban elindulhat a kormány új rezsiharca Brüsszelben",
+        "txtlength": 18484
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210619_orban_30_eve_szabadon",
+        "h1": "Orbán: Mi, nemzeti alapon álló demokraták állunk szemben a birodalomépítőkkel",
+        "txtlength": 18347
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/egeszseg/20210617/nyakunkon-a-negyedik-hullam-csak-igy-vedhetjuk-meg-magunkat-az-indiai-mutanstol-1115509",
+        "h1": "Nyakunkon a negyedik hullám? Csak így védhetjük meg magunkat az indiai mutánstól",
+        "txtlength": 17110
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210619_rossi_ez_palyafutasom_egyik_legszebb_napja",
+        "h1": "Rossi: Ez pályafutásom egyik legszebb napja",
+        "txtlength": 16430
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/egeszseg/magyar-superfood/",
+        "h1": "6 magyar superfood, amiről sokan nem tudják, milyen egészséges: tele vannak vitaminokkal",
+        "txtlength": 16030
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20210618/akkora-beremeles-johet-magyarorszagon-amit-mindenki-megemleget-488526",
+        "h1": "Akkora béremelés jöhet Magyarországon, amit mindenki megemleget",
+        "txtlength": 15221
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2021/06/18/a-mehek-utan-budapesten-legelo-juhnyajakrol-almodik-bardoczi-sandor-a-varos-fotajepitesze",
+        "h1": "A MÉHEK UTÁN BUDAPESTEN LEGELŐ JUHNYÁJAKRÓL ÁLMODIK BARDÓCZI SÁNDOR, A VÁROS FŐTÁJÉPÍTÉSZE",
+        "txtlength": 12298
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/szuloseg/megallo-csoport-drogos-gyerek/",
+        "h1": "Drogos gyerek Megálló csoport",
+        "txtlength": 10868
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kultura/2021/06/20/razartak-az-ajtot-a-svedorszag-legveszelyesebb-sorozatgyilkosanal-vizitalo-fiatal-orvosra/",
+        "h1": "Rázárták az ajtót a Svédország legveszélyesebb sorozatgyilkosánál vizitáló fiatal orvosra",
+        "txtlength": 25787
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/06/20/a-katolikus-egyhaz-indit-vizsgalatokat-a-szexualis-visszaelesek-felderitesere-csak-nem-magyarorszagon",
+        "h1": "A katolikus egyház indít vizsgálatokat a szexuális visszaélések felderítésére, csak nem Magyarországon",
+        "txtlength": 22120
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://foci.444.hu/2021/06/19/miert-van-tele-az-europa-bajnoksag-kinai-reklamokkal",
+        "h1": "Miért van tele az Európa-bajnokság kínai reklámokkal?",
+        "txtlength": 15508
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2021/06/20/berki-krisztian-buntetofekezes-ugyeszseg-ajanlat-itelet-sandor-zsuzsa-velemeny/",
+        "h1": "Jól számolt-e Berki Krisztián, amikor elutasította a két és fél év börtönt?",
+        "txtlength": 14843
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://eb2020.24.hu/hirek/2021/06/20/magyarorszag-franciaorszag-foci-eb-velemeny-szurkoloi-reakciok/",
+        "h1": "A magyar válogatott nem törődött bele, hogy a szimpatikus vesztes szerepét osszák rá a halálcsoportban",
+        "txtlength": 14781
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/gazdasag/2021/06/20/30-eves-a-karpotlasi-jegy-csak-eppen-az-unnepeltrol-sajnos-mindenki-elfeledkezett",
+        "h1": "30 éves a kárpótlási jegy, csak éppen az ünnepeltről sajnos mindenki elfeledkezett",
+        "txtlength": 13416
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kulfold/2021/06/20/kis-trianonja-arnyekaban-valaszt-ormenyorszag",
+        "h1": "Kis trianonja árnyékában választ Örményország",
+        "txtlength": 12818
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/veszhelyzet/velencei-to-halpusztulas-horgaszok-turizmus/74tmzyk?sl_ps=d_5",
+        "h1": "Fekete nap a Velencei tónál, pusztulnak a halak, most már az is megvan, miért",
+        "txtlength": 12122
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kulfold/2021/06/19/oroszorszag-koronavirus-ujabb-hullam-korlatozas",
+        "h1": "Egyre több helyen kötelező oltásra térnek át Oroszországban a túl korai nyitás után",
+        "txtlength": 11959
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/sport/20210620_Egy_csapat_ma_biztos_bucsuzik_az_Ebtol__percrol_percre_a_torna_utolso_csoportkorenek_elso_napjarol",
+        "h1": "Egy csapat ma biztos búcsúzik az Eb-től - percről percre a torna utolsó csoportkörének első napjáról",
+        "txtlength": 11334
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/gazdasag/20210620_Es_akkor_autopalya_lmbt_foci",
+        "h1": "És akkor bárki viheti az autópályákat, csak ne beszéljen a melegekről",
+        "txtlength": 11163
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/sztarvilag/kultura/soos-imre-szinesz-gyilkossagi-ugye/rebtphk?sl_ps=d_4",
+        "h1": "„Anyu, ne bántsatok senkit, én vagyok a gyilkos” – Máig él a gyanú: a felesége ölte meg a népszerű magyar színészt",
+        "txtlength": 11041
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20210619_orban_brusszel_soros_szovjet_csapatok_kivonulasa",
+        "h1": "Orbán Viktor pontokba szedve mondta el, hogy alakítaná át az Európai Uniót",
+        "txtlength": 10049
+    },
+    {
+        "hostname": "nosalty.hu",
         "pagelink": "https://www.nosalty.hu/recept/tejfolos-gombaporkolt",
         "h1": "Tejfölös gombapörkölt",
         "txtlength": 10628
