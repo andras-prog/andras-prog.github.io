@@ -1,6 +1,180 @@
 [
     {
         "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/vegyes-gyumolcsleves-vicikotol",
+        "h1": "Vegyes gyümölcsleves Vicikótól",
+        "txtlength": 10379
+    },
+    {
+        "hostname": "hataratkelo.blog.hu",
+        "pagelink": "https://hataratkelo.blog.hu/2021/06/20/magyarok_a_vilag_kozepen_vagy_megsem",
+        "h1": "Magyarok a világ közepén - vagy mégsem?",
+        "txtlength": 17996
+    },
+    {
+        "hostname": "kulturpart.hu",
+        "pagelink": "https://kulturpart.blog.hu/2021/06/18/lesz_fesztival_kisvardan",
+        "h1": "ÚJRA FESZTIVÁL LESZ KISVÁRDÁN",
+        "txtlength": 8660
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/vasarlas/20210620/megszolalt-az-aldi-tesco-spar-a-bevasarlas-mar-soha-nem-lesz-olyan-mint-regen-1115540",
+        "h1": "Megszólalt az ALDI, Tesco, Spar: a bevásárlás már soha nem lesz olyan, mint régen",
+        "txtlength": 18474
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vallalat/20210621/sok-helyen-ujra-munkaerohiany-van-pedig-kulfoldre-meg-el-sem-indultak-vissza-a-magyarok/",
+        "h1": "Sok helyen újra munkaerőhiány van, pedig külföldre még vissza sem indultak a magyarok",
+        "txtlength": 18167
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/vasarlas/20210616/forradalmi-valtozas-a-magyar-boltokban-ezzel-csabitjak-be-a-vasarlokat-1115480",
+        "h1": "Forradalmi változás a magyar boltokban: ezzel csábítják be a vásárlókat",
+        "txtlength": 18156
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210619_iskolapadbol_a_frontvonalba_egyetemistak_a_jarvanyidoszakrol_a_mandinernek",
+        "h1": "Iskolapadból a frontvonalba – egyetemisták a járványidőszakról a Mandinernek",
+        "txtlength": 17863
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210620_fischer_adam_szerint_trianon_elott_nem_volt_magyar_az_orszag",
+        "h1": "Fischer Ádám szerint Trianon előtt nem volt magyar az ország",
+        "txtlength": 17455
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20210621/emberemlekezet-ota-nem-latott-lepesre-keszul-az-mnb-eleg-lesz-ez-a-befektetoknek-488862",
+        "h1": "Emberemlékezet óta nem látott lépésre készül az MNB – Elég lesz ez a befektetőknek?",
+        "txtlength": 17249
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vilag/20210619/dubajba-menekult-torok-maffiozo-a-youtube-on-boritotta-az-asztalt-erdoganra/",
+        "h1": "Dubajba menekült török maffiózó a Youtube-on borította az asztalt Erdoganra",
+        "txtlength": 16803
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/global/20210620/zsoldosok-tizezreinek-szunhet-meg-a-munkaja-libiaban-veget-vetnenek-a-nagyhatalmak-marakodasanak-berlinben-488858",
+        "h1": "Zsoldosok tízezreinek szűnhet meg a munkája Líbiában - Véget vetnének a nagyhatalmak marakodásának Berlinben",
+        "txtlength": 16690
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210620_magyar_szurkolok_es_az_ellenzeki_megmondoemberek",
+        "h1": "„Fekete ruhás, artikulátlanul üvöltő emberek”, „félelmetes csoport” – így támadja a magyar drukkereket a baloldali média",
+        "txtlength": 15564
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/global/20210620/heves-kuzdelem-zajlik-merkel-szekeert-itt-az-ujabb-izgalmas-fordulat-488766",
+        "h1": "Heves küzdelem zajlik Merkel székéért, itt az újabb izgalmas fordulat",
+        "txtlength": 15507
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/gyerek/hegmesek-csaszarral-szult-anyak/",
+        "h1": "\"Anyuka! Van, aki tud szülni, van, aki nem tud. Ön nem tud\": 2 magyar édesanya hegtörténete",
+        "txtlength": 11850
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2021/06/21/boven-van-mit-javitani-a-halalos-virusokat-kezelo-laborok-biztonsaganak-szabalyozasan",
+        "h1": "BŐVEN VAN MIT JAVÍTANI A HALÁLOS VÍRUSOKAT KEZELŐ LABOROK BIZTONSÁGÁNAK SZABÁLYOZÁSÁN",
+        "txtlength": 11356
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/lajfhekk/napeges-erzekeny-testreszek/",
+        "h1": "Napégés érzékeny testrészek",
+        "txtlength": 7870
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/06/20/12904-ez-az-anyukam-a-koronavirus-aldozatainak-el-nem-mondott-tortenete",
+        "h1": "12904. Ez az anyukám – A koronavírus áldozatainak el nem mondott története",
+        "txtlength": 36202
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/06/20/ok-vannak-a-covid-statisztika-mogott",
+        "h1": "Ők vannak a Covid-statisztika mögött",
+        "txtlength": 29318
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/tudomany/2021/06/20/gyilkossag-muvesz-reneszansz-cellini/",
+        "h1": "Több embert is megölt a világhírű művész",
+        "txtlength": 22739
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kulfold/2021/06/20/marokko-hasis-bergyilkosok-marbella/",
+        "h1": "„Ha valamivel próbálkozol, megölünk” – így élnek a marokkói hasiskirályok, nápolyi bérgyilkosok, albán verőemberek a turistaparadicsomban",
+        "txtlength": 18858
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/belfold/2021/06/21/a-fidesz-nem-veletlenul-most-vette-elo-a-melegeket-de-van-ennek-egy-veszelye-elemzes",
+        "h1": "A Fidesz nem véletlenül most vette elő a melegeket, de van ennek egy veszélye",
+        "txtlength": 17690
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/sport/20210621_foci_eb_euro2020_",
+        "h1": "Két csoport, megannyi kérdés – percről percre a foci-Eb 11. napjáról",
+        "txtlength": 16542
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kulfold/2021/06/20/trump-igazsagugy-fbi-usa-egyesult-allamok-lehallgatas-adatgyujtes-kongresszus",
+        "h1": "Fél évvel bukása után adatgyűjtési botrány dagad Trump körül",
+        "txtlength": 15324
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2021/06/21/romania-pfizer-sinopharm-kinai-vakcina-harmadik-oltas/",
+        "h1": "Romániába mennek Pfizerért a kínai vakcinával oltott, aggódó magyarok",
+        "txtlength": 14693
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/szorakozas/2021/06/21/loki-marvel-sorozat-the-variant-magyarazo-masodik-resz",
+        "h1": "Mit szólnak a Bosszúállók, ha Loki megnyeri a Tour de France-t?",
+        "txtlength": 12653
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/sport/20210620_olaszorszag_wales_svajc_torokorszag_harmadik_csoportkor",
+        "h1": "Véget értek az A csoport meccsei: Olaszország poénból verte Walest, Svájc jó eséllyel belőtte magát az Eb legjobb 16 csapata közé",
+        "txtlength": 11794
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/tudomany/20210621_smog_1_muhold_asztrofizikai_muhold_gamma_sugarzas",
+        "h1": "Magyar siker a világűrben: jól dolgozik az asztrofizikai kisműhold",
+        "txtlength": 10968
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/sztarvilag/kultura/soos-imre-szinesz-gyilkossagi-ugye/rebtphk",
+        "h1": "„Anyu, ne bántsatok senkit, én vagyok a gyilkos” – Máig él a gyanú, hogy a felesége ölte meg a népszerű magyar színészt",
+        "txtlength": 10866
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/balint-gazda-halala-evfordulo/7ddxdc5?sl_ps=d_10",
+        "h1": "Lefogyva, meggyötörten tért haza – Egy éve nincs köztünk Bálint gazda, akit se a nácik, se a kommunisták nem tudtak megtörni",
+        "txtlength": 9301
+    },
+    {
+        "hostname": "nosalty.hu",
         "pagelink": "https://www.nosalty.hu/recept/legfinomabb-bodzaszorp",
         "h1": "Legfinomabb bodzaszörp",
         "txtlength": 11497
