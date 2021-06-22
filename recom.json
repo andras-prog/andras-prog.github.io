@@ -1,6 +1,180 @@
 [
     {
         "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/egyszeru-vajbabfozelek",
+        "h1": "Egyszerű vajbabfőzelék",
+        "txtlength": 10913
+    },
+    {
+        "hostname": "hataratkelo.blog.hu",
+        "pagelink": "https://hataratkelo.blog.hu/2021/06/21/se_gyozni_se_vesziteni#c40737030",
+        "h1": "Se győzni, se veszíteni",
+        "txtlength": 21850
+    },
+    {
+        "hostname": "hafr.hvgblog.hu",
+        "pagelink": "https://hafr.hvgblog.hu/2020/11/22/a_magyar_nep_szenvedni_fog/",
+        "h1": "A magyar nép szenvedni fog",
+        "txtlength": 9270
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210701_nem_adom_meg_magam_tamadok_kotter_tamas_a_mandinernek",
+        "h1": "Nem adom meg magam, támadok! – Kötter Tamás a Mandinernek",
+        "txtlength": 30152
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/kozelet/20210622/az-uthalozat-legjobb-reszet-passzolja-le-a-kormany-35-evre-a-tonkrement-utak-maradnak-az-allam-nyakan/",
+        "h1": "Az úthálózat legjobb részét passzolja le a kormány 35 évre, a tönkrement utak maradnak az állam nyakán",
+        "txtlength": 28324
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/kozelet/20210621/egy-nagy-port-kavart-nyugdijjavaslat-vedelmeben/",
+        "h1": "Egy nagy port kavart nyugdíjjavaslat védelmében",
+        "txtlength": 19223
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/otthon/20210621/ezekkel-a-filleres-trukkokkel-hutheted-le-a-lakast-igy-klima-nelkul-is-elviselheto-a-hoseg-1115593",
+        "h1": "Ezekkel a filléres trükkökkel hűtheted le a lakást: így klíma nélkül is elviselhető a hőség",
+        "txtlength": 17825
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210621_karacsony_gergely_koruti_biciklisav_parkolas_vegel_tamas_interju",
+        "h1": "A legjobban az dühít, hogy válaszra sem méltatnak – interjúnk egy Karácsony biciklisávja miatt komoly veszteséget szenvedő körúti üzlettulajdonossal",
+        "txtlength": 16514
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/szuloseg/szabados-agi-konyvnyero-interju/",
+        "h1": "Szabados Ági könyvnyerő interjú",
+        "txtlength": 16398
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/ingatlan/20210621/elovasarlasi-jog-akar-evek-mulva-is-megtamadhato-az-adasveteli-szerzodes-489028",
+        "h1": "Elővásárlási jog: akár évek múlva is megtámadható az adásvételi szerződés",
+        "txtlength": 16156
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/202106201_nemetorszag_zoldek_annalena_baerbock",
+        "h1": "Elakadt a német Zöldek diadalmenete",
+        "txtlength": 15952
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20210621/9-eves-csucson-a-benzin-8-eves-csucson-a-gazolaj-ara-kozel-a-tortenelmi-rekord-489058",
+        "h1": "9 éves csúcson a benzin, 8 éves csúcson a gázolaj ára – közel a történelmi rekord",
+        "txtlength": 15952
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/utazas/20210619/sorra-zarnak-be-a-balatoni-szabadstrandok-egyre-kevesebb-helyen-furodhetunk-ingyen-1115539",
+        "h1": "Sorra zárnak be a balatoni szabadstrandok: egyre kevesebb helyen fürödhetünk ingyen",
+        "txtlength": 15202
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20210621/napelem-allami-tamogatassal-nagy-valtozasra-keszulve-hajrazik-a-piac-489036",
+        "h1": "Napelem állami támogatással: nagy változásra készülve hajrázik a piac",
+        "txtlength": 14699
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2021/06/22/europaban-is-atveheti-az-uralmat-a-delta-virusvarians",
+        "h1": "EURÓPÁBAN IS ÁTVEHETI AZ URALMAT A DELTA VÍRUSVARIÁNS",
+        "txtlength": 12244
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/utazas/tortenelmi-terkepek/",
+        "h1": "A történelem legérdekesebb térképei: az i. e. 6. századi Babilonban készült ábrán különös feliratok olvashatók",
+        "txtlength": 11402
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2021/06/22/simonka-gyorgy-fidesz-bekes-megye-korrupcio-buncselekmeny-interju/",
+        "h1": "Simonka György: Kétkedve fogadom, hogy a miniszterelnök kevesebbet tud az ügyemről, mint én",
+        "txtlength": 23420
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2021/06/21/tanarhiany-kemia-termeszettudomany-elte-szalay-luca/",
+        "h1": "Ilyen körülmények között csak a legelszántabbak mennek kémiatanárnak",
+        "txtlength": 22151
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/gazdasag/2021/06/22/a-moratorium-mar-csak-magyarorszagon-tema-legfeljebb-raszorultsagi-alapon-szabadna-adni",
+        "h1": "A moratórium már csak Magyarországon téma, legfeljebb rászorultsági alapon lenne szabad adni",
+        "txtlength": 21268
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/06/21/hat-jojjenek-ram-a-rendorok-ha-en-beszelgetek-a-tanitvanyaimmal-arrol-hogy-szabad-egymast-szeretni",
+        "h1": "„Hát jöjjenek rám a rendőrök, ha én beszélgetek a tanítványaimmal arról, hogy szabad egymást szeretni”",
+        "txtlength": 19373
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/gazdasag/20210622_kamatemeles_elozetes_monetaris_tanacs_matolcsy",
+        "h1": "Árt-e a Fidesznek a jegybank, ha most a kanyarban előzés helyett a kanyarban fékez?",
+        "txtlength": 17249
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/06/21/hiaba-van-vakcinajuk-rarobbant-a-jarvany-oroszorszagra-valaszul-elkezdtek-kotelezove-tenni-az-oltast",
+        "h1": "Hiába van vakcinájuk, rárobbant a járvány Oroszországra, válaszul elkezdték kötelezővé tenni az oltást",
+        "txtlength": 16450
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/eurologus/20210622_Jogalom_6_hetes_cikk_meghallgatas_homofobtorveny",
+        "h1": "A homofóbtörvényről és az egyetemek átalakításáról is faggathatják ma Varga Juditot az uniós miniszterek",
+        "txtlength": 15368
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kultura/2021/06/21/bardos-katalin-kut-rendelo-interju-kut-alapitvany-holokauszt-tulelok-traumaatorokites/",
+        "h1": "Még a harmadik generáció is megőrzi a vészkorszak szörnyűségét",
+        "txtlength": 15293
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/sport/20210622_eb_tizenkettedik_nap_pp",
+        "h1": "Két biztos továbbjutó, két nyolcaddöntőért harcoló: pályán a D-csoport – élőben a foci-Eb tizenkettedik napjáról",
+        "txtlength": 14584
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/belfold/2021/06/22/szja-visszaterites-valasztas-fidesz-orban-penzosztas",
+        "h1": "Orbán választási pénzesője megmutatja, mennyire kiélezett versenyre készül a Fidesz 2022-ben",
+        "txtlength": 13631
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/banyai-gabor-koronavirus-lelegeztetogep-felepules-betegseg/2zrb5c1?sl_ps=d_1",
+        "h1": "„Beöltözött embereket láttam, nem tudtam, hol vagyok, haza akartam menni, sírtam” – A covid-túlélő Bányai Gábor fideszes képviselő drámai vallomása",
+        "txtlength": 10496
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/sport/2021/06/21/futball-foci-eb-ukrajna-ausztria-csoportkor",
+        "h1": "Az ukránok elfelejtették, hogy a továbbjutás a tét, Ausztria Eb-történelmet írt",
+        "txtlength": 10454
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/hosegriado-muller-cecilia-kormanyrendelet-idojaras/30z84cn?sl_ps=d_6",
+        "h1": "Elrendelték a harmadfokú riasztást a meleg miatt: életbe lépett a hőségriadó az országban",
+        "txtlength": 9840
+    },
+    {
+        "hostname": "nosalty.hu",
         "pagelink": "https://www.nosalty.hu/recept/vegyes-gyumolcsleves-vicikotol",
         "h1": "Vegyes gyümölcsleves Vicikótól",
         "txtlength": 10379
