@@ -1,6 +1,180 @@
 [
     {
         "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/cseresznyes-pite-gizi-konyhajabol",
+        "h1": "Cseresznyés pite Gizi konyhájából",
+        "txtlength": 10850
+    },
+    {
+        "hostname": "hataratkelo.blog.hu",
+        "pagelink": "https://hataratkelo.blog.hu/2021/06/21/se_gyozni_se_vesziteni",
+        "h1": "Se győzni, se veszíteni",
+        "txtlength": 26745
+    },
+    {
+        "hostname": "hafr.hvgblog.hu",
+        "pagelink": "https://hafr.hvgblog.hu/2020/12/04/a_nemetek_szerepe_az_orban-rezsim_eddigi_stabilitasaban/",
+        "h1": "A németek szerepe az Orbán-rezsim eddigi stabilitásában",
+        "txtlength": 9074
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210616_csehul_allnak",
+        "h1": "Csehül állnak – folyamatos politikai vihar és kormányválság Prágában",
+        "txtlength": 24869
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210623_svedorszag_lofven",
+        "h1": "Így buktattak kormányfőt Svédországban",
+        "txtlength": 21802
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vilag/20210623/magyar-gyarakat-is-megbenitanak-a-delkelet-azsiai-jarvanygocok/",
+        "h1": "Magyar gyárakat is megbénítanak a délkelet-ázsiai járványgócok",
+        "txtlength": 21711
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/oktatas/20210621/itt-all-feketen-feheren-ennyire-alacsony-a-magyar-tanarok-fizetese-1115565",
+        "h1": "Itt áll feketén-fehéren: ennyire alacsony a magyar tanárok fizetése",
+        "txtlength": 20588
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210616_sosem_lehetett_ilyen_jo_anyagi_lehetosegek_mellett_tanulni",
+        "h1": "Sosem lehetett ilyen jó anyagi lehetőségek mellett tanulni – Magyar Péter a Mandinernek",
+        "txtlength": 20216
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/premium/20210623/ha-a-megfelelo-pillanatban-a-helyes-dolgot-teszed-a-szerencse-megtalal-488444",
+        "h1": "Ha a megfelelő pillanatban a helyes dolgot teszed, a szerencse megtalál (x)",
+        "txtlength": 19343
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/otthon/20210622/ez-var-azokra-akik-meg-iden-kifestetnek-a-lakasuk-hazuk-brutalis-dragulas-akar-fel-eves-varakozas-1115586",
+        "h1": "Ez vár azokra, akik még idén kifestetnék a lakásuk, házuk: brutális drágulás, akár fél éves várakozás",
+        "txtlength": 18022
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20210623/magyar-ceg-digitalizalja-a-szemelyi-dokumentumokat-a-7-millios-azsiai-orszagban-488604",
+        "h1": "Magyar cég digitalizálja a személyi dokumentumokat a 7 milliós ázsiai országban",
+        "txtlength": 17302
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/uzlet/20210623/miert-eri-meg-videken-vallalkozni-mutatjuk-mennyi-kedvezmenyt-kaphatunk-488558",
+        "h1": "Miért éri meg vidéken vállalkozni? Mutatjuk, mennyi kedvezményt kaphatunk",
+        "txtlength": 16790
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/kapcsolat/vasas-kozponti-konyvtar-alapitvany/",
+        "h1": "Ezreket vonz a különleges magyar könyvtár: apró helyiségei most csak egyetlen olvasót fogadhatnak",
+        "txtlength": 14193
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/tamogatoi-tartalom/20210623/a-vasarlas-atszivargott-a-boltokbol-a-mindennapjainkba-a-pandemia-alatt/",
+        "h1": "A vásárlás átszivárgott a boltokból a mindennapjainkba a pandémia alatt",
+        "txtlength": 13621
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2021/06/23/figyelemzavarokkal-alvasproblemakkal-es-motivalatlansaggal-kuzdenek-a-magyar-gyerekek-a-jarvany-hozadekakent",
+        "h1": "FIGYELEMZAVAROKKAL, ALVÁSPROBLÉMÁKKAL ÉS MOTIVÁLATLANSÁGGAL KÜZDENEK A MAGYAR GYEREKEK A JÁRVÁNY HOZADÉKAKÉNT",
+        "txtlength": 10750
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/lajfhekk/ejszakai-eves-lekuzdese/",
+        "h1": "Éjszakai evés leküzdése",
+        "txtlength": 9970
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/06/23/a-nemet-szivarvany-napja",
+        "h1": "A német szivárvány napja",
+        "txtlength": 19708
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/gazdasag/2021/06/23/a-fidesz-35-eves-utkoncessziot-tervez-ennyi-idore-mond-le-a-tovabbi-versenyeztetesrol",
+        "h1": "A Fidesz 35 éves útkoncessziót tervez, ennyi időre mond le a további versenyeztetésről",
+        "txtlength": 18260
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/szorakozas/2021/06/22/quake-25-videojatek-id-software-fps-john-romero-john-carmack",
+        "h1": "25 éve jelent meg a világ legnépszerűbb pécés játéka, amit csak a készítői utáltak",
+        "txtlength": 15743
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/sport/20210623_Veget_er_a_csoportkor_Munchenben_tehetnek_csodat_a_magyarok__eloben_a_fociEb_tizenharmadik_napjarol",
+        "h1": "Véget ér a csoportkör, Münchenben tehetnek csodát a magyarok - élőben a foci-Eb tizenharmadik napjáról",
+        "txtlength": 15625
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/foci/2021/06/23/az-utolso-tanc",
+        "h1": "Az utolsó tánc?",
+        "txtlength": 15194
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/sport/2021/06/22/bekes-dontetlennel-zart-anglia-es-csehorszag-a-ket-biztos-tovabbjuto",
+        "h1": "Az angolok összesen két lőtt góllal nyerték a csoportjukat",
+        "txtlength": 11609
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/tudomany/2021/06/22/halpusztulas-velencei-to-oxigenhiany-okologia/",
+        "h1": "Lélegeztetésre szorul a Velencei-tó?",
+        "txtlength": 11415
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://eb2020.24.hu/kozvetites/2021/06/22/foci-eb-2020-horvatorszag-skocia-d-csoport-meccs-elo/",
+        "h1": "Modric villanásai döntöttek, Skócia ismét kiesett",
+        "txtlength": 11322
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20210623_magyarorszag_sajto_mediapiac_mediahelyzet_hirek_bizalom_reuters_intezet",
+        "h1": "Reuters Intézet: A HVG és az RTL Klub a legmegbízhatóbb hírforrások",
+        "txtlength": 10660
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/sport/20210623_Kezdo_tizenegy_nemet_magyar_tippekj",
+        "h1": "Kezdő tizenegy: Rossi döntetlent jósolt a németek ellen, Szijjártó győzelmi tippel lépne el az utolsó helyről",
+        "txtlength": 10536
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/politika/banyai-gabor-fideszes-kepviselo-koronavirus-felepules-banyai-aron/pt0skfj?sl_ps=d_12",
+        "h1": "„Csak a hitünkbe tudtunk kapaszkodni” – A Covid-túlélő Bányai Gábor fia őszintén vallott apja küzdelmes harcáról",
+        "txtlength": 10500
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/krimi/kettos-gyilkossag-kivegzes-gyogyszeresz-pszichologus/y5w3hnk",
+        "h1": "Szegedi kettős gyilkosság: megtéveszthette a pszichológust a gyógyszerész, így juthatott fegyvertartási engedélyhez",
+        "txtlength": 10300
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2021/06/23/debreceni-nemzetkozi-iskola-osztondij-tandij-kozpenz-elitiskola/",
+        "h1": "Mindössze négy diák kapott ösztöndíjat a több milliárd forint közpénzből épült elitiskolában",
+        "txtlength": 9493
+    },
+    {
+        "hostname": "nosalty.hu",
         "pagelink": "https://www.nosalty.hu/recept/egyszeru-vajbabfozelek",
         "h1": "Egyszerű vajbabfőzelék",
         "txtlength": 10913
