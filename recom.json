@@ -1,6 +1,186 @@
 [
     {
         "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/legegyszerubb-tejberizs",
+        "h1": "Legegyszerűbb tejberizs",
+        "txtlength": 9941
+    },
+    {
+        "hostname": "kiszamolo.hu",
+        "pagelink": "https://kiszamolo.hu/mit-tegyel-ha-zuhan-az-eletszinvonalad/",
+        "h1": "Mit tegyél, ha zuhan az életszínvonalad?",
+        "txtlength": 44510
+    },
+    {
+        "hostname": "alapblog.hu",
+        "pagelink": "https://alapblog.hu/alul-szinte-eltunik-felul-viszont-viragzik-mi-az-a-bunozes/",
+        "h1": "ALUL SZINTE ELTŰNIK, FELÜL VISZONT VIRÁGZIK. MI AZ? A BŰNÖZÉS!",
+        "txtlength": 15689
+    },
+    {
+        "hostname": "efesasanisimasa.com",
+        "pagelink": "https://efesasanisimasa.com/2021/06/24/berlin-alexanderplatz-2020/",
+        "h1": "Berlin Alexanderplatz (2020)",
+        "txtlength": 9267
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/tech/20210623/adatdopping-a-foci-eb-n/",
+        "h1": "Adatdopping a foci Eb-n",
+        "txtlength": 21018
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vallalat/20210624/pont-akkor-lett-hianycikk-a-fa-amikor-a-fel-orszag-felujitana/",
+        "h1": "Pont akkor lett hiánycikk a fa, amikor a fél ország felújítana",
+        "txtlength": 20616
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2021/06/24/a-vegletesen-elavult-oktatasi-modszerek-es-a-motivacio-hianya-miatt-nem-beszelnek-a-magyarok-idegen-nyelveket",
+        "h1": "A VÉGLETESEN ELAVULT OKTATÁSI MÓDSZEREK ÉS A MOTIVÁCIÓ HIÁNYA MIATT NEM BESZÉLNEK A MAGYAROK IDEGEN NYELVEKET",
+        "txtlength": 18862
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210623_gyarfas_per_messze_meg_a_vege",
+        "h1": "Gyárfás-per: messze még a vége, idén sem lesz ítélet",
+        "txtlength": 17708
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210623_merkel_helytelen_az_iskolai_szexualis_felvilagositassal_kapcsolatos_magyar_torveny",
+        "h1": "Merkel: Helytelen az iskolai szexuális felvilágosítással kapcsolatos magyar törvény",
+        "txtlength": 17357
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/global/20210624/erik-a-katasztrofa-megallithatatlanul-tor-elore-a-vilag-egyik-legveszelyesebb-terrorszervezete-489480",
+        "h1": "Érik a katasztrófa: megállíthatatlanul tör előre a világ egyik legveszélyesebb terrorszervezete",
+        "txtlength": 17174
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210623_von_der_leyen_a_magyar_pedofiltorvenyrol_ez_egy_szegyen",
+        "h1": "Von der Leyen a magyar pedofiltörvényről: Ez egy szégyen",
+        "txtlength": 17147
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/vasarlas/20210622/mi-folyik-a-magyar-boltokban-errol-sok-magyar-vasarlonak-halvany-fogalma-sincs-1115616",
+        "h1": "Mi folyik a magyar boltokban? Erről sok magyar vásárlónak halvány fogalma sincs",
+        "txtlength": 15324
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/otthon/20210623/igy-tarold-az-eteleket-a-hoseg-alatt-kulonben-dobhatod-ki-vagy-meg-is-betegedhetsz-1115654",
+        "h1": "Így tárold az ételeket a hőség alatt: különben dobhatod ki, vagy meg is betegedhetsz",
+        "txtlength": 14993
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/gyerek/amikor-megoregszik-a-kutyank/",
+        "h1": "Emberi mértékkel egy szemvillanás, kutyaként egy egész élet: kedvencünk mellettünk öregszik meg, és mi elkísérjük útján",
+        "txtlength": 14898
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20210624/megjottek-a-kormany-lazito-bejelentesei-nem-kell-vedettsegi-az-etterembe-szallodaba-489570",
+        "h1": "Megjöttek a kormány lazító bejelentései: nem kell védettségi az étterembe, szállodába ",
+        "txtlength": 14888
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/uzlet/20210624/kulfoldon-terjeszkedne-a-ceged-mire-figyelj-milyen-buktatok-lehetnek-488636",
+        "h1": "Külföldön terjeszkedne a céged? Mire figyelj, milyen buktatók lehetnek?",
+        "txtlength": 13884
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/lajfhekk/kutya-hasvakaras/",
+        "h1": "Kutya hasvakarás",
+        "txtlength": 6512
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://qubit.hu/2021/06/24/a-vegletesen-elavult-oktatasi-modszerek-es-a-motivacio-hianya-miatt-nem-beszelnek-a-magyarok-idegen-nyelveket",
+        "h1": "A VÉGLETESEN ELAVULT OKTATÁSI MÓDSZEREK ÉS A MOTIVÁCIÓ HIÁNYA MIATT NEM BESZÉLNEK A MAGYAROK IDEGEN NYELVEKET",
+        "txtlength": 18862
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/06/24/britney-spears-a-birosagon-emberkereskedelemhez-hasonlitotta-az-elmult-eveket-amiket-apja-felugyelete-alatt-toltott",
+        "h1": "Britney Spears a bíróságon emberkereskedelemhez hasonlította az elmúlt éveket, amiket apja felügyelete alatt töltött",
+        "txtlength": 18329
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/fn/gazdasag/2021/06/23/erzsebet-tabor-ara-alapitvany-kiszervezes/",
+        "h1": "13,4 milliárdért táboroztatják a gyerekeket az ajándékba kapott, állami pénzből felújított ingatlanokban",
+        "txtlength": 13863
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/politika/kormanyinfo-gulyas-gergely-bejelentesek-jarvanyugyi-intezkedesek-megszunik/c1efnqy?sl_ps=d_1",
+        "h1": "Megszűnik a járványügyi korlátozások nagy része: Gulyás Gergely jelenti be a részleteket",
+        "txtlength": 12376
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/sport/20210624_EURO2020_szunnap_pp",
+        "h1": "Angol-német meccs a nyolcaddöntőben, Ronaldo minden rekordot megdöntött – élőben a hvg.hu-n az Európa-bajnokságról",
+        "txtlength": 12280
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/eurologus/20210623_belso_piac_veszelyezteti_melegellenes_torveny",
+        "h1": "Itt a levél, amit az Európai Bizottság küldött a magyar kormánynak – nem sok esélyt hagynak Orbánéknak",
+        "txtlength": 12109
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://eb2020.24.hu/kozvetites/2021/06/23/foci-eb-2020-nemetorszag-magyarorszag-f-csoport-meccs-elo/#",
+        "h1": "A hajráig élt a magyar továbbjutás reménye az Eb-n",
+        "txtlength": 11635
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/tudomany/2021/06/24/harmadik-dozis-sinopharm-koronavirus/",
+        "h1": "Kockáztat, aki kínaira Pfizert oltat?",
+        "txtlength": 11191
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/eurologus/20210623_Az_Europai_Parlamentben_a_Fidesz_vette_vedelmebe_a_magyar_kormanyt_a_homofob_torveny_kapcsan",
+        "h1": "Teljes össztűz alá került a magyar kormány az Európai Parlament plenáris ülésén",
+        "txtlength": 9803
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/agydaganat-rak-heteves-debreceni-kislany/qj78wpj",
+        "h1": "Nagypapája halála után derült ki: agydaganatos Regina – Már 22 sugárkezelésen van túl a debreceni kislány",
+        "txtlength": 9728
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/nevertek/2021/06/24/inflacio-elefant",
+        "h1": "Az infláció egy elefánt",
+        "txtlength": 9152
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/belfold/2021/06/23/orban-von-der-leyen-szegyenletes-melegellenes",
+        "h1": "Orbán Von der Leyennek: A Bizottság elnökének közleménye szégyenletes",
+        "txtlength": 8779
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/belfold/2021/06/24/kormanyinfo-gulyas-gergely-junius-24",
+        "h1": "5,5 millió beoltott után nem lesz kötelező a maszk – élőben a kormányinfóról",
+        "txtlength": 8632
+    },
+    {
+        "hostname": "nosalty.hu",
         "pagelink": "https://www.nosalty.hu/recept/cseresznyes-pite-gizi-konyhajabol",
         "h1": "Cseresznyés pite Gizi konyhájából",
         "txtlength": 10850
