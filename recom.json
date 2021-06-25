@@ -1,5 +1,191 @@
 [
     {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/100-szazalekos-rozskenyer-kovasszal-ahogy-szabi-a-pek-kesziti.recept",
+        "h1": "100%-OS ROZSKENYÉR KOVÁSSZAL, AHOGY SZABI A PÉK KÉSZÍTI",
+        "txtlength": 10822
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/lecso-bogracsban-nyarson-sult-debrecenivel-videoval.recept",
+        "h1": "LECSÓ BOGRÁCSBAN, NYÁRSON SÜLT DEBRECENIVEL",
+        "txtlength": 10769
+    },
+    {
+        "hostname": "hataratkelo.blog.hu",
+        "pagelink": "https://hataratkelo.blog.hu/2021/06/22/hol_elnem_le_az_eletem",
+        "h1": "Hol élném le az életem?",
+        "txtlength": 36735
+    },
+    {
+        "hostname": "kulturpart.hu",
+        "pagelink": "https://kulturpart.blog.hu/2021/06/25/gordeszkameghajtassal_szarnyalnak_az_almok_indiaban",
+        "h1": "GÖRDESZKAMEGHAJTÁSSAL SZÁRNYALNAK AZ ÁLMOK INDIÁBAN",
+        "txtlength": 11331
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210623_paktumok_sertodesek_gyurcsany_show",
+        "h1": "Paktumok, sértődések, Gyurcsány-show – eldőlni látszik az előválasztás",
+        "txtlength": 28213
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2021/06/25/ez-a-torveny-vagy-nagyon-buta-vagy-nagyon-gonosz",
+        "h1": "EZ A TÖRVÉNY VAGY NAGYON BUTA, VAGY NAGYON GONOSZ",
+        "txtlength": 20082
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://precedens.mandiner.hu/cikk/20210624_az_alapveto_ertekek_vedelme_allami_es_nem_vallalati_feladat_beszelgetes_darrel_westtel",
+        "h1": "Az alapvető értékek védelme állami és nem vállalati feladat – beszélgetés Darrel Westtel",
+        "txtlength": 17856
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/karrier/20210625/900-ezer-magyar-no-allasa-van-veszelyben-nem-vart-helyrol-johet-az-utolso-mentoov-1115721",
+        "h1": "900 ezer magyar nő állása van veszélyben: nem várt helyről jöhet az utolsó mentőöv",
+        "txtlength": 17173
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.penzcentrum.hu/karrier/20210625/900-ezer-magyar-no-allasa-van-veszelyben-nem-vart-helyrol-johet-az-utolso-mentoov-1115721",
+        "h1": "900 ezer magyar nő állása van veszélyben: nem várt helyről jöhet az utolsó mentőöv",
+        "txtlength": 17106
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20210624/europa-novekedesi-bajnoka-kelta-tigris-vagy-mindenkit-atvero-buvesz-488138",
+        "h1": "Európa növekedési bajnoka: kelta tigris vagy mindenkit átverő bűvész?",
+        "txtlength": 16630
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/karrier/20210623/drasztikus-valtozas-jon-a-magyar-munkahelyeken-erre-keszulhet-a-legtobb-dolgozo-1115605",
+        "h1": "Drasztikus változás jön a magyar munkahelyeken: erre készülhet a legtöbb dolgozó",
+        "txtlength": 16407
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/penz/20210625/nem-biztos-hogy-matolcsy-sokaig-magan-hagyja-a-heja-jelmezt/",
+        "h1": "Nem biztos, hogy Matolcsy sokáig magán hagyja a héja-jelmezt",
+        "txtlength": 16220
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vallalat/20210624/tenyleg-erdemes-kuruckodni/",
+        "h1": "Tényleg érdemes kuruckodni?",
+        "txtlength": 16097
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210624_mar_a_finisben_lehetne_a_lanchid_felujitas_ha_karacsonyek_nem_mondjak_fel_az_elozo_kozbeszerzest",
+        "h1": "Már a finisben lehetne a Lánchíd-felújítás, ha Karácsonyék nem mondják fel az előző közbeszerzést",
+        "txtlength": 15779
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/szuloseg/apa-marad-otthon-gyerekkel/",
+        "h1": "Apa marad otthon a gyerekkel",
+        "txtlength": 15514
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/uzlet/20210625/jonnek-a-nagy-nemzetkozi-szallodalancok-a-balatonhoz-elertuk-azt-az-arszintet-488566",
+        "h1": "Jönnek a nagy nemzetközi szállodaláncok a Balatonhoz: elértük azt az árszintet",
+        "txtlength": 14722
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/testem/turazas-lefele-menet/",
+        "h1": "Túrázás lefelé menet",
+        "txtlength": 12089
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/szepseg/kis-fekete-ruha-tortenete/",
+        "h1": "Hangos botrányok segítették, hogy örök divat legyen: a kis fekete ruha gyászruhából vált klasszikus darabbá",
+        "txtlength": 10574
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://tldr.444.hu/2021/06/25/egy-hatarozott-lepes-elore-a-magyar-valogatott-eb-merlege",
+        "h1": "Egy határozott lépés előre – a magyar válogatott Eb-mérlege",
+        "txtlength": 22129
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://qubit.hu/2021/06/25/ez-a-torveny-vagy-nagyon-buta-vagy-nagyon-gonosz",
+        "h1": "EZ A TÖRVÉNY VAGY NAGYON BUTA, VAGY NAGYON GONOSZ",
+        "txtlength": 20082
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/belfold/2021/06/25/ellenzeki-partok-programalkotas-kozos-alap",
+        "h1": "Milyen kormányprogram valósulna meg, ha jövőre nyerne az ellenzéki összefogás?",
+        "txtlength": 19841
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kozelet/2021/06/25/nagy-zsolt-tasz-gyuloletellenes-kampany-szinhaz-politika-interju/",
+        "h1": "Nagy Zsolt: Nem fogok Orbánra vagy Gyurcsányra szavazni",
+        "txtlength": 18553
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/politika/kormanyinfo-gulyas-gergely-bejelentesek-jarvanyugyi-intezkedesek-megszunik/c1efnqy",
+        "h1": "Gulyás Gergely: megszűnik a kötelező maszkhasználat, védettségi igazolvány nélkül strandolhatunk",
+        "txtlength": 17999
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/gazdasag/20210625_Eb_foci_magyarok_legjobbak_valogatott",
+        "h1": "Öt magyar, akik számára tündérmese volt az Európa-bajnokság",
+        "txtlength": 15421
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/belfold/2021/06/25/kavicsbanya-ertekesites-zartkoru-tenderen-orban-viktor-bayer-construct",
+        "h1": "Véletlenül derült ki, hogy a kormány valami kavarásba kezdett a bányák körül",
+        "txtlength": 13510
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kultura/2021/06/24/halalos-iramban-9-kritika-vin-diesel/",
+        "h1": "Ha forró a nyár, lehűtenek a kopasz férfiak, tankokkal",
+        "txtlength": 11588
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kulfold/2021/06/24/orban-viktor-ossztuz-europai-tanacs-unio-parlament-melegellenes-torveny",
+        "h1": "„Távozni is lehet az EU-ból” – többen ezt is jelezték Orbánnak a melegellenes törvény miatt az Európai Tanácsban",
+        "txtlength": 11302
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kultura/2021/06/24/igy-vagy-tokeletes-film-kritika-varsics-peter/",
+        "h1": "Könnyes vallomás és szentimentális zene nélkül is lehet jó egy romkom",
+        "txtlength": 11102
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/kulfold/karantenkotelezettseg-magyarorszag-sarga-lista/2wytfdm",
+        "h1": "Koronavírus: továbbra is „sárga” Magyarország a brit kormány utazási listáján",
+        "txtlength": 10376
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/eurologus/20210624_Az_EUbol_valo_kilepest_ajanlgatjak_Orbannak_a_miniszterelnok_az_EUcsucson",
+        "h1": "Az EU-ból való kilépést ajánlgatják Orbánnak kollégái az EU-csúcson",
+        "txtlength": 10157
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/gazdasag/20210624_hatvanpuszta_korrpucios_kockazatok_orban_gyozo_orban_viktor_gulyas_gergely",
+        "h1": "Megkérdeztük Gulyás Gergelyt a milliárdos hatvanpusztai Orbán-birtokról",
+        "txtlength": 9994
+    },
+    {
         "hostname": "nosalty.hu",
         "pagelink": "https://www.nosalty.hu/recept/legegyszerubb-tejberizs",
         "h1": "Legegyszerűbb tejberizs",
