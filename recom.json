@@ -1,6 +1,192 @@
 [
     {
         "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/tolnai-halaszle.recept",
+        "h1": "TOLNAI HALÁSZLÉ",
+        "txtlength": 12305
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/paprikas-krumpli-bogracsban-galuskaval.recept",
+        "h1": "PAPRIKÁS KRUMPLI BOGRÁCSBAN",
+        "txtlength": 11522
+    },
+    {
+        "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/citromfuszorp",
+        "h1": "Citromfűszörp",
+        "txtlength": 9370
+    },
+    {
+        "hostname": "hataratkelo.blog.hu",
+        "pagelink": "https://hataratkelo.blog.hu/2021/06/24/hogyan_lesz_egy_magyar_sushi_sef_svajcban#c40747056",
+        "h1": "Hogyan lesz egy magyar sushi séf Svájcban?",
+        "txtlength": 25672
+    },
+    {
+        "hostname": "kulturpart.hu",
+        "pagelink": "https://kulturpart.blog.hu/2021/06/22/varazslatok_ejszakaja",
+        "h1": "KÖZELEG A VARÁZSLATOS ÉJSZAKA",
+        "txtlength": 10191
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://makronom.mandiner.hu/cikk/20210624_matolcsy_gyorgy_magyar_nemzeti_bank_digitalis_jegybankpenz_magyarorszagon_is",
+        "h1": "Kínából indult a az állami bitcoinvonat, most Matolcsy a magyarokat is felültetné rá",
+        "txtlength": 31110
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/global/20210625/miert-fejleszt-elrettento-hadsereget-magyarorszag-megerkezett-a-kormany-reszletes-valasza-489790",
+        "h1": "Miért fejleszt elrettentő hadsereget Magyarország? Megérkezett a kormány részletes válasza",
+        "txtlength": 20153
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/podcast/20210626/nincs-felzarkozas-ha-a-hazai-tokesek-exportteljesitmeny-nelkul-erosodnek/",
+        "h1": "Nincs felzárkózás, ha a hazai tőkések exportteljesítmény nélkül erősödnek",
+        "txtlength": 19926
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/utazas/20210625/brutalis-szunyoginvazio-csap-le-magyarorszagra-ezeken-a-helyeken-a-legkegyetlenebb-a-helyzet-1115704",
+        "h1": "Brutális szúnyoginvázió csap le Magyarországra: ezeken a helyeken a legkegyetlenebb a helyzet",
+        "txtlength": 19189
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vilag/20210625/a-fudan-a-legszukebb-vilagelitbe-kerulne-a-magyar-adofizetok-tamogatasaval/",
+        "h1": "A Fudan a legszűkebb világelitbe kerülne a magyar adófizetők támogatásával",
+        "txtlength": 19144
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210625_von_der_leyen_szamos_jo_indok_szol_amellett_hogy_magyarorszag_az_eu_tagja_maradjon",
+        "h1": "Von der Leyen: Számos jó indok szól amellett, hogy Magyarország az EU tagja maradjon",
+        "txtlength": 18625
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210621_oriasi_a_2022_es_valasztas_tetje_a_fiatalok_szamara_koncz_zsofia_a_mandinernek",
+        "h1": "Óriási a 2022-es választás tétje a fiatalok számára – Koncz Zsófia a Mandinernek",
+        "txtlength": 18541
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/hitel/20210624/ekkora-bajban-vannak-a-magyar-csaladok-mar-az-elelmiszert-is-hitelre-veszik-1115668",
+        "h1": "Ekkora bajban vannak a magyar családok? Már az élelmiszert is hitelre veszik!",
+        "txtlength": 16052
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/prof/20210625/az-a-termeszetes-hogy-meg-szeretnenk-gazdagodni-ezert-butasag-az-antikapitalizmus-487542",
+        "h1": "Az a természetes, hogy meg szeretnénk gazdagodni - Ezért butaság az antikapitalizmus",
+        "txtlength": 15215
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20210625/viszlat-vedettsegi-igazolvany-elszall-a-vendegek-haragja-robbanasszeru-novekedest-hoz-a-kormany-uj-dontese-489670",
+        "h1": "Viszlát, védettségi igazolvány! Elszáll a vendégek haragja, robbanásszerű növekedést hoz a kormány új döntése",
+        "txtlength": 14372
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/ezo/jemima-wilkinson-nemtelen-profeta/",
+        "h1": "A nemtelen próféta, Jemima Wilkinson különös története: betegágyán álmot látott, és újjászületett",
+        "txtlength": 11954
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2021/06/25/gyilkos-tornado-kelet-europaban-egyedi-eset-vagy-a-jovo-eloszele",
+        "h1": "GYILKOS TORNÁDÓ KELET-EURÓPÁBAN: EGYEDI ESET, VAGY A JÖVŐ ELŐSZELE?",
+        "txtlength": 9933
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/lajfhekk/melyik-a-legjobb-mikrohullamu-suto/",
+        "h1": "Melyik a legjobb mikrohullámú sütő?",
+        "txtlength": 9203
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kultura/2021/06/26/dr-mate-gabor-interju-test-lazadasa-mentalis-egeszseg-stressz/",
+        "h1": "Dr. Máté Gábor: Az alkohol fájdalomcsillapító – azért van ennyi alkoholista Magyarországon, mert rengeteg a fájdalom",
+        "txtlength": 21735
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/belfold/2021/06/25/kassa-bombazasa-1941-tortenelem-evfordulo",
+        "h1": "Fogalmuk se lehetett, mit bombáznak, mégis emiatt léptünk be a II. világháborúba",
+        "txtlength": 19603
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://eb2020.24.hu/hirek/2021/06/25/miben-kellene-fejlodnia-a-magyar-valogatottnak-marco-rossi/",
+        "h1": "Miben kell fejlődnie a Rossi-csapatnak, hogy Csányi Sándor jóslata beváljon?",
+        "txtlength": 18437
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/eszkombajn/2021/06/26/anglia-noi-futball-lily-parr",
+        "h1": "A láncdohányos gólgép, aki olyan népszerűvé tette a női focit, hogy betiltották",
+        "txtlength": 17005
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kulfold/2021/06/25/fudan-egyetem-genderkepzes/",
+        "h1": "Ilyen volt a genderképzés a Fudan Egyetemen",
+        "txtlength": 16043
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/zhvg/20210625_Karbonvammal_kenyszeritene_ki_az_EU_a_globalis_kibocsatascsokkentest",
+        "h1": "Karbonvámmal kényszerítené ki az EU a globális kibocsátáscsökkentést",
+        "txtlength": 14883
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/eurologus/20210625_Magyarorszag_kizaras_elszigetelt_forrasmegvonas",
+        "h1": "Magyarországot az EU-ból kizárni nem lehet, de nyilvánvalóvá vált, hogy Orbán teljesen elszigetelte magát",
+        "txtlength": 14165
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/ingatlan/20210626_8_eletveszelyes_lakashitel_buktato_Mutatjuk_hogyan_vedekezhetsz_ellenuk",
+        "h1": "Ezen a 8 ponton buknak el sokan, akik lakáshitelt vennének fel",
+        "txtlength": 13523
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/gazdasag/2021/06/25/szijjarto-peter-es-a-gazprom-20-milliard-dollaros-targyalasai-amikor-a-3-5-nem-egyenlo-15-tel",
+        "h1": "Szijjártó Péter és a Gazprom 20 milliárd dolláros tárgyalásai: ki jár jól a végén?",
+        "txtlength": 13159
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/06/26/hetvegi-olvasnivalo-a-focitol-a-legdivatosabb-fideszes-influenszerig",
+        "h1": "Hétvégi olvasnivaló a focitól a legdivatosabb fideszes influenszerig",
+        "txtlength": 10863
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/veszhelyzet/tornado-csehorszagban/cs1q774",
+        "h1": "Tornádó Csehországban: háborús állapotok a kórházakban – Egyre durvább fotók érkeznek a katasztrófáról",
+        "txtlength": 10337
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/06/26/ket-hetre-le-kellett-zarni-sydneyt-a-delta-varians-terjedese-miatt",
+        "h1": "Két hétre le kellett zárni Sydneyt a delta variáns terjedése miatt",
+        "txtlength": 9903
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/sztarvilag/filmklikk/megall-az-ido-film-40-eve-ujsagmuzeum/469kp6s",
+        "h1": "Éljenek a hülyék, ne legyen semmi!",
+        "txtlength": 9782
+    },
+    {
+        "hostname": "mindmegette.hu",
         "pagelink": "https://www.mindmegette.hu/100-szazalekos-rozskenyer-kovasszal-ahogy-szabi-a-pek-kesziti.recept",
         "h1": "100%-OS ROZSKENYÉR KOVÁSSZAL, AHOGY SZABI A PÉK KÉSZÍTI",
         "txtlength": 10822
