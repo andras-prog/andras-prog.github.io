@@ -1,5 +1,191 @@
 [
     {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/holstein-szelet-video.recept",
+        "h1": "HOLSTEIN SZELET",
+        "txtlength": 11195
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/currys-pulykasaslik.recept",
+        "h1": "CURRYS PULYKASASLIK",
+        "txtlength": 10964
+    },
+    {
+        "hostname": "kiszamolo.hu",
+        "pagelink": "https://kiszamolo.hu/napelem-allami-tamogatassal-vagy-anelkul/",
+        "h1": "Napelem: állami támogatással vagy anélkül?",
+        "txtlength": 39788
+    },
+    {
+        "hostname": "alapblog.hu",
+        "pagelink": "https://alapblog.hu/hoseg-rosszabb-mint-a-covid/",
+        "h1": "HŐSÉG: ROSSZABB, MINT A COVID?",
+        "txtlength": 14177
+    },
+    {
+        "hostname": "efesasanisimasa.com",
+        "pagelink": "https://efesasanisimasa.com/2021/06/24/uj-vilagrend-nuevo-orden-2020/",
+        "h1": "Új világrend (Nuevo orden, 2020)",
+        "txtlength": 8546
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/vallalkozas/20210628/uj-szelek-fujnak-most-ebbe-pumpalnak-rengeteg-penzt-a-magyar-cegek-nekik-segitenek-vele-1115758",
+        "h1": "Új szelek fújnak: most ebbe pumpálnak rengeteg pénzt a magyar cégek, nekik segítenek vele",
+        "txtlength": 26917
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2021/06/28/a-koronavirus-jarvany-alapjaiban-valtoztatja-meg-az-epiteszetet-a-lakasok-az-irodak-es-a-varosok-szerkezetet",
+        "h1": "A KORONAVÍRUS-JÁRVÁNY ALAPJAIBAN VÁLTOZTATJA MEG AZ ÉPÍTÉSZETET, A LAKÁSOK, AZ IRODÁK ÉS A VÁROSOK SZERKEZETÉT",
+        "txtlength": 25875
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/utazas/20210627/ennyiert-csobbanhatunk-a-hazai-aquaparkokban-2021-ben-mutatjuk-mennyit-dragultak-a-belepok-1115688",
+        "h1": "Ennyiért csobbanhatunk a hazai aquaparkokban 2021-ben: mutatjuk, mennyit drágultak a belépők",
+        "txtlength": 25205
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210628_az_eb_foorvosa_a_mandinernek",
+        "h1": "Aki Ronaldo után futott a Puskás Arénában – az Eb főorvosa a Mandinernek",
+        "txtlength": 24155
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vallalat/20210628/a-csendes-magyar-sikeragazat-ahol-18-millios-havi-atlagber-is-elofordul/",
+        "h1": "A csendes magyar sikerágazat, ahol 1,8 milliós havi átlagbér is előfordul",
+        "txtlength": 22295
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210628_mark_rutte",
+        "h1": "Ki is térdepeltetné Magyarországot? – Mark Rutte botránykrónikája",
+        "txtlength": 20452
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210627_magyarorszag_eu_hetes_cikkely_delbos_cornfield",
+        "h1": "Szeptemberben Budapestre jön Delbos-Corfield, a magyar jogállami ügyek raportőre",
+        "txtlength": 19172
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/krtk/20210627/csapatjatek-nagy-tettel-a-szabadalmi-egyuttmukodesek-szerkezete-europaban-489684",
+        "h1": "Csapatjáték nagy téttel - A szabadalmi együttműködések szerkezete Európában",
+        "txtlength": 17130
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20210628/mely-sebeket-ejtett-a-koronavirus-jarvany-de-kina-es-a-fejlodo-orszagok-uj-csucsra-vihetik-az-olajat-489884",
+        "h1": "Mély sebeket ejtett a koronavírus-járvány, de Kína és a fejlődő országok új csúcsra vihetik az olajat",
+        "txtlength": 15666
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/global/20210628/nagyot-kaszalhat-magyarorszag-a-gigantikus-amerikai-fegyvervasarlasi-programon-490012",
+        "h1": "Nagyot kaszálhat Magyarország a gigantikus amerikai fegyvervásárlási programon",
+        "txtlength": 13656
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/kozelet/20210627/nem-a-szigor-riasztja-el-az-elitelteket-a-visszaesestol/",
+        "h1": "Nem a szigor riasztja el az elítélteket a visszaeséstől",
+        "txtlength": 12889
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/ezo/heti_horoszkop/202126/",
+        "h1": "Heti horoszkóp június 28-tól július 4-ig: az Ikrek pénzügyi, a Halak szerelmi fordulatra számíthat",
+        "txtlength": 11901
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/szuloseg/gyerek-kiszalad-az-utra/",
+        "h1": "Gyerek kiszalad az útra",
+        "txtlength": 11164
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/belfold/2021/06/28/ellenzeki-elovalasztas-egyeni-korzetek-egy-fordulo-partok-kozotti-alkuk-jeloltek-visszalepese-tamogatasok",
+        "h1": "Kevés helyen lesz csak igazán éles a verseny, a pártalkuk miatt több helyen már most ki lehet hirdetni az előválasztás győztesét",
+        "txtlength": 22249
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/06/28/fontos-helyen-esett-szet-a-fidesz",
+        "h1": "Fontos helyen esett szét a Fidesz",
+        "txtlength": 17929
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/szorakozas/2021/06/27/az-ordog-pradat-visel-15-eves-film-anne-hathaway-meryl-streep-stanley-tucci-emily-blunt-david-frankel/",
+        "h1": "Egymillió dollárt értek a ruhák, Meryl Streep lányát kivágták, Emily Blunt sógorra lelt – 15 tény a 15 éves kultfilmről",
+        "txtlength": 16632
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/fn/gazdasag/2021/06/28/orban-viktor-2022-valasztasi-igeretek-penzosztas-budzse/",
+        "h1": "Egyre hízik Orbán Viktor választási puttonya",
+        "txtlength": 15176
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/foci/2021/06/27/szivarvanyos-bucsu-a-puskastol",
+        "h1": "Szivárványos búcsú a Puskástól",
+        "txtlength": 12911
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://eb2020.24.hu/kozvetites/2021/06/27/foci-eb-2020-belgium-portugalia-nyolcaddonto-meccs-elo/",
+        "h1": "Belgium bombagóllal küldte haza Ronaldóékat az Eb-ről",
+        "txtlength": 12260
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/gazdasag/20210628_online_fizetes_magyar_szokasok",
+        "h1": "A magyarok már a WC-ről is vásárolnak online, fizetni még mindig papírral szeretnek",
+        "txtlength": 11616
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/sport/20210626_Kezdo_tizenegy_nyolcaddonto_csoportkor_allas",
+        "h1": "Kezdő tizenegy: Marco Rossi simán Szijjártó előtt, Bárdos András egyelőre mindenkit előz",
+        "txtlength": 11195
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/belfold/2021/06/27/testnevelesi-egyetem-csorsz-utca-epitkezes-jegenyefak-kivagasa",
+        "h1": "Gulyás intézkedett, hogy megmeneküljenek a Csörsz utcai fák, Mészáros cége most kivág nyolc másikat",
+        "txtlength": 10553
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/eszkombajn/2021/06/28/fagyi-tolcser-tortenet-fagyitortenet-gelato-penny-licks",
+        "h1": "Tbc-s nyalástól fagyiporért eladott focistákon át jutottunk el napjaink tölcséréhez",
+        "txtlength": 10416
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20210628_oltas_lazitas_koronavirus",
+        "h1": "Csak a hét vége felé jöhet az újabb lazítás, ha ennyire lassan halad tovább az oltási program",
+        "txtlength": 10309
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/orban-viktor-miniszterelnok-europai-unio-pedofiltorveny/p2bdv7s?sl_ps=d_3",
+        "h1": "Orbán Viktor kimondta, mit gondol a gyereknevelésről és a liberálisokról",
+        "txtlength": 10290
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/sztarvilag/kultura/ferenc-ferdinand-gyilkosa-merenylet-petofi-sandor-ujsagmuzeum/xwfbh7t",
+        "h1": "A trónörökös meggyilkolása több mint 10 millió ember halálát okozta – Ki volt valójában Ferenc Ferdinánd?",
+        "txtlength": 10097
+    },
+    {
         "hostname": "nosalty.hu",
         "pagelink": "https://www.nosalty.hu/recept/isteni-uborkasalata",
         "h1": "Isteni uborkasaláta",
