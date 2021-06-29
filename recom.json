@@ -1,6 +1,192 @@
 [
     {
         "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/toltott-paprika-rantas-nelkul.recept",
+        "h1": "TÖLTÖTT PAPRIKA RÁNTÁS NÉLKÜL",
+        "txtlength": 10828
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/hazi-vajas-kifli.recept",
+        "h1": "HÁZI VAJAS KIFLI",
+        "txtlength": 10648
+    },
+    {
+        "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/csirkes-apropecsenye",
+        "h1": "Csirkés aprópecsenye",
+        "txtlength": 10365
+    },
+    {
+        "hostname": "hataratkelo.blog.hu",
+        "pagelink": "https://hataratkelo.blog.hu/2021/06/28/ez_nem_feher_embernek_valo_avagy_rasszista_vagyok_akar_akarom_akar_nem#c40753462",
+        "h1": "Ez nem fehér embernek való, avagy rasszista vagyok… akár akarom, akár nem",
+        "txtlength": 30422
+    },
+    {
+        "hostname": "kulturpart.hu",
+        "pagelink": "https://kulturpart.blog.hu/2021/06/28/mert_a_gyokerek_fontosak_kerteszkedes_az_uj_evezredben",
+        "h1": "MERT A GYÖKEREK FONTOSAK – KERTÉSZKEDÉS AZ ÚJ ÉVEZREDBEN",
+        "txtlength": 13424
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210616_porogjenek_a_kalandok",
+        "h1": "Pörögjenek a kalandok! – Nyulász Péter gyerekekről, regényekről, képzeletről",
+        "txtlength": 24907
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vallalat/20210629/szigeteles-nem-burkolas-igen-az-elszallo-arak-miatt-ujra-kell-tervezni-a-hazfelujitast/",
+        "h1": "Szigetelés nem, burkolás igen, az elszálló árak miatt újra kell tervezni a házfelújítást",
+        "txtlength": 22075
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/global/20210629/uj-kina-ellenes-szovetseg-formalodik-azsiaban-490080",
+        "h1": "Új Kína-ellenes szövetség formálódik Ázsiában?",
+        "txtlength": 18920
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210628_itt_a_pedofiltorveny_most_akkor_tenyleg_betiltjak_a_harry_pottert",
+        "h1": "Itt a pedofiltörvény: most akkor tényleg betiltják a Harry Pottert?",
+        "txtlength": 18898
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210629_frank_spengler",
+        "h1": "Szükség van Magyarország erős hangjára is – Frank Spengler a Mandinernek",
+        "txtlength": 18156
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/uzlet/20210628/mi-lesz-a-tozsdekkel-ha-mindenben-tevedunk-a-goldman-sachs-most-elmondja-490090",
+        "h1": "Mi lesz a tőzsdékkel, ha mindenben tévedünk? A Goldman Sachs most elmondja",
+        "txtlength": 15988
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/hitel/20210628/errol-a-legtobben-megfeledkeznek-hitelfelvetelkor-konnyen-bajba-kerulhetnek-a-torlesztessel-1115775",
+        "h1": "Erről a legtöbben megfeledkeznek hitelfelvételkor: könnyen bajba kerülhetnek a törlesztéssel",
+        "txtlength": 15821
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.penzcentrum.hu/nyugdij/20210629/atlatnak-a-szitan-a-nyugdijasok-nemet-mondanak-ezekre-a-termekekre-1115800",
+        "h1": "Átlátnak a szitán a magyar nyugdíjasok: nemet mondanak ezekre a termékekre",
+        "txtlength": 15586
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/nyugdij/20210629/atlatnak-a-szitan-a-nyugdijasok-nemet-mondanak-ezekre-a-termekekre-1115800",
+        "h1": "Átlátnak a szitán a magyar nyugdíjasok: nemet mondanak ezekre a termékekre",
+        "txtlength": 15559
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/kozelet/20210628/a-felnottek-atkepzese-jol-jott-volna-a-jarvany-okozta-valsagban-de-pont-a-jarvany-miatt-nem-voltak-kepzesek/",
+        "h1": "A felnőttek átképzése jól jött volna a járvány okozta válságban, de pont a járvány miatt nem voltak képzések",
+        "txtlength": 14850
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/egeszseg/makuladegeneracio-tunetei/",
+        "h1": "6 tünet, ami makuladegenerációra utal: az 50 éves kor feletti látásromlás gyakran ebből ered",
+        "txtlength": 11917
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2021/06/29/akik-nem-tudnak-kepeket-osszerakni-a-fejukben-megfejtettek-az-afantazia-es-a-hiperfantazia-titkat",
+        "h1": "AKIK NEM TUDNAK KÉPEKET ÖSSZERAKNI A FEJÜKBEN – MEGFEJTETTÉK AZ AFANTÁZIA ÉS A HIPERFANTÁZIA TITKÁT",
+        "txtlength": 9885
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/lajfhekk/gomba-tarolasa/",
+        "h1": "Gomba tárolása",
+        "txtlength": 7077
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/belfold/2021/06/29/magyar-orvosi-kamara-kincses-gyula-interju-ugyeleti-dij-kieges-covid-korhaz-reform-varolista",
+        "h1": "Pályaelhagyás és szétesés következik, ha az orvosok túlórájáért kevesebbet fizetnek, mint a normál munkaóráért",
+        "txtlength": 24773
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/kultura/20210628_Belga_album_interju",
+        "h1": "„Ha indokolt, akkor káromkodunk most is” – interjú a Bëlgával",
+        "txtlength": 17881
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/belfold/2021/06/29/melegellenesse-tett-pedofiltorveny-gyorstalpalo",
+        "h1": "A gyerekeket nem védi, a gyakorlatban nem tartható be, az EU-t felbőszíti a melegellenes törvénymódosítás",
+        "txtlength": 16558
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/belfold/2021/06/28/mehlegelo-fovaros-fidelitas-onkormanyzat",
+        "h1": "A fideszes városban jó a méhlegelő, de ha Budapesten van, akkor az alkalmatlanság jele",
+        "txtlength": 14366
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://foci.444.hu/2021/06/28/csoda-svajc-tizenegyesparbaj-utan-ejtette-ki-franciaorszagot",
+        "h1": "Csoda: Svájc tizenegyespárbaj után ejtette ki Franciaországot",
+        "txtlength": 14357
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://foci.444.hu/2021/06/28/tenyleg-az-tortent-vasarnap-a-puskasban-hogy-a-szorostoku-v4-es-fiuk-terdre-kenyszeritettek-a-hollandokat",
+        "h1": "Tényleg az történt vasárnap a Puskásban, hogy a szőröstökű V4-es fiúk térdre kényszerítették a hollandokat?",
+        "txtlength": 14270
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/sport/20210628_Kezdo_tizenegy_Eb_meglepetescsapat",
+        "h1": "Csehország, Dánia, vagy valaki más? Melyik lesz az Eb meglepetéscsapata?",
+        "txtlength": 13588
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kultura/2021/06/29/mestercukrasz-edesszaju-konyhafonok-rtl-klub-tv-musor-kritika-liptai-claudia/",
+        "h1": "Mestercukrász: végre egy olyan magyar reality, amit érdemes tovább nézni",
+        "txtlength": 13513
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/sport/20210629_foci_eb_euro2020_nyolcaddonto_spanyolorszag_svajc",
+        "h1": "Őrült meccsek, spanyol továbbjutás, francia kiesés – ilyen volt a nyolcaddöntők harmadik napja",
+        "txtlength": 12862
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://eb2020.24.hu/kozvetites/2021/06/28/foci-eb-2020-franciaorszag-svajc-nyolcaddonto-meccs-elo/",
+        "h1": "Tizenegyesekkel kiesett a világbajnok Franciaország az Eb-ről",
+        "txtlength": 12223
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/kulfold/delta-varians-tunetei-kontaktkutatas-fertozes-koronavirus-hirek/y3df5sj",
+        "h1": "Mindent megváltoztathat a delta variáns: 10 másodperc is elég a megfertőződéshez – Egy nap alatt szellemvárost csinált Sydney-ből",
+        "txtlength": 11721
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/szoboravatas-rakoczifalva-buntetoeljras-ragalmazas-birosag/fl43qgk",
+        "h1": "Vidéki meló: Kósa Lajos nem kér bocsánatot – Már a fideszes országgyűlési képviselő is a megbüntetését kéri, a NAV is vizsgálódik",
+        "txtlength": 10835
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/fn/gazdasag/2021/06/29/dunaferr-kontroll-ala-helyeztek-reorganizacio/",
+        "h1": "Kontroll alá helyezték a Dunaferrt",
+        "txtlength": 9900
+    },
+    {
+        "hostname": "mindmegette.hu",
         "pagelink": "https://www.mindmegette.hu/holstein-szelet-video.recept",
         "h1": "HOLSTEIN SZELET",
         "txtlength": 11195
