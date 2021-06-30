@@ -1,6 +1,180 @@
 [
     {
         "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/mogyoros-nutellas-nugatszelet.recept",
+        "h1": "MOGYORÓS-NUTELLÁS NUGÁTSZELET",
+        "txtlength": 10881
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/sajtos-juhturos-kapros-zoldbab.recept",
+        "h1": "SAJTOS-JUHTÚRÓS KAPROS ZÖLDBAB",
+        "txtlength": 10729
+    },
+    {
+        "hostname": "kiszamolo.hu",
+        "pagelink": "https://kiszamolo.hu/kis-hirek-a-nagyvilagbol/",
+        "h1": "Kis hírek a nagyvilágból",
+        "txtlength": 33840
+    },
+    {
+        "hostname": "alapblog.hu",
+        "pagelink": "https://alapblog.hu/migracio-az-onfelszamolo-vilagforradalom/",
+        "h1": "MIGRÁCIÓ: AZ ÖNFELSZÁMOLÓ VILÁGFORRADALOM ",
+        "txtlength": 13220
+    },
+    {
+        "hostname": "efesasanisimasa.com",
+        "pagelink": "https://efesasanisimasa.com/2021/06/02/a-terseg-the-expanse-tv-series-season-1-4-2015/",
+        "h1": "A Térség (The Expanse – TV Series, Season 1-4, 2015-)",
+        "txtlength": 8387
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210623_massziv_vilagnezetet_hoztam_magammal",
+        "h1": "Masszív világnézetet hoztam magammal – Pindroch Csaba a Mandinernek",
+        "txtlength": 27698
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/uzlet/20210630/nemzeti-biztosito-a-lathataron-sulyos-hianybetegseget-gyogyithat-a-kormany-490330",
+        "h1": "Nemzeti biztosító a láthatáron: súlyos hiánybetegséget gyógyíthat a kormány",
+        "txtlength": 26205
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://makronom.mandiner.hu/cikk/20210629_joe_biden_nyugati_infrastrukturalis_egyuttmukodes_a_kinai_bri_vel_szemben",
+        "h1": "Biden meghirdette a mestertervét Kína legyőzésére: G7-es ellenselyemúttal szorítanák vissza Pekinget",
+        "txtlength": 22918
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210629_mit_kezdjunk_a_paraszthazainkkal",
+        "h1": "Mit kezdjünk a parasztházainkkal?",
+        "txtlength": 21534
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/bank/20210629/ev-vegeig-garantalt-a-kedvezmeny-a-magyar-cegeknek-interju-490242",
+        "h1": "Év végéig garantált a kedvezmény a magyar cégeknek (Interjú)",
+        "txtlength": 18280
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20210629/epito-kritika-tevhitek-es-tenyek-munkaltatoi-markaepitesrol-490326",
+        "h1": "Építő kritika: tévhitek és tények munkáltatói márkaépítésről",
+        "txtlength": 16763
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/oktatas/20210629/itt-all-feketen-feheren-siralmasan-alacsony-a-diplomasok-aranya-hazankban-1115802",
+        "h1": "Itt áll feketén-fehéren: siralmasan alacsony a diplomások aránya hazánkban",
+        "txtlength": 14426
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/utazas/20210626/6-csodalatos-rejtett-hely-a-balaton-kornyeken-itt-nem-futsz-ossze-annyi-turistaval-1115742",
+        "h1": "6 csodálatos rejtett hely a Balaton környékén: itt nem futsz össze annyi turistával",
+        "txtlength": 13844
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/szepseg/hogyan-fogadd-el-magad/",
+        "h1": "Büszkék minden porcikájukra: 4 nő, aki striával, narancsbőrrel, hegekkel sem fél megmutatni magát",
+        "txtlength": 12744
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2021/06/30/azoknak-is-evekig-tarto-vedettseget-nyujthat-a-pfizer-es-a-moderna-vakcinaja-akik-nem-voltak-fertozottek",
+        "h1": "AZOKNAK IS ÉVEKIG TARTÓ VÉDETTSÉGET NYÚJTHAT A PFIZER ÉS A MODERNA VAKCINÁJA, AKIK NEM VOLTAK FERTŐZÖTTEK",
+        "txtlength": 8524
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/lajfhekk/le-kell-vagni-a-macska-karmat/",
+        "h1": "Le kell vágni a macska karmát?",
+        "txtlength": 7078
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/06/30/orban-a-kommunista-ellenes-ropiratokbol-nemet-ellenes-kormanyzati-propagandat-faragott",
+        "h1": "Orbán a kommunista-ellenes röpiratokból német-ellenes kormányzati propagandát faragott",
+        "txtlength": 24996
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/fn/gazdasag/2021/06/30/orban-lakastamogatas-epitoanyag-dragulas/",
+        "h1": "Orbán lépni akar, mielőtt felzabálja a lakástámogatásokat az építőanyagok drágulása",
+        "txtlength": 18245
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/gazdasag/2021/06/30/csalas-gyanuja-a-lelegeztetogep-beszerzonel-a-telexnek-megszolalt-a-tarsasag-vezetese",
+        "h1": "Csalás gyanúja a lélegeztetőgép-beszerzőnél: a Telexnek megszólalt a társaság vezetése",
+        "txtlength": 15031
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/06/29/szingapurban-kitalaltak-a-jarvany-utani-vilagot",
+        "h1": "Szingapúrban kitalálták a járvány utáni világot",
+        "txtlength": 14637
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://eb2020.24.hu/kozvetites/2021/06/29/foci-eb-2020-anglia-nemetorszag-nyolcaddonto-meccs-elo/",
+        "h1": "Anglia legyőzte a riválist, kiesett mindegyik csoportellenfelünk",
+        "txtlength": 13977
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/gazdasag/2021/06/29/oriasi-penzmosasi-ugyek-tepazzak-az-unio-tekintelyet-a-bizottsagnak-elege-lett",
+        "h1": "Azeri pénzpumpa és orosz maffiózók: óriási pénzmosási ügyek tépázzák az unió tekintélyét",
+        "txtlength": 13773
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2021/06/30/magyar-honvedseg-szexualis-visszaeles-alezredes-ugyeszseg-nyomozas/",
+        "h1": "A honvédség egyik alkalmazottja azt állítja, rendszeresen szexre kényszerítette egy magas rangú katona",
+        "txtlength": 13624
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/gazdasag/20210630_online_fizetes_webshopok",
+        "h1": "Mit tehetnek a webshopok azért, hogy a vásárlók őket válasszák - és ne is meneküljenek el",
+        "txtlength": 11208
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/krimi/boldog-istvan-hivatali-vesztegetes-elfogadasa-nyomozas-vademeles-fovarosi-torvenyszek/ydynyr7?sl_ps=d_2",
+        "h1": "„Meleg van, a kétpói betyár izzad” – Bíróság előtt Boldog István és társai: Hadházy Ákos is ott van, aztán jött a meglepő fordulat",
+        "txtlength": 11207
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/eszkombajn/2021/06/29/szojuz-11-tragedia-szovjetunio-urprogram-urhajo",
+        "h1": "Minden a legnagyobb rendben zajlott, mégis három holttesttel landolt az óriási sikernek hitt szovjet űrmisszió",
+        "txtlength": 10476
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/tudomany/20210629_astrazeneca_pfizer_oltas_vakcina_keverese",
+        "h1": "Már látni, mi történik, ha az AstraZeneca után Pfizerrel oltanak be valakit",
+        "txtlength": 9531
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/tudomany/20210630_kinai_vakcina_sinopharm_t_sejtek_immunitas_vedettseg",
+        "h1": "Kínai vakcinával oltottakat vizsgáltak itthon, az eredmények alapján többeknél semmilyen védelem nem alakult ki",
+        "txtlength": 9512
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/koronavirus-hirek-fertozottek-halalos-aldozatok-junius-30/rd76r1v?sl_ps=d_11",
+        "h1": "Friss járványügyi adatok szerdán: 13 ezer oltás kell még az 5,5 millióhoz",
+        "txtlength": 9276
+    },
+    {
+        "hostname": "mindmegette.hu",
         "pagelink": "https://www.mindmegette.hu/toltott-paprika-rantas-nelkul.recept",
         "h1": "TÖLTÖTT PAPRIKA RÁNTÁS NÉLKÜL",
         "txtlength": 10828
