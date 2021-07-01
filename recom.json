@@ -1,5 +1,203 @@
 [
     {
+        "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/fokhagymas-sajtos-inycsiklando-cukkini-sutoben-sutve",
+        "h1": "Fokhagymás-sajtos ínycsiklandó cukkini sütőben sütve",
+        "txtlength": 11623
+    },
+    {
+        "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/egyszeru-tejfolos-zoldbableves",
+        "h1": "Egyszerű tejfölös zöldbableves",
+        "txtlength": 11104
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/csirkepaprikas-ahogy-schobert-norbi-kesziti.recept",
+        "h1": "CSIRKEPAPRIKÁS, AHOGY SCHOBERT NORBI KÉSZÍTI",
+        "txtlength": 10070
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/karalabes-husgomboc.recept",
+        "h1": "KARALÁBÉS HÚSGOMBÓC",
+        "txtlength": 9680
+    },
+    {
+        "hostname": "kiszamolo.hu",
+        "pagelink": "https://kiszamolo.hu/privatbanki-dijszabas/",
+        "h1": "Privátbanki díjszabás",
+        "txtlength": 33965
+    },
+    {
+        "hostname": "alapblog.hu",
+        "pagelink": "https://alapblog.hu/inflacios-felelmek-2-resz/",
+        "h1": "INFLÁCIÓS FÉLELMEK – 2. RÉSZ",
+        "txtlength": 12580
+    },
+    {
+        "hostname": "kulturpart.hu",
+        "pagelink": "https://kulturpart.blog.hu/2021/06/25/premier_elott_lathato_a_szent_ignac_utja",
+        "h1": "PREMIER ELŐTT LÁTHATÓ A SZENT IGNÁC ÚTJA",
+        "txtlength": 6091
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vilag/20210701/biden-infrastrukturalis-forradalma-nem-eleg-zold-es-nem-szallitja-ki-az-autojukbol-az-amerikaiakat/",
+        "h1": "Biden infrastrukturális forradalma nem elég zöld és nem szállítja ki az autójukból az amerikaiakat",
+        "txtlength": 27932
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/kozelet/20210630/zsidozo-lapnak-es-liberalis-partnak-is-juthat-a-magyar-utepitesek-profitjabol/",
+        "h1": "Zsidózó lapnak és liberális pártnak is juthat a magyar útépítések profitjából",
+        "txtlength": 26967
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/vasarlas/20210628/uj-boltlanc-tarolna-le-magyarorszagot-nemsokara-nyitnak-retteghet-a-spar-auchan-kifli-1115727",
+        "h1": "Új boltlánc tarolná le Magyarországot: nemsokára nyitnak, retteghet a Spar, Auchan, Kifli?",
+        "txtlength": 23679
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/uzlet/20210701/meddig-tarthat-meg-a-brutalis-aremelkedes-az-epitoiparban-es-mi-lesz-ha-beleszol-a-kormany-490566",
+        "h1": "Meddig tarthat még a brutális áremelkedés az építőiparban és mi lesz, ha beleszól a kormány?",
+        "txtlength": 23117
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/szorakozas/20210630/fontos-valtozasok-jonnek-juliustol-erre-szamithatnak-a-magyarok-1115798",
+        "h1": "Fontos változások jönnek júliustól: erre számíthatnak a magyarok",
+        "txtlength": 21983
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://makronom.mandiner.hu/cikk/20210630_baja_sandor_randstad_munka_valsag_gazdasag_makronom_segely_allas_karrier",
+        "h1": "Munkaközvetítő: A családtámogatás nagyon jó irány, sokkal könnyebben jutnak a fiatalok lakáshoz, mint a külföldön",
+        "txtlength": 21466
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210623_szurkolo_szuletik",
+        "h1": "Szurkoló születik",
+        "txtlength": 18915
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210630_czopf_aron_terdeles_hagyomany_vallas_tererzekeles",
+        "h1": "„A térdelés óriási erejű gesztus, amit most a szemünk láttára üresítenek ki” – Czopf Áron a Mandinernek",
+        "txtlength": 18257
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/global/20210630/a-foci-es-a-politika-se-veled-se-nelkuled-viszonyaban-ujat-hoz-a-mostani-europa-bajnoksag-490462",
+        "h1": "A foci és a politika se veled, se nélküled viszonyában újat hoz a mostani Európa-bajnokság",
+        "txtlength": 18131
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/ingatlan/20210630/brutalis-anyagar-emelkedes-nincs-itt-semmi-latnivalo-490524",
+        "h1": "Brutális anyagár-emelkedés? - Nincs itt semmi látnivaló!",
+        "txtlength": 16314
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/egeszseg/ivoviztisztito-berendezes-floewater/",
+        "h1": "A magyar csapvíz nemcsak olcsó, de jó minőségű is: csomagolásmentes vízfogyasztásért indult kampány",
+        "txtlength": 12895
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2021/07/01/sehol-mashol-az-oecd-ben-nem-dragultak-olyan-gyorsan-az-ingatlanok-mint-magyarorszagon-de-a-jarvany-kozbeszolt",
+        "h1": "SEHOL MÁSHOL AZ OECD-BEN NEM DRÁGULTAK OLYAN GYORSAN AZ INGATLANOK, MINT MAGYARORSZÁGON, DE A JÁRVÁNY KÖZBESZÓLT",
+        "txtlength": 7172
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/lajfhekk/szupermarketek-trukkjei-keves-ablak/",
+        "h1": "Szupermarketek trükkjei",
+        "txtlength": 6607
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/07/01/egy-eve-nehezen-nyel-a-jarvany-miatt-nem-ment-orvoshoz-most-kiderult-hogy-rakos",
+        "h1": "Egy éve nehezen nyel, a járvány miatt nem ment orvoshoz, most kiderült, hogy rákos",
+        "txtlength": 19972
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/belfold/2021/06/30/boldog-istvan-hivatali-vesztegetes-elfogadasa-elokeszito-ules",
+        "h1": "Nem maffiaállamban élünk, hivatalosan kérnek 10 százalékot a projektből – elkezdődött a Boldog-ügy a törvényszéken",
+        "txtlength": 19317
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/06/30/mit-tehet-az-akinek-antitestje-sincs-es-sejtes-immunitast-sem-mertek-nala-az-oltas-utan",
+        "h1": "Mit tehet az, akinek antitestje sincs és sejtes immunitást sem mértek nála az oltás után?",
+        "txtlength": 19069
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20210701_Orban_Viktor_torvenygyar_Fudan_homofobtorveny_jogalkotas",
+        "h1": "Orbán csúcsra járatta a törvénygyárat, pedig korábban megvetette az ilyet",
+        "txtlength": 14704
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/unios-covid-igazolvany-letoltese/d1ps3l8?sl_ps=d_3",
+        "h1": "Uniós Covid-igazolás: hogy néz ki, mire való, honnan lehet szerezni – Mától Önnek is lehet, mutatjuk, mit tud",
+        "txtlength": 14065
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/koronavirus/2021/07/01/unio-covid-igazolvany-zoldigazolvany-utazas-eu-europa-oltas-vakcina",
+        "h1": "Itt az uniós Covid-igazolvány, térképeken mutatjuk, mit kezdhet vele",
+        "txtlength": 14050
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/gazdasag/20210630_A_netes_rendeles_Kinabol_nehezebbe_es_dragabba_Szlovakiabol_konnyebbe_valik",
+        "h1": "A netes rendelés Kínából nehezebbé és drágábbá, Szlovákiából könnyebbé válik",
+        "txtlength": 13220
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kulfold/2021/06/30/a-pornosztar-a-kokain-es-a-negyes-gyilkossag-amiert-igazan-senki-sem-bunhodott-meg",
+        "h1": "A pornósztár, a kokain és a négyes gyilkosság, amiért igazán senki sem bűnhődött meg",
+        "txtlength": 12939
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/krimi/soproni-agi-meggyilkolasa-nyomozas-kisvaros/b7pjgps",
+        "h1": "Kiderült: ezért kellett meghalnia Soproni Ági színésznőnek – A nyomozás megdöbbentő részletei",
+        "txtlength": 12526
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2021/07/01/oltas-koronavirus-statisztika-heti-vakcinaosszegzo/",
+        "h1": "Csak a tinik hatodát regisztrálták oltásra, húszezer második Pfizer-adag gazdátlan maradt",
+        "txtlength": 12347
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/sport/20210630_Kezdo_tizenegy_nyolcaddonto_tippek_allas",
+        "h1": "Kezdő tizenegy: a franciák kiesésén buktak a legtöbben, megérte hinni az esélytelenekben",
+        "txtlength": 11845
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kulfold/2021/07/01/unios-oltasi-igazolas-eu-covid-igazolas-vakcinautlevel/",
+        "h1": "Íme minden tudnivaló a mától elérhető uniós oltási igazolásról",
+        "txtlength": 11589
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://sport24.24.hu/foci/2021/06/30/futball-filozofia-guardiola-sen-mourinho/",
+        "h1": "Josep Guardiola vagy Amartya Sen a fontosabb filozófusa a világnak? ",
+        "txtlength": 10125
+    },
+    {
         "hostname": "mindmegette.hu",
         "pagelink": "https://www.mindmegette.hu/mogyoros-nutellas-nugatszelet.recept",
         "h1": "MOGYORÓS-NUTELLÁS NUGÁTSZELET",
