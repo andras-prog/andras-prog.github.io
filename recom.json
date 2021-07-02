@@ -1,6 +1,204 @@
 [
     {
         "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/kovaszos-uborka",
+        "h1": "Kovászos uborka",
+        "txtlength": 10538
+    },
+    {
+        "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/hazi-levendulaszorp",
+        "h1": "Házi levendulaszörp",
+        "txtlength": 10292
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/csopaki-apropecsenye-egyszeruen.recept",
+        "h1": "CSOPAKI APRÓPECSENYE",
+        "txtlength": 10218
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/husito-citromos-tiramisu-poharkrem.recept",
+        "h1": "HŰSÍTŐ CITROMOS TIRAMISU POHÁRKRÉM",
+        "txtlength": 10177
+    },
+    {
+        "hostname": "hataratkelo.blog.hu",
+        "pagelink": "https://hataratkelo.blog.hu/2021/06/28/ez_nem_feher_embernek_valo_avagy_rasszista_vagyok_akar_akarom_akar_nem",
+        "h1": "Ez nem fehér embernek való, avagy rasszista vagyok… akár akarom, akár nem",
+        "txtlength": 72497
+    },
+    {
+        "hostname": "kulturpart.hu",
+        "pagelink": "https://kulturpart.hu/2021/06/25/premier_elott_lathato_a_szent_ignac_utja",
+        "h1": "PREMIER ELŐTT LÁTHATÓ A SZENT IGNÁC ÚTJA",
+        "txtlength": 6260
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2021/07/02/szektavezernek-tartottak-amerikai-elnok-akart-lenni-vegul-egy-spanyol-bortonben-halt-meg-a-virusirtok-osatyja",
+        "h1": "SZEKTAVEZÉRNEK TARTOTTÁK, AMERIKAI ELNÖK AKART LENNI, VÉGÜL EGY SPANYOL BÖRTÖNBEN HALT MEG A VÍRUSIRTÓK ŐSATYJA",
+        "txtlength": 27507
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210623_nincs_ok_alaasni_az_alaptorveny_legitimitasat",
+        "h1": "Nincs ok aláásni az Alaptörvény legitimitását – amerikai professzor a Mandinernek",
+        "txtlength": 21289
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/adat/20210629/mindenkit-megteveszthetett-a-koronavirus-halalozasi-adatokkal-az-operativ-torzs/",
+        "h1": "Mindenkit megtéveszthetett a koronavírus halálozási adatokkal az operatív törzs",
+        "txtlength": 19949
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vallalat/20210702/nem-csak-az-epitoiparnak-segitene-orban-ha-megallitana-az-aremelkedest-de-nem-fogja/",
+        "h1": "Nem csak az építőiparnak segítene Orbán, ha megállítaná az áremelkedést, de nem fogja",
+        "txtlength": 19520
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210701_mesterhazy_a_fidesznek_van_egy_vilagos_vilagkepe_magyarorszagrol",
+        "h1": "Mesterházy: „A Fidesznek van egy világos világképe Magyarországról”",
+        "txtlength": 19272
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210702_a_fovarosi_epitesek_utemezese_organizacioja_elegtelen_tarlos_istvan_a_mandinernek",
+        "h1": "Elégtelen a fővárosi építések ütemezése – Tarlós István a Mandinernek",
+        "txtlength": 19202
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/global/20210702/ez-var-rank-is-nagy-atoltottsag-mellett-robbant-be-durvan-a-jarvany-a-briteknel-de-a-tragedia-eddig-elmaradt-490724",
+        "h1": "Ez vár ránk is? Nagy átoltottság mellett robbant be durván a járvány a briteknél - de a tragédia eddig elmaradt",
+        "txtlength": 19040
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/global/20210701/100-eves-a-vilag-egyik-legerosebb-szervezete-amely-globalis-szuperhatalomma-tette-kinat-490694",
+        "h1": "100 éves a világ egyik legerősebb szervezete, amely globális szuperhatalommá tette Kínát",
+        "txtlength": 18181
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/otthon/20210629/medences-luxushazakra-kattant-ra-a-magyar-elit-nem-sajnaljak-a-tizmilliokat-1115782",
+        "h1": "Medencés luxusházakra kattant rá a magyar elit: nem sajnálják a tízmilliókat",
+        "txtlength": 18153
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.penzcentrum.hu/biztositas/20210702/ezt-feltetlenul-ellenorizd-a-lakasban-nyaralas-elott-egy-ilyen-hibara-ramehet-a-vakacio-1115823",
+        "h1": "Ezt feltétlenül ellenőrizd a lakásban nyaralás előtt: egy ilyen hibára rámehet a vakáció",
+        "txtlength": 17254
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/tech/20210701/oriasi-vilagbajnoksagrol-marad-le-budapest-2021-ben-keves-volt-az-ido-a-szovetseg-sem-lepett-1115888",
+        "h1": "Óriási világbajnokságról marad le Budapest 2021-ben: kevés volt az idő, a szövetség sem lépett",
+        "txtlength": 16385
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/otthon/ilyenek-voltak-a-hobbitelkek/",
+        "h1": "Imádtuk a hobbitelket, pedig fáradtabban mentünk vissza a hétvégéről: szépült a kert, szólt a rádió",
+        "txtlength": 13982
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/testem/magas-vernyomas-etrend-eletmod/",
+        "h1": "Magas vérnyomás étrend életmód",
+        "txtlength": 11484
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/lajfhekk/fokhagyma-csirazas/",
+        "h1": "Fokhagyma csírázás",
+        "txtlength": 6449
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://qubit.hu/2021/07/02/szektavezernek-tartottak-amerikai-elnok-akart-lenni-vegul-egy-spanyol-bortonben-halt-meg-a-virusirtok-osatyja",
+        "h1": "SZEKTAVEZÉRNEK TARTOTTÁK, AMERIKAI ELNÖK AKART LENNI, VÉGÜL EGY SPANYOL BÖRTÖNBEN HALT MEG A VÍRUSIRTÓK ŐSATYJA",
+        "txtlength": 27106
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/07/02/a-kormanynak-a-valasztasokig-kell-a-hitelmoratorium-es-az-adosoknak",
+        "h1": "A kormánynak a választásokig kell a hitelmoratórium. És az adósoknak?",
+        "txtlength": 24272
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kultura/2021/07/01/thomas-vinterberg-portre-meg-egy-kort-mindenkinek-szuletesnap/",
+        "h1": "Pedofil családfőtől jutott el a részeges tanárokig a leghollywoodibb dán",
+        "txtlength": 22592
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20210702_fbi_drogkereskedelem_bunugyek_lebukas",
+        "h1": "Az egyik legjobban szervezett magyar drognagykereskedői hálózat is bedőlt az FBI trükkjének",
+        "txtlength": 21163
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/fn/gazdasag/2021/07/02/kozszolgalati-egyetem-nke-unios-projekt-vizsgalat-ellenorzes-penzugyi-korrekcio-patyi-andras-hadhazy-akos/",
+        "h1": "Túl nagyot akart meríteni az uniós pénzesbödönből a közszolgálati egyetem",
+        "txtlength": 18832
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20210702_Orban_europai_jobboldal_homofobia",
+        "h1": "Orbán az európai jobboldal vezetője akar lenni, de homofóbiával ez nem fog menni",
+        "txtlength": 15636
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/cegauto/20210702_szentsegtores_vagy_logikus_lepes_teszten_az_elektromos_ford_mustang_mache",
+        "h1": "Szentségtörés vagy logikus lépés? Teszten az elektromos Ford Mustang Mach-E",
+        "txtlength": 13624
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kulfold/2021/07/01/usa-miami-florida-surfside-hazomlas-katasztrofa-romok-riport-mentocsapat",
+        "h1": "Több méter beton alatt lehetnek a hálószobák az összeomlott floridai épületben, de az eső segíthet a túlélésben",
+        "txtlength": 11685
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2021/07/02/m-richard-jogeros-itelet-dozsa-gyorgy-uti-baleset/",
+        "h1": "Három és fél évre csökkentették M. Richárd büntetését",
+        "txtlength": 10970
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/koronavirus/2021/07/01/unios-covid-igazolvany-magyarorszag-indulas-letoltes-problema-fennakadas",
+        "h1": "Van, akinél két első oltást mutat, másból professzort csinált a magyar uniós Covid-igazolvány",
+        "txtlength": 10840
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/orban-viktor-bejelentes-kossuth-radio-julius-2-pentek/kpc2r2b?sl_ps=d_4",
+        "h1": "Orbán Viktor: nincs halálos áldozata a koronavírusnak, ma elérjük az 5,5 millió beoltottat, hamarosan jönnek az enyhítések",
+        "txtlength": 10817
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/belfold/2021/07/02/dozsa-gyorgy-uti-baleset-m-richard-jogeros-itelet",
+        "h1": "M. Richárdot jogerősen három és fél év letöltendő szabadságvesztésre ítélték a Dózsa György úti baleset miatt",
+        "txtlength": 10425
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/krimi/bajnok-utca-amokfutas-retteges-lakok-tek/rv5z4qv",
+        "h1": "Tíz lövést adott le a TEK-esekre az ámokfutó Krisztián – Döbbenetes részletek a Bajnok utcai elfogásról",
+        "txtlength": 10300
+    },
+    {
+        "hostname": "nosalty.hu",
         "pagelink": "https://www.nosalty.hu/recept/fokhagymas-sajtos-inycsiklando-cukkini-sutoben-sutve",
         "h1": "Fokhagymás-sajtos ínycsiklandó cukkini sütőben sütve",
         "txtlength": 11623
