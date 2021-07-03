@@ -1,5 +1,185 @@
 [
     {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/toltott-cukkinihajo.recept",
+        "h1": "TÖLTÖTT CUKKINIHAJÓ",
+        "txtlength": 11072
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/csolnoki-libaleves.recept",
+        "h1": "CSOLNOKI LIBALEVES",
+        "txtlength": 10884
+    },
+    {
+        "hostname": "hataratkelo.blog.hu",
+        "pagelink": "https://hataratkelo.blog.hu/2021/06/28/ez_nem_feher_embernek_valo_avagy_rasszista_vagyok_akar_akarom_akar_nem#c40765002",
+        "h1": "Ez nem fehér embernek való, avagy rasszista vagyok… akár akarom, akár nem",
+        "txtlength": 76723
+    },
+    {
+        "hostname": "kulturpart.hu",
+        "pagelink": "https://kulturpart.blog.hu/2021/07/02/magyar_filmfesztival_kulfoldi_szemmel",
+        "h1": "MAGYAR FILMFESZTIVÁL, KÜLFÖLDI SZEMMEL",
+        "txtlength": 10083
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210703_dinamikus_fejlodes_alatt_van_az_elovalasztas_intezmenye_molnar_zsolt_a_mandinernek",
+        "h1": "Dinamikus fejlődés alatt van az előválasztás intézménye – Molnár Zsolt a Mandinernek",
+        "txtlength": 26199
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.penzcentrum.hu/vasarlas/20210703/uj-szintre-lephet-a-tejhaboru-konnyen-lehet-hogy-a-vasarlok-huzzak-a-rovidebbet-1115920",
+        "h1": "Új szintre léphet a tejháború: könnyen lehet, hogy a vásárlók húzzák a rövidebbet",
+        "txtlength": 22179
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/podcast/20210703/az-eu-csatlakozas-hiu-remenyei-is-futik-a-keleti-tagallamok-lmbt-es-genderellenes-mozgalmait/",
+        "h1": "Az EU-csatlakozás hiú reményei is fűtik a keleti tagállamok LMBT- és genderellenes mozgalmait",
+        "txtlength": 21105
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vallalat/20210702/egyre-erosebb-a-magyar-kotodese-a-vilag-egyik-legnagyobb-3d-nyomtatokat-gyarto-cegenek/",
+        "h1": "Egyre erősebb a magyar kötődése a világ egyik legnagyobb 3D nyomtatókat gyártó cégének",
+        "txtlength": 19005
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210702_orban_viktor_fidesz_kaczynski_europai_unio",
+        "h1": "Orbán: A Fidesz csatlakozott Kaczynski felhívásához",
+        "txtlength": 17852
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/gazdasag/20210701/uj-jelenseg-jelent-meg-itthon-ime-a-dolgozo-szegenyseg-egyre-tobben-vannak-1115848",
+        "h1": "Új jelenség jelent meg itthon: íme a dolgozó szegénység, egyre többen vannak",
+        "txtlength": 17460
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210701_jakab_peterekre_ratolattak_egy_markologeppel",
+        "h1": "Jakab Péterékre rátolattak egy munkagéppel",
+        "txtlength": 17251
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2021/07/03/hol-van-az-ami-nincs-sehol",
+        "h1": "HOL VAN AZ, AMI NINCS SEHOL?",
+        "txtlength": 16963
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20210702/orban-viktor-megigerte-es-maris-vadonatuj-intezkedeseket-jelentett-be-szijjarto-peter-490908",
+        "h1": "Orbán Viktor megígérte, és máris vadonatúj intézkedéseket jelentett be Szijjártó Péter",
+        "txtlength": 15984
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/ingatlan/20210702/beindult-az-allami-gepezet-retteghet-minden-kulfoldi-epitoanyagos-490892",
+        "h1": "Beindult az állami gépezet! - Retteghet minden külföldi építőanyagos?",
+        "txtlength": 15456
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/nyugdij/20210628/erik-a-sirig-tarto-munka-ezt-mar-nem-lehet-helyrehozni-brutalis-nyugdijkorhatar-emeles-johet-1115785",
+        "h1": "Érik a sírig tartó munka: ezt már nem lehet helyrehozni, brutális nyugdíjkorhatár emelés jöhet",
+        "txtlength": 13341
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/fogyokura/kardio-edzes-otthon/",
+        "h1": "1000 kalóriát is elégethetsz ezzel a gyakorlatsorral: egyórás intenzív kardió",
+        "txtlength": 12512
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/testem/alacsony-fodmap-tartalmu-etrend/",
+        "h1": "Alacsony FODMAP-tartalmú étrend – a puffadás és emésztési problémák ellen",
+        "txtlength": 10351
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/07/03/18-ev-utan-engedelyeztek-uj-gyogyszert-az-alzheimer-kor-ellen-az-usa-ban-de-orom-helyett-felhaborodas-fogadta-a-dontest",
+        "h1": "18 év után engedélyeztek új gyógyszert az Alzheimer-kór ellen az USA-ban, de öröm helyett felháborodás fogadta a döntést",
+        "txtlength": 19156
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/07/03/trump-leghusegesebb-katonajat-probaljak-ellene-forditani",
+        "h1": "Trump leghűségesebb katonáját próbálják ellene fordítani",
+        "txtlength": 18020
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/elet-stilus/2021/07/03/transznemu-interju-lilla-bendi-nev-a-multbol/",
+        "h1": "Bűnözőként kellett menekülnie, pedig nem követett el semmit, csak ebédelni akart",
+        "txtlength": 17740
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20210703_Orban_Brusszel_homofobtorveny_visszavonulas_EU_Magyarorszag",
+        "h1": "Elszámította magát Orbán a melegellenes törvénnyel, már kevés lesz a pávatánc",
+        "txtlength": 17409
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kultura/2021/07/02/ha-nem-egy-haromszaz-lelkes-szabolcsi-faluban-akkor-hol-laknak-a-homofobok/",
+        "h1": "Ha nem egy háromszáz lelkes szabolcsi faluban, akkor hol laknak a homofóbok?",
+        "txtlength": 15954
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/elet/20210702_Beszolt_Kadarnak_es_Orbannak_is_az_elobbi_birta__85_eves_lenne_Hofi_Geza",
+        "h1": "Beszólt Kádárnak és Orbánnak is: az előbbi bírta – 85 éves lenne Hofi Géza",
+        "txtlength": 15766
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/sport/20210702_kezdo_tizenegy_negyeddonto_tippek",
+        "h1": "Kezdő tizenegy: Ha egyszer nem Franciaország nyeri az Eb-t, akkor ki?",
+        "txtlength": 14059
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2021/07/02/alapitvany-tamogatas-lista/",
+        "h1": "A kormány visszamenőlegesen listáztatja a civil szervezetek támogatóit, de a pártalapítványok megnyugodhatnak",
+        "txtlength": 13853
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kulfold/2021/07/02/25-ev-utan-keresik-az-igazsagot-az-ir-partoknal-meggyilkolt-francia-norol",
+        "h1": "Huszonöt év után keresik az igazságot az ír partoknál meggyilkolt francia nőről",
+        "txtlength": 13717
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/belfold/2021/07/03/obuda-hajogyari-sziget-sziget-fesztival-nelkul-kutyak-termeszet-budapest",
+        "h1": "Szédítően burjánzó természet a Sziget nélküli szigeten",
+        "txtlength": 13386
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/eszkombajn/2021/07/03/pay-per-view-boksz-okolvivas-thomas-edison-eszkombajn",
+        "h1": "Edison bokszoló macskái kövezték ki az utat a fizetős tévézésnek",
+        "txtlength": 11913
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/sztarvilag/kultura/vallay-a-csodakapus-vogt-karoly-halala/8gg21f1?sl_ps=d_10",
+        "h1": "Tragikus körülmények között halt meg az egyik legismertebb magyar film főszereplője",
+        "txtlength": 10085
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/enyhitesek-maszkviseles-vedettsegi-igazolvany-55-millio-beoltott-magyar-kozlony/vdh0hs0?sl_ps=d_3",
+        "h1": "Így változott meg szombat hajnaltól az életünk",
+        "txtlength": 9952
+    },
+    {
         "hostname": "nosalty.hu",
         "pagelink": "https://www.nosalty.hu/recept/kovaszos-uborka",
         "h1": "Kovászos uborka",
