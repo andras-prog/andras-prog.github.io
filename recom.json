@@ -1,6 +1,204 @@
 [
     {
         "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/cukkinis-gombas-pite.recept",
+        "h1": "CUKKINIS-GOMBÁS PITE",
+        "txtlength": 11013
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/mediterran-tepsis-csirkemell.recept",
+        "h1": "MEDITERRÁN TEPSIS CSIRKEMELL",
+        "txtlength": 10626
+    },
+    {
+        "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/edesmama-meggyes-piteje",
+        "h1": "Édesmama meggyes pitéje",
+        "txtlength": 10518
+    },
+    {
+        "hostname": "kiszamolo.hu",
+        "pagelink": "https://kiszamolo.hu/digitalis-vedettsegi-igazolas/",
+        "h1": "Digitális védettségi igazolás",
+        "txtlength": 32323
+    },
+    {
+        "hostname": "efesasanisimasa.com",
+        "pagelink": "https://efesasanisimasa.com/2021/07/02/zappa-2020/",
+        "h1": "Zappa (2020)",
+        "txtlength": 8685
+    },
+    {
+        "hostname": "alapblog.hu",
+        "pagelink": "https://alapblog.hu/a-henkel-szarnyalasa-dicsoseg-vagy-veszteseg/",
+        "h1": "A HENKEL SZÁRNYALÁSA. DICSŐSÉG VAGY VESZTESÉG?",
+        "txtlength": 6204
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/krtk/20210703/kiskakas-vagy-javorszarvas-covid-valsagmenedzseles-franciaorszagban-es-svedorszagban-490634",
+        "h1": "Kiskakas vagy jávorszarvas: COVID-válságmenedzselés Franciaországban és Svédországban",
+        "txtlength": 24876
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210703_tihany_kiralykripta",
+        "h1": "Ezer év rejtélyei nyomában Tihanyban – régész és genetikus mesél a Mandinernek",
+        "txtlength": 24800
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/elet/20210704/mit-tanulhatunk-abbol-hogy-haromezer-eve-osszeomlott-a-civilizacio/",
+        "h1": "Mit tanulhatunk abból, hogy háromezer éve összeomlott a civilizáció?",
+        "txtlength": 23474
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/hitel/20210703/nem-csitul-a-felujitasi-laz-ezekert-a-hitelekert-ostromoltak-a-magyar-csaladok-a-bankokat-1115922",
+        "h1": "Nem csitul a felújítási láz: ezekért a hitelekért ostromolták a magyar családok a bankokat",
+        "txtlength": 21260
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vallalat/20210702/nehany-egyszeru-es-akar-ingyenes-alkalmazassal-nagyot-lephetnek-elore-a-kisvallalkozasok-a-digitalizacioban-es-a-novekedesben/",
+        "h1": "Néhány egyszerű és akár ingyenes alkalmazással nagyot léphetnek előre a kisvállalkozások a digitalizációban és a növekedésben",
+        "txtlength": 19022
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/global/20210704/nyakunkon-a-katasztrofa-ketteszakithatja-europat-a-klimavaltozas-490918",
+        "h1": "Nyakunkon a katasztrófa, kettészakíthatja Európát a klímaváltozás",
+        "txtlength": 16893
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/uzlet/20210703/focimeccseken-bulikban-futoversenyen-vizsgaltak-a-koronavirus-terjedeset-itt-vannak-az-elso-eredmenyek-490968",
+        "h1": "Focimeccseken, bulikban, futóversenyen vizsgálták a koronavírus terjedését - Itt vannak az első eredmények",
+        "txtlength": 16352
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210623_nem_vagyunk_szentek_csak_hirnokok_ok_az_eucharisztikus_kongresszus_hirnokei",
+        "h1": "„Nem vagyunk szentek, csak hírnökök” – ők az Eucharisztikus Kongresszus hírvivői",
+        "txtlength": 15680
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/hitel/20210630/hitelmoratorium-ennyibe-kerul-az-adosoknak-az-eredeti-futamido-visszaallitasa-1115822",
+        "h1": "Hitelmoratórium: ennyibe kerül az adósoknak az eredeti futamidő visszaállítása",
+        "txtlength": 15321
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210630_a_magyar_identitas_belulrol_jon",
+        "h1": "A magyar identitás belülről jön – Lotfi Begi a Mandinernek",
+        "txtlength": 15285
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/szuloseg/kamasz-orult-netes-kihivasok/",
+        "h1": "Kamasz tinédzser őrült netes kihívás online baleset veszélyes TikTok",
+        "txtlength": 13809
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2021/07/04/tudtad-hogy-rossz-zenet-hallgatsz",
+        "h1": "TUDTAD, HOGY ROSSZ ZENÉT HALLGATSZ?",
+        "txtlength": 12639
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/utazas/illancs-tortenete/",
+        "h1": "A magyar sivatag, ahonnan eltűnt a lakosság egy éjszaka alatt: Illancs története tele van fordulattal",
+        "txtlength": 10450
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/testem/swimrun-szabalyok-felkeszules/",
+        "h1": "Swimrun szabályok felkészülés",
+        "txtlength": 9926
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kultura/2021/07/04/skandinav-krimi-risk-matine-konyvajanlo/",
+        "h1": "Egy hónap után leltek rá a nejlongubóba zárt holttestre",
+        "txtlength": 38620
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/elet-stilus/2021/07/04/tudakozo-plusz-telefonszam-tavoktatas-dolgozat/",
+        "h1": "„Diákok dolgozatírás közben is próbálnak tőlünk segítséget kérni” – mit kérdeznek manapság a különleges tudakozótól?",
+        "txtlength": 17633
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20210704_2006_osz_tunteto_karterites_serult_rendor",
+        "h1": "Tüntetők kaptak kártérítést 2006 miatt, több száz sérült rendőr még mindig nem",
+        "txtlength": 17441
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/tudomany/20210703_xiaomi_mi_band_6_vagy_honor_band_6_teszt_velemeny",
+        "h1": "Mit tudnak a 16 ezer forintos kütyük, amik figyelik a légzésünket, mozgásunkat, alvásunkat?",
+        "txtlength": 15742
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://qubit.hu/2021/07/04/tudtad-hogy-rossz-zenet-hallgatsz",
+        "h1": "TUDTAD, HOGY ROSSZ ZENÉT HALLGATSZ?",
+        "txtlength": 12639
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://eb2020.24.hu/kozvetites/2021/07/03/foci-eb-2020-ukrajna-anglia-negyeddonto-meccs-elo/",
+        "h1": "Anglia fejesgólokkal ütötte ki Ukrajnát, és ott van az elődöntőben",
+        "txtlength": 12584
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/07/03/gyakoroljunk-nyomast-meszaros-lorincre-hogy-hazankhoz-melto-fellepot-hivjon-a-penzunkbol-az-eskuvojere",
+        "h1": "Gyakoroljunk nyomást Mészáros Lőrincre, hogy hazánkhoz méltó fellépőt hívjon a pénzünkből az esküvőjére!",
+        "txtlength": 12527
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20210703_Beer_Miklos_lmbtq",
+        "h1": "Beer Miklós: Nem szerencsés az, amikor politikusok illetéktelenül a kereszténységre hivatkoznak",
+        "txtlength": 12433
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/aba-samuel-kiralyi-sir-abasar/gnzdchp?sl_ps=d_6",
+        "h1": "Szenzációs felfedezés tartja lázban a Heves megyei falut, Abasárt",
+        "txtlength": 11814
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/szorakozas/2021/07/04/kopaszi-gat-duna-part-szabadstrand-sho-beach",
+        "h1": "A Mol-torony és a feltuningolt lángosok ölelésében fürödhetünk Budapesten is a Dunában",
+        "txtlength": 11631
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/sport/2021/07/03/foci-eb-anglia-ukrajna-negyeddonto",
+        "h1": "Anglia gyors gólokkal zúzta szét Ukrajnát, 4-0-val elődöntős",
+        "txtlength": 10127
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/belfold/2021/07/03/alapjarat-a-szembe-jovo-auto-elott-vagy-mogott-kell-a-keresztezodesben-balra-kanyarodni",
+        "h1": "A szemből kanyarodó autó előtt vagy mögött kell a kereszteződésben balra kanyarodni?",
+        "txtlength": 10042
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/sztarvilag/kultura/vallay-a-csodakapus-vogt-karoly-halala/8gg21f1",
+        "h1": "Tragikus körülmények között halt meg az egyik legismertebb magyar film főszereplője",
+        "txtlength": 10026
+    },
+    {
+        "hostname": "mindmegette.hu",
         "pagelink": "https://www.mindmegette.hu/toltott-cukkinihajo.recept",
         "h1": "TÖLTÖTT CUKKINIHAJÓ",
         "txtlength": 11072
