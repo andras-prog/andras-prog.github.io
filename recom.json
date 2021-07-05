@@ -1,6 +1,198 @@
 [
     {
         "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/paprikas-krumpli-ahogy-horvath-greta-kesziti.recept",
+        "h1": "PAPRIKÁS KRUMPLI, AHOGY HORVÁTH GRÉTA KÉSZÍTI",
+        "txtlength": 11417
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/cukkinitocsni-mentas-joghurtos-martogatossal.recept",
+        "h1": "CUKKINITÓCSNI MENTÁS-JOGHURTOS MÁRTOGATÓSSAL",
+        "txtlength": 10830
+    },
+    {
+        "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/meggyes-piskota",
+        "h1": "Meggyes piskóta",
+        "txtlength": 10023
+    },
+    {
+        "hostname": "kulturpart.hu",
+        "pagelink": "https://kulturpart.blog.hu/2021/07/04/_nagyon_ugyeltem_arra_hogy_ne_legyen_bulvaros",
+        "h1": "„NAGYON ÜGYELTEM ARRA, HOGY NE LEGYEN BULVÁROS”",
+        "txtlength": 15221
+    },
+    {
+        "hostname": "alapblog.hu",
+        "pagelink": "https://alapblog.hu/milyen-lehet-egy-szlovak-kortars-regeny/",
+        "h1": "MILYEN LEHET EGY SZLOVÁK KORTÁRS REGÉNY?",
+        "txtlength": 5762
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20210705/ezek-azok-a-szikrak-amelyek-belobbanthatjak-a-negyedik-jarvanyhullamot-magyarorszagon-491090",
+        "h1": "Ezek azok a szikrák, amelyek belobbanthatják a negyedik járványhullámot Magyarországon",
+        "txtlength": 27452
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210630_meggyozhetok_az_oltatlanok",
+        "h1": "Megtorpant az oltakozási kedv – vajon meggyőzhetők az oltatlanok?",
+        "txtlength": 24478
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/bank/20210705/hiperugrasra-keszulhetnek-a-magyar-vallalkozasok-megerkeztek-hozza-az-uj-hitelek-491044",
+        "h1": "Hiperugrásra készülhetnek a magyar vállalkozások, megérkeztek hozzá az új hitelek",
+        "txtlength": 18347
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/kozelet/20210705/mikozben-kevesebb-penz-jut-a-felsooktatasra-a-kulfoldi-egyetemistak-osztondijkerete-emelkedik/",
+        "h1": "Miközben kevesebb pénz jut a felsőoktatásra, a külföldi egyetemisták ösztöndíjkerete emelkedik",
+        "txtlength": 18316
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/penz/20210701/nincs-sok-hatra-a-kedvezo-kamatozasu-lakashitelek-korabol/",
+        "h1": "Nincs sok hátra a kedvező kamatozású lakáshitelek korából",
+        "txtlength": 17555
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20210704/tiz-eves-a-vilag-legfiatalabb-orszaga-ahol-a-humanitarius-valsag-meg-borzasztobb-dologga-fajulhat-491038",
+        "h1": "Tíz éves a világ legfiatalabb országa, ahol a humanitárius válság még borzasztóbb dologgá fajulhat",
+        "txtlength": 16458
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/gyerek/sikeres-gyerek-csaladja/",
+        "h1": "Ilyen a család, ha sikeres a gyerek: ezek a tényezők nagyban segítenek, hogy ne kallódjon el",
+        "txtlength": 15308
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/karrier/20210630/sok-vagy-keves-ennyi-volt-a-brutto-atlagkereset-aprilisban-1115831",
+        "h1": "Sok, vagy kevés? Ennyi volt a bruttó átlagkereset áprilisban",
+        "txtlength": 14667
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210630_husz_evet_toltottem_yoko_onoval",
+        "h1": "Húsz évet töltöttem Yoko Onóval – Havadtőy Sámuel a Mandinernek",
+        "txtlength": 13968
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210704_tobbkulcsos_szja_vagyonado_zoldado_itt_van_karacsonyek_programja",
+        "h1": "Többkulcsos szja, vagyonadó, zöldadó: itt van Karácsonyék programja",
+        "txtlength": 13882
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/tech/20210701/mar-a-magyar-nyugdijasokat-is-sujtja-a-modern-kor-egyre-kevesebben-tudnak-ellenallni-a-csabitasnak-1115852",
+        "h1": "Már a magyar nyugdíjasokat is sújtja a modern kór: egyre kevesebben tudnak ellenállni a csábításnak",
+        "txtlength": 12920
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2021/07/05/40-millio-rabszolga-dolgozik-a-foldon-embertelen-korulmenyek-kozott-es-mi-is-hozzajarulunk-a-kizsakmanyolasukhoz",
+        "h1": "40 MILLIÓ RABSZOLGA DOLGOZIK A FÖLDÖN EMBERTELEN KÖRÜLMÉNYEK KÖZÖTT, ÉS MI IS HOZZÁJÁRULUNK A KIZSÁKMÁNYOLÁSUKHOZ",
+        "txtlength": 12614
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/szuloseg/gyerek-kinevet/",
+        "h1": "Gyerek kinevet",
+        "txtlength": 10925
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/testem/inzulinrezisztencia-ir-igt-ifg-mit-jelent/",
+        "h1": "Inzulinrezisztencia, IR, IGT, IFG. Mit jelent?",
+        "txtlength": 9448
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/07/05/amikor-egy-rezsimmel-kuzdunk-nincs-helye-a-finomkodasnak-igy-kampanyol-jakab-peter",
+        "h1": "„Amikor egy rezsimmel küzdünk, nincs helye finomkodásnak” - Így kampányol Jakab Péter",
+        "txtlength": 24071
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/elet/20210704_szivarvanyhaboru_junius_kult_osszefoglalo",
+        "h1": "Szivárványháborúval robbant be a nyár, de a NER-szerelem virágzik a tengerparton",
+        "txtlength": 17342
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20210704_magyarorszag_uzbegisztan_kapcsolat",
+        "h1": "Üzbegisztán minden befektetőt szívesen lát, aki nem törődik az emberi jogokkal, így Magyarországot is",
+        "txtlength": 16485
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2021/07/04/pedofil-torveny-salata-jogi-elemzes-orban-viktor-sandor-zsuzsa-velemeny/",
+        "h1": "Hogy kerülhetett ennyi rohadt levél egy salátába?",
+        "txtlength": 15274
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/szorakozas/2021/07/05/loki-magyarazo-marvel-utalasok-easter-egg-disney",
+        "h1": "A Marvel sem tud többet, mint Óz, a nagy varázsló",
+        "txtlength": 15259
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/gazdasag/2021/07/05/mindenki-dobalja-a-forro-burgonyat-ki-miatt-van-dugo-a-belvarosban",
+        "h1": "Ki miatt vannak dugók Budapesten? Az igazság odalent van",
+        "txtlength": 14476
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kulfold/2021/07/05/soros-elnokseg-eu-szlovenia-franciaorszag/",
+        "h1": "Egy baráti fél év után Macron a választás előtt eshet neki Orbán kormányának",
+        "txtlength": 14103
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/07/04/a-legkulonlegesebb-atlagos-csalad-tortenetere-tiz-eve-vart-a-magyar-mozi",
+        "h1": "A legkülönlegesebb átlagos család történetére tíz éve várt a magyar mozi",
+        "txtlength": 11509
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/belfold/2021/07/04/szenvedelybetegseg-koronavirus-gyor-maltai-szeretetszolgalat",
+        "h1": "Negyvenkét éves volt, alkoholista. A járvány alatt elvesztettük",
+        "txtlength": 11296
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2021/07/05/klauzal-teri-csarnok-gastro-market/",
+        "h1": "Niedermüllerék a Fidesz segítségével adták ki a Klauzál téri csarnokot",
+        "txtlength": 10794
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/sztarvilag/kultura/onedin-kapitany-evfordulo-peter-gilmore/zep27x6?sl_ps=d_6",
+        "h1": "Emlékszik még? Tíz érdekesség a legendás sorozatról, amit esténként hatmillióan néztek Magyarországon – A főcímzenét nem lehet kiverni a fejünkből",
+        "txtlength": 10399
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/politika/magyar-politikusok-balaton-pihenes-dobrev-klara/2sw2yy2?sl_ps=d_12",
+        "h1": "Balatoni nyaralást is terveznek idén a vezető politikusok: mutatjuk, hol futhat össze velük",
+        "txtlength": 9911
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/kkv/20210705_kkv_elorelepes_hazai_termek",
+        "h1": "A világjárvány alatt az online megoldások és a hazai alkotók felé fordultunk",
+        "txtlength": 9404
+    },
+    {
+        "hostname": "mindmegette.hu",
         "pagelink": "https://www.mindmegette.hu/cukkinis-gombas-pite.recept",
         "h1": "CUKKINIS-GOMBÁS PITE",
         "txtlength": 11013
