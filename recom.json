@@ -1,5 +1,197 @@
 [
     {
+        "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/meggyleves-pudingporral",
+        "h1": "Meggyleves pudingporral",
+        "txtlength": 10419
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/csikos-hus.recept",
+        "h1": "CSÍKOS HÚS",
+        "txtlength": 10390
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/tejfolos-paradicsomos-krumplileves.recept",
+        "h1": "TEJFÖLÖS-PARADICSOMOS KRUMPLILEVES",
+        "txtlength": 9944
+    },
+    {
+        "hostname": "hataratkelo.blog.hu",
+        "pagelink": "https://hataratkelo.blog.hu/2021/07/04/vissza_europaba_231",
+        "h1": "Vissza Európába",
+        "txtlength": 33820
+    },
+    {
+        "hostname": "kulturpart.hu",
+        "pagelink": "https://kulturpart.hu/2021/07/02/magyar_filmfesztival_kulfoldi_szemmel",
+        "h1": "MAGYAR FILMFESZTIVÁL, KÜLFÖLDI SZEMMEL",
+        "txtlength": 9584
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/hitel/20210702/kifosztjak-a-magyarok-a-bankokat-ugy-eladosodnak-a-nyarra-mintha-nem-lenne-holnap-1115870",
+        "h1": "Kifosztják a magyarok a bankokat: úgy eladósodnak a nyárra, mintha nem lenne holnap",
+        "txtlength": 22209
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vallalat/20210706/lassan-nonek-a-magyar-cegek-meg-mindig-a-multik-uraljak-magyarorszagot/",
+        "h1": "Lassan nőnek a magyar cégek, még mindig a multik uralják Magyarországot",
+        "txtlength": 22141
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/egeszseg/20210705/tonkre-mehet-a-nyaralas-ha-most-enelkul-indulsz-utnak-megeri-kockaztatni-1115977",
+        "h1": "Tönkre mehet a nyaralás, ha most enélkül indulsz útnak: megéri kockáztatni?",
+        "txtlength": 20774
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/penz/20210705/meddig-emelkedik-tovabb-a-kamatszint/",
+        "h1": "Meddig emelkedik tovább a kamatszint?",
+        "txtlength": 19289
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20210706/kielezodo-konfliktusokat-hozhat-az-inflacio-meglodulasa-de-csak-kozos-erovel-lehet-megnyerni-a-harcot-491152",
+        "h1": "Kiéleződő konfliktusokat hozhat az infláció meglódulása, de csak közös erővel lehet megnyerni a harcot",
+        "txtlength": 17936
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210706_julius_20_an_teszi_kozze_jogallamisagi_jelenteset_az_europai_bizottsag",
+        "h1": "Július 20-án teszi közzé jogállamisági jelentéseit az Európai Bizottság",
+        "txtlength": 17696
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210630_felebred_e_a_nyugat",
+        "h1": "Japán a surranópályán – felébred-e a Nyugat?",
+        "txtlength": 17641
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210705_kamala_harris_politico_kulfold",
+        "h1": "Teljes a káosz Kamala Harris alelnöki hivatalában",
+        "txtlength": 17511
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/global/20210706/magyar-segitseggel-fekezhetik-meg-a-vilag-egyik-legveszelyesebb-terrorszervezetet-491180",
+        "h1": "Magyar segítséggel fékezhetik meg a világ egyik legveszélyesebb terrorszervezetét",
+        "txtlength": 15586
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2021/07/06/egyre-tobb-forgatokonyv-szamol-agressziv-zold-fordulattal-az-energiapiacon",
+        "h1": "EGYRE TÖBB FORGATÓKÖNYV SZÁMOL AGRESSZÍV ZÖLD FORDULATTAL AZ ENERGIAPIACON",
+        "txtlength": 13736
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/bank/20210706/jelentos-atrendezodes-johet-az-amerikai-bankszektorban-491158",
+        "h1": "Jelentős átrendeződés jöhet az amerikai bankszektorban",
+        "txtlength": 13456
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/egeszseg/labfajdalom-okai/",
+        "h1": "A bőrkeményedés is jelezhet lábbetegséget: nem csak a magas sarkú cipő okozhatja",
+        "txtlength": 12536
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/szuloseg/szeparacios-szorongas-ellen/",
+        "h1": "Szeparációs szorongás ellen",
+        "txtlength": 11487
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/testem/testszegyenites-vekony-emberek/",
+        "h1": "Testszégyenítés vékony emberek",
+        "txtlength": 8783
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/gazdasag/20210705_ivoviz_ontozes_klimavaltozas",
+        "h1": "Hozzá kell szoknunk: Magyarországon is beköszönt a vízkorlátozások korszaka",
+        "txtlength": 17780
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/sport/2021/07/06/forma-1-red-bull-mercedes-verseny-verstappen-hamilton-fejlesztes",
+        "h1": "F1: a Mercedes bedobta a törölközőt a szezon harmadánál?",
+        "txtlength": 17030
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/tudomany/2021/07/05/erdo-termeszet-oserdo-okologia/",
+        "h1": "Már nincs elég időnk, hogy hagyjuk az erdőt egyedül dolgozni",
+        "txtlength": 12937
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/szorakozas/2021/07/05/scarlott-johansson-csepel-sort-kortyolgatva-bucsuzhat-a-marvel-univerzumtol",
+        "h1": "Scarlett Johansson Csepel sört kortyolgatva búcsúzik a Marvel-univerzumtól",
+        "txtlength": 11983
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/politika/afganisztan-amerikai-hadsereg-kivonulasa-talib-eloretores-terrorizmus-iszlam-taliban/8tgj3w2",
+        "h1": "20 év után kivonul az amerikai hadsereg Afganisztánból, félelem és káosz marad a nyomában – galéria",
+        "txtlength": 11567
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/kkv/20210706_epitoipar_arak_dragulas",
+        "h1": "Ha nem a kormány intézkedései, akkor mi állíthatja meg az építőipar elszabadult árait?",
+        "txtlength": 10562
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/07/05/a-nap-hire-urben-orzott-egerspermabol-szulettek-kisegerek",
+        "h1": "A nap híre: űrben őrzött egérspermából születtek kisegerek",
+        "txtlength": 10259
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/07/05/koronavirus-olte-meg-vlagyimir-menysovot-a-moszkva-nem-hisz-a-konnyeknek-rendezojet",
+        "h1": "Koronavírus ölte meg Vlagyimir Menysovot, a Moszkva nem hisz a könnyeknek rendezőjét",
+        "txtlength": 10230
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/sport/20210705_kezdo_tizenegy_foci_eb_elodonto_tippek",
+        "h1": "Kezdő tizenegy: az lesz a meglepetés, ha Olaszország a döntőbe jut",
+        "txtlength": 9941
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/sztarvilag/filmklikk/forrest-gump-tom-hanks-27-ev/fk53exs",
+        "h1": "Ezek a színészek utasították vissza Forrest Gump szerepét, ő futott Tom Hanks helyett: titkok minden idők egyik kedvenc mozijáról",
+        "txtlength": 9421
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2021/07/06/klauzal-ter-csarnok-berbe-adas/",
+        "h1": "A Momentum az alkalmatlan szerződés miatt ment szembe Niedermüllerrel",
+        "txtlength": 9148
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/fn/gazdasag/2021/07/06/bkv-buszok-kanikulaban-futenek-leallnak-klima/",
+        "h1": "A BKV-buszok egy részét a kánikulában is fűteni kell, hogy le ne álljanak",
+        "txtlength": 8461
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/belfold/2021/07/06/endometriozis-alapitvany-emmi-megallapodas",
+        "h1": "Endometriózis: lehet átjárás a magán- és állami ellátás között az orvosoknak",
+        "txtlength": 6652
+    },
+    {
         "hostname": "mindmegette.hu",
         "pagelink": "https://www.mindmegette.hu/paprikas-krumpli-ahogy-horvath-greta-kesziti.recept",
         "h1": "PAPRIKÁS KRUMPLI, AHOGY HORVÁTH GRÉTA KÉSZÍTI",
