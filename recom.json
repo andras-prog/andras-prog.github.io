@@ -1,6 +1,198 @@
 [
     {
         "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/cezar-salata",
+        "h1": "Cézár saláta",
+        "txtlength": 11136
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/kemences-pizza-ahogy-szabi-a-pek-kesziti.recept",
+        "h1": "KEMENCÉS PIZZA, AHOGY SZABI A PÉK KÉSZÍTI",
+        "txtlength": 10436
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/tukortojas-muffinformaban.recept",
+        "h1": "TÜKÖRTOJÁS MUFFINFORMÁBAN",
+        "txtlength": 10404
+    },
+    {
+        "hostname": "kiszamolo.hu",
+        "pagelink": "https://kiszamolo.hu/osszefoglalo-a-gyerekesek-allami-tamogatasarol/",
+        "h1": "Összefoglaló a gyerekesek állami támogatásáról.",
+        "txtlength": 32591
+    },
+    {
+        "hostname": "alapblog.hu",
+        "pagelink": "https://alapblog.hu/a-jo-alvas-gazdasagtana/",
+        "h1": "A JÓ ALVÁS GAZDASÁGTANA",
+        "txtlength": 11373
+    },
+    {
+        "hostname": "kulturpart.hu",
+        "pagelink": "https://kulturpart.blog.hu/2021/07/07/a_mult_hazugsagaibol_epulnek_a_jelen_igazsagai",
+        "h1": "A MÚLT HAZUGSÁGAIBÓL ÉPÜLNEK A JELEN IGAZSÁGAI",
+        "txtlength": 11291
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210630_hogyan_tovabb_perzsia",
+        "h1": "Lezajlott az elnökválasztás – mi változhat Iránban?",
+        "txtlength": 21359
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/uzlet/20210707/extrem-novekedes-es-megoszto-uzleti-gyakorlat-tozsdere-megy-a-botranyokat-halmozo-robinhood-491350",
+        "h1": "Extrém növekedés és megosztó üzleti gyakorlat - Tőzsdére megy a botrányokat halmozó Robinhood",
+        "txtlength": 20626
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vilag/20210706/szetesik-e-az-olajkartell-amikor-epp-ujra-diktalhat/",
+        "h1": "Szétesik-e az olajkartell, amikor épp újra diktálhat?",
+        "txtlength": 18785
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/egeszseg/20210706/ujabb-veszedelmes-fertozo-betegseg-csap-le-a-magyarokra-julius-az-egyik-legkegyetlenebb-honap-1116005",
+        "h1": "Újabb veszedelmes fertőző betegség csap le a magyarokra: július az egyik legkegyetlenebb hónap",
+        "txtlength": 16038
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vilag/20210703/a-varosi-lakosok-megsulnek-a-hosegben-egyre-tobb-telepules-szerint-ez-mar-klimabunozes/",
+        "h1": "A városi lakosok megsülnek a hőségben, egyre több település szerint ez már klímabűnözés",
+        "txtlength": 15726
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2021/07/07/a-tomegkozlekedes-a-vartnal-kevesbe-sinyli-meg-a-lanchid-lezarasat-a-gyalogosok-annal-inkabb",
+        "h1": "A TÖMEGKÖZLEKEDÉS A VÁRTNÁL KEVÉSBÉ SÍNYLI MEG A LÁNCHÍD LEZÁRÁSÁT, A GYALOGOSOK ANNÁL INKÁBB",
+        "txtlength": 15079
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/karrier/20210706/ezt-mar-aligha-lehet-visszaforditani-megindultak-a-tomeges-felmondasok-a-munkahelyeken-1116009",
+        "h1": "Ezt már aligha lehet visszafordítani: megindultak a tömeges felmondások a munkahelyeken",
+        "txtlength": 14913
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210706_bloomberg_hirugynokseg_kulfold_sajto_eu_europai_unio_magyarorszag_mark_rutte",
+        "h1": "Bloomberg: Mikor kellene kizárnia az EU-nak Magyarországot, ha nem most?",
+        "txtlength": 14775
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/szuloseg/allat-gyerek-gyogyulas-tabor-czinkoczky-csaba/",
+        "h1": "Gyerek nomád tábor Balaton menhely Czinkóczky Csaba",
+        "txtlength": 14195
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210706_spanyolorszag_szerte_tiltakoznak_lmbtq_szervezetek_egy_24_eves_meleg_ferfi_halala_miatt",
+        "h1": "Spanyolország-szerte tiltakoznak LMBTQ-szervezetek egy 24 éves meleg férfi halála miatt",
+        "txtlength": 13497
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.penzcentrum.hu/auto/20210707/nesze-neked-valsag-rengeteg-meregdraga-csucsautot-vettek-a-leggazdagabb-magyarok-1116028",
+        "h1": "Nesze neked válság: rengeteg méregdrága csúcsautót vettek a leggazdagabb magyarok",
+        "txtlength": 13125
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/uzlet/20210707/kisebb-korrekcio-utan-mar-ujra-emelkednek-az-europai-tozsdek-491458",
+        "h1": "Kisebb korrekció után már újra emelkednek az európai tőzsdék ",
+        "txtlength": 12502
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/egeszseg/oncompass-medicine-eredmeny-nature/",
+        "h1": "Óriási büszkeség: világhírű tudományos lapban jelent meg a magyar rákkutató, dr. Peták István cikke",
+        "txtlength": 12091
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/foci/2021/07/06/sokan-fanyalognak-az-angolokon-de-southgate-nek-preciz-terve-van",
+        "h1": "Sokan fanyalognak az angolokon, de Southgate-nek precíz terve van",
+        "txtlength": 18269
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/politika/taopenzek-fovarosi-egeszsegugy-tamogatas-100-milliard/2k57c9l",
+        "h1": "Újabb fontos bejelentések a kormánytól: megnyitják a csapot, nagyon sok pénzről van szó",
+        "txtlength": 15271
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/gazdasag/2021/07/07/kozel-az-500-forintos-benzin-miert-szall-el-most-mindennek-az-ara",
+        "h1": "Közel az 500 forintos benzin: miért száll el most mindennek az ára?",
+        "txtlength": 15056
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://qubit.hu/2021/07/07/a-tomegkozlekedes-a-vartnal-kevesbe-sinyli-meg-a-lanchid-lezarasat-a-gyalogosok-annal-inkabb",
+        "h1": "A TÖMEGKÖZLEKEDÉS A VÁRTNÁL KEVÉSBÉ SÍNYLI MEG A LÁNCHÍD LEZÁRÁSÁT, A GYALOGOSOK ANNÁL INKÁBB",
+        "txtlength": 14980
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2021/07/07/ep-nyilatkozat-elitel-homofob-pedofiltorveny-orban-viktor/",
+        "h1": "Az Európai Parlament talált pár trükköt, amivel fel lehet lépni a homofób pedofiltörvény ellen",
+        "txtlength": 14288
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kultura/2021/07/07/oasis-dont-look-back-in-anger-angol-valogatott-foci-eb-2020-szurkolok/",
+        "h1": "Létezik egy Oasis-dal, amit imádnak az angolok, de az idén nyáron nem szívesen énekelnék",
+        "txtlength": 13700
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/elet/20210706_Munch_ettermek_applikacio",
+        "h1": "Féláron ehetünk és még jót is teszünk másokkal – erre készítettek appot magyar fiatalok",
+        "txtlength": 12598
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://eb2020.24.hu/kozvetites/2021/07/06/foci-eb-2020-olaszorszag-spanyolorszag-elodonto-meccs-elo/",
+        "h1": "Álvaro Morata előbb visszahozta a spanyol Eb-álmot, majd a tizenegyeseknél szertefoszlatta azt",
+        "txtlength": 12252
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/tudomany/20210707_endometrozis_kezelese_hatekonysag_mutet",
+        "h1": "Minden tizedik nőt érint az endómetrózis – kiderült, hogy nem biztos, hogy műteni kell",
+        "txtlength": 12086
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/sport/20210707_Olaszorszag_Eb_dontos",
+        "h1": "Olaszország nyerte a mediterrán derbit, döntőbe jutott az Eb-n",
+        "txtlength": 11751
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/politika/matolcsy-gyorgy-varga-mihaly-penzugyminiszter-kozepes-valsagkezeles-bizonyitvany/5zwmzqf?sl_ps=d_11",
+        "h1": "Miniszter úr, kiállítottuk a bizonyítványát! A Blikk szakértői értékelték Varga Mihály munkáját",
+        "txtlength": 11030
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/belfold/2021/07/06/850-millio-allami-befektetes-csaj-to-labhajtasos-kisvasut",
+        "h1": "Lábhajtásos kisvasúttal fejlesztene 850 millióból az állam egy elhagyatott alföldi halastavat",
+        "txtlength": 10656
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/sport/2021/07/07/tour-de-france-hegy-kerekpar-mont-ventoux-tortenet-nehezseg-misztral-szel",
+        "h1": "Provence szörnyetege, ahol a Holdon érezhetik magukat a bringások",
+        "txtlength": 10523
+    },
+    {
+        "hostname": "nosalty.hu",
         "pagelink": "https://www.nosalty.hu/recept/meggyleves-pudingporral",
         "h1": "Meggyleves pudingporral",
         "txtlength": 10419
