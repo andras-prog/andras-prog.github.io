@@ -1,6 +1,204 @@
 [
     {
         "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/igazi-strandos-langos",
+        "h1": "Igazi strandos lángos",
+        "txtlength": 14038
+    },
+    {
+        "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/hagyomanyos-edes-fank",
+        "h1": "Hagyományos édes fánk",
+        "txtlength": 13026
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/a-tokeletes-zuzaporkolt-nem-csak-kezdoknek.recept",
+        "h1": "ZÚZAPÖRKÖLT",
+        "txtlength": 10643
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/hazi-meggyszorp-ahogy-a-nagyi-keszitette.recept",
+        "h1": "HÁZI MEGGYSZÖRP",
+        "txtlength": 10253
+    },
+    {
+        "hostname": "receptneked.hu",
+        "pagelink": "https://receptneked.hu/gyors/villamgyors-hacsapuri/",
+        "h1": "Villámgyors hacsapuri recept",
+        "txtlength": 5609
+    },
+    {
+        "hostname": "receptneked.hu",
+        "pagelink": "https://receptneked.hu/gyors/habkonnyu-turogomboc/",
+        "h1": "Habkönnyű túrógombóc recept",
+        "txtlength": 5573
+    },
+    {
+        "hostname": "hataratkelo.blog.hu",
+        "pagelink": "https://hataratkelo.blog.hu/2021/07/06/tolerancia_holland_modra#c40774090",
+        "h1": "Tolerancia holland módra",
+        "txtlength": 57275
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210706_vilagok_talalkozasa_kina_es_a_nyugat",
+        "h1": "Világok találkozása: Kína és a Nyugat",
+        "txtlength": 50581
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/hitel/20210705/megrohantak-a-magyarok-a-bankokat-sietniuk-kell-a-kedvezo-hitelekert-1115956",
+        "h1": "Megrohanták a magyarok a bankokat: sietniük kell a kedvező hitelekért",
+        "txtlength": 23343
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210706_az_ugyeszek_nem_felnek_ibolya_tibor_a_mandinernek",
+        "h1": "Az ügyészek nem félnek – Ibolya Tibor fővárosi főügyész a Mandinernek",
+        "txtlength": 23226
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vallalat/20210708/a-munkaerohiany-uj-szintjet-tapasztaljak-a-kivereztetett-ettermek-csodhullam-johet/",
+        "h1": "A munkaerőhiány új szintjét tapasztalják a kivéreztetett éttermek, csődhullám jöhet",
+        "txtlength": 21143
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/adat/20210707/nagy-hasznot-hajtana-magyarorszagnak-a-zold-atallas/",
+        "h1": "Nagy hasznot hajtana Magyarországnak a zöld átállás",
+        "txtlength": 20845
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210708_lmbtq_ferenc_papa_vatikan_olaszorszag",
+        "h1": "Szivárványos témában csap össze Ferenc pápa az olasz baloldallal",
+        "txtlength": 20334
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20210707/itt-a-kormany-bejelentese-uj-oltasi-akciot-inditanak-491484",
+        "h1": "Itt a kormány bejelentése: új oltási akciót indítanak ",
+        "txtlength": 20236
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/global/20210708/a-brexit-kaosz-utan-most-ujra-szuperhatalomma-valna-nagy-britannia-491598",
+        "h1": "A Brexit-káosz után most újra szuperhatalommá válna Nagy-Britannia",
+        "txtlength": 19289
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/bank/20210708/nagyon-mas-bankot-vettunk-at-mint-amilyen-a-mostani-interju-491586",
+        "h1": "Nagyon más bankot vettünk át, mint amilyen a mostani (Interjú)",
+        "txtlength": 18365
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/otthon/20210706/nem-allnak-le-a-dusgazdag-magyarok-pillanatok-alatt-elkelnek-a-meregdraga-balatoni-nyaralok-1115963",
+        "h1": "Nem állnak le a dúsgazdag magyarok: pillanatok alatt elkelnek a méregdrága balatoni nyaralók",
+        "txtlength": 18217
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/kapcsolat/szabo-attila-interju/",
+        "h1": "„Kerekesszékesként a legbosszantóbb, hogy sok hely számomra egyszerűen nem létezik” - Szabó Attilával beszélgettünk",
+        "txtlength": 14660
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/szuloseg/nyari-gyerekbaleset-gyerek-bicikli-fulladas/",
+        "h1": "Nyári gyerekbaleset vakáció bicikli fulladás",
+        "txtlength": 11508
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2021/07/08/az-agressziv-kinai-terjeszkedestol-tart-bill-nelson-a-nasa-uj-igazgatoja-aki-ujra-felmelegitette-az-urverseny-kifejezest",
+        "h1": "AZ AGRESSZÍV KÍNAI TERJESZKEDÉSTŐL TART BILL NELSON, A NASA ÚJ IGAZGATÓJA, AKI ÚJRA FELMELEGÍTETTE AZ ŰRVERSENY KIFEJEZÉST",
+        "txtlength": 8139
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/tech/2021/07/07/xbox-ajandek-kartya-kod-bitcoin-microsoft-rablas",
+        "h1": "A 3 milliárd forintos ajándékkártya-lopás",
+        "txtlength": 21338
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://tldr.444.hu/2021/07/08/orban-viktor-ordo-nacionalista-poszt-neoliberalizmusa",
+        "h1": "Orbán Viktor ordo-nacionalista poszt-neoliberalizmusa",
+        "txtlength": 19630
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/belfold/2021/07/08/patrick-deneen-politogus-liberalizmus-egyesult-allamok-orban-viktor",
+        "h1": "Megvan az a potenciális amerikai elnök, akivel Orbán Viktor nagyon jól szót értene",
+        "txtlength": 19119
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/07/08/mintha-levennenk-a-terkeprol-gyulat-hajduboszormenyt-vagy-kiskunfelegyhazat",
+        "h1": "Mintha levennénk a térképről Gyulát, Hajdúböszörményt vagy Kiskunfélegyházát",
+        "txtlength": 17767
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/politika/kormanyinfo-gulyas-gergely-bejelentesek-oltasi-kampany/vxx5z1h",
+        "h1": "Gulyás Gergely bejelentése: új oltási kampányt indít az ország",
+        "txtlength": 14679
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/sport/20210707_futball_forradalom_taktika",
+        "h1": "Lezajlott egy futballforradalom, ezt látja most az Eb-n",
+        "txtlength": 13823
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/krimi/dubrovniki-gyilkossag-terhes-feleseg-f-attila/eqsyl95",
+        "h1": "Dubrovnikban szakadékba lökte a terhes feleségét – Megrázó részletek a nyomozásról és egy gyilkos magyar férjről, aki már szabadon mászkál",
+        "txtlength": 12044
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/eszkombajn/2021/07/08/cincinnatus-okori-roma-szenator-dictator-eke-macskafogo",
+        "h1": "Cincinnatus tényleg létezett, és az eke mellől hívták vissza a szenátusba",
+        "txtlength": 11811
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/gazdasag/20210708_inflacio_MNB_dragulas_arak",
+        "h1": "Száguld az infláció, az MNB sem tudta megállítani",
+        "txtlength": 11683
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/elet/20210708_Tiz_meter_magas_szivarvanyos_leggombot_huzott_fel_a_Parlament_ele_a_Hatter_es_az_Amnesty",
+        "h1": "Éles a homofóbtörvény, tíz méter magas szivárványos léggömböt húzott fel a Parlament elé a Háttér és az Amnesty",
+        "txtlength": 11162
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2021/07/07/orban-viktor-ujsagos-video/",
+        "h1": "„Orbán Viktor azt mondta, ismernek a parlamentben” – elmentünk az újságoshoz, akinél bevásárolt a miniszterelnök",
+        "txtlength": 10221
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2021/07/08/kover-laszlo-pedofiltorveny-europai-unio/",
+        "h1": "Kövér László: A Fideszben még vannak erkölcsi normák",
+        "txtlength": 8541
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2021/07/08/elovalasztas-ellenzek-jeloles-indulas-dokumentumok/",
+        "h1": "Nem indulhat az ellenzéki előválasztáson, aki 1990 előtt ügynök volt",
+        "txtlength": 8181
+    },
+    {
+        "hostname": "nosalty.hu",
         "pagelink": "https://www.nosalty.hu/recept/cezar-salata",
         "h1": "Cézár saláta",
         "txtlength": 11136
