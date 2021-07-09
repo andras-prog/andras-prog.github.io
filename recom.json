@@ -1,6 +1,210 @@
 [
     {
         "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/bodzaszorp-tartositoszer-nelkul",
+        "h1": "Bodzaszörp tartósítószer nélkül",
+        "txtlength": 12610
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/halasi-savanyu-sertesmaj.recept",
+        "h1": "HALASI SAVANYÚ SERTÉSMÁJ",
+        "txtlength": 11042
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/3-hozzavalos-bananos-palacsinta.recept",
+        "h1": "3 HOZZÁVALÓS BANÁNOS PALACSINTA",
+        "txtlength": 10423
+    },
+    {
+        "hostname": "receptneked.hu",
+        "pagelink": "https://receptneked.hu/gyors/egyszeru-sajtkrokett/",
+        "h1": "Egyszerű sajtkrokett recept",
+        "txtlength": 5451
+    },
+    {
+        "hostname": "receptneked.hu",
+        "pagelink": "https://receptneked.hu/gyors/hamis-aranygaluska-muffin/",
+        "h1": "Hamis aranygaluska muffin recept",
+        "txtlength": 5169
+    },
+    {
+        "hostname": "kiszamolo.hu",
+        "pagelink": "https://kiszamolo.hu/onkentes-penztarak-nyugdijmegtakaritasok-hogyan-tovabb-iden/",
+        "h1": "Önkéntes pénztárak, nyugdíjmegtakarítások: hogyan tovább idén?",
+        "txtlength": 30545
+    },
+    {
+        "hostname": "efesasanisimasa.com",
+        "pagelink": "https://efesasanisimasa.com/2021/07/05/az-ejfeli-egbolt-the-midnight-sky-2020/",
+        "h1": "Az éjféli égbolt (The Midnight Sky, 2020)",
+        "txtlength": 9394
+    },
+    {
+        "hostname": "alapblog.hu",
+        "pagelink": "https://alapblog.hu/mik-rejtoznek-a-hold-felszine-alatt-hat-mascon-ok/",
+        "h1": "MIK REJTŐZNEK A HOLD FELSZÍNE ALATT? HÁT MASCON-OK!",
+        "txtlength": 6128
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210709_moldova_valasztas",
+        "h1": "A Nyugat felé billen a mérleg Moldovában?",
+        "txtlength": 27843
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/unios-forrasok/20210709/megtudtuk-kritikus-napok-elott-allunk-a-magyar-eu-penzek-jovojet-illetoen-491858",
+        "h1": "Megtudtuk: kritikus napok előtt állunk a magyar EU-pénzek jövőjét illetően",
+        "txtlength": 27626
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/bank/20210709/nagyagyut-igazolt-a-szuperbank-mindenkit-allva-hagynanak-491842",
+        "h1": "Nagyágyút igazolt a szuperbank, mindenkit állva hagynának",
+        "txtlength": 19719
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/bank/20210709/elkepeszto-amit-a-leggazdagabb-magyarok-muvelnek-csak-ugy-halmozzak-a-penzt-491828",
+        "h1": "Elképesztő, amit a leggazdagabb magyarok művelnek: csak úgy halmozzák a pénzt",
+        "txtlength": 18834
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vallalat/20210709/amint-nem-kellett-vedettsegi-egybol-megrohantuk-a-mozikat/",
+        "h1": "Amint nem kellett védettségi, egyből megrohantuk a mozikat",
+        "txtlength": 18613
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/vasarlas/20210709/durvan-megdragult-iden-a-nyugdijasok-elete-nincs-konnyu-dolguk-a-bevasarlasnal-1116075",
+        "h1": "Durván megdrágult idén a nyugdíjasok élete: nincs könnyű dolguk a bevásárlásnál",
+        "txtlength": 17535
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/fizetett-hirdetes/20210708/sok-kicsi-sokra-megy-igy-gyujthetunk-milliokat-gyermekunk-jovojere/",
+        "h1": "Sok kicsi sokra megy: így gyűjthetünk milliókat gyermekünk jövőjére",
+        "txtlength": 17176
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/megtakaritas/20210707/ebbe-teszi-a-penzet-a-hires-magyar-influenszer-dablty-tudhat-valamit-1116030",
+        "h1": "Ebbe teszi a pénzét a híres magyar influenszer, DABLTY: tudhat valamit?",
+        "txtlength": 17104
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210708_karacsony_a_regi_baloldali_receptet_koveti",
+        "h1": "Karácsony a régi baloldali receptet követi – Századvég-elemző a Mandinernek",
+        "txtlength": 15621
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://precedens.mandiner.hu/cikk/20210708_kereszteny_templomokat_egetnek_porig_kanadaban",
+        "h1": "Keresztény templomokat égetnek porig Kanadában",
+        "txtlength": 14469
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2021/07/09/a-tobbseg-szerint-is-bunteti-a-kisebbsegeket-a-pedofiltorveny",
+        "h1": "A TÖBBSÉG SZERINT IS BÜNTETI A KISEBBSÉGEKET A „PEDOFILTÖRVÉNY”",
+        "txtlength": 13605
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/egeszseg/nyakfajdalom-gyakori-okai/",
+        "h1": "Állandó fájdalom a nyak és a vállak környékén: az 5 leggyakoribb ok a merev izmok és fájó tünetek mögött",
+        "txtlength": 12689
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/szuloseg/menstruacio-apa-lanya-dicseret/",
+        "h1": "Menstruáció apa lánya dicséret",
+        "txtlength": 11541
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/koronavirus/2021/07/08/gyerek-pszichologus-fiatalok-koronavirus",
+        "h1": "Évek telhetnek el, mire kiderül, valójában mennyire tette tönkre a gyerekeket a járványidőszak",
+        "txtlength": 27458
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/belfold/2021/07/09/ellenzeki-elovalasztas-miniszterelnok-jeloltek-kampanya-julius-utcai-forum-facebook-felmeresek",
+        "h1": "Karácsony már Orbán kihívójaként kampányol, Dobrev és Jakab egyszemélyes show-t mutat be",
+        "txtlength": 22911
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/07/09/ilyen-lesz-egy-atlagos-nyari-nap",
+        "h1": "Ilyen lesz egy átlagos nyári nap",
+        "txtlength": 21331
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/belfold/2021/07/09/ha-az-elitek-nem-tudnak-szoba-allni-egymassal-ket-parhuzamos-magyarorszag-fog-egymas-mellett-elni",
+        "h1": "Ha az elitek nem tudnak szóba állni egymással, két párhuzamos Magyarország fog egymás mellett élni",
+        "txtlength": 17696
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/elet/20210708_Meg_jo_hogy_az_en_szexualis_nevelesemrol_nem_Orban_Viktor_dontott",
+        "h1": "Még jó, hogy az én szexuális nevelésemről nem Orbán Viktor döntött",
+        "txtlength": 15390
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/gazdasag/20210707_kormanyinfo",
+        "h1": "Gulyás részletezte, hogyan lép fel a kormány az építőipari drágulás ellen",
+        "txtlength": 13849
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/sport/20210709_kezdo_tizenegy_tippek_meglepetes_bravur",
+        "h1": "Dán elődöntő, magyar-francia döntetlen, lengyel, orosz és török égés – ezek voltak az Eb legnagyobb meglepetései és legcsúnyább bukásai",
+        "txtlength": 13833
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/politika/joe-biden-amerikai-elnok-magyar-kocsma-amerikaban-berta-jeno/yf3w74g?sl_ps=d_4",
+        "h1": "Nálam kocsmázott az amerikai elnök! – Joe Bident és Jenőt összeköti fiaik barátsága",
+        "txtlength": 12812
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/fn/gazdasag/2021/07/09/megvontak-az-allami-tamogatas-a-maganovodaktol/",
+        "h1": "Kásler megdicsérte őket, majd megvonták az állami támogatás harmadát a magánóvodáktól",
+        "txtlength": 12509
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/07/08/kisvarda-magyarorszag-svajca-meg-egy-mekit-is-elintezett-sesztak-kepviselo",
+        "h1": "Kisvárda Magyarország Svájca: még egy Mekit is elintézett Seszták képviselő",
+        "txtlength": 11807
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/politika/pedofiltorveny-vitaja-az-europai-parlamentben-fidesz-ellenzek-eu/degfdsl?utm_source=related&utm_medium=www.blikk.hu&utm_campaign=widget-9446979",
+        "h1": "„Élni fogunk a hatalmunkkal, a magyar kormány túl messzire ment” – Össztűz alatt a „pedofiltörvény” az Európai Parlamentben",
+        "txtlength": 10715
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kultura/2021/07/09/cannes-filmfesztival-2021-juliette-binoche-val-kilmer/",
+        "h1": "Juliette Binoche hónaljig merül a mocsokba",
+        "txtlength": 10643
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/tudomany/2021/07/08/idojaras-hokupola-hoseg-amerika/",
+        "h1": "Hőkupola: poklot teremt az időjárás",
+        "txtlength": 9655
+    },
+    {
+        "hostname": "nosalty.hu",
         "pagelink": "https://www.nosalty.hu/recept/igazi-strandos-langos",
         "h1": "Igazi strandos lángos",
         "txtlength": 14038
