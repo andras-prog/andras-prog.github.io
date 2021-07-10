@@ -1,6 +1,204 @@
 [
     {
         "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/tradicionalis-gulyasleves",
+        "h1": "Tradicionális gulyásleves",
+        "txtlength": 12794
+    },
+    {
+        "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/sajtos-cukkinigolyok",
+        "h1": "Sajtos cukkinigolyók",
+        "txtlength": 12182
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/hagymas-rostelyos-kacsazsiros-burgonyaval.recept",
+        "h1": "HAGYMÁS ROSTÉLYOS",
+        "txtlength": 11884
+    },
+    {
+        "hostname": "receptneked.hu",
+        "pagelink": "https://receptneked.hu/gyors/toltott-sult-krumpli/",
+        "h1": "Töltött sült krumpli recept",
+        "txtlength": 5110
+    },
+    {
+        "hostname": "receptneked.hu",
+        "pagelink": "https://receptneked.hu/gyors/toltott-kenyer/",
+        "h1": "Töltött kenyér recept",
+        "txtlength": 5038
+    },
+    {
+        "hostname": "hataratkelo.blog.hu",
+        "pagelink": "https://hataratkelo.blog.hu/2021/07/06/tolerancia_holland_modra#c40777308",
+        "h1": "Tolerancia holland módra",
+        "txtlength": 50503
+    },
+    {
+        "hostname": "kulturpart.hu",
+        "pagelink": "https://kulturpart.blog.hu/2021/07/08/a_haramiak_foztjenek_titkai",
+        "h1": "A HARAMIÁK FŐZTJÉNEK TITKAI",
+        "txtlength": 8785
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/kozelet/20210709/elfogadhatatlan-es-karos-ami-a-magyar-lakaspiacon-tortenik/",
+        "h1": "Elfogadhatatlan és káros, ami a magyar lakáspiacon történik",
+        "txtlength": 28506
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210710_gorogorszag_koronavirus_covid",
+        "h1": "Itt a koronavírus új hulláma, de Görögország még mindig nem tud úszni",
+        "txtlength": 21926
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/ingatlan/20210708/ez-verhette-ki-a-kormanynal-az-epitoipari-biztositekot-mi-all-a-hatterben-491578",
+        "h1": "Ez verhette ki a kormánynál az építőipari biztosítékot! - Mi áll a háttérben?",
+        "txtlength": 19720
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2021/07/10/a-marsrol-szolo-sci-fikbol-a-marslakokrol-nem-sokat-lehet-megtudni-az-emberrol-annal-tobbet",
+        "h1": "A MARSRÓL SZÓLÓ SCI-FIKBŐL A MARSLAKÓKRÓL NEM SOKAT LEHET MEGTUDNI, AZ EMBERRŐL ANNÁL TÖBBET",
+        "txtlength": 19116
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210709_hollandia_drog_bunozes",
+        "h1": "Drogállam lett Hollandia?",
+        "txtlength": 18374
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210708_megallithatja_e_a_moshato_pelenka_a_klimavaltozast_a_nagycsaladosok_elnoke_a_mandinernek",
+        "h1": "Megállíthatja-e a mosható pelenka a klímaváltozást? – a nagycsaládosok elnöke a Mandinernek",
+        "txtlength": 17939
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/vasarlas/20210707/tomegek-rohantak-meg-ezekert-a-termekekert-a-tescot-aldit-mindenkinek-ez-kell-a-hosegben-1116011",
+        "h1": "Tömegek rohanták meg ezekért a termékekért a Tescót, Aldit: mindenkinek ez kell a hőségben",
+        "txtlength": 17555
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/karrier/20210706/boduletes-a-toborzas-ebben-a-szakmaban-450-ezres-kezdofizu-utan-nem-ritka-a-millios-kereset-sem-1116013",
+        "h1": "Bődületes a toborzás ebben a szakmában: 450 ezres kezdőfizu után nem ritka a milliós kereset sem",
+        "txtlength": 17321
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/podcast/20210710/nem-tudjuk-hogyan-kozlekedunk-majd-2056-ban-es-a-koncesszioval-az-adofizetok-alljak-a-kockazatot/",
+        "h1": "Nem tudjuk, hogyan közlekedünk majd 2056-ban, és a koncesszióval az adófizetők állják a kockázatot",
+        "txtlength": 17305
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/lajfhekk/muanyag-hulladek-csokkentese/",
+        "h1": "Műanyag hulladék csökkentése",
+        "txtlength": 16511
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/uzlet/20210710/nem-vesztegeti-az-idot-a-kormany-mar-ajanlatot-is-tett-a-budapesti-repterre-492040",
+        "h1": "Nem vesztegeti az időt a kormány, már ajánlatot is tett a budapesti reptérre",
+        "txtlength": 16415
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20210710/koronavirus-terjed-a-delta-varians-europaban-magyarorszagnak-ket-honapnyi-elonye-van-492046",
+        "h1": "Koronavírus: terjed a delta variáns Európában, Magyarországnak két hónapnyi előnye van ",
+        "txtlength": 12572
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/kapcsolat/eskuvoi-etikett-vendegeknek/",
+        "h1": "Illetlennek tűnsz, ha ezekre nem figyelsz egy esküvőn: a legfontosabb etikettszabályok a vendégeknek",
+        "txtlength": 10953
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/elet/20210709_galvolgyi_janos_interju",
+        "h1": "„Nagyon rossz irányba fordult el a világ, nem tudnám a mai híreket humorral kezelni” – interjú Gálvölgyi Jánossal",
+        "txtlength": 19279
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/07/09/a-deltatol-ments-meg-vakcina-minket",
+        "h1": "A deltától ments meg, vakcina, minket",
+        "txtlength": 16194
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/gazdasag/2021/07/09/gazdasagi-vagy-politikai-okbol-szall-ki-a-magyar-posta-a-szorolappiacrol",
+        "h1": "Több lesz a fideszes szórólap, de az én életemben nincs változás",
+        "txtlength": 15557
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/tudomany/20210710_instat_foci_statisztika",
+        "h1": "Az, hogy Nego sprintelt a leggyorsabban az Eb-n, csak egy adat a 738-ból",
+        "txtlength": 14925
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20210710_nemzeti_konzultacio_valodi_kerdesek",
+        "h1": "Ilyen is lehetne a nemzeti konzultáció: valódi kérdések, amiket a kormány nem mer feltenni",
+        "txtlength": 14075
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2021/07/10/homofob-melegellenes-pedofiltorveny-adom-diakmozgalom-diakok-oktatas/",
+        "h1": "„Nem megnyugtató érzés, hogy hivatalosan tabuvá válik a létezésem egy része”",
+        "txtlength": 13563
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/07/10/hetvegi-olvasnivalo-a-biden-doktrinatol-a-balaton-soundig",
+        "h1": "Hétvégi olvasnivaló a Biden-doktrínától a Balaton Soundig",
+        "txtlength": 13500
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/politika/joe-biden-amerikai-elnok-magyar-kocsma-amerikaban-berta-jeno/yf3w74g",
+        "h1": "Nálam kocsmázott az amerikai elnök! – Joe Bident és Jenőt összeköti fiaik barátsága",
+        "txtlength": 13016
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/belfold/2021/07/09/szeged-szunyog-kocsis-mate",
+        "h1": "Kocsis Máté csípése ellenére is téma a szúnyog Szegeden",
+        "txtlength": 12677
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kultura/2021/07/09/senki-kritika-nobody-bob-odenkirk-akciofilm-john-wick/",
+        "h1": "Ebbe a kertvárosi apukába nem jó ötlet belekötni",
+        "txtlength": 12317
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/sport/2021/07/09/f1-osztrak-nagydij-lando-norris-mclaren-lewis-hamilton-mercedes-andreas-seidl-zak-brown",
+        "h1": "Egy hétköznapi srác, aki az F1 következő nagy bajnoka lehet",
+        "txtlength": 11434
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/tudomany/2021/07/09/szputnyik-v-ema-engedely-csuszas/",
+        "h1": "Még mindig nem tudni, mikor lesz EU-s engedélye a Szputnyik-V-nek",
+        "txtlength": 11204
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/politika/panama-fel-perces-beszed-hende-csaba/zfvg6yc?sl_ps=d_3",
+        "h1": "Mesés volt az a másfél perc: egy hetet volt Panamában egy rövidke beszédért Hende Csaba",
+        "txtlength": 9126
+    },
+    {
+        "hostname": "nosalty.hu",
         "pagelink": "https://www.nosalty.hu/recept/bodzaszorp-tartositoszer-nelkul",
         "h1": "Bodzaszörp tartósítószer nélkül",
         "txtlength": 12610
