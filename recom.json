@@ -1,6 +1,210 @@
 [
     {
         "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/hagyomanyos-toltott-paprika",
+        "h1": "Hagyományos töltött paprika",
+        "txtlength": 12790
+    },
+    {
+        "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/palacsinta-0",
+        "h1": "Palacsinta",
+        "txtlength": 11575
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/szaftos-es-kiados-szekelykaposzta.recept",
+        "h1": "SZAFTOS ÉS KIADÓS SZÉKELYKÁPOSZTA",
+        "txtlength": 11193
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/kovaszos-vizes-zsemle-ahogy-szabi-a-pek-kesziti.recept",
+        "h1": "KOVÁSZOS VIZES ZSEMLE, AHOGY SZABI A PÉK KÉSZÍTI",
+        "txtlength": 10955
+    },
+    {
+        "hostname": "receptneked.hu",
+        "pagelink": "https://receptneked.hu/gyors/tokeletes-rantott-sajt/",
+        "h1": "Tökéletes rántott sajt recept",
+        "txtlength": 5126
+    },
+    {
+        "hostname": "receptneked.hu",
+        "pagelink": "https://receptneked.hu/gyors/gyors-rakott-bundas-kenyer/",
+        "h1": "Gyors rakott bundás kenyér recept",
+        "txtlength": 5101
+    },
+    {
+        "hostname": "kulturpart.hu",
+        "pagelink": "https://kulturpart.blog.hu/2021/07/11/ha_guy_ritchie_duhbe_gurul",
+        "h1": "HA GUY RITCHIE DÜHBE GURUL",
+        "txtlength": 7743
+    },
+    {
+        "hostname": "alapblog.hu",
+        "pagelink": "https://alapblog.hu/fuggetlenseg-napjara-lemarado-szektorok-az-amerikai-reszvenypiacon/",
+        "h1": "FÜGGETLENSÉG NAPJÁRA: LEMARADÓ SZEKTOROK AZ AMERIKAI RÉSZVÉNYPIACON",
+        "txtlength": 5587
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210709_bekes_marton_antiszemitizmus_jobboldal_konszenzus",
+        "h1": "„A jobboldali konszenzusnak nem részei a hitleri bűnök mentegetői” – Békés Márton a Mandinernek",
+        "txtlength": 30372
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/global/20210711/egy-tv-sztar-enekes-partja-nyerheti-meg-a-mai-bolgar-valasztast-492076",
+        "h1": "Egy TV-sztár énekes pártja nyerheti meg a mai bolgár választást",
+        "txtlength": 22412
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/utazas/20210710/ehhez-ketseg-sem-ferhet-ez-a-telepules-a-balaton-fovarosa-2021-ben-1116079",
+        "h1": "Ehhez kétség sem férhet: ez a település a Balaton fővárosa 2021-ben",
+        "txtlength": 20454
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210707_penzugyi_bunuldozes_vagy_politikai_revolverezes",
+        "h1": "Pénzügyi bűnüldözés vagy politikai revolverezés? – megkezdte munkáját az uniós ügyészség",
+        "txtlength": 19053
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/utazas/20210710/top-10-titkos-nyaralohely-magyarorszagon-brutalisan-olcso-keves-a-turista-1116110",
+        "h1": "Top 10 titkos nyaralóhely Magyarországon: brutálisan olcsó, kevés a turista",
+        "txtlength": 18903
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20210710/megvan-a-fontos-dontes-a-globalis-adominimumrol-meg-nagyobb-nyomas-ala-kerul-magyarorszag-492086",
+        "h1": "Megvan a fontos döntés a globális adóminimumról – Még nagyobb nyomás alá kerül Magyarország",
+        "txtlength": 18758
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/global/20210710/tobb-evtizedes-szenvedes-utan-polgarhaboru-es-talib-remuralom-fenyegeti-afganisztant-492018",
+        "h1": "Több évtizedes szenvedés után polgárháború és tálib rémuralom fenyegeti Afganisztánt",
+        "txtlength": 18054
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vallalat/20210711/nehany-abra-amely-helyre-teszi-orban-viktor-ujsagvasarlos-akciojat/",
+        "h1": "Néhány ábra, amely helyre teszi Orbán Viktor újságvásárlós akcióját",
+        "txtlength": 17769
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://makronom.mandiner.hu/cikk/20210710_europa_kina_afrika_haromszog_kereskedelem_es_segelyezes",
+        "h1": "Harcban a fekete kontinensen: Kínával viaskodik az EU az afrikai befolyásért",
+        "txtlength": 15506
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/adat/20210708/mar-latszik-a-koronavirus-jarvany-pozitiv-hozadeka/",
+        "h1": "Már látszik a koronavírus-járvány pozitív hozadéka",
+        "txtlength": 14792
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/utazas/kocsis-bertold-interju/",
+        "h1": "A hazai máktermelés fenegyerekénél jártunk: Kocsis Bertold biogazdaságát imádják a vevők",
+        "txtlength": 14334
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/szuloseg/nagyszulo-nem-segit/",
+        "h1": "Nagyszülő nem segít nagymama nagypapa nyár nagycsalád család",
+        "txtlength": 11343
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2021/07/11/byung-chul-han-a-facebook-tonkretette-a-szepseget",
+        "h1": "BYUNG-CHUL HAN: A FACEBOOK TÖNKRETETTE A SZÉPSÉGET",
+        "txtlength": 9742
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/07/10/nem-az-a-fontos-hogy-egy-novenybol-kerek-vagy-szogletes-formakat-gyartsunk-le-a-parkokba",
+        "h1": "Nem az a fontos, hogy egy növényből kerek vagy szögletes formákat gyártsunk le a parkokba",
+        "txtlength": 23522
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kultura/2021/07/10/szuperhosfilm-sztarok-marvel-dc-tom-cruise-leonardo-dicaprio/",
+        "h1": "Tíz világsztár, aki még nem ment el szuperhősfilmbe bohóckodni",
+        "txtlength": 20657
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/07/10/leltarozasnak-indult-az-akademia-kincseit-bemutato-kiallitas-lett-belole",
+        "h1": "Leltározásnak indult, az Akadémia kincseit bemutató kiállítás lett belőle",
+        "txtlength": 19442
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kultura/2021/07/11/haboru-eroszak-finy-petra-matine-konyvajanlo/",
+        "h1": "„Szinte már nem is éltek, úgy elbántak velük, hogy szét voltak szakadva, érted, mint szülés után repednek a nők, csak éppen ők nem szültek”",
+        "txtlength": 19008
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/kultura/20210710_Hagyjuk_magunkat_zavarba_jonni__a_hvghu_nyari_konyvajanloja_1_resz",
+        "h1": "Hagyjuk magunkat zavarba jönni – a hvg.hu nyári könyvajánlója, 1. rész",
+        "txtlength": 18051
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kulfold/2021/07/10/szlovenia-horvatorszag-fuggetlenseg-1991-gazdasag/",
+        "h1": "Hová jutott harminc év alatt Szlovénia és Horvátország?",
+        "txtlength": 16731
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/tech/2021/07/10/teveteszt-qled-oled-samsung-lg-sony-philips",
+        "h1": "Megrendeztük a szupertévék világbajnoki négyes döntőjét",
+        "txtlength": 15822
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/szorakozas/2021/07/10/exit-fesztival-szerbia-ujvidek-jarvany",
+        "h1": "A járvány utáni első nagy fesztiválon több tízezren buliztak együtt egy szerbiai erődben",
+        "txtlength": 13665
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/gazdasag/20210711_Es_akkor_epitkezes_dragulas_eu_turizmus",
+        "h1": "És akkor a forint után a beton árfolyamát is figyelhetjük",
+        "txtlength": 13367
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/belfold/2021/07/10/alapjarat-auto-klima-legkondicionalo",
+        "h1": "Miért van büdös az autóban, és miért nem hűt a klíma?",
+        "txtlength": 12885
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/vilag/20210711_Haiti_gyilkossag_jovenel_moise",
+        "h1": "Haiti az a hely, ahol elég sokan fel tudnak bérelni egy kommandót, ha elnököt akarnak ölni",
+        "txtlength": 11866
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/patkany-terkep-gyomaendrod-polgarmester/wpv2hkr?sl_ps=d_9",
+        "h1": "„Nem vagyunk patkányváros!” – Kiakadt a rágcsálótérképen Gyomaendrőd polgármestere",
+        "txtlength": 10284
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/hirosszefoglalo-blikk-julius-11-vasarnap-reggel/pqz9tc7",
+        "h1": "Hatalmas torlódás az utakon, újabb pusztító zivatarok jönnek – Itt a reggeli hírösszefoglaló!",
+        "txtlength": 9335
+    },
+    {
+        "hostname": "nosalty.hu",
         "pagelink": "https://www.nosalty.hu/recept/tradicionalis-gulyasleves",
         "h1": "Tradicionális gulyásleves",
         "txtlength": 12794
