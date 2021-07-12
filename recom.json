@@ -1,6 +1,204 @@
 [
     {
         "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/frankfurti-leves-egyszeruen",
+        "h1": "Frankfurti leves egyszerűen",
+        "txtlength": 12668
+    },
+    {
+        "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/fanta-szelet-detty-konyhajabol",
+        "h1": "Fanta szelet Detty konyhájából",
+        "txtlength": 11207
+    },
+    {
+        "hostname": "receptneked.hu",
+        "pagelink": "https://receptneked.hu/gyors/habos-tejbegriz-bogreben/",
+        "h1": "Habos tejbegríz bögrében recept",
+        "txtlength": 5058
+    },
+    {
+        "hostname": "receptneked.hu",
+        "pagelink": "https://receptneked.hu/gyors/tojasos-szendvics-sutoben/",
+        "h1": "Tojásos szendvics sütőben recept",
+        "txtlength": 4926
+    },
+    {
+        "hostname": "hataratkelo.blog.hu",
+        "pagelink": "https://hataratkelo.blog.hu/2021/07/08/magyar_gyogyszereszkent_svajcban",
+        "h1": "Magyar gyógyszerészként Svájcban",
+        "txtlength": 36270
+    },
+    {
+        "hostname": "hafr.hvgblog.hu",
+        "pagelink": "https://hafr.hvgblog.hu/2020/12/26/merjunk-kicsit-gondolni-gondolkodok-egy-tgm-interju-margojara/",
+        "h1": "Merjünk kicsit gondolni, gondolkodók! (Egy TGM-interjú margójára)",
+        "txtlength": 14572
+    },
+    {
+        "hostname": "cineartstudio.blog.hu",
+        "pagelink": "https://cineartstudio.blog.hu/2021/04/28/az_oscar-kozeli_a_nomadok_foldje_ismet_nagy_sikert_ert_el",
+        "h1": "Az Oscar-közeli A nomádok földje ismét nagy sikert ért el",
+        "txtlength": 6621
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210709_az_orban_kormany_nem_kovetni_hanem_formalni_akarja_a_nyugatot_csizmadia_ervin_a_mandinernek",
+        "h1": "Az Orbán-kormány nem követni, hanem formálni akarja a Nyugatot – Csizmadia Ervin a Mandinernek",
+        "txtlength": 27187
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210707_de_mit_adtak_kinanak_a_kommunistak",
+        "h1": "Százéves történelem: mit adtak Kínának a kommunisták?",
+        "txtlength": 26061
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/vasarlas/20210711/az-igazi-bojt-most-kezdodik-igy-csap-le-a-kokemeny-dragulas-az-elelmiszerboltokban-1116100",
+        "h1": "Az igazi böjt most kezdődik: így csap le a kőkemény drágulás az élelmiszerboltokban",
+        "txtlength": 22859
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20210711/negyedik-hullam-epp-most-teszi-tonkre-a-nyarat-a-virus-europaban-celkeresztben-magyarorszag-492126",
+        "h1": "Negyedik hullám: épp most teszi tönkre a nyarat a vírus Európában - Célkeresztben Magyarország?",
+        "txtlength": 19926
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/krtk/20210712/a-foldhasznalat-valtozasanak-hatasa-a-fenntarthatosagra-491800",
+        "h1": "A földhasználat változásának hatása a fenntarthatóságra",
+        "txtlength": 19165
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/egeszseg/20210712/ezert-all-a-sor-a-magyar-patikakban-videken-meg-sulyosabb-a-helyzet-mint-a-fovarosban-1116152",
+        "h1": "Ezért áll a sor a magyar patikákban: vidéken még súlyosabb a helyzet, mint a fővárosban",
+        "txtlength": 19153
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.penzcentrum.hu/egeszseg/20210712/ezert-all-a-sor-a-magyar-patikakban-videken-meg-sulyosabb-a-helyzet-mint-a-fovarosban-1116152",
+        "h1": "Ezért áll a sor a magyar patikákban: vidéken még súlyosabb a helyzet, mint a fővárosban",
+        "txtlength": 19140
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://sport.mandiner.hu/cikk/20210711_anglia_vagy_olaszorszag_egy_nem_mindennapi_eb_nem_mindennapi_dontoje",
+        "h1": "Euro2020: Olaszország az Európa-bajnok!",
+        "txtlength": 18363
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/adat/20210712/nem-egyszeru-az-ellenzek-szamara-a-valasztok-megszolitasa-az-eletszinvonal-alapjan/",
+        "h1": "Nem egyszerű az ellenzék számára a választók megszólítása az életszínvonal alapján",
+        "txtlength": 17709
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/elet/20210711/messze-vagyunk-attol-hogy-az-e-auto-tenyleg-zold-legyen-de-latszik-a-megoldas/",
+        "h1": "Messze vagyunk attól, hogy az e-autó tényleg zöld legyen, de látszik a megoldás",
+        "txtlength": 15950
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2021/07/12/kaszara-magyar",
+        "h1": "KASZÁRA, MAGYAR!",
+        "txtlength": 13601
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/egeszseg/nogyogyaszati-daganatok-tunetei/",
+        "h1": "Puffadás is jelezheti a nőgyógyászati daganatot: 8 tünet, amiről muszáj értesíteni az orvost",
+        "txtlength": 11635
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/szuloseg/szules-40-eves-kor-utan/",
+        "h1": "Terhesség 40 felett",
+        "txtlength": 11366
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/07/12/a-delta-szamaira-varva",
+        "h1": "A delta számaira várva",
+        "txtlength": 20364
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/kkv/20210711_Az_utolso_mohikan_Magyarorszag_egyik_utolso_es_egyetlen_textiluzemeben_jartunk",
+        "h1": "Az utolsó mohikán: Magyarország egyik megmaradt textilüzemében jártunk",
+        "txtlength": 18060
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/tudomany/2021/07/11/napkiraly-franciaorszag-hatalom/",
+        "h1": "Ő akart a világ királya lenni",
+        "txtlength": 16884
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/szorakozas/2021/07/11/doktor-szoszi-reese-witherspoon-luke-wilson-jenifer-coolidge-selma-blair/",
+        "h1": "Kevésen múlt, hogy a Doktor Szöszi Reese Witherspoon és a „hajol és feszít” nélkül jöjjön létre",
+        "txtlength": 15627
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kulfold/2021/07/11/gyilkolt-ult-szabadul-hogyan-tovabb",
+        "h1": "Gyilkolt, ült, szabadul – hogyan tovább?",
+        "txtlength": 15071
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2021/07/12/matolcsy-gyorgy-fia-adam-maganrepulo-bombardier/",
+        "h1": "Matolcsy György fia is magánrepülőt használ, ha kiugrik Görögországba",
+        "txtlength": 12987
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/07/12/keveslik-palkovicsek-ajanlatat-a-budapest-airport-tulajdonosai-de-nem-zarkoznak-el-az-eladastol",
+        "h1": "Keveslik Palkovicsék ajánlatát a Budapest Airport tulajdonosai, de nem zárkóznak el az eladástól",
+        "txtlength": 11329
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/szorakozas/2021/07/12/marvel-loki-disney-magyarazo-utalasok-konteo",
+        "h1": "A Marvel a világ összes fóliasisakját feltette a fejére",
+        "txtlength": 10989
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/sport/2021/07/11/mlsz-ezert-buntette-magyarorszagot-zart-kapus-meccsekkel-az-uefa",
+        "h1": "MLSZ: Egyebek mellett a „Cristiano homosexual” rigmus miatt büntette Magyarországot az UEFA",
+        "txtlength": 10645
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/blikk-tv/sztarvilag/nadas-gyorgy-interju-gesztesi-karoly-halal-ota-szinhaz-nem-lep-fel/f2mrx6p?sl_ps=d_10",
+        "h1": "Megdöbbentő vallomás: Gesztesi Károly halála óta nem lép fel színházban Nádas György – videó",
+        "txtlength": 10109
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/heti-idojaras-zivatar-hoseg-riasztas/sfvfdp5?sl_ps=d_12",
+        "h1": "Időjárás a héten – A jégeső csak a kezdet, kiadták a legmagasabb riasztást a tikkasztó kánikula miatt",
+        "txtlength": 9842
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/vilag/20210712_Ketharmadosnal_nagyobb_atoltottsagnal_mernek_csak_tovabb_nyitni_az_angolok",
+        "h1": "Kétharmadosnál nagyobb átoltottságnál mernek csak tovább nyitni az angolok",
+        "txtlength": 9788
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/tudomany/20210712_jovobeni_pozitiv_es_negativ_esemenyek_idotartamanak_erzete",
+        "h1": "Már előre fél, hogy rövid lesz a nyaralása? Ez a mentális trükk lehet a megoldás",
+        "txtlength": 9732
+    },
+    {
+        "hostname": "nosalty.hu",
         "pagelink": "https://www.nosalty.hu/recept/hagyomanyos-toltott-paprika",
         "h1": "Hagyományos töltött paprika",
         "txtlength": 12790
