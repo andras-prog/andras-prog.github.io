@@ -1,6 +1,204 @@
 [
     {
         "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/lecso-alaprecept-geo-konyhajabol",
+        "h1": "Lecsó alaprecept geo konyhájából",
+        "txtlength": 12573
+    },
+    {
+        "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/tejfolos-karfiolleves",
+        "h1": "Tejfölös karfiolleves",
+        "txtlength": 10811
+    },
+    {
+        "hostname": "receptneked.hu",
+        "pagelink": "https://receptneked.hu/gyors/bogres-rizsfelfujt-2/",
+        "h1": "Bögrés rizsfelfújt recept",
+        "txtlength": 5025
+    },
+    {
+        "hostname": "receptneked.hu",
+        "pagelink": "https://receptneked.hu/gyors/sajtos-cukkinigolyok-2/",
+        "h1": "Sajtos cukkinigolyók recept",
+        "txtlength": 4958
+    },
+    {
+        "hostname": "hataratkelo.blog.hu",
+        "pagelink": "https://hataratkelo.blog.hu/2021/07/11/hollandiat_megrengeto_merenyletek#c40786394",
+        "h1": "Hollandiát megrengető merényletek",
+        "txtlength": 21303
+    },
+    {
+        "hostname": "hafr.hvgblog.hu",
+        "pagelink": "https://hafr.hvgblog.hu/2020/12/08/behanyas_az_mcc-ben_es_a_napi_525_forintnyi_elelem/",
+        "h1": "Behányás az MCC-ben és a napi 525 forintnyi élelem",
+        "txtlength": 10248
+    },
+    {
+        "hostname": "cineartstudio.blog.hu",
+        "pagelink": "https://cineartstudio.blog.hu/2021/05/04/az_apple_tv-hez_kerultek_a_keszulo_tom_hanks-film_jogai",
+        "h1": "Az Apple TV-hez kerültek a készülő Tom Hanks-film jogai",
+        "txtlength": 6182
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/global/20210713/a-merkel-korszak-veget-ert-a-hideghaboru-elkezdodott-492248",
+        "h1": "A Merkel-korszak véget ért, a hidegháború elkezdődött",
+        "txtlength": 32198
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/kozelet/20210713/az-ellenzeki-vezetesu-varosok-lakoitol-fejenkent-39-ezer-forintot-vett-el-a-kormany-hogy-aztan-valamennyit-visszaadjon/",
+        "h1": "Az ellenzéki vezetésű városok lakóitól fejenként 39 ezer forintot vett el a kormány, hogy aztán valamennyit visszaadjon",
+        "txtlength": 20028
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://precedens.mandiner.hu/cikk/20210712_napjaink_jakobinusai_miatt_keszul_uj_brit_felsooktatasi_torveny_is",
+        "h1": "Napjaink „jakobinusai” miatt készül új brit felsőoktatási törvény is",
+        "txtlength": 19987
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vilag/20210712/kina-japan-sorsara-juthat-de-ennek-nem-fog-orulni/",
+        "h1": "Kína Japán sorsára juthat, de ennek nem fog örülni",
+        "txtlength": 17419
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210707_pecs_mindenki_mindenki_ellen",
+        "h1": "Pécs: mindenki mindenki ellen az önkormányzatban és az előválasztáson",
+        "txtlength": 16877
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/utazas/a-harangok-varazslatos-vilaga/",
+        "h1": "Mára szinte kihalt az egykor fontos hivatás: Bajkó Ferenc harangozó csodás világba kalauzol el",
+        "txtlength": 16633
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210713_francia_ep_kepviselo_orban_kleptokracia",
+        "h1": "Orbán kleptokráciát csinált Magyarországból, írja egy francia EP-képviselő",
+        "txtlength": 16387
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.penzcentrum.hu/hitel/20210713/8-fontos-kerdes-es-valasz-az-mnb-uj-zold-lakashitelevel-kapcsolatban-1116184",
+        "h1": "8 fontos kérdés és válasz az MNB új, zöld lakáshitelével kapcsolatban",
+        "txtlength": 15443
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/hitel/20210713/8-fontos-kerdes-es-valasz-az-mnb-uj-zold-lakashitelevel-kapcsolatban-1116184",
+        "h1": "8 fontos kérdés és válasz az MNB új, zöld lakáshitelével kapcsolatban",
+        "txtlength": 14830
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20210712/az-uripar-ma-mar-versenykepessegi-tenyezove-valt-492156",
+        "h1": "Az űripar ma már versenyképességi tényezővé vált",
+        "txtlength": 14629
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/vasarlas/20210708/hova-a-fenebe-szallnak-meg-el-az-arak-van-ami-30-40-szazalekkal-kerul-tobbe-mint-tavaly-1116066",
+        "h1": "Hova a fenébe szállnak még el az árak? Van, ami 30-40 százalékkal kerül többe, mint tavaly",
+        "txtlength": 14288
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2021/07/12/meglepoen-sok-kutato-trukkozik-vagy-csal-a-tudomanyos-eredmenyekkel",
+        "h1": "MEGLEPŐEN SOK KUTATÓ TRÜKKÖZIK VAGY CSAL A TUDOMÁNYOS EREDMÉNYEKKEL",
+        "txtlength": 12419
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/szuloseg/gyerek-csaladi-titkok/",
+        "h1": "Gyerek családi titkok",
+        "txtlength": 11984
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/kkv/20210713_varadi_interju",
+        "h1": "Váradi József: Semmi sem igaz abból, hogy életünk nem lesz olyan, mint volt",
+        "txtlength": 22796
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kultura/2021/07/12/s-hegyi-lucia-interju-luan-by-lucia-divat/",
+        "h1": "A magyarok szeretik mutogatni, ha gazdagok, még a gyereken is méteres Givenchy-felirat virít",
+        "txtlength": 21515
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/07/13/szellemi-futballhuliganizmus",
+        "h1": "Szellemi futballhuliganizmus",
+        "txtlength": 19165
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/sport/2021/07/12/magyar-valogatott-eb-szereples-vb-selejtezo-futball",
+        "h1": "Európa-bajnokság után, Anglia elleni meccs előtt: mi a realitás a magyar válogatott számára?",
+        "txtlength": 16837
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20210713_haziorvosok_oltas_akcio_kampany",
+        "h1": "\"Három ampullányi Pfizer landolt a kukában\" - A háziorvosok szerint kivitelezhetetlen a kormány új oltási terve",
+        "txtlength": 13268
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/sport/2021/07/12/harspataki-gabor-elso-magyar-karates-olimpia-tokio-karate",
+        "h1": "Amikor az emberek 90 százaléka ütne, na, akkor én rúgok",
+        "txtlength": 11645
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/belfold/2021/07/12/villanyszerelo-gyilkossag-targyalas-gyor",
+        "h1": "Be voltam szarva, ilyen még nem volt velem, vallotta a villanyszerelős kettős gyilkosság vádlottja",
+        "txtlength": 11560
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20210713_nemzeti_konzultacio_Fudan_Paks_2_homofobtorveny",
+        "h1": "Se Fudant, se Paks 2-t nem akarnak a hvg.hu olvasói",
+        "txtlength": 11240
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kozelet/2021/07/13/balaton-vendeglatas-munkaero-fizetes-turizmus-video/",
+        "h1": "Havi nettó 400 ezer forintért sem sütnek lángost a Balatonon",
+        "txtlength": 10894
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/munkaerohiany-vendeglatoipar/5hyf7ye",
+        "h1": "Gondolta volna? Továbbra is hatalmas a munkaerőhiány a vendéglátóiparban",
+        "txtlength": 10744
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/07/13/a-pusztito-brazil-szarazsag-miatt-dragulhat-iden-a-kave",
+        "h1": "A pusztító brazil szárazság miatt drágulhat idén a kávé",
+        "txtlength": 10543
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/krimi/berki-krisztian-buntetofekezes-itelet-birosag-itelet/zhmfrd0?sl_ps=d_1",
+        "h1": "Ítélet született Berki Krisztián büntetőfékezős ügyében",
+        "txtlength": 10080
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2021/07/13/erzsebet-tabor-cba-utalvany-taboroztatas-gyermekfelugyelet/",
+        "h1": "„Ki az, aki ennyiért elvállalná önként?” – idén is 25 ezer forintos CBA-utalványt kapnak egy hétért a napközis Erzsébet-táborokban dolgozó tanárok",
+        "txtlength": 9926
+    },
+    {
+        "hostname": "nosalty.hu",
         "pagelink": "https://www.nosalty.hu/recept/frankfurti-leves-egyszeruen",
         "h1": "Frankfurti leves egyszerűen",
         "txtlength": 12668
