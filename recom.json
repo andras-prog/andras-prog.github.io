@@ -1,6 +1,204 @@
 [
     {
         "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/gyors-chilis-bab",
+        "h1": "Gyors chilis bab",
+        "txtlength": 11637
+    },
+    {
+        "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/makos-guba-vaniliasodoval",
+        "h1": "Mákos guba vaníliasodóval",
+        "txtlength": 11048
+    },
+    {
+        "hostname": "receptneked.hu",
+        "pagelink": "https://receptneked.hu/gyors/sajtos-sult-rizsgolyok/",
+        "h1": "Sajtos sült rizsgolyók recept",
+        "txtlength": 4807
+    },
+    {
+        "hostname": "receptneked.hu",
+        "pagelink": "https://receptneked.hu/gyors/baconben-sult-sajttekercs-1/",
+        "h1": "Baconben sült sajttekercs recept",
+        "txtlength": 4767
+    },
+    {
+        "hostname": "kiszamolo.hu",
+        "pagelink": "https://kiszamolo.hu/az-aranyborton/#more-115881",
+        "h1": "Az aranybörtön",
+        "txtlength": 38767
+    },
+    {
+        "hostname": "alapblog.hu",
+        "pagelink": "https://alapblog.hu/mindenki-rosszul-jart-mindenki-jol-jart/",
+        "h1": "MINDENKI ROSSZUL JÁRT. MINDENKI JÓL JÁRT.",
+        "txtlength": 14699
+    },
+    {
+        "hostname": "efesasanisimasa.com",
+        "pagelink": "https://efesasanisimasa.com/2021/07/08/sweat-2020/",
+        "h1": "Sweat (2020)",
+        "txtlength": 8472
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/oktatas/20210712/oriasi-tevhitben-el-rengeteg-magyar-igazan-nagy-penzt-csak-igy-lehet-szakitani-1116046",
+        "h1": "Óriási tévhitben él rengeteg magyar: igazán nagy pénzt csak így lehet szakítani",
+        "txtlength": 26440
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/kozelet/20210714/mi-lett-volna-ha-az-osszes-unios-tamogatast-az-allamadossag-torlesztesere-forditjuk/",
+        "h1": "Mi lett volna, ha az összes uniós támogatást az államadósság törlesztésére fordítjuk?",
+        "txtlength": 20072
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vallalat/20210714/nem-elkuldtek-hanem-elmenekult-az-alkalmazottak-egy-resze-a-szorakozohelyekrol-es-a-mozikbol/",
+        "h1": "Nem elküldték, hanem elmenekült az alkalmazottak egy része a szórakozóhelyekről és a mozikból",
+        "txtlength": 19730
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/hitel/20210714/magyar-karosultak-akik-meg-nem-szabadultak-a-devizahorror-fojtasabol-behajtokkal-viaskodnak-1116186",
+        "h1": "Magyar károsultak, akik még nem szabadultak a devizahorror fojtásából: behajtókkal viaskodnak",
+        "txtlength": 19446
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210714_fiola_es_schafer_konnyei_a_felrobbano_puskas_arena_elemzes_a_magyar_eb_szereplesrol",
+        "h1": "Fiola és Schäfer könnyei, a felrobbanó Puskás Aréna – elemzés a magyar EB-szereplésről",
+        "txtlength": 19231
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20210715/imadjak-az-eurot-vagy-utaljak-a-forintot-a-magyarok-most-fizetjuk-meg-a-forint-zuhanasanak-az-arat-492434",
+        "h1": "Imádják az eurót vagy utálják a forintot a magyarok? - Most fizetjük meg a forint zuhanásának az árát",
+        "txtlength": 18984
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210713_dk_gyurcsany_ferenc_katanics_sandor",
+        "h1": "Saját jelöltjeit is beáldozza Gyurcsány az előválasztási taktikázásban",
+        "txtlength": 18686
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210712_hableany_katasztrofa_kezdodhet_a_milliardos_karteritesi_per",
+        "h1": "Hableány-katasztrófa: kezdődhet a milliárdos kártérítési per",
+        "txtlength": 17373
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/global/20210714/megszuletett-az-itelet-betiltanak-a-benzines-es-dizel-autokat-europaban-492618",
+        "h1": "Megszületett az ítélet: betiltanák a benzines és dízel autókat Európában",
+        "txtlength": 17006
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20210715/hatalmas-lazasaggal-varja-magyarorszag-a-delta-varians-berobbanasat-492556",
+        "h1": "Hatalmas lazasággal várja Magyarország a delta variáns berobbanását",
+        "txtlength": 16034
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/otthon/hosszu-ut-a-szemuveglancig/",
+        "h1": "A szemüveg még nem a világ vége, de a szemüveglánc annak kifejeződése, hogy megvénültünk, és meg is hülyültünk",
+        "txtlength": 13363
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2021/07/13/a-magyar-oktatasi-rendszer-hegymenetben-futott-neki-a-digitalis-atallasnak-es-meg-is-latszott-az-eredmenye",
+        "h1": "A MAGYAR OKTATÁSI RENDSZER HEGYMENETBEN FUTOTT NEKI A DIGITÁLIS ÁTÁLLÁSNAK, ÉS MEG IS LÁTSZOTT AZ EREDMÉNYE",
+        "txtlength": 13277
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/lajfhekk/foltos-szonyeg-tisztitasa/",
+        "h1": "Foltos szőnyeg tisztítása",
+        "txtlength": 11526
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/koronavirus/2021/07/15/antitest-vizsgalat-ellenanyag-meres-koronavirus-covid-vakcina-oltas-kinai-sinopharm-fovaros-budapest-semmelweis-egyetem",
+        "h1": "Mi értelme ennek a sok antitestvizsgálatnak?",
+        "txtlength": 18363
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/07/15/a-felcsuti-per-nehezsegei",
+        "h1": "A felcsúti per nehézségei",
+        "txtlength": 18250
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20210715_Arcot_menthet_a_kormany_a_harmadik_oltas_beadasaval",
+        "h1": "Arcot menthet a kormány a harmadik oltás beadásával",
+        "txtlength": 17646
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/sport/20210714_szilagyi_aron_tokio_olimpia_vivas",
+        "h1": "Szilágyi Áron: Ajándékként fogom fel, hogy ott lehetek az olimpián",
+        "txtlength": 15336
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/gazdasag/2021/07/14/jon-az-uj-klimavedelmi-eszkoz-karbonvam-fekezheti-meg-a-piszkos-aramot",
+        "h1": "Jön az új klímavédelmi eszköz: karbonvám fékezheti meg a piszkos áramot",
+        "txtlength": 14849
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/politika/kadar-janos-halala-utolso-hetei-betegseg-ravatal-temetes/qz4rg2t",
+        "h1": "„Lelkiismereti gyötrődés” tette tönkre élete végén Kádár Jánost – Döbbent elvtársai a halála előtt félreállították a zavarodott pártvezért",
+        "txtlength": 14621
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/sport/20210713_Eb_fiatal_jatekosok_part_2",
+        "h1": "Ők voltak az Európa-bajnokság legkiemelkedőbb fiatal játékosai",
+        "txtlength": 13703
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/megujulo-energiakkal-a-fenntarthato-jovoert/tqs491l",
+        "h1": "Megújuló energiákkal a fenntartható jövőért: fordítsuk hasznunkra a természetet!",
+        "txtlength": 12303
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/07/14/mindket-dozis-vakcina-kell-a-delta-varians-elleni-vedekezeshez",
+        "h1": "Mindkét dózis vakcina kell a delta variáns elleni védekezéshez",
+        "txtlength": 10512
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/sport/2021/07/14/tokio-olimpia-transznemu-sulyemelo-vita-laurel-hubbard-uj-zeland",
+        "h1": "Lehet tisztességes az az olimpiai súlyemelőverseny, ahol transznemű sportoló indul a nők között?",
+        "txtlength": 10468
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://rangado.24.hu/magyar_foci/2021/07/15/szalai-adam-eb-szereples-csalodottsag-szurkoloi-tamogatas/",
+        "h1": "Szalai Ádám: Csalódottság van bennem, az egész karrierem során végigkísér majd",
+        "txtlength": 9402
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2021/07/14/podcast-reklamszunet-voltvo-sztarcsevity-andrea-kozma-noemi-autoipar/",
+        "h1": "„Az autó ma már olyan, mint az okostelefon, csak nagyobb”",
+        "txtlength": 9125
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kozelet/2021/07/15/kormanyinfo-oltas-bejelentes/",
+        "h1": "Bizonyos munkakörökben vizsgálják a kötelező oltás lehetőségét",
+        "txtlength": 8617
+    },
+    {
+        "hostname": "nosalty.hu",
         "pagelink": "https://www.nosalty.hu/recept/lecso-alaprecept-geo-konyhajabol",
         "h1": "Lecsó alaprecept geo konyhájából",
         "txtlength": 12573
