@@ -1,5 +1,197 @@
 [
     {
+        "hostname": "receptneked.hu",
+        "pagelink": "https://receptneked.hu/gyors/hortobagyi-husgombocok/",
+        "h1": "Hortobágyi húsgombócok recept",
+        "txtlength": 4827
+    },
+    {
+        "hostname": "receptneked.hu",
+        "pagelink": "https://receptneked.hu/gyors/csaszarne-pogacsaja/",
+        "h1": "Császárné pogácsája recept",
+        "txtlength": 4790
+    },
+    {
+        "hostname": "kiszamolo.hu",
+        "pagelink": "https://kiszamolo.hu/ujabb-rekord-inflacios-adat/",
+        "h1": "Újabb rekord inflációs adat",
+        "txtlength": 29709
+    },
+    {
+        "hostname": "efesasanisimasa.com",
+        "pagelink": "https://efesasanisimasa.com/2021/06/26/curtiz-a-magyar-aki-felforgatta-hollywoodot-2018/",
+        "h1": "Curtiz – A magyar, aki felforgatta Hollywoodot (2018)",
+        "txtlength": 8015
+    },
+    {
+        "hostname": "alapblog.hu",
+        "pagelink": "https://alapblog.hu/hogyan-legyunk-milliomosok/",
+        "h1": "HOGYAN LEGYÜNK MILLIOMOSOK?",
+        "txtlength": 6890
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20210716/horvath-peter-janos-oriasi-kihivast-jelentenek-az-idojarasfuggo-megujulok-492754",
+        "h1": "Horváth Péter János: óriási kihívást jelentenek az időjárásfüggő megújulók",
+        "txtlength": 41454
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210715_ez_a_minimum_atlathatosag_momentum_lmp_ellenzeki_osszefogas_ujpest",
+        "h1": "Ez a minimum? – Saját átláthatósági ígéreteit sem tudta teljesíteni Újpest baloldali vezetése",
+        "txtlength": 25768
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/gazdasag/20210713/35-milliardnal-jar-az-mnb-kortars-gyujtemenye-de-meg-mindenki-elott-nyitva-all-az-ajto-1115803",
+        "h1": "3,5 milliárdnál jár az MNB Kortárs Gyűjteménye, de még \"Mindenki előtt nyitva áll az ajtó!\"",
+        "txtlength": 25750
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://makronom.mandiner.hu/cikk/20210713_tickless_makronom_interju_radi_balazs_kullancs_magyar_multi",
+        "h1": "Kiflin élt és évekig nem nyaralt a kullancsriasztós vállalkozó, így épített többszázmilliós céget",
+        "txtlength": 25032
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/uzlet/20210715/itt-a-portfolio-konferenciak-oszi-naptara-early-bird-kedvezmenyek-a-szakmai-programokra-492530",
+        "h1": "Itt a Portfolio Konferenciák őszi naptára: early bird kedvezmények a szakmai programokra",
+        "txtlength": 21852
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210715_lengyelorszag_eu_jog",
+        "h1": "Polexit vagy sem? A lengyel jog elsőségéről döntött a varsói alkotmánybíróság",
+        "txtlength": 20476
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/elet/20210715/milyen-legkondi-majd-kinyitjuk-az-ablakot/",
+        "h1": "Milyen légkondi? Majd kinyitjuk az ablakot",
+        "txtlength": 19457
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/tamogatoi-tartalom/20210714/ezert-vagott-bele-az-aldi-a-rizikosnak-szamito-hazhozszallitasba/",
+        "h1": "Ezért vágott bele az ALDI a rizikósnak számító házhozszállításba",
+        "txtlength": 19088
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/vasarlas/20210715/dul-a-diszkonthaboru-a-balatonnal-itt-a-legolcsobb-boltok-terkepe-1116233",
+        "h1": "Dúl a diszkontháború a Balatonnál: itt a legolcsóbb boltok térképe",
+        "txtlength": 17213
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20210716/vegre-fellelegezhetnek-a-sinopharmmal-oltottak-nem-oldodott-meg-az-osszes-kerdes-492862",
+        "h1": "Végre fellélegezhetnek a Sinopharmmal oltottak? - Nem oldódott meg az összes kérdés",
+        "txtlength": 15686
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/szepseg/pattanas-helyes-kinyomasa/",
+        "h1": "Hogy kell helyesen kinyomni egy pattanást? A szakértő szerint nem mindegy, mikor és hogyan csinálod",
+        "txtlength": 14022
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2021/07/16/het-mutacioval-tamad-a-koronavirus-lambda-variansa-megsem-tunik-veszelyesnek",
+        "h1": "HÉT MUTÁCIÓVAL TÁMAD A KORONAVÍRUS LAMBDA VARIÁNSA, MÉGSEM TŰNIK VESZÉLYESNEK",
+        "txtlength": 12198
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/lajfhekk/legjobb-epres-jegkrem/",
+        "h1": "Legjobb epres jégkrém",
+        "txtlength": 11021
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/testem/egeszseges-mikrobiom-belflora/",
+        "h1": "Egészséges mikrobiom, bélflóra",
+        "txtlength": 10240
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/komplex/2021/07/16/a-multimilliard-euros-uzlet-ahol-az-idosek-elete-a-tet",
+        "h1": "\n      A multimilliárd eurós üzlet, ahol az idősek élete a tét\n    ",
+        "txtlength": 35416
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/07/15/orban-utan-gulyas-is-megsurgeti-kaslert-hogy-kideruljon-vegre-valami-a-nagy-allami-vakcinahatekonysagi-vizsgalatrol",
+        "h1": "Orbán után Gulyás is megsürgeti Káslert, hogy kiderüljön végre valami a nagy állami vakcinahatékonysági vizsgálatról",
+        "txtlength": 18580
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/07/16/az-orvosi-kamara-titkara-szerint-nemcsak-az-egeszsegugyben-kell-kotelezo-oltas",
+        "h1": "Az Orvosi Kamara titkára szerint nemcsak az egészségügyben kell kötelező oltás",
+        "txtlength": 18392
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2021/07/15/budapest-karacsony-gergely-blaha-lujza-ter-felujitas-kerekparsavok-balogh-samu/",
+        "h1": "Ezért nem számolja fel a főváros még dugóban sem a körúti biciklisávokat",
+        "txtlength": 16532
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/politika/kormanyinfo-gulyas-gergely-harmadik-oltas/fdh2jj1",
+        "h1": "Rendkívüli – Egyes területeken kötelezővé tehetik az oltást: Orbán Viktor jelenti be a részleteket",
+        "txtlength": 13852
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/belfold/2021/07/15/ongyilkossag-borton-gyor",
+        "h1": "Aki a börtönben lesz öngyilkos, jó eséllyel előbb-utóbb kint is az lett volna",
+        "txtlength": 13178
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/orban-viktor-kossuth-radio-bejelentes-koronavirus-harmadik-oltas/hrp3qph?sl_ps=d_3",
+        "h1": "Döntött a kormány a harmadik oltásról: itt vannak Orbán Viktor bejelentései",
+        "txtlength": 12355
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/tudomany/2021/07/15/japankeserufu-oriaskeserufu-invaziv-gyom-kiirthatatlan-karok-okologia-termeszetvedelem-agressziv-terjeszkedes-behurcolt-faj",
+        "h1": "Szép ez a gyom, de megkeseríti annak az életét, aki meg akar szabadulni tőle",
+        "txtlength": 12066
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/otthon/2021/07/16/egyetemvarosok-alberlet-ingatlanpiac/",
+        "h1": "Albérletpiac: hamarosan indulhat a roham az egyetemvárosokban",
+        "txtlength": 11724
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/fn/gazdasag/2021/07/16/scruton-veres-palne-utca-market/",
+        "h1": "Újabb Scruton készül 240 millió közpénzből: Garancsiék a NER-kávézó és közösségi tér építői",
+        "txtlength": 11073
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20210716_Orban_Kossuth_radio_harmadik_oltas_covid",
+        "h1": "Orbán: Lehetővé tesszük a harmadik oltást, a be nem oltott egészségügyisek nem dolgozhatnak",
+        "txtlength": 10922
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/gazdasag/20210716_moratorium_torleszto_bank360",
+        "h1": "Mennyivel nő a moratórium utáni törlesztő változó kamatozás esetén?",
+        "txtlength": 9046
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/gazdasag/20210716_fogyasztovedelem_itm",
+        "h1": "Szinte minden boltot érintő, komoly szigorítás lépett életbe mától a kereskedelemben",
+        "txtlength": 9032
+    },
+    {
         "hostname": "nosalty.hu",
         "pagelink": "https://www.nosalty.hu/recept/gyors-chilis-bab",
         "h1": "Gyors chilis bab",
