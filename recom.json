@@ -1,6 +1,216 @@
 [
     {
         "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/pizzateszta-jamie-oliver-tol",
+        "h1": "Pizzatészta Jamie Oliver-től",
+        "txtlength": 13003
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/pisztrang-spenotos-arpagyongy-rizottoval-ahogy-vago-piros-kesziti.recept",
+        "h1": "PISZTRÁNG SPENÓTOS ÁRPAGYÖNGY-RIZOTTÓVAL, AHOGY VÁGÓ PIROS KÉSZÍTI",
+        "txtlength": 11992
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/rakott-borzas-csirkemell-kevert-salataval.recept",
+        "h1": "RAKOTT BORZAS CSIRKEMELL KEVERT SALÁTÁVAL",
+        "txtlength": 11415
+    },
+    {
+        "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/edes-borsoleves-galuskaval",
+        "h1": "Édes borsóleves galuskával",
+        "txtlength": 10733
+    },
+    {
+        "hostname": "receptneked.hu",
+        "pagelink": "https://receptneked.hu/gyors/sutoben-sult-hotdog/",
+        "h1": "Sütőben sült hotdog recept",
+        "txtlength": 4673
+    },
+    {
+        "hostname": "receptneked.hu",
+        "pagelink": "https://receptneked.hu/gyors/serpenyos-pizza/",
+        "h1": "Serpenyős pizza recept",
+        "txtlength": 4654
+    },
+    {
+        "hostname": "kiszamolo.hu",
+        "pagelink": "https://kiszamolo.hu/tovabb-romlott-a-premium-allampapir-kamatfelara/",
+        "h1": "Tovább romlott a prémium állampapír kamatfelára",
+        "txtlength": 29242
+    },
+    {
+        "hostname": "efesasanisimasa.com",
+        "pagelink": "https://efesasanisimasa.com/2021/06/15/a-chicagoi-7-ek-targyalasa-the-trial-of-the-chicago-7-2020/",
+        "h1": "A chicagói 7-ek tárgyalása (The Trial of the Chicago 7, 2020)",
+        "txtlength": 7984
+    },
+    {
+        "hostname": "alapblog.hu",
+        "pagelink": "https://alapblog.hu/a-modern-formatervezes-egyik-csodaja/",
+        "h1": "A MODERN FORMATERVEZÉS EGYIK CSODÁJA",
+        "txtlength": 6751
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/global/20210719/benko-tibor-szerencses-helyzetben-van-a-magyar-honvedseg-de-ujfajta-kihivasokra-kell-felkeszulnunk-493018",
+        "h1": "Benkő Tibor: Szerencsés helyzetben van a Magyar Honvédség, de újfajta kihívásokra kell felkészülnünk",
+        "txtlength": 28204
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210714_jobboldali_keringo_lengyelorszagban_tusk_visszater",
+        "h1": "Jobboldali keringő Lengyelországban – Tusk visszatér",
+        "txtlength": 24129
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210714_afganisztan_a_masodik_vietnam_veget_ert_az_usa_leghosszabb_haboruja",
+        "h1": "Afganisztán, a második Vietnám – véget ért az USA leghosszabb háborúja",
+        "txtlength": 23910
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2021/07/19/ed-high-tech-be-oltott-hatvannyolc-50-eve-mutattak-be-az-egyszerre-botranyos-es-zsenialis-pompidou-kozpont-terveit",
+        "h1": "HIGH-TECH-BE OLTOTT HATVANNYOLC: 50 ÉVE MUTATTÁK BE AZ EGYSZERRE BOTRÁNYOS ÉS ZSENIÁLIS POMPIDOU KÖZPONT TERVEIT",
+        "txtlength": 22347
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/elet/20210718/meddig-kepes-az-ember-elviselni-a-hoseget/",
+        "h1": "Meddig képes az ember elviselni a hőséget?",
+        "txtlength": 17248
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vallalat/20210719/soha-nem-latott-profitot-hozott-a-jarvany-ideje-a-kormanykozeli-epitocegeknek/",
+        "h1": "Soha nem látott profitot hozott a járvány ideje a kormányközeli építőcégeknek",
+        "txtlength": 16476
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/gazdasag/20210714/valtozasokat-surget-a-hatosag-boduletesen-dragak-a-magyar-bankok-1116212",
+        "h1": "Változásokat sürget a hatóság: bődületesen drágák a magyar bankok",
+        "txtlength": 16344
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/utazas/20210714/ez-az-igazi-csapas-nyaralas-alatt-a-magyar-csaladok-inge-gatyaja-is-ramehet-1115768",
+        "h1": "Ez az igazi csapás nyaralás alatt: a magyar családok inge, gatyája is rámehet",
+        "txtlength": 16163
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/kapcsolat/csorba-szabo-brigitta-interju/",
+        "h1": "\"Mi, siketek nem halljuk a zenét, hanem érezzük.\" - Csorba-Szabó Brigittával beszélgettünk",
+        "txtlength": 16143
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20210718/hohullamok-miatti-halalozas-sokkal-tobben-halnak-meg-a-hideg-mint-a-meleg-miatt-492934",
+        "h1": "Hőhullámok miatti halálozás: sokkal többen halnak meg a hideg, mint a meleg miatt",
+        "txtlength": 13730
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20210719/meg-csak-most-indul-be-igazan-az-elelmiszer-dragulas-492898",
+        "h1": "Még csak most indul be igazán az élelmiszer-drágulás?",
+        "txtlength": 13651
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210718_nemetorszag_tudta_hogy_aradasok_jonnek_de_nem_hasznaltak_a_figyelmeztetesek",
+        "h1": "Németország tudta, hogy áradások jönnek, de nem használtak a figyelmeztetések",
+        "txtlength": 13138
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/szuloseg/bolcsode-ovoda-beszoktatas/",
+        "h1": "Bölcsőde, óvoda beszoktatás",
+        "txtlength": 11344
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/direkt36/2021/07/18/leleplezodott-egy-durva-izraeli-kemfegyver-az-orban-kormany-kritikusait-es-magyar-ujsagirokat-is-celba-vettek-vele",
+        "h1": "Lelepleződött egy durva izraeli kémfegyver, az Orbán-kormány kritikusait és magyar újságírókat is célba vettek vele",
+        "txtlength": 45933
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/gazdasag/20210719_Nagy_Istvan_interju_mezogazdasag",
+        "h1": "Nagy István agrárminiszter: Látjuk a kínai rémtörténeteket, nem szeretnénk odáig eljutni",
+        "txtlength": 27911
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://qubit.hu/2021/07/19/ed-high-tech-be-oltott-hatvannyolc-50-eve-mutattak-be-az-egyszerre-botranyos-es-zsenialis-pompidou-kozpont-terveit",
+        "h1": "HIGH-TECH-BE OLTOTT HATVANNYOLC: 50 ÉVE MUTATTÁK BE AZ EGYSZERRE BOTRÁNYOS ÉS ZSENIÁLIS POMPIDOU KÖZPONT TERVEIT",
+        "txtlength": 22297
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/07/19/10-dolog-amit-sok-csok-igenylo-rosszul-tud",
+        "h1": "10 dolog, amit sok csok igénylő rosszul tud",
+        "txtlength": 18325
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/gazdasag/2021/07/19/ugy-engedtunk-az-oroszoknak-gazugyben-hogy-az-amerikaiaknak-sem-lehet-egy-szava-sem",
+        "h1": "Úgy engedtünk az oroszoknak gázügyben, hogy az amerikaiak sem akadhatnak ki",
+        "txtlength": 17933
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/direkt36/2021/07/19/hogyan-tudjak-feltorni-a-telefonomat-es-mit-tehetek-ellene",
+        "h1": "Hogyan tudják feltörni a telefonomat, és mit tehetek ellene?",
+        "txtlength": 15135
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/sport/20210719_tokio_2020_olimpia_uj_sportagak",
+        "h1": "Gördeszkától a sportmászásig – ezek lesznek az új sportágak Tokióban",
+        "txtlength": 12660
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2021/07/19/rajka-hegyeshalom-koronavirus-nepesseg-valtozas-lakcim-bejelentes/",
+        "h1": "Több ezer lakcím-bejelentést hozott Mosonmagyaróvár környékére a szigorított határátlépés",
+        "txtlength": 12606
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/fn/gazdasag/2021/07/18/nav-feltetelezi-online-szamlazo-rendszerrel-visszaelhettek/",
+        "h1": "Azt feltételezi a NAV, hogy visszaéltek az online számlázórendszerrel",
+        "txtlength": 11803
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/kulfold/anglia-jogi-korlatozasok-boris-johnson/2sp6k20",
+        "h1": "Megszűntek a jogi korlátozások Angliában: ezt kéri Boris Johnson a lakosságtól",
+        "txtlength": 10975
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/sport/2021/07/18/olimpia-sorozat-burian-kata-peni-istvan-video/",
+        "h1": "„Egy hosszú zaklatási sorozat csúcspontja volt” – így készül az olimpiára Péni István és Burián Kata",
+        "txtlength": 10812
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/blikk-tv/aktualis/vona-gabor-volt-egyszer-egy-politikus/npplf5s?sl_ps=d_6",
+        "h1": "Vona Gábor: cikinek találom korábbi önmagam",
+        "txtlength": 9996
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20210718_Direkt36_nso_pegasus_kemprogram_simicska_varga_chikan",
+        "h1": "Direkt36: Az Orbán-kormány kritikusait és magyar újságírókat is célba vettek az izraeli kémfegyverrel",
+        "txtlength": 9161
+    },
+    {
+        "hostname": "nosalty.hu",
         "pagelink": "https://www.nosalty.hu/recept/vadas-martas-serteshussal",
         "h1": "Vadas mártás sertéshússal",
         "txtlength": 14357
