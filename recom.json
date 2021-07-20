@@ -1,5 +1,209 @@
 [
     {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/gorogos-csirkecomb-sult-paradicsommal.recept",
+        "h1": "POLGÁR TÜNDE GÖRÖGÖS CSIRKECOMBJA SÜLT PARADICSOMMAL",
+        "txtlength": 11886
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/pho-leves-marhahusbol.recept",
+        "h1": "PHO LEVES MARHAHÚSBÓL",
+        "txtlength": 11109
+    },
+    {
+        "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/egyszeru-tokfozelek",
+        "h1": "Egyszerű tökfőzelék",
+        "txtlength": 10641
+    },
+    {
+        "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/egyszeru-piskotatekercs",
+        "h1": "Egyszerű piskótatekercs",
+        "txtlength": 10633
+    },
+    {
+        "hostname": "receptneked.hu",
+        "pagelink": "https://receptneked.hu/gyors/toltott-zsemle-2/",
+        "h1": "Töltött zsemle recept",
+        "txtlength": 4740
+    },
+    {
+        "hostname": "receptneked.hu",
+        "pagelink": "https://receptneked.hu/gyors/parizsiszoszba-forgatot-cukkini-tartarmartassal/",
+        "h1": "Párizsiszószba forgatott cukkini tartármártással recept",
+        "txtlength": 4697
+    },
+    {
+        "hostname": "kiszamolo.hu",
+        "pagelink": "https://kiszamolo.hu/breking-nyuz-megsem-lesz-holnaptol-valtozas-a-napelemek-szaldojaban/",
+        "h1": "Bréking nyúz: mégsem lesz holnaptól változás a napelemekkel kapcsolatban",
+        "txtlength": 28888
+    },
+    {
+        "hostname": "alapblog.hu",
+        "pagelink": "https://alapblog.hu/olvasoink-kerdeztek-valaszolunk-inflacio-2/",
+        "h1": "OLVASÓINK KÉRDEZTÉK, VÁLASZOLUNK – INFLÁCIÓ",
+        "txtlength": 8302
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210720_pegasus_kohan_matyas",
+        "h1": "Hadüzenetek a homályzónából",
+        "txtlength": 24062
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vilag/20210720/orbanhoz-hasonlo-erveket-hangoztatva-bekulne-oroszorszaggal-a-francia-elnok-de-miert/",
+        "h1": "Orbánhoz hasonló érveket hangoztatva békülne Oroszországgal a francia elnök, de miért?",
+        "txtlength": 23271
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/kozelet/20210719/az-allam-miatt-nem-epul-eleg-lakas-kinalati-lakaspolitikara-van-szukseg/",
+        "h1": "Az állam miatt nem épül elég lakás, kínálati lakáspolitikára van szükség",
+        "txtlength": 20121
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210719_vagvolgyi_keresztenyseg_jobboldalisag_partpolitika",
+        "h1": "„A politikai kereszténység önmagában nagyon kevés” – Vágvölgyi Gergely a Mandinernek",
+        "txtlength": 17789
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/lajfhekk/felesleges-targyak-eladasa/",
+        "h1": "Felesleges tárgyak eladása",
+        "txtlength": 16572
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/global/20210719/katasztrofa-nemetorszagban-az-iteletido-a-politikaban-is-foldcsuszamlasszeru-valtozasokat-hoz-493170",
+        "h1": "Katasztrófa Németországban: az ítéletidő a politikában is földcsuszamlásszerű változásokat hoz?",
+        "txtlength": 16522
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210719_nso_ellenzek_megfigyelesi_ugy_belfold_444",
+        "h1": "Rágalmazási per indítását fontolgatja az izraeli cég az állítólagos megfigyelési ügy kapcsán",
+        "txtlength": 15438
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/utazas/20210717/ez-a-6-legjobb-vizparti-nyaralohely-2021-ben-nem-kell-messze-menned-hogy-csodakat-lass-1116286",
+        "h1": "Ez a 6 legjobb vízparti nyaralóhely 2021-ben: nem kell messze menned, hogy csodákat láss!",
+        "txtlength": 15418
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/egeszseg/20210716/ennyi-penzt-kereshetsz-itthon-a-vereddel-sokan-csinaljak-teljesen-legalis-1116283",
+        "h1": "Ennyi pénzt kereshetsz itthon a véreddel: sokan csinálják, teljesen legális",
+        "txtlength": 15170
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20210720/uj-javaslat-erkezett-kotelezove-tehetne-a-munkahelyed-a-koronavirus-oltast-493234",
+        "h1": "Új javaslat érkezett: kötelezővé tehetné a munkahelyed a koronavírus-oltást",
+        "txtlength": 14983
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/uzlet/20210720/tenyleg-nincs-szuksege-a-kisvallalatoknak-vallalatiranyitasi-rendszerre-492728",
+        "h1": "Tényleg nincs szüksége a kisvállalatoknak vállalatirányítási rendszerre?",
+        "txtlength": 14247
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2021/07/20/joe-biden-hadat-uzent-a-facebooknak-es-a-google-nek-de-nem-lesz-konnyu-feldarabolni-oket",
+        "h1": "JOE BIDEN HADAT ÜZENT A FACEBOOKNAK ÉS A GOOGLE-NEK, DE NEM LESZ KÖNNYŰ FELDARABOLNI ŐKET",
+        "txtlength": 14137
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/utazas/horvat-tengerpart-vonat-busz/",
+        "h1": "4 gyönyörű tengerparti város, ahova nyáron átszállás nélkül eljuthatsz: vidám strandok, tiszta víz vár",
+        "txtlength": 12933
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/direkt36/2021/07/19/pegasus-nso-hungary-viktor-orban-cyberweapon",
+        "h1": "Hungarian journalists and critics of Orbán were targeted with Pegasus, a powerful Israeli cyberweapon",
+        "txtlength": 45621
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20210719_TASZ_Pegasus_ugy_megfigyeles_lehallgatas_kemszoftver",
+        "h1": "Máshol ebbe belebukna a politika - interjú Szabó Máté Dániel jogásszal a megfigyelési ügyről",
+        "txtlength": 19566
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/direkt36/2021/07/19/banati-janos-az-ugyvedi-kamara-elnoke-estobb-masik-ugyved-is-az-izraeli-kemszoftver-celpontja-lett",
+        "h1": "Bánáti János, az ügyvédi kamara elnöke és több másik ügyvéd is az izraeli kémszoftver célpontja lett",
+        "txtlength": 19295
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/direkt36/2021/07/19/orban-ellen-fordult-azota-erzi-ugy-zaklatjak-es-megfigyelik-most-kiderult-hogy-gemesi-gyorgyot-is-megceloztak-a-kemfegyverrel",
+        "h1": "Orbán ellen fordult, azóta érzi úgy, zaklatják és megfigyelik. Most kiderült, hogy Gémesi Györgyöt is megcélozták a kémfegyverrel",
+        "txtlength": 18994
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/07/20/szarnyalj-pegasus",
+        "h1": "Szárnyalj, Pegasus!",
+        "txtlength": 18115
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20210719_Pegasus_ugy_osszefoglalo",
+        "h1": "Pegasus-ügy: Amit tudunk, és amit csak sejtünk",
+        "txtlength": 16263
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/tech/2021/07/19/pegasus-nso-megfigyelesi-botrany-kemprogram/",
+        "h1": "Ezt kell tudni az izraeli kémfegyverről, amivel magyarokat is lehallgattak",
+        "txtlength": 15862
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2021/07/20/megfigyelesi-ugy-pegasus-miniszter-torvenyi-hatter/",
+        "h1": "Olyan puha a törvény, hogy itthon bárki lehallgatható következmények nélkül",
+        "txtlength": 15082
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/tudomany/20210720_nso_pegasus_lehallgatas_megfigyeles_kemszoftver_telepitese_mit_tud",
+        "h1": "Mit tud a hírhedt Pegasus program, ha rákerül valaki telefonjára? Szó szerint mindent",
+        "txtlength": 14018
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kulfold/2021/07/19/pegasus-kemprogram-megfigyeles-ujsagirok-azerbadjzsan-mexiko-india-hasogdzsi/",
+        "h1": "Rejtett kamerás szexvideó, börtön, gyilkosság – a megfigyelési botrány külföldi célpontjai",
+        "txtlength": 13621
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/07/19/varga-judit-nem-ismerte-el-de-nem-is-tagadta-hogy-a-pegasust-bevethettek-magyarorszagon",
+        "h1": "Varga Judit nem ismerte el, de nem is tagadta, hogy a Pegasust bevethették Magyarországon",
+        "txtlength": 12812
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/military-gyerektabor-katonak-mogyorod/pd73dgp?utm_source=related&utm_medium=www.blikk.hu&utm_campaign=widget-9446979",
+        "h1": "„Itt katona lesz a gyerek” – Belestünk a mogyoródi Military táborba: elképesztő, mi minden vár itt a terepruhás tinédzserekre – fotók",
+        "txtlength": 11293
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/pegasus-kemszoftver-megfigyelt-ujsagirok-politikusok-botrany/tnyb5d9?sl_ps=d_3",
+        "h1": "Politikusokat, pénzembereket, újságírókat hallgattak le: a megfigyeltek intim pillanatait is ellopták",
+        "txtlength": 9865
+    },
+    {
         "hostname": "nosalty.hu",
         "pagelink": "https://www.nosalty.hu/recept/pizzateszta-jamie-oliver-tol",
         "h1": "Pizzatészta Jamie Oliver-től",
