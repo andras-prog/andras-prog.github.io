@@ -1,6 +1,210 @@
 [
     {
         "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/fatorzs-kifli.recept",
+        "h1": "FATÖRZS KIFLI",
+        "txtlength": 10840
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/magas-makos-sutemeny.recept",
+        "h1": "MAGAS MÁKOS SÜTEMÉNY",
+        "txtlength": 10743
+    },
+    {
+        "hostname": "receptneked.hu",
+        "pagelink": "https://receptneked.hu/gyors/bundaskenyer-muffin/",
+        "h1": "Bundáskenyér muffin recept",
+        "txtlength": 4715
+    },
+    {
+        "hostname": "receptneked.hu",
+        "pagelink": "https://receptneked.hu/gyors/fokhagymas-krumpli/",
+        "h1": "Fokhagymás krumpli recept",
+        "txtlength": 4667
+    },
+    {
+        "hostname": "kiszamolo.hu",
+        "pagelink": "https://kiszamolo.hu/konyhabutort-csillart-keritest-szobafestest-most-felaron/",
+        "h1": "Konyhabútort, csillárt, kerítést, szobafestést most féláron",
+        "txtlength": 28257
+    },
+    {
+        "hostname": "alapblog.hu",
+        "pagelink": "https://alapblog.hu/akik-meg-a-techcegeket-is-felulteljesitettek-a-pandemia-alatt/",
+        "h1": "AKIK MÉG A TECHCÉGEKET IS FELÜLTELJESÍTETTÉK A PANDÉMIA ALATT",
+        "txtlength": 8783
+    },
+    {
+        "hostname": "kulturpart.hu",
+        "pagelink": "https://kulturpart.hu/2021/07/15/rappek_loopok_neptancalapok",
+        "h1": "RAPPEK, LOOPOK, NÉPTÁNCALAPOK",
+        "txtlength": 5137
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210720_pegasus_lehallgatas_baloldali_liberalis_media_kampany",
+        "h1": "Előre megtervezett baloldali médiakampány lehet az állítólagos lehallgatások ügye",
+        "txtlength": 22660
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20210721/harmadik-oltas-magyarorszagon-kinek-mikor-es-milyen-vakcina-legyen-az-ujabb-adag-493178",
+        "h1": "Harmadik oltás Magyarországon: kinek, mikor és milyen vakcina legyen az újabb adag?",
+        "txtlength": 20460
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/vallalkozas/20210718/itt-a-sulyos-igazsag-a-hazai-boltokban-kaphato-zoldsegekrol-gyumolcsokrol-1116304",
+        "h1": "Itt a súlyos igazság a hazai boltokban kapható zöldségekről, gyümölcsökről",
+        "txtlength": 20069
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20210721/terjed-a-virus-a-vilagban-mindenki-a-delta-variansra-figyel-493354",
+        "h1": "Terjed a vírus a világban, Montenegró már a szigorítást tervezi ",
+        "txtlength": 18366
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210720_nem_jonnek_magyarorszagra_az_eu_s_penzek_amig_nem_valtoztat_ket_teruleten_a_kormany",
+        "h1": "Reynders: Nem jönnek Magyarországra az EU-s pénzek, amíg nem változtat két területen a kormány",
+        "txtlength": 18358
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/kozelet/20210720/nem-tul-sok-hanem-tul-keves-lesz-a-200-ezres-minimalber/",
+        "h1": "Nem túl sok, hanem túl kevés lesz a 200 ezres minimálbér",
+        "txtlength": 18108
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210714_nem_valhat_minden_emberi_jogga_nemzetkozi_jogasz_a_mandinernek",
+        "h1": "Nem válhat minden emberi joggá – nemzetközi jogász a Mandinernek",
+        "txtlength": 17409
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/karrier/20210719/ujra-beindult-az-elvandorlas-luxusfizetesert-lepnek-le-kulfoldre-a-magyarok-1116337",
+        "h1": "Újra beindult az elvándorlás: luxusfizetésért lépnek le külföldre a magyarok",
+        "txtlength": 17058
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2021/07/21/a-pegasus-ugynel-kisebb-lehallgatasi-botranyba-is-buktak-mar-bele-politikusok",
+        "h1": "A PEGASUS-ÜGYNÉL KISEBB LEHALLGATÁSI BOTRÁNYBA IS BUKTAK MÁR BELE POLITIKUSOK",
+        "txtlength": 17031
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vallalat/20210721/ner-epitok-merlege-30-milliard-ber-60-milliard-osztalek/",
+        "h1": "NER-építők mérlege: 30 milliárd bér, 60 milliárd osztalék",
+        "txtlength": 16851
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/uzlet/20210721/kritikus-ponthoz-erkezett-a-gazdasag-hova-erdemes-tenni-a-penzunket-493374",
+        "h1": "Kritikus ponthoz érkezett a gazdaság, hova érdemes tenni a pénzünket?",
+        "txtlength": 15072
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/egeszseg/gyumolcsok-szezonja/",
+        "h1": "Mikor vegyél dinnyét, és mikor barackot? 6 gyümölcs, ami a szezonjában a legfinomabb",
+        "txtlength": 13420
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/testem/szoritoero-alkar-erositese/",
+        "h1": "Szorítóerő alkar erősítése",
+        "txtlength": 11886
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/szuloseg/gyerek-meztelen-strand/",
+        "h1": "Miért baj, ha meztelenül strandol a gyerek a vízparton? Hiszti vagy elővigyázatosság?",
+        "txtlength": 11339
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kulfold/2021/07/21/japan-tokio-olimpia-2020-koronavirus-jarvany-nezok-nelkul",
+        "h1": "Így még nem irtózott rendező ország az olimpiától",
+        "txtlength": 23359
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20210721_Pegasusugy_Fidesz_vizsgalobizottsag_megfigyelesi_ugy",
+        "h1": "Pegasus-ügy: A Fidesz joggal tart attól, hogy egy kormányváltás után minden kiderül",
+        "txtlength": 17647
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/07/20/brusszel-a-keretek-demokraciara-hajaznak-de-ami-benne-van-az-a-nepotizmus-melegagya",
+        "h1": "Brüsszel: A keretek demokráciára hajaznak, de ami benne van, az a nepotizmus melegágya",
+        "txtlength": 16813
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://qubit.hu/2021/07/21/a-pegasus-ugynel-kisebb-lehallgatasi-botranyba-is-buktak-mar-bele-politikusok",
+        "h1": "A PEGASUS-ÜGYNÉL KISEBB LEHALLGATÁSI BOTRÁNYBA IS BUKTAK MÁR BELE POLITIKUSOK",
+        "txtlength": 16555
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2021/07/21/norveg-alap-civil-penz-dontes-magyar-kormany/",
+        "h1": "Most dől el, hogy a civilek miatt Orbánék kidobják-e a Norvég Alap tízmilliárdjait",
+        "txtlength": 12927
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20210720_Az_NSO_tevekenysege_art_Izraelnek",
+        "h1": "Pegasus-ügy: így látják a botrányt Izraelben",
+        "txtlength": 12693
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/fn/gazdasag/2021/07/20/elmu-emasz-aramszolgaltatas-szeptembertol-valtozas-mvm-next/",
+        "h1": "Fontos tudnivalók azoknak, akiknek most az Elmű-Émász az áramszolgáltatójuk",
+        "txtlength": 12672
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kulfold/2021/07/20/politikusok-megfigyeles-emmanuel-macron-charles-michel-franciaorszag-belgium-europai-tanacs",
+        "h1": "Emmanuel Macron francia elnök és további 13 állam- vagy kormányfő is célpont volt a Pegasus-botrányban",
+        "txtlength": 12469
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/kulfold/nemetorszag-aradas-magyar-csalad-beszamolo/vz77hd7",
+        "h1": "Exkluzív – Egy magyar édesanya beszámolója a pusztító áradással sújtott Németországból: „Halálos versenyfutás volt az idővel és a folyóval”",
+        "txtlength": 11448
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/szorakozas/2021/07/20/space-jam-2-maga-az-ontudatara-ebredt-marketingpokol",
+        "h1": "A Space Jam 2 maga az öntudatára ébredt marketingpokol",
+        "txtlength": 11334
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/magyar-szinesz-rajongo-megeroszakolta-vad/03w86j6?sl_ps=d_3",
+        "h1": "Folyik a nyomozás – A rajongó döbbenetes vádja: megerőszakolt a sztárszínész!",
+        "txtlength": 10806
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/tudomany/2021/07/20/aradas-idojaras-eso-villamaradas/",
+        "h1": "Ezért alakult ki a vizes pokol Németországban",
+        "txtlength": 10674
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/tudomany/20210721_netflix_videojatek_streaming",
+        "h1": "Tényleg meglépik: videojátékok jönnek a Netflixre, nem kell értük pluszban fizetni",
+        "txtlength": 8943
+    },
+    {
+        "hostname": "mindmegette.hu",
         "pagelink": "https://www.mindmegette.hu/gorogos-csirkecomb-sult-paradicsommal.recept",
         "h1": "POLGÁR TÜNDE GÖRÖGÖS CSIRKECOMBJA SÜLT PARADICSOMMAL",
         "txtlength": 11886
