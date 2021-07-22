@@ -1,6 +1,210 @@
 [
     {
         "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/magas-tatra-szelet-sutemeny.recept",
+        "h1": "MAGAS-TÁTRA SZELET",
+        "txtlength": 11042
+    },
+    {
+        "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/csalamade-telire-egyszeruen",
+        "h1": "Csalamádé télire egyszerűen",
+        "txtlength": 10916
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/slambuc-bogracsban-egyszeruen.recept",
+        "h1": "SLAMBUC BOGRÁCSBAN",
+        "txtlength": 10881
+    },
+    {
+        "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/fokhagymas-cukkinifasirt",
+        "h1": "Fokhagymás cukkinifasírt",
+        "txtlength": 10854
+    },
+    {
+        "hostname": "receptneked.hu",
+        "pagelink": "https://receptneked.hu/gyors/meggyes-turos-villamsuti/",
+        "h1": "Meggyes-túrós villámsüti recept",
+        "txtlength": 4571
+    },
+    {
+        "hostname": "receptneked.hu",
+        "pagelink": "https://receptneked.hu/gyors/sajtos-tejfolos-galuska-zoldhagymaval/",
+        "h1": "Sajtos tejfölös galuska zöldhagymával recept",
+        "txtlength": 4555
+    },
+    {
+        "hostname": "kiszamolo.hu",
+        "pagelink": "https://kiszamolo.hu/csak-nehany-adat-az-egyesult-allamokbol/",
+        "h1": "Csak néhány adat az Egyesült Államokból",
+        "txtlength": 30454
+    },
+    {
+        "hostname": "alapblog.hu",
+        "pagelink": "https://alapblog.hu/ki-mondta-hogy-szerencsetlen-a-harmincas-korosztaly-en-de-nagyot-tevedtem/",
+        "h1": "KI MONDTA, HOGY SZERENCSÉTLEN A HARMINCAS KOROSZTÁLY? ÉN, DE NAGYOT TÉVEDTEM.",
+        "txtlength": 10524
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210721_negyedik_hullam",
+        "h1": "A delta vírusvariáns átírja az európai nyitási forgatókönyveket",
+        "txtlength": 27848
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/elet/20210722/eselyeink-a-negyedik-hullammal-szemben/",
+        "h1": "Esélyeink a negyedik hullámmal szemben",
+        "txtlength": 25002
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/adat/20210721/fel-kell-keszulnunk-a-magas-energiaarak-idoszakara/",
+        "h1": "Fel kell készülnünk a magas energiaárak időszakára",
+        "txtlength": 22803
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/global/20210722/ujabb-nemzetkozi-botrany-bizonyitja-a-telefonod-fegyver-amit-barmikor-hasznalhatnak-ellened-493346",
+        "h1": "Újabb nemzetközi botrány bizonyítja: a telefonod fegyver, amit bármikor használhatnak ellened",
+        "txtlength": 20977
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2021/07/22/ha-a-pegasus-a-telefonodon-van-az-tobbe-mar-nem-a-te-telefonod",
+        "h1": "HA A PEGASUS A TELEFONODON VAN, AZ TÖBBÉ MÁR NEM A TE TELEFONOD",
+        "txtlength": 20437
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210721_megviselte_de_nem_torte_meg_a_magyar_fiatalokat_a_jarvany",
+        "h1": "Megviselte, de nem törte meg a magyar fiatalokat a járvány",
+        "txtlength": 19435
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/befektetes/20210721/kezdodik-az-olimpia-milyen-befektetesekkel-lehet-az-esemenyen-penzt-keresni-493428",
+        "h1": "Kezdődik az olimpia - Milyen befektetésekkel lehet az eseményen pénzt keresni?",
+        "txtlength": 18866
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210721_usa_nyugat_kina_kiberhaboru_microsoft_exchange",
+        "h1": "Fokozódik a Nyugat és Kína titkos kiberháborúja",
+        "txtlength": 18795
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20210722/gulyas-jo-ideig-elmaradhatnak-az-eu-penzek-azonositottak-magyarorszagon-a-gamma-varianst-is-493564",
+        "h1": "Gulyás: jó ideig elmaradhatnak az EU-pénzek, azonosították Magyarországon a gamma variánst is ",
+        "txtlength": 18277
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/egeszseg/20210719/kilottek-a-korhazi-varolistak-eveket-varhatnak-a-mutetekre-a-magyar-betegek-1116214",
+        "h1": "Kilőttek a kórházi várólisták: éveket várhatnak a műtétekre a magyar betegek",
+        "txtlength": 15099
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/utazas/20210722/itt-a-kokemeny-igazsag-ezert-kerulik-el-a-magyar-es-kulfoldi-turistak-budapestet-1116417",
+        "h1": "Itt a kőkemény igazság: ezért kerülik el a magyar és külföldi turisták Budapestet",
+        "txtlength": 14836
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/lajfhekk/gyumolcsfa-ultetes-tippek/",
+        "h1": "Gyümölcsfa ültetés tippek",
+        "txtlength": 10988
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/szepseg/borszepito-vitamin/",
+        "h1": "Gátolja a bőröregedést, a pigmentfoltok kialakulását: a 4 legfontosabb vitamin a bőr szépségének megőrzésére",
+        "txtlength": 10832
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kulfold/2021/07/21/norvegia-2011-merenylet-oslo-utoya-breivik",
+        "h1": "Arra gondoltam, most fogok meghalni, és vártam a lövéseket",
+        "txtlength": 20755
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://qubit.hu/2021/07/22/ha-a-pegasus-a-telefonodon-van-az-tobbe-mar-nem-a-te-telefonod",
+        "h1": "HA A PEGASUS A TELEFONODON VAN, AZ TÖBBÉ MÁR NEM A TE TELEFONOD",
+        "txtlength": 20484
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20210722_kormanyinfo",
+        "h1": "Gulyás nem tud arról, hogy magyar iskolákban nemváltást népszerűsítettek volna",
+        "txtlength": 19846
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/07/21/olbe-tett-kezben-csore-toltott-fegyver",
+        "h1": "Ölbe tett kézben csőre töltött fegyver",
+        "txtlength": 17277
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/belfold/2021/07/22/kormanyinfo-gulyas-gergely-pegasus-nso-lehallgatas-melegellenese-elteritett-torveny",
+        "h1": "Gulyás szerint a Pegasus-botrány egy „hisztéria és álbotrány”, nemzetközi segítséggel",
+        "txtlength": 17259
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2021/07/22/pecs-ellenzek-peterffy-attila-kozgyules-ellentetek-valasztasi-eselyek-riport/",
+        "h1": "„Nem izgat, mi történik a pécsi politikában, csak az érdekel, hogy a Fidesz jövőre ne nyerjen”",
+        "txtlength": 16957
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/fn/gazdasag/2021/07/21/inflacio-valasztasok-elott-nem-fekez-kormany-mnb/",
+        "h1": "Infláció: „Egy nem normális gazdaságpolitika következménye”",
+        "txtlength": 16599
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/kkv/20210721_aramar_foldgaz_energia_rezsicsokkentes",
+        "h1": "Elszállt az áram és a gáz ára, rendszerszintű problémák vannak",
+        "txtlength": 15532
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/belfold/2021/07/21/a-megeroszakolt-felgyujtott-p-henrietta-gyilkosa-kiszabadul",
+        "h1": "Szabadult, és lekerült a radarról a 18 éves P. Henrietta gyilkosa",
+        "txtlength": 14702
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2021/07/22/szijjarto-peter-bbc-pegasus-homofob-torveny/",
+        "h1": "Szijjártó Péter a BBC-n: Folyamatos támadás alatt állunk",
+        "txtlength": 13549
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/sport/20210721_elmult_olimpiak_gyongyszemei",
+        "h1": "Bottal verekedés és kötélhúzás, avagy régi olimpiai sportok, amelyekért fáj a szívünk",
+        "txtlength": 13386
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/tamasi-muanyaghulladek-hatosagok-birsag/lg1r6vt?sl_ps=d_6",
+        "h1": "Brutális szeméthegy borzolja a kedélyeket Tamásiban: a Blikk megnézte, hogy jött a városba kétemeletnyi hulladék Olaszországból – fotók",
+        "txtlength": 10805
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/magyar-szinesz-rajongo-megeroszakolta-vad/03w86j6",
+        "h1": "Folyik a nyomozás – A rajongó döbbenetes vádja: megerőszakolt a sztárszínész!",
+        "txtlength": 10701
+    },
+    {
+        "hostname": "mindmegette.hu",
         "pagelink": "https://www.mindmegette.hu/fatorzs-kifli.recept",
         "h1": "FATÖRZS KIFLI",
         "txtlength": 10840
