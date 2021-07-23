@@ -1,6 +1,198 @@
 [
     {
         "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/tejszines-cukkinikremleves-ujkrumplival-bazsalikommal.recept",
+        "h1": "TEJSZÍNES CUKKINIKRÉMLEVES ÚJKRUMPLIVAL",
+        "txtlength": 11072
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/glutenmentes-tejmentes-palacsinta.recept",
+        "h1": "GLUTÉNMENTES PALACSINTA",
+        "txtlength": 10966
+    },
+    {
+        "hostname": "receptneked.hu",
+        "pagelink": "https://receptneked.hu/gyors/sajttal-sonkaval-toltott-bundas-kenyer-rolad/",
+        "h1": "Sajttal, sonkával töltött bundás kenyér rolád recept",
+        "txtlength": 4514
+    },
+    {
+        "hostname": "receptneked.hu",
+        "pagelink": "https://receptneked.hu/gyors/petrezselymes-tocsni/",
+        "h1": "Petrezselymes tócsni recept",
+        "txtlength": 4506
+    },
+    {
+        "hostname": "alapblog.hu",
+        "pagelink": "https://alapblog.hu/olvasoink-kerdeztek-valaszolunk-reszvenyek/",
+        "h1": "OLVASÓINK KÉRDEZTÉK, VÁLASZOLUNK – RÉSZVÉNYEK",
+        "txtlength": 9892
+    },
+    {
+        "hostname": "kulturpart.hu",
+        "pagelink": "https://kulturpart.blog.hu/2021/07/22/suket_sikolyok_ordito_nemasag",
+        "h1": "SÜKET SIKOLYOK, ORDÍTÓ NÉMASÁG",
+        "txtlength": 9754
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vallalat/20210723/a-csaladok-nem-igazan-de-a-barati-cegek-jol-jarhatnak-a-kormany-intezkedeseivel/",
+        "h1": "A családok nem igazán, de a baráti cégek jól járhatnak a kormány intézkedéseivel",
+        "txtlength": 28110
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210714_messze_tulteljesitettuk_a_celkituzest_csanyi_sandor_a_mandinernek",
+        "h1": "Messze túlteljesítettük a célkitűzést – Csányi Sándor a Mandinernek",
+        "txtlength": 23995
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20210723/miert-ellenzi-magyarorszag-az-europai-unios-klimacsomagot-493678",
+        "h1": "Miért ellenzi Magyarország az Európai Uniós klímacsomagot?",
+        "txtlength": 21336
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/szorakozas/20210721/dining-guide-2021-horror-arak-ennyibe-kerul-egy-vacsora-magyarorszag-top10-ettermeben-1116392",
+        "h1": "Horror árak: ennyibe kerül egy vacsora Magyarország TOP10 éttermében",
+        "txtlength": 20935
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210721_cseh_katalin_eu_tamogatasok_bennfentes_ceg_momentum",
+        "h1": "Nemrég még a Magyarországnak járó EU-támogatások felfüggesztéséért lobbizott Cseh Katalin",
+        "txtlength": 17215
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210723_orban_viktor_belfold_kossuth_radio_jo_reggelt_magyarorszag_interju",
+        "h1": "Orbán Viktor: Azért van szükség a népszavazásra, mert Brüsszel megtámadta Magyarországot",
+        "txtlength": 17184
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/karrier/20210719/sulyos-hiba-szedi-aldozatait-a-munkaeropiacon-te-is-megutheted-a-bokad-ha-rosszul-dontesz-1116336",
+        "h1": "Súlyos hiba szedi áldozatait a munkaerőpiacon: te is megütheted a bokád, ha rosszul döntesz",
+        "txtlength": 15868
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vallalat/20210722/az-unios-elmezonyben-tert-vissza-magyarorszagra-a-munkaerohiany/",
+        "h1": "Az uniós élmezőnyben tért vissza Magyarországra a munkaerőhiány",
+        "txtlength": 15214
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/uzlet/20210723/durvul-az-izraeli-fagylalthaboru-itt-az-ujabb-fordulat-493740",
+        "h1": "Durvul az izraeli fagylaltháború, itt az újabb fordulat",
+        "txtlength": 13859
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20210723/orban-viktor-keslelteti-brusszel-az-eu-penzek-kifizeteset-a-gyermekvedelmi-torveny-modositasa-erdekeben-493724",
+        "h1": "Orbán Viktor: késlelteti Brüsszel az EU-pénzek kifizetését a gyermekvédelmi törvény módosítása érdekében ",
+        "txtlength": 13322
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2021/07/22/megkezdi-a-mintagyujtest-a-marson-a-perseverance",
+        "h1": "MEGKEZDI A MINTAGYŰJTÉST A MARSON A PERSEVERANCE",
+        "txtlength": 12134
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/egeszseg/hosszu-elet-szokasok/",
+        "h1": "7 mindennapi szokás, amit a hosszú életű emberek csinálnak: az étkezés módján is sok múlik",
+        "txtlength": 11683
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/szuloseg/gyerek-felti-a-szuleit/",
+        "h1": "Gyerek félti a szüleit",
+        "txtlength": 10787
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/07/23/nem-az-eu-s-klimapolitikan-sokkal-inkabb-a-kormanyon-mulik-mennyivel-lesz-dragabb-a-rezsi-es-a-tankolas",
+        "h1": "Nem az EU-s klímapolitikán, sokkal inkább a kormányon múlik, mennyivel lesz drágább a rezsi és a tankolás",
+        "txtlength": 22650
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kultura/2021/07/22/harvey-weinstein-ronan-farrow-hollywood-csucsragadozoja-szexualis-zaklatas-pegasus-black-cube/",
+        "h1": "Harvey Weinstein is izraeli magánkémekkel figyeltette az utána nyomozó újságírókat",
+        "txtlength": 21047
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/07/23/a-kormany-nem-akarja-beismerni-pedig-vilagos-a-kinai-vakcina-sok-idosnel-nem-mukodik-megfeleloen",
+        "h1": "A kormány nem akarja beismerni, pedig világos: a kínai vakcina sok idősnél nem működik megfelelően",
+        "txtlength": 19407
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kulfold/2021/07/23/netanjahu-izrael-orban-nso-pegasus-botrany-budapest-kemszoftver/",
+        "h1": "Pegasus-ügy: Netanjahu négy éve elszólta magát Budapesten",
+        "txtlength": 17810
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kulfold/2021/07/22/a-no-akinek-oriasi-hiba-volt-elhinni-hogy-biztos-a-ferj-a-gyilkos",
+        "h1": "A nő, akinek óriási hiba volt elhinni, hogy biztosan a férj a gyilkos",
+        "txtlength": 17389
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2021/07/22/fidesz-gyermekvedelem-pedofilia-velemeny/",
+        "h1": "Balavány: Amit a Fidesz művel, az nem gyermekvédelem, hanem a gyerekek kihasználása",
+        "txtlength": 15337
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/sport/2021/07/23/kulcsar-krisztian-tokio-olimpia-mob-varakozasok-sportiranyitas",
+        "h1": "MOB-elnök: Sok-sok valódi érzelmi áttörésre számítok az olimpián",
+        "txtlength": 14754
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/belfold/2021/07/22/nepszavazasi-kerdesek-factcheck",
+        "h1": "Megpróbáltuk megfejteni, mi az értelme az Orbán által bejelentett gyereknépszavazás kérdéseinek",
+        "txtlength": 13891
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/kihirdettek-idei-egyetemi-felveteli-ponthatarokat/yxbdq71?sl_ps=d_12",
+        "h1": "Kihirdették az idei felvételi ponthatárokat: ezek a legmagasabb pontszámmal induló szakok",
+        "txtlength": 12693
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/gazdasag/20210723_Orban_helyreallitasi_alap_rrf_eu",
+        "h1": "Orbán magyar helyreállítási alapja nem több egy könyvelési blöffnél",
+        "txtlength": 10804
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/gazdasag/20210723_Magyarorszag_kenterbe_verte_regios_versenytarsait_a_jarvany_alatti_eladosodasban",
+        "h1": "Magyarország kenterbe verte régiós versenytársait eladósodásban",
+        "txtlength": 10535
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20210722_Pegasusugy_nemzetbiztonsagi_bizottsag_vizsgalat_megfigyelesi_ugy",
+        "h1": "Pegasus-ügy: Hétfőn ül össze a nemzetbiztonsági bizottság",
+        "txtlength": 10345
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/ikrek-szivbetegseg-gyasz-tragedia/hscnmtr?sl_ps=d_8",
+        "h1": "„A gyerekek még mindig hazavárják” – Megállt a szíve a miskolci hármasikrek édesapjának: megszólalt a gyászoló feleség",
+        "txtlength": 9748
+    },
+    {
+        "hostname": "mindmegette.hu",
         "pagelink": "https://www.mindmegette.hu/magas-tatra-szelet-sutemeny.recept",
         "h1": "MAGAS-TÁTRA SZELET",
         "txtlength": 11042
