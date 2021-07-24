@@ -1,5 +1,215 @@
 [
     {
+        "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/tarkonyos-csirkeraguleves-tarkonyos-raguleves-3",
+        "h1": "Tárkonyos csirkeraguleves (Tárkonyos raguleves 3.)",
+        "txtlength": 11119
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/linzer-glutenmentes-tejmentes.recept",
+        "h1": "GLUTÉNMENTES LINZER",
+        "txtlength": 11108
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/olasz-es-gorog-paradicsomsalata.recept",
+        "h1": "OLASZ ÉS GÖRÖG PARADICSOMSALÁTA",
+        "txtlength": 10884
+    },
+    {
+        "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/edes-paradicsomos-husgomboc",
+        "h1": "Édes paradicsomos húsgombóc",
+        "txtlength": 10664
+    },
+    {
+        "hostname": "receptneked.hu",
+        "pagelink": "https://receptneked.hu/gyors/sajtos-baconos-csavart/",
+        "h1": "Sajtos-baconos csavart recept",
+        "txtlength": 4645
+    },
+    {
+        "hostname": "receptneked.hu",
+        "pagelink": "https://receptneked.hu/gyors/tojas-fasirt/",
+        "h1": "Tojásfasírt recept",
+        "txtlength": 4444
+    },
+    {
+        "hostname": "kiszamolo.hu",
+        "pagelink": "https://kiszamolo.hu/tag/portfolioblogger/",
+        "h1": "Címke: portfolioblogger",
+        "txtlength": 27529
+    },
+    {
+        "hostname": "alapblog.hu",
+        "pagelink": "https://alapblog.hu/holdrajz-egy-tudomany-a-foldrajz-mintajara/",
+        "h1": "HOLDRAJZ – EGY TUDOMÁNY A FÖLDRAJZ MINTÁJÁRA",
+        "txtlength": 6575
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210722_fekete_balazs_tudomany_jog_tudomanymetria_interju",
+        "h1": "Nem létezhet egységes mérce a tudomány mérésére – Fekete Balázs a Mandinernek",
+        "txtlength": 27359
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://sport.mandiner.hu/cikk/20210709_hanga_adam_a_real_madriddal_bajnok_es_euroliga_gyoztes_akarok_lenni",
+        "h1": "„A Real Madriddal bajnok és Euroliga-győztes akarok lenni” – Hanga Ádám a Mandinernek",
+        "txtlength": 24393
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/global/20210724/politikai-jatszmak-az-olimpia-arnyekaban-a-japan-kormanyfo-sorsa-a-tet-493802",
+        "h1": "Politikai játszmák az olimpia árnyékában: a japán kormányfő sorsa a tét",
+        "txtlength": 23972
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210721_elofordulhat_hogy_a_jatekosok_begolyoznak",
+        "h1": "Előfordulhat, hogy a játékosok begolyóznak – Kemény Dénes a Mandinernek",
+        "txtlength": 20974
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/gazdasag/20210721/hatalmas-lepesre-keszul-a-mol-2025-ig-1-milliard-dollart-fektetnek-be-kozep-europaban-1116280",
+        "h1": "Hatalmas lépésre készül a MOL: 2025-ig 1 milliárd dollárt fektetnek be Közép-Európában",
+        "txtlength": 19882
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/podcast/20210724/az-eu-olyan-mint-egy-autopalya-a-sofortol-fugg-hogy-balesetezik-vagy-szabadon-szaguld-rajta/",
+        "h1": "Az EU olyan, mint egy autópálya: a sofőrtől függ, hogy balesetezik, vagy szabadon száguld rajta",
+        "txtlength": 18772
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20210724/digitalis-vasfuggonnyel-fenyeget-az-uj-hideghaboru-es-ez-meg-csak-a-kezdet-493768",
+        "h1": "Digitális vasfüggönnyel fenyeget az új hidegháború, és ez még csak a kezdet",
+        "txtlength": 17714
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/kozelet/20210723/torok-csellel-uti-helyre-a-sinopharm-fiaskot-a-kormany/",
+        "h1": "Török csellel üti helyre a Sinopharm-fiaskót a kormány",
+        "txtlength": 16889
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/ingatlan/20210723/epitoipar-az-exportszabalyozas-miatt-szerzodesszegessel-is-szamolniuk-kell-a-vallalatoknak-493792",
+        "h1": "Építőipar: az exportszabályozás miatt szerződésszegéssel is számolniuk kell a vállalatoknak",
+        "txtlength": 14738
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/vasarlas/20210721/nalad-is-lapulhat-ilyen-kincs-a-fiokok-melyen-el-se-hinned-mennyit-ernek-a-gyujtoknek-1116373",
+        "h1": "Nálad is lapulhat ilyen kincs a fiókok mélyén: el se hinnéd, mennyit érnek a gyűjtőknek",
+        "txtlength": 14460
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2021/07/24/a-pegasus-sok-mindenre-kepes-megis-elbujhat-nevadoja-pegaszosz-mogott",
+        "h1": "A PEGASUS SOK MINDENRE KÉPES, MÉGIS ELBÚJHAT NÉVADÓJA, PÉGASZOSZ MÖGÖTT",
+        "txtlength": 12374
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/egeszseg/vorosbor-egeszsegugyi-hatasai/",
+        "h1": "Mit tesz a vörösbor a szervezettel? Egészségügyi hatásait ismertették a kutatók",
+        "txtlength": 11344
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/testem/eves-edzes-elott-kozben/",
+        "h1": "Evés edzés előtt közben",
+        "txtlength": 11259
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/lajfhekk/pisi-a-medenceben/",
+        "h1": "Mennyire para, ha valaki a medencébe pisil?",
+        "txtlength": 9361
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://olimpia2020.24.hu/olimpiai-hirek/2021/07/24/olimpia-2021-elso-nap-elo-hirfolyam/",
+        "h1": "Szilágyi Áron éremért vívhat – élő hírfolyam",
+        "txtlength": 22947
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2021/07/24/pride-felvonulas-interju-szovivo/",
+        "h1": "Ha menő lenne leszbikus nőnek lenni, akkor sem tudnák a heteroszexuális nők a leszbikusságot választani",
+        "txtlength": 21126
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/eszkombajn/2021/07/24/1936-olimpiai-lang-nacik-utvonal",
+        "h1": "A nácik kezdték 1936-ban az olimpiai fáklyás váltófutást – a mai napig megmaradt",
+        "txtlength": 19393
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/07/24/hetvegi-olvasnivalo-a-megfigyeloallam-szarnyalasatol-a-meseszeru-nepszavazasig",
+        "h1": "Hétvégi olvasnivaló a megfigyelőállam szárnyalásától a meseszerű népszavazásig",
+        "txtlength": 17063
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2021/07/24/vedettseg-nelkul-tunnek-el-a-tobb-szaz-eves-balatoni-kosancok/",
+        "h1": "Védettség nélkül tűnnek el a több száz éves balatoni kősáncok",
+        "txtlength": 16686
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/sport/2021/07/23/tokio-olimpia-2020-erkezes-teszt-korulmenyek",
+        "h1": "Tortúra a belépésnél, nyálteszt citrommal, és így sem teljesen biztonságos az olimpia védelmi rendszere – helyszíni riport",
+        "txtlength": 15101
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/belfold/2021/07/23/gyor-munkasszalas-belso-migracio",
+        "h1": "Két külön világ találkozik, pedig mindkettő Magyarországon van",
+        "txtlength": 14098
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/07/24/boszniaban-megtiltottak-a-srebrenicai-nepirtas-tagadasat",
+        "h1": "Boszniában megtiltották a srebrenicai népirtás tagadását",
+        "txtlength": 12476
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/sport/20210724_tokio2020_olimpia_vivas_taekwondo_cselgancs",
+        "h1": "Szilágyi a legjobb 4 között, Salim Omar vigaszágra került – percről percre a tokiói olimpiai játékokról",
+        "txtlength": 11072
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/politika/pegasus-latifa-hercegno-szokese-dubaj-al-maktum-emirelfogas/g6kgxxr?sl_ps=d_2",
+        "h1": "Nem csitul a botrány: a Pegasus kémprogrammal bukkant szökésben lévő lánya, Latifa hercegnő nyomára a vasszigorral uralkodó dubaji emír",
+        "txtlength": 10922
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/tamasi-muanyaghulladek-hatosagok-birsag/lg1r6vt?sl_ps=d_11",
+        "h1": "Brutális szeméthegy borzolja a kedélyeket Tamásiban: a Blikk megnézte, hogy jött a városba kétemeletnyi hulladék Olaszországból – fotók",
+        "txtlength": 10560
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/ingatlan/20210722_budapestvarso_nagysebessegu_vasut_gyorsvasut_nyomvonal_megvalosithatosag_torokbalint_biatorbagy",
+        "h1": "Villámgyors lesz a Budapest–Varsó-vasút, de már most félnek tőle az agglomerációban",
+        "txtlength": 9648
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/tudomany/20210723_12_17_ev_Moderna_vakcina_Europai_Gyogyszerugynokseg",
+        "h1": "A 12 évesek is kaphatnak Moderna-vakcinát az EMA legújabb ajánlása szerint",
+        "txtlength": 9332
+    },
+    {
         "hostname": "mindmegette.hu",
         "pagelink": "https://www.mindmegette.hu/tejszines-cukkinikremleves-ujkrumplival-bazsalikommal.recept",
         "h1": "TEJSZÍNES CUKKINIKRÉMLEVES ÚJKRUMPLIVAL",
