@@ -1433,26 +1433,22 @@
         "topic": "konyv",
         "picarr": [
             {
-                "picture": "https://kisgomboc.files.wordpress.com/2021/01/girl-3528292_1920.jpg?w=723",
-                "timestamp": 1626606041539
-            },
-            {
                 "picture": "https://kisgomboc.files.wordpress.com/2021/01/blond-1866951_1920.jpg?w=723",
-                "timestamp": 1625396436388
+                "timestamp": 1627210847866
             },
             {
                 "picture": "https://kisgomboc.files.wordpress.com/2021/01/golden-791072_1920.jpg?w=723",
                 "timestamp": 1626001288636
+            },
+            {
+                "picture": "https://kisgomboc.files.wordpress.com/2021/01/girl-3528292_1920.jpg?w=723",
+                "timestamp": 1626606041539
             }
         ],
         "titlearr": [
             {
-                "title": "https://bookline.hu/product/home.action?_v=Fredrik_Backman_Az_ember_akit_Ovenak_h&type=22&id=273234",
-                "timestamp": 1626606041539
-            },
-            {
                 "title": "https://bookline.hu/product/home.action?_v=B_A_Paris_Zart_ajtok_mogott&type=22&id=284920",
-                "timestamp": 1618743636693
+                "timestamp": 1627210847866
             },
             {
                 "title": "https://bookline.hu/product/home.action?_v=Paula_Hawkins_A_lany_a_vonaton&type=22&id=276830",
@@ -1497,6 +1493,10 @@
             {
                 "title": "https://bookline.hu/product/home.action?_v=Ransom_Riggs_Vandorsolyom_kisasszony_ku&type=22&id=104944",
                 "timestamp": 1626001288636
+            },
+            {
+                "title": "https://bookline.hu/product/home.action?_v=Fredrik_Backman_Az_ember_akit_Ovenak_h&type=22&id=273234",
+                "timestamp": 1626606041539
             }
         ],
         "leadarr": [
