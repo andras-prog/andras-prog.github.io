@@ -1,6 +1,210 @@
 [
     {
         "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/aranygaluska-ahogy-nagymamam-kesziti",
+        "h1": "Aranygaluska ahogy a nagymamám készíti",
+        "txtlength": 12781
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/sult-fetas-teszta.recept",
+        "h1": "SÜLT FETÁS TÉSZTA",
+        "txtlength": 11237
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/puncsos-szelet-tunderek-kedvence.recept",
+        "h1": "PUNCSOS SZELET (TÜNDÉREK KEDVENCE)",
+        "txtlength": 10804
+    },
+    {
+        "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/turogomboc-3",
+        "h1": "Túrógombóc 3.",
+        "txtlength": 10447
+    },
+    {
+        "hostname": "receptneked.hu",
+        "pagelink": "https://receptneked.hu/gyors/turos-lepenyke/",
+        "h1": "Túrós lepényke recept",
+        "txtlength": 4470
+    },
+    {
+        "hostname": "receptneked.hu",
+        "pagelink": "https://receptneked.hu/gyors/tokos-tocsni/",
+        "h1": "Tökös tócsni recept",
+        "txtlength": 4430
+    },
+    {
+        "hostname": "kiszamolo.hu",
+        "pagelink": "https://kiszamolo.hu/erste-kartyaor-fizetosse-valt/",
+        "h1": "Erste kártyaőr fizetőssé vált",
+        "txtlength": 27274
+    },
+    {
+        "hostname": "alapblog.hu",
+        "pagelink": "https://alapblog.hu/ovatossagra-into-jelek/",
+        "h1": "ÓVATOSSÁGRA INTŐ JELEK",
+        "txtlength": 5608
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vilag/20210725/annyi-adatot-gyujottek-hogy-a-kinai-kommunista-part-is-megijedt-tole/",
+        "h1": "Annyi adatot gyűjöttek, hogy a Kínai Kommunista Párt is megijedt tőle",
+        "txtlength": 31106
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210725_magyar_ostortenet_regeszet_olekszij_komar",
+        "h1": "A magyarok elődei rendkívül fontos szereplők voltak – világhírű ukrán régész a Mandinernek",
+        "txtlength": 18527
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/krtk/20210725/a-gazdasagunk-fejlettsege-is-mulik-a-kutatasi-intezmenyeken-hogy-all-magyarorszag-493500",
+        "h1": "A gazdaságunk fejlettsége is múlik a kutatási intézményeken: hogy áll Magyarország?",
+        "txtlength": 18098
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vilag/20210724/ugy-inditjak-az-uj-olaj-es-gazfeltarasokat-mintha-nem-lenne-holnap/",
+        "h1": "Úgy indítják az új olaj- és gázfeltárásokat, mintha nem lenne holnap",
+        "txtlength": 17929
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20210724/ugy-tunik-magyarorszagot-is-elerte-a-negyedik-hullam-mar-nyaron-berobbanhat-a-virus-493766",
+        "h1": "Úgy tűnik, Magyarországot is elérte a negyedik hullám - Már nyáron berobbanhat a vírus?",
+        "txtlength": 16416
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20210725/a-rendszervaltas-ota-nem-volt-ilyen-nagyot-zuhant-a-magyarok-varhato-elettartama-493890",
+        "h1": "A rendszerváltás óta nem volt ilyen: Nagyot zuhant a magyarok várható élettartama",
+        "txtlength": 15580
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210720_cseh_katalin_korrupcio_momentum_belfold_unios_tamogatas",
+        "h1": "Megszólalt Cseh Katalin a korábbi cége EU-s támogatásaival kapcsolatban",
+        "txtlength": 14768
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210725_komoly_kiallas_magyarorszag_mellett_a_frankfurt_allgemeine_zeitung_ban",
+        "h1": "Komoly kiállás Magyarország mellett a Frankfurter Allgemeine Zeitung-ban",
+        "txtlength": 14763
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/utazas/20210719/igy-tarolja-le-a-delta-europat-hetek-kerdese-es-a-szomszedban-lesz-a-negyedik-hullam-1116323",
+        "h1": "Így tarolja le a delta Európát: hetek kérdése, és a szomszédban lesz a negyedik hullám",
+        "txtlength": 14619
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/szepseg/amiket-felesleges-nyarra-megvenni/",
+        "h1": "Dolgok, amiket teljesen felesleges megvenni nyárra: úgyis a szekrény mélyén végzik",
+        "txtlength": 13796
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/otthon/20210722/nyaron-sem-alszik-a-nema-gyilkos-konnyen-keverhetoek-a-tunetek-iden-tobben-belehaltak-1116378",
+        "h1": "Nyáron sem alszik a néma gyilkos: könnyen keverhetőek a tünetek, idén többen belehaltak",
+        "txtlength": 13760
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2021/07/25/kik-azok-az-angolszaszok",
+        "h1": "KIK AZOK AZ ANGOLSZÁSZOK?",
+        "txtlength": 11932
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/szuloseg/leszoktatas-cumirol/",
+        "h1": "Leszoktatás a cumiról",
+        "txtlength": 10669
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://olimpia2020.24.hu/olimpiai-hirek/2021/07/25/olimpia-2021-masodik-nap-elo-hirfolyam/",
+        "h1": "Siklósi Gergely az éremért vívhat, Péni István 5. lett légpuskában – élő hírfolyam",
+        "txtlength": 31487
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/elet-stilus/2021/07/25/szenes-hanna-hos-kolto-ejtoernyos-zsido-masodik-vilaghaboru-tortenelem/",
+        "h1": "Tudta, hogy egy magyar ejtőernyős költőnő volt az igazi Wonder Woman?",
+        "txtlength": 20625
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2021/07/24/unokaink-sem-fogjak-latni-sorozat-magyar-televizio-raday-mihaly-varosvedo-heti-fortepan/",
+        "h1": "Tényleg nem fogják látni az unokáink? – Ráday Mihály városvédő öröksége",
+        "txtlength": 16693
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20210724_Orban_Viktor_lmbtq_pedofilia_keleturopa",
+        "h1": "Orbán Viktor klubot váltott azzal, hogy homofób propagandával építi vissza a vasfüggönyt",
+        "txtlength": 16398
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/belfold/2021/07/24/budapest-pride-felvonulas-2021-lmbtq",
+        "h1": "Ha a négy fal között csinálom, Viktor akkor is nézi",
+        "txtlength": 15476
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20210725_Miniszterelnokjeloltek_kampany_elovalasztas",
+        "h1": "Miniszterelnök-jelöltek kampánykörúton: az esélytelen, a karakterépítő, és aki ott sincs",
+        "txtlength": 14781
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/kultura/20210724_fliegauf_bence_rengeteg_mindenhol_latlak_kritika_berlinale_dij",
+        "h1": "Szokatlan és ijesztő az év egyik legjobb magyar filmje",
+        "txtlength": 14332
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/07/23/azt-akarjuk-a-nematalakito-kezelesekkel-ami-nyugaton-folyik",
+        "h1": "Figyelem, felnőtt tartalom!",
+        "txtlength": 13798
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/07/24/a-pride-felvonuloi-tobben-lettek-a-kormany-miatt-az-ellentuntetok-nem",
+        "h1": "A Pride felvonulói többen lettek a kormány miatt, az ellentüntetők nem",
+        "txtlength": 12949
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/sztarvilag/kultura/varga-jozsef-tevebemondo-halal/l7g0yvr",
+        "h1": "Adás közben kapott végzetes szívrohamot a magyar tévébemondó",
+        "txtlength": 10028
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/sport/2021/07/25/szilagyi-aron-cimvedes-triplazas-tehetseg",
+        "h1": "Szilágyi Áron a Telexnek: Őstehetség? Az valaki más, nem én vagyok",
+        "txtlength": 9886
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/politika/karacsony-gergely-fopolgarmester-pride/bjeq7nn?sl_ps=d_10",
+        "h1": "Karácsony Gergely döbbenetes vádja a magyar kormány ellen: a tabáni beszéde után mondta ki, amit eddig soha senki",
+        "txtlength": 9565
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/sport/2021/07/24/szilagyi-aron-tortenelme-aranya-zurzavar-a-hegyen-es-egy-17-eves-magyar-dontos",
+        "h1": "Szilágyi Áron történelmi aranya, zűrzavar a hegyen és egy 17 éves magyar döntős",
+        "txtlength": 9156
+    },
+    {
+        "hostname": "nosalty.hu",
         "pagelink": "https://www.nosalty.hu/recept/tarkonyos-csirkeraguleves-tarkonyos-raguleves-3",
         "h1": "Tárkonyos csirkeraguleves (Tárkonyos raguleves 3.)",
         "txtlength": 11119
