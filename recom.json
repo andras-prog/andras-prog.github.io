@@ -1,5 +1,203 @@
 [
     {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/retro-kokusztekercs.recept",
+        "h1": "RETRÓ KÓKUSZTEKERCS",
+        "txtlength": 11231
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/padlizsankrem-fokhagymasan.recept",
+        "h1": "PADLIZSÁNKRÉM FOKHAGYMÁSAN",
+        "txtlength": 10960
+    },
+    {
+        "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/hideg-csemege-uborka",
+        "h1": "Hideg csemegeuborka",
+        "txtlength": 10369
+    },
+    {
+        "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/tejszines-carbonara-spagetti",
+        "h1": "Tejszínes carbonara spagetti",
+        "txtlength": 10301
+    },
+    {
+        "hostname": "receptneked.hu",
+        "pagelink": "https://receptneked.hu/gyors/krumplispogacsa/",
+        "h1": "Krumplis pogácsa recept",
+        "txtlength": 4188
+    },
+    {
+        "hostname": "hataratkelo.blog.hu",
+        "pagelink": "https://hataratkelo.blog.hu/2021/07/24/ki_segit_az_ausztriaban_dolgozo_magyaroknak#c40810912",
+        "h1": "Ki segít az Ausztriában dolgozó magyaroknak?",
+        "txtlength": 21731
+    },
+    {
+        "hostname": "kulturpart.hu",
+        "pagelink": "https://kulturpart.blog.hu/2021/07/25/egyre_murisabb",
+        "h1": "A VILÁG AMELYIK NEM LÉTEZIK, DE MÉGIS",
+        "txtlength": 13079
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210723_a_kvota_utan_egy_ujabb_brusszeli_tervre_mondhat_nemet_az_orszag",
+        "h1": "A „négyigenestől” a kötelező kvótán át a gyermekvédelemig – 30 év országos népszavazásai",
+        "txtlength": 25538
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210721_globalis_minimumadora_keszul_a_vilag",
+        "h1": "Most akkor tényleg jön a globális minimumadó?",
+        "txtlength": 24405
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/kozelet/20210726/jol-hangzik-hogy-a-kormany-intezi-az-epitoanyagot-de-az-elet-bonyolultabb/",
+        "h1": "Jól hangzik, hogy a kormány intézi az építőanyagot, de az élet bonyolultabb",
+        "txtlength": 20584
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/otthon/20210725/ez-a-legujabb-orulet-ilyen-klormentes-bio-medenceket-epittet-maganak-a-magyar-elit-1116471",
+        "h1": "Ez a legújabb őrület: ilyen klórmentes, bio medencéket építtet magának a magyar elit",
+        "txtlength": 18497
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/elet/20210726/a-jarvanyhelyzet-hatasa-a-hazai-maganegeszsegugyi-szektorra/",
+        "h1": "A járványhelyzet hatása a hazai magánegészségügyi szektorra",
+        "txtlength": 17055
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/vasarlas/20210723/elertuk-a-lelektani-hatart-ennyibe-kerul-egy-kremes-az-orszag-legjobb-cukraszdaiban-dining-guide-top-cukraszda-2021-1116450",
+        "h1": "Elértük a lélektani határt? Ennyibe kerül egy krémes az ország legjobb cukrászdáiban",
+        "txtlength": 15010
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210725_cseh_katalin_nyomdamutyi_eu_s_penzek",
+        "h1": "Újabb videó Anonymustól: további részletek jöhetnek Cseh Katalin-ügyben",
+        "txtlength": 14828
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20210726/megint-valaszut-elott-az-mnb-mire-lesz-eleg-a-nagy-fogadkozas-493832",
+        "h1": "Megint válaszút előtt az MNB – Mire lesz elég a nagy fogadkozás?",
+        "txtlength": 13381
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20210726/a-lakasfelujito-szakembereket-keresik-legtobben-a-kozossegi-alkalmazasban-493458",
+        "h1": "A lakásfelújító szakembereket keresik legtöbben a közösségi alkalmazásban",
+        "txtlength": 12429
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/lajfhekk/vadviragok-a-kertben/",
+        "h1": "Vadvirágok a kertben",
+        "txtlength": 11672
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2021/07/26/magyar-kutatok-szerint-a-rosszul-szedett-antibiotikumok-miatt-is-terjednek-a-rezisztens-szuperbakteriumok",
+        "h1": "MAGYAR KUTATÓK SZERINT A ROSSZUL SZEDETT ANTIBIOTIKUMOK MIATT IS TERJEDNEK A REZISZTENS SZUPERBAKTÉRIUMOK",
+        "txtlength": 11185
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/ezo/heti_horoszkop/202130/",
+        "h1": "Heti horoszkóp július 26-tól augusztus 1-ig: a Kos sikeres, a Halak új esélyt kap",
+        "txtlength": 10608
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/uzlet/20210726/nagyot-raliznak-a-kriptovalutak-minuszban-az-europai-tozsdek-493962",
+        "h1": "Nagyot raliznak a kriptovaluták, mínuszban az európai tőzsdék ",
+        "txtlength": 10542
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://olimpia2020.24.hu/olimpiai-hirek/2021/07/26/olimpia-2021-harmadik-nap-elo-hirfolyam/",
+        "h1": "Női kardban folytatódik a vívócsoda, óriásit úszott férfi gyorsváltónk – élő hírfolyam",
+        "txtlength": 19192
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kulfold/2021/07/26/orban-viktor-balkan-eurupai-unio-illiberalis-demokracia/",
+        "h1": "Miért olyan fontos a Balkán Orbán Viktornak?",
+        "txtlength": 17195
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/eszkombajn/2021/07/25/sessue-hayakawa-hollywood-japan-szinesz-hid-a-kwai-folyon-szexszimbolum",
+        "h1": "A japán színész, aki túlélte a harakirit, hogy aztán Hollywood első szexszimbóluma legyen",
+        "txtlength": 15286
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kulfold/2021/07/25/macedonia-gruevszi-lehallgatas-megfigyeles-pegazus-kemprogram/",
+        "h1": "Minden századik állampolgárt lehallgatták, mégsem vesztették el a választásokat",
+        "txtlength": 15074
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/07/26/a-remekmuvek-a-raktarban-laknak-a-sportolok-nezok-nelkul-maradnak-de-tizezrek-jottek-ki-a-negy-fal-kozul",
+        "h1": "A remekművek a raktárban laknak, a sportolók nézők nélkül maradnak, de tízezrek jöttek ki a négy fal közül",
+        "txtlength": 14775
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/kultura/20210725_Kubatov_Gabor_fradi_konyv",
+        "h1": "Kubatov Gábor könyvet írt a Fradi-elnöksége tíz évéről, de a legérdekesebb az, amit nem írt bele",
+        "txtlength": 13901
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/tudomany/20210726_social_engineering_megszemelyesites_kibertamadas_adathalaszat",
+        "h1": "A módszer, amitől jobb, ha tart: a megszemélyesítés",
+        "txtlength": 13339
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/sport/2021/07/25/nba-milwaukee-bucks-jon-horst-igazgato",
+        "h1": "Egy évtizede szart lapátolt, most az NBA legirigyeltebb figurája",
+        "txtlength": 11760
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/07/26/levaltotta-a-miniszterelnokot-es-felfuggesztette-a-parlamentet-a-tuneziai-elnok",
+        "h1": "Leváltotta a miniszterelnököt és felfüggesztette a parlamentet a tunéziai elnök",
+        "txtlength": 11234
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/tudomany/20210726_koncertbooking_digitalis_koncertszervezes",
+        "h1": "Csinálják a fesztivált – egyedülálló digitális koncertfoglaló segíthet a magyar zenepiacon",
+        "txtlength": 11217
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/sztarvilag/kultura/george-bernard-shaw-hidveghy-valeria/wv98l9m",
+        "h1": "Tudta? Ez a fiatal magyar színésznő volt a világhírű író titkos szeretője: a halálos ágyánál is csak ő lehetett ott",
+        "txtlength": 9713
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/koronavirus-hirek-jarvanyugyi-adatok-julius-26-hetfo/41yxjlt?sl_ps=d_3",
+        "h1": "Megjöttek a hétvégi járványügyi adatok: nincs újabb elhunyt, tovább nőtt a fertőzöttek száma",
+        "txtlength": 9545
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/eszkombajn/2021/07/26/olimpia-evezes-henry-robert-pearce-kacsacsalad",
+        "h1": "Átengedett egy kacsacsaládot a pályán, majd öthajós hátrányból nyerte futamát az olimpián",
+        "txtlength": 8878
+    },
+    {
         "hostname": "nosalty.hu",
         "pagelink": "https://www.nosalty.hu/recept/aranygaluska-ahogy-nagymamam-kesziti",
         "h1": "Aranygaluska ahogy a nagymamám készíti",
