@@ -1,5 +1,197 @@
 [
     {
+        "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/falusi-almas-pite",
+        "h1": "Falusi almás pite",
+        "txtlength": 11759
+    },
+    {
+        "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/edes-palacsinta-alapteszta",
+        "h1": "Édes palacsinta alaptészta",
+        "txtlength": 10649
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/joghurtos-lencsefozelek-fokhagymas-sult-csirkevel.recept",
+        "h1": "JOGHURTOS LENCSEFŐZELÉK FOKHAGYMÁS SÜLT CSIRKÉVEL",
+        "txtlength": 10561
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/lecsos-szelet-video.recept",
+        "h1": "LECSÓS SZELET",
+        "txtlength": 10278
+    },
+    {
+        "hostname": "kiszamolo.hu",
+        "pagelink": "https://kiszamolo.hu/kerti-medence-hogy-kell-kezelni-es-mennyibe-kerul/",
+        "h1": "Kerti medence: hogy kell kezelni és mennyibe kerül?",
+        "txtlength": 52191
+    },
+    {
+        "hostname": "alapblog.hu",
+        "pagelink": "https://alapblog.hu/hamarosan-jelent-a-tesla-erkezhet-e-meglepetes/",
+        "h1": "HAMAROSAN JELENT A TESLA! ÉRKEZHET MEGLEPETÉS?",
+        "txtlength": 12688
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20210727/szijjarto-peter-vallaljuk-a-vitat-brusszellel-akkor-sem-hatralunk-meg-ha-visszatartjak-az-eu-forrasokat-494056",
+        "h1": "Szijjártó Péter: vállaljuk a vitát Brüsszellel, akkor sem hátrálunk meg, ha visszatartják az EU-forrásokat",
+        "txtlength": 27137
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210721_kaukazusi_keringo",
+        "h1": "Kaukázusi keringő",
+        "txtlength": 23492
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210728_andreas_rodder_interju_nemetorszag_cdu_merkel_eu_fidesz",
+        "h1": "Ne igazodjunk a vörös-zöld mainstreamhez! – Andreas Rödder a Mandinernek",
+        "txtlength": 21768
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210727_karacsony_gergely_vagyok_ferj_apa_kereszteny",
+        "h1": "Szivárványos álkereszténység politikai megfontolásból",
+        "txtlength": 18976
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vallalat/20210727/a-negyedik-hullam-arnyekaban-epp-csak-labadozik-a-magyar-szallodaipar/",
+        "h1": "A negyedik hullám árnyékában épp csak lábadozik a magyar szállodaipar",
+        "txtlength": 17476
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20210726/tamad-a-delta-varians-korlatozasok-fenyegetnek-hova-menjunk-most-nyaralni-493156",
+        "h1": "Támad a delta variáns, korlátozások fenyegetnek – Hova menjünk most nyaralni?",
+        "txtlength": 16323
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vallalat/20210726/van-adoszam-nelkuli-online-nem-rogzitett-megis-szabalyos-szamla/",
+        "h1": "Van adószám nélküli, online nem rögzített, mégis szabályos számla",
+        "txtlength": 15846
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/utazas/20210723/az-ettermek-zome-lehuzhatja-a-rolot-ha-lecsap-az-orszagra-a-jarvany-4-hullama-1116422",
+        "h1": "Az éttermek zöme lehúzhatja a rolót, ha lecsap az országra a járvány 4. hulláma",
+        "txtlength": 15291
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2021/07/27/meg-lehet-menteni-a-foldet-ugy-hogy-kozben-folyamatosan-no-a-gazdasag",
+        "h1": "MEG LEHET MENTENI A FÖLDET ÚGY, HOGY KÖZBEN FOLYAMATOSAN NŐ A GAZDASÁG?",
+        "txtlength": 15256
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/karrier/20210726/lealdozott-a-versenykepes-fizetesnek-itt-mar-kotelezo-kozolni-a-bert-az-allashirdetesben-1116502",
+        "h1": "Leáldozott a versenyképes fizetésnek: itt már kötelező közölni a bért az álláshirdetésben",
+        "txtlength": 15064
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/uzlet/20210727/rekordnyereseget-ert-el-a-tesla-nem-kell-mar-ide-bitcoin-eladas-es-kornyezetvedelmi-kredit-se-494102",
+        "h1": "Rekordnyereséget ért el a Tesla, nem kell már ide bitcoin-eladás és környezetvédelmi kredit se",
+        "txtlength": 13884
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/fogyokura/dash-dieta-hasi-haj-ellen/",
+        "h1": "Hogyan lehet leadni a hasi háj legveszélyesebb fajtáját? Ez a diéta ideális a zsigeri zsír ellen a dietetikusok szerint",
+        "txtlength": 10572
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/szuloseg/szoptatas-mentalis-beteg-anya/",
+        "h1": "Szoptatás mentális beteg anya",
+        "txtlength": 9775
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://olimpia2020.24.hu/olimpiai-hirek/2021/07/27/olimpia-2021-negyedik-nap-elo-hirfolyam/",
+        "h1": "Magyar szenzáció hegyikerékpárban: Vas Kata Blanka negyedikként ért célba – élő hírfolyam",
+        "txtlength": 27082
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/koronavirus/2021/07/27/harmadik-oltas-vakcinakoktel-vakcinamix-keveres-heterolog-oltas-pfizer-astrazeneca-kinai-sinopharm",
+        "h1": "Itthon is jön a vakcinák keverése, megnéztük, jó ötlet-e",
+        "txtlength": 20032
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kultura/2021/07/26/ismeretlen-budapest-keves-gyorgy-csigahaz-modern-villa-flora-utca-epiteszet/",
+        "h1": "Eltűnt, de mégis megmaradt a Kádár-kor legszebb magyar nyaralója",
+        "txtlength": 17262
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://qubit.hu/2021/07/27/meg-lehet-menteni-a-foldet-ugy-hogy-kozben-folyamatosan-no-a-gazdasag",
+        "h1": "MEG LEHET MENTENI A FÖLDET ÚGY, HOGY KÖZBEN FOLYAMATOSAN NŐ A GAZDASÁG?",
+        "txtlength": 15293
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/belfold/2021/07/26/auto-vizkar-szerviz",
+        "h1": "Elázott autók, penészes utastér, milliós motorcsere: mit lehet tenni?",
+        "txtlength": 15006
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/sport/20210727_olimpia_tokio_percrol_percre",
+        "h1": "A hegyikerékpáros Vas Kata Blanka 4. lett, nagyon kikapott a női kézilabdacsapat, folytatják a férfi vízilabdások – élőben az olimpiáról",
+        "txtlength": 14392
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20210727_Civilek_szocialdemokratak_ellenzeki_elovalasztas_targyalasok",
+        "h1": "Civilek is beszállhatnak az ellenzéki előválasztásba, a szociáldemokratákkal még tárgyalnak",
+        "txtlength": 13364
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/politika/momentum-pegasus-botrany-tuntetes-budapest/cxq9lhf",
+        "h1": "Tüntetés Budapesten - a Fidesz székházhoz vonult a dühös tömeg",
+        "txtlength": 13222
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kulfold/2021/07/27/kina-montenegro-hitel-autopalya/",
+        "h1": "Kína bármire ráteheti a kezét, ha nem fizetik vissza a hitelét",
+        "txtlength": 11977
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/07/27/a-magyarok-haromnegyede-unios-szinten-szegenynek-szamit",
+        "h1": "A magyarok háromnegyede uniós szinten szegénynek számít",
+        "txtlength": 11505
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/sport/20210726_olimpia_pp_alap",
+        "h1": "Márton Anna negyedik, a férfi úszó gyorsváltónk ötödik lett - ilyen volt a tokiói olimpia 3. napja",
+        "txtlength": 10812
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/politika/pegasus-ugy-ellenzek-varga-damm-andrea/2ssnjwl?utm_source=related&utm_medium=www.blikk.hu&utm_campaign=widget-9446979",
+        "h1": "Nesze neked Pegazus: 120 izraeli katona gyakorolta véletlenül Magyarországon a terrorelhárítósdit",
+        "txtlength": 9843
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/eszkombajn/2021/07/27/az-ember-aki-meghekkelt-egy-legitarsasagot-12-ezer-doboz-csokipudinggal",
+        "h1": "Az ember, aki meghekkelt egy légitársaságot 12 ezer doboz csokipudinggal",
+        "txtlength": 8467
+    },
+    {
         "hostname": "mindmegette.hu",
         "pagelink": "https://www.mindmegette.hu/retro-kokusztekercs.recept",
         "h1": "RETRÓ KÓKUSZTEKERCS",
