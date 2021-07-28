@@ -1,5 +1,185 @@
 [
     {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/klasszikus-brownie-gluten-es-tejmentesen.recept",
+        "h1": "KLASSZIKUS BROWNIE GLUTÉN- ÉS TEJMENTESEN",
+        "txtlength": 11029
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/madratej-ahogy-kiszel-tunde-kesziti.recept",
+        "h1": "MADRÁTEJ, AHOGY KISZEL TÜNDE KÉSZÍTI",
+        "txtlength": 11000
+    },
+    {
+        "hostname": "hataratkelo.blog.hu",
+        "pagelink": "https://hataratkelo.blog.hu/2021/07/27/koltozes_angliabol_magyarorszagra_lakokocsival",
+        "h1": "Költözés Angliából Magyarországra lakókocsival",
+        "txtlength": 48346
+    },
+    {
+        "hostname": "kulturpart.hu",
+        "pagelink": "https://kulturpart.blog.hu/2021/07/28/genetikai_betegsegkent_orokoljuk_meg_a_szuperhosoket",
+        "h1": "DÍSZES JELMEZEKBŐL ERŐSZAKJELKÉPEK",
+        "txtlength": 12422
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2021/07/28/letolt-gatyaval-a-negyedik-ipari-forradalomban-tobb-szazezer-digitalisan-felkeszult-munkavallalo-hianyzik-magyarorszagrol",
+        "h1": "LETOLT GATYÁVAL A NEGYEDIK IPARI FORRADALOMBAN: TÖBB SZÁZEZER DIGITÁLISAN FELKÉSZÜLT MUNKAVÁLLALÓ HIÁNYZIK MAGYARORSZÁGRÓL",
+        "txtlength": 26085
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210721_a_magyarok_is_isszak_a_levet_az_eu_es_oroszorszag_kozti_szankcios_parbajnak",
+        "h1": "A magyarok is isszák a levét az EU és Oroszország közti szankciós párbajnak",
+        "txtlength": 21102
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210727_cseh_katalin_belfold_bennfentes_eu_s_tamogatas_baloldal_botrany_palyazat",
+        "h1": "Tíz nappal a pályázat benyújtása előtt létesítették a nyertes váci telephelyet Csehék",
+        "txtlength": 19285
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vallalat/20210728/nagyon-eros-kovetkezo-evvel-pattanna-vissza-a-budapest-park-miutan-megtizedelte-a-jarvany/",
+        "h1": "Nagyon erős következő évvel pattanna vissza a Budapest Park, miután megtizedelte a járvány",
+        "txtlength": 18512
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/utazas/20210724/felejtsd-el-a-balatoni-tomeget-10-gyonyoru-to-amit-csak-kevesen-ismernek-1116453",
+        "h1": "Felejtsd el a balatoni tömeget: 10 gyönyörű tó, amit csak kevesen ismernek",
+        "txtlength": 17989
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20210727/itt-a-kamatdontes-utani-kozlemeny-hatarozott-folytatast-iger-az-mnb-494198",
+        "h1": "Itt a kamatdöntés utáni közlemény: határozott folytatást ígér az MNB!",
+        "txtlength": 16936
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210727_es_akkor_jon_a_fidesz_egyik_fo_ertelmisegije_vagy_mije_szentesi_zoldi_laszlo",
+        "h1": "Újságírót vegzál, és megint parizerrel pózol Jakab Péter",
+        "txtlength": 16739
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/bank/20210728/tobb-szazezer-magyar-van-a-milliomosklubban-ahova-300-ezres-fizetessel-te-is-bekerulhetsz-494196",
+        "h1": "Több százezer magyar van a milliomosklubban, ahova 300 ezres fizetéssel te is bekerülhetsz",
+        "txtlength": 15932
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vilag/20210725/mintha-haboru-kozelegne-ugy-kell-keszulniuk-a-varosoknak-a-szelsoseges-idojarasra/",
+        "h1": "Mintha háború közelegne, úgy kell készülniük a városoknak a szélsőséges időjárásra",
+        "txtlength": 15440
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/hitel/20210727/megint-no-az-alapkamat-izgulhatnak-a-hitelesek-igy-keruld-el-a-torlesztorobbanast-1116519",
+        "h1": "Megint nő az alapkamat, izgulhatnak a hitelesek: így kerüld el a törlesztőrobbanást",
+        "txtlength": 15305
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/global/20210728/forrong-a-magyarok-kedvelt-uduloparadicsoma-a-tuntetessorozatok-tiz-ev-munkajat-donthetik-romba-494214",
+        "h1": "Forrong a magyarok kedvelt üdülőparadicsoma - A tüntetéssorozatok tíz év munkáját dönthetik romba",
+        "txtlength": 14569
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/otthon/hasznalj-fuszernovenyeket/",
+        "h1": "Nem csak fűszerpaprikából áll a világ: használj fűszernövényeket, és kinyílik a világ!",
+        "txtlength": 11090
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/lajfhekk/legjobb-naptej-teszt/",
+        "h1": "Legjobb naptej teszt",
+        "txtlength": 7573
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://qubit.hu/2021/07/28/letolt-gatyaval-a-negyedik-ipari-forradalomban-tobb-szazezer-digitalisan-felkeszult-munkavallalo-hianyzik-magyarorszagrol",
+        "h1": "LETOLT GATYÁVAL A NEGYEDIK IPARI FORRADALOMBAN: TÖBB SZÁZEZER DIGITÁLISAN FELKÉSZÜLT MUNKAVÁLLALÓ HIÁNYZIK MAGYARORSZÁGRÓL",
+        "txtlength": 26059
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/koronavirus/2021/07/28/jarvany-vakcina-oltas-atoltottsag-elony-elso-masodik-adag-keleti-kinai-orosz-vakcina-sinopharm-szputnyik-v",
+        "h1": "Elpárolgott az átoltottsági előnyünk – megérte így a keleti vakcinák bevetése?",
+        "txtlength": 19351
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kulfold/2021/07/27/europa-jobboldal-meloni-salvini-orban-fidesz/",
+        "h1": "Egymásnak feszültek Orbán brüsszeli szövetségesei: mi lesz a Fidesszel? ",
+        "txtlength": 14841
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/07/27/legyozhetok-e-tokioban-a-kinai-pingpongosok",
+        "h1": "Legyőzhetők-e Tokióban a kínai pingpongosok?",
+        "txtlength": 14046
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/fn/gazdasag/2021/07/28/ferihegy-legiiranyitas-sztrajk/",
+        "h1": "„A miniszterelnök gyakorlatilag bilincsbe verte a magyar dolgozókat és a szakszervezetüket”",
+        "txtlength": 12395
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/ingatlan/20210728_Magyarorszagon_tenyleg_meg_lehet_ezt_csinalni_hogy_lebontom_valaki_uzletet_ugy_hogy_nem_is_szolok__Tihanyban_ugy_tunik_igen",
+        "h1": "Tényleg meg lehet csinálni, hogy csak úgy lebontják más boltját? Tihanyban úgy tűnik, igen",
+        "txtlength": 11589
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/sport/20210728_tokioolimpiaszerda",
+        "h1": "Milák már aranyérmes, Hosszú Katinka továbbra is formán kívül, szenzációs győzelmet arattak a női pólósok - élőben az olimpiáról",
+        "txtlength": 11125
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/eszkombajn/2021/07/28/stuard-drummond-majom-akasztas-hartlepool",
+        "h1": "A polgármester, aki ingyen banánnal és akasztott majommal nyert választást",
+        "txtlength": 11007
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/ingatlan/20210728_Lehet_olcsobb_egy_lakashitel_mint_a_Babavaro_kolcson",
+        "h1": "Lehet olcsóbb egy lakáshitel, mint a Babaváró kölcsön?",
+        "txtlength": 10614
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/sport/2021/07/27/siklosi-gergely-olimpiai-ezustermes-parbajtorozo-hazatert-tokiobol-video/",
+        "h1": "„Nagyon kíváncsi vagyok a pszichológusom véleményére” – hazaérkezett Tokióból Siklósi Gergely",
+        "txtlength": 10087
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/szorakozas/2021/07/28/dzsungeltura-jungle-cruise-kritika-dwayne-johnson-emily-blunt-kritika",
+        "h1": "Nincs az a sztár, aki megmentené a Dzsungeltúrát",
+        "txtlength": 9717
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/balatonba-fulladt-testverpar-utolso-foto/ld9xhmh",
+        "h1": "Itt az utolsó fotó a Balatonba fulladt testvérpárról – Így emlékszik rájuk az édesapjuk – szívszorító",
+        "txtlength": 9633
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/kulfold/menekulthullam-sebastian-kurz-magyar-osztrak-hatar/1y3kqlz?sl_ps=d_11",
+        "h1": "Sebastian Kurz migránsoktól tart, itthon cáfolják az áradatot: katonákat vezényelt a magyar határra az osztrák kancellár",
+        "txtlength": 8751
+    },
+    {
         "hostname": "nosalty.hu",
         "pagelink": "https://www.nosalty.hu/recept/falusi-almas-pite",
         "h1": "Falusi almás pite",
