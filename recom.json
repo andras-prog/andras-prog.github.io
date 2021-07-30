@@ -1,6 +1,204 @@
 [
     {
         "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/glutenmentes-tortilla.recept",
+        "h1": "GLUTÉNMENTES TORTILLA",
+        "txtlength": 10901
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/bazsalikomos-paradicsomos-teszta-parmezanforgaccsal.recept",
+        "h1": "BAZSALIKOMOS-PARADICSOMOS TÉSZTA PARMEZÁNFORGÁCCSAL",
+        "txtlength": 10732
+    },
+    {
+        "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/igazi-meggyes-pite",
+        "h1": "Az igazi meggyes pite",
+        "txtlength": 10319
+    },
+    {
+        "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/gyors-amerikai-palacsinta",
+        "h1": "Gyors amerikai palacsinta",
+        "txtlength": 10307
+    },
+    {
+        "hostname": "kiszamolo.hu",
+        "pagelink": "https://kiszamolo.hu/zold-lakashitel/#more-115914",
+        "h1": "Zöld lakáshitel",
+        "txtlength": 39532
+    },
+    {
+        "hostname": "alapblog.hu",
+        "pagelink": "https://alapblog.hu/nem-azert-elunk-hogy-dolgozzunk-hanem-forditva/",
+        "h1": "NEM AZÉRT ÉLÜNK, HOGY DOLGOZZUNK! HANEM FORDÍTVA…",
+        "txtlength": 12302
+    },
+    {
+        "hostname": "kulturpart.hu",
+        "pagelink": "https://kulturpart.blog.hu/2021/07/23/bezartsag_es_szabadsag_a_parkban",
+        "h1": "BEZÁRTSÁG ÉS SZABADSÁG A PARKBAN",
+        "txtlength": 5757
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/unios-forrasok/20210730/osszel-megszulethet-a-megallapodas-az-eu-penzekrol-de-brusszel-belatasan-mulik-a-menetrend-494546",
+        "h1": "Ősszel megszülethet a megállapodás az EU-pénzekről, de Brüsszel belátásán múlik a menetrend",
+        "txtlength": 30902
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210731_egy_darab_kelet_a_barna_homalyban_ciganysag_a_horthy_rendszer_hajnalan",
+        "h1": " „Egy darab Kelet a barna homályban” – cigányság a Horthy-rendszer hajnalán",
+        "txtlength": 28383
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210728_lenullazta_magat_a_momentum_nincs_kiszallas_a_gyurcsany_koaliciobol",
+        "h1": "Lenullázza magát a Momentum, nincs kiszállás a Gyurcsány-koalícióból",
+        "txtlength": 23129
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/penz/20210730/a-szegenyebbek-es-a-csokbol-kimaradok-egyre-nehezebben-jutnak-majd-hitelhez/",
+        "h1": "A szegényebbek és a csokból kimaradók egyre nehezebben jutnak majd hitelhez",
+        "txtlength": 22979
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/elet/20210729/szaz-ev-es-egy-nap-kellett-ahhoz-hogy-a-vilag-egyik-legfontosabb-gyogyszerenek-piacan-arverseny-induljon/",
+        "h1": "Száz év és egy nap kellett ahhoz, hogy a világ egyik legfontosabb gyógyszerének piacán árverseny induljon",
+        "txtlength": 20485
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/oktatas/20210727/igy-indul-a-202122-es-tanev-oruletes-ajanlatokkal-keszul-a-tesco-aldi-lidl-spar-auchan-1116491",
+        "h1": "Így indul a 2021/22-es tanév: őrületes ajánlatokkal készül a Tesco, Aldi, Lidl, Spar, Auchan",
+        "txtlength": 17845
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/egeszseg/20210729/veszedelmes-fertozo-betegsegek-leselkednek-a-magyarokra-ha-ilyen-csipest-talalsz-nagy-a-baj-1116603",
+        "h1": "Veszedelmes fertőző betegségek leselkednek a magyarokra: ha ilyen csípést találsz, nagy a baj",
+        "txtlength": 15717
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210730_gyurcsany_karjaiban_eri_a_politikai_halaltusa_a_momentumot",
+        "h1": "Gyurcsány karjaiban éri a politikai haláltusa a Momentumot",
+        "txtlength": 15640
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2021/07/30/kell-harmadik-oltas",
+        "h1": "KELL HARMADIK OLTÁS?",
+        "txtlength": 15041
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20210730/visszapattanhat-a-magyar-gazdasag-de-sorakoznak-a-feladatok-itt-az-ujabb-lista-a-kormanynak-494494",
+        "h1": "Visszapattanhat a magyar gazdaság, de sorakoznak a feladatok: itt az újabb lista a kormánynak",
+        "txtlength": 12482
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/uzlet/20210730/jon-az-uj-rendszam-vegre-kiderult-mennyibe-kerul-494562",
+        "h1": "Jön az új rendszám, végre kiderült, mennyibe kerül",
+        "txtlength": 11908
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/kapcsolat/vilmos-herceg-katalin-hercegne-szabalyok/",
+        "h1": "8 szabály, amit csak Katalinnak és Vilmosnak kell betartania: a királyi család többi tagjára nem vonatkoznak",
+        "txtlength": 11217
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/lajfhekk/legjobb-matrac-teszt/",
+        "h1": "Legjobb matrac teszt",
+        "txtlength": 10258
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://olimpia2020.24.hu/olimpiai-hirek/2021/07/30/olimpiai-2021-hetedik-nap-elo-hirfolyam-2/",
+        "h1": "Cseh László befejezte pályafutását, Milák három percig olimpiai csúcstartó volt – élő hírfolyam az olimpia 7. napjáról",
+        "txtlength": 31991
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/07/30/varga-judit-lewis-hamilton-ellen",
+        "h1": "Varga Judit Lewis Hamilton ellen",
+        "txtlength": 20370
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/gazdasag/2021/07/30/nem-szeretjuk-az-500-forintos-benzinarat-de-mit-szolnank-az-5000-forintoshoz",
+        "h1": "Nem szeretjük az 500 forintos benzinárat, de mit szólnánk az 5000 forintoshoz?",
+        "txtlength": 14994
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/sport/20210730_cseh_laszlo_olimpia_tokio2020_utolso_verseny",
+        "h1": "Aki megtanította a magyaroknak, hogy legendává válhat valaki olimpiai arany nélkül is",
+        "txtlength": 13566
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/cegauto/20210730_kecskemeti_sarga_raketa_teszten_a_421_loeros_mercedesamg_cla_sportkombi",
+        "h1": "Kecskeméti sárga rakéta: teszten a 421 lóerős Mercedes-AMG CLA sportkombi",
+        "txtlength": 12456
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/cegauto/20210730_takarekos_autovezetes_draga_benzin",
+        "h1": "Itt a horribilis benzinár: hogyan spóroljunk vezetés közben az autónk fogyasztásán?",
+        "txtlength": 12136
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/07/29/a-donto-elott-nem-tudott-treningezni-de-igy-is-14-lett-a-tornasz-kovacs-zsofia-egyeni-osszetettben",
+        "h1": "A döntő előtt nem tudott tréningezni, de így is 14. lett a tornász Kovács Zsófia egyéni összetettben",
+        "txtlength": 12127
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/kulfold/klimakatasztrofa-vilagmeretu-osszeomlas-tuleles-magyarorszag/y17tc2x",
+        "h1": "Ez vár Magyarországra, ha a világméretű összeomlás bekövetkezik – Csak idő kérdése a kutatók szerint",
+        "txtlength": 11125
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kozelet/2021/07/29/balatonbereny-harangszo-kakasszo-polgarmester-plebanos-betiltas-riport/",
+        "h1": "„Ez egy katolikus falu, haranggal és kakasokkal”",
+        "txtlength": 11053
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/szegenyseg-magyarok-felmeres-unio/wz54gpf?sl_ps=d_4",
+        "h1": "Szomorú valóság: a magyarok háromnegyede szegénynek számít uniós szinten – De mennyiből lehetne megélni?",
+        "txtlength": 10927
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/eszkombajn/2021/07/30/a-tortenelem-legrosszabbul-elsult-sztrajkja-kinyirta-az-egesz-szakmat-aminek-a-vedelmeert-inditottak",
+        "h1": "A történelem legrosszabbul elsült sztrájkja kinyírta az egész szakmát, aminek a védelméért indították",
+        "txtlength": 10251
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kozelet/2021/07/29/pecsi-elszamoltatasi-terminator-varja-befogadjak-ellenzeki-partok/",
+        "h1": "Azt várja a pécsi elszámoltatási „terminátor”, hogy befogadják az ellenzéki pártok",
+        "txtlength": 9925
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/sport/2021/07/30/cseh-laszlo-utolso-verseny-ertekeles-nyilatkozat-vivodas",
+        "h1": "Cseh László: Örök életre azon járt volna az eszem, miért nem jöttem el ide",
+        "txtlength": 9430
+    },
+    {
+        "hostname": "mindmegette.hu",
         "pagelink": "https://www.mindmegette.hu/edesanyam-pihe-puha-krumplis-pogacsaja.recept",
         "h1": "ÉDESANYÁM PIHE-PUHA KRUMPLIS POGÁCSÁJA",
         "txtlength": 11366
