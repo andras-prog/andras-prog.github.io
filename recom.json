@@ -1,6 +1,192 @@
 [
     {
         "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/savanyu-bableves.recept",
+        "h1": "SAVANYÚ BABLEVES",
+        "txtlength": 10763
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/juhturos-sztrapacska-video.recept",
+        "h1": "JUHTÚRÓS SZTRAPACSKA",
+        "txtlength": 10744
+    },
+    {
+        "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/sargabarack-lekvar",
+        "h1": "Sárgabarack lekvár",
+        "txtlength": 10667
+    },
+    {
+        "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/ropogos-kovaszos-uborka-0",
+        "h1": "Ropogós kovászos uborka",
+        "txtlength": 10551
+    },
+    {
+        "hostname": "hataratkelo.blog.hu",
+        "pagelink": "https://hataratkelo.blog.hu/2021/07/28/mennyit_kell_dolgozni_magyarorszagon_egy_lakasert",
+        "h1": "Mennyit kell dolgozni Magyarországon egy lakásért?",
+        "txtlength": 47026
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/vasarlas/20210726/brutalis-felfordulas-jon-a-magyar-sorpiacon-a-sor-torveny-csak-a-kezdet-1116302",
+        "h1": "Brutális felfordulás jön a magyar sörpiacon: a sör-törvény csak a kezdet!",
+        "txtlength": 32272
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vilag/20210731/japan-az-olimpia-farvizen-meghirdette-a-hidrogenenergia-alapu-tarsadalom-jovokepet/",
+        "h1": "Japán az olimpia farvizén meghirdette a hidrogénenergia-alapú társadalom jövőképét",
+        "txtlength": 29232
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/global/20210731/ez-mar-nem-uriember-sport-boris-johnson-felrugja-a-brexit-megallapodast-494484",
+        "h1": "Ez már nem úriember-sport: Boris Johnson felrúgja a Brexit-megállapodást?",
+        "txtlength": 24028
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210728_korrupcios_botrany_vagy_alaptalan_vadak",
+        "h1": "Korrupciós botrány vagy alaptalan vádak? – egyre többet tudunk Cseh Katalin ügyéről",
+        "txtlength": 22545
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vilag/20210730/megmentheted-e-az-egyeni-donteseiddel-a-vilagot-a-klimakatasztrofatol/",
+        "h1": "Megmentheted-e az egyéni döntéseiddel a világot a klímakatasztrófától?",
+        "txtlength": 20398
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210730_nincs_megegyezes_az_orokjaradekrol_egyre_durvul_a_vita_az_orthodoxok_es_a_mazsihisz_kozott",
+        "h1": "Nincs megegyezés az örökjáradékról a zsidó felekezetek között, bírósági ügy lehet belőle",
+        "txtlength": 18730
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210728_azert_a_viz_az_ur",
+        "h1": "A németeket szinte teljesen felkészületlenül érte az árhullám",
+        "txtlength": 18213
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/bank/20210730/penzkoltesbe-kezdtek-a-magyarok-odavesznek-az-extra-megtakaritasok-494450",
+        "h1": "Pénzköltésbe kezdtek a magyarok, odavesznek az extra megtakarítások?",
+        "txtlength": 18078
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/karrier/20210730/kilatastalan-helyzetben-rengeteg-magyar-nem-csak-a-fizetesemelesrol-kell-sokaknak-lemondaniuk-iden-1116573",
+        "h1": "Kilátástalan helyzetben rengeteg magyar: nem csak a fizetésemelésről kell sokaknak lemondaniuk idén",
+        "txtlength": 17428
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/global/20210730/celegyenesben-a-merkel-szekeert-folytatott-kuzdelem-csak-ugy-zaporoznak-az-izgalmas-fordulatok-494492",
+        "h1": "Célegyenesben a Merkel székéért folytatott küzdelem: csak úgy záporoznak az izgalmas fordulatok",
+        "txtlength": 16781
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/gyerek/amiket-felesleges-a-gyereknek-megvenni/",
+        "h1": "Feleslegesen veszel csilliókba kerülő játékokat: a gyerek úgyis a döglött bodobáccsal játszik az udvaron",
+        "txtlength": 15733
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2021/07/31/szetinted-milyen-modban-van-az-hogy-l-simon-igazgathatja-a-muzeumot",
+        "h1": "SZERINTED MILYEN MÓDBAN VAN AZ, HOGY „L. SIMON IGAZGATHATJA A MÚZEUMOT”?",
+        "txtlength": 14568
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/szuloseg/mesterseges-megtermekenyites-sajat-spermajaval/",
+        "h1": "lombikbébi mesterséges megtermékenyítés spermadonor orvos beültetés meddőség férfi steril inszemináció gyerek megcsalás",
+        "txtlength": 10260
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://olimpia2020.24.hu/olimpiai-hirek/2021/07/31/olimpia-2021-kilencedik-nap-elo-hirfolyam/",
+        "h1": "Milák Európa-csúccsal ezüstérmes lett 100 pillangón – élő hírfolyam",
+        "txtlength": 38294
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kultura/2021/07/30/hard-rock-hotel-nagymezo-zichy-jeno-utca-erdei-balint-tiborcz-uzlettars-elios-nagy-csaba-archikon/",
+        "h1": "Tovább terjeszkedne Terézvárosban Tiborcz egykori üzlettársa",
+        "txtlength": 22984
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kulfold/2021/07/30/pegasus-botrany-racz-andras-interju-megfigyeles-geopolitika",
+        "h1": "Ha külföldi titkosszolgálat szivárogtatja ki a Pegasus-listát, az nem így nézne ki",
+        "txtlength": 19149
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/szorakozas/2021/07/30/suicide-squad",
+        "h1": "Az új Öngyilkos osztag az idei év egyik legviccesebb filmje",
+        "txtlength": 18604
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/sport/20210729_tokio_percrol_percre_julius_30",
+        "h1": "A vártnál nehezebben nyert a női vízilabdacsapat, Cseh László befejezte a karrierjét - percről percre a tokiói olimpiáról",
+        "txtlength": 17067
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/sport/20210731_olimpia_szombat_percrol_percre",
+        "h1": "Milák ezüstérmes, Berecz Zsombor közeledik a második helyhez, a női kézilabdacsapat még megpróbálja életben tartani a reményt – percről percre az olimpiáról",
+        "txtlength": 15297
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/szorakozas/2021/07/31/iseltrail-az-alpesi-antikanikula-tura",
+        "h1": "Fel a gleccserhez: Iseltrail, az alpesi antikánikula-túra",
+        "txtlength": 13628
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/07/31/hetvegi-olvasnivalo-a-harmadik-oltastol-cseh-laszlo-bucsujaig",
+        "h1": "Hétvégi olvasnivaló a harmadik oltástól Cseh László búcsújáig",
+        "txtlength": 12569
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kulfold/2021/07/31/koronavirus-elleni-gyogyszer-pfizer-merck-shionogi/",
+        "h1": "Fordulatot hozhatnak a koronavírus elleni gyógyszerek",
+        "txtlength": 12368
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/07/30/csaladi-viszaly-miatt-szedik-darabjaira-a-dr-oetker-birodalmat",
+        "h1": "Családi viszály miatt szedik darabjaira a Dr. Oetker birodalmat",
+        "txtlength": 12194
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/zhvg/20210730_Hogyan_veheti_fel_a_harcot_a_kerti_kartevok_ellen_termeszetesen",
+        "h1": "Hogyan veheti fel a harcot a kerti kártevők ellen, ha kerülné a vegyszereket?",
+        "txtlength": 11440
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/politika/szijjarto-peter-dzsudzsak-balazs-gyerekek/55km96k?sl_ps=d_9",
+        "h1": "Dzsudzsák vigyázott Szijjártó gyerekeire – Mesélt a Blikknek a külügyminiszter felesége",
+        "txtlength": 9450
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/sztarvilag/antal-imre-ihos-jozsef-nyertes-zsuzsa-galvolgyi-janos-emlek-evfordulo/lmtsdpq?sl_ps=d_6",
+        "h1": "„Megkeseredett ember lett belőle” – A barátai szerint Antal Imre önsorsrontó, naiv zseni volt",
+        "txtlength": 9075
+    },
+    {
+        "hostname": "mindmegette.hu",
         "pagelink": "https://www.mindmegette.hu/glutenmentes-tortilla.recept",
         "h1": "GLUTÉNMENTES TORTILLA",
         "txtlength": 10901
