@@ -1,6 +1,198 @@
 [
     {
         "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/gulyasleves-bogracsban.recept",
+        "h1": "GULYÁSLEVES BOGRÁCSBAN",
+        "txtlength": 11055
+    },
+    {
+        "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/kinai-szezammagos-csirke",
+        "h1": "Kínai szezámmagos csirke",
+        "txtlength": 10448
+    },
+    {
+        "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/legegyszerubb-muffin",
+        "h1": "A legegyszerűbb muffin",
+        "txtlength": 10426
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/a-legegyszerubb-gundel-palacsinta.recept",
+        "h1": "A LEGEGYSZERŰBB GUNDEL PALACSINTA",
+        "txtlength": 10388
+    },
+    {
+        "hostname": "hataratkelo.blog.hu",
+        "pagelink": "https://hataratkelo.blog.hu/2021/07/30/mennyire_draga_magyarorszag#c40821016",
+        "h1": "Mennyire drága Magyarország?",
+        "txtlength": 47588
+    },
+    {
+        "hostname": "cineartstudio.blog.hu",
+        "pagelink": "https://nagytotalblog.blog.hu/2021/07/30/detektivek_vegetelen_sora_812",
+        "h1": "DETEKTÍVEK VÉGETELEN SORA 2.",
+        "txtlength": 8555
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/kozelet/20210801/mai-szemmel-szinte-elkepzelhetetlen-allapotok-kozott-indult-el-a-forint-epp-75-eve/",
+        "h1": "Mai szemmel szinte elképzelhetetlen állapotok között indult el a forint, épp 75 éve",
+        "txtlength": 23559
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/befektetes/20210731/mekkora-uzlet-a-forma-1-493784",
+        "h1": "Mekkora üzlet a Forma 1?",
+        "txtlength": 21796
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210731_juan_angel_soto_interju_keszul",
+        "h1": "„Nem szeretném a gyermekemet LMBTQ-kurzusra járatni\" – spanyol agytröszt vezetője a Mandinernek",
+        "txtlength": 20507
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210728_ahol_a_kecskek_a_fonokok_a_kadas_sajtmanufakturaban_jartunk",
+        "h1": "Ahol a kecskék a főnökök – a Kádas Sajtmanufaktúrában jártunk",
+        "txtlength": 20293
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/tamogatoi-tartalom/20210730/rekordszinten-a-magyarok-vagyona-csakugy-mint-az-ertekukbol-folyamatosan-veszito-parnaba-varrt-penzeik-is/",
+        "h1": "Rekordszinten a magyarok vagyona, csakúgy, mint az értékükből folyamatosan veszítő, párnába varrt pénzeik is",
+        "txtlength": 19212
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2021/08/01/hova-tunt-az-intro-a-popslagerekbol",
+        "h1": "HOVÁ TŰNT AZ INTRÓ A POPSLÁGEREKBŐL?",
+        "txtlength": 17574
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210731_nem_valaszol_a_dk_miert_tamogatnak_egy_nacit_szegeden",
+        "h1": "Nem válaszol a DK arra, hogy miért támogatnak egy nácit Szegeden",
+        "txtlength": 17339
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.penzcentrum.hu/egeszseg/20210801/nesze-neked-sporolas-ezeknek-a-magyaroknak-semmi-sem-draga-1116569",
+        "h1": "Nesze neked spórolás: ezeknek a magyaroknak semmi sem drága",
+        "txtlength": 14000
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/egeszseg/20210728/igy-kuzdenek-a-rettegett-betegseg-ellen-a-profik-a-legjobbakat-sem-kimeli-a-kieges-1116567",
+        "h1": "Így küzdenek a rettegett betegség ellen a profik: a legjobbakat sem kíméli a kiégés",
+        "txtlength": 13971
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/ingatlan/20210731/az-evszakok-rejtelme-nem-mindegy-hogy-mikor-adod-el-vagy-veszed-meg-a-lakasod-494502",
+        "h1": "Az évszakok rejtelme: nem mindegy, hogy mikor adod el, vagy veszed meg a lakásod",
+        "txtlength": 13151
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/lajfhekk/balkon-kerteszkedes/",
+        "h1": "Balkon kertészkedés",
+        "txtlength": 12974
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/otthon/20210729/uj-kedvenc-varosa-van-a-duzsgazdag-magyaroknak-rengeteg-luxusingatlant-vesznek-itt-1116599",
+        "h1": "Új kedvenc városa van a dúsgazdag magyaroknak: rengeteg luxusingatlant vesznek itt",
+        "txtlength": 12732
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/egeszseg/seta-eves-utan/",
+        "h1": "Mit tesz az étkezés utáni séta a szervezettel? 4 kifejezetten jótékony hatása",
+        "txtlength": 10437
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://olimpia2020.24.hu/olimpiai-hirek/2021/08/01/olimpia-2021-kilencedik-versenynap-elo-hirfolyam/",
+        "h1": "Kikapott Kínától, bukta a csoportelsőséget a női pólócsapat, Berecz Zsombor kedden az éremért vitorlázhat – élő hírfolyam",
+        "txtlength": 29708
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kultura/2021/07/31/wolfgang-puck-interju-spago-budapest-gasztronomia-hollywood-oscar-gala/",
+        "h1": "Wolfgang Puck: Ha meglátom, hogy Tom Cruise ül valamelyik asztalunknál, nem szaladok egyből oda hozzá",
+        "txtlength": 21039
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kultura/2021/08/01/kreativ-vaksag-neonaci-matine-konyvajanlo/",
+        "h1": "Szivárványos tábla és konfettieső köszöntötte az antifasisztáknak adományt gyűjtő neonácikat",
+        "txtlength": 19094
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://qubit.hu/2021/08/01/hova-tunt-az-intro-a-popslagerekbol",
+        "h1": "HOVÁ TŰNT AZ INTRÓ A POPSLÁGEREKBŐL?",
+        "txtlength": 17572
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/07/31/izrael-semmikepp-sem-akarja-hagyni-hogy-elvegyek-a-fagyijat",
+        "h1": "Izrael semmiképp sem akarja hagyni, hogy elvegyék a fagyiját",
+        "txtlength": 16117
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/sport/2021/08/01/hosszu-katinka-rio-tokioi-olimpia-gyenge-szereples",
+        "h1": "Mi történt Hosszú Katinkával az olimpián?",
+        "txtlength": 14909
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/egeszsegugyi-dolgozo-tuntetes-hosok-tere-budapest/e5vryef",
+        "h1": "Se Pintér, se Kásler nem ment el – A Hősök terén tüntetnek az egészségügyi dolgozók – galéria",
+        "txtlength": 13176
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/eszkombajn/2021/08/01/viii-henrik-i-ferenc-bekekotes-lakoma-buli-18-nap-6-milliard-forint",
+        "h1": "A középkorban még tudtak rendesen bulizni az emberek",
+        "txtlength": 12872
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/elet/20210731_Kinunkban_nevetunk_de_ez_nem_lehet_eletstrategia",
+        "h1": "Kínunkban nevetünk, de ez nem lehet életstratégia",
+        "txtlength": 12487
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/sport/20210801_Jo_reggelt_kivanunk_induljon_az_olimpia_kilencedik_napja",
+        "h1": "Kikapott a női vízilabda-válogatott Kínától, Berecz bejutott az éremversenybe- olimpia percről percre",
+        "txtlength": 11860
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/kultura/20210731_Szinpadra_vizeles_oncelu_karomkodas__megneztuk_a_betiltott_darabot",
+        "h1": "Hogy is megy a színpadra vizelés, az öncélú káromkodás? – megnéztük a betiltott darabot",
+        "txtlength": 11726
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kulfold/2021/07/31/kulfold-egyesult-kiralysag-nhs-korhaz-csecsemo-csecsemohalal",
+        "h1": "Közel száz csecsemő halt meg vagy szenvedett súlyos sérülést a személyzet mulasztásai miatt egy angliai kórházban",
+        "txtlength": 11339
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/30-eves-trabant-kiss-zoltan/8bnjvk7",
+        "h1": "Négyszer kerülte meg a Földet, családtag lett a 30 éves Trabant",
+        "txtlength": 10604
+    },
+    {
+        "hostname": "mindmegette.hu",
         "pagelink": "https://www.mindmegette.hu/savanyu-bableves.recept",
         "h1": "SAVANYÚ BABLEVES",
         "txtlength": 10763
