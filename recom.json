@@ -1,5 +1,191 @@
 [
     {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/glutenmentes-szilvas-gomboc.recept",
+        "h1": "GLUTÉNMENTES SZILVÁS GOMBÓC",
+        "txtlength": 10868
+    },
+    {
+        "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/sved-uborkasalata",
+        "h1": "Svéd uborkasaláta",
+        "txtlength": 10333
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/hazi-korozott-egyszeruen.recept",
+        "h1": "EGYSZERŰ HÁZI KÖRÖZÖTT",
+        "txtlength": 10206
+    },
+    {
+        "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/zsenge-borsofozelek",
+        "h1": "Zsenge borsófőzelék",
+        "txtlength": 10055
+    },
+    {
+        "hostname": "hataratkelo.blog.hu",
+        "pagelink": "https://hataratkelo.blog.hu/2021/08/01/jobbagymentalitas_magyarorszagon#c40826894",
+        "h1": "Jobbágymentalitás Magyarországon",
+        "txtlength": 66596
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210728_meg_epp_jokor_huztunk_akadalyt",
+        "h1": "Még épp jókor húztunk akadályt – Kocsis Máté a Mandinernek",
+        "txtlength": 36091
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/oktatas/20210730/tizezreket-kaphatnak-szeptemberben-a-csaladok-mutatjuk-hogy-igenyelheted-1116598",
+        "h1": "Tízezreket kaphatnak szeptemberben a családok: mutatjuk, hogy igényelheted",
+        "txtlength": 29936
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20210803/magyar-kutatok-megirtak-hogyan-lehet-megelozni-egy-sulyos-jarvanyt-es-az-orszagos-lezarasokat-495054",
+        "h1": "Magyar kutatók megírták, hogyan lehet megelőzni egy súlyos járványt és az országos lezárásokat",
+        "txtlength": 27184
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/kozelet/20210803/ha-nem-fogja-magat-vissza-a-kormany-nem-lehet-letorni-az-inflaciot/",
+        "h1": "Ha nem fogja magát vissza a kormány, nem lehet letörni az inflációt",
+        "txtlength": 21429
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/kozelet/20210804/fejetlenseg-es-keslekedes-utan-735-millioert-kell-kipofozni-a-budapesti-jegyautomatakat/",
+        "h1": "Fejetlenség és késlekedés után 735 millióért kell kipofozni a budapesti jegyautomatákat",
+        "txtlength": 21173
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210802_megalkuvas_nelkul_kepviselni_az_igazsagot_a_vasarnap_hu_uj_foszerkesztoje_a_mandinernek",
+        "h1": "„Megalkuvás nélkül képviselni az igazságot” – a Vasarnap.hu új főszerkesztője a Mandinernek",
+        "txtlength": 18636
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/global/20210804/fegyveres-maganhadsereg-magyarorszagon-ilyenek-a-modern-kor-zsoldosai-495068",
+        "h1": "Fegyveres magánhadsereg Magyarországon? - Ilyenek a modern kor zsoldosai",
+        "txtlength": 16913
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2021/08/03/halvany-fogalmad-sincs-mennyire-ki-vagy-szolgaltatva-az-okostelefonodnak",
+        "h1": "HALVÁNY FOGALMAD SINCS, MENNYIRE KI VAGY SZOLGÁLTATVA AZ OKOSTELEFONODNAK",
+        "txtlength": 15247
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/gazdasag/20210730/igy-dragult-meg-kegyetlenul-a-magyar-burgonya-ilyet-szinte-sehol-europaban-nem-lattak-meg-1116616",
+        "h1": "Így drágult meg kegyetlenül a magyar burgonya: ilyet szinte sehol Európában nem láttak még",
+        "txtlength": 14532
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20210804/oriasi-a-felfutas-egyre-batrabban-utaznak-es-koltenek-a-magyarok-kulfoldon-495014",
+        "h1": "Óriási a felfutás: egyre bátrabban utaznak és költenek a magyarok külföldön",
+        "txtlength": 14352
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210726_magyarorszag_eremtablazat_tokyo2020",
+        "h1": "Tokió 2020 – Magyarország éremtáblázata",
+        "txtlength": 14199
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/egeszseg/venakarosito-szokasok/",
+        "h1": "6 mindennapos szokás, ami súlyosan károsítja a vénáid: nem csak a hosszas ülés növeli meg a visszérbetegség kockázatát",
+        "txtlength": 11088
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/lajfhekk/tippek-capatamadas-ellen/",
+        "h1": "Tippek cápatámadás ellen",
+        "txtlength": 9365
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/gazdasag/2021/08/04/budapest-kornyeke-mar-ma-is-vezeto-filmgyartasi-kozpont-de-a-nagy-boom-miatt-ujabb-meretes-beruhazasok-indulnak",
+        "h1": "Készüljünk fel Hollybudra? Filmes bérgyártásban Magyarország a globális verseny élmezőnyébe tart",
+        "txtlength": 31970
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kulfold/2021/08/03/szerbia-vucic-maffiozok-vademeles-politikai-kapcsolatok-focihuliganok/",
+        "h1": "Hogyan szervezzünk politikai célokra focihuligánokat?",
+        "txtlength": 22795
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://olimpia2020.24.hu/olimpiai-hirek/2021/08/04/olimpia-2021-tizenkettedik-versenynap-elo-hirfolyam/",
+        "h1": "Olasz Anna negyedik helyen zárt, a női kéziválogatott kiesett – élő hírfolyam az olimpiáról",
+        "txtlength": 20147
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/08/04/ha-arra-varsz-hogy-a-koronavirusbol-natha-legyen-sokaig-fogsz-varni",
+        "h1": "Ha arra vársz, hogy a koronavírusból nátha legyen, sokáig fogsz várni",
+        "txtlength": 17354
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/08/03/a-ket-arany-es-boldog-ezustok-napja",
+        "h1": "A két arany és boldog ezüstök napja",
+        "txtlength": 17331
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kozelet/2021/08/03/tuleltem-villamcsapast-monoszlo-tuzeset-levendula-tetanusz-ujrakezdes/",
+        "h1": "„Túléltem egy villámcsapást, ne egy tetanuszba haljak már bele”",
+        "txtlength": 14576
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/gazdasag/2021/08/03/a-gyanutlan-vallalkozoi-hozzaallas-es-a-home-office-zuzta-porra-a-costa-coffee-magyar-kavezolancot",
+        "h1": "„Meglepetésként ért minket, hogy így dolgoztunk 8-9 évig” – a magyar Costa Coffee bezárásának története",
+        "txtlength": 13947
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/elet/20210803_Sky_Brown_gordeszka_olimpia",
+        "h1": "13 éves, túl van egy életveszélyes bukáson, most az olimpián gördeszkázhat",
+        "txtlength": 13885
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/sport/2021/08/03/kopasz-balint-olimpiai-gyozelem-edzo-edesanya-hatter",
+        "h1": "Az édesanyja nem merte nézni Kopasz Bálint olimpiai győzelmét",
+        "txtlength": 13835
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/sport/20210804_kezilabda_olimpia_tokio2020_negyeddonto_magyarorszag_norvegia_vereseg",
+        "h1": "Kikapott a norvégoktól, nem jutott a négy közé a kézilabda-válogatott Tokióban",
+        "txtlength": 11325
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/sztarvilag/kultura/houdini-halala-weisz-erik-ujsagmuzeum/ys8r8mp",
+        "h1": "Vakbélgyulladás okozta a legendás illuzionista halálát",
+        "txtlength": 10652
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/ingatlan/20210803_mol_campus_bokretaunnep",
+        "h1": "Megnéztük a budapesti panorámát Magyarország legmagasabb épületéről",
+        "txtlength": 10338
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/idojaras-elorejelzes-augusztus-4-szerda-riasztas-eso-jegeso-szel/kgsfhwq?sl_ps=d_6",
+        "h1": "Kiadták a riasztást, szinte az egész országot elmossa az eső: jég és durva szelek jönnek, mutatjuk, lesz-e még idén nyár",
+        "txtlength": 10068
+    },
+    {
         "hostname": "nosalty.hu",
         "pagelink": "https://www.nosalty.hu/recept/tejszines-fokhagymakremleves",
         "h1": "Tejszínes fokhagymakrémleves",
