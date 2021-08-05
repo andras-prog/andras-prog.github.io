@@ -1,6 +1,186 @@
 [
     {
         "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/tejszines-kukoricas-csirkemell.recept",
+        "h1": "TEJSZÍNES-KUKORICÁS CSIRKEMELL",
+        "txtlength": 9829
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/karalabe-kremleves-egyszeruen.recept",
+        "h1": "KARALÁBÉ-KRÉMLEVES",
+        "txtlength": 9472
+    },
+    {
+        "hostname": "kiszamolo.hu",
+        "pagelink": "https://kiszamolo.hu/mennyivel-fog-noni-a-hiteltorlesztod/",
+        "h1": "Mennyivel fog nőni a hiteltörlesztőd?",
+        "txtlength": 31141
+    },
+    {
+        "hostname": "alapblog.hu",
+        "pagelink": "https://alapblog.hu/miert-jo-az-olimpia-egyaltalan-jo/",
+        "h1": "MIÉRT JÓ AZ OLIMPIA? EGYÁLTALÁN JÓ?",
+        "txtlength": 13893
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/otthon/20210804/milliokat-bukhat-az-aki-igy-vasarol-lakast-kevesen-figyelnek-erre-pedig-nem-egyedi-eset-1116679",
+        "h1": "Milliókat bukhat az, aki így vásárol lakást: kevesen figyelnek erre, pedig nem egyedi eset",
+        "txtlength": 30245
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210804_magyarorszag_nem_fogadja_el_norvegia_diktatumat",
+        "h1": "Magyarország nem fogadja el Norvégia diktátumát, az Ökotárson kívül bárki megfelelne",
+        "txtlength": 20804
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210804_nem_fer_hozza_tobbe_magyarorszag_a_norveg_alap_forrasaihoz",
+        "h1": "Nem fér hozzá többé Magyarország a Norvég Alap forrásaihoz",
+        "txtlength": 18757
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210731_jakab#comments",
+        "h1": "Biztos, hogy lesz negyedik hullám – Jakab Ferenc a Mandinernek",
+        "txtlength": 18488
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/penz/20210805/hatborzongato-nyugdijvaltozasok-johetnek/",
+        "h1": "Hátborzongató nyugdíjváltozások jöhetnek",
+        "txtlength": 17680
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/global/20210805/a-semmibol-tor-elore-az-olasz-szelsojobb-fasiszta-utodpart-kezebe-kerulhet-olaszorszag-495256",
+        "h1": "A semmiből tör előre az olasz szélsőjobb - Fasiszta utódpárt kezébe kerülhet Olaszország?",
+        "txtlength": 15916
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20210804/az-elektromos-autok-sem-szentek-az-ujrahasznositas-lehet-a-jovo-iparaga-495070",
+        "h1": "Az elektromos autók sem szentek, az újrahasznosítás lehet a jövő iparága",
+        "txtlength": 15750
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/prof/20210804/netto-12-millio-folott-mar-nem-leszel-boldogabb-494964",
+        "h1": "Nettó 1,2 millió fölött már nem leszel boldogabb",
+        "txtlength": 15685
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/elet/20210805/par-kivetellel-eltuntette-az-aldi-es-a-lidl-az-alapveto-zoldsegek-es-gyumolcsok-szezonjat/",
+        "h1": "Pár kivétellel eltüntette az Aldi és a Lidl az alapvető zöldségek és gyümölcsök szezonját",
+        "txtlength": 15471
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/hitel/20210802/brutualis-hiteltartozas-nyomja-rengeteg-magyar-vallat-csak-igy-menekulhetnek-meg-a-totalis-csodtol-1116668",
+        "h1": "Brutális hiteltartozás nyomja rengeteg magyar vállát: csak így menekülhetnek meg a totális csődtől",
+        "txtlength": 14686
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/kapcsolat/mussolini-szeretoje-clara-petacci/",
+        "h1": "Ő volt Mussolini szeretője, együtt végezték ki őket: Clara Petacci már gyermekként is rajongott az olasz diktátorért",
+        "txtlength": 11833
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2021/08/05/az-orszag-ami-arra-keszul-hogy-a-klimavaltozas-miatt-eltunik-a-fold-szinerol",
+        "h1": "AZ ORSZÁG, AMI ARRA KÉSZÜL, HOGY A KLÍMAVÁLTOZÁS MIATT ELTŰNIK A FÖLD SZÍNÉRŐL",
+        "txtlength": 11401
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/lajfhekk/komposztalas-lakasban/",
+        "h1": "Komposztálás lakásban",
+        "txtlength": 9227
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/kultura/20210805_alkalmate_trupp_tortenet_legendas_mate_gabor_osztaly_jordan_adel_kovacs_patricia_fenyo_ivan_meszaros_bela_gal_kristof_szaraz_denes",
+        "h1": "„Azt mondták, ezt úgysem lehet megcsinálni” – Tizennégy év után ér véget a legsikeresebb színházi kísérlet",
+        "txtlength": 25926
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/08/05/borneo-oslakosaitol-loptak-a-fakat-az-olimpiai-stadionokhoz",
+        "h1": "Borneó őslakosaitól lopták a fákat az olimpiai stadionokhoz",
+        "txtlength": 25729
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/belfold/2021/08/05/budapest-balaton-kerekparut-hosszu-izzaszto-es-akadozik",
+        "h1": "Leteszteltük a Budapest–Balaton kerékpárút Velencéig tartó részét: hosszú, izzasztó és hiányos",
+        "txtlength": 15631
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/08/04/szel-bernadett-kivancsi-lett-volna-a-reszletes-adatokra-a-kormany-elhiresult-vakcinahatekonysagi-tablazatarol-de-nem-kapta-meg-azokat",
+        "h1": "Szél Bernadett kíváncsi lett volna a részletes adatokra a kormány elhíresült vakcinahatékonysági táblázatáról, de nem kapta meg azokat",
+        "txtlength": 14140
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/gazdasag/20210804_valsag_euro_mnb_forint_matolcsy",
+        "h1": "Tényleg sikertelen lett volna a magyar válságkezelés, ha eurónk van?",
+        "txtlength": 14019
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/sport/20210805_olimpia_percrol_percre_tokio_uszas_kajak_kenu",
+        "h1": "Tótka Sándor olimpiai bajnok, Rasovszky Kristóf és Csipes Tamara ezüstérmet nyert – olimpia percről percre",
+        "txtlength": 12928
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/szorakozas/2021/08/05/pray-away-istennel-a-vagy-ellen-dokumentumfilm-homofobia-atneveles-homoszexualitas-netflix-kritika",
+        "h1": "Ameddig létezik homofóbia a világon, addig lesznek ilyen szervezetek is",
+        "txtlength": 11903
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kultura/2021/08/04/suicide-squad-az-ongyilkos-osztag-2021-kritika-szuperhosfilm/",
+        "h1": "Aki megnézi az új Öngyilkos osztagot, másodszor is sorba áll a pofonért",
+        "txtlength": 10348
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/halapenz-kommando-korhazak-orvosok-paciensek/6944jh7?sl_ps=d_11",
+        "h1": "A kórházi korrupció nyomában – A Blikk utánajárt, rettegnek-e az intézményekben a hálapénztől: meglepő válaszok születtek",
+        "txtlength": 10141
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/koronavirus-augusztus-5-csutortok-magyarorszag-friss-hirek/d87lnjs?sl_ps=d_3",
+        "h1": "Koronavírus hírek csütörtökön: nincs újabb halálos áldozat, de a fertőzöttek száma ennyivel emelkedett",
+        "txtlength": 9991
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://sokszinuvidek.24.hu/eletmod/2021/08/05/norvegia-utan-tenerife-otthon/",
+        "h1": "Norvégia után Tenerifén keres új otthont a magyar család",
+        "txtlength": 9569
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://olimpia2020.24.hu/olimpiai-hirek/2021/08/05/olimpia-2021-totka-sandor-olimpiai-bajnok-kajak-kenu-ferfi-200-meter-csizmadia-kolos/#",
+        "h1": "A kajakos Tótka Sándor nyerte az ötödik aranyérmünket",
+        "txtlength": 9523
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/sport/2021/08/05/tokio-olimpia-osszefoglalo-kajak-kenu-nyiltvizi-uszas-ottusa-atletika",
+        "h1": "Egy arany, két ezüst: jól indult a csütörtök a tokiói olimpián",
+        "txtlength": 7242
+    },
+    {
+        "hostname": "mindmegette.hu",
         "pagelink": "https://www.mindmegette.hu/glutenmentes-szilvas-gomboc.recept",
         "h1": "GLUTÉNMENTES SZILVÁS GOMBÓC",
         "txtlength": 10868
