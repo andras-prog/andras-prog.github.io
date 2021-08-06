@@ -1,6 +1,198 @@
 [
     {
         "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/mekis-almas-pite-glutenmentesen.recept",
+        "h1": "MEKIS ALMÁS PITE GLUTÉNMENTESEN",
+        "txtlength": 11310
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/rantott-palacsinta-daralt-hussal-toltve.recept",
+        "h1": "RÁNTOTT PALACSINTA DARÁLT HÚSSAL TÖLTVE",
+        "txtlength": 10750
+    },
+    {
+        "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/rakott-karfiol",
+        "h1": "Rakott karfiol",
+        "txtlength": 10423
+    },
+    {
+        "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/egyszeru-borsos-tokany",
+        "h1": "Egyszerű borsos tokány",
+        "txtlength": 10165
+    },
+    {
+        "hostname": "hataratkelo.blog.hu",
+        "pagelink": "https://hataratkelo.blog.hu/2021/08/01/jobbagymentalitas_magyarorszagon#c40830112",
+        "h1": "Jobbágymentalitás Magyarországon",
+        "txtlength": 65972
+    },
+    {
+        "hostname": "kulturpart.hu",
+        "pagelink": "https://kulturpart.hu/2021/07/25/egyre_murisabb",
+        "h1": "A VILÁG AMELYIK NEM LÉTEZIK, DE MÉGIS",
+        "txtlength": 13084
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210804_orban_viktor_a_demokraciaert_harcol_tucker_carlson_a_mandinernek",
+        "h1": "Orbán Viktor a demokráciáért harcol – Tucker Carlson a Mandinernek",
+        "txtlength": 25233
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/bank/20210806/lakasfelujitasi-tamogatas-megis-honnan-szedi-elo-a-milliokat-a-magyar-lakossag-495398",
+        "h1": "Lakásfelújítási támogatás: mégis honnan szedi elő a milliókat a magyar lakosság?",
+        "txtlength": 24676
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210806_a_nyugati_liberalisok_nem_tudjak_elfogadni_a_sikeres_nemzeti_alternativat_orban_a_fox_newsban",
+        "h1": "A nyugati liberálisok nem tudják elfogadni a sikeres nemzeti alternatívát – Orbán Viktor a Fox Newsnak",
+        "txtlength": 20836
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210804_altalanos_euforiaban_vagyok_a_loci_jatszik_egyuttes_frontembere_a_mandinernek",
+        "h1": "Általános eufóriában vagyok – a Lóci Játszik együttes frontembere a Mandinernek",
+        "txtlength": 20752
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/uzlet/20210806/begyujtotta-a-raketakat-a-mol-tortenete-legjobb-negyedeves-eredmenyet-erte-el-a-tarsasag-495444",
+        "h1": "Begyújtotta a rakétákat a Mol, története legjobb negyedéves eredményét érte el a társaság",
+        "txtlength": 20289
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vilag/20210806/minimalberben-mar-elozi-a-magyart-de-igy-is-az-alacsony-berekre-epitve-szaguld-a-roman-gazdasag/",
+        "h1": "Minimálbérben már előzi a magyart, de így is az alacsony bérekre építve száguld a román gazdaság",
+        "txtlength": 19629
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.penzcentrum.hu/hitel/20210806/megrohantak-a-magyarok-a-bankokat-igy-huzzak-be-a-legjobb-hiteleket-1116761",
+        "h1": "Megrohanták a magyarok a bankokat: így húzzák be a legjobb hiteleket",
+        "txtlength": 18848
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/hitel/20210806/megrohantak-a-magyarok-a-bankokat-igy-huzzak-be-a-legjobb-hiteleket-1116761",
+        "h1": "Megrohanták a magyarok a bankokat: így húzzák be a legjobb hiteleket",
+        "txtlength": 18792
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/vallalkozas/20210805/nehez-helyzetben-a-pesti-taxisok-alig-van-auto-lassu-lesz-a-talpra-allas-1116721",
+        "h1": "Nehéz helyzetben a pesti taxisok: alig van autó, lassú lesz a talpra állás",
+        "txtlength": 16954
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/elet/20210805/a-jogosultak-huszada-jelentkezett-eddig-harmadik-oltasra/",
+        "h1": "A jogosultak huszada jelentkezett eddig harmadik oltásra",
+        "txtlength": 15708
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/egeszseg/greenwashing-zoldre-festes/",
+        "h1": "Így ismerheted fel, ha csak marketingfogás az ökotudatos termék: nagyon nehéz kiszűrni, de nem lehetetlen",
+        "txtlength": 13044
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2021/08/06/szteroidok-helyett-genszerkesztessel-doppingolhatnak-a-jovo-sportoloi",
+        "h1": "SZTEROIDOK HELYETT GÉNSZERKESZTÉSSEL DOPPINGOLHATNAK A JÖVŐ SPORTOLÓI",
+        "txtlength": 11568
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/lajfhekk/miert-agresszivek-az-olebek/",
+        "h1": "Miért agresszívek az ölebek",
+        "txtlength": 7993
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20210806_pegasus_ugy_titkosszolgalatok_politika",
+        "h1": "Amiről hazudni akarnak, arról inkább nem beszélnek – a titkosszolgálat és a politika viszonya a Pegasus-ügyben",
+        "txtlength": 23537
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/08/06/orvoshiany-miatt-bezaro-surgossegi",
+        "h1": "Orvoshiány miatt bezáró sürgősségi",
+        "txtlength": 18428
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/08/05/boosterkedunk-boosterkedunk",
+        "h1": "Boosterkedünk, boosterkedünk",
+        "txtlength": 16255
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kulfold/2021/08/05/tucker-carlson-orban-viktor-magyarorszag-fox-news/",
+        "h1": "Carlson budapesti látogatása jelzi, mennyire imádja Orbán Viktort a trumpista jobboldal",
+        "txtlength": 15513
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/belfold/2021/08/06/psziches-beteg-volt-eles-lofegyver-nelkul-tek-elfogas",
+        "h1": "Pszichés beteg volt és nem volt éles lőfegyver a férfinél, aki intenzívre került a TEK akciója után",
+        "txtlength": 15197
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/zugloi-repuloszerencsetlenseg-malev-c-47-amerikai-legiero-gepe-kemkedes/l74j398?sl_ps=d_3",
+        "h1": "Kémeknek hitt amerikai katonáktól kobozták el a Malév-gépet, ami Zuglóban egy lakóházra zuhant – Új részletek az elátkozott repülőről",
+        "txtlength": 14844
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/sport/2021/08/05/olimpia-magyar-arany-ezust-tokio-totka-csipes-rasovszky-sulylokes-tizproba-hetproba-kosarlabda-osszefoglalo",
+        "h1": "Magyar arany és két ezüst, Rióból lemásolt dobogó, kínos éremátadó az olimpián",
+        "txtlength": 14533
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/belfold/2021/08/06/belfold-kulfold-orban-viktor-usa-fox-news-tucker-carlson-interju-joe-biden-valasztas-2022",
+        "h1": "Orbán a Fox Newsnak: Az összes magyar számára személyes sértés, ha őt gengszternek nevezik",
+        "txtlength": 14122
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/elet/20210806_Jordan_Adel_alkalmate_trupp_kritika",
+        "h1": "Jordán Adél őszintén vall arról is, amiről kényelmesebb hallgatni",
+        "txtlength": 12749
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20210806_Orban_Tucker_Carlson",
+        "h1": "Orbán Tucker Carlsonnak: Istentől és a természettől jön, hogy megvédjük Magyarországot",
+        "txtlength": 12183
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kulfold/2021/08/05/kriszcina-cimanouszkaja-lengyelorszag-feheroroszorszag-szokes/",
+        "h1": "Biztonságos helyen van a fehérorosz futónő",
+        "txtlength": 10848
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/szorakozas/2021/08/05/farkasok-szarvasok-ellen-tv2-uj-kalandreality-totem-video/",
+        "h1": "„Januárban még csak egy A4-es lapon volt meg ez a műsor” – egymásnak estek a farkasok és a szarvasok a Totemben",
+        "txtlength": 10306
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/koronavirus-hirek-augusztus-6-pentek/t1l9cfz?sl_ps=d_5",
+        "h1": "Koronavírus pénteken: újabb fertőzötteket találtak, meghalt egy beteg, jelenleg ennyien vannak kórházban",
+        "txtlength": 9179
+    },
+    {
+        "hostname": "mindmegette.hu",
         "pagelink": "https://www.mindmegette.hu/tejszines-kukoricas-csirkemell.recept",
         "h1": "TEJSZÍNES-KUKORICÁS CSIRKEMELL",
         "txtlength": 9829
