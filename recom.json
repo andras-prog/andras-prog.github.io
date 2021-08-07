@@ -1,5 +1,197 @@
 [
     {
+        "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/klasszikus-rakott-krumpli",
+        "h1": "Klasszikus rakott krumpli",
+        "txtlength": 10395
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/gombas-spenotos-rizotto.recept",
+        "h1": "GOMBÁS-SPENÓTOS RIZOTTÓ",
+        "txtlength": 10191
+    },
+    {
+        "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/paprikas-krumpli-kolbasszal",
+        "h1": "Paprikás krumpli kolbásszal",
+        "txtlength": 9942
+    },
+    {
+        "hostname": "hataratkelo.blog.hu",
+        "pagelink": "https://hataratkelo.blog.hu/2021/08/01/jobbagymentalitas_magyarorszagon#c40832150",
+        "h1": "Jobbágymentalitás Magyarországon",
+        "txtlength": 65030
+    },
+    {
+        "hostname": "kulturpart.hu",
+        "pagelink": "https://kulturpart.blog.hu/2021/08/04/a_vilagsztar_epp_tuniszban_rendel",
+        "h1": "A VILÁGSZTÁR ÉPP TUNISZBAN RENDEL",
+        "txtlength": 8536
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2021/08/07/hogyan-utazz-ha-nem-szamit-a-penz",
+        "h1": "HOGYAN UTAZZ, HA NEM SZÁMÍT A PÉNZ?",
+        "txtlength": 25126
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210804_veszelyben_a_gyerekek_forro_ugy_lett_a_nepszavazas_temaja",
+        "h1": "Veszélyben a gyerekek? – forró ügy lett a népszavazás témája",
+        "txtlength": 24843
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/hitel/20210804/megrohantak-a-magyarok-a-bankokat-ugy-veszik-fel-az-ilyen-hiteleket-mintha-nem-lenne-holnap-1116686",
+        "h1": "Megrohanták a magyarok a bankokat: úgy veszik fel az ilyen hiteleket, mintha nem lenne holnap",
+        "txtlength": 19570
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210806_szlavik#comments",
+        "h1": "Semmi alapja nincs annak a kijelentésnek, hogy a kínai vakcina nem hatékony – Szlávik a Mandinernek",
+        "txtlength": 19478
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vallalat/20210807/csomagolasmentes-bolt-videken-jo-uzlet-vagy-naiv-kuldetes/",
+        "h1": "Csomagolásmentes bolt vidéken: jó üzlet vagy naiv küldetés?",
+        "txtlength": 17447
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210805_a_baloldal_nagykanizsan_se_venne_at_az_arenat",
+        "h1": "A baloldal Nagykanizsán se venné át az arénát?",
+        "txtlength": 17347
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20210806/kell-e-felnunk-az-ikerdeficittol-495074",
+        "h1": "Kell-e félnünk az ikerdeficittől?",
+        "txtlength": 16369
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/penz/20210806/gyorsan-terjed-a-csusztatott-fizetes-fel-is-figyeltek-ra-a-hatosagok/",
+        "h1": "Gyorsan terjed a csúsztatott fizetés, fel is figyeltek rá a hatóságok",
+        "txtlength": 16031
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/egeszseg/20210806/egyre-csak-terjed-a-delta-varians-visszater-a-maszkviseles-tavolsagtartas-1116767",
+        "h1": "Egyre csak terjed a delta-variáns: visszatér a maszkviselés, távolságtartás?",
+        "txtlength": 14999
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/unios-forrasok/20210806/kesnek-a-magyarorszagnak-szant-unios-penzek-hogyan-keszulhet-fel-erre-a-kormany-495408",
+        "h1": "Késnek a Magyarországnak szánt uniós pénzek - Hogyan készülhet fel erre a kormány?",
+        "txtlength": 14692
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/global/20210807/fegyveres-maganhadseregek-ok-most-a-vilag-nagyagyui-495240",
+        "h1": "Fegyveres magánhadseregek: ők most a világ nagyágyúi",
+        "txtlength": 14173
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/utazas/1936-berlini-olimpia/",
+        "h1": "Így készült a Harmadik Birodalom az olimpiára: a stadionon dolgozókat a piramisépítőkhöz hasonlította a propaganda",
+        "txtlength": 13862
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/testem/csipoemeles-fitlabdaval/",
+        "h1": "csípőemelés fitlabdával",
+        "txtlength": 8723
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/lajfhekk/macska-doglott-allatot-hoz/",
+        "h1": "Macska döglött állatot hoz",
+        "txtlength": 6900
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/sport/2021/08/06/barcelona-lionel-messi-szakitas-spanyol-bajnoksag-koltsegplafon",
+        "h1": "Megmenti vagy romba dönti a spanyol focit a szabály, ami Messi távozását okozta?",
+        "txtlength": 18808
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/08/06/orban-viktor-a-fekevesztett-polihisztor",
+        "h1": "Orbán Viktor, a fékevesztett polihisztor",
+        "txtlength": 17864
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kultura/2021/08/07/hohullam-vihar-tornado-kanikula-fagyi-udito-heti-fortepan/",
+        "h1": "Így vészelték át a nagyszüleink a régi kánikulákat",
+        "txtlength": 16470
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/08/06/onnan-esett-be-ket-erem-ahonnan-nem-szamitottunk-ra",
+        "h1": "Onnan esett be két érem, ahonnan nem számítottunk rá",
+        "txtlength": 16370
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20210807_Majdnem_ezer_titkos_megfigyelest_engedelyeztek_a_nyar_kozepeig",
+        "h1": "Varga Juditék belehúztak: csaknem ezer titkos megfigyelést engedélyeztek a nyár közepéig",
+        "txtlength": 15589
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://rangado.24.hu/nemzetkozi_foci/2021/08/06/fc-barcelona-lionel-messi-tavozas-la-liga-joan-laporta/",
+        "h1": "Messit vegyenek! – zsarolás vagy beletörődés áll az év futballhíre mögött?",
+        "txtlength": 15253
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/belfold/2021/08/07/vas-megye-szombathely-elovalasztas-ungar-peter-czegledy-csaba-median-felmeres",
+        "h1": "A legszorosabb előválasztási csata Szombathelyen lesz, fej fej mellett áll Ungár Péter és Czeglédy Csaba",
+        "txtlength": 14952
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/tudomany/2021/08/07/tokioi-olimpia-idojaras-hoseg-szervezet-paratartalom-hoerzet-szasz-mate-kiszaradas-dehidracio-hutes",
+        "h1": "Ha a vizelet színe és íze is olyan, mint egy belga söré, biztosan dehidratált vagy",
+        "txtlength": 14784
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/tudomany/2021/08/06/paks-ii-foldrenges-toresvonal-atomenergia/",
+        "h1": "Paks II: nem földrengés miatt gond a törésvonal",
+        "txtlength": 11724
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20210807_noi_kajak_negyes_tokio2020_olimpia",
+        "h1": "Kozák Danuta: Most megvolt az a düh a rajtnál, ami korábban hiányzott",
+        "txtlength": 10797
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/sport/20210806_tokio_olimpia_pentek",
+        "h1": "Öttusában és karatéban is magyar bronzéremnek örülhettünk – olimpia percről percre",
+        "txtlength": 10474
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/buktatok-epitkezes-falazas-blikk-ugyek/np38bpd",
+        "h1": "Hogyan kerülhetjük el egy építkezés buktatóit? Erre figyeljen, amikor a falat húzzák!",
+        "txtlength": 9724
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/lakasmaffia-lakoszovetkezeti-elnok-tilly-laszlo-halalos-fenyegetes/gyn082c?sl_ps=d_9",
+        "h1": "„Azt mondogatták egymás között, vigyázzak, nehogy golyót kapjak a fejembe– Halállal fenyegetik a lakásmaffia ellen fellépő elnököt",
+        "txtlength": 9649
+    },
+    {
         "hostname": "mindmegette.hu",
         "pagelink": "https://www.mindmegette.hu/mekis-almas-pite-glutenmentesen.recept",
         "h1": "MEKIS ALMÁS PITE GLUTÉNMENTESEN",
