@@ -1,5 +1,185 @@
 [
     {
+        "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/klasszikus-szilvas-gomboc",
+        "h1": "Klasszikus szilvás gombóc",
+        "txtlength": 12953
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/negysajtos-pizza-recept-tunderkonyha.recept",
+        "h1": "NÉGYSAJTOS PIZZA",
+        "txtlength": 10088
+    },
+    {
+        "hostname": "hataratkelo.blog.hu",
+        "pagelink": "https://hataratkelo.blog.hu/2021/08/07/milyen_jogai_vannak_az_ausztriai_idenymunkasoknak#c40836182",
+        "h1": "Milyen jogai vannak az ausztriai idénymunkásoknak?",
+        "txtlength": 40103
+    },
+    {
+        "hostname": "hafr.hvgblog.hu",
+        "pagelink": "https://hafr.hvgblog.hu/2020/12/01/mi_a_baj_a_liberalizmussal_364/",
+        "h1": "Mi a baj a liberalizmussal?",
+        "txtlength": 7954
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/kozelet/20210808/orban-balazs-a-konfliktusos-politika-is-tud-sikert-hozni/",
+        "h1": "Orbán Balázs: A konfliktusos politika is tud sikert hozni",
+        "txtlength": 77663
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210809_brusszeli_variaciok_a_tagallamok_ideologiai_leckeztetesere",
+        "h1": "Brüsszeli variációk a tagállamok ideológiai leckéztetésére",
+        "txtlength": 24752
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vilag/20210809/nem-veletlen-hogy-magyarorszag-nem-rug-labdaba-a-borpiacon/",
+        "h1": "Nem véletlen, hogy Magyarország nem rúg labdába a borpiacon",
+        "txtlength": 23049
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210804_szileziai_elet_a_szen_utan_atalakuloban_a_lengyel_banyavidek",
+        "h1": "Sziléziai élet a szén után, átalakulóban a lengyel bányavidék",
+        "txtlength": 20457
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/egeszseg/20210805/atfogo-kutatas-keszult-igy-eltek-meg-a-magyar-csaladok-a-koronavirus-jarvanyt-1116507",
+        "h1": "Átfogó kutatás készült: így élték meg a magyar családok a koronavírus-járványt",
+        "txtlength": 19635
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/karrier/20210809/elarulta-a-magyar-csucsvezeto-ez-kell-a-nemzetkozi-alomkarrierhez-luxusfizeteshez-1116836",
+        "h1": "Elárulta a magyar csúcsvezető: ez kell a nemzetközi álomkarrierhez, luxusfizetéshez",
+        "txtlength": 17556
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2021/08/09/az-e-mobilitas-nemcsak-technologia-hanem-felelossegvallalas-is",
+        "h1": "AZ E-MOBILITÁS NEMCSAK TECHNOLÓGIA, HANEM FELELŐSSÉGVÁLLALÁS IS",
+        "txtlength": 17326
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.penzcentrum.hu/karrier/20210809/elarulta-a-magyar-csucsvezeto-ez-kell-a-nemzetkozi-alomkarrierhez-luxusfizeteshez-1116836",
+        "h1": "Elárulta a magyar csúcsvezető: ez kell a nemzetközi álomkarrierhez, luxusfizetéshez",
+        "txtlength": 17053
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/befektetes/20210809/a-legrosszabb-befektetes-a-fustolgo-koporsoszog-495376",
+        "h1": "A legrosszabb befektetés: a füstölgő koporsószög",
+        "txtlength": 16719
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210901_az_elk_rtuk_szamomra_rekarol_szol_a_film_noi_foszereploje_banovits_vivianne_a_mandinernek",
+        "h1": "Az Elk*rtuk számomra Rékáról szól – a film női főszereplője, Bánovits Vivianne a Mandinernek",
+        "txtlength": 15715
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20210809/enyhult-vegre-a-pusztito-inflacio-magyarorszagon-az-ev-vegen-johet-a-feketeleves-495530",
+        "h1": "Enyhült végre a pusztító infláció Magyarországon? Az év végén jöhet a feketeleves",
+        "txtlength": 14826
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/egeszseg/szemfenek-vizsgalat-mit-mutat-ki/",
+        "h1": "Mikor van szükség szemfenékvizsgálatra? Szemorvos sorolta fel a legfontosabb tudnivalókat",
+        "txtlength": 11843
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/lajfhekk/miert-nyalogat-a-kutya/",
+        "h1": "Miért nyalogat a kutya",
+        "txtlength": 6788
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kultura/2021/08/08/ismeretlen-budapest-angyalfold-bontas-aukcio-mosoly-utca-25-kartacs-utca-23-szecesszio/",
+        "h1": "Lebontanának egy szecessziós bérházat Angyalföldön",
+        "txtlength": 21594
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kultura/2021/08/08/dobray-sarolta-interju-uvegfal-gaslighting-bantalmazo-kapcsolat-regeny/",
+        "h1": "Elsírta magát a lány, amikor évek után először nem csak háromezerért tankolhatott a kocsijába, ahogy a pasija megengedte",
+        "txtlength": 20189
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/08/09/a-het-amikor-talan-semmi-nem-tortenik",
+        "h1": "A hét, amikor talán semmi nem történik",
+        "txtlength": 17866
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/fn/gazdasag/2021/08/09/46-millios-bukta-kimaxolt-lakastamogatasok-nem-szuletik-gyerek/",
+        "h1": "Akár 46 milliót is bukhatunk a lakástámogatással, ha nem születik gyerek",
+        "txtlength": 17046
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/sport/20210808_karanten_koronavirus_tokio2020_olimpia",
+        "h1": "„Magasról tettek az egészre” – ilyen volt a karantén az olimpián",
+        "txtlength": 15847
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kulfold/2021/08/09/utazas-nyaralas-tengerpart-vedettsegi-igazolvany-hatar",
+        "h1": "Nem most kell Horvátországba menni, mégis megyünk",
+        "txtlength": 14508
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/belfold/2021/08/08/hajlektalansag-allami-gondozottak-gyori-peter-februar-harmadika-felmeres",
+        "h1": "Ha állami gondozott vagy, jó eséllyel előbb-utóbb az utcán kötsz ki",
+        "txtlength": 13343
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/08/08/a-19-20-szazadi-magyar-irodalom-legnagyobbjaitol-tesznek-elerhetove-torteneti-forrasanyagokat",
+        "h1": "A 19-20. századi magyar irodalom legnagyobbjaitól tesznek elérhetővé történeti forrásanyagokat",
+        "txtlength": 12563
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/hvgkonyvek/20210808_Hogyan_juthatunk_kompromisszumra_egy_parazs_vitaban",
+        "h1": "Hogyan juthatunk kompromisszumra egy parázs vitában?",
+        "txtlength": 12347
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/idojaras-elorejelzes-hidegfront-hoseg-augusztus-8-vasarnap/grkeypw",
+        "h1": "Időjárás: átrobog a hidegfront, ami pedig utána jön, arra senki nincs felkészülve",
+        "txtlength": 10234
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20210808_vizilabda_valogatott_bronzerem_tokio2020",
+        "h1": "Nagy Viktor a bronzmeccs után: Sok sportpszichológus megirigyelte volna, amit tegnap együtt alkottunk",
+        "txtlength": 9780
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/politika/barandy-peter-volt-egyszer-egy-politikus-ketharmad-jogallam-ellenzek/m6erqkr?sl_ps=d_5",
+        "h1": "A volt igazságügyi miniszter szerint felülírható a jog: Bárándy Péter úgy gondolja, lehet kétharmados többsége az ellenzéknek",
+        "txtlength": 9598
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/eszkombajn/2021/08/09/fogmosas-egyesult-allamok-veteranok-hadsereg-masodik-vilaghaboru",
+        "h1": "Tényleg a második világháborús veteránok terjesztették el Amerikában a fogmosást?",
+        "txtlength": 8539
+    },
+    {
         "hostname": "mindmegette.hu",
         "pagelink": "https://www.mindmegette.hu/feher-korozottes-kepviselofank-ahogy-megyeri-csilla-kesziti.recept",
         "h1": "FEHÉR KÖRÖZÖTTES KÉPVISELŐFÁNK, AHOGY MEGYERI CSILLA KÉSZÍTI",
