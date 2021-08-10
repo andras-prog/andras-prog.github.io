@@ -1,5 +1,191 @@
 [
     {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/hagyomanyos-lebbencsleves-egyszeruen.recept",
+        "h1": "HAGYOMÁNYOS LEBBENCSLEVES",
+        "txtlength": 11954
+    },
+    {
+        "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/kinai-teszta-ahogy-bufeben-keszul",
+        "h1": "Kínai tészta, ahogy a büfében készül",
+        "txtlength": 10789
+    },
+    {
+        "hostname": "kiszamolo.hu",
+        "pagelink": "https://kiszamolo.hu/nem-jott-meg-az-oltasi-igazolas-hasznald-az-uniosat/",
+        "h1": "Nem jött meg az oltási igazolás? Használd az uniósat",
+        "txtlength": 22781
+    },
+    {
+        "hostname": "alapblog.hu",
+        "pagelink": "https://alapblog.hu/olvasoink-kerdeztek-valaszolunk-jegybankok-kuzdelme-az-inflacio-ellen/",
+        "h1": "OLVASÓINK KÉRDEZTÉK, VÁLASZOLUNK – JEGYBANKOK KÜZDELME AZ INFLÁCIÓ ELLEN",
+        "txtlength": 17048
+    },
+    {
+        "hostname": "kulturpart.hu",
+        "pagelink": "https://kulturpart.hu/2021/07/27/kulonleges_installaciot_keszit_havadtoy_samuel",
+        "h1": "MAGYAR VILÁGSZTÁR A VÁRBAN",
+        "txtlength": 5127
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/kozelet/20210809/az-oltasok-sem-mentik-meg-a-vilaggazdasagot-az-idoszakos-lassulastol-mostanra-tul-lehetunk-a-novekedesi-csucson/",
+        "h1": "Az oltások sem mentik meg a világgazdaságot az időszakos lassulástól, mostanra túl lehetünk a növekedési csúcson",
+        "txtlength": 25110
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/kozelet/20210810/miert-nem-alkalmazott-az-etelfutar-ha-tobb-jel-szerint-is-annak-tunik/",
+        "h1": "Miért nem alkalmazott az ételfutár, ha több jel szerint is annak tűnik?",
+        "txtlength": 21047
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210804_a_jogallamisag_a_birodalmi_kancellaria_szerint",
+        "h1": "A jogállamiság a birodalmi kancellária szerint – újabb brüsszeli eszköz a központosítás érdekében",
+        "txtlength": 18259
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/otthon/20210807/horrorhangyak-undorito-csotanyok-lepik-el-magyar-otthonokat-egy-vagyon-kiirtani-oket-1116741",
+        "h1": "Horrorhangyák, undorító csótányok lepik el magyar otthonokat: egy vagyon kiirtani őket",
+        "txtlength": 17500
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210805_cseh_katalin_momentum_feljelentes_nyomozas_nav_orfk_pannonia_nyomda_kft",
+        "h1": "A NAV kezében a döntés, indul-e nyomozás Cseh Katalin ügyében",
+        "txtlength": 16905
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20210810/igy-szabotalja-el-sajat-jovojet-az-emberiseg-par-even-beluli-pokoli-hellye-valhat-a-fold-495868",
+        "h1": "Így szabotálja el saját jövőjét az emberiség: pár éven belüli pokoli hellyé válhat a Föld",
+        "txtlength": 16453
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2021/08/10/hol-a-hatara-az-emberi-agy-befogadokepessegnek",
+        "h1": "HOL A HATÁRA AZ EMBERI AGY BEFOGADÓKÉPESSÉGNEK?",
+        "txtlength": 16328
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210806_ujpest_fidesz_deri_tibor_szocialis_berlakas",
+        "h1": "Továbbra is tisztázatlan az újpesti szociális bérlakások ügye, a Fidesz magyarázatot vár",
+        "txtlength": 15782
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/gyerek/iskolakezdesi-tamogatas-2021/",
+        "h1": "Így kaphattok több tízezer forintos iskolakezdési támogatást: mutatjuk a részleteket",
+        "txtlength": 15632
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/global/20210809/osszeomlas-szelen-afganisztan-sorra-hoditjak-meg-a-nagyvarosokat-a-talibok-495814",
+        "h1": "Összeomlás szélén Afganisztán: sorra hódítják meg a nagyvárosokat a tálibok",
+        "txtlength": 14808
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/gazdasag/20210806/tortenelmi-csucs-a-budapesti-tozsden-ilyen-magasan-meg-sosem-jart-a-bux-1116796",
+        "h1": "Történelmi csúcs a budapesti tőzsdén: ilyen magasan még sosem járt a BUX",
+        "txtlength": 14059
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20210809/matolcsy-gyorgy-szerint-egyre-nagyobb-egy-eros-penzugyi-valsag-veszelye-495804",
+        "h1": "Matolcsy György szerint egyre nagyobb egy erős pénzügyi válság veszélye",
+        "txtlength": 13853
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/szuloseg/nem-akarok-gyereket/",
+        "h1": "nő nem akar gyereket",
+        "txtlength": 12659
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/08/09/a-legnagyobb-messi-barcelonaban",
+        "h1": "A legnagyobb: Messi Barcelonában",
+        "txtlength": 21539
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/08/10/a-nagy-sinopharm-beismeres",
+        "h1": "A nagy Sinopharm-beismerés",
+        "txtlength": 17754
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/elet/20210806_Barukh_Onjelolt_kolto_interju",
+        "h1": "Barukh: Amikor Szájer József lógott az ereszcsatornán, nem tudtam nem az esendő embert látni",
+        "txtlength": 16749
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/tudomany/2021/08/09/ipcc-hatodik-jelentes-klimavaltozas-globalis-felmelegedes/",
+        "h1": "Megmérgezte a Földet az emberiség",
+        "txtlength": 14860
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/krimi/exnyomozo-regi-bunugyek-sirfeltoresek-batthyany-csalad/t201hsc?sl_ps=d_3",
+        "h1": "Sírrablók, akik a Batthyány család kriptáját is feltörték – Egy magyar exnyomozó vallomásai",
+        "txtlength": 14224
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/belfold/2021/08/10/melegellenes-torveny-vegrehajtasi-rendelet-konyvesboltok",
+        "h1": "Fóliázni kéne a világirodalom egy részét? Értelmezhetetlen, mit vár el a kereskedőktől a melegellenes törvény",
+        "txtlength": 14056
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kultura/2021/08/09/ismeretlen-budapest-szepiras-iskola-jozsef-korut-31-b-fo-utca-49-vajda-pal/",
+        "h1": "Egy századfordulós iskola tábláját rejti egy vízivárosi ház folyosója",
+        "txtlength": 14013
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/sport/20210809_Konicsiva_Tokio_igy_kellett_kitolteni_a_kerdoivunket_es_igy_tettek_ezt_olvasoink",
+        "h1": "Konicsivá Tokió: így kellett kitölteni a kérdőívünket, és így tették ezt olvasóink",
+        "txtlength": 13482
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/tudomany/2021/08/10/mehlegelo-toklasz-beporzo-varos-park/",
+        "h1": "Mi a baj a budapesti méhlegelőkkel?",
+        "txtlength": 13050
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/gazdasag/20210810_inflacio_arak_dragulas",
+        "h1": "Elszállt a lakásfelújítás és a benzin ára, 4,6 százalékos az infláció",
+        "txtlength": 11251
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/sztarvilag/kultura/karasz-ilonka-the-new-yorker-cimlap-ujsagmuzeum/z59lwt0",
+        "h1": "Egy magyar, akit Amerikában korszakos zseniként ismertek",
+        "txtlength": 10512
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/tech/2021/08/10/ilyen-szep-kepe-hangfalnak-meg-sose-volt",
+        "h1": "Ilyen szép képe hangfalnak még sose volt",
+        "txtlength": 10459
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kulfold/2021/08/09/gorogorszag-tuz-erdotuzek-oltas-tuzolto-eu-segitseg",
+        "h1": "Görög erdőtüzek: „Élve fogunk elégni!”",
+        "txtlength": 10225
+    },
+    {
         "hostname": "nosalty.hu",
         "pagelink": "https://www.nosalty.hu/recept/klasszikus-szilvas-gomboc",
         "h1": "Klasszikus szilvás gombóc",
