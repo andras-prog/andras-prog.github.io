@@ -1,6 +1,186 @@
 [
     {
         "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/lisztmentes-diotorta.recept",
+        "h1": "LISZTMENTES DIÓTORTA",
+        "txtlength": 11118
+    },
+    {
+        "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/kelkaposzta-fozelek-regiesen",
+        "h1": "Kelkáposzta-főzelék régiesen",
+        "txtlength": 10384
+    },
+    {
+        "hostname": "hataratkelo.blog.hu",
+        "pagelink": "https://hataratkelo.blog.hu/2021/08/07/milyen_jogai_vannak_az_ausztriai_idenymunkasoknak",
+        "h1": "Milyen jogai vannak az ausztriai idénymunkásoknak?",
+        "txtlength": 59713
+    },
+    {
+        "hostname": "kulturpart.hu",
+        "pagelink": "https://kulturpart.blog.hu/2021/08/04/hallomasok_es_latomasok_vendegunk_moondog",
+        "h1": "HALLOMÁSOK ÉS LÁTOMÁSOK – VENDÉGÜNK: MOONDOG",
+        "txtlength": 4365
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2021/08/11/radikalis-valtoztatasokkal-meg-elkerulhetjuk-a-katasztrofat-de-ha-nem-sikerul-elhetetlen-pokolla-valik-a-fold",
+        "h1": "RADIKÁLIS VÁLTOZTATÁSOKKAL MÉG ELKERÜLHETJÜK A KATASZTRÓFÁT, DE HA NEM SIKERÜL, ÉLHETETLEN POKOLLÁ VÁLIK A FÖLD",
+        "txtlength": 23158
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20210810/9-egzotikus-uti-cel-amely-tart-karokkal-varja-a-nyaralokat-a-feher-homokos-tengerpartjara-a-jarvany-alatt-is-495082",
+        "h1": "9 egzotikus úti cél, amely tárt karokkal várja a nyaralókat a fehér homokos tengerpartjára a járvány alatt is",
+        "txtlength": 20534
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210828_az_ellenzek_a_hatarontuli_magyarokkal_kapcsolatban_egyet_lep_elore_kettot_hatra_bagi_barna_a_mandinernek",
+        "h1": "„Az ellenzék a határontúli magyarokkal kapcsolatban egyet lép előre, kettőt hátra” – Bagi Barna a Mandinernek",
+        "txtlength": 17923
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210811_macron_franciaorszag_oltas_negyedik_hullam_tuntetes",
+        "h1": "Negyedik hullám és oltásellenesség: kétfrontos háború vár Macronra",
+        "txtlength": 17127
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20210811/alibifoci-miert-nem-csokken-a-korai-iskolaelhagyok-szama-magyarorszagon-495794",
+        "h1": "Alibifoci: miért nem csökken a korai iskolaelhagyók száma Magyarországon?",
+        "txtlength": 16893
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/global/20210811/a-semmibol-tor-elore-az-ujabb-sztarpolitikus-veget-erhet-nemetorszag-legregebbi-partjanak-vesszofutasa-495832",
+        "h1": "A semmiből tör előre az újabb sztárpolitikus - Véget érhet Németország legrégebbi pártjának vesszőfutása?",
+        "txtlength": 16400
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210811_boros_imre_a_globalis_eroket_kiszolgalo_baloldal_nem_partolja_az_adocsokkentest",
+        "h1": "Boros Imre: Nincs baloldal, csak a globális erők helytartóiról beszélhetünk",
+        "txtlength": 16189
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/adat/20210811/a-legmeglepobb-dolgot-tette-a-magyar-gyermekvallalasi-kedvvel-a-jarvany-semmit/",
+        "h1": "A legmeglepőbb dolgot tette a magyar gyermekvállalási kedvvel a járvány: semmit",
+        "txtlength": 15964
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/vasarlas/20210806/igy-dozsol-a-magyar-elit-kepesek-ennyit-kifizetni-egy-rantotthusert-az-orszag-csucsettermeiben-rantotthus-dining-guide-1116762",
+        "h1": "Így dőzsöl a magyar elit: képesek ennyit kifizetni egy rántotthúsért az ország csúcséttermeiben",
+        "txtlength": 14899
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/elet/20210809/az-eremtablazat-alapjan-csak-egyszer-zartunk-ennel-rosszabb-olimpiat-de-ez-is-bizakodasra-ad-okot/",
+        "h1": "Az éremtáblázat alapján csak egyszer zártunk ennél rosszabb olimpiát, de ez is bizakodásra ad okot",
+        "txtlength": 14778
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/gazdasag/20210809/kritikus-a-helyzet-a-magyar-gyumolcsosoknel-ennek-sok-vasarlo-nem-fog-orulni-1116791",
+        "h1": "Kritikus a helyzet a magyar gyümölcsösöknél: ennek sok vásárló nem fog örülni",
+        "txtlength": 14085
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/fogyokura/1500-kalorias-mintaetrend/",
+        "h1": "Nem éhezel, mégis folyamatosan fogysz: 1500 kalóriás diéta egyhetes mintaétrenddel",
+        "txtlength": 11753
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/lajfhekk/miert-almosit-az-olvasas/",
+        "h1": "Miért álmosít az olvasás",
+        "txtlength": 6204
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/komplex/2021/08/10/bulinegyed-belvaros-budapest-szorakozohelyek-szorakozas-ejszakai-elet",
+        "h1": "\n      Épp most alakul át a fővárosi éjszakai élet, de ez hosszabb távon még jót is tehet\n    ",
+        "txtlength": 43618
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://qubit.hu/2021/08/11/radikalis-valtoztatasokkal-meg-elkerulhetjuk-a-katasztrofat-de-ha-nem-sikerul-elhetetlen-pokolla-valik-a-fold",
+        "h1": "RADIKÁLIS VÁLTOZTATÁSOKKAL MÉG ELKERÜLHETJÜK A KATASZTRÓFÁT, DE HA NEM SIKERÜL, ÉLHETETLEN POKOLLÁ VÁLIK A FÖLD",
+        "txtlength": 22668
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/szorakozas/2021/08/10/charlie-sheen-karrier-ket-pasi-meg-egy-kicsi-drog-alkohol-pornoszineszno/",
+        "h1": "„Csak azért lógott pornós lányokkal, mert azt hitte, ők is boldogtalanok” – 10 éve felejtette el a világ a tigrisvérű Charlie Sheent",
+        "txtlength": 22595
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/tech/2021/08/11/trustchain-hiventures-minositett-e-alairas-hamis-szemelyazonossag-teszt",
+        "h1": "Simán létrehoztunk egy hamis személyazonosságot egy e-aláírást kínáló magyar startup felületén",
+        "txtlength": 19338
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/sport/2021/08/11/az-nba-legsotetebb-pillanatat-eleveniti-fel-a-netflix-uj-dokumentumfilmje",
+        "h1": "Az NBA legsötétebb pillanatait eleveníti fel a Netflix új dokumentumfilmje",
+        "txtlength": 17869
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/kultura/20210806_Barukh_Onjelolt_kolto_interju",
+        "h1": "Barukh: Amikor Szájer József lógott az ereszcsatornán, nem tudtam nem az esendő embert látni",
+        "txtlength": 16155
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/08/10/az-emberek-felelmeire-epitettek-es-evtizedekig-hirdettek-hogy-isten-segitsegevel-megvaltoztathato-a-szexualis-orientacio",
+        "h1": "Az emberek félelmeire építettek, és évtizedekig hirdették, hogy Isten segítségével megváltoztatható a szexuális orientáció",
+        "txtlength": 16131
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/elet/20210810_tisza_tavi_kilatok_bekatutaj_tiszato_latnivalo",
+        "h1": "„Mindig halálos veszély leselkedett ránk. Jó kaland volt” – Különleges látványosságot építettek a Tisza-tavon",
+        "txtlength": 14964
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20210811_attanito_tanar_pedagogus_kozoktatas_tanarhiany",
+        "h1": "Muszájból ingáznak a tanárok a falusi iskolák között, és igazán senki nem jár jól vele",
+        "txtlength": 14616
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kulfold/2021/08/11/szijjarto-peter-mongolia-repules-airbus-hm-falcon-lelegeztetogep/",
+        "h1": "„Sok cuccot nem kell vinnünk” – mondta Szijjártó, mégis három gép repült Mongóliába",
+        "txtlength": 10767
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/eberkoma-edesanya-volt-ferj-gyerektartast-kovetel/qzz4zp9",
+        "h1": "Hogy hozhatott ilyen ítéletet a bíróság?! Gyerektartást kell fizetnie a kómában fekvő anyának",
+        "txtlength": 9854
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2021/08/10/prostitucio-miskolc-turelmi-zona/",
+        "h1": "Miskolcon minimum ötszáz lány dolgozik, és abból csak hárman állunk itt a türelmi zónában",
+        "txtlength": 9848
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/krimi/gyerekgyilkossag-csaladirtas-kivegzes-halal-lorinci-rem/ecrjr9b?sl_ps=d_3",
+        "h1": "Baltával végezte ki 8 éves ikerfiait P. József, a lőrinci rém – 33 év után szólalt meg a Blikknek a gyászoló anya",
+        "txtlength": 9675
+    },
+    {
+        "hostname": "mindmegette.hu",
         "pagelink": "https://www.mindmegette.hu/hagyomanyos-lebbencsleves-egyszeruen.recept",
         "h1": "HAGYOMÁNYOS LEBBENCSLEVES",
         "txtlength": 11954
