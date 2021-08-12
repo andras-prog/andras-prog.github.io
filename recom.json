@@ -1,6 +1,192 @@
 [
     {
         "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/paprikas-krumpli-roppanos-virslivel.recept",
+        "h1": "PAPRIKÁS KRUMPLI ROPPANÓS VIRSLIVEL",
+        "txtlength": 10482
+    },
+    {
+        "hostname": "kiszamolo.hu",
+        "pagelink": "https://kiszamolo.hu/szeptember-egytol-valtozas-az-aramszolgaltatasban/",
+        "h1": "Szeptember egytől változás az áramszolgáltatásban",
+        "txtlength": 19254
+    },
+    {
+        "hostname": "alapblog.hu",
+        "pagelink": "https://alapblog.hu/az-energia-kereskedelem-zold-energia-es-uj-piaci-megoldasok/",
+        "h1": "AZ ENERGIAKERESKEDELEM: ZÖLD ENERGIA ÉS ÚJ PIACI MEGOLDÁSOK",
+        "txtlength": 9185
+    },
+    {
+        "hostname": "kulturpart.hu",
+        "pagelink": "https://kulturpart.blog.hu/2021/08/11/makamak_avagy_az_allando_atalakulas",
+        "h1": "MAKÁMÁK, AVAGY AZ ÁLLANDÓ ÁTALAKULÁS",
+        "txtlength": 4505
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210812_miklos_lukacs_de_pereny",
+        "h1": "Ne kezdjen az ember istent játszani! – Miklos Lukacs de Pereny a Mandinernek",
+        "txtlength": 29337
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210812_vhk_grandpierre_attila_a_mandinernek",
+        "h1": "Aki hadat üzent a tunyaságnak – Grandpierre Attila a Mandinernek",
+        "txtlength": 25927
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vallalat/20210812/felfoghatatlan-kinai-sztori-200-millio-negyzetmeter-ingatlana-van-de-rohan-a-csod-fele/",
+        "h1": "Felfoghatatlan kínai sztori: 200 millió négyzetméter ingatlana van, de rohan a csőd felé",
+        "txtlength": 24775
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/global/20210812/hatalmas-durranassal-ter-vissza-az-efott-ket-ev-utan-ujra-tobb-ezer-ember-bulizhat-egyutt-496210",
+        "h1": "Hatalmas durranással tér vissza az EFOTT, két év után újra több ezer ember bulizhat együtt",
+        "txtlength": 23539
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210805_esterhazy_csataja_eszterhaza_ellen",
+        "h1": "Sógorok és ellendrukker magyarok: Esterházy csatája Eszterháza ellen",
+        "txtlength": 23083
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20210812/rendkivuli-ev-utan-uj-szakasz-elott-a-magyar-maganegeszsegugy-496040",
+        "h1": "Rendkívüli év után, új szakasz előtt a magyar magánegészségügy",
+        "txtlength": 23042
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/global/20210812/ismet-elokerultek-a-machetek-puskaporos-helyzet-alakulhat-ki-a-mai-zambiai-elnokvalasztas-utan-496160",
+        "h1": "Ismét előkerültek a macheték – Puskaporos helyzet alakulhat ki a mai zambiai elnökválasztás után",
+        "txtlength": 19624
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vilag/20210811/az-amerikaiak-fuldokolnak-a-diakhitelektol/",
+        "h1": "Az amerikaiak fuldokolnak a diákhitelektől",
+        "txtlength": 19101
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/hitel/20210808/rengeteg-magyar-fiatal-csuszhat-le-vegleg-az-ingyenmilliokrol-az-utolso-percben-jarnak-1116784",
+        "h1": "Rengeteg magyar fiatal csúszhat le végleg az ingyenmilliókról: az utolsó percben járnak?",
+        "txtlength": 17565
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/megtakaritas/20210808/itt-vehet-hazat-a-balatonnal-az-otoslotto-ujdonsult-milliardosa-befektetesnek-sem-utolso-1116820",
+        "h1": "Itt vehet házat a Balatonnál az Ötöslottó újdonsült milliárdosa: befektetésnek sem utolsó",
+        "txtlength": 16685
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2021/08/12/tenyleg-elpusztitja-az-emberiseget-a-mesterseges-intelligencia",
+        "h1": "TÉNYLEG ELPUSZTÍTJA AZ EMBERISÉGET A MESTERSÉGES INTELLIGENCIA?",
+        "txtlength": 15821
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/egeszseg/diabeteszes-retinopatia/",
+        "h1": "A cukorbetegség gyakori, súlyos szövődménye: akár vaksághoz is vezethet a diabéteszes retinopátia",
+        "txtlength": 13844
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/testem/szexi-vonzo-aputest/",
+        "h1": "Aputest – 100 nőt kérdeztek meg, szexinek tartják-e",
+        "txtlength": 12363
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/lajfhekk/repulo-ablakai/",
+        "h1": "Repülő ablakai",
+        "txtlength": 6267
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/belfold/2021/08/12/orban-kulpolitika-keleti-nyitas-vakcinabeszerzes-kina-oroszorszag-sinopharm-mozgaster-befolyas-eu-brusszel-usa-szovetseg-hintapolitika-pavatanc",
+        "h1": "Orbán hintapolitikával növelné a mozgásterét. De sikerült?",
+        "txtlength": 22945
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kulfold/2021/08/11/franciaorszag-emmanuel-macron-kotelezo-oltas-vakcina-delta-varians-koronavirus-vedettseg",
+        "h1": "Covid-igazolvány nélkül már nem lehet beülni egy kávéra vagy croissant-ra Franciaországban",
+        "txtlength": 19950
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://rangado.24.hu/magyar_foci/2021/08/11/bajnokok-ligaja-ferencvaros-peter-stoger/",
+        "h1": "Peter Stöger bebizonyította, van élet Rebrov után is",
+        "txtlength": 19671
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/nevertek/2021/08/12/metaverzum-adat-kapitalizmus",
+        "h1": "Mindenki a Metaverzumra készül, az adatkapitalisták álma hamarosan valósággá válhat",
+        "txtlength": 17365
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/elet-stilus/2021/08/11/anita-bryant-melegellenes-aktivista-unoka-sarah-green-leszbikus/",
+        "h1": "A homofóbia nagyasszonya, Anita Bryant, akinek leszbikus lett az unokája",
+        "txtlength": 17079
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/08/11/egy-elhagyott-tabletbol-derult-feny-libiai-orosz-zsoldosok-titkaira",
+        "h1": "Egy elhagyott tabletből derült fény líbiai orosz zsoldosok titkaira",
+        "txtlength": 16807
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://qubit.hu/2021/08/12/tenyleg-elpusztitja-az-emberiseget-a-mesterseges-intelligencia",
+        "h1": "TÉNYLEG ELPUSZTÍTJA AZ EMBERISÉGET A MESTERSÉGES INTELLIGENCIA?",
+        "txtlength": 15838
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/elet/20210810_olimpia_tokio2020_zaras",
+        "h1": "Tokióban minden pillanatban éreztük, hogy ez nagyon messze van a normálistól",
+        "txtlength": 12599
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2021/08/12/velence-velencei-to-kiszaradas-halpusztulas/",
+        "h1": "Rövid távon az eső, hosszú távon csak a kormány tudja megmenteni a Velencei-tavat",
+        "txtlength": 12474
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/sztarvilag/kultura/pataki-ferenc-fejszamolo-muvesz-elete-halala/fr339m4",
+        "h1": "Megjárta a poklok poklát a magyar fejszámoló művész – A zseni, akit az RTL Klub tehetségkutatójában ismert meg végül az egész ország",
+        "txtlength": 11547
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/elet/20210811_Gorogorszag_erdotuzek_kepgaleria",
+        "h1": "A pokol látomása: a görögországi erdőtüzek egy élhetetlen jövőt tárnak elénk",
+        "txtlength": 11235
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/gazdasag/20210811_szemelyi_jovedelemado_ado_szja",
+        "h1": "Mi történne a gazdaságunkkal, ha eltörölnék a személyi jövedelemadót?",
+        "txtlength": 11203
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/rakos-no-rokkantsag-nyugdij-kegyetlen-torveny/f83lnv4?sl_ps=d_4",
+        "h1": "Kegyetlen törvény: nem számít, hogy Zsuzsa rokkant – Túl beteg volt, hogy dolgozzon, nem jár a nyugdíj",
+        "txtlength": 10120
+    },
+    {
+        "hostname": "mindmegette.hu",
         "pagelink": "https://www.mindmegette.hu/lisztmentes-diotorta.recept",
         "h1": "LISZTMENTES DIÓTORTA",
         "txtlength": 11118
