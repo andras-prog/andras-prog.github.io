@@ -1,6 +1,198 @@
 [
     {
         "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/malnas-crumble-glutenmentesen.recept",
+        "h1": "MÁLNÁS CRUMBLE GLUTÉNMENTESEN",
+        "txtlength": 10837
+    },
+    {
+        "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/lecso-telire-tartositoszer-mentes",
+        "h1": "Lecsó télire - tartósítószer mentes",
+        "txtlength": 10536
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/daralt-hussal-toltott-cukkinihajok.recept",
+        "h1": "DARÁLT HÚSSAL TÖLTÖTT CUKKINIHAJÓK",
+        "txtlength": 10141
+    },
+    {
+        "hostname": "kulturpart.hu",
+        "pagelink": "https://kulturpart.blog.hu/2021/08/13/k_mint_korea_452",
+        "h1": "K, MINT KOREA",
+        "txtlength": 14513
+    },
+    {
+        "hostname": "kiszamolo.hu",
+        "pagelink": "https://kiszamolo.hu/meg-egy-szakdolgozat-kerdoiv/",
+        "h1": "Még egy szakdolgozat kérdőív",
+        "txtlength": 6970
+    },
+    {
+        "hostname": "alapblog.hu",
+        "pagelink": "https://alapblog.hu/heti-osszefoglalo-20210809/",
+        "h1": "HETI ÖSSZEFOGLALÓ – 2021.08.09.",
+        "txtlength": 6068
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20210813/steiner-attila-ellenezzuk-az-unios-kvotakereskedelem-kiterjeszteset-az-epuletekre-es-a-kozuti-kozlekedesre-496336",
+        "h1": "Steiner Attila: ellenezzük az uniós kvótakereskedelem kiterjesztését az épületekre és a közúti közlekedésre",
+        "txtlength": 28985
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/egeszseg/20210813/tobb-mint-100-ezer-forint-jarhat-evente-ezert-sok-szulo-nem-tud-rola-igy-kell-igenyelni-1116910",
+        "h1": "Több mint 100 ezer forint járhat évente ezért: sok szülő nem tud róla, így kell igényelni",
+        "txtlength": 23377
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.penzcentrum.hu/egeszseg/20210813/tobb-mint-100-ezer-forint-jarhat-evente-ezert-sok-szulo-nem-tud-rola-igy-kell-igenyelni-1116910",
+        "h1": "Több mint 100 ezer forint járhat évente ezért: sok szülő nem tud róla, így kell igényelni",
+        "txtlength": 23298
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210811_fagyihaboru_a_kozel_keleten",
+        "h1": "Fagyiháború a Közel-Keleten",
+        "txtlength": 22536
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20210812/asz-elnok-el-kellene-halasztani-allami-beruhazasokat-hogy-biztosan-csokkenjen-ev-vegen-az-adossagrata-496348",
+        "h1": "ÁSZ-elnök: el kellene halasztani állami beruházásokat, hogy biztosan csökkenjen év végén az adósságráta",
+        "txtlength": 20910
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210728_az_amerikai_jobboldal_csodalattal_tekint_magyarorszagra",
+        "h1": "Az amerikai jobboldal csodálattal tekint Magyarországra",
+        "txtlength": 20026
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/nyugdij/20210811/felfalta-az-inflacio-a-nyugdijemelest-ennyit-dragult-az-idosek-elete-par-honap-alatt-1116879",
+        "h1": "Felfalta az infláció a nyugdíjemelést: ennyit drágult az idősek élete pár hónap alatt",
+        "txtlength": 18221
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210812_tobbszorosen_elitelt_egykori_antirasszista_romavezetovel_erositene_az_ellenzeken_gyurcsany",
+        "h1": "Többszörösen elítélt egykori antirasszista roma vezetővel „erősítene” az ellenzéken Gyurcsány",
+        "txtlength": 16665
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/adat/20210813/soha-nem-fogyasztottunk-otthon-annyi-aramot-mint-tavaly/",
+        "h1": "Soha nem fogyasztottunk otthon annyi áramot, mint tavaly",
+        "txtlength": 15528
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/adat/20210812/peldatlan-adat-mutatja-milyen-mely-godorbe-kerult-a-magyar-oltasi-program/",
+        "h1": "Példátlan adat mutatja, milyen mély gödörbe került a magyar oltási program",
+        "txtlength": 15108
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/fogyokura/cukor-kiiktatasa/",
+        "h1": "Mi történik a testeddel, ha 30 napig nem eszel cukrot? Nem csak a zsigeri zsír tűnik el, ha kiiktatod",
+        "txtlength": 12109
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/szuloseg/penzugyi-neveles-gyerek/",
+        "h1": "gyerek pénzügyi nevelés",
+        "txtlength": 11539
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2021/08/12/lanyt-nevelni-olyan-mint-a-szomszed-kertjet-ontozni",
+        "h1": "„LÁNYT NEVELNI OLYAN, MINT A SZOMSZÉD KERTJÉT ÖNTÖZNI”",
+        "txtlength": 10914
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/belfold/2021/08/13/idovel-azert-utoler-mindenkit-a-sorsa-akar-25-ev-utan-is",
+        "h1": "Idővel azért minden gyilkost utolér a sorsa, akár 25 év után is",
+        "txtlength": 24398
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kulfold/2021/08/13/afganisztan-talibok-hoditas-usa-kivonulas-magyar-misszio",
+        "h1": "Összeomlás Afganisztánban: hetek alatt foglalták el a fél országot a tálibok",
+        "txtlength": 22998
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/kultura/20210812_Szilagyi_Aron_Muhi_Andras_Pires_egy_mindenkiert_interju",
+        "h1": "„Olyan volt, mint egy áramütés” – Szilágyi Áront ez a film doppingolta fel az olimpia előtt",
+        "txtlength": 18783
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/belfold/2021/08/12/rendorseg-traffipax-sebesseg-gyorshajtas-birsag-orfk-roadpol-veda-kamera-alapjarat",
+        "h1": "Szül a macskám, orvoshoz megyek – így próbálják kidumálni magukat a gyorshajtók a bírságból",
+        "txtlength": 16063
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/tudomany/2021/08/12/oltasellenesekbol-oltottak-koronavirus-covid-19-vakcina/",
+        "h1": "„Amikor az én korosztályom is hullani kezdett, gyorsan meggondoltam magam”",
+        "txtlength": 15575
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20210813_Nem_tudjak_mennyi_mutet_maradt_el_de_a_varolistak_hossza_jelzi",
+        "h1": "Nem tudják vagy titkolják, mennyi műtét maradt el, de a várólisták hossza aggasztó állapotra utal",
+        "txtlength": 13427
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kultura/2021/08/12/walter-yetnikoff-lemezipar-nekrolog-cbs/",
+        "h1": "Befuttatta Michael Jacksont, de elhitte magáról, hogy ő is rocksztár",
+        "txtlength": 13328
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/08/12/oteves-tervvel-vonnak-szigorubb-politikai-ellenorzes-ala-a-vilag-masodik-legnagyobb-gazdasagat",
+        "h1": "Ötéves tervvel vonnák szigorúbb politikai ellenőrzés alá a világ második legnagyobb gazdaságát",
+        "txtlength": 12523
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/elet/20210813_A_Balaton_a_mienk_es_azert_dolgozunk_hogy_orom_legyen_belole",
+        "h1": "„A Balaton a miénk, és azért dolgozunk, hogy öröm legyen belőle”",
+        "txtlength": 11700
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/08/13/orban-viktor-a-ferfias-erenyek-nincsenek-megbecsulve",
+        "h1": "Orbán Viktor: A férfias erények nincsenek megbecsülve",
+        "txtlength": 10731
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kultura/2021/08/12/barany-kritika-izlandi-film-noomi-rapace/",
+        "h1": "Isten áldásának tekintették a bárányfejű csecsemőt",
+        "txtlength": 10601
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/orban-viktor-interju-olimpia-ertekeles/l18vqzd?sl_ps=d_1",
+        "h1": "Orbán Viktor értékelte az olimpiát, de figyelmeztetett: veszélyes idők jönnek, észnél kell lenni",
+        "txtlength": 10300
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/sztarvilag/filmklikk/los-alamos-manhattan-projekt-tvr-he/y8015kb",
+        "h1": "Valami készül Los Alamosban: ezt mindenképp látnia kell",
+        "txtlength": 9459
+    },
+    {
+        "hostname": "mindmegette.hu",
         "pagelink": "https://www.mindmegette.hu/paprikas-krumpli-roppanos-virslivel.recept",
         "h1": "PAPRIKÁS KRUMPLI ROPPANÓS VIRSLIVEL",
         "txtlength": 10482
