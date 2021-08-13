@@ -1,80 +1,6 @@
 [
     {
-        "timestamp": 1628247627025,
-        "name": "Salátafőzelék fokhagymásan",
-        "lead": "Ha egy építész hibát vét, oda borostyánt ültet, hogy elfedje azt. Ha egy doktor hibát vét, arra a hibára a földet szórnak, hogy elfedjék azt. Ha a szakács vét hibát, elfedi egy kis mártással és azt mondja, itt egy új recept!",
-        "phrase": "saláta",
-        "link": "https://www.nosalty.hu/recept/salatafozelek-fokhagymasan",
-        "ingred": [
-            "fejessaláta",
-            "fokhagyma",
-            "liszt",
-            "olaj",
-            "ecet"
-        ]
-    },
-    {
-        "timestamp": 1628247627025,
-        "name": "Savanyú káposztás-babos egytál",
-        "lead": "A jó minőségű élelmiszer nem más, mint olcsó egészségbiztosítás.",
-        "phrase": "egytál",
-        "link": "https://www.nosalty.hu/recept/savanyu-kaposztas-babos-egytal",
-        "ingred": [
-            "savanyú káposzta",
-            "bab",
-            "sertéscomb",
-            "szalonna",
-            "olaj",
-            "hagyma",
-            "fokhagyma",
-            "ételízesítő"
-        ]
-    },
-    {
-        "timestamp": 1628247627025,
-        "name": "Lusta barackos-túrós süti",
-        "lead": "A terített asztal az egyetlen hely, ahol az ember az első órában soha se unatkozik.",
-        "phrase": "süti",
-        "link": "https://www.nosalty.hu/recept/lusta-barackos-turos-suti",
-        "ingred": [
-            "rétesliszt",
-            "sütőpor",
-            "porcukor",
-            "citrom",
-            "vaj",
-            "sárgabarack",
-            "vaníliás cukor",
-            "tej",
-            "tojás",
-            "túró"
-        ]
-    },
-    {
-        "timestamp": 1628247627025,
-        "name": "Cobb saláta",
-        "lead": "Az a legjobb és legfinomabb étel, amelyet éhségben is és egészségben is félelem nélkül fogyaszthatunk.",
-        "phrase": "saláta",
-        "link": "https://www.nosalty.hu/recept/cobb-salata",
-        "ingred": [
-            "fejessaláta",
-            "paradicsom",
-            "bacon",
-            "csirkemell",
-            "tojás",
-            "kéksajt",
-            "avokádó",
-            "snidling",
-            "víz",
-            "borecet",
-            "narancslé",
-            "worcestershire-szósz",
-            "mustár",
-            "fokhagyma",
-            "olívaolaj"
-        ]
-    },
-    {
-        "timestamp": 95557,
+        "timestamp": 1628852470316,
         "name": "Frankfurti leves Iluskától",
         "lead": "A jó minőségű élelmiszer nem más, mint olcsó egészségbiztosítás.",
         "phrase": "leves",
@@ -92,7 +18,7 @@
         ]
     },
     {
-        "timestamp": 96150,
+        "timestamp": 1628852470316,
         "name": "Resztelt csirkemáj",
         "lead": "Bármily egyszerű is az étel, a született szakácsot tévedhetetlenül föl lehet ismerni.",
         "phrase": "csirke",
@@ -107,7 +33,7 @@
         ]
     },
     {
-        "timestamp": 97945,
+        "timestamp": 1628852470316,
         "name": "Gofri - egyszerűen",
         "lead": "Az a legjobb és legfinomabb étel, amelyet éhségben is és egészségben is félelem nélkül fogyaszthatunk.",
         "phrase": "gofri",
@@ -121,7 +47,7 @@
         ]
     },
     {
-        "timestamp": 98629,
+        "timestamp": 1628852470316,
         "name": "Tárkonyos csirkeraguleves (Tárkonyos raguleves 3.)",
         "lead": "Elképesztően finom",
         "phrase": "leves",
@@ -3197,6 +3123,80 @@
             "tej",
             "liszt",
             "olaj"
+        ]
+    },
+    {
+        "timestamp": 1628247627025,
+        "name": "Salátafőzelék fokhagymásan",
+        "lead": "Ha egy építész hibát vét, oda borostyánt ültet, hogy elfedje azt. Ha egy doktor hibát vét, arra a hibára a földet szórnak, hogy elfedjék azt. Ha a szakács vét hibát, elfedi egy kis mártással és azt mondja, itt egy új recept!",
+        "phrase": "saláta",
+        "link": "https://www.nosalty.hu/recept/salatafozelek-fokhagymasan",
+        "ingred": [
+            "fejessaláta",
+            "fokhagyma",
+            "liszt",
+            "olaj",
+            "ecet"
+        ]
+    },
+    {
+        "timestamp": 1628247627025,
+        "name": "Savanyú káposztás-babos egytál",
+        "lead": "A jó minőségű élelmiszer nem más, mint olcsó egészségbiztosítás.",
+        "phrase": "egytál",
+        "link": "https://www.nosalty.hu/recept/savanyu-kaposztas-babos-egytal",
+        "ingred": [
+            "savanyú káposzta",
+            "bab",
+            "sertéscomb",
+            "szalonna",
+            "olaj",
+            "hagyma",
+            "fokhagyma",
+            "ételízesítő"
+        ]
+    },
+    {
+        "timestamp": 1628247627025,
+        "name": "Lusta barackos-túrós süti",
+        "lead": "A terített asztal az egyetlen hely, ahol az ember az első órában soha se unatkozik.",
+        "phrase": "süti",
+        "link": "https://www.nosalty.hu/recept/lusta-barackos-turos-suti",
+        "ingred": [
+            "rétesliszt",
+            "sütőpor",
+            "porcukor",
+            "citrom",
+            "vaj",
+            "sárgabarack",
+            "vaníliás cukor",
+            "tej",
+            "tojás",
+            "túró"
+        ]
+    },
+    {
+        "timestamp": 1628247627025,
+        "name": "Cobb saláta",
+        "lead": "Az a legjobb és legfinomabb étel, amelyet éhségben is és egészségben is félelem nélkül fogyaszthatunk.",
+        "phrase": "saláta",
+        "link": "https://www.nosalty.hu/recept/cobb-salata",
+        "ingred": [
+            "fejessaláta",
+            "paradicsom",
+            "bacon",
+            "csirkemell",
+            "tojás",
+            "kéksajt",
+            "avokádó",
+            "snidling",
+            "víz",
+            "borecet",
+            "narancslé",
+            "worcestershire-szósz",
+            "mustár",
+            "fokhagyma",
+            "olívaolaj"
         ]
     }
 ]
