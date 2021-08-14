@@ -1,5 +1,191 @@
 [
     {
+        "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/bacskai-rizses-hus",
+        "h1": "Bácskai rizses hús",
+        "txtlength": 10311
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/turos-teszta-hazi-teszta-tunderkonyha.recept",
+        "h1": "TÚRÓS TÉSZTA HÁZI TÉSZTÁBÓL",
+        "txtlength": 10245
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/mentes-langos-gluten-tej-tojas-cukor-szoja-elesztomentes.recept",
+        "h1": "MENTES LÁNGOS (GLUTÉN- ,TEJ-, TOJÁS-, CUKOR-, SZÓJA-, ÉS ÉLESZTŐMENTES)",
+        "txtlength": 9944
+    },
+    {
+        "hostname": "hataratkelo.blog.hu",
+        "pagelink": "https://hataratkelo.blog.hu/2021/08/13/ebed_a_hongkongi_repteren#c40844802",
+        "h1": "Ebéd a hongkongi reptéren",
+        "txtlength": 15985
+    },
+    {
+        "hostname": "hafr.hvgblog.hu",
+        "pagelink": "https://hafr.hvgblog.hu/2020/12/02/a_magyar_ellenzek_mint_piaci_kofa/",
+        "h1": "A magyar ellenzék mint piaci kofa",
+        "txtlength": 7922
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210814_skardelli_gyorgy_epiteszet",
+        "h1": "„A szerkezeti tisztaság a gondolati tisztaság lenyomata” – Skardelli György építész a Mandinernek",
+        "txtlength": 32988
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/krtk/20210813/unios-karbonvam-kulcsmegoldas-a-klimaharcban-vagy-egy-kereskedelmi-haboru-kezdete-496190",
+        "h1": "Uniós karbonvám: kulcsmegoldás a klímaharcban, vagy egy kereskedelmi háború kezdete?",
+        "txtlength": 26825
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210811_ismet_no_a_nyomas_migracios_merleg_jarvany_idejen",
+        "h1": "Járvány utáni nyitás – ismét nő a migrációs nyomás",
+        "txtlength": 21506
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210812_a_kozlekedes_mindenhol_fejtorest_okoz_a_varostervezoknek_justin_b_hollander_a_mandinernek",
+        "h1": "A közlekedés mindenhol fejtörést okoz a várostervezőknek – Justin B. Hollander a Mandinernek",
+        "txtlength": 20254
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/gazdasag/20210813/milyen-a-jo-penzugyi-rendszer-olcso-gyors-gordulekeny-1116880",
+        "h1": "Milyen a jó pénzügyi rendszer? Olcsó, gyors, gördülékeny",
+        "txtlength": 18005
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/otthon/20210809/18-milliardert-aruljak-a-legendas-magyar-horror-kastelyt-durva-dolgok-tortentek-itt-1116842",
+        "h1": "1,8 milliárdért árulják a legendás magyar horror kastélyt: durva dolgok történtek itt",
+        "txtlength": 17525
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/adat/20210814/hat-eve-nem-volt-ilyen-kegyetlen-a-nyar/",
+        "h1": "Hat éve nem volt ilyen kegyetlen a nyár",
+        "txtlength": 16768
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2021/08/14/az-uborkaszezon-legfenyesebben-ragyogo-sztarja-az-uborka",
+        "h1": "AZ UBORKASZEZON LEGFÉNYESEBBEN RAGYOGÓ SZTÁRJA: AZ UBORKA",
+        "txtlength": 16387
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/global/20210813/ijesztoen-gyors-lehet-magyarorszagon-a-klimavaltozas-20-30-ev-mulva-kritikus-szintre-emelkedhet-a-homerseklet-496194",
+        "h1": "Ijesztően gyors lehet Magyarországon a klímaváltozás: 20-30 év múlva kritikus szintre emelkedhet a hőmérséklet",
+        "txtlength": 16352
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/global/20210814/megis-hogy-a-fenebe-foglaltak-el-a-talib-lazadok-nehany-het-alatt-szinte-egy-egesz-orszagot-496502",
+        "h1": "Mégis hogy a fenébe foglaltak el a tálib lázadók néhány hét alatt szinte egy egész országot?",
+        "txtlength": 15497
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vallalat/20210813/jelzeserteku-hogy-a-nemet-lidl-napokon-belul-kannabiszizu-termekek-sorat-kezdi-el-arulni/",
+        "h1": "Jelzésértékű, hogy a német Lidl napokon belül kannabiszízű termékek sorát kezdi el árulni",
+        "txtlength": 13724
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/szepseg/dorothy-stratten/",
+        "h1": "Saját férje ölte meg a playmate-et, akit Marilyn Monroe utódjának tartottak: Dorothy Stratten megrázó története",
+        "txtlength": 11360
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/lajfhekk/levegotisztito-szobanovenyek/",
+        "h1": "Levegőtisztító szobanövények",
+        "txtlength": 4528
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kultura/2021/08/13/barack-obama-elnokseg-hbo-obama-a-tokeletes-egyseg-keresese-rasszizmus-amerika/",
+        "h1": "Obama mutatta meg, hogy a feketék sem csak rapperként vagy kosarasként vihetik sokra",
+        "txtlength": 20438
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/english/2021/08/13/dutch-ambassador-rene-van-hell-interview",
+        "h1": "Dutch ambassador to Hungary: The anti-LGBTQ-law causes anguish in Hungarian families",
+        "txtlength": 19931
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/vilag/20210813_Mi_a_franc_folyik_Afganisztanban",
+        "h1": "Dezső András: Mi a franc folyik Afganisztánban?",
+        "txtlength": 19584
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kulfold/2021/08/13/lengyelorszag-fuggetlen-media-sajtoszabadsag-lex-tvn-kormanyvalsag-kaczinsky",
+        "h1": "Egy hét alatt feje tetejére állt a lengyel politika",
+        "txtlength": 17427
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kulfold/2021/08/14/afganisztan-talibok-polgarhaboru-kivonulas-biden-trump-amerika/",
+        "h1": "Afganisztán: a magára hagyott ország",
+        "txtlength": 16710
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/belfold/2021/08/13/orban-gaspar-marki-zay-peter-fidesz-homofob-kampany-nepszavazas",
+        "h1": "Orbánra a családján keresztül próbálják visszafordítani a homofób kampányt",
+        "txtlength": 14842
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://qubit.hu/2021/08/14/az-uborkaszezon-legfenyesebben-ragyogo-sztarja-az-uborka",
+        "h1": "AZ UBORKASZEZON LEGFÉNYESEBBEN RAGYOGÓ SZTÁRJA: AZ UBORKA",
+        "txtlength": 14651
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/kultura/20210813_Egy_istenadta_tehetseg_Putyintetovalassal_a_mellkasan__Budapesten_tancol_Szergej_Polunyin",
+        "h1": "Egy istenadta tehetség Putyin-tetoválással a mellkasán – Budapesten táncol Szergej Polunyin",
+        "txtlength": 14522
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://olimpia2020.24.hu/olimpiai-hirek/2021/08/13/olimpia-2021-magyar-olimpiai-csapat-elemzes/",
+        "h1": "Most akkor jól vagy rosszul szerepeltünk Tokióban?",
+        "txtlength": 13890
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/08/14/szelsosegesen-csaladellenes-tamadassorozat-a-balatonnal",
+        "h1": "Szélsőségesen családellenes támadássorozat a Balatonnál",
+        "txtlength": 12808
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/villamcsapas-ketgyermekes-anya-katus-megmagyarazhatatlan-dolgok/nczz3dy?sl_ps=d_9",
+        "h1": "Visszatért a halálból a villámcsapott kétgyermekes anyuka – Katussal azóta földöntúli dolgok történnek",
+        "txtlength": 11261
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/politika/usa-kivonulas-afganisztan-harcok-taliban-fegyveresek-visszafoglal/1y58vfe",
+        "h1": "Tornádóként söpör végig Afganisztánon a Talibán: döbbenetes képeken az ország összeomlása, menekül mindenki, amerre lát",
+        "txtlength": 11000
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/tudomany/20210814_Egy_13_eves_kisvardai_hackerhez_jutott_el_a_rendorseg_amikor_adathalaszok_utan_nyomozott",
+        "h1": "Egy 13 éves kisvárdai hackerhez jutott el a rendőrség, amikor adathalászok után nyomozott",
+        "txtlength": 10780
+    },
+    {
         "hostname": "mindmegette.hu",
         "pagelink": "https://www.mindmegette.hu/malnas-crumble-glutenmentesen.recept",
         "h1": "MÁLNÁS CRUMBLE GLUTÉNMENTESEN",
