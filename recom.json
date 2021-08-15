@@ -1,5 +1,179 @@
 [
     {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/tiramisu-ahogy-denes-tamas-kesziti.recept",
+        "h1": "TIRAMISU, AHOGY DÉNES TAMÁS KÉSZÍTI",
+        "txtlength": 10514
+    },
+    {
+        "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/egyszeru-ciganypecsenye",
+        "h1": "Egyszerű cigánypecsenye",
+        "txtlength": 10217
+    },
+    {
+        "hostname": "hataratkelo.blog.hu",
+        "pagelink": "https://hataratkelo.blog.hu/2021/08/15/alaszka_a_csodalatos#c40846204",
+        "h1": "Alaszka, a csodálatos",
+        "txtlength": 17469
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210811_a_csucsminoseg_erkolcsi_kotelessegunk",
+        "h1": "A csúcsminőség erkölcsi kötelességünk – Szepsy István borász a Mandinernek",
+        "txtlength": 26260
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/otthon/20210812/itt-vesznek-most-tomegevel-csaladi-hazat-a-pestiek-videken-tudnak-valamit-1116902",
+        "h1": "Itt vesznek most tömegével családi házat a pestiek vidéken: tudnak valamit?",
+        "txtlength": 21784
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vilag/20210815/az-amazonas-pusztulasat-okozo-regi-problemak-megoldasara-nem-sok-esely-latszik/",
+        "h1": "Az Amazonas pusztulását okozó régi problémák megoldására nem sok esély látszik",
+        "txtlength": 19198
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/otthon/20210810/dul-a-harc-a-hazai-telepuleseken-durvan-kielezodott-a-varos-videk-ellentet-1116849",
+        "h1": "Dúl a harc a hazai településeken: durván kiéleződött a város-vidék ellentét",
+        "txtlength": 19145
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/kozelet/20210814/mennyit-fog-erni-egy-nyugdijmegtakaritas-2050-ben-ez-a-klimaatmenet-kerdese-es-a-valasz-a-bankoknal-van/",
+        "h1": "Mennyit fog érni egy nyugdíjmegtakarítás 2050-ben – ez a klímaátmenet kérdése, és a válasz a bankoknál van",
+        "txtlength": 18724
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/global/20210815/szep-csendben-elkepeszto-szuperfegyver-arzenalt-fejlesztett-kina-496326",
+        "h1": "Szép csendben elképesztő szuperfegyver-arzenált fejlesztett Kína",
+        "txtlength": 16348
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210811_nem_vagyunk_masodrendu_europai_allampolgarok_dezsi_csaba_andras_a_mandinernek",
+        "h1": "Nem vagyunk másodrendű európai állampolgárok! – Dézsi Csaba András a Mandinernek",
+        "txtlength": 15812
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/uzlet/20210815/megadtak-a-zold-jelzest-uj-atomeromu-epulhet-a-szomszedban-496552",
+        "h1": "Megadták a zöld jelzést: új atomerőmű épülhet a szomszédban",
+        "txtlength": 15484
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210814_karacsony_gergely_belfold_foapitesz_budapest_fovaros_varosliget_varosligeti_jatszoter",
+        "h1": "Karácsony főtájépítésze szerint túlméretezett a városligeti játszótér",
+        "txtlength": 14226
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/befektetes/20210814/itt-a-csalad-amely-mindent-feltett-a-bitcoinra-es-most-titkos-helyeken-tarolja-azt-negy-kulonbozo-kontinensen-496346",
+        "h1": "Itt a család, amely mindent feltett a bitcoinra, és most titkos helyeken tárolja azt négy különböző kontinensen",
+        "txtlength": 13824
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2021/08/15/az-olajpiac-kisajatitasa-meg-az-opec-elott-a-standard-oil-es-john-d-rockefeller-tundoklese-es-bukasa",
+        "h1": "AZ OLAJPIAC KISAJÁTÍTÁSA MÉG AZ OPEC ELŐTT: A STANDARD OIL ÉS JOHN D. ROCKEFELLER TÜNDÖKLÉSE ÉS BUKÁSA",
+        "txtlength": 11306
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/szuloseg/gyerek-iskola-kepesseg/",
+        "h1": "gyerek iskola képesség",
+        "txtlength": 10817
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/gyerek/iskolakezdes-onbizalomnovelo-mondatok/",
+        "h1": "Így kezdheti a gyerek önbizalommal telin az iskolai évet: 4 mondat, amit szülőként fontos lenne elmondanod neki",
+        "txtlength": 10565
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kultura/2021/08/15/avo-ensz-osszeeskuves-titkosszolgalat-matine-konyvajanlo/",
+        "h1": "Konspirált találkozó: „az ügynök jobban leittasodott”, mint a megfigyelt személy",
+        "txtlength": 26026
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/szorakozas/2021/08/15/0036mark-paste-up-street-art-razjfilmfigurak/",
+        "h1": "„Néha hülyének néznek, hogy miért méregetem a falakat”",
+        "txtlength": 21768
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kultura/2021/08/14/pray-away-lmbtqia-dokumentumfilm-ex-gay-reparativ-konverzips-terapia-falcolas/",
+        "h1": "Az esküvői ruhából kikandikáló vágásnyomok: trauma és gyógyulás meleg-átnevelés után",
+        "txtlength": 17715
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/belfold/2021/08/14/alapjarat-bmw-kigyullad-eg-dizel",
+        "h1": "A szervizkampány ellenére továbbra is sorban gyulladnak ki és égnek porrá BMW-k",
+        "txtlength": 15766
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/eszkombajn/2021/08/15/eger-patkany-utopia-kutatas-tarsadalom",
+        "h1": "Rágcsálók ezreivel játszott istent, és ebből kiindulva megjósolta az emberi társadalom bukását",
+        "txtlength": 15463
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/elet/20210814_Okszana_Csuszovityina_bucsu_Tokio_olimpia",
+        "h1": "46 évesen, a 8. olimpiáján nemcsak történelmet írt, csodát is tett Okszana Csuszovityina",
+        "txtlength": 14790
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/08/15/mar-ejszaka-is-oltanak-izraelben-mikozben-megtelnek-a-korhazak-a-covid-19-betegekkel",
+        "h1": "Már éjszaka is oltanak Izraelben, miközben megtelnek a kórházak a Covid-19 betegekkel",
+        "txtlength": 11637
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/zhvg/20210814_fenntarthatosag_strandeszkoz",
+        "h1": "Strandolás műanyagok nélkül? Mutatjuk, lehetséges-e",
+        "txtlength": 11523
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/tudomany/2021/08/15/anyagcsere-csokkenes-kutatas-hizas",
+        "h1": "Az öregedés lehet, hogy önmagában mégsem mentség az elhízásra",
+        "txtlength": 11227
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/villamcsapas-ketgyermekes-anya-katus-megmagyarazhatatlan-dolgok/nczz3dy",
+        "h1": "Visszatért a halálból a villámcsapott kétgyermekes anyuka – Katussal azóta földöntúli dolgok történnek",
+        "txtlength": 10996
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/08/13/sorra-zarjak-be-kabuli-nagykovetsegeiket-a-nyugati-orszagok",
+        "h1": "Sorra zárják be kabuli nagykövetségeiket a nyugati országok",
+        "txtlength": 10919
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/hvgkonyvek/20210814_Hurra_nyaralunk__Avagy_kiskate_gyerekkel_nyaralashoz",
+        "h1": "Hurrá, nyaralunk - Avagy kiskáté gyerekkel nyaraláshoz",
+        "txtlength": 10800
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/vakvezeto-kutya-szekesfehervar-aruhaz/gq7rps8?utm_source=related&utm_medium=www.blikk.hu&utm_campaign=widget-9446979",
+        "h1": "Felháborító: ordítva akarták kiküldeni az áruházból Zsófit és vakvezető kutyáját",
+        "txtlength": 9732
+    },
+    {
         "hostname": "nosalty.hu",
         "pagelink": "https://www.nosalty.hu/recept/bacskai-rizses-hus",
         "h1": "Bácskai rizses hús",
