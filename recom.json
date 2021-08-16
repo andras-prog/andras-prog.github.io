@@ -1,5 +1,191 @@
 [
     {
+        "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/toltott-cukkini-daralt-hussal",
+        "h1": "Töltött cukkini darált hússal",
+        "txtlength": 10108
+    },
+    {
+        "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/lecso-telire",
+        "h1": "Lecsó télire",
+        "txtlength": 10063
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/palocleves-ahogy-laky-zsuzsi-kesziti.recept",
+        "h1": "PALÓCLEVES, AHOGY LAKY ZSUZSI KÉSZÍTI",
+        "txtlength": 10031
+    },
+    {
+        "hostname": "efesasanisimasa.com",
+        "pagelink": "https://efesasanisimasa.com/2021/08/15/hab/",
+        "h1": "Hab (2020)",
+        "txtlength": 14990
+    },
+    {
+        "hostname": "alapblog.hu",
+        "pagelink": "https://alapblog.hu/a-szabadpiacon-egyetlen-tulajdonsag-letezik-a-produktivitas/",
+        "h1": "A SZABADPIACON EGYETLEN TULAJDONSÁG LÉTEZIK: A PRODUKTIVITÁS",
+        "txtlength": 8605
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20210816/forradalmi-valtozasok-johetnek-a-magyar-egeszsegugyben-496594",
+        "h1": "Forradalmi változások jöhetnek a magyar egészségügyben",
+        "txtlength": 24165
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/oktatas/20210813/sulyos-lemaradasban-vannak-a-magyar-dolgozok-bucsut-inthetnek-a-luxusfizetesnek-is-1116938",
+        "h1": "Súlyos lemaradásban vannak a magyar dolgozók: búcsút inthetnek a luxusfizetésnek is",
+        "txtlength": 18412
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vallalat/20210816/esze-agaban-sincs-visszamenni-dolgozni-a-turizmusba-azoknak-akik-a-jarvany-miatt-elmentek/",
+        "h1": "Esze ágában sincs visszamenni dolgozni a turizmusba azoknak, akik a járvány miatt elmentek",
+        "txtlength": 18275
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/utazas/20210816/hideg-zuhany-a-szputnyikkal-oltottakra-igy-nem-er-semmit-a-harmadik-vakcina-1117010",
+        "h1": "Hideg zuhany a Szputnyikkal oltottakra: így nem ér semmit a harmadik vakcina",
+        "txtlength": 18128
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/global/20210816/villamgyors-osszeomlas-talib-hatalomatvetel-teljes-kaosz-mi-lesz-most-afganisztannal-496662",
+        "h1": "Villámgyors összeomlás, tálib hatalomátvétel, teljes káosz – Mi lesz most Afganisztánnal?",
+        "txtlength": 16598
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/gyerek/ha-az-anya-nem-szereti-a-gyereket/",
+        "h1": "Mi visz rá arra egy anyát, hogy ne szeresse a gyerekét? A pszichológust kérdeztük",
+        "txtlength": 16163
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2021/08/16/mesterseges-korallzatonyokkal-mentene-meg-az-oceanok-haldoklo-okoszisztemajat-egy-magyar-dizajner",
+        "h1": "MESTERSÉGES KORALLZÁTONYOKKAL MENTENÉ MEG AZ ÓCEÁNOK HALDOKLÓ ÖKOSZISZTÉMÁJÁT EGY MAGYAR DIZÁJNER",
+        "txtlength": 14879
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20210816/csak-az-a-kerdes-mekkorat-robbant-a-magyar-gazdasag-szinte-biztosan-teljesul-orban-viktor-nagy-igerete-496486",
+        "h1": "Csak az a kérdés, mekkorát robbant a magyar gazdaság – Szinte biztosan teljesül Orbán Viktor nagy ígérete",
+        "txtlength": 14419
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/elet/20210810/ha-nagyon-ehes-vagy-es-valasztani-kell-a-finomat-vagy-a-taplalot-eszed-meg/",
+        "h1": "Ha nagyon éhes vagy, és választani kell, a finomat vagy a táplálót eszed meg?",
+        "txtlength": 13660
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210813_donald_trump_hianyzom_mar",
+        "h1": "Donald Trump: Hiányzom már?",
+        "txtlength": 13608
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210815_unios_biztos_az_afgan_valsagrol_minel_elobb_at_kell_alakitani_az_eu_menekultugyi_rendszeret",
+        "h1": "Uniós biztos az afgán válságról: Minél előbb át kell alakítani az EU menekültügyi rendszerét",
+        "txtlength": 13285
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210814_itt_az_ujabb_bennfentes_video_tovabbra_is_fokuszban_a_momentum",
+        "h1": "„Cseh Katka lemondott már?” – Fekete-Győr Andrást szembesíti korábbi kijelentésével a Bennfentes videója",
+        "txtlength": 13225
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/lajfhekk/futonovenyek-falra/",
+        "h1": "Futónövények falra",
+        "txtlength": 11776
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://tldr.444.hu/2021/08/16/valasztas-jon-az-uradalomban",
+        "h1": "VÁLASZTÁS JÖN AZ URADALOMBAN",
+        "txtlength": 22346
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/koronavirus/2021/08/16/negyedik-hullam-delta-varians-harmadik-oltas-kinai-vakcina",
+        "h1": "Más országok példáiból már látjuk, mire számíthatunk, ha beüt a deltavariáns-hullám",
+        "txtlength": 19979
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kulfold/2021/08/15/oknyomozo-ujsagiras-kiszivarogtatas-ismeretlen-forras-panama-iratok/",
+        "h1": "Tényleg a CIA szivárogtat az oknyomozó újságíróknak?",
+        "txtlength": 16599
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/elet-stilus/2021/08/15/baleset-emlek-memoria-autobaleset-amnezia/",
+        "h1": "A randi végén búcsúzóul közölte: Sajnálom, de holnap nem foglak megismerni",
+        "txtlength": 16588
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/krimi/exnyomozo-szazhalombattai-rem-balogh-lajos-emberoles-nyomozas-elfogas/k5qr8t3?sl_ps=d_1",
+        "h1": "Így fogtam el a százhalombattai rémet - Egy magyar exnyomozó vallomásai, soha nem hallott történet a sorozatgyilkosságokról (18+)",
+        "txtlength": 15256
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://qubit.hu/2021/08/16/mesterseges-korallzatonyokkal-mentene-meg-az-oceanok-haldoklo-okoszisztemajat-egy-magyar-dizajner",
+        "h1": "MESTERSÉGES KORALLZÁTONYOKKAL MENTENÉ MEG AZ ÓCEÁNOK HALDOKLÓ ÖKOSZISZTÉMÁJÁT EGY MAGYAR DIZÁJNER",
+        "txtlength": 14871
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kulfold/2021/08/15/feheroroszorszag-belarusz-elnokvalasztas-tuntetesek-jovo/",
+        "h1": "„Ha csótányok vannak a házban, kiirtod őket, nem elkötözöl” – milyen jövő vár Fehéroroszországra?",
+        "txtlength": 12470
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kulfold/2021/08/16/afganisztan-kabul-kormany-talibok-usa",
+        "h1": "Káosz a kabuli repülőtéren, megrohanták a repülőgépeket a menekülő afgánok",
+        "txtlength": 11819
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/tudomany/20210816_webaruhaz_trukkok_tanacsok_tudatos_vasarlok_egyesulete",
+        "h1": "Szuperakció, visszaszámláló és társaik – milyen csalós trükköket vetnek be a népszerű webáruházak?",
+        "txtlength": 11813
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/belfold/2021/08/15/mentsuk-meg-a-fovaros-utolso-neonreklamjait",
+        "h1": "Mentsük meg a főváros utolsó neonreklámjait!",
+        "txtlength": 11321
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/vilag/20210815_Wagner_csoport_oroszorszag_zsoldosok",
+        "h1": "Így működik a Wagner csoport, Putyin szakácsának titkos hadserege",
+        "txtlength": 10825
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/cegauto/20210815_Megszolalt_az_utazasi_iroda_munkatarsa_a_sofor_is_a_halalos_aldozatok_kozt_van",
+        "h1": "Az utazási iroda megerősítette a hvg.hu-nak: a balesetet szenvedett busz sofőrje is az áldozatok között van",
+        "txtlength": 9979
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/koronavirus-hirek-hetvege-magyarorszag-adatok-meghalt-harom-beteg/9xt2cd7?sl_ps=d_2",
+        "h1": "Meghalt 3 beteg, közel 200 új fertőzöttet találtak - Itt vannak a hétvégi koronavírus adatok",
+        "txtlength": 9036
+    },
+    {
         "hostname": "mindmegette.hu",
         "pagelink": "https://www.mindmegette.hu/tiramisu-ahogy-denes-tamas-kesziti.recept",
         "h1": "TIRAMISU, AHOGY DÉNES TAMÁS KÉSZÍTI",
