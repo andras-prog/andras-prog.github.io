@@ -1,6 +1,180 @@
 [
     {
         "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/tojasos-lecso",
+        "h1": "Tojásos lecsó",
+        "txtlength": 10445
+    },
+    {
+        "hostname": "alapblog.hu",
+        "pagelink": "https://alapblog.hu/olvasoink-kerdeztek-valaszolunk-ingatlan/",
+        "h1": "OLVASÓINK KÉRDEZTÉK, VÁLASZOLUNK – INGATLAN",
+        "txtlength": 9734
+    },
+    {
+        "hostname": "kulturpart.hu",
+        "pagelink": "https://kulturpart.blog.hu/2021/08/16/free_guy_film_kritika_ryan_reynolds",
+        "h1": "SZABAD AKARAT JÁTÉKBÓL",
+        "txtlength": 6686
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://makronom.mandiner.hu/cikk/20210817_ujra_a_valsag_elotti_szint_folott_a_magyar_gazdasag_teljesitmenye_az_elmult_evtized_utan_a_koronavalsag_kezeleset_is_megnyerte_a_magyar_gazdasagpolitika",
+        "h1": "Bombameglepetés: rekordot döntött a magyar gazdasági növekedés, mutatjuk az okokat",
+        "txtlength": 46387
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/kozelet/20210817/a-vetelar-tizedet-sem-eri-amit-kozpenzbol-vett-egy-magyar-futballklub/",
+        "h1": "A vételár tizedét sem éri, amit közpénzből vett egy magyar futballklub",
+        "txtlength": 23623
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210816_amerika_afganisztan_mohammad_ali_samay",
+        "h1": "„Amerika magára hagyta Afganisztánt” – afgán elemző a Mandinernek",
+        "txtlength": 22542
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210811_felkerulhetunk_a_divatterkepre",
+        "h1": "Felkerülhetünk a divattérképre – Bata-Jakab Zsófia a Mandinernek",
+        "txtlength": 21948
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/gazdasag/20210812/sokkolo-szamok-a-magyar-anyukak-hatalmas-resze-allastalan-1116928",
+        "h1": "Sokkoló számok: a magyar anyukák hatalmas része állástalan",
+        "txtlength": 15438
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20210817/itt-a-friss-gdp-adat-igy-nott-a-magyar-gazdasag-496800",
+        "h1": "Itt a friss GDP-adat, így nőtt a magyar gazdaság!",
+        "txtlength": 14966
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/penz/20210816/veget-erhet-a-hosszu-buveszmutatvany-a-magyar-gazdasagpolitikaban/",
+        "h1": "Véget érhet a hosszú bűvészmutatvány a magyar gazdaságpolitikában",
+        "txtlength": 14850
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20210817/elkezdodott-a-zold-atalakulas-elso-lepesek-a-hazai-vallalatoknal-496188",
+        "h1": "Elkezdődött a zöld átalakulás: első lépések a hazai vállalatoknál",
+        "txtlength": 14668
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20210817/tenyleg-erdemes-antitest-szintet-vagy-sejtes-immunitast-vizsgaltatni-496506",
+        "h1": "Tényleg érdemes antitest-szintet vagy sejtes immunitást vizsgáltatni?",
+        "txtlength": 14238
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/megtakaritas/20210811/oriasi-bajban-boros-lajos-felelte-tartalekait-evek-ota-ingyen-dolgozik-1116907",
+        "h1": "Óriási bajban Boros Lajos: felélte tartalékait, évek óta ingyen dolgozik",
+        "txtlength": 13572
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2021/08/17/friss-kutatas-tarja-fel-milyen-tapasztalatokat-szereztek-a-jarvany-idejen-onkenteskedo-egeszsegugyi-hallgatok",
+        "h1": "FRISS KUTATÁS TÁRJA FEL, MILYEN TAPASZTALATOKAT SZEREZTEK A JÁRVÁNY IDEJÉN ÖNKÉNTESKEDŐ EGÉSZSÉGÜGYI HALLGATÓK",
+        "txtlength": 11565
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/szepseg/ruhadarabok-60-felett/",
+        "h1": "Így lehet valaki 60 felett igazán sikkes: 8 ruhadarab, ami garantálja a nőies, elegáns összhatást",
+        "txtlength": 10725
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/lajfhekk/alufolia-fozes-karos/",
+        "h1": "Alufólia főzés káros",
+        "txtlength": 7340
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://tldr.444.hu/2021/08/17/mi-a-baj-bocikam-miert-nem-megy-a-tanulas",
+        "h1": "„Mi a baj, bocikám, miért nem megy a tanulás?”",
+        "txtlength": 29363
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/belfold/2021/08/17/huxit-eu-magyarorszag-kilepes-orban-viktor",
+        "h1": "Orbán több mint húsz éve mondja, hogy van élet az EU-n kívül is",
+        "txtlength": 20686
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/szorakozas/2021/08/16/brendan-fraser-sztar-szinesz-mumia-kobunko-foszereplo-karrier-portre",
+        "h1": "Széttörte a testét, az élet meggyötörte a lelkét, de Brendan Fraser most visszatér",
+        "txtlength": 17655
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kulfold/2021/08/16/osszeomlas-afganisztan-talib-eloretores-kabul-egyesult-allamok",
+        "h1": "Sokat toltak a szemünk láttára összeomló Afganisztánba, de nem eleget",
+        "txtlength": 16588
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/08/16/kik-azok-a-talib-vezetok-akik-atvehetik-afganisztan-iranyitasat",
+        "h1": "Kik azok a tálib vezetők, akik átvehetik Afganisztán irányítását?",
+        "txtlength": 15523
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/gazdasag/20210817_gdp_novekedes_ksh",
+        "h1": "Minden rekordot megdöntött és minden prognózist felülmúlt a magyar gazdaság növekedése a 2. negyedévben",
+        "txtlength": 12402
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2021/08/17/hernadi-zsolt-hernadi-adam-esztergom-gyopar-kemping-bsp-ingatlan-bacsa-gyorgy/",
+        "h1": "Bombaüzlet a Hernádi családban: az esztergomi polgármester az utolsó pillanatban járt el rokona érdekében",
+        "txtlength": 11649
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kultura/2021/08/16/csokfulke-3-netflix-film-kritika-romkom-romantikus-komedia/",
+        "h1": "Három rész kellett hozzá, hogy A csókfülke már legalább csak butácska legyen",
+        "txtlength": 11421
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/kulfold/afganisztan-kabul-menekulo-civilek-lovesek-hadsereg/j64qdrv",
+        "h1": "A rettenet napja: gépfegyverzaj a kabuli reptéren, a rettegve menekülő, repülőket ostromló civilekre adtak le figyelmeztető lövéseket az amerikaiak - öt halott - közben a német és a brit haderő megindult rendet csinálni - fotók, videók",
+        "txtlength": 10911
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2021/08/17/magyar-kozlony-europai-bizottsag-jogallamisagi-jelentes/",
+        "h1": "A papír mindent elbír, akkor is, ha Magyar Közlönynek hívják",
+        "txtlength": 10704
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/etelkiszallitas-balaton-kozepere-jetski-rendeles/xjgz96e",
+        "h1": "Ételkiszállítás indult a Balaton közepére: jetsikvel viszik vízi futárok a vitorlázók rendeléseit -videó",
+        "txtlength": 9361
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20210816_afganisztan_csapatkivonas_talib_hatalomatvetel_menedekkerok_magyar_levente",
+        "h1": "Afgán tolmácsokat fogadhat be Magyarország",
+        "txtlength": 9303
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20210816_2255_embert_figyeltek_meg_a_titkosszolgalatok_biroi_engedely",
+        "h1": "2255 embert figyeltek meg a titkosszolgálatok 2010 óta bírói engedély alapján",
+        "txtlength": 8420
+    },
+    {
+        "hostname": "nosalty.hu",
         "pagelink": "https://www.nosalty.hu/recept/toltott-cukkini-daralt-hussal",
         "h1": "Töltött cukkini darált hússal",
         "txtlength": 10108
