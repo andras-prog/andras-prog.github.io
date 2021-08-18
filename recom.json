@@ -1,5 +1,173 @@
 [
     {
+        "hostname": "hataratkelo.blog.hu",
+        "pagelink": "https://hataratkelo.blog.hu/2021/08/16/tiz_ev_es_a_konnyes#c40853316",
+        "h1": "Tíz év és a könnyes…",
+        "txtlength": 43505
+    },
+    {
+        "hostname": "hafr.hvgblog.hu",
+        "pagelink": "https://hafr.hvgblog.hu/2020/11/28/orban_udvaroncai_tehetsegtelenek_csak_magara_szamithat/",
+        "h1": "Orbán udvaroncai tehetségtelenek, csak magára számíthat",
+        "txtlength": 7283
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/uzlet/20210818/tovabb-robog-a-masterplast-gyorsvonat-tortenelmi-csucsra-ment-az-arfolyam-496946",
+        "h1": "Tovább robog a Masterplast-gyorsvonat, történelmi csúcsra ment az árfolyam",
+        "txtlength": 23388
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/adat/20210818/nem-a-pet-palack-a-fogonosz-de-tul-sokat-es-rosszul-hasznaljuk/",
+        "h1": "Nem a PET-palack a főgonosz, de túl sokat és rosszul használjuk",
+        "txtlength": 21752
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/vasarlas/20210817/itt-az-auchan-spar-kifli-ujabb-csodafegyvere-ezzel-dontenek-el-a-bolthaboru-sorsat-1116905",
+        "h1": "Itt az Auchan, Spar, Kifli újabb csodafegyvere: ezzel döntenék el a boltháború sorsát",
+        "txtlength": 21738
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/vasarlas/20210815/ketszer-meggondoljak-a-nyugdijasok-mi-keruljon-a-kosarba-az-igazi-bojt-csak-most-kezdodik-1116970",
+        "h1": "Kétszer meggondolják a nyugdíjasok, mi kerüljön a kosárba: az igazi böjt csak most kezdődik?",
+        "txtlength": 20173
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210816_tobb_mint_20_eve_tart_mar_a_bkv_klimakalvariaja",
+        "h1": "Demszky után Karácsony: több mint 20 éve tart már a BKV klímakálváriája",
+        "txtlength": 19776
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/tamogatoi-tartalom/20210818/otbol-harom-pontban-biztosan-veri-az-usa-europat-valsagkezelesben-es-meg-ingyenpenzt-is-oszt/",
+        "h1": "Ötből három pontban biztosan veri az USA Európát válságkezelésben, és még ingyenpénzt is oszt",
+        "txtlength": 18089
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210818_talib_afganisztan_fegyverzet",
+        "h1": "Óriási fegyverarzenál került a tálibok kezébe – de mihez kezdenek velük?",
+        "txtlength": 16183
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210818_dk_elovalasztas_gyurcsany_ellenzek",
+        "h1": "„Gyurcsány meg kért egy kávét” – így nyerte meg az elmúlt hónapokat a DK",
+        "txtlength": 15913
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20210818/milyen-jovo-var-a-home-office-ra-a-pandemia-utan-496722",
+        "h1": "Milyen jövő vár a home office-ra a pandémia után?",
+        "txtlength": 14707
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20210818/ugy-tunik-mar-csak-horroraron-nyaralhatsz-magyarorszagon-496870",
+        "h1": "Úgy tűnik, már csak horroráron nyaralhatsz Magyarországon",
+        "txtlength": 11955
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/egeszseg/diabetesz-fekely/",
+        "h1": "Egy apró sebbel indul a lábon: a cukorbetegség életveszélyes szövődménye a lábszárfekély",
+        "txtlength": 11163
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2021/08/17/ha-a-foldon-kivul-akar-tulelni-az-emberiseg-nem-uszhatja-meg-a-genszerkesztest",
+        "h1": "HA A FÖLDÖN KÍVÜL AKAR TÚLÉLNI AZ EMBERISÉG, NEM ÚSZHATJA MEG A GÉNSZERKESZTÉST",
+        "txtlength": 10995
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/lajfhekk/miert-bamul-ki-a-macska-az-ablakon/",
+        "h1": "Miért bámul ki a macska az ablakon",
+        "txtlength": 6847
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2021/08/18/elovalasztas-karacsony-gyurcsany-jobbik-momentum-ellenzek/",
+        "h1": "Karácsony kitalálta, a szocik túlkavarták, a Jobbik besokallt, Gyurcsány meg kért egy kávét",
+        "txtlength": 27572
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/vilag/20210818_wagner_peter_afganisztan_talib_hatalomatvetel",
+        "h1": "Wagner Péter: Ha kussolsz és nem ágálsz, akkor a tálibokat nem érdekli a többi",
+        "txtlength": 19471
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kulfold/2021/08/17/vietnami-haboru-saigon-eleste-usa-helikopter-mentes-foto/",
+        "h1": "Ahogy Kabulból, úgy Saigonból is elrepült az amerikai helikopter, de kiket vitt magával?",
+        "txtlength": 14934
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/vilag/20210817_Kik_azok_a_talibok_akik_atvettek_a_hatalmat_Afganisztan_felett",
+        "h1": "Kik a hírhedt tálibok, akiknek a visszatérésétől retteg a világ?",
+        "txtlength": 14751
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/sport/2021/08/18/idea-intezet-futballszurkolok-homofobia-kozvelemeny-kutatas-uefa-magyar-valogatott-fidesz-ellenze",
+        "h1": "A magyar futballszurkolók többsége elfogadná, ha egy válogatott játékos coming outolna",
+        "txtlength": 14336
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/08/18/a-kornyeken-mindenhol-beindult-a-negyedik-hullam",
+        "h1": "A környéken mindenhol beindult a negyedik hullám",
+        "txtlength": 11383
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/sztarvilag/filmklikk/ido-mozi-m-night-shyamalan-thriller-film/jktv626",
+        "h1": "Mit tenne, ha az egész élete egyetlen napba lenne sűrítve?",
+        "txtlength": 10677
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/zhvg/20210817_medve_vad_nagyragadozok_falka_napok_fesztival_patko_laszlo_wwf_magyarorszag_ceeweb",
+        "h1": "A medve nem játék, de egyszerűbb módon védekezhetünk ellene, mint gondolnánk",
+        "txtlength": 10674
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kulfold/2021/08/18/abdul-ghani-baradar-talib-vezeto-amerikaiak-bortonoztek-be-es-szabaditottak-ki",
+        "h1": "Egy türelmes tálib az afgán háborúk elmúlt húsz évének legnagyobb nyertese",
+        "txtlength": 10362
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/08/17/400-ezer-eurotol-esett-el-egy-ember-a-szlovakiai-oltasi-lotton-mert-neten-nezte-az-adast",
+        "h1": "400 ezer eurótól esett el egy ember a szlovákiai oltási lottón, mert neten nézte az adást",
+        "txtlength": 10293
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2021/08/17/zuglo-hadhazy-horvath-csaba-feljelentes-ingatlan/",
+        "h1": "Forrósodik a zuglói helyzet, Horváth Csaba feljelentheti Hadházyt",
+        "txtlength": 9877
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/hivatal-gyerekek-elvettek-virus-csalad-felelem/5emc6kn?sl_ps=d_6",
+        "h1": "Tényleg szét kellett ezért szakítani a családot? Elvették Sándor gyerekeit, mert félt a vírustól",
+        "txtlength": 9660
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/belfold/2021/08/17/nemzetkozi-eucharisztikus-kongresszus-kollegium-budapest-hook",
+        "h1": "Több mint ötezer egyetemista nem költözhet kollégiumba a tanévkezdésre a Nemzetközi Eucharisztikus Kongresszus miatt",
+        "txtlength": 9395
+    },
+    {
         "hostname": "nosalty.hu",
         "pagelink": "https://www.nosalty.hu/recept/tojasos-lecso",
         "h1": "Tojásos lecsó",
