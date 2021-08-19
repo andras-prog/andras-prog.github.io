@@ -1,5 +1,173 @@
 [
     {
+        "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/konnyu-puha-turogomboc",
+        "h1": "Könnyű és puha túrógombóc",
+        "txtlength": 11404
+    },
+    {
+        "hostname": "alapblog.hu",
+        "pagelink": "https://alapblog.hu/olvasoink-kerdeztek-valaszolunk-devizak/",
+        "h1": "OLVASÓINK KÉRDEZTÉK, VÁLASZOLUNK – FORINT ÉS MÁS DEVIZÁK",
+        "txtlength": 11337
+    },
+    {
+        "hostname": "kulturpart.hu",
+        "pagelink": "https://kulturpart.blog.hu/2021/08/16/elkepeszto_kalandok_a_balaton-felvideken",
+        "h1": "ELKÉPESZTŐ KALANDOK A BALATON-FELVIDÉKEN",
+        "txtlength": 5234
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20210819/fejes-tibor-nagy-nehezseget-fog-jelenteni-az-aram-es-gazpiaci-szereploknek-az-uj-energiahatekonysagi-kotelezettsegi-rendszer-496818",
+        "h1": "Fejes Tibor: nagy nehézséget fog jelenteni az áram- és gázpiaci szereplőknek az új Energiahatékonysági Kötelezettségi Rendszer",
+        "txtlength": 35625
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2021/08/18/ma-50-eves-a-techno-mozartja",
+        "h1": "MA 50 ÉVES A TECHNO MOZARTJA",
+        "txtlength": 19172
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/egeszseg/20210816/aggodik-az-iskolakezdes-miatt-duda-erno-konnyen-terjedhet-a-virus-a-gyerekek-kozott-1116941",
+        "h1": "Aggódik az iskolakezdés miatt Duda Ernő: könnyen terjedhet a vírus a gyerekek között",
+        "txtlength": 19095
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/tamogatoi-tartalom/20210819/folyamatosan-figyelhetik-a-szakertok-a-vallalati-rendszerek-biztonsagat-egy-magyar-startup-platformjaval/",
+        "h1": "Folyamatosan figyelhetik a szakértők a vállalati rendszerek biztonságát egy magyar startup platformjával",
+        "txtlength": 18949
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210816_karacsony_gergelyek_elkaszaltak_a_kormany_viszont_felkarolja_a_del_pesti_kerekparos_fejlesztest",
+        "h1": "Karácsonyék elkaszálták, a kormány felkarolta a dél-pesti kerékpáros fejlesztést",
+        "txtlength": 18192
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/global/20210818/amerika-gyakorlatilag-felszerelte-a-talibokat-modern-fegyverekkel-nezzuk-mit-kaparintottak-meg-a-dzsihadistak-496992",
+        "h1": "Amerika gyakorlatilag felszerelte a tálibokat modern fegyverekkel – Nézzük, mit kaparintottak meg a dzsihadisták",
+        "txtlength": 17507
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/kozelet/20210819/az-eddigi-tempoban-haladva-150-ev-alatt-nullazhatnank-le-az-szja-t/",
+        "h1": "Az eddigi tempóban haladva 150 év alatt nullázhatnánk le az szja-t",
+        "txtlength": 16968
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/karrier/20210818/uj-idoszamitas-kezdodik-a-magyar-munkahelyeken-lassan-mindenkinek-be-kell-allni-a-sorba-1117068",
+        "h1": "Új időszámítás kezdődik a magyar munkahelyeken: lassan mindenkinek be kell állni a sorba",
+        "txtlength": 16224
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210818_gyarfas_es_czegledy_is_ujra_birosag_ele_all_szeptemberben",
+        "h1": "Büntetőperek újratöltve: Gyárfás és Czeglédy is újra bíróság elé áll szeptemberben",
+        "txtlength": 15270
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210818_ujjaszuletett_a_szent_istvan_terem_a_budavari_palotaban",
+        "h1": "Újjászületett a Szent István-terem a Budavári Palotában",
+        "txtlength": 14862
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20210819/elszakadt-a-cerna-brutalis-a-munkaerohiany-a-turizmusban-dupla-bert-kovetelnek-a-dolgozok-496904",
+        "h1": "Elszakadt a cérna: brutális a munkaerőhiány a turizmusban, dupla bért követelnek a dolgozók",
+        "txtlength": 13992
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/egeszseg/pikkelysomor-kezeles/",
+        "h1": "9 trigger, ami belobbanthatja a pikkelysömör tüneteit: így lehet visszaszorítani",
+        "txtlength": 11194
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/belfold/2021/08/19/budapest-kozterei-fidesz-propaganda-mocsok-buz-hajlektalanok-karacsony-gergely",
+        "h1": "A kormánymédia szerint lassan a pokol is jobb hely, mint Budapest",
+        "txtlength": 23943
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20210819_augusztus_20_unnep_programok",
+        "h1": "Showtime augusztus 20-án: minden idők legnagyobb és legdrágább nemzeti ünnepe jön",
+        "txtlength": 15228
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/08/18/oltas-maszk-negyedik-hullam",
+        "h1": "Oltás, maszk, negyedik hullám",
+        "txtlength": 13885
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/08/18/a-momentum-es-az-mkkp-kiall-hadhazy-mellett-akit-az-horvath-csaba-perrel-fenyeget",
+        "h1": "A Momentum és az MKKP kiáll Hadházy mellett, akit Horváth Csaba perrel fenyeget",
+        "txtlength": 13144
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/sport/2021/08/18/young-boys-ftc-bajnokok-ligaja-futball",
+        "h1": "BL-playoff, első mérkőzés: Young Boys – FTC 3-2",
+        "txtlength": 12263
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/vilag/20210818_talib_hatalomatvetel_Afganisztan",
+        "h1": "A tálib hatalomátvétel képes krónikája",
+        "txtlength": 11112
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kultura/2021/08/18/beckett-film-netflix-kritika-john-david-washington/",
+        "h1": "A Beckett előcsalogatja az átlagemberben rejtőző akcióhőst",
+        "txtlength": 10930
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/belfold/2021/08/18/uj-vilag-neppart-frakcio-befogadas-palinkas-jozsef-domsodi-gabor-popovics-judit-koczka-tibor",
+        "h1": "Lemaradhat az előválasztásról Dömsödi Gábor, három jelöltet nem fogadtak még be a pártok",
+        "txtlength": 10889
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/sztarvilag/filmklikk/igy-vagy-tokeletes-magyar-film-vigjatek-ajanlo/6mzxzzv",
+        "h1": "Könnyed, kellemes kikapcsolódást ígér az új magyar romantikus vígjáték, az Így vagy tökéletes!",
+        "txtlength": 10720
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/sztarvilag/kultura/vujicsics-tihamer-halala-lezuhant-repulo-ujsagmuzeum/l3b0b98",
+        "h1": "Lezuhant repülőgépen halt meg a magyar zene Karinthy Frigyese",
+        "txtlength": 10619
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/gazdasag/20210818_csok_buntetes_bank360",
+        "h1": "Jelentősen nő a csok-büntetés összege a kamatemelések miatt",
+        "txtlength": 10086
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/tudomany/2021/08/19/szex-szexualitas-kozepkor/",
+        "h1": "Ez volt a legnagyobb bűn a szexben",
+        "txtlength": 7914
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/tudomany/2021/08/19/svedorszagi-hegy-kebnekaise-klimavaltozas/",
+        "h1": "Ez a hegycsúcs évente két métert zsugorodik",
+        "txtlength": 7720
+    },
+    {
         "hostname": "hataratkelo.blog.hu",
         "pagelink": "https://hataratkelo.blog.hu/2021/08/16/tiz_ev_es_a_konnyes#c40853316",
         "h1": "Tíz év és a könnyes…",
