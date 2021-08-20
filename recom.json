@@ -1,6 +1,174 @@
 [
     {
         "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/fott-csoves-kukorica",
+        "h1": "Főtt csöves kukorica",
+        "txtlength": 10255
+    },
+    {
+        "hostname": "hataratkelo.blog.hu",
+        "pagelink": "https://hataratkelo.blog.hu/2021/08/16/tiz_ev_es_a_konnyes#c40857178",
+        "h1": "Tíz év és a könnyes…",
+        "txtlength": 36878
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210819_afganisztanban_nem_volt_esely_a_valtoztatasra_volt_magyar_katona_a_mandinernek",
+        "h1": "Afganisztánban nem volt esély a változtatásra – volt magyar katona a Mandinernek",
+        "txtlength": 22282
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210717_meg_kell_nezni_mit_mentsunk_at_a_maba",
+        "h1": "Meg kell nézni, mit mentsünk át a mába – Kassai Lajos lovasíjász a Mandiner Útravalónak",
+        "txtlength": 21980
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210819_ez_tipikus_gyerekcovid_tunet_mondta_az_orvos",
+        "h1": "Fáradtság, gyengeség és koncentrációs zavar – postcovid tünetek gyermekeknél",
+        "txtlength": 20224
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vilag/20210820/a-kinaiak-nemetek-lennenek/",
+        "h1": "A kínaiak németek lennének",
+        "txtlength": 19806
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/uzlet/20210819/hullamvasutra-ultek-ma-az-amerikai-tozsdek-de-megusztak-az-esest-497082",
+        "h1": "Hullámvasútra ültek ma az amerikai tőzsdék, de megúszták az esést ",
+        "txtlength": 18787
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2021/08/20/a-szent-istvan-termet-hatalmas-munkaval-epitettek-ujra-de-legalabb-ilyen-nehez-lesz-jora-hasznalni",
+        "h1": "A SZENT ISTVÁN-TERMET HATALMAS MUNKÁVAL ÉPÍTETTÉK ÚJRA, DE LEGALÁBB ILYEN NEHÉZ LESZ JÓRA HASZNÁLNI",
+        "txtlength": 18699
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20210819/tovabb-terjed-a-koronavirus-aggodhatunk-a-tomegrendezvenyek-miatt-497076",
+        "h1": "Tovább terjed a koronavírus, aggódhatunk a tömegrendezvények miatt? ",
+        "txtlength": 17251
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/adat/20210817/felrobbantak-az-europai-gazarak-a-tel-kritikus-lehet/",
+        "h1": "Felrobbantak az európai gázárak, a tél kritikus lehet",
+        "txtlength": 17048
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/otthon/20210814/filleres-trukkokkel-hutheted-le-a-lakast-igy-klima-nelkul-is-birhato-a-halalos-kanikula-1116985",
+        "h1": "Filléres trükkökkel hűtheted le a lakást: így klíma nélkül is bírható a halálos kánikula",
+        "txtlength": 16807
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20210819/hogyan-orizheto-meg-a-bizalom-valsag-idejen-ez-lehet-a-tuleles-kulcsa-496942",
+        "h1": "Hogyan őrizhető meg a bizalom válság idején? – Ez lehet a túlélés kulcsa",
+        "txtlength": 15772
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/egeszseg/20210816/ilyen-tuneteket-okozhat-a-gyerekeknel-a-delta-varians-erdemes-rajuk-figyelni-nagyobb-baj-is-lehet-1117012",
+        "h1": "Ilyen tüneteket okozhat a gyerekeknél a delta variáns: érdemes rájuk figyelni, nagyobb baj is lehet",
+        "txtlength": 14369
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/szuloseg/tudatos-etkezes-gyerek/",
+        "h1": "tudatos étkezés gyerek",
+        "txtlength": 11588
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/egeszseg/koromgomba-kronikus-betegseg/",
+        "h1": "Miért veszélyesebb a krónikus betegekre a körömgomba? Akár belsőleges kezelésre is szükség lehet",
+        "txtlength": 9958
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2021/08/19/most-utazni-akar-vagy-vedettseget-kapni-olvasoink-megirtak-harmadik-oltasuk-tortenetet/",
+        "h1": "„Most utazni akar, vagy védettséget kapni?” – olvasóink megírták harmadik oltásuk történetét",
+        "txtlength": 19152
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2021/08/20/ctnnb1-szindroma-oliviaval-az-elet-instagram-kulonleges-baratok-mesekonyv/",
+        "h1": "„Boldoggá tenne, ha megtanulna járni. Vagy ha azt mondaná egyszer, hogy anya”",
+        "txtlength": 16802
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/sport/2021/08/19/barcelona-1-35-milliard-euro-adossag-lionel-messi-atigazolasok-fizetesek",
+        "h1": "Hogyan halmozhat fel egy Barcelona-szintű klub 1,35 milliárd euró adósságot?",
+        "txtlength": 15893
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/belfold/2021/08/20/alapjarat-buszbaleset-m7-defekt",
+        "h1": "Egy defekt miatti buszbaleset nem így nézett volna ki",
+        "txtlength": 15019
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/gazdasag/20210819_Afganisztan_motorja_a_drogok_es_a_segelyek",
+        "h1": "Afganisztán motorja: a drogok és a segélyek",
+        "txtlength": 14553
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/vilag/20210819_Ami_Afganisztanban_tortenik_nem_marad_Afganisztanban",
+        "h1": "Ami Afganisztánban történik, nem marad Afganisztánban",
+        "txtlength": 13787
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/08/19/negyvenkilenc-emberrel-erintkezett-a-guineai-ebolas-lany",
+        "h1": "Negyvenkilenc emberrel érintkezett a guineai ebolás lány",
+        "txtlength": 11727
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/krimi/exnyomozo-regi-bunugyek-augusztus-20-gyujtogatas-gyilkossag/r41y2r6?sl_ps=d_12",
+        "h1": "Megölte Ragyás Tóni emberének családját az augusztus 20-i hosszú hétvégén - Egy magyar exnyomozó vallomásai",
+        "txtlength": 11644
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kultura/2021/08/19/uj-mult-kritika-hugh-jackman-sci-fi/",
+        "h1": "Hugh Jackman alámerül a múltjába, csak meg ne fulladjon",
+        "txtlength": 11529
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/tudomany/20210820_penzugyi_szolgaltatok_vallalati_kiberbiztonsag_eset",
+        "h1": "5 dolog, amellyel sok cég saját maga alatt vágja a fát",
+        "txtlength": 11415
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/politika/szent-jobb-visszahozatala-1945-salzburg-amerikai-hadsereg-kormenet/34hrsp7?sl_ps=d_3",
+        "h1": "Augusztus 20: Magyar származású amerikai alezredes szerezte vissza az eltűnt Szent Jobbot - Az utolsó pillanatban sikerült a lehetetlen küldetés",
+        "txtlength": 11290
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/08/19/tobb-szaz-ferfi-ugyeben-inditott-nyomozast-a-pakisztani-rendorseg-akik-szexualisan-zaklattak-egy-parkban-tiktokozo-not",
+        "h1": "Több száz férfi ügyében indított nyomozást a pakisztáni rendőrség, mert szexuálisan zaklattak egy parkban tiktokozó nőt",
+        "txtlength": 10885
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/eszkombajn/2021/08/20/balaton-kovezetvam-utdij-szaz-eve-autozas-ado",
+        "h1": "Pofátlanul magas útdíjat fizetett az, aki 95 éve autóval akart lejutni a Balatonra",
+        "txtlength": 10580
+    },
+    {
+        "hostname": "nosalty.hu",
         "pagelink": "https://www.nosalty.hu/recept/konnyu-puha-turogomboc",
         "h1": "Könnyű és puha túrógombóc",
         "txtlength": 11404
