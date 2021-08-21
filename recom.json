@@ -1,6 +1,174 @@
 [
     {
         "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/hazi-fugelekvar",
+        "h1": "Házi fügelekvár",
+        "txtlength": 10920
+    },
+    {
+        "hostname": "hataratkelo.blog.hu",
+        "pagelink": "https://hataratkelo.blog.hu/2021/08/16/tiz_ev_es_a_konnyes#c40858418",
+        "h1": "Tíz év és a könnyes…",
+        "txtlength": 35842
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210818_tucker_carlson_esete_a_liberalis_felhorgadassal",
+        "h1": "Tucker Magyarországon: jött, látott és győzött?",
+        "txtlength": 27384
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/adat/20210821/egyre-szennyezobb-csomagolasban-kaphatok-a-hazai-borok-sorok-uditok-es-asvanyvizek-mikozben-mindenki-zoldnek-akar-latszodni/",
+        "h1": "Egyre szennyezőbb csomagolásban kaphatók a hazai borok, sörök, üdítők és ásványvizek, miközben mindenki zöldnek akar látszódni",
+        "txtlength": 21445
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20210820/terjed-a-virus-a-vilagban-azsiaban-egy-13-millios-varos-kerult-teljes-zar-ala-497206",
+        "h1": "Terjed a vírus a világban, Ázsiában egy 13 milliós város került teljes zár alá ",
+        "txtlength": 19004
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20210820/merkel-a-putyinnal-kozos-bucsutajekoztaton-is-felhozta-navalnij-ugyet-szankciokkal-uzentek-az-amerikaiak-497254",
+        "h1": "Merkel a Putyinnal közös búcsútájékoztatón is felhozta Navalnij ügyét, szankciókkal üzentek az amerikaiak",
+        "txtlength": 18754
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210818_akibol_ezerevente_egy_szuletik",
+        "h1": "Akiből ezerévente egy születik – államalapító királyunkra emlékezünk",
+        "txtlength": 18623
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210820_a_nato_konyorog_bidennek_hogy_ne_hagyja_el_kabult",
+        "h1": "A korábbi képviselőházi elnök szerint leszerepelt Biden „woke hadserege” a NATO-szövetségesek előtt",
+        "txtlength": 17656
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/penz/20210819/kozeleg-a-normalizalodas-de-a-konnyu-ut-jarhatatlan/",
+        "h1": "Közeleg a normalizálódás, de a könnyű út járhatatlan",
+        "txtlength": 16792
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/ingatlan/20210820/felhotlen-optimizmus-es-baljos-arnyak-merre-indul-innen-az-irodapiac-495562",
+        "h1": "Felhőtlen optimizmus és baljós árnyak - merre indul innen az irodapiac?",
+        "txtlength": 16763
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/karrier/20210817/vege-a-jo-vilagnak-indul-a-covid-utani-irodai-elet-maris-eldolt-a-home-office-sorsa-1117013",
+        "h1": "Vége a jó világnak, indul a Covid utáni irodai élet: máris eldőlt a home office sorsa?",
+        "txtlength": 15821
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/egeszseg/20210815/teged-is-konnyen-legyuhet-a-nyari-megfazas-ime-par-tipp-hogy-tullendulj-a-nehezen-1116971",
+        "h1": "Téged is könnyen legyűrhet a nyári megfázás: íme pár tipp, hogy túllendülj a nehezén",
+        "txtlength": 15151
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/ezo/magyarorszag-jelkepek/",
+        "h1": "Miért piros, fehér, zöld a magyar zászló, és mit jelent az új kenyér ünnepe? 3 érdekesség a magyarok fontos jelképeiről",
+        "txtlength": 12207
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2021/08/19/dietaval-a-mar-kialakult-2-es-tipusu-cukorbetegseget-is-vissza-lehet-forditani",
+        "h1": "DIÉTÁVAL A MÁR KIALAKULT 2-ES TÍPUSÚ CUKORBETEGSÉGET IS VISSZA LEHET FORDÍTANI",
+        "txtlength": 10729
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/lajfhekk/tuzijatek-szinei/",
+        "h1": "Tűzijáték színei",
+        "txtlength": 6424
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2021/08/21/drog-jaszapati-pocs-janos-verekedes/",
+        "h1": "Így látja a verekedést a Pócs János képviselő lányának megtámadásával vádolt három ember",
+        "txtlength": 20067
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/vilag/20210821_cia_kem_afganisztan",
+        "h1": "Hiába maradnak a CIA kémei Afganisztánban, a szervezetnek nagyon sokba kerülhet a tálib hatalomátvétel",
+        "txtlength": 19792
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/szorakozas/2021/08/20/hires-csaladok-alec-baldwin-hailey-bieber-justin-bieber-nicole-richie-cameron-diaz-lionel-richie-zoe-kravitz-lenny-kravitz-lisa-bonet/",
+        "h1": "Mi a közös Angelina Jolie-ban, Hailey Bieberben és Zoë Kravitzben? A híres család!",
+        "txtlength": 18654
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/belfold/2021/08/21/kisoroszi-szigetcsucs-duna-termeszetvedelem-turizmus-fejlesztes",
+        "h1": "Lesöpörték a Nemzeti Park aggályait, heteken belül aszfaltoznak, fejlesztenek a kisoroszi Szigetcsúcson a Dunánál",
+        "txtlength": 17376
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/08/21/minden-amit-teljes-koruen-tudni-akartal-a-444-uj-elofizetesi-es-tagsagi-programja-kapcsan",
+        "h1": "Minden, amit teljes körűen tudni akartál a 444 új előfizetési és tagsági programja kapcsán",
+        "txtlength": 15706
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/tech/2021/08/21/nokia-xr20-okostelefon-strapatelefon-teszt/",
+        "h1": "Elég nagy félreértés a Nokia új strapatelefonja",
+        "txtlength": 13729
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/sztarvilag/kultura/feleki-kamill-szuletesnap-megemlekezes-ujsagmuzeum/h0y5fcv",
+        "h1": "Felesége halálát nem tudta feldolgozni, szegényen halt meg a büszke magyar komikus, a legnagyobbak egyike",
+        "txtlength": 12301
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/tech/2021/08/20/facebook-tartalom-moderacio-spam-meme-hirfolyam",
+        "h1": "Az agyzsibbasztó virális spam éri el a legtöbb embert a Facebookon",
+        "txtlength": 11823
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/elet/20210820_nonek_lenni_a_talibok_Afganisztanjaban",
+        "h1": "„Ha életben akarok maradni, fel kell vennem a burkát” – nőnek lenni a tálibok országában",
+        "txtlength": 11620
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/nyiregyhaza-csuszdabaleset-eljaras-nyomozas-eber-koma/3rxxffw?sl_ps=d_5",
+        "h1": "„Öt éve pokol az életünk” - több millióba kerülne havonta a 7 éves Vince ápolása, aki figyelmetlen úszómestere miatt került éberkómába",
+        "txtlength": 11487
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/08/21/drag-queenek-unnepeltek-az-alternativ-allamalapitast-a-berlini-magyar-nagykovetseg-elott",
+        "h1": "Drag queenekkel ünnepelték az alternatív államalapítást a berlini magyar nagykövetség előtt",
+        "txtlength": 11442
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/belfold/2021/08/20/2006-augusztus-20-tuzijatek-katasztrofa-vihar-15-eve",
+        "h1": "Tizenöt éve fulladt katasztrófába a fővárosi tűzijáték",
+        "txtlength": 10715
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/tudomany/20210821_dns_alapu_vakcina_koronavirus",
+        "h1": "Jóváhagyták az első DNS-alapú vakcinát a koronavírus ellen",
+        "txtlength": 9257
+    },
+    {
+        "hostname": "nosalty.hu",
         "pagelink": "https://www.nosalty.hu/recept/fott-csoves-kukorica",
         "h1": "Főtt csöves kukorica",
         "txtlength": 10255
