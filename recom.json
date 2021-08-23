@@ -1,6 +1,180 @@
 [
     {
         "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/nagyon-omlos-pite",
+        "h1": "Nagyon omlós pite",
+        "txtlength": 10776
+    },
+    {
+        "hostname": "hataratkelo.blog.hu",
+        "pagelink": "https://hataratkelo.blog.hu/2021/08/16/tiz_ev_es_a_konnyes#c40862878",
+        "h1": "Tíz év és a könnyes…",
+        "txtlength": 45301
+    },
+    {
+        "hostname": "hafr.hvgblog.hu",
+        "pagelink": "https://hafr.hvgblog.hu/2020/11/21/a_varoshaza_mint_idozitett_bomba/",
+        "h1": "A Városháza mint időzített bomba",
+        "txtlength": 6919
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210822_nyugat_interju_hannes_holmsteinn_gissurarson",
+        "h1": "Életben kell tartanunk a Nyugat örökségét! – Izlandi gondolkodó a Mandinernek",
+        "txtlength": 26431
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vallalat/20210823/mig-a-nyugati-klubok-szenvedtek-a-magyar-focit-valsagallova-tette-a-fidesz/",
+        "h1": "Míg a nyugati klubok szenvedtek, a magyar focit válságállóvá tette a Fidesz",
+        "txtlength": 22035
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210831_a_csalad_rendje_vagy_inkabb_falanszter",
+        "h1": "A család rendje vagy inkább falanszter?",
+        "txtlength": 21764
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210818_verseny_lezsirozva",
+        "h1": "Verseny lezsírozva – kezdődik az ellenzéki előválasztás",
+        "txtlength": 21443
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/penz/20210822/normalis-hogy-ket-harom-ceg-kezel-szinte-minden-vagyont-a-vilagon/",
+        "h1": "Normális, hogy két-három cég kezel szinte minden vagyont a világon?",
+        "txtlength": 20216
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/vasarlas/20210820/aranyaron-adjak-az-orszag-tortajat-2021-ben-ma-indul-a-sorbanallas-igy-is-sokan-akarjak-1117103",
+        "h1": "Aranyáron adják az Ország Tortáját 2021-ben: ma indul a sorbanállás, így is sokan akarják",
+        "txtlength": 17030
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2021/08/23/pofa-be-es-szamolj",
+        "h1": "POFA BE ÉS SZÁMOLJ!",
+        "txtlength": 16421
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20210823/sorakoznak-a-kockazatok-akar-evtizedes-kobe-vesett-celjat-is-elbukhatja-a-kormany-497136",
+        "h1": "Sorakoznak a kockázatok, akár évtizedes kőbe vésett célját is elbukhatja a kormány",
+        "txtlength": 15974
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/egeszseg/20210823/amit-a-dohanyzok-megtehetnek-a-kornyezetukert-1117046",
+        "h1": "Amit a dohányzók megtehetnek a környezetükért",
+        "txtlength": 15726
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/szuloseg/buli-nemi-eroszak/",
+        "h1": "„Nem az alkohol vetkőztetett le, ujjazott meg, nyomta le a fejem a földre”",
+        "txtlength": 15474
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.penzcentrum.hu/egeszseg/20210823/aggodnak-az-iskolakezdes-miatt-a-magyar-szulok-sokan-megsem-tamogatjak-a-gyerekek-oltasat-1117165",
+        "h1": "Aggódnak az iskolakezdés miatt a magyar szülők: sokan mégsem támogatják a gyerekek oltását",
+        "txtlength": 13497
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20210823/gyorsan-terjed-a-koronavirus-a-vilagon-497396",
+        "h1": "Gyorsan terjed a koronavírus a világon, Magyarországon is több a fertőzött ",
+        "txtlength": 13100
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/kapcsolat/szepseg-szornyeteg-petrus-gonsalvus/",
+        "h1": "A valódi szépség és szörnyeteg megrázó története: a beteg férfivel sokáig állatként bántak",
+        "txtlength": 10446
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/direkt36/2021/08/23/orban-viktor-oltas-harmadik-hullam-korhazi-dramak",
+        "h1": "Oltással akarta elkerülni Orbán a kórházi drámákat. Végül csak eltitkolni tudta azokat",
+        "txtlength": 28257
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kulfold/2021/08/23/usa-kina-hideghaboru-csipgyartas-iparpolitika-allami-tamogatas-innovacio-kutatas-verseny",
+        "h1": "Kísértet járja be Amerikát, az iparpolitika kísértete",
+        "txtlength": 24489
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/belfold/2021/08/22/club-aliga-lakossagi-forum-balatonvilagos-fidesz-appeninn",
+        "h1": "Elegünk van az elzárásból, az egy diktatúra alatt volt",
+        "txtlength": 18924
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kulfold/2021/08/22/wiener-zeitung-sebastian-kurz/",
+        "h1": "Rákóczi gyűlölte, Kurz most kivérezteti a világ egyik legrégibb napilapját",
+        "txtlength": 15944
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/tudomany/20210823_harmadik_oltas_tanacsok_vakcina_hatekonysag_sinopharm_pfizer_moderna_astrazeneca_",
+        "h1": "Ki kérje a harmadik oltást? Mit mond ma a tudomány?",
+        "txtlength": 14210
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kulfold/2021/08/22/ellepi-romaniat-a-kulfoldi-szemet/",
+        "h1": "Ellepi Romániát a külföldi szemét, a maffia csápjai a politikusokig érnek",
+        "txtlength": 12650
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/08/22/ejfel-tajan-erkezik-haza-az-elso-magyar-mentojarat-afganisztanbol",
+        "h1": "Éjfél táján érkezik haza az első magyar mentőjárat Afganisztánból",
+        "txtlength": 12547
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2021/08/23/legiiranyito-sztrajk-fizetes/",
+        "h1": "Egyharmaddal csökkent a sztrájkról eltiltott légiforgalmi irányítók jövedelme január óta",
+        "txtlength": 11730
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/08/23/allitasuk-szerint-nem-beremelesrol-hanem-a-bercsokkentes-mertekerol-targyaltak-a-legiiranyitok",
+        "h1": "Állításuk szerint nem béremelésről, hanem a bércsökkentés mértékéről tárgyaltak a légi irányítók",
+        "txtlength": 11370
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20210823_kormany_jarvanykezeles_kommunikacio_direkt36",
+        "h1": "Direkt36: Az Orbán-kormány el akarta titkolni a koronavírussal küzdő kórházak valóságát",
+        "txtlength": 9742
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/sztarvilag/filmklikk/pal-utcai-fiuk-fabri-zoltan-rendezo/6hh2th8",
+        "h1": "Tudta, hogy mi lett Nemecsekkel a Pál utcai fiúk film után? - és azt, hogy angol gyerekszínészek játszották a fiúkat?",
+        "txtlength": 9657
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20210823_Politikai_szezonnyito_forro_osz_Fidesz_ellenzek_elovalasztas",
+        "h1": "Lesz-e idén forró ősz a politikában?",
+        "txtlength": 9539
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/politika/ader-allamfo-koztarsasagi-elnok-mandatum-nyugdij-angela-merkel/87zjky7?sl_ps=d_1",
+        "h1": "Áder Jánosnak hatalmas nyugdíj jár: alig kap majd kevesebbet, mint Angela Merkel",
+        "txtlength": 9283
+    },
+    {
+        "hostname": "nosalty.hu",
         "pagelink": "https://www.nosalty.hu/recept/tejfolos-sajtos-csirkemell",
         "h1": "Tejfölös-sajtos csirkemell",
         "txtlength": 11022
