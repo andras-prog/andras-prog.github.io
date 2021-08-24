@@ -1,6 +1,186 @@
 [
     {
         "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/rizskoch-citromhejjal",
+        "h1": "Rizskoch citromhéjjal",
+        "txtlength": 11169
+    },
+    {
+        "hostname": "kiszamolo.hu",
+        "pagelink": "https://kiszamolo.hu/a-minsky-pillanat/#more-116011",
+        "h1": "A Minsky pillanat",
+        "txtlength": 36902
+    },
+    {
+        "hostname": "alapblog.hu",
+        "pagelink": "https://alapblog.hu/sajat-haz-sajat-lakas-csak-azt-ne/",
+        "h1": "SAJÁT HÁZ? SAJÁT LAKÁS? CSAK AZT NE!",
+        "txtlength": 11517
+    },
+    {
+        "hostname": "efesasanisimasa.com",
+        "pagelink": "https://efesasanisimasa.com/2021/08/23/porolo-68-a-komedia-kiralya-the-king-of-comedy-1982/",
+        "h1": "Poroló 68. – A komédia királya (The King of Comedy, 1982)",
+        "txtlength": 8366
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210824_nemetorszag_valasztas_laschet_scholz_maas_afganisztan",
+        "h1": "Jól megkavarta a német kampányt az afgán összeomlás",
+        "txtlength": 19655
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210818_szimpatikus_amit_orban_tesz",
+        "h1": "Szimpatikus, amit Orbán tesz – Abishur Prakash a Mandinernek",
+        "txtlength": 19377
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/uzlet/20210823/igy-verte-at-bill-gatest-az-ember-aki-most-kozel-300-eves-bortonbuntetest-kaphat-497436",
+        "h1": "Így verte át Bill Gatest az ember, aki most közel 300 éves börtönbüntetést kaphat",
+        "txtlength": 19075
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vallalat/20210824/tiz-ev-alatt-sikeragazatta-tomte-ki-a-magyar-focit-az-allam-penzugyileg/",
+        "h1": "Tíz év alatt sikerágazattá tömte ki a magyar focit az állam, pénzügyileg",
+        "txtlength": 18703
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210819_ketsegei_vannak_az_ujpesti_baloldalnak_hogy_sikeres_lehet_e_a_fiatalok_iskolai_oltasi_programja",
+        "h1": "Becsengetés előtti hangulatkeltésbe kezdett az újpesti baloldal",
+        "txtlength": 16592
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/adat/20210823/nem-is-a-repules-kapta-a-legnagyobb-pofont-a-jarvanyban/",
+        "h1": "Nem is a repülés kapta a legnagyobb pofont a járványban",
+        "txtlength": 16373
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/global/20210824/osszecsaptak-a-hullamok-joe-biden-feje-folott-belebukhat-az-elnok-az-afganisztani-osszeomlasba-497466",
+        "h1": "Összecsaptak a hullámok Joe Biden feje fölött – Belebukhat az elnök az afganisztáni összeomlásba?",
+        "txtlength": 16222
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/kapcsolat/bantalmazo-partner-felismerese-kerdesek/",
+        "h1": "9 kérdés, ami segít időben felismerni a bántalmazó partnert: légy óvatos, ha igennel felelsz rájuk",
+        "txtlength": 15899
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/auto/20210818/oket-nem-utotte-meg-a-valsag-szazszamra-veszik-a-luxusautokat-a-leggazdagabb-magyarok-1117065",
+        "h1": "Őket nem ütötte meg a válság: százszámra veszik a luxusautókat a leggazdagabb magyarok",
+        "txtlength": 15610
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/vasarlas/20210824/hatfajos-ego-szemu-kialvatlan-gyerekek-ez-all-a-hatterben-1117170",
+        "h1": "Hátfájós, égő szemű, kialvatlan gyerekek – ez áll a háttérben",
+        "txtlength": 15325
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.penzcentrum.hu/vasarlas/20210824/hatfajos-ego-szemu-kialvatlan-gyerekek-ez-all-a-hatterben-1117170",
+        "h1": "Hátfájós, égő szemű, kialvatlan gyerekek – ez áll a háttérben",
+        "txtlength": 14587
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2021/08/23/szenzacio-az-elmeleti-fizikaban-sikerult-letrehozni-a-wigner-jeno-altal-1934-ben-megalmodott-kristalyt",
+        "h1": "SZENZÁCIÓ AZ ELMÉLETI FIZIKÁBAN: SIKERÜLT LÉTREHOZNI A WIGNER JENŐ ÁLTAL 1934-BEN MEGÁLMODOTT KRISTÁLYT",
+        "txtlength": 10016
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/lajfhekk/hotelszobabol-mit-szabad-hazavinni/",
+        "h1": "Hotelszobából mit szabad hazavinni",
+        "txtlength": 8089
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/tech/2021/08/23/humankind-videojatek-teszt-strategia-civilization",
+        "h1": "Mindennél véresebb olajháborút vívtam a Marsra utazásért, igazából teljesen értelmetlenül",
+        "txtlength": 21580
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2021/08/23/afganisztan-afgan-menekultek-migracio-magyarorszag-iszlam-talibok/",
+        "h1": "Negyven éve élnek köztünk afgán menekültek, kell-e félnünk tőlük?",
+        "txtlength": 19355
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20210824_Fudankampusz_elokeszites_homalyos_magyar_lobbiceg_kormany",
+        "h1": "Leállt a kormány a Fudan-kampusz előkészítésével, a homályos magyar lobbicég is kivár",
+        "txtlength": 17785
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kulfold/2021/08/23/pandzsir-afganisztan-bevehetetlen-tartomanya-es-orokos-hose-maszud-az-oroszlan",
+        "h1": "Afganisztán bevehetetlen tartománya, ami most is ellenállna a táliboknak",
+        "txtlength": 17092
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kulfold/2021/08/23/bulgaria-parlamenti-valasztasok-kormanyalakitas-politikai-valsag-ellenzek/",
+        "h1": "Így fordítja káoszba a győzelmét a megosztott ellenzék",
+        "txtlength": 15960
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/belfold/2021/08/23/szeged-ellenzek-elovalasztas-gyurcsany-jakab-karacsony-dk-jobbik",
+        "h1": "A város, ahol tényleg nagy tétje van az előválasztásnak",
+        "txtlength": 15828
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/sport/2021/08/23/azt-hittem-meg-fogok-halni-a-kezilabdazokat-is-fenyegeti-a-kieges-veszelye/",
+        "h1": "„Azt hittem, meg fogok halni” – a kézilabdázókat is fenyegeti a kiégés veszélye",
+        "txtlength": 15788
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20210824_Alairasgyujtes_ellenzek_elovalasztas_GDPR_telefon",
+        "h1": "Ellenzéki jelöltet támogatott? Ne lepődjön meg, ha valaki felhívja!",
+        "txtlength": 14837
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/tudomany/20210822_alakvalto_samsung_csucsmobilok_teszten_a_z_fold3_es_a_z_flip3",
+        "h1": "Alakváltó új Samsung csúcsmobilok: teszten a Z Fold3 és a Z Flip3",
+        "txtlength": 13487
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/08/23/nagy-istvan-a-vadaszok-a-legaktivabb-termeszetvedok",
+        "h1": "Nagy István: A vadászok a legaktívabb természetvédők",
+        "txtlength": 13133
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/08/24/akiknek-mar-osszejott-az-ajanlas",
+        "h1": "Akiknek már összejött az ajánlás",
+        "txtlength": 12004
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/nyiregyhaza-csuszdabaleset-eljaras-nyomozas-eber-koma/3rxxffw?utm_source=related&utm_medium=www.blikk.hu&utm_campaign=widget-9446979",
+        "h1": "„Öt éve pokol az életünk” - több millióba kerülne havonta a 7 éves Vince ápolása, aki figyelmetlen úszómestere miatt került éberkómába",
+        "txtlength": 11787
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/sztarvilag/kultura/ujsagmuzeum-labass-juci-halal-evfordulo-primadonna/06396fn",
+        "h1": "Álmában érte a halál az ünnepelt magyar primadonnát, igazi nőideál volt",
+        "txtlength": 9823
+    },
+    {
+        "hostname": "nosalty.hu",
         "pagelink": "https://www.nosalty.hu/recept/nagyon-omlos-pite",
         "h1": "Nagyon omlós pite",
         "txtlength": 10776
