@@ -1,6 +1,186 @@
 [
     {
         "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/sertesporkolt",
+        "h1": "Sertéspörkölt",
+        "txtlength": 10682
+    },
+    {
+        "hostname": "kiszamolo.hu",
+        "pagelink": "https://kiszamolo.hu/mennyire-lesz-tartos-a-hazassag/",
+        "h1": "Mennyire lesz tartós a házasság?",
+        "txtlength": 32531
+    },
+    {
+        "hostname": "alapblog.hu",
+        "pagelink": "https://alapblog.hu/es-az-uj-sepru-nem-jol-sepert/",
+        "h1": "ÉS AZ ÚJ SEPRŰ NEM JÓL SEPERT",
+        "txtlength": 9560
+    },
+    {
+        "hostname": "kulturpart.hu",
+        "pagelink": "https://kulturpart.blog.hu/2021/08/24/a_gyerekeimnek_a_gyerekei",
+        "h1": "A NAGYSZÜLŐK DICSÉRETE",
+        "txtlength": 9478
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/global/20210824/egymasnak-feszul-a-nemet-politika-ket-nagyagyuja-nagyon-nem-mindegy-melyikuk-nyeri-a-harcot-497486",
+        "h1": "Egymásnak feszül a német politika két nagyágyúja - Nagyon nem mindegy, melyikük nyeri a harcot",
+        "txtlength": 23203
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210822_a_haderofejlesztes_egyszerre_szolgalja_az_orszag_gazdasagi_es_joleti_celkituzeseit_maroth_gaspar_a_mandinernek",
+        "h1": "Nem egy Big Brother-show a haderőfejlesztés – Maróth Gáspár kormánybiztos a Mandinernek",
+        "txtlength": 20399
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/kozelet/20210825/egeszen-szurrealis-modot-talalt-a-kormany-hogy-barmikor-elvonhassa-a-telepulesek-fo-adobevetelet/",
+        "h1": "Egészen szürreális módot talált a kormány, hogy bármikor elvonhassa a települések fő adóbevételét",
+        "txtlength": 20172
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://sport.mandiner.hu/cikk/20210824_elo_tudositasunk_a_ferencvaros_young_boys_bl_merkozesrol",
+        "h1": "Ferencváros – Young Boys 2-3!",
+        "txtlength": 18701
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/global/20210825/felfedte-magat-a-rejtelyes-talib-elitkommando-mit-tud-az-iszlamistak-kulonleges-alakulata-497604",
+        "h1": "Felfedte magát a rejtélyes tálib elitkommandó – Mit tud az iszlamisták különleges alakulata?",
+        "txtlength": 16669
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210819_a_baloldalnak_fel_kene_hagynia_azzal_hogy_az_onkormanyzati_politikat_pusztan_ugrodeszkanak_hasznalja_orszagos_hatalmi_torekveseihez_voros_tamas_a_mandinernek",
+        "h1": "Kommunikációs trükkökből még nem épült semmi – üzent a Fidesz Pikó Andrásnak",
+        "txtlength": 15678
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/gazdasag/20210824/tovabb-nott-az-alapkamat-retteghetnek-az-adosok-mi-lesz-igy-a-hiteleikkel-befekteteseikkel-1117201",
+        "h1": "Tovább nőtt az alapkamat, retteghetnek az adósok: mi lesz így a hiteleikkel, befektetéseikkel?",
+        "txtlength": 15283
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/karrier/20210822/nincs-teljesen-veszve-a-rugalmas-munkaido-ha-profi-vagy-igy-meg-kialkudhatod-1117045",
+        "h1": "Nincs teljesen veszve a rugalmas munkaidő: ha profi vagy, így még kialkudhatod",
+        "txtlength": 14399
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vallalat/20210824/eladja-reszesedeset-a-dunaferrben-az-allam-ma-estig-lehet-licitalni/",
+        "h1": "Eladja részesedését a Dunaferrben az állam, ma estig lehet licitálni",
+        "txtlength": 14375
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20210824/fokozatosan-leall-az-allampapirvasarlasokkal-az-mnb-497612",
+        "h1": "Fokozatosan leáll az állampapírvásárlásokkal az MNB!",
+        "txtlength": 13937
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/szuloseg/egyedulallo-apak/",
+        "h1": "egyedülálló apák",
+        "txtlength": 13482
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2021/08/25/ki-bitet-vet-bajtot-arat",
+        "h1": "KI BITET VET, BÁJTOT ARAT",
+        "txtlength": 11800
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/utazas/kalvaria-pest-megye/",
+        "h1": "3 gyönyörű kálvária Pest megyében: varázslatos helyszíneken idézhető fel Jézus keresztútja",
+        "txtlength": 10621
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kulfold/2021/08/25/biden-afganisztan-kivonulas-belpolitika-nepszeruseg-valasztas-valsag-demokrata-part-republikanusok",
+        "h1": "Biden első válsága várható volt, mégis mindenkit meglepett",
+        "txtlength": 26766
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/koronavirus/2021/08/25/pfizer-biontech-vakcina-amerika-usa-teljes-koru-engedely-jovahagyas-fda-oltakozasi-kedv-hajlandosag-kotelezo-oltas-off-label",
+        "h1": "Kötelező oltások jöhetnek a Pfizer amerikai engedélye nyomán",
+        "txtlength": 16587
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/sport/2021/08/24/egesz-amerika-rajta-rohogott-ma-mar-olimpiai-rekorder",
+        "h1": "Egész Amerika rajta röhögött, folyamatosan szekálták, ma már olimpiai rekorder",
+        "txtlength": 14973
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20210825_Kulfold_magan_meddosegi_klinikak_allamositas",
+        "h1": "Külföldre menekülnek a meddőségi klinikák államosítása elől a magyar párok",
+        "txtlength": 14700
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kultura/2021/08/24/rudolf-peter-a-megszallottsagot-kell-mederbe-terelni/",
+        "h1": "Rudolf Péter: A megszállottságot kell mederbe terelni",
+        "txtlength": 13546
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/08/25/az-amerikai-hirszerzes-nem-tudta-megvalaszolni-hogy-honnan-ered-a-koronavirus-jarvany",
+        "h1": "Az amerikai hírszerzés nem tudta megválaszolni, hogy honnan ered a koronavírus-járvány",
+        "txtlength": 13540
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kultura/2021/08/24/a-tanszekvezeto-netflix-sorozat-kritika-the-chair/",
+        "h1": "Lövészárokharcra számítson, aki ma tanszékvezetőnek áll Amerikában",
+        "txtlength": 12684
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2021/08/24/asz-schiffer-vita-propaganda-plakat-gyurcsany-fidesz/",
+        "h1": "ÁSZ: Schiffer András a „jogállami keretek” átlépésére buzdítja a számvevőszéket",
+        "txtlength": 12443
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/08/25/semjen-zsolt-hobbijelmezben",
+        "h1": "Semjén Zsolt hobbijelmezben",
+        "txtlength": 12391
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/zemplen-turista-imre-lezuhant-speciali-menok-lehoczki-laszlo-hajduboszormeny/7bvjzr7?sl_ps=d_3",
+        "h1": "Hiába küzdött az életéért: a poklok poklát élhette át végóráiban a mélybe zuhant zempléni túrázó",
+        "txtlength": 9859
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/politika/szajer-jozsef-friss-fotok-kepek-megtalaltuk-felesege/vvk4kwq?sl_ps=d_1",
+        "h1": "Megtaláltuk a brüsszeli szexbotránya után: Szájer József a Balatonon bújt el – fotók",
+        "txtlength": 9126
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20210825_fopolgarmester_helyettes_keszpenz_mukodes_budapest",
+        "h1": "Budapest fizetésképtelenné válhat az év végére",
+        "txtlength": 9120
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/tudomany/20210825_samsung_vakcinagyartas_vakcina_chipgyartas",
+        "h1": "Brutális pénzt fektet saját jövőjébe a Samung, a vakcinagyártásba is beszállnak",
+        "txtlength": 7474
+    },
+    {
+        "hostname": "nosalty.hu",
         "pagelink": "https://www.nosalty.hu/recept/rizskoch-citromhejjal",
         "h1": "Rizskoch citromhéjjal",
         "txtlength": 11169
