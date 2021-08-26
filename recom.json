@@ -1,6 +1,204 @@
 [
     {
         "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/kremes-szilvas-pite",
+        "h1": "Krémes-szilvás pite",
+        "txtlength": 12080
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/gombaval-toltott-borzas-karaj-spenotmartassal.recept",
+        "h1": "GOMBÁVAL TÖLTÖTT BORZAS KARAJ",
+        "txtlength": 11058
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/hazi-ajvar.recept",
+        "h1": "HÁZI AJVÁR",
+        "txtlength": 10831
+    },
+    {
+        "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/paradicsom-egeszben-telire-tartositoszer-nelkul",
+        "h1": "Paradicsom egészben, télire - tartósítószer nélkül",
+        "txtlength": 10143
+    },
+    {
+        "hostname": "kiszamolo.hu",
+        "pagelink": "https://kiszamolo.hu/nulla-szazalekos-csok-hitel/",
+        "h1": "Nulla százalékos CSOK hitel",
+        "txtlength": 29283
+    },
+    {
+        "hostname": "efesasanisimasa.com",
+        "pagelink": "https://efesasanisimasa.com/2021/08/24/porolo-69-ragtime-1981/",
+        "h1": "Poroló 69. – Ragtime (1981)",
+        "txtlength": 10172
+    },
+    {
+        "hostname": "alapblog.hu",
+        "pagelink": "https://alapblog.hu/olvasoink-kerdeztek-valaszolunk-kriptodevizak/",
+        "h1": "OLVASÓINK KÉRDEZTÉK, VÁLASZOLUNK – KRIPTODEVIZÁK",
+        "txtlength": 9586
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vilag/20210826/az-opiumnal-is-erosebb-fuggoseg-fenyegeti-az-afgan-gazdasagot/",
+        "h1": "Az ópiumnál is erősebb függőség fenyegeti az afgán gazdaságot",
+        "txtlength": 25720
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20210826/12-veszely-amitol-most-felhet-a-vilag-497684",
+        "h1": "12 veszély, amitől most félhet a világ",
+        "txtlength": 21176
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210826_wekerle_sandor",
+        "h1": "Wekerle emlékezete: száz éve hunyt el az első polgári miniszterelnök",
+        "txtlength": 20961
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2021/08/26/mikor-tudjuk-mar-pikk-pakk-feltolteni-az-agyunkba-a-b-212-es-helikopter-pilotaprogramjat",
+        "h1": "MIKOR TUDJUK MÁR PIKK-PAKK FELTÖLTENI AZ AGYUNKBA A B-212-ES HELIKOPTER PILÓTAPROGRAMJÁT?",
+        "txtlength": 20473
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/kapcsolat/afgan-nok-helyzet/",
+        "h1": "„Csak várom, hogy jöjjenek, és megöljenek”: nők, akik mindig vesztesei voltak az afgán történelemnek, bárkik is jöttek",
+        "txtlength": 18644
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20210826/magyarorszag-olyan-lazan-varja-a-negyedik-hullamot-mint-europaban-kevesek-497602",
+        "h1": "Magyarország olyan lazán várja a negyedik hullámot, mint Európában kevesek",
+        "txtlength": 17728
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/adat/20210825/a-covid-lett-a-harmadik-leggyakoribb-halalok-magyarorszagon-2020-ban/",
+        "h1": "A Covid lett a harmadik leggyakoribb halálok Magyarországon 2020-ban",
+        "txtlength": 16950
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/nyugdij/20210826/akar-100-ezer-forint-is-utheti-a-nyugdijasok-markat-osszel-megint-lesz-akinek-csak-toredeke-jar-1117235",
+        "h1": "Akár 100 ezer forint is ütheti a nyugdíjasok markát ősszel: megint lesz, akinek csak töredéke jár",
+        "txtlength": 16508
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.penzcentrum.hu/nyugdij/20210826/akar-100-ezer-forint-is-utheti-a-nyugdijasok-markat-osszel-megint-lesz-akinek-csak-toredeke-jar-1117235",
+        "h1": "Akár 100 ezer forint is ütheti a nyugdíjasok markát ősszel: megint lesz, akinek csak töredéke jár",
+        "txtlength": 16290
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/egeszseg/20210821/lezarasrol-hallani-sem-akar-a-kormany-milyen-szigoritasokra-szamithatunk-osszel-1117141",
+        "h1": "Lezárásról hallani sem akar a kormány: milyen szigorításokra számíthatunk ősszel?",
+        "txtlength": 15849
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://sport.mandiner.hu/cikk/20210825_megszuletett_az_elso_magyar_erem_a_tokioi_paralimpian",
+        "h1": "Ezüst az első érem a remélt tizenötből a tokiói paralimpián - összefoglaló az első versenynapról",
+        "txtlength": 15683
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210825_nem_szeretnek_egy_dk_altal_dominalt_parlamenti_tobbseget_palinkas_jozsef_a_mandinernek",
+        "h1": "Amennyire ismerem, Gyurcsány dominálja az ellenzéki egyeztetéseket – Pálinkás József a Mandinernek",
+        "txtlength": 15179
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/szuloseg/kovetkezetesseg-gyerekneveles/",
+        "h1": "következetesség gyereknevelés",
+        "txtlength": 11148
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kulfold/2021/08/26/afgan-menekultek-magyarorszag-roszke-egyesult-allamok-joe-biden-ausztria",
+        "h1": "Nehéz kijutni Afganisztánból, de az se könnyebb, ami utána jön",
+        "txtlength": 24435
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kultura/2021/08/25/bevandorlas-migracio-nyitott-hatarok-szabad-a-palya-bryan-caplan-kepregeny-soros-gyorgy/",
+        "h1": "Ő az, aki tényleg kinyitná a határokat – viszont nem Sorosnak hívják",
+        "txtlength": 18283
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kulfold/2021/08/25/olaf-scholz-nemetorszag-valasztas-spd-cdu-kampany/",
+        "h1": "Annyira kiakadtak a németek, hogy akár a nevető harmadik is befuthat kancellárnak",
+        "txtlength": 14422
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/elet/20210825_Hogyan_eljunk_dan_modra",
+        "h1": "Úgy tűnik, Orbán Viktor is boldog akar lenni",
+        "txtlength": 14043
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/08/26/a-nepunnepely-megtette-nem-kivant-hatasat",
+        "h1": "A népünnepély megtette nem kívánt hatását",
+        "txtlength": 13081
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/krimi/sorozatgyilkos-agressziv-brutalis-budapest-rendorseg/lj450qd?sl_ps=d_5",
+        "h1": "Elfogták a rettegett budapesti sorozatgyilkost: itt vannak az ügy részletei",
+        "txtlength": 12898
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/szorakozas/2021/08/25/gamescom-2021-videojatek-megnyito-bejelentes",
+        "h1": "A halál asszonya átkommandózott Sztálingrádon, de egy csapat szuperhős még őt is lenyomta",
+        "txtlength": 12378
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/08/25/az-egyesult-allamokban-kotelezove-tettek-az-koronavirus-elleni-vedooltast-a-katonaknak",
+        "h1": "Az Egyesült Államokban kötelezővé tették a koronavírus elleni védőoltást a katonáknak",
+        "txtlength": 12170
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20210826_honvedseg_sajtotajekoztato",
+        "h1": "Minden olyan magyart sikerült kimenteni Afganisztánból, aki kapcsolatba lépett a magyar hatóságokkal",
+        "txtlength": 11446
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/zemplen-turista-imre-lezuhant-speciali-menok-lehoczki-laszlo-hajduboszormeny/7bvjzr7",
+        "h1": "Hiába küzdött az életéért: a poklok poklát élhette át végóráiban a mélybe zuhant zempléni túrázó",
+        "txtlength": 9881
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kult/2021/08/26/tilda-swinton-memoria-kritika-karlovy-vary-apichatpong-weerasethakul",
+        "h1": "Tilda Swinton egy napon arra ébred, hogy a feje ágyúvá változott",
+        "txtlength": 9465
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/tudomany/2021/08/26/erdotuz-bozottuz-fust-koraszules/",
+        "h1": "Meglepő, mi növelheti a koraszülés kockázatát",
+        "txtlength": 9444
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/tudomany/20210825_telenor_mme_kornyezetbarat_mobiltok_fecskek_palyazat",
+        "h1": "Ha jól rajzol, küldje be: az ön fecskéje kerülhet a Telenor különleges mobiltokjaira",
+        "txtlength": 9381
+    },
+    {
+        "hostname": "nosalty.hu",
         "pagelink": "https://www.nosalty.hu/recept/sertesporkolt",
         "h1": "Sertéspörkölt",
         "txtlength": 10682
