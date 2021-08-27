@@ -1,6 +1,186 @@
 [
     {
         "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/klasszikus-toltott-kaposzta",
+        "h1": "Klasszikus töltött káposzta",
+        "txtlength": 11563
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/zebracsikos-palacsinta-dios-fugelekvarral-toltve.recept",
+        "h1": "ZEBRACSÍKOS PALACSINTA",
+        "txtlength": 10586
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/rantott-hus-meg-finomabban.recept",
+        "h1": "RÁNTOTT HÚS MÉG FINOMABBAN",
+        "txtlength": 10517
+    },
+    {
+        "hostname": "hataratkelo.blog.hu",
+        "pagelink": "https://hataratkelo.blog.hu/2021/08/23/_olyan_helyre_vagytunk_ahol_megbecsulik_a_munkat#c40870738",
+        "h1": "„Olyan helyre vágytunk, ahol megbecsülik a munkát”",
+        "txtlength": 55035
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/vallalkozas/20210827/capabiznisz-kishalak-modjara-erdekes-uzleti-korok-alakulnak-magyarorszagon-1117199",
+        "h1": "Cápabiznisz Kishalak módjára: érdekes üzleti körök alakulnak Magyarországon",
+        "txtlength": 31560
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.penzcentrum.hu/vallalkozas/20210827/capabiznisz-kishalak-modjara-erdekes-uzleti-korok-alakulnak-magyarorszagon-1117199",
+        "h1": "Cápabiznisz Kishalak módjára: érdekes üzleti körök alakulnak Magyarországon",
+        "txtlength": 31547
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/bank/20210827/bitcoinert-zsaroltak-a-magyar-bankokat-a-peldatlan-kibertamadas-alatt-mindenki-felkeszult-az-ujabb-akciokra-498034",
+        "h1": "Bitcoinért zsarolták a magyar bankokat a példátlan kibertámadás alatt, mindenki felkészült az újabb akciókra",
+        "txtlength": 25889
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210826_kubatov_fradi_vilagbajnoksag_bajnokok_ligaja_europa_liga",
+        "h1": "Akkor lesz több magyar játékos a Fradiban, ha a magyarok végre jobban akarnak – Kubatov Gábor a Mandinernek",
+        "txtlength": 25113
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210825_most_vagy_soha",
+        "h1": "Muszáj a legtehetségesebbeket itt tartani – a Corvinus rektora a Mandinernek",
+        "txtlength": 22655
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2021/08/27/ha-mar-nyakunkon-a-klimavalsag-legyunk-mi-az-egyuttmukodok-ne-a-potyazok",
+        "h1": "HA MÁR NYAKUNKON A KLÍMAVÁLSÁG, LEGYÜNK MI AZ EGYÜTTMŰKÖDŐK, NE A POTYÁZÓK!",
+        "txtlength": 22261
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/tech/20210827/kovacs-ur-nagyon-maskepp-zoldit-ha-e-autora-valt-mint-herr-muller/",
+        "h1": "Kovács úr nagyon másképp zöldít, ha e-autóra vált, mint Herr Müller",
+        "txtlength": 22188
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/tech/20210827/peking-nem-ad-az-adataibol-mikozben-sajat-gigacegeivel-sem-fel-szembemenni/",
+        "h1": "Peking nem ad az adataiból, miközben saját gigacégeivel sem fél szembemenni",
+        "txtlength": 18915
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/global/20210827/koronavirus-sorra-buknak-el-a-vedekezes-mintaorszagai-a-delta-varians-ezt-is-elintezte-498004",
+        "h1": "Koronavírus: sorra buknak el a védekezés mintaországai, a delta variáns ezt is elintézte",
+        "txtlength": 17266
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/gazdasag/20210824/varatlan-bejelentest-tett-az-mnb-az-ujabb-kamatemeles-csak-a-kezdet-volt-1117213",
+        "h1": "Váratlan bejelentést tett az MNB: az újabb kamatemelés csak a kezdet volt",
+        "txtlength": 16320
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210826_vitezy_david_budapest_karacsony_gergely_villamos_lampa",
+        "h1": "Vitézy: Utasok százezreit érinti hátrányosan a főpolgármester mai döntése",
+        "txtlength": 15405
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/szuloseg/klaus-grawe-onertekeles/",
+        "h1": "Klaus Grawe önértékelés",
+        "txtlength": 10866
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/egeszseg/zoldsegek-egeszsegesebbek-fozve/",
+        "h1": "4 zöldség, ami főzve még egészségesebb, mint nyersen: jobban hasznosulnak bennük a tápanyagok",
+        "txtlength": 10627
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kulfold/2021/08/26/robbantas-razta-meg-a-kabuli-repteret",
+        "h1": "Kabuli támadás: több mint száz a halott, köztük 13 amerikai katona",
+        "txtlength": 15839
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kulfold/2021/08/26/afganisztan-talib-megszallas-menekultek-hova-mennek/",
+        "h1": "Hová menekülhetnek az afgánok a tálibok elől?",
+        "txtlength": 15784
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20210827_Karacsony_atletikai_vilagbajnoksag_fudan_diakvaros_bloff",
+        "h1": "Politikai blöffnek tűnik Karácsony húzása az atlétikai vb-vel, és csak remélheti, hogy a kormány bedobja a lapjait",
+        "txtlength": 15580
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://eduline.hu/kozoktatas/20210826_elsosok_tanevkezdes_kiadasok",
+        "h1": "Aki szerint 30 ezer forintból meg lehet úszni egy elsős iskolakezdését, az még nem járt írószerboltban",
+        "txtlength": 14439
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/tudomany/2021/08/26/parlagfuevo-bogar-parlagfu-allergia-pollen-olajosbogar/",
+        "h1": "Parlagfüvet pusztító bogár terjed Magyarországon",
+        "txtlength": 13541
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/fn/gazdasag/2021/08/27/titok-gurulmadaras-felvonulas-augusztus-20-andrassy-ut-tulipan-tunder/",
+        "h1": "„Összességében elégedett vagyok” – megszólalt a gurulmadaras felvonulást szervező TulipánTündér vezetője",
+        "txtlength": 12601
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kulfold/2021/08/27/afganisztan-iszlam-allam-kabuli-merenylet-horaszan-tartomany",
+        "h1": "Miért robbantott az Iszlám Állam a tálibok területén?",
+        "txtlength": 11976
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/08/26/hatvan-civil-es-negy-amerikai-katona-halt-meg-a-kabuli-robbantasokban",
+        "h1": "Hatvan civil és több mint 10 amerikai katona halt meg a kabuli robbantásokban",
+        "txtlength": 11488
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/08/27/joe-biden-visszacsapna",
+        "h1": "Joe Biden visszacsapna",
+        "txtlength": 11334
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/belfold/2021/08/27/mit-jelent-karacsony-vb-vetoja-leallnak-e-a-fejlesztesek",
+        "h1": "Karácsony vb-vétója a fővárosi koalícióban is feszültséget okozott, és fejlesztéseket is veszélybe sodorhat",
+        "txtlength": 11208
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/gazdasag/20210827_lakashitel_bank360",
+        "h1": "Kamatemelés: mennyi most egy 10 millió forintoslakáshitel törlesztője?",
+        "txtlength": 9053
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/kulfold/kabuli-terrortamadas-megrendito-felvetelek/xnsjxk0?sl_ps=d_3",
+        "h1": "Magyarázza el valaki ennek az édesapának a halott kislányával a karjában, hogy mit tettek az elmúlt 20 éveben – A kabuli terrortámadás legmegrendítőbb felvételei (18+)",
+        "txtlength": 8755
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/idojaras-elorejelzes-oszies-csapadekos-nap-augusztus-27-pentek/9dd3f2s",
+        "h1": "Időjárás ma: tényleg beköszöntött az ősz, kiadták a figyelmeztetést is",
+        "txtlength": 8474
+    },
+    {
+        "hostname": "nosalty.hu",
         "pagelink": "https://www.nosalty.hu/recept/kremes-szilvas-pite",
         "h1": "Krémes-szilvás pite",
         "txtlength": 12080
