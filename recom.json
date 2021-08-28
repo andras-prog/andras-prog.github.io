@@ -1,6 +1,186 @@
 [
     {
         "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/spenot-fozelek-egyszeruen",
+        "h1": "Spenót főzelék egyszerűen",
+        "txtlength": 10375
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/csevapcsicsa-video.recept",
+        "h1": "CSEVAPCSICSA",
+        "txtlength": 10243
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/husgomboc-vadasz-modra.recept",
+        "h1": "HÚSGOMBÓC VADÁSZ MÓDRA",
+        "txtlength": 10162
+    },
+    {
+        "hostname": "hataratkelo.blog.hu",
+        "pagelink": "https://hataratkelo.blog.hu/2021/08/27/level_egy_hataratkelo_kutyajatol#c40873354",
+        "h1": "Levél egy határátkelő kutyájától",
+        "txtlength": 61968
+    },
+    {
+        "hostname": "kulturpart.hu",
+        "pagelink": "https://kulturpart.blog.hu/2021/08/23/irodalmi_minifesztival_lesz_a_szkeneben",
+        "h1": "IRODALMI MINIFESZTIVÁL LESZ A SZKÉNÉBEN",
+        "txtlength": 8221
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210825_perintfalvi_rita_konyverol_sok_tevedes_elszalasztott_lehetoseg",
+        "h1": "Szexuális ragadozók az egyházban: nagy bajok vannak Perintfalvi Rita könyvével",
+        "txtlength": 41339
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/nyugdij/20210825/10-ijeszto-teny-amivel-hamarosan-minden-magyar-nyugdijasnak-szembe-kell-neznie-1117206",
+        "h1": "10 ijesztő tény, amivel hamarosan minden magyar nyugdíjasnak szembe kell néznie",
+        "txtlength": 29529
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/global/20210828/a-tortenelem-ismetli-onmagat-mar-korvonalazodik-a-kovetkezo-haboru-afganisztanban-497968",
+        "h1": "A történelem ismétli önmagát: már körvonalazódik a következő háború Afganisztánban",
+        "txtlength": 26696
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/global/20210827/nemet-valasztas-2021-a-szelsobal-es-a-szelsojobb-is-ringbe-szall-a-hatalomert-497982",
+        "h1": "Német választás 2021: a szélsőbal és a szélsőjobb is ringbe száll a hatalomért",
+        "txtlength": 19447
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210827_a_levegoben_meg_nem_a_negyes_uton_viszont_tobbszor_volt_halalfelelmem_gripen_pilota_a_mandinernek",
+        "h1": "A levegőben még nem, a négyes úton viszont már többször volt halálfélelmem – Gripen-pilóta a Mandinernek",
+        "txtlength": 18974
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/kozelet/20210827/van-fenntarthato-nyugdijrendszer-de-azt-tobb-modszer-otvozeteben-talalhatnank-meg/",
+        "h1": "Van fenntartható nyugdíjrendszer, de azt több módszer ötvözetében találhatnánk meg",
+        "txtlength": 18802
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210827_masodfokon_a_vad_szerint_a_veronai_busztragediat_okozo_sofor_pere",
+        "h1": "Másodfokon a vád szerint a veronai busztragédiát okozó sofőr pere",
+        "txtlength": 18309
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20210827/koronavirus-mar-tobb-mint-214-millioan-fertozodtek-meg-kozel-45-millioan-haltak-meg-498022",
+        "h1": "Koronavírus: már több mint 214 millióan fertőződtek meg, közel 4,5 millióan haltak meg ",
+        "txtlength": 17207
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/adat/20210828/van-jo-hir-is-a-magyar-oltasi-programrol/",
+        "h1": "Van jó hír is a magyar oltási programról",
+        "txtlength": 16298
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/oktatas/20210825/fontos-valtozasokkal-indul-a-202122-es-tanev-itt-vannak-a-reszletek-1117232",
+        "h1": "Fontos változásokkal indul a 2021/22-es tanév: itt vannak a részletek",
+        "txtlength": 15615
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2021/08/28/liliputi-hallucinaciok-amikor-tancolva-gunyolodo-apro-embereket-latsz",
+        "h1": "LILIPUTI HALLUCINÁCIÓK: AMIKOR TÁNCOLVA GÚNYOLÓDÓ, APRÓ EMBEREKET LÁTSZ",
+        "txtlength": 13226
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/utazas/vaszoly-latnivaloi/",
+        "h1": "Patakokkal teli, mesebeli kis falu a Balaton-felvidéken: a gyönyörű Vászoly zöldellő völgyben fekszik",
+        "txtlength": 11103
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kulfold/2021/08/27/nemetorszag-valasztas-kampany-laschet-baerbock-scholz-cdu-zoldek-spd-merkel",
+        "h1": "Egyre izgalmasabb, ki és mi jön a Merkel-korszak után",
+        "txtlength": 22856
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kultura/2021/08/27/szabadsag-szobor-gellerthegy-gellert-hegy-kisfaludi-strobl-zsigmond-gaal-erzsebet-thuranszkyne-thuranszky-ismeretlen-budapest/",
+        "h1": "Tönkretette a saját modelljét a Gellért-hegyi Szabadság-szobor",
+        "txtlength": 22403
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kulfold/2021/08/28/afganisztan-usa-biden-lemondas-kina-kabuli-terrortamadas/",
+        "h1": "Veszélybe került-e Biden elnöksége azzal, hogy az USA vérfürdőben engedi el a Közel-Keletet?",
+        "txtlength": 19057
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/kultura/20210827_gerhard_richter_kiallitas_budapest_magyar_nemzeti_galeria_valos_latszat_festo_kepzomuveszet",
+        "h1": "A világ legfontosabb festője Magyarországon: nyugtalanító, mégis megnyugtató a Richter-kiállítás",
+        "txtlength": 17543
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/foto/2021/08/27/romai-part-csonakhaz-tortenelem-aranykorok",
+        "h1": "Vadevezősökkel, csónakházakkal, Nagy-Magyarország-reklámokkal telt a Római-part aranykora",
+        "txtlength": 17073
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kultura/2021/08/27/a-bolygo-kapitanya-rajzfilm-sorozat-barbara-pyle-amnezia/",
+        "h1": "Amnéziás lett az alkotója, pedig A Bolygó Kapitánya aktuálisabb, mint valaha",
+        "txtlength": 15870
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/zhvg/20210827_szelektiv_hulladekgyujtes_zhvg",
+        "h1": "Ne csak a PET-palackot gyűjtse szelektíven: íme hulladékos kvízünk eredményei",
+        "txtlength": 13975
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/eszkombajn/2021/08/28/jamasita-aranya-masodik-vilaghaboru-japan-fulop-szigetek-kincs-ferdinand-marcos-rogelio-roxas",
+        "h1": "Eszement kalandregény lett egy Fülöp-szigeteki kincs utáni hajszából, ami egyébként nem is létezik",
+        "txtlength": 13972
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/08/28/hetvegi-olvasnivalo-a-ner-dilemmaitol-az-apokalipszis-lovasaig",
+        "h1": "Hétvégi olvasnivaló a NER dilemmáitól az apokalipszis lovasaiig",
+        "txtlength": 13697
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/08/27/48-ezer-diakot-regisztraltak-az-iskolai-oltasra",
+        "h1": "48 ezer diákot regisztráltak az iskolai oltásra",
+        "txtlength": 11404
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20210827_Jakab_Peter_interju_Dunakeszi_kampany",
+        "h1": "Jakab Péter: Előválasztást Budapestről is lehet nyerni, de választást csak vidékről",
+        "txtlength": 10817
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/gyilkossag-anyos-tatabanya-baleset/y5vzbn0?sl_ps=d_9",
+        "h1": "Amíg a párja kórházban feküdt, végzett az anyósával Nándor – Ez állhat a balesetnek álcázott gyilkosság hátterében",
+        "txtlength": 9212
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/politika/szajer-jozsef-friss-fotok-kepek-megtalaltuk-felesege/vvk4kwq?utm_source=related&utm_medium=www.blikk.hu&utm_campaign=widget-9446979",
+        "h1": "Megtaláltuk a brüsszeli szexbotránya után: Szájer József a Balatonon bújt el – fotók",
+        "txtlength": 9186
+    },
+    {
+        "hostname": "nosalty.hu",
         "pagelink": "https://www.nosalty.hu/recept/klasszikus-toltott-kaposzta",
         "h1": "Klasszikus töltött káposzta",
         "txtlength": 11563
