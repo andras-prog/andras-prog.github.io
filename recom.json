@@ -1,6 +1,186 @@
 [
     {
         "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/pazmandi-gombocgulyas.recept",
+        "h1": "PÁZMÁNDI GOMBÓCGULYÁS",
+        "txtlength": 10074
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/lecso-telire-tartositoszer-mentesen.recept",
+        "h1": "LECSÓ TÉLIRE - TARTÓSÍTÓSZER MENTESEN",
+        "txtlength": 9771
+    },
+    {
+        "hostname": "hataratkelo.blog.hu",
+        "pagelink": "https://hataratkelo.blog.hu/2021/08/23/_olyan_helyre_vagytunk_ahol_megbecsulik_a_munkat",
+        "h1": "„Olyan helyre vágytunk, ahol megbecsülik a munkát”",
+        "txtlength": 50305
+    },
+    {
+        "hostname": "cineartstudio.blog.hu",
+        "pagelink": "https://filmhaver.blog.hu/2021/08/27/luca_elmenybeszamolo",
+        "h1": "Luca élménybeszámoló",
+        "txtlength": 7069
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2021/08/30/melegseg-es-balitelet",
+        "h1": "MELEGSÉG ÉS BALÍTÉLET",
+        "txtlength": 54386
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210829_utinaplo_romania",
+        "h1": "Mi fán terem a „bezzegország”? – Útinapló Ó-Romániából",
+        "txtlength": 28972
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210829_miklos_csabi_mor",
+        "h1": "Ezerjó és butikborvidék – Miklós Csabi móri bortermelő a Mandinernek",
+        "txtlength": 22872
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210825_vlagyivosztok_nem_florida",
+        "h1": "Vlagyivosztok nem Florida – bemutatjuk a távol-szibériai valóságot",
+        "txtlength": 19460
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/oktatas/20210828/ezzel-kevesen-szamolnak-szeptembertol-havi-tobb-tizezres-extra-kiadas-var-sok-magyar-szulore-1117308",
+        "h1": "Ezzel kevesen számolnak: szeptembertől havi több tízezres extra kiadás vár sok magyar szülőre",
+        "txtlength": 16198
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/adat/20210830/mig-a-magyarok-jovedelme-egy-helyben-toporog-a-romanok-lassan-de-jonnek-fel/",
+        "h1": "Míg a magyarok jövedelme egy helyben toporog, a románok lassan, de jönnek fel",
+        "txtlength": 14846
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/tech/20210827/oriasi-kihivas-elott-allnak-a-magyarok-erre-fuggnek-ra-most-rengetegen-1117278",
+        "h1": "Óriási kihívás előtt állnak a magyarok: erre függnek rá most rengetegen",
+        "txtlength": 14657
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/tech/20210829/vegre-elkezdodhet-a-kiserleti-allatok-hasznalatanak-erdemi-csokkentese/",
+        "h1": "Végre elkezdődhet a kísérleti állatok használatának érdemi csökkentése",
+        "txtlength": 14584
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/ingatlan/20210830/honnan-jon-es-merre-megy-a-toke-az-ingatlanpiacon-ezek-most-a-legnepszerubb-termekek-497482",
+        "h1": "Honnan jön és merre megy a tőke az ingatlanpiacon? Ezek most a legnépszerűbb termékek",
+        "txtlength": 14273
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/befektetes/20210830/latszolag-lassit-az-mnb-de-azert-nyomja-meg-a-gazt-497916",
+        "h1": "Látszólag lassít az MNB, de azért nyomja még a gázt",
+        "txtlength": 13617
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/ingatlan/20210830/megjelentek-a-befektetok-magyarorszagon-ujra-no-az-ingatlanpiac-nepszerusege-498304",
+        "h1": "Megjelentek a befektetők Magyarországon: újra nő az ingatlanpiac népszerűsége",
+        "txtlength": 13470
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/utazas/pusztulo-herkulesfurdo/",
+        "h1": "Teljesen lepusztult mára, pedig Sisi királyné is imádta az egykor gyönyörű Herkulesfüdőt: van remény a megmentésére?",
+        "txtlength": 11997
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/szuloseg/hiszti-kezelese/",
+        "h1": "hiszti kezelése",
+        "txtlength": 10957
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kultura/2021/08/29/ismeretlen-budapest-pinter-sandor-immobil-2000-szalloda-hotel-debout-design-atalakitas-bontas-epites-muemlek/",
+        "h1": "Egy miniszter családjának cége alakíthatja szállodává az irgalmas nővérek egykori belvárosi iskolaépületét",
+        "txtlength": 30916
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/gazdasag/2021/08/30/a-kovetkezo-egy-evben-nagyon-megtollasodhatnak-a-leggazdagabb-magyarok",
+        "h1": "A következő egy évben nagyon megtollasodhatnak a leggazdagabb magyarok",
+        "txtlength": 18995
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/belfold/2021/08/30/jatszoteri-kilatassal-varja-az-iteletet-egy-pedofilugy-vadlottja",
+        "h1": "Játszótéri kilátással várja az ítéletét egy pedofilügy vádlottja",
+        "txtlength": 18683
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2021/08/30/elovalasztas-koltseg-kampany-ellenzek/",
+        "h1": "Drága mulatság az előválasztás: milliárdos tétel lehet a végén az összköltség",
+        "txtlength": 14865
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kulfold/2021/08/29/aderrel-indulhat-el-a-bekules-budapest-es-kijev-kozott",
+        "h1": "Áder egyensúlyozó beszédével indulhat el a békülés Budapest és Kijev között",
+        "txtlength": 14268
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/08/30/kozel-egymillio-hazat-fenyeget-az-egyesult-allamokban-az-ida-hurrikan",
+        "h1": "Közel egymillió házat fenyeget az Egyesült Államokban az Ida hurrikán",
+        "txtlength": 11763
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/08/30/tobb-nemet-fegyvert-vett-a-magyar-kormany-mint-az-amerikai",
+        "h1": "Több német fegyvert vett a magyar kormány, mint az amerikai",
+        "txtlength": 11310
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/karman-iren-olajugyek-momentum-fekete-gyor-alairas-gyujtes-szolnok-elovalasztas/h3mc0nf?sl_ps=d_9",
+        "h1": "Portiktól a politikába: képviselőnek készül Kármán Irén",
+        "txtlength": 8968
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kulfold/2021/08/30/nemetorszag-kancellarvalasztas-elso-jelolti-vita/",
+        "h1": "A szociáldemokrata jelölt nyerte az első kancellárjelölti vitát Németországban",
+        "txtlength": 8736
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/bangladesi-sziami-ikrek-otthon-unneplik-szuletesnapjukat/pvn5rf7?sl_ps=d_8",
+        "h1": "Otthon ünneplik a szülinapjukat a bangladesi sziámi ikrek: így fejlődik a két kislány",
+        "txtlength": 8615
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/tudomany/20210830_james_webb_urteleszkop_urtavcso_hubble_nasa_urkutatas",
+        "h1": "Sikeresek voltak a Hubble utódjának legutolsó tesztjei is, útra kész a James Webb",
+        "txtlength": 7903
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/elet/20210830_Interjuzott_egy_talib_vezetovel_majd_elmenekult_Afganisztanbol_a_tortenelmet_iro_riporterno",
+        "h1": "Interjúzott egy tálib vezetővel, majd elmenekült Afganisztánból a történelmet író riporternő",
+        "txtlength": 7772
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/tudomany/20210830_pfizer_szivizomgyulladas",
+        "h1": "A koronavírus elleni oltás okozhatott halálos szívizomgyulladást egy új-zélandi nőnél",
+        "txtlength": 7670
+    },
+    {
+        "hostname": "mindmegette.hu",
         "pagelink": "https://www.mindmegette.hu/csalamade-telire-tartositoszer-mentesen.recept",
         "h1": "CSALAMÁDÉ TÉLIRE - TARTÓSÍTÓSZER-MENTESEN",
         "txtlength": 10528
