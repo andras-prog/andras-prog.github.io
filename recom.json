@@ -1,6 +1,180 @@
 [
     {
         "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/hetesi-csirkeleves-almaval.recept",
+        "h1": "HETÉSI CSIRKELEVES ALMÁVAL",
+        "txtlength": 10351
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/kovaszosuborka-leves-bulgurral.recept",
+        "h1": "KOVÁSZOSUBORKA-LEVES BULGURRAL",
+        "txtlength": 10325
+    },
+    {
+        "hostname": "kulturpart.hu",
+        "pagelink": "https://kulturpart.blog.hu/2021/08/27/10_film_amit_erdemes_lesz_megnezni_a_cinefesten",
+        "h1": "10 FILM, AMIT ÉRDEMES LESZ MEGNÉZNI A CINEFESTEN",
+        "txtlength": 8088
+    },
+    {
+        "hostname": "alapblog.hu",
+        "pagelink": "https://alapblog.hu/ingatlanvallalkozo-lettem/",
+        "h1": "INGATLANVÁLLALKOZÓ LETTEM",
+        "txtlength": 6751
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210825_oruletes_tudasunk_van_a_diktaturarol",
+        "h1": "Őrületes tudásunk van a diktatúráról – Fabricius Gábor a Mandinernek",
+        "txtlength": 27215
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20210831/kritikus-ponthoz-ertek-az-allami-korhazak-498258",
+        "h1": "Kritikus ponthoz értek az állami kórházak",
+        "txtlength": 25029
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210825_az_evangelium_gyogyit",
+        "h1": "Az evangélium gyógyít – szabaduló alkoholisták Dömösön",
+        "txtlength": 22658
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210830_sokmillio_ember_eletet_vettek_el_bizonyos_sajtotermekek_merkely_a_mandinernek",
+        "h1": "Sokmillió ember életét vették el bizonyos sajtótermékek – Merkely a Mandinernek",
+        "txtlength": 17588
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/global/20210831/magyar-katonanak-magyar-fegyvert-megtudtuk-mit-tervez-a-kormany-az-uj-fegyvercsaladdal-498356",
+        "h1": "Magyar katonának magyar fegyvert! – Megtudtuk, mit tervez a kormány az új fegyvercsaláddal",
+        "txtlength": 17411
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vilag/20210830/a-talibok-aranya/",
+        "h1": "A tálibok aranya",
+        "txtlength": 16941
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.penzcentrum.hu/vallalkozas/20210831/igy-szereznek-meg-a-boltlancok-a-magyar-vasarlok-bizalmat-oriasi-fegyvert-adnak-a-kezukbe-ezzel-1117306",
+        "h1": "Így szereznék meg a boltláncok a magyar vásárlók bizalmát: óriási fegyvert adnak a kezükbe ezzel",
+        "txtlength": 16876
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/vallalkozas/20210831/igy-szereznek-meg-a-boltlancok-a-magyar-vasarlok-bizalmat-oriasi-fegyvert-adnak-a-kezukbe-ezzel-1117306",
+        "h1": "Így szereznék meg a boltláncok a magyar vásárlók bizalmát: óriási fegyvert adnak a kezükbe ezzel",
+        "txtlength": 16842
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/adat/20210831/kelet-kozep-europat-sujthatja-leginkabb-a-jarvany-kovetkezo-hullama/",
+        "h1": "Kelet-Közép-Európát sújthatja leginkább a járvány következő hulláma",
+        "txtlength": 16238
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/gazdasag/20210826/sulyos-latlelet-a-magyarok-penzugyi-tudatossagarol-csunyan-elhasaltunk-a-nagy-felmeresen-1117212",
+        "h1": "Súlyos látlelet a magyarok pénzügyi tudatosságáról: csúnyán elhasaltunk a nagy felmérésen",
+        "txtlength": 13224
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2021/08/31/ne-probald-ki-otthon-de-sokkal-erosebb-immunitast-valt-ki-a-koronavirus-fertozes-mint-az-mrns-vakcinak-ket-adagja",
+        "h1": "NE PRÓBÁLD KI OTTHON, DE SOKKAL ERŐSEBB IMMUNITÁST VÁLT KI A KORONAVÍRUS-FERTŐZÉS, MINT AZ MRNS VAKCINÁK KÉT ADAGJA",
+        "txtlength": 12282
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/egeszseg/rancok-egeszsegugyi-okai/",
+        "h1": "Az arcon lévő ráncok az egészségügyi állapotról is árulkodnak: a vérnyomásproblémát és a csontritkulást is megmutatják",
+        "txtlength": 10294
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/belfold/2021/08/31/ellenzeki-elovalasztas-pecs-mellar-tamas-peterffy-attila-mszp-parbeszed-momentum-dk-bodnar-imre",
+        "h1": "A pécsi konfliktus, ahol Karácsony Gergely sietett rendet rakni, és ami az ellenzéki összefogásra is rossz fényt vethet",
+        "txtlength": 18409
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kulfold/2021/08/30/usa-afganisztan-evakualas-kivonulas-befejezese",
+        "h1": "Az utolsó amerikai katonai gépek is felszálltak, befejeződött az evakuálás és az afganisztáni kivonulás",
+        "txtlength": 18246
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2021/08/31/oltalom-sportegyesulet-foci-futball-edzes/",
+        "h1": "Árvaházból jöttél? A nagykövet fia vagy? A focipályán teljesen mindegy",
+        "txtlength": 16780
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kultura/2021/08/30/utodlas-milliardok-nyomaban-sorozatok-szupergazdagok-abrazolasa-hitelesseg/",
+        "h1": "A gazdagok, akiket mindenkinél jobban szeretünk utálni",
+        "txtlength": 16702
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/szorakozas/2021/08/30/shang-chi-tiz-gyuru-legendaja-kritika-marvel-disney",
+        "h1": "C listás Bruce Lee lett a Marvel első ázsiai szuperhőse",
+        "txtlength": 14540
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/vilag/20210831_afganisztan_kabul_repuloter_talib_hatalomatvetel_amerikai_kivonulas",
+        "h1": "Kivonultak az amerikaiak, már a tálibok ellenőrzik Kabul repülőterét – percről percre az afganisztáni helyzetről",
+        "txtlength": 14394
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kulfold/2021/08/30/nicolas-sarkozy-portre/",
+        "h1": "Reménységből vádlott: Nicolas Sarkozy tündöklése és bukása",
+        "txtlength": 13843
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/kultura/20210831_Harc_a_tanarokert_allami_iskolak_tanari_berek",
+        "h1": "Harc a tanárokért: az állam az egyik iskolájában többet fizet, mint a másikban",
+        "txtlength": 11447
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/08/31/a-jarvany-alatt-jelentos-mertekben-csokkent-a-szuletesi-arany-magyarorszagon",
+        "h1": "A járvány alatt jelentős mértékben csökkent a születési arány Magyarországon",
+        "txtlength": 10770
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/brandcontent/20210803_Ezekre_erdemes_odafigyelni_hogy_ne_csak_szep_de_egeszseges_is_legyen_otthonunk_Baumit",
+        "h1": "Ezekre érdemes odafigyelni, hogy ne csak szép, de egészséges is legyen otthonunk",
+        "txtlength": 10706
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/08/31/vilagszerte-kevesebb-a-szervatultetes-a-jarvany-miatt",
+        "h1": "Világszerte kevesebb a szervátültetés a járvány miatt",
+        "txtlength": 10355
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/penz/postasok-deutsche-post-nemetorszag-magyarorszag-allashirdetes-fizetes/2dzhvky",
+        "h1": "Nagy a baj, a német posta már Magyarországon keres kinti munkára kézbesítőket: ennyi pénzt kap, aki Németországban lenne postás",
+        "txtlength": 9982
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/koronavirus-hirek-haza-adatok-magyarorszag-halalos-aldozatok-fertozottek/9qf091k?sl_ps=d_2",
+        "h1": "Koronavírus: a negyedik hullám kapujában – 100 felett az új fertőzöttek száma, meghalt egy ember",
+        "txtlength": 9442
+    },
+    {
+        "hostname": "mindmegette.hu",
         "pagelink": "https://www.mindmegette.hu/pazmandi-gombocgulyas.recept",
         "h1": "PÁZMÁNDI GOMBÓCGULYÁS",
         "txtlength": 10074
