@@ -1,5 +1,167 @@
 [
     {
+        "hostname": "hataratkelo.blog.hu",
+        "pagelink": "https://hataratkelo.blog.hu/2021/08/27/level_egy_hataratkelo_kutyajatol",
+        "h1": "Levél egy határátkelő kutyájától",
+        "txtlength": 51877
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/oktatas/20210901/1-millios-tandijjal-ad-angol-diplomat-a-magyar-egyetem-ezt-tanitjak-a-hallgatoknak-1117397",
+        "h1": "1 milliós tandíjjal ad angol diplomát a magyar egyetem: ezt tanítják a hallgatóknak",
+        "txtlength": 35329
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/ingatlan/20210903/mostantol-meg-jobb-helyek-lesznek-a-portfolio-rendezvenyei-498504",
+        "h1": "Mostantól még jobb helyek lesznek a Portfolio rendezvényei",
+        "txtlength": 24893
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210902_el_kell_magyaraznunk_europanak_az_intezkedesek_mogott_rejlo_gondolatot_dezso_tamas_a_mandinernek",
+        "h1": "El kell magyaráznunk Európának az intézkedések mögött rejlő gondolatot – Dezső Tamás a Mandinernek",
+        "txtlength": 20023
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/adat/20210903/ezert-erzed-azt-hogy-nem-mondanak-igazat-az-inflaciorol/",
+        "h1": "Ezért érzed azt, hogy nem mondanak igazat az inflációról",
+        "txtlength": 19650
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20210903/uszik-a-likviditasban-a-vallalati-szektor-merithet-ebbol-forrast-az-allam-498740",
+        "h1": "Úszik a likviditásban a vállalati szektor – Meríthet ebből forrást az állam?",
+        "txtlength": 19470
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20211001_a_budavari_palotanegyed_megujitasa_a_tortenelmi_igazsagtetel_jegyeben_zajlik_fodor_gergely_kormanybiztos_a_mandinernek",
+        "h1": "Történelmi igazságtétel a Budavári Palotanegyed megújítása – Fodor Gergely kormánybiztos a Mandinernek",
+        "txtlength": 17823
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/tamogatoi-tartalom/20210903/amikor-ket-vilag-talalkozik-mit-keres-egy-kockazati-tokealap-kezelo-az-egyetem-falain-belul/",
+        "h1": "Amikor két világ találkozik: mit keres egy kockázati tőkealap-kezelő az egyetem falain belül?",
+        "txtlength": 16867
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20210903/parragh-meg-keves-is-lesz-a-200-ezres-minimalber-ha-ekkora-az-inflacio-498880",
+        "h1": "Parragh: még kevés is lesz a 200 ezres minimálbér, ha ekkora az infláció",
+        "txtlength": 16185
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210902_dobrev_klara_index_interju_belfold_ellenzek_demokratikus_koalicio",
+        "h1": "Dobrev: Csak az szavazzon Magyarországon, aki itt él",
+        "txtlength": 15645
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/karrier/20210903/az-angol-mar-keves-egy-zsiros-allashoz-ilyen-nyelvtudast-kovetelnek-meg-a-nagy-cegek-1117436",
+        "h1": "Az angol már kevés egy zsíros álláshoz: ilyen nyelvtudást követelnek meg a nagy cégek",
+        "txtlength": 15148
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2021/09/02/leginkabb-az-oltatlanokat-fenyegeti-a-deltaval-betoro-negyedik-hullam",
+        "h1": "LEGINKÁBB AZ OLTATLANOKAT FENYEGETI A DELTÁVAL BETÖRŐ NEGYEDIK HULLÁM",
+        "txtlength": 14668
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/kapcsolat/naci-vezerek-gyerekei/",
+        "h1": "A nagy náci vezetők gyermekeinek élete: volt, aki éltette apja eszméit, más mélyen szégyellte azokat",
+        "txtlength": 13744
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/lajfhekk/lidl-sajat-markas-termekek/",
+        "h1": "Lidl saját márkás termékek",
+        "txtlength": 11976
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/09/03/azert-a-viz-az-ur",
+        "h1": "Azért a víz az úr",
+        "txtlength": 22490
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kulfold/2021/09/03/afganisztan-talib-kormanyzas",
+        "h1": "Néppártosodást vagy terrorállamot hoz a tálibok Iszlám Emirátusa?",
+        "txtlength": 20114
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/elet/20210903_Pataki_Agi_szuletesnap_konyv_Interju",
+        "h1": "Pataki Ági: Miért ne járhatna az ember 70 éves korában is tornacipőben?",
+        "txtlength": 17880
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kulfold/2021/09/02/feheroroszorszag-aljakszandr-lukasenka-hackerek-tamadas-diktatura/",
+        "h1": "„Ennyire átfogóan még nem hackeltek meg egy államot” – így akarják megdönteni Lukasenka rezsimjét",
+        "txtlength": 17682
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20210902_NER_generacio_iskola_oktatas_NAT",
+        "h1": "Bekúszott az iskolába a NER, miközben hivatalosan nem akar politizáló tanárokat",
+        "txtlength": 16361
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/tech/2021/09/02/apple-iphone-13-pletykak-szivargas-ez-varhato-idei/",
+        "h1": "iPhone 13: minden, amit az Apple idei csúcstelefonjairól tudni lehet",
+        "txtlength": 15012
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2021/09/03/ellenzeki-elovalasztas-mateszalka-fidesz-mszp-dk-papp-ildiko-hangfelvetel/",
+        "h1": "A DK szabolcsi párttagja azt állítja, a Fidesz a szavazóival segíti az MSZP-t az előválasztáson",
+        "txtlength": 13963
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/09/02/kihalas-fele-sodorja-az-eszaki-simabalnakat-az-atlanti-ocean-melegedese",
+        "h1": "Kihalás felé sodorja az északi simabálnákat az Atlanti-óceán melegedése",
+        "txtlength": 11204
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/magyarorszag-porno-telepulesek/cht91rp",
+        "h1": "Itt a térkép: kiderült, mi Magyarország pornófővárosa",
+        "txtlength": 10125
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/belfold/2021/09/02/afgan-menekult-vamosszabadi",
+        "h1": "A háborúhoz már hozzászoktak, de ez most még őket is traumatizálta",
+        "txtlength": 10036
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/politika/elovalasztas-balhe-mateszalka-mszp-dk-jobbik-fidesz/fqqgdhr",
+        "h1": "Áll a bál Szabolcsban: egy hangfelvétel szerint a Fidesz szavazókkal segíti az MSZP előválasztási jelöltjét",
+        "txtlength": 9958
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/sport/2021/09/02/magyar-angol-puskas-arena-vb-selejtezo",
+        "h1": "Anglia nem hagyott esélyt, 4-0-ra nyert Budapesten",
+        "txtlength": 8710
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/tudomany/20210903_napkitores_globalis_internet_adatforgalom",
+        "h1": "Figyelmeztetnek a tudósok: kiütné a globális internetet egy erősebb napkitörés",
+        "txtlength": 8500
+    },
+    {
         "hostname": "mindmegette.hu",
         "pagelink": "https://www.mindmegette.hu/csulok-savanyukaposztaagyon.recept",
         "h1": "CSÜLÖK SAVANYÚKÁPOSZTAÁGYON",
