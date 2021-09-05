@@ -1,5 +1,179 @@
 [
     {
+        "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/hagyomanyos-tyukhusleves",
+        "h1": "Hagyományos tyúkhúsleves",
+        "txtlength": 10796
+    },
+    {
+        "hostname": "kiszamolo.hu",
+        "pagelink": "https://kiszamolo.hu/mennyi-lesz-az-aram-ara/",
+        "h1": "Mennyi lesz az áram ára?",
+        "txtlength": 42653
+    },
+    {
+        "hostname": "alapblog.hu",
+        "pagelink": "https://alapblog.hu/vigyazz-kire-hallgatsz/",
+        "h1": "VIGYÁZZ, KIRE HALLGATSZ!",
+        "txtlength": 8455
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210901_mi_zajlik_magyarorszagon_lanczi_giro_szasz_rona_az_elmult_tiz_evrol",
+        "h1": "Mi zajlik Magyarországon? – Lánczi, Giró-Szász és Róna vitáznak az elmúlt tíz évről",
+        "txtlength": 37796
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/szorakozas/20210904/oriasi-befektetes-lett-a-90-es-evek-slagertjatekabol-10-ev-alatt-otszorozi-az-erteket-1117471",
+        "h1": "Óriási befektetés lett a 90-es évek slágertjátékából: 10 év alatt ötszörözi az értékét",
+        "txtlength": 30430
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210908_michel_barnier",
+        "h1": "Aki Brüsszelből indul a francia jobboldal élére – Michel Barnier portréja",
+        "txtlength": 19893
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/megtakaritas/20210831/rengeteg-magyar-diak-indulhat-meg-a-bankokba-visszatertek-a-nullas-szamlacsomagok-1117239",
+        "h1": "Rengeteg magyar diák indulhat meg a bankokba: visszatértek a nullás számlacsomagok",
+        "txtlength": 18713
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/global/20210904/angela-merkel-tavozasaval-az-egesz-partja-megbukhat-499066",
+        "h1": "Angela Merkel távozásával az egész pártja megbukhat",
+        "txtlength": 18228
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/kozelet/20210905/a-jobb-es-a-baloldaliak-mashogy-gondolkodnak-a-varosi-autozasrol/",
+        "h1": "A jobb- és a baloldaliak máshogy gondolkodnak a városi autózásról",
+        "txtlength": 17272
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vilag/20210902/ocskavas-repulok-feltuno-alcazas-igy-pazaroltak-el-dollar-milliardokat-a-szetszeledt-afgan-hadseregre/",
+        "h1": "Ócskavas repülők, feltűnő álcázás – így pazaroltak el dollár milliárdokat a szétszéledt afgán hadseregre",
+        "txtlength": 16168
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/kapcsolat/slachta-margit/",
+        "h1": "Az első magyar nő, aki országgyűlési képviselő lehetett: a katolikus szerzetesnő, Slachta Margit története",
+        "txtlength": 15907
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210904_az_angolt_jatekos_szerint_az_ellenseges_hangulat_segitette_oket",
+        "h1": "Az egyik angol játékos szerint az ellenséges hangulat segítette őket a meccsen",
+        "txtlength": 15569
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/global/20210904/a-globalis-chiphiany-tovabb-gyotri-az-autoipart-es-ez-a-vasarloknak-is-fajni-fog-498950",
+        "h1": "A globális chiphiány tovább gyötri az autóipart és ez a vásárlóknak is fájni fog",
+        "txtlength": 15520
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20210904/rekordon-az-uj-ausztral-virusfertozottek-szama-csak-pfizerrel-oltanak-harmadszorra-az-egyesult-allamokban-499146",
+        "h1": "Rekordon az új ausztrál vírusfertőzöttek száma, csak Pfizerrel oltanak harmadszorra az Egyesült Államokban ",
+        "txtlength": 14573
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2021/09/03/a-nehezipar-reformja-nelkul-meddo-a-klimavaltozas-elleni-harc-de-mar-megvan-a-csodaszer-a-zold-acel",
+        "h1": "A NEHÉZIPAR REFORMJA NÉLKÜL MEDDŐ A KLÍMAVÁLTOZÁS ELLENI HARC, DE MÁR MEGVAN A CSODASZER: A ZÖLD ACÉL",
+        "txtlength": 11165
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/szuloseg/kezelhetetlen-gyerek/",
+        "h1": "Állandóan könyörögni kell, hogy tegye a dolgát? Így segíthetsz a gyerekednek",
+        "txtlength": 11086
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kultura/2021/09/05/paula-hawkins-lassan-izzo-tuz-matinemat/",
+        "h1": "Kora reggel, véres ruhában távozott a lány a meggyilkolt férfi lakóhajójáról",
+        "txtlength": 23092
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/sport/2021/09/05/sipos-peter-kosarlabda-budapesti-honved-szarkoma-fibrosarcoma-lagyresz-szarkoma-portre/",
+        "h1": "„Levághatja a karomat, ha előtte végigcsinálhatom a csapattal a döntőt”",
+        "txtlength": 22755
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/gazdasag/2021/09/04/villanyauto-elektromos-auto-mennyibe-kerul-fenntartas-kiszamolo-alapjarat",
+        "h1": "40 ezer kilométer villanyautóval, Magyarországon",
+        "txtlength": 18353
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/kultura/20210904_10__1_film_amelyet_nagyon_varunk_meg_iden",
+        "h1": "10 + 1 film, amelyet nagyon várunk még idén",
+        "txtlength": 18308
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/tudomany/2021/09/05/tatarjaras-muhi-csata-dzsingisz-kan-magyar-kiralysag-kozepkor/",
+        "h1": "Ellenünk vívták a legkeményebb csatájukat a tatárok",
+        "txtlength": 17458
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/gazdasag/20210905_Es_akkor_a_Meszaros_csalad_lebucskazott_a_dobogo_elso_fokarol",
+        "h1": "És akkor a Mészáros család lebucskázott a csúcsról",
+        "txtlength": 15305
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/tudomany/20210905_barabasi_albert_laszlo_interju_covid_halozatkutatas_nft_barabasilab",
+        "h1": "Barabási Albert-László: „Úgy gondolok a Covidra, mint a tudomány számára vissza nem térő alkalomra”",
+        "txtlength": 15056
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/velemeny/2021/09/04/szemlelek-velemeny-gegeny-istvan-papalatogatas-nemzetkozi-eucharisztikus-kongresszus-ferenc-papa-megakadt-a-ner-torkan",
+        "h1": "Se kiköpni, se lenyelni – Ferenc pápa megakadt a NER torkán",
+        "txtlength": 14550
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/belfold/2021/09/05/bemutatkozik-a-magyar-katolikus-egyhaz-a-vilag-elott-osszeszedtuk-a-legfontosabb-infokat-az-esemenyrol",
+        "h1": "Kezdődik a katolikus világtalálkozó – összeszedtük a legfontosabb infókat a Nemzetközi Eucharisztikus Kongresszusról",
+        "txtlength": 13907
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/09/04/szloveniaban-szigoritanak-de-az-uj-fertozottek-helyett-az-intenziven-kezeltek-szamara-figyelnek-majd-leginkabb",
+        "h1": "Szlovéniában szigorítanak, de az új fertőzöttek helyett az intenzíven kezeltek számára figyelnek majd leginkább",
+        "txtlength": 12478
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/09/04/kemenesi-gabor-maszkra-fel",
+        "h1": "Kemenesi Gábor: Maszkra fel!",
+        "txtlength": 11226
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/nemzetkozi-eucharisztikus-kongresszus-budapest-ferenc-papa-program-2021/6zmzwl2?sl_ps=d_1",
+        "h1": "Mi az az eucharisztikus kongresszus, mi lesz ma, és mit keres Ferenc pápa Budapesten? Elmagyarázzuk!",
+        "txtlength": 9781
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/hofi-geza-vadaszat-sorozat-ozvegy-ildiko-puska/2zqq7e8",
+        "h1": "Újabb titkok láttak napvilágot a legendáról, Hofi Gézáról – A felesége, Ildikó mesélt",
+        "txtlength": 9582
+    },
+    {
         "hostname": "kiszamolo.hu",
         "pagelink": "https://kiszamolo.hu/kazancsere-buktatoi/#more-116053",
         "h1": "Kazáncsere buktatói",
