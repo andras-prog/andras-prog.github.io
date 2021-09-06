@@ -1,5 +1,173 @@
 [
     {
+        "hostname": "hataratkelo.blog.hu",
+        "pagelink": "https://hataratkelo.blog.hu/2021/09/01/magyar_ovibol_holland_kozepiskolaba#c40891128",
+        "h1": "Magyar oviból holland középiskolába",
+        "txtlength": 59499
+    },
+    {
+        "hostname": "kulturpart.hu",
+        "pagelink": "https://kulturpart.blog.hu/2021/09/04/frida_kahlo_soha_nem_latott_mestermuvei",
+        "h1": "FRIDA KAHLO SOHA NEM LÁTOTT MESTERMŰVEI",
+        "txtlength": 15117
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210906_jakab_peter_belfold_orban_kormany_interju_borton_polt_peter_gyilkossag_egeszsegugy_elszamoltatas",
+        "h1": "Jakab Péter: Az Orbán-kormányt gyilkossággal kell, hogy vádoljam",
+        "txtlength": 19233
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210901_kezlevagas_kovezes_saria_mi_var_a_hatramaradokra_afganisztanban",
+        "h1": "Kézlevágás, kövezés, saría – mi vár a hátramaradókra Afganisztánban?",
+        "txtlength": 19193
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/hitel/20210903/leszalloban-a-magyarok-hitelfelveteli-kedve-mitol-ijedtek-meg-ennyien-1117382",
+        "h1": "Leszállóban a magyarok hitelfelvételi kedve: mitől ijedtek meg ennyien?",
+        "txtlength": 18337
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210731_lakatos_botond_festeszet_kepregeny_tisza_to",
+        "h1": "„Mindenki rajzol gyerekkorában, csak én nem hagytam abba” – Lakatos Botond a Mandinernek",
+        "txtlength": 18041
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/egeszseg/20210902/mnb-az-oltasi-program-tovabbvitelen-mulik-mi-var-rank-a-4-hullamban-1117385",
+        "h1": "MNB: Az oltási program továbbvitelén múlik, mi vár ránk a 4. hullámban",
+        "txtlength": 17184
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/tech/20210905/egeszsegesebb-piritost-igernek-a-kutatok-de-van-benne-egy-csapda/",
+        "h1": "Egészségesebb pirítóst ígérnek a kutatók, de van benne egy csapda",
+        "txtlength": 16367
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/adat/20210906/az-arak-alapjan-olyan-mintha-a-sertesparizsiban-nem-is-lenne-hus/",
+        "h1": "Az árak alapján olyan, mintha a sertéspárizsiban nem is lenne hús",
+        "txtlength": 15544
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.penzcentrum.hu/vasarlas/20210906/megrohantak-a-muszaki-boltokat-a-vasarlok-ezeket-a-laptopokat-tableteket-veszik-mint-a-cukrot-1117493",
+        "h1": "Megrohanták a műszaki boltokat a vásárlók: ezeket a laptopokat, tableteket veszik, mint a cukrot",
+        "txtlength": 15124
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/global/20210905/megszuletett-a-dontes-valoban-el-kell-bucsuznunk-a-magyar-gripen-vadaszgepektol-499080",
+        "h1": "Megszületett a döntés: valóban el kell búcsúznunk a magyar Gripen vadászgépektől?",
+        "txtlength": 14297
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/gyerek/milyenek-a-mai-gyerekek/",
+        "h1": "Milyenek a mai gyerekek? Sosemvolt csodavilágba gyömöszöljük őket, amiben nekünk sem volt részünk",
+        "txtlength": 13716
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20210906/nincs-megallas-uj-csucson-a-magyar-tozsde-rekord-az-otp-nel-499262",
+        "h1": "Nincs megállás, új csúcson a magyar tőzsde, rekord az OTP-nél ",
+        "txtlength": 13623
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/lajfhekk/hagymas-viragok-ultetese/",
+        "h1": "Hagymás virágok ültetése",
+        "txtlength": 11487
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2021/09/03/biro-attila-jateka-a-pyradice-nyerte-a-qubit-nagy-tavaszi-tarsasjatek-fejleszto-versenyet",
+        "h1": "BIRÓ ATTILA JÁTÉKA, A PYRADICE NYERTE A QUBIT NAGY TAVASZI TÁRSASJÁTÉK-FEJLESZTŐ VERSENYÉT",
+        "txtlength": 11003
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kulfold/2021/09/05/zavaros-cegek-babis-csehorszag-unio-kifizetesek-osszeferhetetlenseg/",
+        "h1": "Zavaros cégek Babis körül – cseh kifizetéseket állíthat le az EU",
+        "txtlength": 16682
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/09/06/eleg-sok-telek-cserelt-gazdat-meszaros-tihanyi-szolose-es-etterme-kozott",
+        "h1": "Elég sok telek cserélt gazdát Mészáros tihanyi szőlőse és étterme között",
+        "txtlength": 15802
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/09/06/milyen-allat-haraphat-kette-mokusokat-a-moszkva-tertol-legvonalban-600-meterre",
+        "h1": "Milyen állat haraphat ketté mókusokat a Moszkva tértől légvonalban 600 méterre?",
+        "txtlength": 15166
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kultura/2021/09/05/michael-keaton-70-eves-szuletesnap-portre-batman-tim-burton-quentin-tarantino/",
+        "h1": "Hátat fordított Batmannek, majd madáremberként vette be újra Hollywoodot",
+        "txtlength": 14723
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kulfold/2021/09/05/thaifold-ferrari-joe-rendor-tulkapas",
+        "h1": "Ferrari Jo autógyűjteménye és egy díler kínhalála borította a korrupciós bilit Thaiföldön",
+        "txtlength": 13910
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/fn/gazdasag/2021/09/06/otp-bankszamla-csalas-telefon/",
+        "h1": "Élethű mesével csaltak ki több mint kétmillió forintot egy kisgyermekes anyától",
+        "txtlength": 13611
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/szorakozas/2021/09/05/psychonauts-2-videojatek-teszt-tim-schafer",
+        "h1": "Az ötletbomba, amire 16 évet kellett várni",
+        "txtlength": 12618
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/english/2021/09/06/a-mother-wanted-to-send-some-jam-sausage-and-cheese-to-her-daughter-inscotland-and-lost-130-euros-in-the-process",
+        "h1": "A mother wanted to send some jam, sausage, and cheese to her daughter in Scotland and lost 130 euros in the process",
+        "txtlength": 12368
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/eucharisztikus-kongresszus-hosok-tere-megnyito-unnepeg/m272ve6",
+        "h1": "52. Nemzetközi Eucharisztikus Kongresszus: helyszíni fotókon a megnyitó ünnepség – galéria",
+        "txtlength": 11169
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/politika/politikusi-beszed-szoveg-olvasas-improvizalas/xmjb59t",
+        "h1": "Kinek a fecni, kinek az improvizálás: kiderült, így készülnek politikusaink a szónoklatokra",
+        "txtlength": 10905
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20210906_meghalt_vitanyi_ivan_dk",
+        "h1": "Meghalt Vitányi Iván, a DK örökös elnöke",
+        "txtlength": 9370
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/zhvg/20210905_zoldseg_gyumolcstermesztes_magyarorszag_eghajlatvaltozas",
+        "h1": "A málna lassan eltűnik, de meddig ehetünk magyar szőlőt vagy paradicsomot?",
+        "txtlength": 9214
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/tudomany/20210905_A_vilag_legnagyobb_orszagai_megallapodast_kotottek_a_koronavakcinaelosztasrol",
+        "h1": "A világ legnagyobb országai megállapodást kötöttek a koronavakcina-elosztásról",
+        "txtlength": 9125
+    },
+    {
         "hostname": "nosalty.hu",
         "pagelink": "https://www.nosalty.hu/recept/hagyomanyos-tyukhusleves",
         "h1": "Hagyományos tyúkhúsleves",
