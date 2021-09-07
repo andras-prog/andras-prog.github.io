@@ -1,5 +1,173 @@
 [
     {
+        "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/szilvas-lepeny-3-omlos-tesztaval",
+        "h1": "Szilvás lepény 3. - omlós tésztával",
+        "txtlength": 10359
+    },
+    {
+        "hostname": "hataratkelo.blog.hu",
+        "pagelink": "https://hataratkelo.blog.hu/2021/09/01/magyar_ovibol_holland_kozepiskolaba",
+        "h1": "Magyar oviból holland középiskolába",
+        "txtlength": 62632
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vilag/20210907/ugy-erezzuk-mintha-a-globalizacionak-lealdozott-volna-pedig-szo-sincs-rola/",
+        "h1": "Úgy érezzük, mintha a globalizációnak leáldozott volna, pedig szó sincs róla",
+        "txtlength": 24250
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20210907/damoklesz-elfeledett-kardja-a-gyermek-nyakaba-szakadhat-a-szulo-eltartasa-499360",
+        "h1": "Damoklész elfeledett kardja - A gyermek nyakába szakadhat a szülő eltartása",
+        "txtlength": 23710
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/global/20210906/mi-koze-jamaicanak-kenyanak-es-a-kozlekedesi-lampanak-ahhoz-hogy-ki-vezeti-nemetorszagot-merkel-tavozasa-utan-499126",
+        "h1": "Mi köze Jamaicának, Kenyának és a közlekedési lámpának ahhoz, hogy ki vezeti Németországot Merkel távozása után?",
+        "txtlength": 20909
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vallalat/20210906/tenyleg-rendet-tett-az-epitoanyagpiacon-a-kormany/",
+        "h1": "Tényleg rendet tett az építőanyagpiacon a kormány?",
+        "txtlength": 18879
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210906_alvitakkal_tornaszhatjak_fel_karacsony_azsiojat_gyurcsanyek",
+        "h1": "Álvitákkal tornászhatják fel Karácsony népszerűségét Gyurcsányék",
+        "txtlength": 17829
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/hitel/20210907/rengeteg-magyar-marad-le-az-ingyenmilliokrol-ha-nem-sietnek-vegleg-lecsuszhatnak-1117537",
+        "h1": "Rengeteg magyar marad le az ingyenmilliókról: ha nem sietnek, végleg lecsúszhatnak",
+        "txtlength": 17522
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210907_nemetorszag_valasztas_cdu_laschet_scholz_wagenknecht_fdp",
+        "h1": "Elkeserítő a Merkel-párt helyzete a német választás előtt",
+        "txtlength": 15852
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/uzlet/20210907/rengeteg-a-hiba-az-online-fizeteseknel-mutatjuk-a-legnagyobb-hianyossagokat-499338",
+        "h1": "Rengeteg a hiba az online fizetéseknél, mutatjuk a legnagyobb hiányosságokat",
+        "txtlength": 15270
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210903_megvonta_a_bizalmat_florin_citutol_az_egyik_roman_kormanypart",
+        "h1": "Megvonta a bizalmat Florin Citutól az egyik román kormánypárt",
+        "txtlength": 14697
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/megtakaritas/20210902/kiderult-meg-mindig-van-1-honapod-igenyelni-a-219-ezres-tamogatast-ez-az-uj-hatarido-1117446",
+        "h1": "Kiderült, még mindig van 1 hónapod igényelni a 219 ezres támogatást: ez az új határidő",
+        "txtlength": 13883
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/otthon/orchidea-gondozas/",
+        "h1": "Így lesz mindig egészséges és dús virágzatú az orchidea: Megyeri Szabolcs kertész tanácsai",
+        "txtlength": 12708
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/szuloseg/gyerek-ugyanazt-jatssza/",
+        "h1": "gyerek ugyanazt játssza",
+        "txtlength": 11108
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2021/09/06/esz-ventura-a-dobble-altalanositasa-azaz-dobble-a-kobon",
+        "h1": "ÉSZ VENTURA: A DOBBLE ÁLTALÁNOSÍTÁSA, AZAZ DOBBLE A KÖBÖN",
+        "txtlength": 9488
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kulfold/2021/09/07/europa-franciaorszag-olaszorszag-macron-draghi-covid19-kotelezo-oltas/",
+        "h1": "Akkora az ellenállás, hogy csak óvatosan vezetik be a kötelező oltást Európában",
+        "txtlength": 19106
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/tech/2021/09/06/samsung-fold-3-hajtogatos-telefon-teszt",
+        "h1": "Se nem tablet, se nem telefon – teszteltük az identitászavaros, hajtogatós Samsungokat",
+        "txtlength": 17393
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kultura/2021/09/06/jean-paul-belmondo-tiz-legemlekezetesebb-filmje/",
+        "h1": "A Kifulladásigtól a Nyomorultakig – Jean-Paul Belmondo tíz legemlékezetesebb filmje",
+        "txtlength": 17290
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/gazdasag/2021/09/06/komlo-szuret-kastelyosdombo-sor-szocialis-ellatas-okumenikus-segelyszervezet-haztaji-mezogazdasag",
+        "h1": "Újra lesz sör, amely minden elemében magyar",
+        "txtlength": 15479
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/09/07/az-elpusztithatatlan-es-a-gyuttment-talalkoznak-egy-szombathelyi-etteremben",
+        "h1": "Az Elpusztíthatatlan és a Gyüttment találkoznak egy szombathelyi étteremben",
+        "txtlength": 15308
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/koronavirus/2021/09/07/koronavirus-halal-konzervativ-radios-teves-amerika-egyesult-allamok-delta-varians",
+        "h1": "A halálos ágyán bánta meg, hogy nem oltatta be magát",
+        "txtlength": 14447
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20210907_Orban_logo_elemzes",
+        "h1": "Az életérzést aligha, de a politikai különcködést remekül átadja Orbán Viktor saját logója",
+        "txtlength": 13499
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/09/06/20-eve-meg-betiltottak-az-internetet-ma-mar-negy-studiobol-tobb-tucat-fiokon-tobb-millio-embernek-nyomjak-a-propagandat-a-talibok",
+        "h1": "20 éve még betiltották az internetet ma már négy stúdióból több tucat fiókon több millió embernek nyomják a propagandát a tálibok",
+        "txtlength": 12735
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kulfold/2021/09/07/ep-vita-magyarorszag-homofob-pedofiltorveny/",
+        "h1": "Újra megpörgetik Magyarországot a tűz fölött Brüsszelben",
+        "txtlength": 12179
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/sztarvilag/kultura/jean-paul-belmondo-meghalt-gyasz-fotok-elete/ewk8vej",
+        "h1": "Igazi állócsillag volt a sztárok törékeny égboltján, generációk nőttek fel a filmjein: Jean-Paul Belmondo élete képekben",
+        "txtlength": 10728
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20210906_czegledy_ungar_vita",
+        "h1": "Előválasztási vita: Czeglédy Csaba nem hisz Karácsony Gergelyben",
+        "txtlength": 10318
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/tudomany/20210907_vilagsakkfesztival_2021_programja_polgar_judit",
+        "h1": "Világsakkfesztivál lesz Budapesten, igazi zsenikkel",
+        "txtlength": 9579
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/gyerek-szokes-rendorsegi-korozes-valas-szulok-gyerek-elhelyezes/jqp5bqx",
+        "h1": "Megszólalt a Blikknek a gyerekeivel „szökésben” lévő édesanya: „Kegyetlen módszerekkel kínzott”",
+        "txtlength": 8917
+    },
+    {
         "hostname": "hataratkelo.blog.hu",
         "pagelink": "https://hataratkelo.blog.hu/2021/09/01/magyar_ovibol_holland_kozepiskolaba#c40891128",
         "h1": "Magyar oviból holland középiskolába",
