@@ -1,5 +1,191 @@
 [
     {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/mexikoi-csirkes-nachos-tal.recept",
+        "h1": "MEXIKÓI CSIRKÉS NACHOS TÁL",
+        "txtlength": 12242
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/tejfolos-krumpligombocleves.recept",
+        "h1": "TEJFÖLÖS KRUMPLIGOMBÓCLEVES",
+        "txtlength": 11649
+    },
+    {
+        "hostname": "alapblog.hu",
+        "pagelink": "https://alapblog.hu/mit-keres-jezus-a-tozsdenavagy-miert-hasznos-es-jotetemeny-a-keresztenyi-befektetes/",
+        "h1": "Mit keres Jézus a tőzsdén?Avagy miért hasznos és jótétemény a keresztényi befektetés?",
+        "txtlength": 10671
+    },
+    {
+        "hostname": "kulturpart.hu",
+        "pagelink": "https://kulturpart.blog.hu/2021/09/03/_jon_a_trilla_a_nepdal_alternativ_unnepe",
+        "h1": " JÖN A TRILLA, A NÉPDAL ALTERNATÍV ÜNNEPE",
+        "txtlength": 6923
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210901_neha_vissza_kell_terni_a_multba_hogy_epithessuk_a_jovot_rost_andrea_a_mandinernek",
+        "h1": "Néha vissza kell térni a múltba, hogy építhessük a jövőt – Rost Andrea a Mandinernek",
+        "txtlength": 26225
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/uzlet/20210907/uj-korszak-karbonsemlegesek-es-akadalymentesek-a-portfolio-konferenciai-499532",
+        "h1": "Új korszak: karbonsemlegesek és akadálymentesek a Portfolio konferenciái",
+        "txtlength": 25430
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/megtakaritas/20210907/ozonlenek-ebbe-a-bankba-a-nyugdijasok-megis-mire-keszulnek-1117502",
+        "h1": "Özönlenek ebbe a bankba a nyugdíjasok: mégis, mire készülnek?",
+        "txtlength": 21215
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210907_karacsony_autosoknak_tett_gesztusa_potcselekves_allitja_dorner_lajos_veke",
+        "h1": "Karácsony autósoknak tett gesztusa eredménytelen pótcselekvés – Dorner Lajos a Mandinernek",
+        "txtlength": 20306
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://sport.mandiner.hu/cikk/20210907_dr_borbely_zoltan_a_pohardobalas_onmagaban_meg_nem_rasszizmus",
+        "h1": "Dr. Borbély Zoltán: A pohárdobálás önmagában még nem rasszizmus!",
+        "txtlength": 18254
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/karrier/20210902/eljott-az-idos-magyarok-ideje-kapkodnak-utanuk-a-cegek-siman-duplazhatjak-a-nyugdijukat-1117424",
+        "h1": "Eljött az idős magyarok ideje: kapkodnak utánuk a cégek, simán duplázhatják a nyugdíjukat",
+        "txtlength": 16587
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2021/09/07/itt-az-uj-orulet-ne-zuhanyozz",
+        "h1": "ITT AZ ÚJ ŐRÜLET: NE ZUHANYOZZ!",
+        "txtlength": 15134
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/elet/20210904/a-gyerekek-es-tanaraik-is-nagyon-megszenvedtek-a-bezartsagot/",
+        "h1": "A gyerekek és tanáraik is nagyon megszenvedték a bezártságot",
+        "txtlength": 14951
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vilag/20210907/nem-a-klimavaltozas-nem-feltetlenul-a-szegeny-orszagoknak-faj-majd-jobban/",
+        "h1": "Nem, a klímaváltozás nem feltétlenül a szegény országoknak fáj majd jobban",
+        "txtlength": 14098
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/global/20210908/a-vilag-legveszelyesebb-terroristai-is-bekerultek-az-uj-afgan-kormanyba-van-akinek-10-millio-dollaros-verdij-van-a-fejen-499692",
+        "h1": "A világ legveszélyesebb terroristái is bekerültek az új afgán kormányba - Van, akinek 10 millió dolláros vérdíj van a fején",
+        "txtlength": 13856
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/global/20210908/a-sivatag-kozepen-akarja-felhuzni-a-jovo-fenntarthato-okovarosat-egy-kulonc-milliardos-499564",
+        "h1": "A sivatag közepén akarja felhúzni a jövő fenntartható ökovárosát egy különc milliárdos",
+        "txtlength": 13405
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/testem/elhanyagolt-izmok/",
+        "h1": "elhanyagolt izmok",
+        "txtlength": 11359
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/egeszseg/szemfenek-vizsgalat-cel/",
+        "h1": "Vérnyomásproblémák is okozhatnak homályos látást: 4 tünet, ami erre utal",
+        "txtlength": 11319
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/szuloseg/csecsemo-furcsa-ijeszto-tunet/",
+        "h1": "csecsemő furcsa ijesztő tünet",
+        "txtlength": 10857
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/komplex/2021/09/08/oszi-hacacare-fidesz-mutyi-koncert-1",
+        "h1": "\n      Zenélhetnek, csak jó lenne még hozzá egy fotó a helyi fideszessel\n    ",
+        "txtlength": 30913
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/09/08/a-kronikus-osztalyok-korrupcioja-nem-az-oka-csak-a-tunete-az-idosellatas-szetesesenek",
+        "h1": "A krónikus osztályok korrupciója nem az oka, csak a tünete az idősellátás szétesésének",
+        "txtlength": 20343
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/09/08/visszavonulas-a-szigetcsucsrol",
+        "h1": "Visszavonulás a (sziget)csúcsról",
+        "txtlength": 17408
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kulfold/2021/09/07/afganisztan-kivonulas-fegyver-haditechnika-talib-hatalomatvetel",
+        "h1": "Óriási nyugati fegyverarzenálba ültek bele a tálibok",
+        "txtlength": 16572
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/sport/2021/09/08/golovin-vlagyimir-noi-kezilabda-valogatott-szovetsegi-kapitany-interju/",
+        "h1": "Golovin: Nem vagyok brutális, de ha kell, az leszek",
+        "txtlength": 16314
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2021/09/08/tihany-lakotelep-kenderfoldek-tosoki-revbe-erunk-felsziget-resort/",
+        "h1": "Tervezik a tihanyi lakótelepeket",
+        "txtlength": 15053
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/direkt36/2021/09/08/iden-is-bevetettek-meg-a-pegasust-tavasszal-megfigyeltek-egy-ellenzeki-mediatulajdonost",
+        "h1": "Idén is bevetették a Pegasust: tavasszal megfigyeltek egy ellenzéki médiatulajdonost",
+        "txtlength": 13951
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/kulfold/bataclan-terrortamadas-parizs-per/bvqgrn4",
+        "h1": "Ma kezdődik Franciaország történetének legnagyobb pere: a párizsi terrortámadás örökre megváltoztatta a világot",
+        "txtlength": 12405
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/kulfold/soros-gyorgy-figyelmeztetes/w5011g1",
+        "h1": "Soros György drámai figyelmeztetése: a tragikus hiba, ami megrengeti a demokráciákat",
+        "txtlength": 10477
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/tudomany/2021/09/08/petofi-szendrey-julia-hazassag/",
+        "h1": "Petőfi özvegye szexuális eszköznek érezte magát új férje mellett",
+        "txtlength": 9497
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20210908_pava_zoltan_pegasus_kemszoftver",
+        "h1": "Az egykori MSZP-s Páva Zoltán telefonját is feltörték a Pegasus kémszoftverrel",
+        "txtlength": 8526
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/tudomany/20210908_demencia_demens_alzheimer_koronavirus_jarvany",
+        "h1": "A Covid utóhatása: berobbanhat a demencia",
+        "txtlength": 8511
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/vilag/20210908_A_magyar_kormany_helyreteszi_az_enszt",
+        "h1": "Gyökeres reformokat akar az ENSZ-ben az Orbán-kormány",
+        "txtlength": 8256
+    },
+    {
         "hostname": "nosalty.hu",
         "pagelink": "https://www.nosalty.hu/recept/szilvas-lepeny-3-omlos-tesztaval",
         "h1": "Szilvás lepény 3. - omlós tésztával",
