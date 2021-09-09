@@ -1,6 +1,180 @@
 [
     {
         "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/husos-szaftos-teszta-maradekbol.recept",
+        "h1": "HÚSOS-SZAFTOS TÉSZTA MARADÉKBÓL",
+        "txtlength": 10895
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/tonhalsalata-hazi-majonezzel.recept",
+        "h1": "TONHALSALÁTA HÁZI MAJONÉZZEL",
+        "txtlength": 10881
+    },
+    {
+        "hostname": "hataratkelo.blog.hu",
+        "pagelink": "https://hataratkelo.blog.hu/2021/09/01/magyar_ovibol_holland_kozepiskolaba#c40896672",
+        "h1": "Magyar oviból holland középiskolába",
+        "txtlength": 62834
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/uzlet/20210909/ket-fiatal-menedzser-egyedulallo-magyar-markat-epit-499634",
+        "h1": "Két fiatal menedzser egyedülálló magyar márkát épít",
+        "txtlength": 22200
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210909_afgan_menedekkero_talibok",
+        "h1": "A tálibok kerestek, hogy megöljenek – afgán menedékkérő a Mandinernek",
+        "txtlength": 20199
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/nyugdij/20210909/hiaba-a-nyugdijemeles-durvan-megdragult-a-nyugdijasok-elete-jol-jon-a-korrekcio-1117604",
+        "h1": "Hiába a nyugdíjemelés, durván megdrágult a nyugdíjasok élete: jól jön a korrekció",
+        "txtlength": 19693
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/gazdasag/20210906/egyre-kevesebben-vesznek-fel-ilyen-kolcsont-hatat-forditanak-a-magyarok-a-bankoknak-1117494",
+        "h1": "Egyre kevesebben vesznek fel ilyen kölcsönt: hátat fordítanak a magyarok a bankoknak?",
+        "txtlength": 19638
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.penzcentrum.hu/nyugdij/20210909/hiaba-a-nyugdijemeles-durvan-megdragult-a-nyugdijasok-elete-jol-jon-a-korrekcio-1117604",
+        "h1": "Hiába a nyugdíjemelés, durván megdrágult a nyugdíjasok élete: jól jön a korrekció",
+        "txtlength": 19470
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://makronom.mandiner.hu/cikk/20210908_orban_migracio_makronom_menekult_afganisztan_taliban_merkel_kurz",
+        "h1": "Ötmillió afgán migráns lepheti el Európát, íme az uniós vezetők válasza a közelgő válságra",
+        "txtlength": 18508
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/tech/20210909/kihal-az-autokbol-az-egyik-legjobb-elmeny-a-kezi-sebessegvaltas-nem-egeszen-kornyezetbarat-modon/",
+        "h1": "Kihal az autókból az egyik legjobb élmény, a kézi sebességváltás – nem egészen környezetbarát módon",
+        "txtlength": 17426
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210907_vaklarmanak_bizonyultak_ungar_klara_aggodalmai",
+        "h1": "Vaklármának bizonyultak Ungár Klára aggodalmai Újpesten",
+        "txtlength": 15907
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/kozelet/20210908/aki-akart-mar-kiment-csaknem-megallt-a-kulfoldon-elo-magyarok-szamanak-novekedese/",
+        "h1": "Aki akart, már kiment, csaknem megállt a külföldön élő magyarok számának növekedése",
+        "txtlength": 15649
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20210909/rank-rugta-az-ajtot-a-valosag-hirtelen-felbolydult-mehkas-lett-a-magyar-kotvenypiac-499762",
+        "h1": "Ránk rúgta az ajtót a valóság – Hirtelen felbolydult méhkas lett a magyar kötvénypiac",
+        "txtlength": 14350
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2021/09/09/etikai-botranyt-szult-a-14-napos-szabaly-eltorlese-az-embriokutatasaban",
+        "h1": "ETIKAI BOTRÁNYT SZÜLT A 14 NAPOS SZABÁLY ELTÖRLÉSE AZ EMBRIÓKUTATÁSBAN",
+        "txtlength": 13692
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/kapcsolat/mindig-mas-a-hibas/",
+        "h1": "Senki nem vádolhatja az anyját amiatt, hogy nem tud főzni: nem mutogathatunk mindig másra",
+        "txtlength": 12467
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/szuloseg/randy-gardner-alvas-nelkul-gyerek/",
+        "h1": "Randy Gardner gyerek alvás nélkül",
+        "txtlength": 10282
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/gazdasag/2021/09/09/a-bajnak-nincs-gazdaja-matolcsy-gyorgy-es-az-orban-kormany-eles-vitaja",
+        "h1": "A bajnak nincs gazdája: Matolcsy György és az Orbán-kormány éles vitája",
+        "txtlength": 24759
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/interju/2021/09/09/a-trauma-athuzalozza-az-agyat-de-mindig-van-remeny",
+        "h1": "A trauma áthuzalozza az agyat, de mindig van remény",
+        "txtlength": 24374
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://rangado.24.hu/magyar_foci/2021/09/09/magyarorszag-andorra-vilagbajnoki-selejtezo-riport-szurkoloi-velemenye/",
+        "h1": "Nem ciki, hogy az utolsó tíz percben húztuk az időt Andorra ellen?",
+        "txtlength": 17244
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/09/09/ferenc-budapesti-kapuore",
+        "h1": "Ferenc budapesti kapuőre",
+        "txtlength": 14768
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kultura/2021/09/09/sundown-tim-roth-charlotte-gainsbourg-michel-franco-al-garib-ameer-fakher-eldin-film-kritika-velencei-filmfesztival/",
+        "h1": "A világ borulhat össze körülöttük, ezek a férfiak csak kussolnak és mennek a saját fejük után",
+        "txtlength": 14057
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kulfold/2021/09/08/janukovics-haza-a-korrupcio-muzeuma-ukrajna",
+        "h1": "Aranyozott vécé nélkül is borzasztó rongyrázó az elűzött ukrán elnök rönkkastélya",
+        "txtlength": 11438
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/sport/20210908_Magyarorszag__Andorra__ELO",
+        "h1": "Simának indult, végül épphogy meglett a győzelem Andorra ellen",
+        "txtlength": 9997
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/ingatlan/20210908_epioipar_epitoanyagpiac_uj_lakasok_felujitas",
+        "h1": "Hiába az intézkedések, idén már nem várhatunk árcsökkenést az építőanyag-piacon",
+        "txtlength": 9965
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/gazdasag/20210909_kamatemeles_hitelek_bank360",
+        "h1": "Hiába a kamatemelés, úszik a piac a 4 százalék alatti hitelekben",
+        "txtlength": 9822
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/09/08/hamarosan-megvaltozik-hogy-honnan-lehet-ket-oltassal-karanten-nelkul-beutazni-nagy-britanniaba",
+        "h1": "Hamarosan megváltozik, hogy honnan lehet két oltással karantén nélkül beutazni Nagy-Britanniába",
+        "txtlength": 9503
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2021/09/08/kisoroszi-szigetcsucs-szabadstrand-szigetspicc-fejlesztes-molnar-csaba-vitalyos-eszter/",
+        "h1": "A polgármester szerint maradnak a borzasztó állapotok a Szigetcsúcsnál, lezárhatják a szabadstrandot",
+        "txtlength": 9459
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/ongyilkos-vajai-fiatal-diakok-csufoltak-az-iskolaban/hkr4b32",
+        "h1": "Sokkoló részletek az eltűnt vajai fiú tragédiájáról: így csúfolták Gábort az iskolában – A nevelőapja talált rá felakasztva",
+        "txtlength": 9221
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/kulfold/winston-churchill-emlekalap-tortenelem/52ey1yl",
+        "h1": "Az őrület fokozódik: már Churchillt is kiradírozzák a történelemből",
+        "txtlength": 8022
+    },
+    {
+        "hostname": "mindmegette.hu",
         "pagelink": "https://www.mindmegette.hu/mexikoi-csirkes-nachos-tal.recept",
         "h1": "MEXIKÓI CSIRKÉS NACHOS TÁL",
         "txtlength": 12242
