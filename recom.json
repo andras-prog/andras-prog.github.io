@@ -1,5 +1,197 @@
 [
     {
+        "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/sult-oldalas-ahogy-nagyanyaink-keszitettek",
+        "h1": "Sült oldalas, ahogy nagyanyáink készítették",
+        "txtlength": 11461
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/retro-hazi-hamburger.recept",
+        "h1": "HÁZI RETRÓ HAMBURGER",
+        "txtlength": 11221
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/sonkas-sajtos-rakott-palacsinta-ahogy-varkonyi-attila-kesziti.recept",
+        "h1": "SONKÁS-SAJTOS RAKOTT PALACSINTA, AHOGY VÁRKONYI ATTILA KÉSZÍTI",
+        "txtlength": 10947
+    },
+    {
+        "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/hagyomanyos-lencsefozelek",
+        "h1": "Hagyományos lencsefőzelék",
+        "txtlength": 10882
+    },
+    {
+        "hostname": "hataratkelo.blog.hu",
+        "pagelink": "https://hataratkelo.blog.hu/2021/09/06/tulelesi_strategia_irorszagban#c40898216",
+        "h1": "Túlélési stratégia Írországban",
+        "txtlength": 39569
+    },
+    {
+        "hostname": "kulturpart.hu",
+        "pagelink": "https://kulturpart.blog.hu/2021/09/08/bucsu_a_francia_film_fenegyereketol",
+        "h1": "BÚCSÚ A FRANCIA FILM FENEGYEREKÉTŐL",
+        "txtlength": 8664
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210909_budan_is_hat_a_nagy_dugosztori",
+        "h1": "Budán is hat a nagy dugókáosz",
+        "txtlength": 21928
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/oktatas/20210908/rengeteg-iskolasnak-jar-szeptembertol-tamogatas-havi-szazezer-is-osszejohet-1117575",
+        "h1": "Rengeteg iskolásnak jár szeptembertől támogatás: havi százezer is összejöhet",
+        "txtlength": 19762
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/otthon/20210905/itt-vesznek-most-olcson-csaladi-hazat-a-pestiek-videken-tudjak-mire-vallalkoznak-1116795",
+        "h1": "Itt vesznek most olcsón családi házat a pestiek vidéken: tudják, mire vállalkoznak?",
+        "txtlength": 19490
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://makronom.mandiner.hu/cikk/20210909_a_tulszabalyozott_sved_ingatlanpiacon_akar_kilenc_evet_is_varnia_kell_egy_fiatalnak_ahhoz_hogy_alberlethez_jusson",
+        "h1": "Svédországban még arra is kilenc évet várhat egy fiatal, hogy bérlakáshoz jusson",
+        "txtlength": 16945
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vallalat/20210909/menteni-kell-a-rezsicsokkentest-az-elszallo-arak-miatt/",
+        "h1": "Menteni kell a rezsicsökkentést az elszálló árak miatt",
+        "txtlength": 16616
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210909_eu_von_der_leyen_szocialistak_migracio_jogallamisag",
+        "h1": "Könnyített bevándorlást és minimumadót akar az európai baloldal",
+        "txtlength": 16600
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/uzlet/20210909/mersekelt-minuszban-zartak-az-amerikai-tozsdek-499830",
+        "h1": "Mérsékelt mínuszban zárták az amerikai tőzsdék ",
+        "txtlength": 16330
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/unios-forrasok/20210910/a-magyarok-negyotode-blokkolna-az-eu-s-penzt-azoknak-a-tagallamoknak-amelyek-nem-tartjak-be-a-jogallami-kereteket-500050",
+        "h1": "A magyarok négyötöde blokkolná az EU-s pénzt azoknak a tagállamoknak, amelyek nem tartják be a jogállami kereteket",
+        "txtlength": 15233
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/elet/20210910/a-magyar-csaladok-karbonlabnyomat-a-munkaba-jaras-es-a-nyaralas-nagyon-megdobja/",
+        "h1": "A magyar családok karbonlábnyomát a munkába járás és a nyaralás nagyon megdobja",
+        "txtlength": 15049
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/uzlet/20210910/sok-munkahelyen-nem-figyelnek-erre-pedig-a-dolgozoknak-es-a-cegnek-is-megeri-499954",
+        "h1": "Sok munkahelyen nem figyelnek erre, pedig a dolgozóknak és a cégnek is megéri",
+        "txtlength": 14918
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/ezo/nellie-bly-tortenete/",
+        "h1": "Őrültnek tettette magát az újságírónő, hogy beépüljön az elmegyógyintézetbe: szörnyű dolgokat tapasztalt",
+        "txtlength": 13133
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2021/09/09/budapesti-matematikusok-formaljak-a-vilag-penzugyeita-morgan-stanley-magyarorszagon-fejleszti-globalis-kereskedoalgoritmusait",
+        "h1": "BUDAPESTI MATEMATIKUSOK FORMÁLJÁK A VILÁG PÉNZÜGYEIT: A MORGAN STANLEY MAGYARORSZÁGON FEJLESZTI GLOBÁLIS KERESKEDŐALGORITMUSAIT",
+        "txtlength": 11374
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/lajfhekk/akitivitasmero-okosora-teszt-2021/",
+        "h1": "Aktivitásmérő okosóra teszt 2021",
+        "txtlength": 10559
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/komplex/2021/09/09/ime-a-szelsojobbos-ultrak-akik-bajba-kevertek-a-magyar-valogatottat",
+        "h1": "\n      Íme a szélsőjobbos ultrák, akik bajba keverték a magyar válogatottat\n    ",
+        "txtlength": 25433
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/gazdasag/20210910_Orban_bal_keze_Parragh_Laszlo",
+        "h1": "Orbán balkeze: Parragh László",
+        "txtlength": 18110
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/tudomany/2021/09/09/koronavirus-jarvany-covid-19-vakcina-szakertok-nyilatkozatok-josolgatas-ellentmondas/",
+        "h1": "Néha összevissza beszélnek a koronavírusról a szakértők, mégis mindig igazat mondanak",
+        "txtlength": 18041
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kulfold/2021/09/09/forro-a-levego-montenegroban-miert-olyan-fontos-hogy-ki-vezeti-a-helyi-egyhazat",
+        "h1": "Forró a levegő Montenegróban: azt érzik, hogy Szerbia megint belemart a függetlenségükbe",
+        "txtlength": 17943
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/gazdasag/2021/09/10/lamborghini-porsche-bentley-luxusautok-afacsalo-banda-nav-arveres-jogossagat-vitatja-a-berbeado-ceg",
+        "h1": "Kőkemény húzás a NAV-tól: úgy árverezi el a Lambót és a többi luxusautót, hogy azok nem is a maszkosztogató áfacsalóéi",
+        "txtlength": 13713
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/08/30/ki-volt-iden-a-legszabadabb-magyar?rtm_source=remp_campaign&rtm_medium=inline&rtm_campaign=fb113d79-d640-4d09-8326-2c15fea64e52&rtm_content=562da1e7-79c0-4852-8369-0bfacff0dc81&rtm_variant=36944a20-4b0b-418e-8b98-a9c917f034de",
+        "h1": "Ki volt idén a legszabadabb magyar?",
+        "txtlength": 12701
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kulfold/2021/09/09/eu-lengyelorszag-orban-kifizetesek-igazsagugyi-reform/",
+        "h1": "Bekeményített az EU Lengyelországgal szemben, ez Orbán számára is figyelmeztető jel lehet",
+        "txtlength": 12280
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/fn/gazdasag/2021/09/10/otp-bankszamla-csalas-telefon-karterites-nincs/",
+        "h1": "Nemigen számíthat banki kártérítésre, akit az OTP nevében csőbe húztak a csalók",
+        "txtlength": 12183
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/tudomany/20210909_dohanyzas_leszokas_fazisai",
+        "h1": "Milyen fázisokon megy át az, aki elhatározza, hogy leszokik a cigiről?",
+        "txtlength": 10669
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/09/09/a-szakertok-a-holland-allatallomany-radikalis-gyeriteset-javasoljak",
+        "h1": "A szakértők a holland állatállomány radikális gyérítését javasolják",
+        "txtlength": 10345
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/jakab-jobbik-rubi-fojtogatas-hajduhadhaza-rendorseg-kampany-forum/t0v8g09?sl_ps=d_5",
+        "h1": "A Trianon-emlékmű miatt tört ki a botrány: a Blikk megszólaltatta a férfit, akit letepertek Jakab Péter testőrei",
+        "txtlength": 10291
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/iskolai-zaklatas-vajai-gimnazium-tisza-gabor-tragedia-zaklatok/hkes755?sl_ps=d_6",
+        "h1": "Lányok lehettek a hangadók a kegyetlen gúnyolódók között: nem kérnek bocsánatot a vajai gimnazista zaklatói",
+        "txtlength": 10048
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/eurologus/20210910_A_magyarok_nem_biznak_a_kormanyukban_ha_unios_penzrol_van_szo",
+        "h1": "A magyarok nem bíznak a kormányukban, ha uniós pénzről van szó",
+        "txtlength": 9898
+    },
+    {
         "hostname": "mindmegette.hu",
         "pagelink": "https://www.mindmegette.hu/husos-szaftos-teszta-maradekbol.recept",
         "h1": "HÚSOS-SZAFTOS TÉSZTA MARADÉKBÓL",
