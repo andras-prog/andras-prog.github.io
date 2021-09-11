@@ -1,6 +1,186 @@
 [
     {
         "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/szabolcsi-olcso-almas-porlos-almas-pite-8",
+        "h1": "Szabolcsi olcsó almás porlós - Almás pite 8.",
+        "txtlength": 11604
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/paradicsomos-teszta-video.recept",
+        "h1": "PARADICSOMOS TÉSZTA",
+        "txtlength": 10800
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/ecetes-paradicsomsalata.recept",
+        "h1": "ECETES PARADICSOMSALÁTA",
+        "txtlength": 10747
+    },
+    {
+        "hostname": "hataratkelo.blog.hu",
+        "pagelink": "https://hataratkelo.blog.hu/2021/09/06/tulelesi_strategia_irorszagban#c40899630",
+        "h1": "Túlélési stratégia Írországban",
+        "txtlength": 43716
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210910_szeptember%2011_demko_attila_interju",
+        "h1": "Véget ért a Nyugat teljhatalmának kora – Demkó Attila 9/11 tanulságairól",
+        "txtlength": 39168
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210908_jezus_oroksege_nem_alku_targya",
+        "h1": "Jézus öröksége nem alku tárgya – Erdő Péter a Mandinernek",
+        "txtlength": 25941
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210909_dani_gyongyi",
+        "h1": "„Leugrottam a tetőről, de a Szűzanya kötényébe pottyantam” – Dani Gyöngyi paralimpikon a Mandinernek",
+        "txtlength": 22783
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/global/20210910/igy-valaszt-uj-vezetot-europa-legerosebb-orszaga-minden-a-nemet-valasztasi-rendszerrol-499792",
+        "h1": "Így választ új vezetőt Európa legerősebb országa - Minden a német választási rendszerről",
+        "txtlength": 19147
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/megtakaritas/20210909/van-5-10-millio-forintod-igy-fektesd-be-2021-ben-ha-nagyot-akarsz-kaszalni-1117628",
+        "h1": "Van 5-10 millió forintod? Így fektesd be 2021-ben, ha nagyot akarsz kaszálni",
+        "txtlength": 17143
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/ingatlan/20210911/husz-eve-omlottak-ossze-a-world-trade-center-ikertornyai-egykor-a-vilag-legmagasabb-epuletei-voltak-500162",
+        "h1": "Húsz éve omlottak össze a World Trade Center ikertornyai - Egykor a világ legmagasabb épületei voltak",
+        "txtlength": 16007
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/podcast/20210911/az-internetet-hibaztatjuk-a-vallalhatatlan-politikai-vitakert-pedig-a-trollok-offline-is-trollkodnak/",
+        "h1": "Az internetet hibáztatjuk a vállalhatatlan politikai vitákért, pedig a trollok offline is trollkodnak",
+        "txtlength": 15359
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20210910/uj-vilagrend-a-magyar-vendeglatasban-a-tulajdonosok-is-felszolgalnak-a-haborgo-tengeren-499742",
+        "h1": "Új világrend a magyar vendéglátásban? - A tulajdonosok is felszolgálnak a \"háborgó tengeren\"",
+        "txtlength": 15161
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/kozelet/20210910/ahogy-kozeledunk-a-nobel-dij-atadasahoz-kariko-katalin-neve-egyre-tobbszor-jelenik-meg/",
+        "h1": "Ahogy közeledünk a Nobel-díj átadásához, Karikó Katalin neve egyre többször jelenik meg",
+        "txtlength": 15136
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/karrier/20210910/sulyos-tevhitek-doltek-meg-a-tavmunkarol-kezdenek-fogyni-a-munkaltatoi-ellenervek-1117495",
+        "h1": "Súlyos tévhitek dőltek meg a távmunkáról: kezdenek fogyni a munkáltatói ellenérvek",
+        "txtlength": 14374
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/kapcsolat/egy-orszag-tragediaja/",
+        "h1": "Egy gyermek öngyilkossága mindannyiunk felelőssége: csak egyet tehetünk, megpróbáljuk megelőzni a többit",
+        "txtlength": 14217
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2021/09/10/magikus-aranyok-jellemzik-a-wigner-jeno-altal-1934-ben-megalmodott-kvantumkristalyt",
+        "h1": "MÁGIKUS ARÁNYOK JELLEMZIK A WIGNER JENŐ ÁLTAL 1934-BEN MEGÁLMODOTT KVANTUMKRISTÁLYT",
+        "txtlength": 11626
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/szuloseg/hpv-elleni-vedooltas/",
+        "h1": "HPV elleni védőoltás",
+        "txtlength": 10832
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2021/09/10/hajdunanas-tiszavasvari-riport/",
+        "h1": "„Kezdtek is kibújni a pólójukból” – egy hajdúsági verekedés története",
+        "txtlength": 29528
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kulfold/2021/09/11/szeptember-11-hatasa-terrorizmus-ellenes-harc-usa-vilag/",
+        "h1": "Gyökeresen megváltoztatta a világot 9/11 – a hatása még ma is tart",
+        "txtlength": 20862
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/tudomany/2021/09/10/jarvany-aids-hiv/",
+        "h1": "AIDS: így rontották el a járványkezelést",
+        "txtlength": 19608
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/politika/szeptember-11-terror-word-trade-center-utasszallitok-ikertornyok-percrol-percre/m7f7prt",
+        "h1": "Ezek voltak az utolsó üzenetek a tornyokba csapódó repülőkről – Percről percre a 9/11 drámai pillanatai",
+        "txtlength": 17882
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/gazdasag/2021/09/10/a-szornyu-wtc-tamadas-40-milliard-dollaros-kozvetlen-kart-okozott-a-megtorlas-6000-milliardba-kerult",
+        "h1": "A tragédia, amelyen még a szívtelen piacok sem akartak pénzt keresni",
+        "txtlength": 16751
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20210911_Elovalasztas_elovalasztas_szavazasi_eloregisztracio_visszalepesek",
+        "h1": "Előválasztás: Hétfőn indul a szavazási előregisztráció, két jelölt elvérzett, ötöt már visszaléptettek",
+        "txtlength": 14842
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/sport/2021/09/10/thomas-sowunmi-angol-meccs-valogatott-rasszizmus",
+        "h1": "A magyar futballválogatott első fekete játékosa: Én térdelnék",
+        "txtlength": 11984
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/09/10/keves-az-aruszallito-allandosulhatnak-a-hianyok-a-brit-uzletekben",
+        "h1": "Kevés az áruszállító, állandósulhatnak a hiányok a brit üzletekben",
+        "txtlength": 11922
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/eszkombajn/2021/09/11/uss-eldridge-lathatatlan-hajo-kormany-kiserlet-haditengereszet-konteo-osszeeskuves-elmelet",
+        "h1": "Az USA leghírhedtebb katonai kísérlete, amiből a láthatatlan, teleportáló, időutazó hajó legendája született",
+        "txtlength": 11827
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/kulfold/vatikan-papa-titkok-lucifer-svajci-garda-katolikus-vilag/7t11pjt",
+        "h1": "Tudta? Lucifernek hívják a Vatikán távcsövét, a pápai állam börtöne meg többnyire üres",
+        "txtlength": 11824
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20210910_pegasus_ugy_mesterhazy_attila",
+        "h1": "Mesterházy titoktartásit írt alá, majd elmondta a Pegasus-ügyről, amit lehet",
+        "txtlength": 11628
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/09/11/hetvegi-olvasnivalo-911-emlekezetetol-a-termeszetvedelem-csodjeig",
+        "h1": "Hétvégi olvasnivaló 9/11 emlékezetétől a természetvédelem csődjéig",
+        "txtlength": 10822
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/tudomany/20210911_samsung_kutatas_otthoni_eszkozvasarlasi_trendek_jarvany_lezaras",
+        "h1": "Miket vettek a magyarok az elmúlt egy évben, hogy jobb legyen otthon?",
+        "txtlength": 10698
+    },
+    {
+        "hostname": "nosalty.hu",
         "pagelink": "https://www.nosalty.hu/recept/sult-oldalas-ahogy-nagyanyaink-keszitettek",
         "h1": "Sült oldalas, ahogy nagyanyáink készítették",
         "txtlength": 11461
