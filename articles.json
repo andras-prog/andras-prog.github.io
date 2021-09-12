@@ -1433,26 +1433,22 @@
         "topic": "konyv",
         "picarr": [
             {
-                "picture": "https://kisgomboc.files.wordpress.com/2021/01/blond-1866951_1920.jpg?w=723",
-                "timestamp": 1630839706513
-            },
-            {
                 "picture": "https://kisgomboc.files.wordpress.com/2021/01/golden-791072_1920.jpg?w=723",
-                "timestamp": 1629630073430
+                "timestamp": 1631444447624
             },
             {
                 "picture": "https://kisgomboc.files.wordpress.com/2021/01/girl-3528292_1920.jpg?w=723",
                 "timestamp": 1630234907667
+            },
+            {
+                "picture": "https://kisgomboc.files.wordpress.com/2021/01/blond-1866951_1920.jpg?w=723",
+                "timestamp": 1630839706513
             }
         ],
         "titlearr": [
             {
-                "title": "https://bookline.hu/product/home.action?_v=Torok_Szabo_Balazs_A_teoretika&type=22&id=294560",
-                "timestamp": 1630839706513
-            },
-            {
                 "title": "https://bookline.hu/product/home.action?_v=Jojo_Moyes_Mielott_megismertelek&type=22&id=285295",
-                "timestamp": 1623582097560
+                "timestamp": 1631444447624
             },
             {
                 "title": "https://bookline.hu/product/home.action?_v=Borsa_Brown_Az_Arab_Arab_1_&type=22&id=280920",
@@ -1497,6 +1493,10 @@
             {
                 "title": "https://bookline.hu/product/home.action?_v=Hyeonseo_Lee_A_lany_het_nevvel&type=22&id=280591",
                 "timestamp": 1630234907667
+            },
+            {
+                "title": "https://bookline.hu/product/home.action?_v=Torok_Szabo_Balazs_A_teoretika&type=22&id=294560",
+                "timestamp": 1630839706513
             }
         ],
         "leadarr": [
