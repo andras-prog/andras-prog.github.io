@@ -1,6 +1,204 @@
 [
     {
         "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/klasszikus-csaszarmorzsa",
+        "h1": "Klasszikus császármorzsa",
+        "txtlength": 10310
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/tangoszelet.recept",
+        "h1": "TANGÓSZELET",
+        "txtlength": 10269
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/ropogos-csirkeszarny-szezammaggal.recept",
+        "h1": "ROPOGÓS CSIRKESZÁRNY SZEZÁMMAGGAL",
+        "txtlength": 10246
+    },
+    {
+        "hostname": "kiszamolo.hu",
+        "pagelink": "https://kiszamolo.hu/mikor-kell-helyszinen-javitani-egy-termeket/",
+        "h1": "Mikor kell helyszínen javítani egy terméket?",
+        "txtlength": 33518
+    },
+    {
+        "hostname": "alapblog.hu",
+        "pagelink": "https://alapblog.hu/osszel-is-nyomas-alatt-lesz-az-egeszsegugyi-rendszer-a-delta-itt-van-es-okozhat-meg-meglepeteseket/",
+        "h1": "Újabb próbatétel előtt az egészségügyi rendszer",
+        "txtlength": 9885
+    },
+    {
+        "hostname": "kulturpart.hu",
+        "pagelink": "https://kulturpart.blog.hu/2021/09/11/hamori_ildiko_gaspar_kata_es_szabo_t_anna_kapta_az_arany_medal-dijat",
+        "h1": "HÁMORI ILDIKÓ, GÁSPÁR KATA ÉS SZABÓ T. ANNA KAPTA AZ ARANY MEDÁL-DÍJAT",
+        "txtlength": 7179
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210910_banffy_kata",
+        "h1": "A feminizmus ma már konzervatív fogalom – Molnár-Bánffy Kata a Mandinernek",
+        "txtlength": 24812
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210911_husz_eve_tortent_igy_eltuk_at_9_11_et",
+        "h1": "Húsz éve történt: így éltük át 9/11-et",
+        "txtlength": 23833
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210908_mi_forr_ma_a_vatikanban",
+        "h1": "Mi forr ma a Vatikánban? – mérlegre tettük a reformokat",
+        "txtlength": 23707
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/bank/20210912/gigafelvasarlasok-es-hatalmas-befektetesek-szaguld-a-fintech-szektor-500196",
+        "h1": "Gigafelvásárlások és hatalmas befektetések - Száguld a fintech-szektor",
+        "txtlength": 17763
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/prof/20210911/31-dolog-ami-kepes-bedonteni-egy-bankot-499870",
+        "h1": "3+1 dolog, ami képes bedönteni egy bankot",
+        "txtlength": 17754
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/kozelet/20210911/elterjedt-nezet-csak-nem-igaz-hogy-a-hiperinflacio-juttatta-volna-hatalomra-a-nacikat/",
+        "h1": "Elterjedt nézet, csak nem igaz, hogy a hiperinfláció juttatta volna hatalomra a nácikat",
+        "txtlength": 17188
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/otthon/20210911/menekulnek-ezekrol-a-telepulesekrol-a-magyar-fiatalok-nincs-semmi-ami-visszatartana-oket-1117280",
+        "h1": "Menekülnek ezekről a településekről a magyar fiatalok: nincs semmi, ami visszatartaná őket",
+        "txtlength": 16900
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2021/09/12/ha-egymast-sem-ertjuk-valoszinu-hogy-egy-idegen-civilizaciobol-semmit-sem-ertenenk",
+        "h1": "HA EGYMÁST SEM ÉRTJÜK, VALÓSZÍNŰ, HOGY EGY IDEGEN CIVILIZÁCIÓBÓL SEMMIT SEM ÉRTENÉNK",
+        "txtlength": 15661
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/utazas/20210911/7-csodas-kirandulohely-amelyet-csak-a-kivaltsagosok-ismernek-terkepen-a-jaratlan-utak-1117685",
+        "h1": "7 csodás kirándulóhely, amelyet csak a kiváltságosok ismernek: térképen a járatlan utak",
+        "txtlength": 15258
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/podcast/20210912/ez-a-munka-nem-mukodhet-ugy-hogy-csak-a-szukseges-45-percen-legyek-tul/",
+        "h1": "Ez a munka nem működhet úgy, hogy „csak a szükséges 45 percen legyek túl”",
+        "txtlength": 14561
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/global/20210911/titkos-tervek-a-harmadik-vilaghaborurol-a-magyar-hadsereg-foglalta-volna-el-a-nuklearis-sivatagga-bombazott-becset-499924",
+        "h1": "Titkos tervek a harmadik világháborúról: a magyar hadsereg foglalta volna el a nukleáris sivataggá bombázott Bécset",
+        "txtlength": 14535
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/gyerek/hogyan-valasszon-orvost-a-kismama/",
+        "h1": "\"Hiába kértem epidurális érzéstelenítést a szülés elején, nem kaptam\": 3 magyar édesanya szüléstörténete",
+        "txtlength": 13333
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/lajfhekk/diszfak-a-kertben/",
+        "h1": "Díszfák a kertben",
+        "txtlength": 11599
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/testem/taplalkozas-jo-kedv/",
+        "h1": "táplálkozás jókedv",
+        "txtlength": 10221
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kultura/2021/09/12/lincseles-bunugy-molnar-matine-konyvajanlo/",
+        "h1": "Meglincseltek két molnárt Miskolcon 1946-ban",
+        "txtlength": 38995
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/eszkombajn/2021/09/12/bekasmegyeri-szalaghaz-oriashaz-negy-kilometer-zalotay-elemer",
+        "h1": "Százezren laktak volna Békásmegyer egyetlen óriásházában, a négy kilométer hosszú szalagházban",
+        "txtlength": 18564
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kulfold/2021/09/11/szeptember-11-terrortamadas-osszeeskuves-elmelet-konteo-9-11",
+        "h1": "Szeptember 11. és a modern összeesküvés-elméletek ősrobbanása",
+        "txtlength": 16716
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2021/09/12/ii-janos-pal-papa-elso-magyarorszagi-latogatasa-30-eve/",
+        "h1": "Még a Szomszédokban is megemlékeztek a pápalátogatásról – II. János Pál napokig magyarul beszélt",
+        "txtlength": 16516
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kultura/2021/09/11/orosz-istvan-fortepan/",
+        "h1": "Fényből grafitba – fotográfia és animációs film násza Orosz István életművében",
+        "txtlength": 16266
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/elet/20210911_New_York_Epicentrum_Spike_Lee_szeptember_11",
+        "h1": "Ezt a várost senki és semmi nem fogja padlóra küldeni",
+        "txtlength": 15107
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/elet/20210911_Rudy_Giuliani_New_York_hose_husz_evvel_kesobb",
+        "h1": "A New York-i hős, akin húsz évvel később már csak kínjában nevet Amerika",
+        "txtlength": 14601
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/belfold/2021/09/11/alapjarat-onvezeto-auto-onvezetes-tesla",
+        "h1": "Az önvezető autó egyelőre néphülyítés",
+        "txtlength": 13125
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/krimi/ferihegyi-robbantas-regi-bunugyek-exnyomozo/nn4nj2w?sl_ps=d_4",
+        "h1": "Ferihegyi robbantás: így azonosították az első magyarországi terrortámadás elkövetőit – Egy exnyomozó vallomásai",
+        "txtlength": 13124
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/gazdasag/20210911_911_terrortamadas_wall_street_gazdasagi_kovetkezmenyek",
+        "h1": "Sokkot igen, összeomlást nem hozott a gazdaságban 9/11",
+        "txtlength": 12292
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/09/11/eljaras-indult-a-volt-francia-egeszsegugyi-miniszter-ellen",
+        "h1": "Eljárás indult a volt francia egészségügyi miniszter ellen",
+        "txtlength": 9217
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/penz/jon-a-globalis-minimumado/kpvtl1l",
+        "h1": "Adóemelés jöhet: bár a kormány nem szeretné, mégis kierőltethetik, ami komoly gondokat okoz majd mindenkinek",
+        "txtlength": 9132
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/09/12/a-franciak-egyelore-nem-ismerik-el-a-talib-kormanyt",
+        "h1": "A franciák egyelőre nem ismerik el a tálib kormányt",
+        "txtlength": 8847
+    },
+    {
+        "hostname": "nosalty.hu",
         "pagelink": "https://www.nosalty.hu/recept/szabolcsi-olcso-almas-porlos-almas-pite-8",
         "h1": "Szabolcsi olcsó almás porlós - Almás pite 8.",
         "txtlength": 11604
