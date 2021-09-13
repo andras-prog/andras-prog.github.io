@@ -1,5 +1,197 @@
 [
     {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/zoldseges-lecso-sult-csirkecombbal-egyszeruen.recept",
+        "h1": "ZÖLDSÉGES LECSÓ SÜLT CSIRKECOMBBAL",
+        "txtlength": 10425
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/legenyfogo-leves-egyszeruen.recept",
+        "h1": "LEGÉNYFOGÓ LEVES",
+        "txtlength": 10419
+    },
+    {
+        "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/paradicsomle-telire-tartositoszer-mentes",
+        "h1": "Paradicsomlé télire - tartósítószer mentes",
+        "txtlength": 9907
+    },
+    {
+        "hostname": "kiszamolo.hu",
+        "pagelink": "https://kiszamolo.hu/marad-a-hitelmoratorium-de/",
+        "h1": "Marad a hitelmoratórium, de változnak a feltételek",
+        "txtlength": 29468
+    },
+    {
+        "hostname": "efesasanisimasa.com",
+        "pagelink": "https://efesasanisimasa.com/2021/09/07/a-kastely-%d0%b7%d0%b0%d0%bc%d0%be%d0%ba-the-castle-das-schlos-1994/",
+        "h1": "A kastély (Замок / The Castle / Das Schloß, 1994)",
+        "txtlength": 8266
+    },
+    {
+        "hostname": "alapblog.hu",
+        "pagelink": "https://alapblog.hu/sokaig-kell-meg-varni-a-jarvany-elotti-arszintekre/",
+        "h1": "Jelentős felárat fizet, aki most vesz használt autót",
+        "txtlength": 6807
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210912_belfold_elovalasztas_valasztas_2022_marki_zay_peter_dobrev_klara_karacsony_gergely_atv_fekete_gyor_andras",
+        "h1": "Miniszterelnök-jelölti egyetértést és adóemelési javaslatot hozott a sokat várt baloldali vita",
+        "txtlength": 30881
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20210912/felrobbannak-az-adobevetelek-magyarorszagon-es-a-kormany-gyorsan-el-is-kolti-500266",
+        "h1": "Felrobbannak az adóbevételek Magyarországon, és a kormány gyorsan el is költi",
+        "txtlength": 22753
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/vasarlas/20210912/kemeny-osz-ele-neznek-a-magyar-csaladok-nincs-mese-ennek-megfizetik-az-arat-1117660",
+        "h1": "Kemény ősz elé néznek a magyar családok: nincs mese, ennek megfizetik az árát",
+        "txtlength": 22457
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/elet/20210913/a-magyar-parasport-legnagyobb-sikere-amiert-par-ezer-forint-jart-es-szinte-senkit-nem-erdekelt/",
+        "h1": "A magyar parasport legnagyobb sikere, amiért pár ezer forint járt, és szinte senkit nem érdekelt",
+        "txtlength": 21596
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210912_szimbolikus_ajandekot_adott_orban_viktor_ferenc_papanak",
+        "h1": "Szimbolikus ajándékot adott Orbán Viktor Ferenc pápának",
+        "txtlength": 20687
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210908_az_ellentmondasok_papaja",
+        "h1": "Az ellentmondások pápája – kicsoda igazából Ferenc?",
+        "txtlength": 20007
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/uzlet/20210913/forradalmasitana-a-vendeglatast-es-a-globalis-piacra-keszul-a-cyberg-500290",
+        "h1": "Forradalmasítaná a vendéglátást és a globális piacra készül a CyBERG",
+        "txtlength": 19827
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/unios-forrasok/20210913/itt-a-nagy-lehetoseg-a-gyorsan-novekvo-cegeknek-de-nehany-dologra-oda-kell-figyelni-500216",
+        "h1": "Itt a nagy lehetőség a gyorsan növekvő cégeknek, de néhány dologra oda kell figyelni",
+        "txtlength": 19533
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/karrier/20210910/elesedett-a-kormany-legujabb-csodafegyvere-kismamakkal-toltenek-fel-a-munkahelyeket-1117655",
+        "h1": "Élesedett a kormány legújabb csodafegyvere: kismamákkal töltenék fel a munkahelyeket",
+        "txtlength": 16142
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/penz/20210912/nagyon-rosszul-nez-ki-hogy-az-amerikai-jegybankarok-sajat-zsebre-tozsdeznek/",
+        "h1": "Nagyon rosszul néz ki, hogy az amerikai jegybankárok saját zsebre tőzsdéznek",
+        "txtlength": 15375
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2021/09/13/ezert-nem-kapsz-karacsonyra-uj-pc-t-jatekkonzolt-tabletet-vagy-telefont",
+        "h1": "EZÉRT NEM KAPSZ KARÁCSONYRA ÚJ PC-T, JÁTÉKKONZOLT, TABLETET VAGY TELEFONT",
+        "txtlength": 12529
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/szuloseg/gyerek-nem-akar-iskolaba-menni-iskolafobia/",
+        "h1": "gyerek nem akar iskolába menni iskolafóbia",
+        "txtlength": 12059
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/ezo/heti_horoszkop/202137/",
+        "h1": "Heti horoszkóp szeptember 13-tól 19-ig: a Skorpió a munkában, a Nyilas a szerelemben sikeres",
+        "txtlength": 11404
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/komplex/2021/09/13/jarvany-halalozas-halalesetek-tobblethalalozas-elvesztett-eletevek-statisztika-ferenci-tamas-1",
+        "h1": "\n      „Többségében idős, krónikus betegek” – hány életévet vesztettünk a járvány miatt?\n    ",
+        "txtlength": 26173
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/belfold/2021/09/12/ellenzeki-elovalasztas-kampany-miniszterelnok-jelolti-vita-atv",
+        "h1": "Fideszes bűnözők elszámoltatását és az alaptörvény érvénytelenítését ígérték",
+        "txtlength": 20510
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2021/09/12/ellenzek-elovalasztas-vita-miniszterelnok-jelolt/",
+        "h1": "Az elszámoltatás után 200 ezres minimálbért, négynapos munkahetet ígérnek az ellenzéki miniszterelnök-jelöltek",
+        "txtlength": 15913
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20210912_Miniszterelnokjeloltek_vita_osszefoglalo_elszamoltatas_Hadhazy_Toth",
+        "h1": "Mindenkinek mindent ígértek a miniszterelnök-jelöltek, az elszámoltatásban egyetértettek, igazi vita Hadházy és Tóth jelölése körül volt csak",
+        "txtlength": 14074
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/belfold/2021/09/12/ferenc-papa-budapest-hosok-tere-eucharisztikus-kongresszus",
+        "h1": "Ferenc pápa a Hősök terén egy hamis Istenről beszélt, akitől elvárjuk, hogy erővel uralkodjon, majd Isten áldását kérte a magyarságra",
+        "txtlength": 13607
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/eurologus/20210913_EU_Bizottsag_helyreallitasi_terv_jegelve",
+        "h1": "Egész őszre jegelheti az Európai Bizottság az uniós pénzekről szóló magyar tervet",
+        "txtlength": 13462
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kultura/2021/09/12/money-heist-nagy-penzrablas-netflix/",
+        "h1": "Itt az ideje, hogy végre szögre akasszák a Dalí-maszkot kedvenc spanyol bankrablóink",
+        "txtlength": 13423
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/09/13/megfigyeles-szabotazs-korrupcio-a-bbc-leleplezte-a-british-american-tobacco-sotet-uzelmeit",
+        "h1": "Megfigyelés, szabotázs, korrupció: a BBC leleplezte a British American Tobacco sötét üzelmeit",
+        "txtlength": 12669
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/09/12/ferenc-papa-arra-emlekeztette-a-magyar-puspokoket-magyarorszag-multikulturalis-kozeg",
+        "h1": "Ferenc pápa arra emlékeztette a magyar püspököket: Magyarország multikulturális közeg",
+        "txtlength": 12393
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/szazezer-hivo-szentmise-ferenc-papa-csoda/2z49n4q?sl_ps=d_6",
+        "h1": "Megmentette az életüket az ima: „Csodát tett velünk Ferenc pápa”",
+        "txtlength": 12378
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2021/09/13/bakony-fold-belvaros-szentgyorgyvolgyi-polgarmester/",
+        "h1": "Bakonyi földesúr lett Rogán Antal utódja, csak az nem látszik, honnan volt rá pénze",
+        "txtlength": 11419
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20210913_Pava_Zoltan_Pegas_Gyurcsany",
+        "h1": "Aznap kezdték figyelni Páva Zoltánt a Pegasusszal, amikor kiderült, hogy szerződése van Gyurcsányékkal",
+        "txtlength": 8990
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/idojaras-elorejelzes-napsutes-zapor/gnj0w07",
+        "h1": "Időjárás ma: marad a nyárias idő, de van, ahol kellhet az esernyő – Szerdán visszatérhet a hőség, 30 fok felett lehet a csúcshőmérséklet",
+        "txtlength": 8818
+    },
+    {
         "hostname": "nosalty.hu",
         "pagelink": "https://www.nosalty.hu/recept/klasszikus-csaszarmorzsa",
         "h1": "Klasszikus császármorzsa",
