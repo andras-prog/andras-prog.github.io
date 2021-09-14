@@ -1,6 +1,180 @@
 [
     {
         "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/milanoi-sertesborda-parmezanos-bundaban.recept",
+        "h1": "MILÁNÓI SERTÉSBORDA PARMEZÁNOS BUNDÁBAN",
+        "txtlength": 10359
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/rantott-sajt-parolt-rizzsel.recept",
+        "h1": "RÁNTOTT SAJT PÁROLT RIZZSEL",
+        "txtlength": 10276
+    },
+    {
+        "hostname": "hataratkelo.blog.hu",
+        "pagelink": "https://hataratkelo.blog.hu/2021/09/06/tulelesi_strategia_irorszagban",
+        "h1": "Túlélési stratégia Írországban",
+        "txtlength": 50423
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/vallalkozas/20210913/mozgolodik-a-penzugyi-elit-uj-tipusu-vallalkozok-hoditjak-meg-magyarorszagot-1117654",
+        "h1": "Mozgolódik a pénzügyi elit: új típusú vállalkozók hódítják meg Magyarországot",
+        "txtlength": 34622
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/gazdasag/20210913/veled-vagy-nelkuled-az-onallo-monetaris-politika-feladasanak-elonyei-es-hatranyai-1117587",
+        "h1": "Veled vagy nélküled? Az önálló monetáris politika feladásának előnyei és hátrányai",
+        "txtlength": 27751
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20210913/ok-azok-akik-feltorik-es-felforgatjak-a-magyar-egeszsegugyet-499994",
+        "h1": "Ők azok, akik feltörik és felforgatják a magyar egészségügyet",
+        "txtlength": 26048
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vilag/20210914/van-ahol-mar-ures-aruhazi-polcokhoz-vezetett-a-kamionoshiany/",
+        "h1": "Van, ahol már üres áruházi polcokhoz vezetett a kamionoshiány",
+        "txtlength": 26041
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20210914/megszolal-a-hirvivo-ez-az-antiallergias-orrspray-eleteket-menthet-meg-es-a-virus-terjedeset-is-gatolhatja-500132",
+        "h1": "Megszólal a hírvivő: ez az antiallergiás orrspray életeket menthet meg, és a vírus terjedését is gátolhatja",
+        "txtlength": 25520
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/tech/20210913/magyar-ceg-fejlesztesevel-dugok-nelkul-balesetmentesen-kozlekedhetnek-a-jovo-jarmuvei/",
+        "h1": "Magyar cég fejlesztésével dugók nélkül, balesetmentesen közlekedhetnek a jövő járművei",
+        "txtlength": 23998
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210908_a_szeretet_uzenete_az_ember_a_nek_monstranciaja_mogott",
+        "h1": "A szeretet üzenete – Lenzsér-Mezei Kata ötvösművész a Mandinernek",
+        "txtlength": 20828
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210913_schiffer_andras_lumpenindulatokkal_valasztast_nyerni_lumpenorszaghoz_vezet",
+        "h1": "Schiffer András: Lumpenindulatokkal választást nyerni lumpenországhoz vezet!",
+        "txtlength": 19743
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210908_felkeszules_kuszobon_a_negyedik_hullam",
+        "h1": "Felkészülés – Küszöbön a negyedik hullám",
+        "txtlength": 19673
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/bank/20210913/digitalis-szakadek-tatong-magyarorszagon-hatalmas-a-kulonbseg-a-fovaros-es-a-videk-kozott-500370",
+        "h1": "Digitális szakadék tátong Magyarországon - Hatalmas a különbség a főváros és a vidék között",
+        "txtlength": 16391
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/ezo/jeanne-baret-felfedezo/",
+        "h1": "Fiúnak álcázta magát, így lett az első nő Jeanne Baret, aki körbehajózta a Földet: tudományos érdeklődés vezette",
+        "txtlength": 12617
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/szuloseg/gyereknevelesi-modok/",
+        "h1": "gyereknevelési módok",
+        "txtlength": 11737
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2021/09/14/zoldnek-zold-a-szelturbina-de-vannak-sotetzold-oldalai",
+        "h1": "ZÖLDNEK ZÖLD A SZÉLTURBINA, DE VANNAK SÖTÉTZÖLD OLDALAI",
+        "txtlength": 11694
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/sport/2021/09/13/bodonyi-dora-kajak-tokio-aranyerem-kishituseg-mononukleozis",
+        "h1": "Álltam a dobogó tetején, és vártam, hogy vége legyen",
+        "txtlength": 19260
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20210914_harmadik_oltas_koronavirus_egeszsegugy_jarvany",
+        "h1": "Máris gyengülhet az oltás hatása? Megéri beadatni a harmadik adagot? És ha igen, kinek?",
+        "txtlength": 17243
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kulfold/2021/09/13/afganisztan-talibok-paradoxon-helyszini-riport-kabul-hataratkeles-pakisztan",
+        "h1": "Fegyveres kamaszok ejtettek fogságba Afganisztánban, és tálibok mentettek meg a táliboktól",
+        "txtlength": 15711
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/tudomany/20210914_programozott_amortizacio_fenntarthato_fejlodes",
+        "h1": "Miért romlik el pár év alatt minden? Programozott amortizáció, avagy a hiba az ön készülékében van",
+        "txtlength": 15606
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kult/2021/09/14/a-keretlen-farokfotoknal-is-van-itt-kiakasztobb",
+        "h1": "A kéretlen farokfotóknál is van kiakasztóbb ebben a filmben",
+        "txtlength": 15414
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/09/14/dijnyertes-megfutamodas",
+        "h1": "Díjnyertes megfutamodás",
+        "txtlength": 14799
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kultura/2021/09/13/marvel-tony-leung-film-hongkong/",
+        "h1": "A Marvel legújabb főgonosza mögött Ázsia legjobb színésze rejlik – kicsoda Tony Leung?",
+        "txtlength": 14638
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/vilag/20210913_afganisztan_veteranok_magyar_honvedseg",
+        "h1": "„Sosem tudod, ki az ellenség és ki a barát. Ez az ijesztő, nem a robbantások”",
+        "txtlength": 14544
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2021/09/14/egeszsegugyi-dolgozok-szabadsag-letszam-covid/",
+        "h1": "Vannak ápolók, akik a tíznapos ajándékszabadságot sem tudták kivenni",
+        "txtlength": 13809
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2021/09/13/m-richard-veszegetes-kozokirat-hamisitas-targyalas/",
+        "h1": "M. Richárd: Ha a Jóistent vesztegetném meg, akkor sem vezethetnék",
+        "txtlength": 12278
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/09/13/az-iskolaskoru-gyerekek-beoltasat-javasoljak-a-brit-tisztifoorvosok",
+        "h1": "Az iskoláskorú gyerekek beoltását javasolják a brit tisztifőorvosok",
+        "txtlength": 12120
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/blikk-tv/sztarvilag/karasz-robert-egyedul-szingli-bepotolja-idot-lanyaival-blikkgyozo-szabo-gyozo/2wx3xym?sl_ps=d_10",
+        "h1": "Blikk+Győző: Kárász Róbert már nem hajt a csajokra",
+        "txtlength": 8902
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/gyogyithatatlan-betegseg-david-segitseg-elet/ypp2rml?sl_ps=d_7",
+        "h1": "Öt gyógyíthatatlan betegsége ellenére is képes a mosolyra Dávid: „Hiszem, hogy egyszer én is elmondhatom magamról: egészséges vagyok!”",
+        "txtlength": 8271
+    },
+    {
+        "hostname": "mindmegette.hu",
         "pagelink": "https://www.mindmegette.hu/zoldseges-lecso-sult-csirkecombbal-egyszeruen.recept",
         "h1": "ZÖLDSÉGES LECSÓ SÜLT CSIRKECOMBBAL",
         "txtlength": 10425
