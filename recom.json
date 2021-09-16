@@ -1,6 +1,180 @@
 [
     {
         "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/sargabarackos-kremes.recept",
+        "h1": "SÁRGABARACKOS KRÉMES",
+        "txtlength": 10838
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/tarkonyos-leves-csulokkel.recept",
+        "h1": "TÁRKONYOS LEVES CSÜLÖKKEL",
+        "txtlength": 9939
+    },
+    {
+        "hostname": "hataratkelo.blog.hu",
+        "pagelink": "https://hataratkelo.blog.hu/2021/09/13/amerikabol_magyarorszagra_egy_nyar_tortenete#c40911740",
+        "h1": "Amerikából Magyarországra – egy nyár története",
+        "txtlength": 61020
+    },
+    {
+        "hostname": "kulturpart.hu",
+        "pagelink": "https://kulturpart.blog.hu/2021/09/12/izgalmas_programokkal_keszulnek_az_oszre_a_hild_villaban",
+        "h1": "IZGALMAS PROGRAMOKKAL KÉSZÜLNEK AZ ŐSZRE A HILD-VILLÁBAN",
+        "txtlength": 9937
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210915_elszabadult_hajoagyukent_viselkedik_az_europai_parlament_varga_judit_a_mandinernek",
+        "h1": "Elszabadult hajóágyúként viselkedik az Európai Parlament – Varga Judit a Mandinernek",
+        "txtlength": 25326
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/vasarlas/20210913/brutalis-mennyisegu-munkaerot-szivna-fel-a-kifli-elarultak-nyitnak-e-boltot-meg-iden-budapesten-1117687",
+        "h1": "Brutális mennyiségű munkaerőt szívna fel a Kifli: elárulták, nyitnak-e boltot még idén Budapesten",
+        "txtlength": 24633
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/global/20210916/titokban-kinaval-egyeztethetett-az-atomhaborutol-rettego-amerikai-vezerkari-fonok-hazaarulo-vagy-hos-a-trumppal-szembeszegulo-tabornok-500760",
+        "h1": "Titokban Kínával egyeztethetett az atomháborútól rettegő amerikai vezérkari főnök - Hazaáruló vagy hős a Trumppal szembeszegülő tábornok?",
+        "txtlength": 19812
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/kozelet/20210916/megsem-aszfaltoznak-a-szigetcsucson-de-az-erdot-igy-is-meg-kell-menteni/",
+        "h1": "Mégsem aszfaltoznak a Szigetcsúcson, de az erdőt így is meg kell menteni",
+        "txtlength": 18320
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/ingatlan/20210915/scheer-sandor-az-epitoiparban-ez-most-egy-haborus-idoszak-500628",
+        "h1": "Scheer Sándor: az építőiparban ez most egy háborús időszak",
+        "txtlength": 17516
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210916_a_frankfurter_allgemeine_zeitung_szerint_nyugati_penzugyi_befektetok_tamogatjak_orban_viktort",
+        "h1": "A Frankfurter Allgemeine Zeitung szerint nyugati pénzügyi befektetők támogatják Orbán Viktort",
+        "txtlength": 16716
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/kozelet/20210915/ujabb-figyelmeztetest-adhat-az-unio-hogy-magyarorszag-a-fal-fele-szaguld/",
+        "h1": "Újabb figyelmeztetést adott az unió, hogy Magyarország a fal felé száguld",
+        "txtlength": 16624
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210915_hatalomatmentes_vagy_megfontolt_reform",
+        "h1": "Hatalomátmentés vagy megfontolt reform? – Vitainterjú a felsőoktatás elmúlt tíz évéről",
+        "txtlength": 16081
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2021/09/16/minel-tavolabbrol-minel-pontosabban-precizios-csapasmeres-11-ezer-kilometerrol",
+        "h1": "MINÉL TÁVOLABBRÓL, MINÉL PONTOSABBAN: PRECÍZIÓS CSAPÁSMÉRÉS 11 EZER KILOMÉTERRŐL",
+        "txtlength": 15185
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/tech/20210914/bemuatattak-az-iphone-13-at-ennyibe-fog-kerulni-a-legujabb-apple-csucsmobil-mutatjuk-az-osszes-ujdonsagot-1117764",
+        "h1": "Bemutatták az iPhone 13-at: ennyibe fog kerülni a legújabb Apple csúcsmobil, mutatjuk az összes újdonságot",
+        "txtlength": 14584
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/uzlet/20210915/ppf-a-telenor-magyarorszag-tobbsegi-tulajdonreszenek-eladasa-kizart-500648",
+        "h1": "PPF: a Telenor Magyarország többségi tulajdonrészének eladása kizárt",
+        "txtlength": 14420
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/kapcsolat/moammer-kadhafi-amazon-garda/",
+        "h1": "Megerőszakolta testőreit, őrző-védő háremet tartott Kadhafi: az Amazon Gárda tagjait személyesen toborozta a diktátor",
+        "txtlength": 14084
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kultura/2021/09/15/columbo-50-eves-peter-falk/",
+        "h1": "Miért imádjuk ötven éve Columbót?",
+        "txtlength": 18005
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kulfold/2021/09/15/bob-woodward-trump-zavargas-konyv-robert-costa-cnn",
+        "h1": "Titkos tervet kovácsolt az USA vezérkari főnöke arra az esetre, ha Trump utolsó napjaiban be akarná vetni az atomfegyvert",
+        "txtlength": 17423
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2021/09/15/mtu-guller-zoltan-kisfaludy-program-orban-rahel-divatugynokseg-egyedi-tamogatas-kozpenz/",
+        "h1": "Turisztikai pénzeső: milliárdok az Orbán Ráhel-közeli ügynökségnek, 70 millió az Echo TV volt vezetőjének",
+        "txtlength": 16734
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/vilag/20210915_Magyar_szalai_is_lehetnek_az_egyik_legnagyobb_osztrak_titkosszolgalati_botranynak",
+        "h1": "Magyar szálai is lehetnek az egyik legnagyobb osztrák titkosszolgálati botránynak",
+        "txtlength": 15242
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/vilag/20210915_Nem_az_iszlamizmus_gyozott_Afganisztanban_hanem_a_heroin",
+        "h1": "\"Nem az iszlamizmus győzött Afganisztánban, hanem a heroin\"",
+        "txtlength": 14276
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kultura/2021/09/15/tommy-lee-jones-75-eves-film/",
+        "h1": "„A legkisebb jele sincs annak, hogy lenne humorérzékem” – 75 éves lett Hollywood legmogorvább arca",
+        "txtlength": 13446
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/09/16/johet-meg-csavar",
+        "h1": "Jöhet még csavar",
+        "txtlength": 13292
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/gazdasag/20210916_allampapir_deviza_eladosodas",
+        "h1": "Miért adósította el az államot a kormány rekordmértékben egy nap alatt?",
+        "txtlength": 12653
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/iskolai-zaklatas-bantalmazas-lataskarosodas-birosag-egyesulet-torvenymodositas/kfyd9kq",
+        "h1": "Vakká verték az osztálytársai Gergőt – Lavinát indított el az iskolai zaklatások ügye, a gaztettek poklában egy csapat szülő döntő lépésre szánta el magát – Exkluzív",
+        "txtlength": 11502
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/zalatnay-sarolta-tamogatas-politizalo-celebek/jqjtl8b",
+        "h1": "Zalatnay Sarolta megszólalt a petícióról és a 10 milliós támogatásról is: „A pénzt nem a zsebembe adják”",
+        "txtlength": 10594
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/09/15/bocsanatot-kert-az-fbi-vezetoje-a-tornaszoktol-akiket-szexualisan-zaklatott-a-valogatott-orvosa",
+        "h1": "Bocsánatot kért az FBI vezetője a tornászoktól, akiket szexuálisan zaklatott a válogatott orvosa",
+        "txtlength": 10461
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/gazdasag/2021/09/15/meglepo-szabaly-a-kormany-belenyul-a-moratorium-elszamolasaba",
+        "h1": "A kormány visszamenőleg belenyúl a hitelmoratórium elszámolásába egyes hiteltípusoknál",
+        "txtlength": 10016
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/belfold/2021/09/15/ellenzeki-elovalasztas-jambor-demeter-manhalter-csordas-vita-partizan-jozsefvaros-ferencvaros-budapest",
+        "h1": "Négyen egy helyért: az egyik legszorosabb körzet ellenzéki jelöltjei vitáztak",
+        "txtlength": 9412
+    },
+    {
+        "hostname": "mindmegette.hu",
         "pagelink": "https://www.mindmegette.hu/okra-extra-ropogos-bundaban.recept",
         "h1": "OKRA ROPOGÓS BUNDÁBAN",
         "txtlength": 10610
