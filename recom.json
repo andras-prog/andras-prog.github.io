@@ -1,5 +1,197 @@
 [
     {
+        "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/hagyomanyos-kakaos-csiga",
+        "h1": "Hagyományos kakaós csiga",
+        "txtlength": 11524
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/hazteto-suti.recept",
+        "h1": "HÁZTETŐ SÜTI",
+        "txtlength": 10959
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/savanyu-vetrece-egyszeruen.recept",
+        "h1": "SAVANYÚ VETRECE",
+        "txtlength": 10579
+    },
+    {
+        "hostname": "kiszamolo.hu",
+        "pagelink": "https://kiszamolo.hu/lepj-hatrebb-egy-lepest/",
+        "h1": "Lépj hátra egy lépést",
+        "txtlength": 38654
+    },
+    {
+        "hostname": "alapblog.hu",
+        "pagelink": "https://alapblog.hu/miert-adnak-30-millio-eurot-egy-festmenyert/",
+        "h1": "Miért adnak 30 millió eurót egy festményért?",
+        "txtlength": 11429
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210917_oszod_15_gyurcsany_a_trukkok_szazairol_es_a_kurva_orszagrol",
+        "h1": "Őszöd 15: Gyurcsány a „trükkök százairól” és a „kurva országról”",
+        "txtlength": 32032
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20210916/tavgyogyitas-magyarorszagon-kik-es-hogyan-csinaljak-de-a-legfontosabb-hogy-megis-kinek-500814",
+        "h1": "Távgyógyítás Magyarországon: kik és hogyan csinálják, de a legfontosabb, hogy mégis kinek?",
+        "txtlength": 27401
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210917_igy_szembesultunk_az_oszodi_beszeddel_mi",
+        "h1": "Őszöd és mi: 2006 forró őszére emlékezünk",
+        "txtlength": 26188
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vallalat/20210917/kozmetikazhatjak-a-tizmilliardos-veszteseget-amit-meszaros-lorinctol-vallalt-at-az-allam/",
+        "h1": "Kozmetikázhatják a tízmilliárdos veszteséget, amit Mészáros Lőrinctől vállalt át az állam",
+        "txtlength": 24271
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/uzlet/20210917/szelid-motorosok-lenduletben-az-autowallis-500992",
+        "h1": "Szelíd motorosok - Lendületben az AutoWallis",
+        "txtlength": 23918
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/global/20210917/angela-merkel-hatalmas-urt-hagy-maga-utan-europaban-politikus-legyen-a-talpan-aki-kepes-lesz-betolteni-500902",
+        "h1": "Angela Merkel hatalmas űrt hagy maga után Európában - Politikus legyen a talpán, aki képes lesz betölteni",
+        "txtlength": 21082
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/kozelet/20210916/mikor-tul-draga-egy-orvosi-kezeles-ahhoz-hogy-kifizesse-az-allam/",
+        "h1": "Mikor túl drága egy orvosi kezelés ahhoz, hogy kifizesse az állam?",
+        "txtlength": 20883
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210916_tizenot_eve_szivargott_ki_az_oszodi_beszed",
+        "h1": "„Hazudtunk reggel, éjjel meg este” – tizenöt éve szivárgott ki az őszödi beszéd",
+        "txtlength": 19049
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/otthon/20210914/erik-a-kazan-krach-magyarorszagon-ezeknek-a-keszulekeknek-vege-meregdraga-lesz-a-csere-1117726",
+        "h1": "Érik a kazán-krach Magyarországon: ezeknek a készülékeknek vége, méregdrága lesz a csere",
+        "txtlength": 18355
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/fogyokura/rubina-fogyastortenet/",
+        "h1": "40 kilót fogyott 3 év alatt Rubina: szépségverseny közönségdíjasa lett a magyar lány",
+        "txtlength": 17881
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/gazdasag/20210914/halalsoron-a-budapesti-vendeglatas-hiaba-a-nyitas-ez-meg-keves-az-igazi-kilabalashoz-1117552",
+        "h1": "Halálsoron a budapesti vendéglátás: hiába a nyitás, ez még kevés az igazi kilábaláshoz",
+        "txtlength": 15573
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2021/09/17/tiz-even-belul-jon-a-mesterseges-matematikus-amit-a-google-magyar-kutatoja-fejleszt",
+        "h1": "TÍZ ÉVEN BELÜL JÖN A MESTERSÉGES MATEMATIKUS, AMIT A GOOGLE MAGYAR KUTATÓJA FEJLESZT",
+        "txtlength": 14668
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/szuloseg/gyerek-csufolas/",
+        "h1": "csúfolják a gyereket",
+        "txtlength": 11596
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/testem/labtolas-haromfele-haspressel/",
+        "h1": "Ez az ütős gyakorlat háromféle hasprést kombinál, és tetőtől talpig erősít",
+        "txtlength": 9933
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/komplex/2021/09/17/ellenzeki-elovalasztas-korzetek-alkuk-vitak",
+        "h1": "\n      A 2022-es választások színfalak mögötti, nulladik fejezete\n    ",
+        "txtlength": 27411
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/09/17/nagyhatalmak-ha-talalkoznak",
+        "h1": "Nagyhatalmak, ha találkoznak",
+        "txtlength": 22083
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/gazdasag/20210916_Vege_a_hitelmoratoriumnak_megint_a_tucskok_jarnak_jol_nem_a_hangyak",
+        "h1": "Vége a hitelmoratóriumnak, megint a tücskök járnak jól, nem a hangyák",
+        "txtlength": 16031
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/zhvg/20210917_velenceito_kiszaradasa_termeszetes_padisak_judit_boromisza_zsombor",
+        "h1": "A Velencei-tónak talán nem is olyan rossz, hogy most alig van benne víz",
+        "txtlength": 13663
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2021/09/17/pedagogus-eletpalyamodell-portfolio-neubauer-tamas-psz/",
+        "h1": "„A tantestületekben sokan elkezdtek mást tanulni: cukrásznak, műkörmösnek, asztalosnak készülnek”",
+        "txtlength": 13621
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kulfold/2021/09/16/usa-tornaszok-molesztalas-larry-nassar-simone-biles-szenatus-meghallgatas/",
+        "h1": "„Aznap este egyedül voltam, teljesen meztelen, ő pedig rajtam feküdt”",
+        "txtlength": 13616
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kulfold/2021/09/16/gruevszki-macedonia-eszak-macedonia-zaev-zoran-afgan-menekult/",
+        "h1": "Orbán VIP-menedékese, Nikola Gruevszki a menekültek befogadása ellen",
+        "txtlength": 13045
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/szemet-budapest-fkf-stadionok-dohany-utca/b7lbhcr?sl_ps=d_1",
+        "h1": "FKF: illegális hulladéklerakó alakult ki a Stadionoknál – Közben újabb képek jöttek, de a belvárosból",
+        "txtlength": 12214
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/09/17/franciaorszag-verig-sertodott-amiert-kihagytak-az-amerikai-brit-ausztral-tengeralattjaro-bizniszbol",
+        "h1": "Franciaország vérig sértődött, amiért kihagyták az amerikai-brit-ausztrál tengeralattjáró bizniszből",
+        "txtlength": 11455
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/sport/2021/09/17/bajnokok-ligaja-statisztikak-psg-barcelona-city-chelsea",
+        "h1": "Besült a PSG-s űrtámadósor, de a Barcelona sem lehet büszke a statisztikáira a BL-ben",
+        "txtlength": 11440
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/belfold/2021/09/16/elovalasztas-partizan-vita-kalman-olga-tordai-bence-ii-iii-kerulet-budapest-4-oevk",
+        "h1": "A Fideszben sincs akkora egyetértés, mint Kálmán Olga és Tordai Bence között az előválasztási vitán",
+        "txtlength": 11046
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/politika/orban-viktor-bejelentes-kossuth-radio/zp8mypr?sl_ps=d_5",
+        "h1": "Orbán Viktor: tárgyalnak a kötelező munkahelyi oltásokról, év végéig marad a rendkívüli jogrend",
+        "txtlength": 9701
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20210917_Orban_Viktor_Kossuth_radio",
+        "h1": "Orbán Viktor: Az elszigetelés és a maszk nem oldja meg a problémáinkat",
+        "txtlength": 9595
+    },
+    {
         "hostname": "mindmegette.hu",
         "pagelink": "https://www.mindmegette.hu/sargabarackos-kremes.recept",
         "h1": "SÁRGABARACKOS KRÉMES",
