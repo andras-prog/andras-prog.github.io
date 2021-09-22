@@ -1,6 +1,186 @@
 [
     {
         "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/szerelem-kosar.recept",
+        "h1": "SZERELEM KOSÁR",
+        "txtlength": 11137
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/afonyas-mandulas-brownie.recept",
+        "h1": "ÁFONYÁS-MANDULÁS BROWNIE",
+        "txtlength": 11072
+    },
+    {
+        "hostname": "alapblog.hu",
+        "pagelink": "https://alapblog.hu/fel-evszazados-a-fiat-ideje-beszelnunk-a-kriptorol/",
+        "h1": "Fél évszázados a fiat, ideje beszélnünk a kriptoról",
+        "txtlength": 10836
+    },
+    {
+        "hostname": "kulturpart.hu",
+        "pagelink": "https://kulturpart.blog.hu/2021/09/20/kulonleges_esttel_jelentkezik_szokolay_dongo_balazs",
+        "h1": "KÜLÖNLEGES ESTTEL JELENTKEZIK SZOKOLAY DONGÓ BALÁZS",
+        "txtlength": 5982
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/krtk/20210922/abarkon-mutatjuk-mit-muvelt-a-magyar-nagyvarosok-lakasaraival-a-koronavirus-jarvany-500998",
+        "h1": "Ábrákon mutatjuk, mit művelt a magyar nagyvárosok lakásáraival a koronavírus-járvány",
+        "txtlength": 26877
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://makronom.mandiner.hu/cikk/20210921_strommer_boraszat_balaton_felvidek_szolo_pinceszet_pecsely_fekete_kira",
+        "h1": "A Balatont nézi online tárgyalás közben: így lett borász a háromgyermekes fővárosi informatikusból",
+        "txtlength": 24339
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210915_veres_gyermekkezek_katonaletre_kenyszeritenek_kiskoruakat_afrikaban",
+        "h1": "Véres gyermekkezek – katonalétre kényszerítenek kiskorúakat Afrikában",
+        "txtlength": 21904
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/global/20210922/nemet-valasztas-2021-orult-izgalmakat-hozott-a-kampany-hajraja-az-igazan-nagy-csattano-meg-odebb-van-501534",
+        "h1": "Német választás 2021: őrült izgalmakat hozott a kampány hajrája, az igazán nagy csattanó még odébb van",
+        "txtlength": 20807
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210915_az_unios_jogot_nem_ugy_kapjuk_mint_a_tizparancsolatot",
+        "h1": "Az uniós jogot nem úgy kapjuk, mint a tízparancsolatot",
+        "txtlength": 20044
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/adat/20210922/a-media-kormanyzati-elfoglalasa-nagyon-betett-az-amugy-is-vergodo-napilappiacnak/",
+        "h1": "A média kormányzati elfoglalása nagyon betett az amúgy is vergődő napilappiacnak",
+        "txtlength": 17813
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/penz/20210921/a-jarvany-alatt-beragadt-szep-kartyas-penzeket-nyaron-koltottek-el-ez-is-dragitotta-a-szallodakat-es-ettermeket/",
+        "h1": "A járvány alatt beragadt SZÉP-kártyás pénzeket nyáron költötték el, ez is drágította a szállodákat és éttermeket",
+        "txtlength": 15873
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/egeszseg/20210921/ezert-retteg-a-vakcinatol-rengeteg-magyar-nem-mindenki-oltasellenes-mas-all-a-hatterben-1117904",
+        "h1": "Ezért retteg a vakcinától rengeteg magyar: nem mindenki oltásellenes, más áll a háttérben",
+        "txtlength": 15532
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/uzlet/20210922/van-remeny-meg-elkerulheto-a-vilagrengeto-gigacsod-501650",
+        "h1": "Van remény, még elkerülhető a világrengető gigacsőd",
+        "txtlength": 15163
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/egeszseg/20210917/te-is-igy-toltod-a-szabad-esteidet-ennek-a-hirnek-nem-fogsz-orulni-1117852",
+        "h1": "Te is így töltöd a szabad estéidet? Ennek a hírnek nem fogsz örülni",
+        "txtlength": 14817
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/szuloseg/konyv-kamasz-enterkepem/",
+        "h1": "könyv kamasz éntérképem",
+        "txtlength": 12115
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/kapcsolat/lola-montez-elete/",
+        "h1": "A 19. század leghíresebb kurtizánja Liszt Ferenc és a bajor király fejét is elcsavarta: alsónemű nélkül lejtette táncát",
+        "txtlength": 11633
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2021/09/22/az-elmult-ezer-ev-legnagyobb-angliai-erdositese-bizonyitja-hogy-megeri-hosszu-tavon-befektetni-a-termeszetbe",
+        "h1": "AZ ELMÚLT EZER ÉV LEGNAGYOBB ANGLIAI ERDŐSÍTÉSE BIZONYÍTJA, HOGY MEGÉRI HOSSZÚ TÁVON BEFEKTETNI A TERMÉSZETBE",
+        "txtlength": 10832
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2021/09/21/jakab-peter-interju-ellenzeki-elovalasztas/",
+        "h1": "Jakab Péter: Csányi Sándorral majd ügyész beszélget el, hogy miért reptette Orbánt luxusgéppel",
+        "txtlength": 27388
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/gazdasag/2021/09/22/takats-elod-a-tehetsegek-elvandorlasa-csendes-katasztrofa-a-corvinuson-egyedi-eselyunk-van-tenni-ellene",
+        "h1": "A tehetségek elvándorlása csendes katasztrófa, a Corvinuson egyedi esélyünk van tenni ellene",
+        "txtlength": 22923
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kulfold/2021/09/21/ferenc-papa-osszeeskuves-katolikus-egyhaz-vatikan-lemondatas",
+        "h1": "Meleglobbi és konzervatív bíborosok akarják a háttérből lemondatni Ferenc pápát a vatikáni bennfentes szerint",
+        "txtlength": 20118
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2021/09/22/balatongyorok-golfpalya-lakopark/",
+        "h1": "Újabb lakóparkot akarnak a Balatonnál",
+        "txtlength": 19193
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kult/2021/09/21/reszeg-mulatozas-es-szuzanya-oltoztetos-zarandoklat-egy-helyen-a-csatkai-ciganybucsun-jartunk",
+        "h1": "Hajnalig tartó mulatozás és Szűzanya öltöztetős zarándoklat egy helyen – a csatkai cigánybúcsún jártunk",
+        "txtlength": 17847
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/09/21/soha-nem-kertem-toled-semmit-tamas-szokatlanul-kemeny-adok-kapokba-torkollott-marki-zay-es-mucsi-tamas-vitaja",
+        "h1": "„Soha nem kértem tőled semmit, Tamás!” - Szokatlanul kemény adok-kapokba torkollott Márki-Zay és Mucsi Tamás vitája",
+        "txtlength": 15869
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/sport/2021/09/21/selmeci-attila-milak-kristof-uszas-virth-balazs-olimpia2020-interju/",
+        "h1": "Selmeci Attila: Milák Kristófból hiányzik az alázat",
+        "txtlength": 14955
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/09/14/digital-health-summit-elkerulhetetlen-a-digitalizacio-a-jovo-gyogyszeripara-szamara",
+        "h1": "Digital Health Summit: Elkerülhetetlen a digitalizáció a jövő gyógyszeripara számára",
+        "txtlength": 14143
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/tudomany/20210921_oltas_vakcina_varandos_terhes_kemenesi_gabor_virologus",
+        "h1": "Kaphat oltást az, aki később gyereket szeretne? És az, aki már várandós?",
+        "txtlength": 9687
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/idojaras-ma-elorejelzes-eso-borult-ido-szeptember-22/f9d69y2?sl_ps=d_12",
+        "h1": "Mai időjárás: vigyen magával esernyőt, ha útnak indul – Mutatjuk, mire számíthat",
+        "txtlength": 8583
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/tudomany/20210921_erasmus_plusz_app_alkalmazas_diakigazolvany",
+        "h1": "Megjött az új uniós diákigazolvány, ezt a telefonról lehet bemutatni",
+        "txtlength": 8480
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/kiskore-vizeromu-robbanas-rejtelyes-baleset-varos-talalgat/9b7cskv?sl_ps=d_5",
+        "h1": "„Ez nem gázrobbanás volt” – Az egész város azt találgatja, vajon mi történt a kiskörei vízerőműben",
+        "txtlength": 8325
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/gazdasag/20210921_A_jegybank_szerint_tovabb_velunk_marad_a_magas_inflacio_mint_eddig_gondoltak",
+        "h1": "A jegybank szerint tovább velünk marad a magas infláció, mint eddig gondolták",
+        "txtlength": 8249
+    },
+    {
+        "hostname": "mindmegette.hu",
         "pagelink": "https://www.mindmegette.hu/flamingo-szelet-az-eredeti-recept.recept",
         "h1": "FLAMINGÓ SZELET - AZ EREDETI RECEPT",
         "txtlength": 11647
