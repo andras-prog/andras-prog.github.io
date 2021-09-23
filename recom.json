@@ -1,5 +1,173 @@
 [
     {
+        "hostname": "kulturpart.hu",
+        "pagelink": "https://kulturpart.blog.hu/2021/09/23/hogy_valahol_mi_is_bekessegben_eljunk",
+        "h1": "HOGY VALAHOL MI IS BÉKESSÉGBEN ÉLJÜNK",
+        "txtlength": 10702
+    },
+    {
+        "hostname": "alapblog.hu",
+        "pagelink": "https://alapblog.hu/dragul-a-keszpenztartas/",
+        "h1": "Rengeteg készpénzt tart otthon a magyar, és ezzel egyre rosszabbul jár",
+        "txtlength": 7364
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/utazas/20210919/igy-sopor-vegig-europan-a-negyedik-hullam-valahol-szigoritanak-masutt-lazitanak-a-korlatozasokon-1117874",
+        "h1": "Így söpör végig Európán a negyedik hullám: valahol szigorítanak, másutt lazítanak a korlátozásokon",
+        "txtlength": 29879
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/hitel/20210920/ilyen-hitel-nincs-a-bankokban-tizezrek-veszik-fel-befektetesre-is-megeri-1117718",
+        "h1": "Ilyen hitel nincs a bankokban: tízezrek veszik fel, befektetésre is megéri",
+        "txtlength": 29648
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210923_erik_j_larson_brain_bar",
+        "h1": "Az emberiség fölé nőhetnek egyszer a gépek – Erik J. Larson a Mandinernek",
+        "txtlength": 23896
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.penzcentrum.hu/karrier/20210923/kiderult-a-sulyos-igazsag-a-millios-fizetesekrol-ezert-hianyzik-40-ezer-it-s-magyarorszagrol-1117984",
+        "h1": "Kiderült a súlyos igazság a milliós fizetésekről: ezért hiányzik 40 ezer IT-s Magyarországról",
+        "txtlength": 22399
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20210923/rado-peter-leszunk-e-finnek-az-ugynevezett-oktatasi-modellek-ertelmerol-501378",
+        "h1": "Radó Péter: Leszünk-e finnek? Az úgynevezett oktatási modellek értelméről",
+        "txtlength": 20912
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vallalat/20210923/az-auchan-a-tesco-es-a-penny-market-magyaritasaval-erheti-el-a-kormany-a-nagy-almat/",
+        "h1": "Az Auchan, a Tesco és a Penny Market magyarításával érheti el a kormány a nagy álmát",
+        "txtlength": 18903
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20210923/matolcsy-gyorgy-az-inflacio-kozellenseg-a-jegybanknak-kotelezo-harcolnia-ellene-501878",
+        "h1": "Matolcsy György: Az infláció közellenség, a jegybanknak kötelező harcolnia ellene ",
+        "txtlength": 18848
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/kozelet/20210922/rengeteg-unios-penzt-kellene-jol-szetosztanunk-hogy-ne-a-magyar-szegenyek-karara-zolduljon-az-eu/",
+        "h1": "Rengeteg uniós pénzt kellene jól szétosztanunk , hogy ne a magyar szegények kárára zöldüljön az EU",
+        "txtlength": 17015
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2021/09/23/egy-magyar-eveszavarkutato-vegigkoplalt-negy-lebojtkuratabort-hogy-megtudja-mi-a-sikeruk-titka",
+        "h1": "EGY MAGYAR EVÉSZAVARKUTATÓ VÉGIGKOPLALT NÉGY LÉBÖJTKÚRATÁBORT, HOGY MEGTUDJA, MI A SIKERÜK TITKA",
+        "txtlength": 16660
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210921_karos_raadasul_teljesen_ertelmetlen_molnar_gyula_javaslata_parkanyi_eszter_elemzo_a_mandinernek",
+        "h1": "Káros, ráadásul teljesen értelmetlen Molnár Gyula javaslata – Párkányi Eszter elemző a Mandinernek",
+        "txtlength": 15901
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210923_exkluziv_babis_interju_demografiai_csucs_mutti_nemet_valasztas_soros_vs_kina_es_nagy_denes_rendezo_megjelent_a_mandiner",
+        "h1": "Exkluzív Babiš-interjú, demográfiai csúcs, Mutti, német választás, Soros vs. Kína és Nagy Dénes rendező – megjelent a Mandiner!",
+        "txtlength": 15499
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/szuloseg/patriarchatus-nok-jogai-egyedulallo-anyak/",
+        "h1": "patriarchátus nők jogai egyedülálló anyák",
+        "txtlength": 14803
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/egeszseg/ulomunka-hatasa-a-testre/",
+        "h1": "Mi történik a testtel napi 8-10 órás ülés után, és mit tehetsz a problémák ellen? A mozgásterapeutát kérdeztük",
+        "txtlength": 14155
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/tech/2021/09/23/ellenzeki-elovalasztas-elso-nap-leallas-informatikai-rendszer-osszeomlas-tulterheles-tamadas-cloudflare-ahang-kina-kormany",
+        "h1": "Előválasztási leállás: tényleg támadás okozhatta, de az elkerülhető lett volna",
+        "txtlength": 24934
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kultura/2021/09/22/pataki-agi-interju-nyitottan-a-vilagra-konyv/",
+        "h1": "Pataki Ági: Minél önállóbbak a nők, annál kevésbé kiszolgáltatottak",
+        "txtlength": 20671
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/szorakozas/2021/09/22/deathloop-arkane-studios-videojatek-teszt",
+        "h1": "Ilyen pocsék napot sosem akartam még ennyiszer újra átélni",
+        "txtlength": 16327
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kulfold/2021/09/22/eszak-korea-kim-dzsongun-raketateszt-fegyverkiserlet/",
+        "h1": "Tényleg rátámadna a világra Észak-Korea?",
+        "txtlength": 15286
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/belfold/2021/09/23/kinek-a-varosa-kapjon-meg-tobb-milliardot-csongrad-csanad-megyei-vita-az-europai-unio-fejlesztesi-tamogatasainak-elosztasarol",
+        "h1": "Fideszes kisvárosokat tolnak európai pénzekből, Szeged és Vásárhely pórul járt",
+        "txtlength": 14049
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/09/23/gaz-van-nincs-gaz",
+        "h1": "Gáz van: nincs gáz",
+        "txtlength": 13977
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/gazdasag/20210922_evergrande_csod_ingatlanagazat_kinai_gazdasag",
+        "h1": "\"A lakás arra való, hogy lakjanak benne\" – a mondat, ami megbillentheti a kínai gazdaságot",
+        "txtlength": 13389
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kultura/2021/09/22/rakosi-kor-era-jampec-zako-oltozkodes-tanczene-dolgozok-vilaglapja-time/",
+        "h1": "Majmokhoz hasonlították a jampecokat a Rákosi-érában",
+        "txtlength": 11969
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20210923_November_elejere_jar_Peterfalvi_Attila_a_Pegasusugy_vegere",
+        "h1": "Péterfalvi Attila november elejére jár a Pegasus-ügy végére",
+        "txtlength": 11831
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/gazdasag/20210923_Van_elet_az_euroovezeten_kivul_de_azon_belul_is",
+        "h1": "\"Van élet az euróövezeten kívül, de azon belül is\"",
+        "txtlength": 11813
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/09/22/az-osszeomlas-szelen-az-egeszsegugyi-rendszer-afganisztanban",
+        "h1": "Az összeomlás szélén az egészségügyi rendszer Afganisztánban",
+        "txtlength": 11017
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/vajai-tinedzser-tisza-gabor-edesanyja-erezte-baj-lesz/5qkqsn0",
+        "h1": "A vajai gimnazista édesanyjának megrendítő vallomása: „Éreztem, hogy baj lesz, de reménykedtem, hogy ha súlyos is az állapota, meggyógyul”",
+        "txtlength": 10218
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/ader-janos-koronavirus-arvak-alapitvany-segitseg/r16zb2e?sl_ps=d_6",
+        "h1": "Áder Jánosék alapítványa menti meg a kétszer elárvult lőrinci gyerekeket – A Blikk révén figyeltek fel a Covid miatt egyedül maradt testvérekre",
+        "txtlength": 9092
+    },
+    {
         "hostname": "mindmegette.hu",
         "pagelink": "https://www.mindmegette.hu/szerelem-kosar.recept",
         "h1": "SZERELEM KOSÁR",
