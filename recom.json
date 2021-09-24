@@ -1,5 +1,185 @@
 [
     {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/sajtos-stangli-szendvicsnek-valo.recept",
+        "h1": "SAJTOS STANGLI (SZENDVICSNEK VALÓ)",
+        "txtlength": 10792
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/rongyos-sajtos-kifli.recept",
+        "h1": "RONGYOS SAJTOS KIFLI",
+        "txtlength": 10512
+    },
+    {
+        "hostname": "hataratkelo.blog.hu",
+        "pagelink": "https://hataratkelo.blog.hu/2021/09/19/amerikai_kozossegi_kert_testkozelbol#c40930298",
+        "h1": "Amerikai közösségi kert testközelből",
+        "txtlength": 73619
+    },
+    {
+        "hostname": "kulturpart.hu",
+        "pagelink": "https://kulturpart.blog.hu/2021/09/23/ujra_maratoni_folkhetvege_lesz_egerben",
+        "h1": "ÚJRA MARATONI FOLKHÉTVÉGE LESZ EGERBEN",
+        "txtlength": 8640
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/kozelet/20210924/becsben-fopalyaudvar-is-kijott-annyibol-mint-amennyiert-budapesten-meszaros-lorinc-par-kilometer-vasutat-fejleszt/",
+        "h1": "Bécsben főpályaudvar is kijött annyiból, mint amennyiért Budapesten Mészáros Lőrinc pár kilométer vasutat fejleszt",
+        "txtlength": 25399
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210924_birgit_kelle_nemetorszag",
+        "h1": "„Túltolták a biciklit” – Birgit Kelle a német nyilvánosság torzulásairól",
+        "txtlength": 22347
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210923_sportujsagirok_tiltakoznak_a_fifa_kettos_merceje_ellen",
+        "h1": "Sportújságírók tiltakoznak a FIFA kettős mércéje ellen",
+        "txtlength": 22248
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210923_orban_viktor_nem_elszenvedni_hanem_alakitani_akarjuk_a_nepesedesi_folyamatokat",
+        "h1": "Orbán: A családot és a gyermekeket a jog eszközével is meg kell védeni",
+        "txtlength": 20432
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/gazdasag/20210921/itt-az-elemzok-joslata-hamarosan-21-ra-kuszhat-fel-az-alapkamat-magyarorszagon-1117941",
+        "h1": "Itt az elemzők jóslata: hamarosan 2,1%-ra kúszhat fel az alapkamat Magyarországon",
+        "txtlength": 18221
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/gyerek/nem-minden-mese-amit-annak-nevezunk/",
+        "h1": "Ne legyintsünk könnyelműen arra, milyen meséken nő fel a gyerek: a jó történet kultúrára nevel",
+        "txtlength": 17174
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vilag/20210921/az-europai-energiakrizis-oka-reszben-az-eroltetett-zoldpolitika/",
+        "h1": "Az európai energiakrízis oka részben az erőltetett zöldpolitika",
+        "txtlength": 16423
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/vasarlas/20210924/ez-all-a-nagy-alkoholar-robbanas-mogott-kemenyen-rafaznak-akik-ezeket-az-italokat-szeretik-1118006",
+        "h1": "Ez áll a nagy alkoholár-robbanás mögött: keményen ráfáznak, akik ezeket az italokat szeretik",
+        "txtlength": 16293
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20210924/atallas-az-esg-re-van-ra-33-jo-okunk-501106",
+        "h1": "Átállás az ESG-re? Van rá 3+3 jó okunk!",
+        "txtlength": 16035
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2021/09/22/az-mrns-oltasok-az-influenza-es-a-leguti-virusok-elleni-harcot-is-forradalmasitjak",
+        "h1": "AZ MRNS-OLTÁSOK AZ INFLUENZA ÉS A LÉGÚTI VÍRUSOK ELLENI HARCOT IS FORRADALMASÍTJÁK",
+        "txtlength": 14076
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/uzlet/20210924/nagy-rali-utan-pentekre-megint-elromlott-a-hangulat-a-tozsdeken-502038",
+        "h1": "Nagy rali után péntekre megint elromlott a hangulat a tőzsdéken ",
+        "txtlength": 13472
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/ingatlan/20210924/tiz-ev-alatt-szinte-minden-teruleten-duplazott-a-lakaspiac-502000",
+        "h1": "Tíz év alatt szinte minden területen duplázott a lakáspiac",
+        "txtlength": 13167
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/szuloseg/idosebb-ferfi-fiatalabb-lany/",
+        "h1": "idősebb férfi fiatalabb nő",
+        "txtlength": 12397
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2021/09/24/ivanka-oszko-gattyan-startup-sojtor-romak-felszamolas/",
+        "h1": "Bedőlt a dizájnbetonos magyar sikercég, miután Oszkó Péter, majd söjtöri romák szálltak be a bizniszbe",
+        "txtlength": 18919
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kulfold/2021/09/23/ibiza-video-kurz-ausztria-orwell-per-orban/",
+        "h1": "Orwelli per Ausztriában az Ibiza-videó készítője ellen",
+        "txtlength": 18713
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20210923_Gyor_Moson_Sopron_3_vk_riport_EV",
+        "h1": "Mi értelme az előválasztásnak ott, ahol mindenki szereti a mostani rendszert?",
+        "txtlength": 17190
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/elet/20210923_Gabby_Petito_Brian_Laundrie_eltunes_emberoles",
+        "h1": "Gabby Petitónak álomélete volt az Instagramon, a halálával viszont nem tud mit kezdeni a világ",
+        "txtlength": 15672
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/gazdasag/2021/09/23/kilottek-az-urbe-a-lakas-es-alberletarak-most-van-egy-uj-terv-a-lakhatasi-valsag-merseklesere",
+        "h1": "Kilőttek az űrbe a lakás- és albérletárak, most van egy új terv a fővárosi lakhatási válság mérséklésére",
+        "txtlength": 14115
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kulfold/2021/09/23/europai-unio-kina-europoli-vautmans-jelentes-gazdasag-kemenykedes/",
+        "h1": "Keményebb hangra vált az Európai Unió Kínával szemben",
+        "txtlength": 13818
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/kkv/20210924_airbnb_szalloda_fovaros_ingatlanpiac",
+        "h1": "A nagy ingatlankísérlet eredményei: mi történik, ha eltűnnek az airbnb-s turisták?",
+        "txtlength": 13666
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/09/23/a-parizsi-eskudtszek-megerositette-carlos-a-sakal-eletfogytiglani-bortonbunteteset",
+        "h1": "A párizsi esküdtszék megerősítette Carlos, a Sakál életfogytiglani börtönbüntetését",
+        "txtlength": 10912
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/krimi/kocsiban-felejtett-ikrek-tragedia-dr-gyorei-peter/h2lppkq",
+        "h1": "A kocsiban felejtette bölcsődés ikerfiait az apa, mindkét gyermek meghalt – A büntetést a sors rótta ki az apára, mivel a bíróság nem: vádemelés sem lett az ügyből",
+        "txtlength": 10807
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/09/24/a-moderna-vezerigazgatoja-szerint-egy-even-belul-vege-lehet-a-jarvanynak",
+        "h1": "A Moderna vezérigazgatója szerint egy éven belül vége lehet a járványnak",
+        "txtlength": 10349
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/belfold/2021/09/24/orban-a-gyerek-reven-elerjuk-hogy-foldi-eletunk-ne-erjen-veget-a-halalunk-utan",
+        "h1": "Orbán egyre gyakrabban okolja a népességcsökkenésért az állami nyugdíj- és egészségügyi rendszert",
+        "txtlength": 9669
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/eszkombajn/2021/09/24/az-indian-torzs-ahol-mindenki-evi-egymillio-dollart-keres",
+        "h1": "Az indián törzs, amelyben mindenki évi egymillió dollárt keres",
+        "txtlength": 9587
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/politika/orban-viktor-kossuth-radio-bejelentes/s24z5r9?sl_ps=d_4",
+        "h1": "Orbán Viktor: A kormány a választások előtt visszaadhatja a teljes 13. havi nyugdíjat",
+        "txtlength": 9512
+    },
+    {
         "hostname": "kulturpart.hu",
         "pagelink": "https://kulturpart.blog.hu/2021/09/23/hogy_valahol_mi_is_bekessegben_eljunk",
         "h1": "HOGY VALAHOL MI IS BÉKESSÉGBEN ÉLJÜNK",
