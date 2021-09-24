@@ -1,79 +1,6 @@
 [
     {
-        "timestamp": 1631876446881,
-        "name": "Kínai sült tészta",
-        "lead": "Bármily egyszerű is az étel, a született szakácsot tévedhetetlenül föl lehet ismerni.",
-        "phrase": "kínai",
-        "link": "https://www.nosalty.hu/recept/kinai-sult-teszta",
-        "ingred": [
-            "spagetti",
-            "lila hagyma",
-            "zöldborsó",
-            "sárgarépa",
-            "gomba",
-            "csirkemell",
-            "wok fűszerkeverék",
-            "szójaszósz",
-            "vaj",
-            "olaj"
-        ]
-    },
-    {
-        "timestamp": 1631876446881,
-        "name": "Fasírtgolyó sertéshúsból",
-        "lead": "Nem az elfogyasztott étel mennyisége, hanem annak a minősége fontos.",
-        "phrase": "sertés",
-        "link": "https://www.nosalty.hu/recept/fasirtgolyo-serteshusbol",
-        "ingred": [
-            "sertéscomb",
-            "tojás",
-            "zsemle",
-            "fokhagyma",
-            "zsemlemorzsa",
-            "zsemlemorzsa",
-            "olaj"
-        ]
-    },
-    {
-        "timestamp": 1631876446881,
-        "name": "Borsós csirke brassói",
-        "lead": "Azok az emberek akik szeretnek enni mindig a legjobb emberek.",
-        "phrase": "csirke",
-        "link": "https://www.nosalty.hu/recept/borsos-csirke-brassoi",
-        "ingred": [
-            "csirkemell",
-            "hagyma",
-            "fokhagyma",
-            "olaj",
-            "paprika",
-            "paradicsom",
-            "zöldborsó",
-            "burgonya",
-            "olaj"
-        ]
-    },
-    {
-        "timestamp": 1631876446881,
-        "name": "Baconös csirkemell őzgerincformában",
-        "lead": "A szakácsnak mindig a kor pulzusán kell tartania az ujját, meg kell találnia az ízek, illatok, textúrák harmóniáját.",
-        "phrase": "csirkemell",
-        "link": "https://www.nosalty.hu/recept/baconos-csirkemell-ozgerincformaban",
-        "ingred": [
-            "tejföl",
-            "tojás",
-            "trappista",
-            "csirkemell",
-            "liszt",
-            "kockasajt",
-            "bacon",
-            "petrezselyem",
-            "fokhagyma",
-            "tejföl",
-            "sajt"
-        ]
-    },
-    {
-        "timestamp": 117018,
+        "timestamp": 1632481252478,
         "name": "Gyors bögrés \"zserbó\"",
         "lead": "Igazi klasszikus, a család imádni fogja!",
         "phrase": "gyors",
@@ -90,7 +17,7 @@
         ]
     },
     {
-        "timestamp": 117415,
+        "timestamp": 1632481252478,
         "name": "Cékla salátának vagy télire",
         "lead": "Nekem ezt jelenti ez az étel: az otthont, a szépséget, a tápláló szeretetet és az élet örök körforgásának érzését.",
         "phrase": "saláta",
@@ -103,7 +30,7 @@
         ]
     },
     {
-        "timestamp": 117427,
+        "timestamp": 1632481252478,
         "name": "Kínai omlós szezámmagos csirke, zöldséges pirított tésztával",
         "lead": "Bármily egyszerű is az étel, a született szakácsot tévedhetetlenül föl lehet ismerni.",
         "phrase": "kínai",
@@ -128,7 +55,7 @@
         ]
     },
     {
-        "timestamp": 117805,
+        "timestamp": 1632481252478,
         "name": "Csirkés-bulguros egytálétel",
         "lead": "Az asztal örömeit minden életkorban, minden társadalmi helyzetben, minden országban és minden nap lehet élvezni; ez az élvezet társa lehet minden egyéb gyönyörűségünknek, és az utolsó, mely megmarad és vígasztal akkor, mikor a többi örömünket már elvesztettük.",
         "phrase": "egytál",
@@ -3197,6 +3124,79 @@
             "leveskocka",
             "fehér bors",
             "toast kenyér"
+        ]
+    },
+    {
+        "timestamp": 1631876446881,
+        "name": "Kínai sült tészta",
+        "lead": "Bármily egyszerű is az étel, a született szakácsot tévedhetetlenül föl lehet ismerni.",
+        "phrase": "kínai",
+        "link": "https://www.nosalty.hu/recept/kinai-sult-teszta",
+        "ingred": [
+            "spagetti",
+            "lila hagyma",
+            "zöldborsó",
+            "sárgarépa",
+            "gomba",
+            "csirkemell",
+            "wok fűszerkeverék",
+            "szójaszósz",
+            "vaj",
+            "olaj"
+        ]
+    },
+    {
+        "timestamp": 1631876446881,
+        "name": "Fasírtgolyó sertéshúsból",
+        "lead": "Nem az elfogyasztott étel mennyisége, hanem annak a minősége fontos.",
+        "phrase": "sertés",
+        "link": "https://www.nosalty.hu/recept/fasirtgolyo-serteshusbol",
+        "ingred": [
+            "sertéscomb",
+            "tojás",
+            "zsemle",
+            "fokhagyma",
+            "zsemlemorzsa",
+            "zsemlemorzsa",
+            "olaj"
+        ]
+    },
+    {
+        "timestamp": 1631876446881,
+        "name": "Borsós csirke brassói",
+        "lead": "Azok az emberek akik szeretnek enni mindig a legjobb emberek.",
+        "phrase": "csirke",
+        "link": "https://www.nosalty.hu/recept/borsos-csirke-brassoi",
+        "ingred": [
+            "csirkemell",
+            "hagyma",
+            "fokhagyma",
+            "olaj",
+            "paprika",
+            "paradicsom",
+            "zöldborsó",
+            "burgonya",
+            "olaj"
+        ]
+    },
+    {
+        "timestamp": 1631876446881,
+        "name": "Baconös csirkemell őzgerincformában",
+        "lead": "A szakácsnak mindig a kor pulzusán kell tartania az ujját, meg kell találnia az ízek, illatok, textúrák harmóniáját.",
+        "phrase": "csirkemell",
+        "link": "https://www.nosalty.hu/recept/baconos-csirkemell-ozgerincformaban",
+        "ingred": [
+            "tejföl",
+            "tojás",
+            "trappista",
+            "csirkemell",
+            "liszt",
+            "kockasajt",
+            "bacon",
+            "petrezselyem",
+            "fokhagyma",
+            "tejföl",
+            "sajt"
         ]
     }
 ]
