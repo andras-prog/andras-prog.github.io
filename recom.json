@@ -1,5 +1,191 @@
 [
     {
+        "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/habkonnyu-turogomboc",
+        "h1": "Habkönnyű túrógombóc",
+        "txtlength": 10726
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/epres-sult-sajttorta.recept",
+        "h1": "EPRES SÜLT SAJTTORTA",
+        "txtlength": 10192
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/kokuszkocka-zablisztbol.recept",
+        "h1": "KÓKUSZKOCKA ZABLISZTBŐL",
+        "txtlength": 10166
+    },
+    {
+        "hostname": "hataratkelo.blog.hu",
+        "pagelink": "https://hataratkelo.blog.hu/2021/09/19/amerikai_kozossegi_kert_testkozelbol#c40932362",
+        "h1": "Amerikai közösségi kert testközelből",
+        "txtlength": 63995
+    },
+    {
+        "hostname": "kulturpart.hu",
+        "pagelink": "https://kulturpart.hu/2021/09/23/ujra_maratoni_folkhetvege_lesz_egerben",
+        "h1": "ÚJRA MARATONI FOLKHÉTVÉGE LESZ EGERBEN",
+        "txtlength": 8638
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210922_nemetorszag_korszakhataron",
+        "h1": "Németország korszakhatáron – mi jön a Merkel-éra után?",
+        "txtlength": 24678
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210924_ellenzek_elovalasztas_masodik_vita_rtl",
+        "h1": "Dobrev elszámoltatást és az Orbán-rendszer lebontását ígérte, Karácsony a vita hevében inkább kihátrált Tóth Csaba mögül",
+        "txtlength": 21839
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2021/09/25/hogyan-vitte-felre-a-fizikat-a-szepseg-eszmeje",
+        "h1": "HOGYAN VITTE FÉLRE A FIZIKÁT A SZÉPSÉG ESZMÉJE?",
+        "txtlength": 20213
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210922_megmutatjuk_hogy_vannak_csaladparti_erok",
+        "h1": "Megmutatjuk, hogy vannak családpárti erők – Novák Katalin a Mandinernek",
+        "txtlength": 19564
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/egeszseg/20210923/rengeteg-magyar-sodrodik-eszrevetlenul-a-kiegesbe-12-jel-amibol-tudod-nagy-a-baj-1117999",
+        "h1": "Rengeteg magyar sodródik észrevétlenül a kiégésbe: 12 jel, amiből tudod, nagy a baj",
+        "txtlength": 16208
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/kozelet/20210924/mar-szinte-zsebben-van-az-szja-visszaterites-de-ebben-semmi-meglepo-nincs/",
+        "h1": "Már szinte zsebben van az szja-visszatérítés, de ebben semmi meglepő nincs",
+        "txtlength": 16105
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/egeszseg/20210920/atyaeg-ennyit-koltenek-a-magyar-nok-szepsegapolasra-plasztikai-mutetekre-1117878",
+        "h1": "Atyaég! Ennyit költenek a magyar nők szépségápolásra, plasztikai műtétekre",
+        "txtlength": 16039
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/podcast/20210925/a-cegeknek-sem-jo-ha-a-dolgozoik-munkafuggok/",
+        "h1": "A cégeknek sem jó, ha a dolgozóik munkafüggők",
+        "txtlength": 15952
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/global/20210925/katasztrofa-ami-tortenik-a-szemunk-lattara-zuzzak-darabokra-az-autogyartok-legszebb-almait-502184",
+        "h1": "Katasztrófa, ami történik: a szemünk láttára zúzzák darabokra az autógyártók legszebb álmait",
+        "txtlength": 14550
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/egeszseg/idoskor-szembetegseg/",
+        "h1": "6 szembetegség, ami 40 év fölött egyre gyakoribb: a rövidlátástól a makula degenerációig",
+        "txtlength": 13947
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20210924/atalakuloban-az-energetika-vilaga-kulcsfontossagu-a-digitalis-transzformacio-es-a-hatekony-mukodes-501880",
+        "h1": "Átalakulóban az energetika világa, kulcsfontosságú a digitális transzformáció és a hatékony működés",
+        "txtlength": 13651
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/uzlet/20210924/beszakadt-a-kriptopiac-kina-ismet-tuzet-nyitott-502128",
+        "h1": "Beszakadt a kriptopiac, Kína ismét tüzet nyitott",
+        "txtlength": 13425
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/lajfhekk/aloe-vera-nevelese-felhasznalasa/",
+        "h1": "Aloe vera nevelése, felhasználása",
+        "txtlength": 9276
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/komplex/2021/09/25/merkel-portre-nemetorszag-cdu-palya-eu-vilag-kohl-eurovalsag-menekultvalsag",
+        "h1": "\n      Merkel: az eminens jó tanuló, akiből a világ Muttija lett\n    ",
+        "txtlength": 37537
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2021/09/24/marki-zay-peter-szajer-jozsef-elovalasztas-ellenzek-orban-viktor-interju/",
+        "h1": "Márki-Zay Péter: Szájer József egymaga többet ártott a Fidesznek, mint az ellenzék 2010 óta összesen",
+        "txtlength": 25524
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/belfold/2021/09/24/masodszor-csap-ossze-az-ot-ellenzeki-miniszterelnok-jelolt",
+        "h1": "Tóthcsabázás, őszödözés, politikai humbug és elszámoltatás – másodszor csapott össze az öt ellenzéki miniszterelnök-jelölt",
+        "txtlength": 25268
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2021/09/25/vadaszati-vilagkialllitas-budapest-1971/",
+        "h1": "Fehér tigris, Brezsnyev, fegyverbiznisz – épp ötven éve rendeztünk már egy Vadászati Világkiállítást",
+        "txtlength": 17985
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2021/09/24/miniszterelnok-jelolt-masodik-vita-rtl-klub/",
+        "h1": "Miniszterelnök-jelölti vita: Karácsony kimondta, hogy nem Tóth Csabát támogatja",
+        "txtlength": 17179
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/belfold/2021/09/24/tihany-kenderfoldek-beruhazas-onkormanyzat-balaton-kapu",
+        "h1": "Lebetonoznák és beépítenék a tihanyi Kenderföldeket, bíróságra mentek a civilek",
+        "txtlength": 16337
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20210924_elovalasztas_elso_het_miniszterelnokjeloltek_kampany",
+        "h1": "40 milliós Facebook-kampánnyal és országjárással lendültek bele a miniszterelnök-jelöltek",
+        "txtlength": 14895
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20210924_masodik_miniszterelnok_jelolti_vita_2",
+        "h1": "Karácsony ejtette Tóth Csabát, Fekete-Győr kipécézte Dobrevet, a határkerítést viszont senki nem bontaná le",
+        "txtlength": 13161
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/09/24/macron-es-johnson-telefonon-targyalt-a-tengeralattjaro-ugyrol",
+        "h1": "Macron és Johnson telefonon tárgyalt a tengeralattjáró-ügyről",
+        "txtlength": 11067
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/09/24/a-szexualis-eroszak-noveli-az-aldozatoknal-a-demencia-es-a-sztrok-kockazatat",
+        "h1": "A szexuális erőszak növeli az áldozatoknál a demencia és a sztrók kockázatát",
+        "txtlength": 10856
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20210924_orban_viktoria_jakab_peter",
+        "h1": "Ráfizet-e az a politikus, aki Orbán Viktóriának nevezi a miniszterelnököt?",
+        "txtlength": 10227
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/krimi/pecs-iskolai-verekedes-dezso-bacsi-tanar-munka-elveszes/5hh2qxb",
+        "h1": "Iskolai verekedés Pécsett: az intézmény egy tanára veszítheti el az állását a garázda fiatalok miatt, sírva mesélt a drámájáról Dezső bácsi - videó",
+        "txtlength": 9315
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/udvaros-dorottya-klimavaltozas-tuntetes-budapest-kossuth-ter/xy9dv82",
+        "h1": "Fiatalokkal vonult utcára Udvaros Dorottya, ezért!",
+        "txtlength": 9022
+    },
+    {
         "hostname": "mindmegette.hu",
         "pagelink": "https://www.mindmegette.hu/sajtos-stangli-szendvicsnek-valo.recept",
         "h1": "SAJTOS STANGLI (SZENDVICSNEK VALÓ)",
