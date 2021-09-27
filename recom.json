@@ -1,5 +1,191 @@
 [
     {
+        "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/hagyomanyos-rakott-kel-gabystol",
+        "h1": "Hagyományos rakott kel Gabystól",
+        "txtlength": 11008
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/buboreksuti.recept",
+        "h1": "BUBORÉKSÜTI",
+        "txtlength": 10264
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/csikos-kremes-egyszeruen.recept",
+        "h1": "CSÍKOS KRÉMES EGYSZERŰEN",
+        "txtlength": 10044
+    },
+    {
+        "hostname": "kiszamolo.hu",
+        "pagelink": "https://kiszamolo.hu/garazsvasarlas-tarsashazban-gond-lehet-az-elovasarlasi-joggal/",
+        "h1": "Garázsvásárlás társasházban: gond lehet az elővásárlási joggal",
+        "txtlength": 36578
+    },
+    {
+        "hostname": "alapblog.hu",
+        "pagelink": "https://alapblog.hu/atom-meghajtasu-szuper-tengeralattjarok-egy-igazsagosabb-vilagrendert/",
+        "h1": "Atom meghajtású szuper tengeralattjárók egy igazságosabb világrendért?",
+        "txtlength": 12294
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210926_kovesse_velunk_a_bundestag_valasztast",
+        "h1": "Szilárdul az SPD előnye a német választáson – kövesse velünk a fejleményeket",
+        "txtlength": 29642
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210929_ha_orban_vezetne_az_uniot_nem_akarnank_kilepni_afd_s_ep_kepviselo_a_mandinernek",
+        "h1": "Ha Orbán vezetné az Uniót, nem akarnánk kilépni – AfD-s EP-képviselő a Mandinernek",
+        "txtlength": 27213
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20210927/tortenelmi-fordulat-nemetorszagban-uj-kancellarnak-kell-megoldania-a-problemat-amit-merkel-nem-tudott-502310",
+        "h1": "Történelmi fordulat Németországban: új kancellárnak kell megoldania a problémát, amit Merkel nem tudott",
+        "txtlength": 22021
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2021/09/27/ha-nincs-a-mentorom-biztos-otthagytam-volna-az-iskolat",
+        "h1": "HA NINCS A MENTOROM, BIZTOS OTTHAGYTAM VOLNA AZ ISKOLÁT",
+        "txtlength": 20868
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vilag/20210926/mindennek-meg-kellett-valtoznia-hogy-minden-valtozatlan-maradhasson/",
+        "h1": "Mindennek meg kellett változnia, hogy minden változatlan maradhasson",
+        "txtlength": 19168
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210925_karacsonyek_ismet_az_autosokat_vennek_celba",
+        "h1": "Átszervezés Budapesten, Karácsonyék ismét az autósokat vennék célba",
+        "txtlength": 18769
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.penzcentrum.hu/vallalkozas/20210927/a-vallalati-szfera-a-zoldaram-forradalom-elen-ezt-mindneki-megerzi-majd-magyarorszagon-1118031",
+        "h1": "A vállalati szféra a zöldáram forradalom élén: ezt mindneki megérzi majd Magyarországon",
+        "txtlength": 18636
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/vallalkozas/20210927/a-vallalati-szfera-a-zoldaram-forradalom-elen-ezt-mindneki-megerzi-majd-magyarorszagon-1118031",
+        "h1": "A vállalati szféra a zöldáram forradalom élén: ezt mindneki megérzi majd Magyarországon",
+        "txtlength": 18636
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/elet/20210927/amikor-sok-penzt-ontenek-egy-elmaradott-faluba-lehet-hogy-jobban-el-akarnak-koltozni-onnan-az-emberek/",
+        "h1": "Amikor sok pénzt öntenek egy elmaradott faluba, lehet, hogy jobban el akarnak költözni onnan az emberek",
+        "txtlength": 17777
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/karrier/20210926/igy-el-olaszorszagban-a-legendas-magyar-iroparos-sokkal-olcsobb-a-bevasarlas-alberlet-mint-itthon-1118042",
+        "h1": "Így él Olaszországban a legendás magyar írópáros: sokkal olcsóbb a bevásárlás, albérlet, mint itthon",
+        "txtlength": 17539
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/global/20210927/azt-hittuk-vege-de-most-jonnek-a-valodi-izgalmak-olaf-scholz-vagy-armin-laschet-iranyitja-vegul-nemetorszagot-502326",
+        "h1": "Azt hittük, vége, de most jönnek a valódi izgalmak - Olaf Scholz vagy Armin Laschet irányítja végül Németországot?",
+        "txtlength": 17458
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/egeszseg/leiden-mutacio/",
+        "h1": "Mikor van szükség véralvadásgátlásra? 4 esetet sorolt fel a szakorvos",
+        "txtlength": 11555
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/szuloseg/hiszti-elismerni-mit-akar-/",
+        "h1": "Hiszti elismerni mit akar",
+        "txtlength": 11263
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2021/09/27/dobrev-klara-interju-ellenzek-elovalasztas/",
+        "h1": "Dobrev Klára: Attól nem kell félni, hogy az emberek kimennek Polt Péter érdekében tüntetni",
+        "txtlength": 19859
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20210926_Sajat_eselyeit_javitana_az_ellenzek_megis_ongolt_lohet",
+        "h1": "Könnyen öngólt rúghat az ellenzék a népszavazási törvényjavaslattal",
+        "txtlength": 16385
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kulfold/2021/09/26/alzheimer-kor-demencia-diagnosztizalas-korkep-felismeres-kutatas/",
+        "h1": "Alzheimer-kór: gyűlnek a viharfelhők felettünk",
+        "txtlength": 15425
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/direkt36/2021/09/27/paks2-orszagos-atomenergia-hivatal-atalakitas-belso-konfliktusok",
+        "h1": "Súlyos belső konfliktusokkal a színfalak mögött érik az eddigi legfontosabb döntés Paks2-ről",
+        "txtlength": 15042
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/sport/2021/09/26/kezilabda-noi-valogatott-pasztor-zsofia-interju/",
+        "h1": "„Amikor a Fradi megkeresett, más már nem létezett számomra”",
+        "txtlength": 13853
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/foto/2021/09/26/digitalis-oktatas-stiller-akos",
+        "h1": "Digitális oktatás a végeken",
+        "txtlength": 12259
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kulfold/2021/09/26/nemetorszag-valasztas-eredmeny-spd-cdu-csu-fdp-zoldek-scholz-laschet-merkel",
+        "h1": "Szoros versenyben, de nyertek a szociáldemokraták a német választásokon",
+        "txtlength": 11753
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/09/26/armin-laschet-a-szavazast-is-elbenazta",
+        "h1": "Armin Laschet a szavazást is elbénázta",
+        "txtlength": 10896
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20210926_Valtoztatasi_tilalommal_es_uj_epitesi_szabalyzattal_gatolna_Baranyi_a_Fudanprojektet",
+        "h1": "Változtatási tilalommal és új építési szabályzattal gátolná Baranyi a Fudan-projektet",
+        "txtlength": 10601
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/09/26/semjen-uldozik-a-vadaszokat-harcolunk-a-vadaszat-szabadsagaert",
+        "h1": "Semjén: Üldözik a vadászokat, harcolunk a vadászat szabadságáért",
+        "txtlength": 10555
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/halapenz-korrupt-orvosok-nyomozok/jzxsjlh?sl_ps=d_8",
+        "h1": "Mint egy kémfilmben! Így buktatják le a korrupt magyar orvosokat",
+        "txtlength": 8983
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/tudomany/20210927_apple_osszehajthato_iphone_kagylotelefon",
+        "h1": "Ilyen kagylómobil lehet az Apple első összehajtható iPhone-ja – videó",
+        "txtlength": 8900
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/idojaras-nyar-bucsu-zivatar-szellokes/4cbzpe3",
+        "h1": "Időjárás: búcsúzhatunk a nyártól, zivatarokkal és széllökésekkel teli hétnek nézünk elébe",
+        "txtlength": 8508
+    },
+    {
         "hostname": "mindmegette.hu",
         "pagelink": "https://www.mindmegette.hu/legjobb-tepertos-pogacsa.recept",
         "h1": "LEGJOBB TEPERTŐS POGÁCSA",
