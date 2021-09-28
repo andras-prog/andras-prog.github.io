@@ -1,5 +1,191 @@
 [
     {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/sutoben-sult-palacsinta-turogomboccal.recept",
+        "h1": "SÜTŐBEN SÜLT PALACSINTA TÚRÓGOMBÓCCAL",
+        "txtlength": 12307
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/vaniliakremes-kekszes-szelet-sutes-nelkuli.recept",
+        "h1": "VANÍLIAKRÉMES-KEKSZES SZELET (SÜTÉS NÉLKÜLI)",
+        "txtlength": 11693
+    },
+    {
+        "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/porhanyos-szilvas-kifli-deditol-akar-cukor-nelkul",
+        "h1": "Porhanyós szilvás kifli Déditől, akár cukor nélkül is",
+        "txtlength": 10411
+    },
+    {
+        "hostname": "hataratkelo.blog.hu",
+        "pagelink": "https://hataratkelo.blog.hu/2021/09/19/amerikai_kozossegi_kert_testkozelbol#c40938348",
+        "h1": "Amerikai közösségi kert testközelből",
+        "txtlength": 69465
+    },
+    {
+        "hostname": "kulturpart.hu",
+        "pagelink": "https://kulturpart.hu/2021/09/25/kortars_kavehazi_stilusgyakorlatok",
+        "h1": "KORTÁRS KÁVÉHÁZI STÍLUSGYAKORLATOK",
+        "txtlength": 5027
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210928_igy_bukott_meg_a_cdu",
+        "h1": "Így bukott meg a CDU: izgalmak a német politika szivarfüstös szobáiból",
+        "txtlength": 27479
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/auto/20210927/hasztalan-eloirasok-dragitjak-az-uj-autokat-nem-csak-a-mikrochipek-hianyoznak-a-gyarakbol-1117985",
+        "h1": "Hasztalan előírások drágítják az új autókat: nem csak a mikrochipek hiányoznak a gyárakból",
+        "txtlength": 27387
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vilag/20210928/bo-egy-ev-alatt-dragult-husszorosara-a-gaz-de-hogy-fordulhatott-ez-elo/",
+        "h1": "Bő egy év alatt drágult hússzorosára a gáz, de hogy fordulhatott ez elő?",
+        "txtlength": 21113
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/penz/20210928/a-balaton-partjarol-nem-latszik-de-a-nemet-gdp-nek-megfelelo-osszeg-tunhetett-el-a-turizmusbol-a-jarvany-miatt-vilagszinten/",
+        "h1": "A Balaton partjáról nem látszik, de a német GDP-nek megfelelő összeg tűnhetett el a turizmusból a járvány miatt világszinten",
+        "txtlength": 19894
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/vallalkozas/20210927/a-vallalati-szfera-a-zoldaram-forradalom-elen-ezt-mindenki-megerzi-majd-magyarorszagon-1118031",
+        "h1": "A vállalati szféra a zöldáram forradalom élén: ezt mindenki megérzi majd Magyarországon",
+        "txtlength": 18451
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/bank/20210928/nagy-bejelentest-tett-a-fintech-sztar-magyarorszagon-indul-a-revolut-bank-502490",
+        "h1": "Nagy bejelentést tett a fintech-sztár Magyarországon: indul a Revolut Bank!",
+        "txtlength": 17375
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.penzcentrum.hu/gazdasag/20210928/ki-nevet-a-vegen-mely-agazatok-jartak-jol-az-euro-bevezetesevel-1117998",
+        "h1": "Ki nevet a végén? Mely ágazatok jártak jól az euro bevezetésével?",
+        "txtlength": 17324
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2021/09/27/a-jovo-autoja-okos-zold-kenyelmes-es-biztonsagos-lesz",
+        "h1": "A JÖVŐ AUTÓJA OKOS, ZÖLD, KÉNYELMES ÉS BIZTONSÁGOS LESZ",
+        "txtlength": 16646
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210927_egy_francia_kastelyban_fontos_allamferfikent_szerepel_bethlen_gabor",
+        "h1": "Egy francia kastélyban fontos államférfiként szerepel Bethlen Gábor",
+        "txtlength": 15882
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210928_ben_shapiro_woke",
+        "h1": "Így tombol a woke fiatalság az egyetemen - Ben Shapiro új könyvéről",
+        "txtlength": 15572
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20210928/sulyos-utohatasai-vannak-magyarorszagon-a-koronavirus-jarvanynak-502552",
+        "h1": "Súlyos utóhatásai vannak Magyarországon a koronavírus-járványnak",
+        "txtlength": 15411
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/egeszseg/egeszseges-pekaruk/",
+        "h1": "5 egészséges kenyérféle, ami tele van vitaminnal, és sokáig eltelít: ezeket válaszd reggelire",
+        "txtlength": 12406
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/szuloseg/meddo-ferfi-szegyen/",
+        "h1": "meddő férfi szégyen",
+        "txtlength": 10622
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kulfold/2021/09/28/nemetorszag-valasztas-merkel-kancellar-laschet-scholz-lindner-kormanykoalicio/",
+        "h1": "Csak a választásnak van vége Németországban, a verseny még tart",
+        "txtlength": 14148
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/gazdasag/2021/09/27/szja-visszaterites-gyerekeseknek-reszletek",
+        "h1": "Nem lesz egyszerű feladat az államnak a februári szja-visszatérítés",
+        "txtlength": 14146
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/belfold/2021/09/28/hitelesek-e-a-szivargo-elovalasztasi-reszeredmenyek",
+        "h1": "Az előválasztó pártok nem tudhatják, mégis mintha tudnák a részeredményeket",
+        "txtlength": 13547
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kulfold/2021/09/27/graz-kommunistak-ausztria-kahr-kurz/",
+        "h1": "„Stalingraz”: győztek a kommunisták Ausztria második városában",
+        "txtlength": 13512
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20210928_Visszalepes_Toth_Csaba_nepszeruseg",
+        "h1": "Tóth Csabának még egy jó oka lehetett arra, hogy visszalépjen",
+        "txtlength": 12862
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/09/27/kariko-katalin-talalkozott-a-masnaposok-egyik-szineszevel",
+        "h1": "Karikó Katalin találkozott a Másnaposok egyik színészével",
+        "txtlength": 12315
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/09/27/iratokkal-cafolna-az-offshore-vadakat-a-dk-jeloltje",
+        "h1": "Iratokkal cáfolná az offshore-vádakat a DK jelöltje",
+        "txtlength": 10789
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/tudomany/20210927_sim_kartya_csere_adatbiztonsag",
+        "h1": "Lecserélné a SIM-kártyáját? Készüljön, szigorít a Vodafone, a Telekom és a Telenor is",
+        "txtlength": 10459
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2021/09/27/elovalasztas-2021-ellenzek-budapest-orban-dobrev-farkashazy-video/",
+        "h1": "„Nehogy már a Stop Gyurcsány, Stop Karácsony! több aláírást szerezzen”",
+        "txtlength": 9893
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/halapenz-korrupt-orvosok-nyomozok/jzxsjlh",
+        "h1": "Mint egy kémfilmben! Így buktatják le a korrupt magyar orvosokat",
+        "txtlength": 9666
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/tudomany/20210927_idos_korban_kockazat_covid_fertozes_eseten_az_alultaplaltsag",
+        "h1": "Komoly bajba kerülhetnek a sovány idősebbek a koronavírus miatt",
+        "txtlength": 9343
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/belfold/2021/09/28/katolikus-kozepiskolat-erinto-koltsegvetes-csalas-miatt-nyomoznak-bekesben",
+        "h1": "Katolikus középiskolát érintő költségvetési csalás miatt nyomoznak Békésben",
+        "txtlength": 9048
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/tragedia-halal-kismama-szivelegtelenseg-judy-szerencs/lrfbjxd?sl_ps=d_6",
+        "h1": "„A karjaimban halt meg a szerelmem” – A feleségét és meg nem született gyermeküket gyászolja Attila",
+        "txtlength": 8746
+    },
+    {
         "hostname": "nosalty.hu",
         "pagelink": "https://www.nosalty.hu/recept/hagyomanyos-rakott-kel-gabystol",
         "h1": "Hagyományos rakott kel Gabystól",
