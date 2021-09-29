@@ -1,6 +1,186 @@
 [
     {
         "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/gyumolcstorta-sutes-nelkul.recept",
+        "h1": "GYÜMÖLCSTORTA SÜTÉS NÉLKÜL",
+        "txtlength": 10724
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/zserbo-recept-turosan.recept",
+        "h1": "TÚRÓS ZSERBÓ",
+        "txtlength": 10530
+    },
+    {
+        "hostname": "hataratkelo.blog.hu",
+        "pagelink": "https://hataratkelo.blog.hu/2021/09/19/amerikai_kozossegi_kert_testkozelbol#c40940884",
+        "h1": "Amerikai közösségi kert testközelből",
+        "txtlength": 70183
+    },
+    {
+        "hostname": "kulturpart.hu",
+        "pagelink": "https://kulturpart.blog.hu/2021/09/29/csak_egy_fakulo_tetovalas_emlekeztet_a_regi_amerikara",
+        "h1": "CSAK EGY FAKULÓ TETOVÁLÁS EMLÉKEZTET A RÉGI AMERIKÁRA",
+        "txtlength": 11499
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/gazdasag/20210928/neuromarketing-globalis-trauma-fasult-ugyfelek-mereszet-huzott-a-hazai-nagybank-1118092",
+        "h1": "Neuromarketing, globális trauma, fásult ügyfelek: merészet húzott a hazai nagybank",
+        "txtlength": 30887
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20210929/sagvari-pal-arra-szamitunk-hogy-a-magas-gazarak-ebben-a-futesi-szezonban-fennmaradnak-502634",
+        "h1": "Ságvári Pál: arra számítunk, hogy a magas gázárak ebben a fűtési szezonban fennmaradnak",
+        "txtlength": 26470
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210928_pazmany_campus_palotanegyed",
+        "h1": "Pázmány-campus: új korszak az ódon Palotanegyedben",
+        "txtlength": 25184
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/tech/20210929/millios-fizetesu-dolgozoktol-varjak-a-magyar-allami-tesztpalya-megteruleset/",
+        "h1": "Milliós fizetésű dolgozóktól várják a magyar állami tesztpálya megtérülését",
+        "txtlength": 25045
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210929_ukrajna_gaz_szijjarto",
+        "h1": "Magyar-orosz gázmegállapodás: zsarolási potenciáltól esik el Ukrajna",
+        "txtlength": 20475
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210928_belfold_facebook",
+        "h1": "Orbán Viktor hirdetések nélkül rommá veri az ellenzéket a közösségi térben",
+        "txtlength": 18156
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20210929/hazai-termalvizbol-nyernek-ki-az-elektromos-autok-egyik-fo-alapanyagat-502744",
+        "h1": "Hazai termálvízből nyernék ki az elektromos autók egyik fő alapanyagát",
+        "txtlength": 15669
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vilag/20210928/nincs-mas-valasztasunk-mint-felturni-a-tengereket-az-asvanykincsekert/",
+        "h1": "Nincs más választásunk, mint feltúrni a tengereket az ásványkincsekért?",
+        "txtlength": 15129
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/bank/20210929/megerkezett-a-magyar-allam-legszebb-ajandeka-itt-a-4273-millios-csaladtamogatas-502476",
+        "h1": "Megérkezett a magyar állam legszebb ajándéka: itt a 42+73 milliós családtámogatás!",
+        "txtlength": 15122
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/otthon/20210923/ez-a-pazar-villa-lett-2021-ben-az-ev-legszebb-haza-te-bekoltoznel-fotok-1118003",
+        "h1": "Ez a pazar villa lett 2021-ben az év legszebb háza: Te beköltöznél? + fotók",
+        "txtlength": 15040
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/otthon/magyarorszag-rejtveny-nagyhatalom/",
+        "h1": "Magyarország rejtvénynagyhatalom: a kockás fejtörő többet adhat az embernek, mint bárki hinné",
+        "txtlength": 12941
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2021/09/28/ha-az-anyagcseret-vizsgaljuk-egy-5-es-egy-50-eves-ember-mintha-nem-is-ugyanaz-az-organizmus-lenne",
+        "h1": "HA AZ ANYAGCSERÉT VIZSGÁLJUK, EGY 5 ÉS EGY 50 ÉVES EMBER MINTHA NEM IS UGYANAZ AZ ORGANIZMUS LENNE",
+        "txtlength": 12064
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/szuloseg/szoptatas-nyilvanos-helyen/",
+        "h1": "szoptatás nyilvános helyen",
+        "txtlength": 11201
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/szorakozas/2021/09/28/meszaros-varkonyi-lagzi-menusor-mit-jelent-megfoztuk",
+        "h1": "Citrushínár, wontoncsipsz, fésűkagyló-wakame – dekódoltuk a Mészáros–Várkonyi-lagzi menüjét",
+        "txtlength": 17541
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20210929_Elovalasztas_meglepo_forgatokonyvek_masodik_fordulo",
+        "h1": "Ha Dobrev most nyer is, a második fordulóban teljes felfordulás jöhet az előválasztáson",
+        "txtlength": 16260
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/09/29/szaporodo-kerdesek",
+        "h1": "Szaporodó kérdések",
+        "txtlength": 15859
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/gazdasag/2021/09/29/epitoanyagok-mar-megallt-a-fa-az-acel-es-a-muanyagok-dragulasa-sot-egyes-arak-elindultak-lefele",
+        "h1": "Enyhülés látszik az építőanyagok brutálisan elszállt árainál",
+        "txtlength": 14437
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/tech/2021/09/29/a-google-keresesek-azt-is-megmutatjak-amirol-a-politikusok-nem-akarnak-beszelni",
+        "h1": "A Google-keresések azt is megmutatják, amiről a politikusok nem akarnak beszélni",
+        "txtlength": 13670
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/fn/gazdasag/2021/09/29/etolaj-ara-dragulas/",
+        "h1": "Már az egekben van, de karácsonyig tovább emelkedhet az étolaj ára",
+        "txtlength": 11080
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/politika/magyarorszag-ukrajna-gazprom-konfliktus-szijjarto-peter/ps7qezw",
+        "h1": "Gazprom-botrány: veszélyesen nő a feszültség Magyarország és Ukrajna között",
+        "txtlength": 10187
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/nyugdij-elemzes-magyar-idosek/1d3l6zg",
+        "h1": "Izlandon nyugdíj, itthon NYÖGdíj vár: egy felmérés szerint rosszul megy a magyar idősek sora",
+        "txtlength": 10096
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/09/29/epp-teljesitmenyfokozot-fecskendezett-valakibe-egy-nyiregyhazi-ferfi-amikor-a-rendorok-rajtautottek",
+        "h1": "Épp teljesítményfokozót fecskendezett valakibe egy nyíregyházi férfi, amikor a rendőrök rajtaütöttek",
+        "txtlength": 9311
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/fn/gazdasag/2021/09/29/matolcsy-adam-szaraz-istvan-mnb/",
+        "h1": "Matolcsy Ádám barátjának cége hárommilliárdos munkát kapott a jegybanktól",
+        "txtlength": 9153
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://rangado.24.hu/nemzetkozi_foci/2021/09/29/real-madrid-sheriff-tiraspol-jurij-vernidub/",
+        "h1": "A Sheriff edzője a Real-verésről: Nem csináltunk semmi különlegeset",
+        "txtlength": 9046
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/gazdasag/20210929_Budapest_Moodys_hitelminst",
+        "h1": "Megerősítette Budapest besorolását a Moody's",
+        "txtlength": 8555
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/elet/20210928_Redai_Dorottya_Meseorszag_mindenkie_konyv",
+        "h1": "„A Meseország mindenkiét sokan azért vették meg, hogy tiltakozzanak az ellenségeskedés, kirekesztés ellen”",
+        "txtlength": 8376
+    },
+    {
+        "hostname": "mindmegette.hu",
         "pagelink": "https://www.mindmegette.hu/sutoben-sult-palacsinta-turogomboccal.recept",
         "h1": "SÜTŐBEN SÜLT PALACSINTA TÚRÓGOMBÓCCAL",
         "txtlength": 12307
