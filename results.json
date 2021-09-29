@@ -1237,7 +1237,7 @@
   {
     "azon": "LIDL",
     "forras": "",
-    "termeknev": "Csiperkegomba",
+    "termeknev": "Csiperkegomba 1",
     "termekar": "669",
     "termekcur": "Ft",
     "termekmenny": "750 g / csomag",
@@ -1250,7 +1250,7 @@
   {
     "azon": "LIDL",
     "forras": "",
-    "termeknev": "Sütőtök",
+    "termeknev": "Sütőtök 1",
     "termekar": "249",
     "termekcur": "Ft",
     "termekmenny": "",
@@ -1263,7 +1263,7 @@
   {
     "azon": "LIDL",
     "forras": "",
-    "termeknev": "Kelkáposzta",
+    "termeknev": "Kelkáposzta 1",
     "termekar": "299",
     "termekcur": "Ft",
     "termekmenny": "",
@@ -1276,7 +1276,7 @@
   {
     "azon": "LIDL",
     "forras": "",
-    "termeknev": "Zöld alma",
+    "termeknev": "Zöld alma 1",
     "termekar": "279",
     "termekcur": "Ft",
     "termekmenny": "",
@@ -1289,7 +1289,7 @@
   {
     "azon": "LIDL",
     "forras": "",
-    "termeknev": "Házi vekni",
+    "termeknev": "Házi vekni 1",
     "termekar": "139",
     "termekcur": "Ft",
     "termekmenny": "500 g",
@@ -1302,7 +1302,7 @@
   {
     "azon": "LIDL",
     "forras": "",
-    "termeknev": "Kakaós csiga",
+    "termeknev": "Kakaós csiga 1",
     "termekar": "89",
     "termekcur": "Ft",
     "termekmenny": "120 g",
@@ -1315,7 +1315,7 @@
   {
     "azon": "LIDL",
     "forras": "",
-    "termeknev": "Friss pacal  HÚSFARM",
+    "termeknev": "Friss pacal 1  HÚSFARM",
     "termekar": "1399",
     "termekcur": "Ft",
     "termekmenny": "900 g",
@@ -1328,7 +1328,7 @@
   {
     "azon": "LIDL",
     "forras": "",
-    "termeknev": "Friss sertés gulyáshús  HÚSFARM",
+    "termeknev": "Friss sertés gulyáshús 1  HÚSFARM",
     "termekar": "739",
     "termekcur": "Ft",
     "termekmenny": "500 g",
@@ -1354,7 +1354,7 @@
   {
     "azon": "LIDL",
     "forras": "",
-    "termeknev": "Sertéstarja  PIKOK",
+    "termeknev": "Sertéstarja 1  PIKOK",
     "termekar": "249",
     "termekcur": "Ft",
     "termekmenny": "100 g",
@@ -1367,7 +1367,7 @@
   {
     "azon": "LIDL",
     "forras": "",
-    "termeknev": "Kaukázusi kefir  PILOS",
+    "termeknev": "Kaukázusi kefir 1  PILOS",
     "termekar": "129",
     "termekcur": "Ft",
     "termekmenny": "450 g",
@@ -5552,19 +5552,6 @@
   {
     "azon": "CBA",
     "forras": "",
-    "termeknev": "Felix macskael.alutas.halas válog.zöldséggel aszpikban 4x85g",
-    "termekar": "459,- Ft/db",
-    "termekcur": "",
-    "termekmenny": "",
-    "tarfajl": " 1350,00 Ft/kg",
-    "tarfajlmert": "",
-    "disc": "-23%",
-    "erv": "",
-    "termeklink": "https://online.prima.hu/s/felix-macskael-alutas-halas-valog-zoldseggel-aszpikban-4x85g-10000207744?cat=802030"
-  },
-  {
-    "azon": "CBA",
-    "forras": "",
     "termeknev": "Felix Sensations sauces macskael. aszpikb.házias válog.4x85g",
     "termekar": "459,- Ft/db",
     "termekcur": "",
@@ -5574,6 +5561,19 @@
     "disc": "-23%",
     "erv": "",
     "termeklink": "https://online.prima.hu/s/felix-sensations-sauces-macskael-aszpikb-hazias-valog-4x85g-10000206810?cat=802030"
+  },
+  {
+    "azon": "CBA",
+    "forras": "",
+    "termeknev": "Felix macskael.alutas.halas válog.zöldséggel aszpikban 4x85g",
+    "termekar": "459,- Ft/db",
+    "termekcur": "",
+    "termekmenny": "",
+    "tarfajl": " 1350,00 Ft/kg",
+    "tarfajlmert": "",
+    "disc": "-23%",
+    "erv": "",
+    "termeklink": "https://online.prima.hu/s/felix-macskael-alutas-halas-valog-zoldseggel-aszpikban-4x85g-10000207744?cat=802030"
   },
   {
     "azon": "CBA",
@@ -6267,19 +6267,6 @@
   {
     "azon": "SPAR",
     "forras": "",
-    "termeknev": "S-Budget füstölt, nyers, gyorspácolt hátsó csülök",
-    "termekar": "990",
-    "termekcur": "Ft",
-    "termekmenny": "",
-    "tarfajl": "(990,00 Ft/kg)",
-    "tarfajlmert": "",
-    "disc": "",
-    "erv": "",
-    "termeklink": "https://www.spar.hu/onlineshop/s-budget-fustolt-nyers-gyorspacolt-hatso-csulok/p/322231007"
-  },
-  {
-    "azon": "SPAR",
-    "forras": "",
     "termeknev": "REGNUM sertés pörkölthús tálcás",
     "termekar": "1 449",
     "termekcur": "Ft",
@@ -6462,19 +6449,6 @@
   {
     "azon": "SPAR",
     "forras": "",
-    "termeknev": "REGNUM marha párizsi",
-    "termekar": "1 890",
-    "termekcur": "Ft",
-    "termekmenny": "",
-    "tarfajl": "(1 890,00 Ft/kg)",
-    "tarfajlmert": "",
-    "disc": "",
-    "erv": "",
-    "termeklink": "https://www.spar.hu/onlineshop/regnum-marha-parizsi/p/251188007"
-  },
-  {
-    "azon": "SPAR",
-    "forras": "",
     "termeknev": "Master Good friss csirke zsigerelve belsőség nélkül",
     "termekar": "899",
     "termekcur": "Ft",
@@ -6527,19 +6501,6 @@
   {
     "azon": "SPAR",
     "forras": "",
-    "termeknev": "REGNUM Gusto paprikás fűszerrel bevont darabolt főtt sonka",
-    "termekar": "2 790",
-    "termekcur": "Ft",
-    "termekmenny": "",
-    "tarfajl": "(2 790,00 Ft/kg)",
-    "tarfajlmert": "",
-    "disc": "",
-    "erv": "",
-    "termeklink": "https://www.spar.hu/onlineshop/regnum-gusto-paprikas-fuszerrel-bevont-darabolt-fott-sonka/p/487140008"
-  },
-  {
-    "azon": "SPAR",
-    "forras": "",
     "termeknev": "Konkoly kolozsvári szalonna",
     "termekar": "2 990",
     "termekcur": "Ft",
@@ -6549,6 +6510,19 @@
     "disc": "",
     "erv": "",
     "termeklink": "https://www.spar.hu/onlineshop/konkoly-kolozsvari-szalonna/p/497537003"
+  },
+  {
+    "azon": "SPAR",
+    "forras": "",
+    "termeknev": "REGNUM Gusto paprikás fűszerrel bevont darabolt főtt sonka",
+    "termekar": "2 790",
+    "termekcur": "Ft",
+    "termekmenny": "",
+    "tarfajl": "(2 790,00 Ft/kg)",
+    "tarfajlmert": "",
+    "disc": "",
+    "erv": "",
+    "termeklink": "https://www.spar.hu/onlineshop/regnum-gusto-paprikas-fuszerrel-bevont-darabolt-fott-sonka/p/487140008"
   },
   {
     "azon": "SPAR",
@@ -6969,6 +6943,19 @@
   {
     "azon": "SPAR",
     "forras": "",
+    "termeknev": "Riska félzsíros, félkemény sajt",
+    "termekar": "1 390",
+    "termekcur": "Ft",
+    "termekmenny": "",
+    "tarfajl": "(1 390,00 Ft/kg)",
+    "tarfajlmert": "",
+    "disc": "",
+    "erv": "",
+    "termeklink": "https://www.spar.hu/onlineshop/riska-felzsiros-felkemeny-sajt/p/505293006"
+  },
+  {
+    "azon": "SPAR",
+    "forras": "",
     "termeknev": "SPAR viaszos borjú májas",
     "termekar": "1 790",
     "termekcur": "Ft",
@@ -6991,19 +6978,6 @@
     "disc": "",
     "erv": "",
     "termeklink": "https://www.spar.hu/onlineshop/magyar-tej-esl-tej-28-1-l/p/324961001"
-  },
-  {
-    "azon": "SPAR",
-    "forras": "",
-    "termeknev": "Riska félzsíros, félkemény sajt",
-    "termekar": "1 390",
-    "termekcur": "Ft",
-    "termekmenny": "",
-    "tarfajl": "(1 390,00 Ft/kg)",
-    "tarfajlmert": "",
-    "disc": "",
-    "erv": "",
-    "termeklink": "https://www.spar.hu/onlineshop/riska-felzsiros-felkemeny-sajt/p/505293006"
   },
   {
     "azon": "SPAR",
@@ -7125,19 +7099,6 @@
   {
     "azon": "SPAR",
     "forras": "",
-    "termeknev": "Coca-Cola Light colaízű energiamentes szénsavas üdítőital édesítőszerekkel 1,75 l",
-    "termekar": "319",
-    "termekcur": "Ft",
-    "termekmenny": "",
-    "tarfajl": "(182,29 Ft/l)",
-    "tarfajlmert": "",
-    "disc": "",
-    "erv": "",
-    "termeklink": "https://www.spar.hu/onlineshop/coca-cola-light-colaizu-energiamentes-szensavas-uditoital-edesitoszerekkel-175-l/p/412150003"
-  },
-  {
-    "azon": "SPAR",
-    "forras": "",
     "termeknev": "Frico füstölt, zsíros, vágható ömlesztett sajt",
     "termekar": "2 990",
     "termekcur": "Ft",
@@ -7147,6 +7108,19 @@
     "disc": "",
     "erv": "",
     "termeklink": "https://www.spar.hu/onlineshop/frico-fustolt-zsiros-vaghato-omlesztett-sajt/p/429959002"
+  },
+  {
+    "azon": "SPAR",
+    "forras": "",
+    "termeknev": "Coca-Cola Light colaízű energiamentes szénsavas üdítőital édesítőszerekkel 1,75 l",
+    "termekar": "319",
+    "termekcur": "Ft",
+    "termekmenny": "",
+    "tarfajl": "(182,29 Ft/l)",
+    "tarfajlmert": "",
+    "disc": "",
+    "erv": "",
+    "termeklink": "https://www.spar.hu/onlineshop/coca-cola-light-colaizu-energiamentes-szensavas-uditoital-edesitoszerekkel-175-l/p/412150003"
   },
   {
     "azon": "SPAR",
@@ -7303,6 +7277,19 @@
     "disc": "",
     "erv": "",
     "termeklink": "https://www.spar.hu/onlineshop/fuzetea-zero-energiamentes-szensavmentes-citromizu-uditoital-edesitoszerekkel-15-l/p/473983008"
+  },
+  {
+    "azon": "SPAR",
+    "forras": "",
+    "termeknev": "Fokhagymás-olívás sajt-snack 1,5 kg",
+    "termekar": "2 190",
+    "termekcur": "Ft",
+    "termekmenny": "",
+    "tarfajl": "(2 190,00 Ft/kg)",
+    "tarfajlmert": "",
+    "disc": "",
+    "erv": "",
+    "termeklink": "https://www.spar.hu/onlineshop/fokhagymas-olivas-sajt-snack-15-kg/p/480518002"
   },
   {
     "azon": "SPAR",
@@ -7684,19 +7671,6 @@
   {
     "azon": "SPAR",
     "forras": "",
-    "termeknev": "Cappy Ice Fruit Multivitamin szénsavmentes vegyesgyümölcs ital mangos...",
-    "termekar": "299",
-    "termekcur": "Ft",
-    "termekmenny": "",
-    "tarfajl": "(199,33 Ft/l)",
-    "tarfajlmert": "",
-    "disc": "",
-    "erv": "",
-    "termeklink": "https://www.spar.hu/onlineshop/cappy-ice-fruit-multivitamin-szensavmentes-vegyesgyumolcs-ital-mangosztan-izesitessel-15-l/p/280196004"
-  },
-  {
-    "azon": "SPAR",
-    "forras": "",
     "termeknev": "Apenta málna szénsavas üdítőital természetes ásványvízzel 1,5 l",
     "termekar": "179",
     "termekcur": "Ft",
@@ -7723,15 +7697,15 @@
   {
     "azon": "SPAR",
     "forras": "",
-    "termeknev": "S-Budget ioncserélt víz 5 l",
+    "termeknev": "Cappy Ice Fruit Multivitamin szénsavmentes vegyesgyümölcs ital mangos...",
     "termekar": "299",
     "termekcur": "Ft",
     "termekmenny": "",
-    "tarfajl": "(59,80 Ft/l)",
+    "tarfajl": "(199,33 Ft/l)",
     "tarfajlmert": "",
     "disc": "",
     "erv": "",
-    "termeklink": "https://www.spar.hu/onlineshop/s-budget-ioncserelt-viz-5-l/p/386314005"
+    "termeklink": "https://www.spar.hu/onlineshop/cappy-ice-fruit-multivitamin-szensavmentes-vegyesgyumolcs-ital-mangosztan-izesitessel-15-l/p/280196004"
   },
   {
     "azon": "SPAR",
@@ -7745,6 +7719,19 @@
     "disc": "",
     "erv": "",
     "termeklink": "https://www.spar.hu/onlineshop/abonett-classic-natur-extrudalt-kenyer-100-g/p/314408004"
+  },
+  {
+    "azon": "SPAR",
+    "forras": "",
+    "termeknev": "S-Budget ioncserélt víz 5 l",
+    "termekar": "299",
+    "termekcur": "Ft",
+    "termekmenny": "",
+    "tarfajl": "(59,80 Ft/l)",
+    "tarfajlmert": "",
+    "disc": "",
+    "erv": "",
+    "termeklink": "https://www.spar.hu/onlineshop/s-budget-ioncserelt-viz-5-l/p/386314005"
   },
   {
     "azon": "SPAR",
@@ -7814,19 +7801,6 @@
   {
     "azon": "SPAR",
     "forras": "",
-    "termeknev": "Peroni minőségi világos sör 5,1% 0,33 l",
-    "termekar": "289",
-    "termekcur": "Ft",
-    "termekmenny": "",
-    "tarfajl": "(875,76 Ft/l)",
-    "tarfajlmert": "",
-    "disc": "",
-    "erv": "",
-    "termeklink": "https://www.spar.hu/onlineshop/peroni-minosegi-vilagos-sor-51-033-l/p/327512002"
-  },
-  {
-    "azon": "SPAR",
-    "forras": "",
     "termeknev": "Sió Natura 100% szűrt almalé 1 l",
     "termekar": "429",
     "termekcur": "Ft",
@@ -7840,6 +7814,19 @@
   {
     "azon": "SPAR",
     "forras": "",
+    "termeknev": "Peroni minőségi világos sör 5,1% 0,33 l",
+    "termekar": "289",
+    "termekcur": "Ft",
+    "termekmenny": "",
+    "tarfajl": "(875,76 Ft/l)",
+    "tarfajlmert": "",
+    "disc": "",
+    "erv": "",
+    "termeklink": "https://www.spar.hu/onlineshop/peroni-minosegi-vilagos-sor-51-033-l/p/327512002"
+  },
+  {
+    "azon": "SPAR",
+    "forras": "",
     "termeknev": "Abonett Classic rozsos extrudált kenyér 100 g",
     "termekar": "239",
     "termekcur": "Ft",
@@ -7849,6 +7836,19 @@
     "disc": "",
     "erv": "",
     "termeklink": "https://www.spar.hu/onlineshop/abonett-classic-rozsos-extrudalt-kenyer-100-g/p/314410007"
+  },
+  {
+    "azon": "SPAR",
+    "forras": "",
+    "termeknev": "Zewa Everyday illatmentes dobozos papír zsebkendő 2 rétegű 100 db",
+    "termekar": "259",
+    "termekcur": "Ft",
+    "termekmenny": "",
+    "tarfajl": "(2,59 Ft/db)",
+    "tarfajlmert": "",
+    "disc": "",
+    "erv": "",
+    "termeklink": "https://www.spar.hu/onlineshop/zewa-everyday-illatmentes-dobozos-papir-zsebkendo-2-retegu-100-db/p/265675005"
   },
   {
     "azon": "SPAR",
@@ -7875,19 +7875,6 @@
     "disc": "",
     "erv": "",
     "termeklink": "https://www.spar.hu/onlineshop/apenta-vitamixx-eper-vorosafonya-izu-szensavmentes-uditoital-cukrokkal-es-edesitoszerekkel-15-l/p/429037007"
-  },
-  {
-    "azon": "SPAR",
-    "forras": "",
-    "termeknev": "Zewa Everyday illatmentes dobozos papír zsebkendő 2 rétegű 100 db",
-    "termekar": "259",
-    "termekcur": "Ft",
-    "termekmenny": "",
-    "tarfajl": "(2,59 Ft/db)",
-    "tarfajlmert": "",
-    "disc": "",
-    "erv": "",
-    "termeklink": "https://www.spar.hu/onlineshop/zewa-everyday-illatmentes-dobozos-papir-zsebkendo-2-retegu-100-db/p/265675005"
   },
   {
     "azon": "SPAR",
@@ -8217,32 +8204,6 @@
   {
     "azon": "SPAR",
     "forras": "",
-    "termeknev": "Iglo gyorsfagyasztott sóskamártás 450 g",
-    "termekar": "649",
-    "termekcur": "Ft",
-    "termekmenny": "",
-    "tarfajl": "(1 442,22 Ft/kg)",
-    "tarfajlmert": "",
-    "disc": "",
-    "erv": "",
-    "termeklink": "https://www.spar.hu/onlineshop/iglo-gyorsfagyasztott-soskamartas-450-g/p/491024004"
-  },
-  {
-    "azon": "SPAR",
-    "forras": "",
-    "termeknev": "Sága Füstli főtt, sajtos, füst ízesítésű csirkehúsból készült termék 350 g",
-    "termekar": "669",
-    "termekcur": "Ft",
-    "termekmenny": "",
-    "tarfajl": "(1 911,43 Ft/kg)",
-    "tarfajlmert": "",
-    "disc": "",
-    "erv": "",
-    "termeklink": "https://www.spar.hu/onlineshop/saga-fustli-fott-sajtos-fust-izesitesu-csirkehusbol-keszult-termek-350-g/p/205608001"
-  },
-  {
-    "azon": "SPAR",
-    "forras": "",
     "termeknev": "Tolle tejföl 20% 325 g",
     "termekar": "269",
     "termekcur": "Ft",
@@ -8265,6 +8226,32 @@
     "disc": "",
     "erv": "",
     "termeklink": "https://www.spar.hu/onlineshop/pick-teliszalami-eredeti-kortalcas-szeletelt-70-g/p/344234000"
+  },
+  {
+    "azon": "SPAR",
+    "forras": "",
+    "termeknev": "Iglo gyorsfagyasztott sóskamártás 450 g",
+    "termekar": "649",
+    "termekcur": "Ft",
+    "termekmenny": "",
+    "tarfajl": "(1 442,22 Ft/kg)",
+    "tarfajlmert": "",
+    "disc": "",
+    "erv": "",
+    "termeklink": "https://www.spar.hu/onlineshop/iglo-gyorsfagyasztott-soskamartas-450-g/p/491024004"
+  },
+  {
+    "azon": "SPAR",
+    "forras": "",
+    "termeknev": "Sága Füstli főtt, sajtos, füst ízesítésű csirkehúsból készült termék 350 g",
+    "termekar": "669",
+    "termekcur": "Ft",
+    "termekmenny": "",
+    "tarfajl": "(1 911,43 Ft/kg)",
+    "tarfajlmert": "",
+    "disc": "",
+    "erv": "",
+    "termeklink": "https://www.spar.hu/onlineshop/saga-fustli-fott-sajtos-fust-izesitesu-csirkehusbol-keszult-termek-350-g/p/205608001"
   },
   {
     "azon": "SPAR",
@@ -8321,6 +8308,19 @@
   {
     "azon": "SPAR",
     "forras": "",
+    "termeknev": "Danone Actimel Kids zsírszegény eper-banánízű joghurtital B6- és D-vitaminnal ...",
+    "termekar": "449",
+    "termekcur": "Ft",
+    "termekmenny": "",
+    "tarfajl": "(1 122,50 Ft/kg)",
+    "tarfajlmert": "",
+    "disc": "",
+    "erv": "",
+    "termeklink": "https://www.spar.hu/onlineshop/danone-actimel-kids-zsirszegeny-eper-bananizu-joghurtital-b6-es-d-vitaminnal-4-x-100-g-400-g/p/392809007"
+  },
+  {
+    "azon": "SPAR",
+    "forras": "",
     "termeknev": "Sió Natura rostos őszibarack nektár 1 l",
     "termekar": "429",
     "termekcur": "Ft",
@@ -8334,27 +8334,27 @@
   {
     "azon": "SPAR",
     "forras": "",
-    "termeknev": "Danone Actimel Kids zsírszegény eper-banánízű joghurtital B6- és D-vitaminnal ...",
-    "termekar": "399",
+    "termeknev": "Red Bull energiaital 250 ml",
+    "termekar": "339",
     "termekcur": "Ft",
     "termekmenny": "",
-    "tarfajl": "(997,50 Ft/kg)",
+    "tarfajl": "(1 356,00 Ft/l)",
     "tarfajlmert": "",
     "disc": "",
     "erv": "",
-    "termeklink": "https://www.spar.hu/onlineshop/danone-actimel-kids-zsirszegeny-eper-bananizu-joghurtital-b6-es-d-vitaminnal-4-x-100-g-400-g/p/392809007"
+    "termeklink": "https://www.spar.hu/onlineshop/red-bull-energiaital-250-ml/p/565004"
   },
   {
     "azon": "SPAR",
     "forras": "",
-    "termeknev": "Soproni Óvatos Duhaj Démon barna sör karamellmalátával 5,2% 0,5 l doboz",
-    "termekar": "279",
+    "termeknev": "SPAR málna gyümölcsszörp bodzalével színezve 0,7 l",
+    "termekar": "399",
     "termekcur": "Ft",
     "termekmenny": "",
-    "tarfajl": "(558,00 Ft/l)",
+    "tarfajl": "(570,00 Ft/l)",
     "tarfajlmert": "",
     "disc": "",
     "erv": "",
-    "termeklink": "https://www.spar.hu/onlineshop/soproni-ovatos-duhaj-demon-barna-sor-karamellmalataval-52-05-l-doboz/p/296824007"
+    "termeklink": "https://www.spar.hu/onlineshop/spar-malna-gyumolcsszorp-bodzalevel-szinezve-07-l/p/408221007"
   }
 ]
