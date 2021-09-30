@@ -1,6 +1,186 @@
 [
     {
         "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/puncskremes-szilvas-kocka.recept",
+        "h1": "PUNCSKRÉMES-SZILVÁS KOCKA",
+        "txtlength": 10611
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/oroszkrem-torta.recept",
+        "h1": "OROSZKRÉM TORTA",
+        "txtlength": 10406
+    },
+    {
+        "hostname": "hataratkelo.blog.hu",
+        "pagelink": "https://hataratkelo.blog.hu/2021/09/19/amerikai_kozossegi_kert_testkozelbol#c40943544",
+        "h1": "Amerikai közösségi kert testközelből",
+        "txtlength": 72254
+    },
+    {
+        "hostname": "kulturpart.hu",
+        "pagelink": "https://kulturpart.blog.hu/2021/09/28/az_fmh-ban_ad_koncertet_a_novak_peter_es_az_etnofon",
+        "h1": "AZ FMH-BAN AD KONCERTET A NOVÁK PÉTER ÉS AZ ETNOFON",
+        "txtlength": 4600
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://www.valaszonline.hu/2021/09/23/elovalasztas-106-korzet-baloldal-elemzes/",
+        "h1": "Új arcok vs. régiek: így lehet visszaszorítani az „óbaloldalt” az előválasztáson",
+        "txtlength": 42461
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210929_pazmany_campus_palotanegyed",
+        "h1": "Mit várhat Budapest a Palotanegyed Pázmány-campusától?",
+        "txtlength": 24419
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20210930/mi-az-a-titokzatos-ero-ami-minden-negyedev-vegen-padlora-kuldi-a-forintot-es-lepesre-kenyszeriti-az-mnb-t-502932",
+        "h1": "Mi az a titokzatos erő, ami minden negyedév végén padlóra küldi a forintot és lépésre kényszeríti az MNB-t?",
+        "txtlength": 22620
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vallalat/20210929/a-gazar-mar-durvabb-mint-a-bitcoin-es-ennek-mindannyian-megfizetjuk-az-arat/",
+        "h1": "A gázár már durvább, mint a bitcoin, és ennek mindannyian megfizetjük az árát",
+        "txtlength": 21671
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210926_leepitve_magasztalja_a_fovaros_a_tomegkozlekedest_jaj_a_villamosmegalloknak",
+        "h1": "Felújítás és akadálymentesítés helyett megszűnő villamosmegállók Budán",
+        "txtlength": 19114
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/egeszseg/20210925/ezekben-a-magyar-varosokban-gyogyult-az-europai-elit-ime-a-millios-kezelesek-titka-1118041",
+        "h1": "Ezekben a magyar városokban gyógyult az európai elit: íme a milliós kezelések titka",
+        "txtlength": 17864
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/bank/20210930/mesterseges-intelligencia-es-felho-a-bankokban-bnpl-orulet-es-open-banking-jon-a-banking-technology-2021-499890",
+        "h1": "Mesterséges intelligencia és felhő a bankokban, BNPL-őrület és open banking - Jön a Banking Technology 2021!",
+        "txtlength": 15294
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20210930/first-in-class-mr-technologiat-hoz-a-hazai-egeszsegugybe-a-mind-klinika-es-a-ge-egyuttmukodese-502904",
+        "h1": "“First-in-class” MR technológiát hoz a hazai egészségügybe a MiND Klinika és a GE együttműködése",
+        "txtlength": 15031
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/karrier/20210927/sokakat-erinto-adoszabaly-valtozott-meg-a-magyar-munkahelyeken-errol-mindenkepp-erdemes-tudni-1118089",
+        "h1": "Sokakat érintő adószabály változott meg a magyar munkahelyeken: erről mindenképp érdemes tudni",
+        "txtlength": 14922
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210929_dobrev_az_elen_karacsony_a_masodik_videken_is_tarol_a_dk",
+        "h1": "Dobrev az élen, Karácsony a második, vidéken is tarol a DK",
+        "txtlength": 14650
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/szuloseg/pozitiv-mondatok-gyerekeknek/",
+        "h1": "8 egyszerű mondat, amit gyakran kéne hallani minden gyereknek",
+        "txtlength": 11745
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/kapcsolat/samszia-hasszani-graffiti/",
+        "h1": "Milyen nőnek lenni Afganisztánban? Samszia Hasszani graffitin keresztül mutatja meg helyzetüket",
+        "txtlength": 10991
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2021/09/30/ha-faj-a-gyerek-hasa-iskola-elott-nem-biztos-hogy-szimulal-lehet-hogy-szorong",
+        "h1": "HA FÁJ A GYEREK HASA ISKOLA ELŐTT, NEM BIZTOS, HOGY SZIMULÁL: LEHET, HOGY SZORONG",
+        "txtlength": 10169
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2021/09/29/ellenzeki-elovalaszas-2021-eredmenyek/",
+        "h1": "Dobrev Klára sorra hozza a vidéki körzeteket, Karácsony Gergely Budapesten elkezdett felzárkózni",
+        "txtlength": 23345
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/09/30/iszonyatosat-megy",
+        "h1": "Iszonyatosat megy",
+        "txtlength": 15062
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/politika/ellenzeki-elovalasztas-jonnek-az-elso-hivatalos-eredmenyek/ln809gs?sl_ps=d_10",
+        "h1": "Előválasztási eredmények: itt vannak az első hivatalos bejelentések – Cikkünk frissül!",
+        "txtlength": 13792
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kulfold/2021/09/29/v4-csehorszag-lengyelorszag-vita-turow-banya/",
+        "h1": "A szénpor miatt ropog a visegrádi együttműködés, a lengyel kormányfő Budapestre se jött el",
+        "txtlength": 13331
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kozelet/2021/09/30/dobrev-klara-ot-szazalekkal-vezet-karacsony-elott-marki-zay-a-harmadik/",
+        "h1": "Tordai lenyomta Kálmán Olgát, Oláh legyőzte Tompost, Jámbor elvitte Józsefvárost",
+        "txtlength": 13208
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20210930_10_dolog_ami_az_elovalasztasbol_eddig_kiderult",
+        "h1": "A számlálás éjjel megállt, de a tanulságok már gyűlnek – gyorsértékelő az előválasztás első félidei eredményéről",
+        "txtlength": 13139
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/dozsa-gyorgy-uti-gazolo-molnar-richard-interju/zm03rtg?sl_ps=d_6",
+        "h1": "„Minden rosszat csak magamnak köszönhetek” – Exkluzív interjút adott a Blikknek Molnár Richárd, a Dózsa György úti gázoló",
+        "txtlength": 11480
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/gazdasag/2021/09/30/mvm-eppen-az-energiapiac-kritikus-napjaiban-valtja-politikai-kinevezett-a-szakmai-vezetot",
+        "h1": "MVM: éppen az energiapiac kritikus napjaiban váltja politikai kinevezett a szakmai vezetőt",
+        "txtlength": 11456
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/09/30/tobb-mint-szazan-haltak-meg-az-ecuadori-bortontuzben",
+        "h1": "Több mint százan haltak meg az ecuadori börtöntűzben",
+        "txtlength": 11101
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/belfold/2021/09/30/ujraindul-az-elovalasztasi-szavazatok-szamlalasa",
+        "h1": "A legfrissebb adatok: 5-ből 5-öt nyert a DK, meglett Dobrev Klárának az első budapesti választókerület",
+        "txtlength": 11004
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/belfold/2021/09/30/ellenzeki-elovalasztas-2021-feszult-razos-korzet-eredmeny-osszesites",
+        "h1": "Tordai kétszer több szavazattal, Czeglédy alig néhánnyal nyerte a körzetét, és az offshore-botrányos jelölt is kiesett",
+        "txtlength": 10832
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20210930_Folytatjak_a_szamolast__kovesse_velunk_percrol_percre_az_ellenzeki_elovalasztast",
+        "h1": "Beérheti Karácsony Dobrevet? - kövesse velünk percről percre az ellenzéki előválasztást",
+        "txtlength": 9866
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/tudomany/20210930_influenzavirus_koronavirus_jarvany_kemenesi_gabor",
+        "h1": "Több influenzavírus is kihalt a koronavírus-járvány miatt",
+        "txtlength": 8624
+    },
+    {
+        "hostname": "mindmegette.hu",
         "pagelink": "https://www.mindmegette.hu/gyumolcstorta-sutes-nelkul.recept",
         "h1": "GYÜMÖLCSTORTA SÜTÉS NÉLKÜL",
         "txtlength": 10724
