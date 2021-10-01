@@ -1,6 +1,186 @@
 [
     {
         "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/hajtogatott-sajtos-kockak.recept",
+        "h1": "HAJTOGATOTT SAJTOS KOCKÁK",
+        "txtlength": 10862
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/gombas-fasirt-leveles-tesztaban.recept",
+        "h1": "GOMBÁS FASÍRT LEVELES TÉSZTÁBAN",
+        "txtlength": 10836
+    },
+    {
+        "hostname": "hataratkelo.blog.hu",
+        "pagelink": "https://hataratkelo.blog.hu/2021/09/19/amerikai_kozossegi_kert_testkozelbol",
+        "h1": "Amerikai közösségi kert testközelből",
+        "txtlength": 74407
+    },
+    {
+        "hostname": "kulturpart.hu",
+        "pagelink": "https://kulturpart.hu/2021/09/28/az_fmh-ban_ad_koncertet_a_novak_peter_es_az_etnofon",
+        "h1": "AZ FMH-BAN AD KONCERTET A NOVÁK PÉTER ÉS AZ ETNOFON",
+        "txtlength": 4595
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/ingatlan/20211001/a-magyar-uszohaz-forradalmarok-biztos-gondoltal-mar-ra-de-ok-meg-is-csinaltak-495212",
+        "h1": "A magyar úszóház forradalmárok: Biztos gondoltál már rá, de ők meg is csinálták!",
+        "txtlength": 23521
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/gazdasag/20211001/szja-visszaterites-2022-itt-a-rendelet-igy-kapjak-vissza-befizetett-adojukat-a-gyermeket-nevelo-csaladok-1118207",
+        "h1": "Szja-visszatérítés 2022: itt a rendelet, így kapják vissza befizetett adójukat a gyermeket nevelő családok",
+        "txtlength": 22367
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210930_rakosi_sztalin_1946_parizs",
+        "h1": "„Erre már Rákosi is azt mondta, hogy nem!”",
+        "txtlength": 20852
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/uzlet/20210930/beindult-az-energetika-uzletag-az-opusnal-meg-is-lett-az-eredmenye-503166",
+        "h1": "Beindult az energetika üzletág az Opusnál, meg is lett az eredménye",
+        "txtlength": 20560
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vallalat/20211001/most-latszik-igazan-miert-nem-csokkentette-a-kormany-meg-jobban-a-rezsit/",
+        "h1": "Most látszik igazán, miért nem csökkentette a kormány még jobban a rezsit",
+        "txtlength": 20264
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20210930/megjott-a-rendelet-a-csaladok-szja-visszateriteserol-503180",
+        "h1": "Megjött a rendelet a családok szja-visszatérítéséről",
+        "txtlength": 20092
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20211001_orban_viktor_belfold_kossuth_radio_jo_reggelt_magyarorszag_interju",
+        "h1": "Orbán Viktor: 80 ezer forintos nyugdíjprémiumot kapnak az idősek",
+        "txtlength": 18833
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210930_transparency_karacsony_lanchid",
+        "h1": "Közbeszerzési tanácsadó híján vizsgálhatta a Lánchíd-tendert a Transparency International",
+        "txtlength": 18563
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vilag/20210930/ertelmetlen-veszelyes-de-marad-az-amerikai-adossagplafon/",
+        "h1": "Értelmetlen, veszélyes, de marad az amerikai adósságplafon",
+        "txtlength": 18184
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/vasarlas/20211001/boduletes-kincset-rejtenek-a-magyar-erdok-horroraron-merik-kilojat-ezeket-barki-szedheti-1118216",
+        "h1": "Bődületes kincset rejtenek a magyar erdők: horroráron mérik kilóját, ezeket bárki szedheti",
+        "txtlength": 16210
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/szepseg/voros-ruzs-tortenet/",
+        "h1": "A vörös rúzs különös története, amit kevesen ismernek: nem csak a vonzereje miatt használták",
+        "txtlength": 12979
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2021/10/01/a-szekletbol-es-a-vizeletbol-diagnosztizalja-a-betegseget-az-anuszfelismero-okosvece",
+        "h1": "A SZÉKLETBŐL ÉS A VIZELETBŐL DIAGNOSZTIZÁLJA A BETEGSÉGET AZ ÁNUSZFELISMERŐ OKOSVÉCÉ",
+        "txtlength": 12265
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/szuloseg/erzelmi-neveles/",
+        "h1": "Érzelmi nevelés",
+        "txtlength": 10034
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2021/10/01/elovalasztas-2021-dobrev-klara-karacsony-gergely-marki-zay-peter-elovalasztas-eredmenyek/",
+        "h1": "A DK-k átütő sikere, a Márki-Zay-faktor, ami Karácsonyt jelöltségig segítheti és az előválasztók igazsága",
+        "txtlength": 21903
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/tech/2021/10/01/itbn-konferencia-kiberbiztonsag-kiberbunozok-hekkerek-jarvany-korhazak-zsarolovirus-vakcinak-tamadasok",
+        "h1": "Magyar kutatókat is támadtak a vakcinákra utazó hekkerek",
+        "txtlength": 19501
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/pszichologiamagazin/20210930_A_filmeket_nagyon_is_lehet_terapias_eszkozkent_hasznalni",
+        "h1": "A filmeket nagyon is lehet terápiás eszközként használni",
+        "txtlength": 14235
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/10/01/a-vegeredmeny-ismereteben",
+        "h1": "A végeredmény ismeretében",
+        "txtlength": 13043
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/belfold/2021/09/30/karacsony-marki-zay-fekete-gyor",
+        "h1": "Tárgyalnak a visszalépésekről, de előtte még jól odaszúrt egymásnak Karácsony és Márki-Zay",
+        "txtlength": 13036
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://rangado.24.hu/magyar_foci/2021/09/30/europa-liga-ferencvaros-betis/",
+        "h1": "Öngól pecsételte meg a Fradi sorsát az Európa Ligában",
+        "txtlength": 11879
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20211001_Meglepo_fordulatokat_hozott_az_elovalasztas__itt_vannak_a_legfontosabb_eredmenyek",
+        "h1": "Meglepő fordulatokat hozott az előválasztás – itt vannak a legfontosabb eredmények",
+        "txtlength": 11671
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2021/10/01/dobrev-klara-marki-zay-karacsony-elovalasztas-eredmenyek-video/",
+        "h1": "Dobrev, Karácsony, Márki-Zay – így ünnepeltek az első forduló dobogósai",
+        "txtlength": 11222
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/belfold/2021/09/30/dobrev-klara-dk-sajtotajekoztato",
+        "h1": "Dobrev: Nem lesz tárgyalás a visszalépésekről",
+        "txtlength": 10667
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/09/30/biden-es-putyin-intenziv-es-erdemi-megbeszelesen-vannak-tul-a-fegyverzetellenorzest-illetoen",
+        "h1": "Biden és Putyin „intenzív és érdemi” megbeszélést folytattak a fegyverzet-ellenőrzésről",
+        "txtlength": 10358
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/szja-reszletek-kormanyrendelet-visszaterites/ped0zzf?sl_ps=d_11",
+        "h1": "Kijött a rendelet a családosok szja-visszatérítésétől: itt vannak a részletek",
+        "txtlength": 9847
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/tudomany/20211001_beethoven_x_szimfoniaja_bemutato_mesterseges_intelligencia_deutsche_telekom",
+        "h1": "193 év után a mesterséges intelligencia befejezte Beethoven félbehagyott, X. szimfóniáját",
+        "txtlength": 9692
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/politika/orban-viktor-bejelentes-kossuth-radio/lb0vyfg?sl_ps=d_2",
+        "h1": "Orbán Viktor bejelentései: megvan, pontosan meddig fizetik ki az szja-visszatérítést – Ennyi lesz a nyugdíjprémium",
+        "txtlength": 9376
+    },
+    {
+        "hostname": "mindmegette.hu",
         "pagelink": "https://www.mindmegette.hu/puncskremes-szilvas-kocka.recept",
         "h1": "PUNCSKRÉMES-SZILVÁS KOCKA",
         "txtlength": 10611
