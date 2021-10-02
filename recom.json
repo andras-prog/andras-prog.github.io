@@ -1,6 +1,186 @@
 [
     {
         "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/rakoczi-turos-konnyen.recept",
+        "h1": "RÁKÓCZI TÚRÓS",
+        "txtlength": 10813
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/mini-sos-kalacsok.recept",
+        "h1": "SÓS MINI KALÁCSOK",
+        "txtlength": 10790
+    },
+    {
+        "hostname": "hataratkelo.blog.hu",
+        "pagelink": "https://hataratkelo.blog.hu/2021/09/13/amerikabol_magyarorszagra_egy_nyar_tortenete",
+        "h1": "Amerikából Magyarországra – egy nyár története",
+        "txtlength": 57660
+    },
+    {
+        "hostname": "kulturpart.hu",
+        "pagelink": "https://kulturpart.blog.hu/2021/10/01/kesz_becs_kendozetlenul_az_onlyfans-en",
+        "h1": "MENEKÜLNEK A MEZTELEN SZÉPSÉGEK",
+        "txtlength": 4797
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/befektetes/20211001/hatarozott-emelkedessel-kezdtek-az-uj-negyedevet-az-amerikai-tozsdek-503198",
+        "h1": "Határozott emelkedéssel kezdték az új negyedévet az amerikai tőzsdék ",
+        "txtlength": 24050
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210930_fd#comments",
+        "h1": "A kommunisták kíméletlenül használták az antiszemita érzelmeket – Pelle János a Mandinernek",
+        "txtlength": 20627
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/otthon/20210929/ez-az-igazi-rezsicsokkentes-meg-nem-keso-belevagni-siman-nullazni-lehet-a-futesszamlat-1118127",
+        "h1": "Ez az igazi rezsicsökkentés: még nem késő belevágni, simán nullázni lehet a fűtésszámlát",
+        "txtlength": 20406
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/egeszseg/20210929/rengeteg-dolgozo-mondhat-le-fizetese-egy-reszerol-a-negyedik-hullamban-nem-kis-osszegrol-lehet-szo-1118130",
+        "h1": "Rengeteg dolgozó mondhat le fizetése egy részéről a negyedik hullámban: nem kis összegről lehet szó",
+        "txtlength": 19221
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vilag/20210930/anglia-utan-egyszer-idehaza-is-elofordulhat-hogy-nem-lesz-aki-elvigye-a-benzint-a-kutakra/",
+        "h1": "Anglia után egyszer idehaza is előfordulhat, hogy nem lesz, aki elvigye a benzint a kutakra",
+        "txtlength": 18681
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210922_fovarosi_elszamoltatasok_vizsgalobizottsag",
+        "h1": "A fővárosban és a kerületekben sem tartanak sehol az elszámoltatások",
+        "txtlength": 18432
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/podcast/20211002/demokracia-e-magyarorszag-a-kormanypartiak-szerint-egyre-inkabb-az-ellenzekiek-szerint-egyre-kevesbe/",
+        "h1": "Demokrácia-e Magyarország? A kormánypártiak szerint egyre inkább, az ellenzékiek szerint egyre kevésbé",
+        "txtlength": 18392
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210930_facebook_cenzura_kozossegi_media_alapjogokert_kozpont_parkanyi_eszter_eu",
+        "h1": "„Trumpot letiltják, de a tálibok szóvivője szabadon posztolgathat?” – Párkányi Eszter a Mandinernek",
+        "txtlength": 17970
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/global/20211002/surget-az-ido-ket-ideologia-feszult-egymasnak-hogy-vegul-dontsenek-nemetorszag-jovojerol-503334",
+        "h1": "Sürget az idő: két ideológia feszült egymásnak, hogy végül döntsenek Németország jövőjéről",
+        "txtlength": 17092
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2021/10/02/az-orom-masineriai-valoban-az-emberiseg-bukasahoz-vezet-az-ember-hedonizmusa",
+        "h1": "AZ ÖRÖM MASINÉRIÁI: VALÓBAN AZ EMBERISÉG BUKÁSÁHOZ VEZET AZ EMBER HEDONIZMUSA?",
+        "txtlength": 16849
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20211001/elszallo-energiaarak-paks-matrai-eromu-es-klimavaltozas-megszolaltak-a-hazai-energetika-nagyagyui-a-portfolio-konferenciajan-503270",
+        "h1": "Elszálló energiaárak, Paks, Mátrai Erőmű és klímaváltozás - Megszólaltak a hazai energetika nagyágyúi a Portfolio konferenciáján",
+        "txtlength": 16628
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/kapcsolat/nehez-kerdesek-allasinterjun/",
+        "h1": "A legnehezebb kérdések egy állásinterjún, és a jó válaszok: a HR-es árulta el, hogy felelj rájuk",
+        "txtlength": 10806
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/szuloseg/terhesseg-orvos-korhaz-tunet/",
+        "h1": "terhesség orvos kórház tünet",
+        "txtlength": 9317
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/belfold/2021/10/01/az-ellenzeki-elovalasztas-10-fontos-tanulsaga",
+        "h1": "Az ellenzéki előválasztás 10 fontos tanulsága",
+        "txtlength": 20359
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/szorakozas/2021/10/02/kis-fatra-szakadekvolgybe-le-gerincturara-fel",
+        "h1": "Kis-Fátra: szakadékvölgybe le, gerinctúrára fel",
+        "txtlength": 17809
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/belfold/2021/10/02/boldog-1-szuletesnapot-telex",
+        "h1": "Boldog 1. születésnapot, Telex!",
+        "txtlength": 17279
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/tudomany/2021/10/02/honfoglalas-kalandozas-gyozelem-brenta-berengar/",
+        "h1": "Ez volt a magyarok egyik legnagyobb győzelme",
+        "txtlength": 14390
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/politika/orban-viktor-interju-migracio-europai-unio/wz3whv7?sl_ps=d_2",
+        "h1": "Orbán Viktor: Ha a németek úgy kívánják, Magyarország folyosót nyit az afgán migránsoknak",
+        "txtlength": 14376
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kulfold/2021/10/02/egyertelmu-tuszcsere-kereteben-szabadult-kinai-fogsagabol-a-kanadai-magyar-michael-kovrig/",
+        "h1": "„Egyértelmű túszcsere” keretében szabadult kínai fogságából a kanadai-magyar Michael Kovrig",
+        "txtlength": 13791
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/garamvolgyi-laszlo-orfk-rendorseg-szovivo-interju-iro-regeny-harmincadik/t5b5dml",
+        "h1": "Az Országos Rendőr-főkapitányság első szóvivője tartja a rekordot: 320 percet volt képernyőn egy nap alatt a móri mészárlás idején",
+        "txtlength": 12697
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/cegauto/20211002_x_nelkul_uj_opel_arccal_kiprobaltuk_a_300_loeros_hibrid_grandlandet",
+        "h1": "X nélkül, új Opel arccal: kipróbáltuk a 300 lóerős hibrid Grandlandet",
+        "txtlength": 12192
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kulfold/2021/10/02/az-evergrande-90-ezer-milliard-forintnyi-hitelallomanyaval-pukkant-egyet-a-kinai-ingatlanbuborek/",
+        "h1": "Az Evergrande 90 ezer milliárd forintnyi hitelállományával pukkant egyet a kínai ingatlanbuborék",
+        "txtlength": 12008
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/kultura/20211001_james_bond_007_nincs_ido_meghalni_kritika_no_time_to_die_daniel_craig_lea_seydoux",
+        "h1": "Felnőtt, kemény férfiakat is meg fog ríkatni az új James Bond-film",
+        "txtlength": 11445
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/10/02/a-tamadasok-tuleloinek-vallomasaival-folytatodik-a-parizsi-terroristaper",
+        "h1": "A támadások túlélőinek vallomásaival folytatódik a párizsi terroristaper",
+        "txtlength": 10860
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/sport/20210930_Ferencvaros_Real_Betis",
+        "h1": "3-1-re kikapott a Ferencváros a Betistől az Európa Ligában",
+        "txtlength": 10779
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/10/02/maganjetet-berelne-van-egy-rossz-hirem",
+        "h1": "Magánjetet bérelne? Van egy rossz hírem",
+        "txtlength": 10141
+    },
+    {
+        "hostname": "mindmegette.hu",
         "pagelink": "https://www.mindmegette.hu/hajtogatott-sajtos-kockak.recept",
         "h1": "HAJTOGATOTT SAJTOS KOCKÁK",
         "txtlength": 10862
