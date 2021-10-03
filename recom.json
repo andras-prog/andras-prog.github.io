@@ -1,6 +1,186 @@
 [
     {
         "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/tepertos-pogacsa-tejfollel.recept",
+        "h1": "TEPERTŐS POGÁCSA",
+        "txtlength": 10798
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/sajtkremes-rolo.recept",
+        "h1": "SAJTKRÉMES ROLÓ",
+        "txtlength": 10786
+    },
+    {
+        "hostname": "hataratkelo.blog.hu",
+        "pagelink": "https://hataratkelo.blog.hu/2021/09/28/kutyavilag_nagy-britanniaban#c40948764",
+        "h1": "Kutyavilág Nagy-Britanniában",
+        "txtlength": 46477
+    },
+    {
+        "hostname": "kulturpart.hu",
+        "pagelink": "https://kulturpart.blog.hu/2021/10/03/az_ugynok_titkai_james_bond_het_elete",
+        "h1": "AZ ÜGYNÖK TITKAI: JAMES BOND HÉT ÉLETE",
+        "txtlength": 15496
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210929_pecel_polgarmester_baloldal_kisajatitas_hatar_ut",
+        "h1": "Zűrzavar Pécelen, tucatnyi családot érhet milliós kár",
+        "txtlength": 32742
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/ingatlan/20211002/igy-teritenek-be-az-oroszok-berlakasokkal-az-orszagot-durvan-keresztbe-tehetnek-a-fekete-lakaskiadasnak-502922",
+        "h1": "Így terítenék be az oroszok bérlakásokkal az országot - Durván keresztbe tehetnek a fekete lakáskiadásnak",
+        "txtlength": 23054
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/befektetes/20211002/van-eselye-a-kinai-elektromos-autogyartoknak-az-europai-piacon-503006",
+        "h1": "Van esélye a kínai elektromos autógyártóknak az európai piacon?",
+        "txtlength": 22775
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2021/10/03/kokorszaki-megis-meregdraga-vacakokkal-szurjak-ki-az-eliteltek-szemet-az-amerikai-bortonokben",
+        "h1": "KŐKORSZAKI, MÉGIS MÉREGDRÁGA VACAKOKKAL SZÚRJÁK KI AZ ELÍTÉLTEK SZEMÉT AZ AMERIKAI BÖRTÖNÖKBEN",
+        "txtlength": 21741
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20211002_hunok_magyarok_obrusanszky_borbala",
+        "h1": "Fény derülhet a hunok és magyarok rokoni viszonyaira – Obrusánszky Borbála a Mandinernek",
+        "txtlength": 21718
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20211003_nincs_valtozas_karacsony_lehet_a_kozos_jelolt_gyurcsanye_a_befolyas",
+        "h1": "Nincs változás: Karácsony lehet a közös jelölt, Gyurcsányé a befolyás",
+        "txtlength": 21566
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vilag/20211002/a-katonai-hoditas-nem-tunik-el-a-vilagbol-csak-atalakul/",
+        "h1": "A katonai hódítás nem tűnik el a világból, csak átalakul",
+        "txtlength": 19141
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/kozelet/20211003/az-ingyen-penz-ara-a-korrupcio/",
+        "h1": "Az ingyen pénz ára a korrupció",
+        "txtlength": 19001
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/hitel/20210930/ilyen-meg-sosem-volt-a-hazai-bankokban-ozonlenek-a-csaladi-ingyenhitelek-melyiket-valasszam-1118166",
+        "h1": "Ilyen még sosem volt a hazai bankokban: özönlenek a családi ingyenhitelek - melyiket válasszam?",
+        "txtlength": 18620
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/karrier/20211002/ezek-a-nok-pesten-duplaannyit-keresnek-mint-videken-tomegeket-keresnek-vegzettseg-sem-kell-1118229",
+        "h1": "Ezek a nők Pesten duplaannyit keresnek, mint vidéken: tömegeket keresnek, végzettség sem kell",
+        "txtlength": 18541
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/bank/20211003/hogyan-arazzak-a-bankok-a-szamlacsomagokat-es-a-bankkartyakat-503106",
+        "h1": "Hogyan árazzák a bankok a számlacsomagokat és a bankkártyákat?",
+        "txtlength": 17122
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/szuloseg/gyerek-unatkozik-a-suliban/",
+        "h1": "Folyton unatkozik a suliban? Mélyebb probléma jele is lehet!",
+        "txtlength": 11304
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/kapcsolat/kinai-noi-kaloz-ching-shih/",
+        "h1": "Prostituáltból lett Kína legnagyobb női kalózvezére: Ching Shih legénységét halállal büntette nemi erőszakért",
+        "txtlength": 10413
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kultura/2021/10/03/vancsa-istvan-eloetel-csulok-heviz-matine/",
+        "h1": "Váncsa István álnéven nyolcvandekás füstölt csülköt evett, s ivott rá egy üveg bort",
+        "txtlength": 20636
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2021/10/02/kulturhazak-muvhazak-szocializmus-kozossegi-terek-heti-fortepan/",
+        "h1": "Művházmustra – tévéklub, néptánc, bűvöskockaverseny, de URH-koncert is volt a kultúrotthonokban",
+        "txtlength": 18531
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/szorakozas/2021/10/02/seinfeld-netflix-sorozat-vigjatek-larry-david",
+        "h1": "Végre az egész világon lehet majd látni az egyik legjobb sorozatot, és te azt sem tudod, mi az",
+        "txtlength": 16376
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/tech/2021/10/03/iphone-13-iphone-13-pro-max-teszt-apple",
+        "h1": "Aki régóta váltana, szeretni fogja az új iPhone-t, de aki tavaly már vett 12-est, annak nem tartogat sok újdonságot",
+        "txtlength": 16344
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/zhvg/20211003_genuinfluencer_fenntarthatsg",
+        "h1": "Már csak azok az influenszerek érnek bármit, akik nem akarnak eladni semmit?",
+        "txtlength": 15219
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kultura/2021/10/02/jelenetek-egy-hazassagbol-kritika-sorozat-jessica-chastain-oscar-isaac-hagai-levi-ingmar-bergman-hbo/",
+        "h1": "Nő és férfi viszonya változhat, de még mindig ugyanazok az erők őrlik fel a párkapcsolatokat",
+        "txtlength": 14994
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20211002_Regebben_is_fenyegetozott_Posta_Imre_akkor_megsem_leptek_fel_ellene",
+        "h1": "\"Hullazsákba velük!\" - régebben is fenyegetőzött Posta Imre, akkor mégsem léptek fel ellene",
+        "txtlength": 14685
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/eszkombajn/2021/10/02/szovjet-vadaszgep-lezuhanas-andornaktalya-vizsgalat-karosultak",
+        "h1": "A szovjet vadászgép, amely magyar házakra zuhant, de alig került be a hírekbe",
+        "txtlength": 13933
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/10/02/elfogtak-egy-kokainra-szakosodott-pest-megyei-droghalozat-ot-tagjat",
+        "h1": "Elfogták egy kokainra szakosodott Pest megyei droghálózat öt tagját",
+        "txtlength": 12036
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/tudomany/20211003_steve_jobs_elhunyt_apple",
+        "h1": "Tíz éve halt meg Steve Jobs, az Apple legendás alapítója és elnöke",
+        "txtlength": 11991
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/10/02/szovetseg-neven-egyseges-felvideki-magyar-part-alakult",
+        "h1": "Szövetség néven egységes felvidéki magyar párt alakult",
+        "txtlength": 11321
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/krimi/drog-banda-rendorok-elfogas/tp63f2g",
+        "h1": "Úgy csapták szét a kokainbandát a rendőrök Budapesten, hogy a földre vitt bűnözők azt se tudták, hol vannak – videók, fotók",
+        "txtlength": 9934
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/veseatultetes-doktorno-donor-csalad-feleseg-tatabanya-molnar-eniko-transzplantacio/7y787nj?sl_ps=d_4",
+        "h1": "Vajon hol ér véget a szeretet? Ebben a tatabányai családban sehol: a veséjét adta a férjének egy doktornő",
+        "txtlength": 9697
+    },
+    {
+        "hostname": "mindmegette.hu",
         "pagelink": "https://www.mindmegette.hu/rakoczi-turos-konnyen.recept",
         "h1": "RÁKÓCZI TÚRÓS",
         "txtlength": 10813
