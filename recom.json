@@ -1,6 +1,186 @@
 [
     {
         "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/sunis-fatorzstorta.recept",
+        "h1": "SÜNIS FATÖRZSTORTA",
+        "txtlength": 11202
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/eszterhazy-torta.recept",
+        "h1": "ESZTERHÁZY-TORTA",
+        "txtlength": 10633
+    },
+    {
+        "hostname": "alapblog.hu",
+        "pagelink": "https://alapblog.hu/second-hand-forradalom/",
+        "h1": "Second hand forradalom",
+        "txtlength": 16055
+    },
+    {
+        "hostname": "kulturpart.hu",
+        "pagelink": "https://kulturpart.blog.hu/2021/10/02/szokatlan_hangzasok_az_elkoptatott_fogolapon",
+        "h1": "SZOKATLAN HANGZÁSOK AZ ELKOPTATOTT FOGÓLAPON",
+        "txtlength": 5017
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210929_stumpf_istvan_interju_ellenzek",
+        "h1": "Amit az ellenzék akar, alkotmányos puccs – Stumpf István a Mandinernek",
+        "txtlength": 25876
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210930_kelemen_hunor_erdely_rmdsz_csalad",
+        "h1": "Kelemen Hunor: Sokan fékeznek, de mi haladunk előre",
+        "txtlength": 25388
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/kozelet/20211004/sotet-adatok-erkeznek-a-magyar-ongyilkossagok-alakulasarol/",
+        "h1": "Sötét adatok érkeznek a magyar öngyilkosságok alakulásáról ",
+        "txtlength": 23433
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210929_nemetorszag_kulfold_korkep",
+        "h1": "Politikai földrengés Németországban – körkép választás után",
+        "txtlength": 19759
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/hitel/20210930/ezzel-sokan-nem-szamolnak-bankvaltaskor-komoly-koltsegeket-verhet-rajuk-a-bankjuk-1118168",
+        "h1": "Ezzel sokan nem számolnak bankváltáskor: komoly költségeket verhet rájuk a bankjuk",
+        "txtlength": 17529
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/befektetes/20211004/igy-tudhatod-meg-milyen-hatassal-van-a-vilagra-a-befektetesed-488886",
+        "h1": "Így tudhatod meg, milyen hatással van a világra a befektetésed",
+        "txtlength": 16856
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/vasarlas/20211001/ujabb-boltlanc-terjeszkedik-magyarorszagon-felkotheti-a-gatyat-a-kiflihu-wolt-foodpanda-1118192",
+        "h1": "Újabb boltlánc terjeszkedik Magyarországon: felkötheti a gatyát a Kifli.hu, Wolt, Foodpanda",
+        "txtlength": 16721
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/elet/20211001/hetfo-deltol-kezdve-szorithatunk-kariko-katalin-nobel-dijaert/",
+        "h1": "Hétfő déltől kezdve szoríthatunk Karikó Katalin Nobel-díjáért",
+        "txtlength": 16336
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2021/10/04/most-dobbennek-ra-az-iskolakban-mi-mindent-nem-tanultak-meg-a-gyerekek-az-online-oktatasban",
+        "h1": "MOST DÖBBENNEK RÁ AZ ISKOLÁKBAN, MI MINDENT NEM TANULTAK MEG A GYEREKEK AZ ONLINE OKTATÁSBAN",
+        "txtlength": 14555
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/bank/20211004/megerkeztek-a-szuperolcso-zold-lakashitelek-2-alatti-kamatot-is-talaltunk-503488",
+        "h1": "Megérkeztek a szuperolcsó zöld lakáshitelek, 2% alatti kamatot is találtunk",
+        "txtlength": 13327
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20211004/komoly-figyelmeztetest-kapott-az-mnb-csak-ovatosan-a-lassitassal-503282",
+        "h1": "Komoly figyelmeztetést kapott az MNB: csak óvatosan a lassítással!",
+        "txtlength": 13087
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/gyerek/mondatok-amiket-ne-mondj-egy-kismamanak/",
+        "h1": "5 mondat, amivel egy kismamát ki lehet kergetni a világból - Most aludj, amíg megteheted, és a többi",
+        "txtlength": 13021
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/szuloseg/csufoljak-a-gyereket-szemoldok/",
+        "h1": "csúfolják a gyereket szemöldök",
+        "txtlength": 8752
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2021/10/04/csak-janos-kina-huxit-oroszorszag-usa-orban-nagyinterju/",
+        "h1": "Csák János: Magyarországon nincs az a nádtető-gyújtogatós politikai erő, mely képes lenne többséget teremteni az uniós kilépéshez",
+        "txtlength": 33231
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/koronavirus/2021/10/04/covid-szputnyik-v-orosz-vakcina-europai-unio-ema-engedelyezes-utazas-igazolvany-who-janssen-oltas-vektorvakcina-adenovirus-harmadik-oltas",
+        "h1": "Miért késik a Szputnyik uniós engedélyezése, mi lesz a magyar szputnyikosokkal?",
+        "txtlength": 26584
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/direkt36/2021/10/03/rogan-antal-es-meszaros-lorinc-bizalmasainak-titkos-kulfoldi-uzleteire-is-feny-derul-a-legujabb-offshore-kiszivargasaban",
+        "h1": "Rogán Antal és Mészáros Lőrinc bizalmasainak titkos külföldi üzleteire is fény derül a legújabb offshore-kiszivárgásban",
+        "txtlength": 19016
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2021/10/03/kozmuarmageddon-balaton-tulepites-aram-viz-gaz-szemet-uthalozat/",
+        "h1": "Közműarmageddon nem fenyeget, de a Balaton túlépítése sok bajt okozhat",
+        "txtlength": 17348
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/tudomany/2021/10/03/kariko-katalin-nobel-eselyek-tudomany",
+        "h1": "MTA-elnök: Karikó Katalin Nobel-díja reflektorfénybe állítaná a magyar tudós elme kreativitását",
+        "txtlength": 16082
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kultura/2021/10/03/nok-james-bond-phoebe-waller-bridge-nincs-ido-meghalni/",
+        "h1": "Nélkülük James Bond egy majommal harcolna: nők, akik formálták a 007-est",
+        "txtlength": 14592
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/gazdasag/20211004_fidesz_2010_kormanyprogram_ner12",
+        "h1": "Átolvastuk a Fidesz 2010-es választási programját, megnéztük, mi maradt belőle",
+        "txtlength": 14044
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/kkv/20211003_Neha_magunk_is_meglepodunk_melyik_Legoszettbol_lesz_siker",
+        "h1": "\"Néha magunk is meglepődünk, melyik Lego-szettből lesz nagy siker\"",
+        "txtlength": 11571
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/tudomany/20211004_kemenesi_gabor_vakcina_biztonsagos_oltas_koronavirus",
+        "h1": "Kemenesi Gábor: Tudományos tény, hogy a vakcinák biztonságosak, majdnem 20 év munkája áll mögöttük",
+        "txtlength": 11351
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/10/03/meghalt-bernard-tapie-az-egyik-legismertebb-es-legszorakoztatobb-francia",
+        "h1": "Meghalt Bernard Tapie, az egyik legismertebb és legszórakoztatóbb francia",
+        "txtlength": 11227
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/10/04/emily-ratajkowski-szerint-robin-thicke-szexualisan-zaklatta",
+        "h1": "Emily Ratajkowski szerint Robin Thicke szexuálisan zaklatta",
+        "txtlength": 10507
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/politika/pandora-iratok-offshore-vagyon-vilag-vezetoi/8pvh48z?sl_ps=d_2",
+        "h1": "Pandora-iratok: robbant a botrány a világ vezetőinek offshore vagyona miatt – Négy gazdag magyar neve is előkerült",
+        "txtlength": 10115
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/politika/gusztos-peter-parlament-konditerem-video/svllsxr?sl_ps=d_12",
+        "h1": "„Békésebb így, hogy nem vagyok a frontvonalban” – Gusztos Péter konditeremre cserélte a parlamentet – videó",
+        "txtlength": 9066
+    },
+    {
+        "hostname": "mindmegette.hu",
         "pagelink": "https://www.mindmegette.hu/tepertos-pogacsa-tejfollel.recept",
         "h1": "TEPERTŐS POGÁCSA",
         "txtlength": 10798
