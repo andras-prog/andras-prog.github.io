@@ -1,6 +1,192 @@
 [
     {
         "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/kinder-maxi-king-torta-2.recept",
+        "h1": "KINDER MAXI KING TORTA",
+        "txtlength": 11303
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/dios-marlenka-1.recept",
+        "h1": "DIÓS MARLENKA",
+        "txtlength": 10729
+    },
+    {
+        "hostname": "kiszamolo.hu",
+        "pagelink": "https://kiszamolo.hu/kamatemelesek-mi-valtozott-a-lakashitelek-piacan/",
+        "h1": "Kamatemelések: mi változott a lakáshitelek piacán?",
+        "txtlength": 42694
+    },
+    {
+        "hostname": "alapblog.hu",
+        "pagelink": "https://alapblog.hu/a-hatszaz-forintos-benzinar-sem-elkepzelhetetlen/",
+        "h1": "A 600 forintos benzinár sem elképzelhetetlen",
+        "txtlength": 13091
+    },
+    {
+        "hostname": "kulturpart.hu",
+        "pagelink": "https://kulturpart.hu/2021/10/02/szokatlan_hangzasok_az_elkoptatott_fogolapon",
+        "h1": "SZOKATLAN HANGZÁSOK AZ ELKOPTATOTT FOGÓLAPON",
+        "txtlength": 5016
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/global/20211005/europa-gazvalsagban-az-energiaarak-pedig-legazoljak-a-gazdasagot-503574",
+        "h1": "Európa gázválságban, az energiaárak pedig legázolják a gazdaságot",
+        "txtlength": 31020
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210930_karsai_daniel_alaptorveny_alkotmany_ellenzek_kormany",
+        "h1": "Alkotmányjogász: Csak forradalom esetén lehet szembemenni a hatályos joggal",
+        "txtlength": 27117
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20211004_lajtabansag",
+        "h1": "„Csak harcolni akarnak” – Így jött létre száz éve a Lajtabánság",
+        "txtlength": 24562
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/uzlet/20211005/fals-jelzeseket-kovet-a-fed-itt-a-deflacio-ami-inflal-503578",
+        "h1": "Fals jelzéseket követ a Fed - Itt a defláció, ami inflál",
+        "txtlength": 24127
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20210929_csehorszag_kulfold_valasztas",
+        "h1": "Prágai ősz – Csehország hamarosan választ",
+        "txtlength": 22682
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/kozelet/20211004/a-kormanynak-szembe-kellett-fordulnia-a-kulfoldi-eladosodast-ellenzo-dogmajaval-sajat-maga-miatt/",
+        "h1": "A kormánynak szembe kellett fordulnia a külföldi eladósodást ellenző dogmájával, saját maga miatt",
+        "txtlength": 20015
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/egeszseg/20211003/ennyiert-jut-kezeleshez-mutethez-soron-kivul-a-magyar-elit-nem-titok-itt-az-arlista-1118094",
+        "h1": "Ennyiért jut kezeléshez, műtéthez soron kívül a magyar elit: nem titok, itt az árlista",
+        "txtlength": 19162
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/uzlet/20211004/csunya-lefordulas-az-amerikai-tozsdeken-503478",
+        "h1": "Csúnya lefordulás az amerikai tőzsdéken ",
+        "txtlength": 18900
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2021/10/05/a-facebook-jol-tudja-milyen-karokat-okoz-a-tarsadalomban-de-a-profit-fontosabb",
+        "h1": "A FACEBOOK JÓL TUDJA, MILYEN KÁROKAT OKOZ A TÁRSADALOMBAN, DE A PROFIT FONTOSABB",
+        "txtlength": 17892
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/hitel/20211005/szazezreket-bukhat-az-aki-igy-kezdi-a-felujitast-rengetegen-futottak-bele-ebbe-a-csapdaba-1118215",
+        "h1": "Százezreket bukhat az, aki így kezdi a felújítást: rengetegen futottak bele ebbe a csapdába",
+        "txtlength": 16427
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vilag/20210930/mintha-kiszaradna-a-balaton-es-a-duna-van-ahova-mar-megerkezett-a-durva-klimavaltozas/",
+        "h1": "Mintha kiszáradna a Balaton és a Duna – van, ahová már megérkezett a durva klímaváltozás",
+        "txtlength": 14877
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/utazas/kolodko-miniszobrok-budapesten/",
+        "h1": "Hol találhatók Kolodko híres miniszobrai Budapesten? A Főkukactól a halott mókusig mutatjuk az összes helyszínt",
+        "txtlength": 14744
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/szuloseg/terhesen-fajdalomcsillapito-borotvalkozas/",
+        "h1": "terhesen fájdalomcsillapító borotválkozás",
+        "txtlength": 7797
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/gazdasag/20211004_A_Panamaiiratok_ujratoltve_sok_alszent_politikusnak_lehet_most_almatlan_ejszakaja",
+        "h1": "A Panama-iratok újratöltve: sok álszent politikusnak lehet most álmatlan éjszakája",
+        "txtlength": 16791
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/direkt36/2021/10/05/az-offshore-vilagban-is-hire-ment-hogy-magyarorszag-jo-hely-az-adozasi-manoverekre",
+        "h1": "Az offshore-világban is híre ment, hogy Magyarország jó hely az adózási manőverekre",
+        "txtlength": 16157
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20211004_Szinte_biztos_hogy_ezt_a_cikket_gyerekpornofogyasztok_is_olvasni_fogjak__interju",
+        "h1": "Szinte biztos, hogy ezt a cikket gyerekpornó-fogyasztók is olvasni fogják – interjú",
+        "txtlength": 14573
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/10/05/kariko-katalin-elmaradt-nobel-dija-vagyok",
+        "h1": "Karikó Katalin elmaradt Nobel-díja vagyok",
+        "txtlength": 13469
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kulfold/2021/10/04/tunezia-puccs-noi-miniszterelnok/",
+        "h1": "Politikai cselvetés lehet az első arab női miniszterelnök kinevezése",
+        "txtlength": 12551
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/fn/gazdasag/2021/10/05/nyugdijasok-felertekelodtek-2022-valasztasok-elott/",
+        "h1": "Öt és félszer annyi pluszpénzt kapnak a nyugdíjasok most, mint az előző választás előtt",
+        "txtlength": 12342
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/10/04/europai-bizottsag-a-nogyulolet-a-nok-elleni-uszitas-es-a-nok-elleni-online-eroszak-legyen-buncselekmeny-europa-szerte",
+        "h1": "Európai Bizottság: A nőgyűlölet, a nők elleni uszítás és a nők elleni online erőszak legyen bűncselekmény Európa-szerte!",
+        "txtlength": 12011
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2021/10/04/orban-rahel-spanolyorszag-dk-parlament/",
+        "h1": "Lopott vagyont menekítenek-e ki a Spanyolországba távozó Orbán Ráhelék? – Ezt kérdezték a kormánytól a Parlamentben",
+        "txtlength": 10275
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20211005_Megvan_az_elovalasztas_hivatalos_eredmenye",
+        "h1": "Nyilvános az előválasztás első fordulójának eredménye",
+        "txtlength": 9772
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/politika/orban-viktor-lazar-janos-kozos-kep-valasztas-kommentek/1c30bn5",
+        "h1": "„A következő miniszterelnökünk” – Mi van Orbán Viktor és Lázár János egyre több közös képe mögött?",
+        "txtlength": 9466
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/belfold/2021/10/04/karacsony-gergely-marki-zay-peter-hodmezovasarhely-elovalasztas",
+        "h1": "Együtt indulna az előválasztáson Karácsony Gergely és Márki-Zay Péter",
+        "txtlength": 9131
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/olaszorszag-gyerekgyilkossag-nagymama-gonosz-birosag/0q2lvc5",
+        "h1": "Megszólalt a kisfiát kivégző nő édesanyja: „Magát a gonoszt neveltem fel”",
+        "txtlength": 9005
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/tech/2021/10/04/facebook-gigaleallas-instagram-dns-szerver-bgp-protokoll-hiba",
+        "h1": "Facebook-összeomlás: kizárták magukat a teremből, ami csak belülről nyitható",
+        "txtlength": 8746
+    },
+    {
+        "hostname": "mindmegette.hu",
         "pagelink": "https://www.mindmegette.hu/sunis-fatorzstorta.recept",
         "h1": "SÜNIS FATÖRZSTORTA",
         "txtlength": 11202
