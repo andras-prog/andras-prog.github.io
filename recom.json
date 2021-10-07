@@ -1,6 +1,186 @@
 [
     {
         "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/mezes-kremes-glutenmentesen.recept",
+        "h1": "MÉZES KRÉMES GLUTÉNMENTESEN",
+        "txtlength": 11011
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/hernyokifli.recept",
+        "h1": "HERNYÓKIFLI",
+        "txtlength": 10575
+    },
+    {
+        "hostname": "hataratkelo.blog.hu",
+        "pagelink": "https://hataratkelo.blog.hu/2021/10/04/_ez_mar_olyan_megallo_ahol_hosszabb_tavra_gondolkodhatunk#c40957040",
+        "h1": "„Ez már olyan megálló, ahol hosszabb távra gondolkodhatunk”",
+        "txtlength": 24287
+    },
+    {
+        "hostname": "kulturpart.hu",
+        "pagelink": "https://kulturpart.blog.hu/2021/10/05/itt_vannak_a_legjobb_filmek_nemetul",
+        "h1": "ITT VANNAK A LEGJOBB FILMEK – NÉMETÜL",
+        "txtlength": 7689
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vallalat/20211007/a-boltokban-es-az-ettermekben-fogjuk-megfizetni-hogy-szazmilliardokat-buknak-a-rezsin-a-magyar-cegek/",
+        "h1": "A boltokban és az éttermekben fogjuk megfizetni, hogy százmilliárdokat buknak a rezsin a magyar cégek",
+        "txtlength": 21958
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/gazdasag/20211007/durva-ami-a-budapesti-bicikliboltokban-tortent-2021-ben-johet-a-fekete-leves-1118358",
+        "h1": "Durva, ami a budapesti bicikliboltokban történt: 2021-ben jöhet a fekete leves?",
+        "txtlength": 21907
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/kozelet/20211006/marki-zay-peter-sok-kiabrandult-fideszes-szavazo-tamogat-a-tobbi-jeloltnel-ilyet-nem-latok/",
+        "h1": "Márki-Zay Péter: Sok kiábrándult fideszes támogat, a többi jelöltnél ilyet nem látok",
+        "txtlength": 21633
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/hitel/20211004/egyre-inkabb-kerulik-a-magyarok-ezeket-az-olcso-lakaskolcsonoket-mit-tudhatnak-1118233",
+        "h1": "Egyre inkább kerülik a magyarok ezeket az olcsó lakáskölcsönöket: mit tudhatnak?",
+        "txtlength": 19862
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/befektetes/20211006/tenyleg-bo-40-milliard-forintnak-megfelelo-osszeget-kell-fizetnie-a-teslanak-egy-alkalmazottat-ert-rasszista-zaklatas-miatt-503772",
+        "h1": "Tényleg bő 40 milliárd forintnak megfelelő összeget kell fizetnie a Teslának egy alkalmazottat ért rasszista zaklatás miatt?",
+        "txtlength": 18412
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/global/20211006/magyar-kezbe-kerult-a-hires-katonai-repulogepgyar-nezzuk-milyen-gepek-keszulnek-az-uj-uzemben-503788",
+        "h1": "Magyar kézbe került a híres katonai repülőgépgyár – Nézzük, milyen gépek készülnek az új üzemben!",
+        "txtlength": 17435
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2021/10/06/hiaba-sok-gyerek-alma-hogy-csillagasz-legyen-a-magyar-kozoktatast-hidegen-hagyja-az-urkorszak",
+        "h1": "HIÁBA SOK GYEREK ÁLMA, HOGY CSILLAGÁSZ LEGYEN, A MAGYAR KÖZOKTATÁST HIDEGEN HAGYJA AZ ŰRKORSZAK",
+        "txtlength": 16703
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/bank/20211007/mirol-a-szol-a-bankokat-felforgato-trend-a-beagyazott-bankolas-503352",
+        "h1": "Miről a szól a bankokat felforgató trend, a beágyazott bankolás?",
+        "txtlength": 16633
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20211007_hatvannegy_milliard_forintbol_indulhatnak_egeszsegugyi_fejlesztesek_tizenhet_korhaz_is_megujulhat",
+        "h1": "Így fejlődött a magyar egészségügy az utóbbi évtizedben",
+        "txtlength": 16440
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20211004_valasztasi_csalasok_gyanuja_a_baloldali_elovalasztason",
+        "h1": "Csalások gyanúja a baloldali előválasztáson",
+        "txtlength": 14909
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20211007_semjen_zsolt_elovalasztas_benes_dekretumok_erosodo_oceania_es_makovecz_orokseg_itt_az_uj_mandiner",
+        "h1": "Semjén Zsolt, előválasztás, Beneš-dekrétumok, erősödő Óceánia és Makovecz-örökség – itt az új Mandiner!",
+        "txtlength": 14676
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/kapcsolat/kapcsolatrombolo-szokasok-pszichologus-szerint/",
+        "h1": "9 szokás, ami lassan, de biztosan szétrombolja a legmélyebb szerelmet is: a pszichológus mondta el, mire kell figyelni",
+        "txtlength": 12292
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/lajfhekk/oszi-teendok-a-kertben/",
+        "h1": "Őszi teendők a kertben",
+        "txtlength": 10149
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kultura/2021/10/07/andrej-koncsalovszkij-interju-kedves-elvtarsak-sztalin-szovjetunio-hruscsov/",
+        "h1": "Andrej Koncsalovszkij: Hruscsov nem volt olyan intelligens, mint Kádár",
+        "txtlength": 19739
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/gazdasag/2021/10/07/tombol-a-tokeletes-vihar-az-energiapiacon-hiaba-a-rezsiilluzio-itthon-is-nagy-a-baj-a-gazdasagban",
+        "h1": "Tökéletes vihar tombol az energiapiacon: hiába a rezsiillúzió, itthon is nagy a baj a gazdaságban",
+        "txtlength": 17130
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/10/07/tandembicikli-az-arokban",
+        "h1": "Tandembicikli az árokban",
+        "txtlength": 14597
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kulfold/2021/10/06/kina-tajvan-konfliktus-megszallas-haboru-elemzes/",
+        "h1": "Egyre fenyegetőbb a légi parádé Tajvannál, Kína mintha invázióra készülne",
+        "txtlength": 14564
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2021/10/07/maganegeszsegugy-mutetek-arak-varolista/",
+        "h1": "Csípőprotézis kétmillióért, mandulaműtét 300 ezerért – ennyit kell fizetni a magánegészségügyben, ha kikerülné a kórházi várólistát",
+        "txtlength": 13043
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/koronavirus/2021/10/06/koronavirus-fertozes-romania-szerbia-ausztria-teszt-lelegeztetogep-korhaz",
+        "h1": "A delta variáns veszélyességét mutatják a magyar adatok, miközben a szomszédos országokban beindult az újabb hullám",
+        "txtlength": 12963
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/sport/2021/10/06/rossi-lemondas-lebegtetes-keret-valtoztatasok",
+        "h1": "A magyar futballválogatott kapitánya már a kommentelőkkel foglalkozik, nekik üzen",
+        "txtlength": 12488
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/10/06/putyin-rekord-mennyisegu-gazt-es-olajat-szallithat-iden-europaba-oroszorszag",
+        "h1": "Putyin: Rekord mennyiségű gázt és olajat szállíthat idén Európába Oroszország",
+        "txtlength": 12468
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/pedagogus-sztrajkbizottsag-beremeles/f99qzmv?utm_source=related&utm_medium=www.blikk.hu&utm_campaign=widget-9446979",
+        "h1": "Összefognak a tanárok, sztrájkra készülnek: levelet küldtek Orbán Viktornak, azonnali béremelést kérnek",
+        "txtlength": 9735
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/krimi/zodiakus-gyilkos-rejtely-nyomozas/sb5dtq9",
+        "h1": "Fény derült a rejtélyre: 53 év után végre megfejtették, ki a Zodiákus gyilkos",
+        "txtlength": 9375
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/tudomany/20211005_facebook_szenatus_szivarogtatas_demokracia_gyerekek_instagram",
+        "h1": "A Facebook kárt tesz a gyerekekben és gyengíti a demokráciát – állítja a cég volt termékmenedzsere",
+        "txtlength": 8969
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/202140_kiralykicsinalok",
+        "h1": "Dobszay János: Királykicsinálók",
+        "txtlength": 8241
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/kkv/20211005_Elindult_a_legnagyobb_elo_hazai_allasborze__nezz_be_most",
+        "h1": "Ma estig tart a legnagyobb online állásbörze - nézz be, chatelj, pályázz most!",
+        "txtlength": 7709
+    },
+    {
+        "hostname": "mindmegette.hu",
         "pagelink": "https://www.mindmegette.hu/mennyei-mezeskalacs-pofonegyszeruen.recept",
         "h1": "MENNYEI MÉZESKALÁCS POFONEGYSZERŰEN",
         "txtlength": 10282
