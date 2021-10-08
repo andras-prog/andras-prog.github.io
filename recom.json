@@ -1,6 +1,192 @@
 [
     {
         "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/szepezdi-torta.recept",
+        "h1": "SZEPEZDI TORTA",
+        "txtlength": 11371
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/vegan-makos-kalacs.recept",
+        "h1": "VEGÁN MÁKOS KALÁCS",
+        "txtlength": 11109
+    },
+    {
+        "hostname": "kiszamolo.hu",
+        "pagelink": "https://kiszamolo.hu/ozvegyek-penzugyei/#more-116277",
+        "h1": "Özvegyek pénzügyei",
+        "txtlength": 34527
+    },
+    {
+        "hostname": "alapblog.hu",
+        "pagelink": "https://alapblog.hu/a-jozan-esz-es-a-tortenelem-azt-diktalja-hogy-keszuljunk-fel-tartos-inflaciora-es-a-tartos-stagnalasra/",
+        "h1": "A józan ész és a történelem azt diktálja, hogy készüljünk fel tartós inflációra és a tartós stagnálásra",
+        "txtlength": 11710
+    },
+    {
+        "hostname": "efesasanisimasa.com",
+        "pagelink": "https://efesasanisimasa.com/2021/10/06/a-bunos-den-skyldige-the-guilty-2018/",
+        "h1": "A bűnös (Den skyldige, 2018) / A bűnös (The Guilty, 2021)",
+        "txtlength": 10575
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/global/20211008/egyre-tobb-a-veszjoslo-figyelmeztetes-mar-a-2020-as-evekben-sor-kerulhet-a-kovetkezo-nagy-haborura-503992",
+        "h1": "Egyre több a vészjósló figyelmeztetés – Már a 2020-as években sor kerülhet a következő nagy háborúra",
+        "txtlength": 23090
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/otthon/20211005/horror-aron-mennek-a-tervgyari-hazak-50-80-millioert-is-elkelhet-egy-egy-kadar-kocka-1118278",
+        "h1": "Horror áron mennek a tervgyári házak: 50-80 millióért is elkelhet egy-egy Kádár-kocka",
+        "txtlength": 20988
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vallalat/20211008/tiz-eve-a-csod-szelen-allt-ma-mar-mindenki-ismeri-a-fertotlenitoket-gyarto-magyar-ceg-termekeit/",
+        "h1": "Tíz éve a csőd szélén állt, ma már mindenki ismeri a fertőtlenítőket gyártó magyar cég termékeit",
+        "txtlength": 20857
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://makronom.mandiner.hu/cikk/20211006_facebook_leallas_lefagy_internet_oroszorszag_orosz_runet_putyin",
+        "h1": "Tőlük aztán leállhat a Facebook vagy az internet is: az oroszok már létrehozták a saját nemzeti internetüket",
+        "txtlength": 20148
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/karrier/20211007/ezek-a-leginkabb-tulfizetett-szakmak-ma-magyarorszagon-a-millios-fizetes-sem-ritka-1118350",
+        "h1": "Ezek a leginkább túlfizetett szakmák ma Magyarországon: a milliós fizetés sem ritka",
+        "txtlength": 19742
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.penzcentrum.hu/gazdasag/20211008/kiszaradas-ellen-reakcio-a-koronavirusra-a-banki-hitelezesben-1118313",
+        "h1": "Kiszáradás ellen: reakció a koronavírusra a banki hitelezésben",
+        "txtlength": 19667
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/penz/20211007/nyugdijmegtakaritas-vagy-75-ezer-forintos-kata-melyik-eri-meg-jobban/",
+        "h1": "Nyugdíjmegtakarítás vagy 75 ezer forintos kata – melyik éri meg jobban?",
+        "txtlength": 19361
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2021/10/07/hogyan-jutott-odaig-oroszorszag-hogy-a-putyin-partjara-leadott-szavazatok-csaknem-fele-hamis",
+        "h1": "HOGYAN JUTOTT ODÁIG OROSZORSZÁG, HOGY A PUTYIN PÁRTJÁRA LEADOTT SZAVAZATOK CSAKNEM FELE HAMIS?",
+        "txtlength": 15110
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/global/20211007/elkepeszto-tervekkel-allt-elo-macron-ket-ocean-urava-tenne-franciaorszagot-504082",
+        "h1": "Elképesztő tervekkel állt elő Macron: két óceán urává tenné Franciaországot",
+        "txtlength": 14941
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20211006_perintfalvi_rita_konyve_mar_a_masodik_kiadasnal_tart",
+        "h1": "Perintfalvi Rita könyve már a második kiadásnál tart",
+        "txtlength": 14216
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20211101_aki_az_eletet_adta_az_uldozottekert_salkahazi_sara_tortenete",
+        "h1": "Aki az életét adta az üldözöttekért: Salkaházi Sára története",
+        "txtlength": 13474
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/egeszseg/rosthiany-jelei/",
+        "h1": "Elhízás, magas koleszterinszint: 6 jel, hogy kevés rostot fogyasztasz - Nem csak az emésztés romlik tőle",
+        "txtlength": 11484
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/lajfhekk/barlangban-eltevedni/",
+        "h1": "barlangban eltévedni",
+        "txtlength": 8618
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/belfold/2021/10/07/az-ellenzeki-elovalasztasi-harc-ot-megkozelitese-elemzes",
+        "h1": "Az ellenzéki előválasztási harc öt megközelítése",
+        "txtlength": 20888
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/gazdasag/2021/10/07/aki-keveset-keres-az-annyit-is-er-magyarorszag-egyre-arcpiritobb-fizetesekkel-alazza-meg-a-tanarait",
+        "h1": "Aki keveset keres, annyit is ér: Magyarország egyre arcpirítóbb fizetésekkel alázza meg a tanárait",
+        "txtlength": 16315
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kulfold/2021/10/07/usa-biden-koltsegvetes-klimavaltozas/",
+        "h1": "Egy rakás balos intézkedés lehet Biden öröksége, már ha el tudja fogadtatni őket",
+        "txtlength": 14729
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20211007_Jobbik_DK_paktum_elovalasztas",
+        "h1": "Hogy paktálhatott le ez a két párt, amely annyira megvetette egymást?",
+        "txtlength": 14681
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/10/08/a-kinaiak-meg-a-spajzban-vannak",
+        "h1": "A kínaiak még a spájzban vannak",
+        "txtlength": 13175
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/10/07/moszkva-es-peking-nemzetbiztonsagi-fenyegetesnek-tekinti-az-amerikai-katonai-biologiai-tevekenyseget",
+        "h1": "Moszkva és Peking nemzetbiztonsági fenyegetésnek tekinti az amerikai katonai biológiai tevékenységet",
+        "txtlength": 11979
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2021/10/07/club-aliga-fejlesztes-balatonvilagos-lakossagi-tajekoztato/",
+        "h1": "Bemutatták a Club Aliga fejlesztési terveit – a legfontosabb kérdésre nincs válasz",
+        "txtlength": 11817
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/belfold/2021/10/07/marki-zay-peter-momentum-tamogatasa-elovalasztas-masodik-fordulo",
+        "h1": "Megnéztük, miért fájhat Karácsony feje a Momentum döntésétől",
+        "txtlength": 11762
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2021/10/07/csalok-telefon-zsarolas-penz-unokak-deak-kristof/",
+        "h1": "A kapzsiság helyett a szeretetre alapoznak az unokázós csalók",
+        "txtlength": 10189
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/eger-polgarmester-mirkoczki-adam-blasko-balazs-covid-jarvany-szinhaz-kirugas-emmi/evqngdc",
+        "h1": "Eltitkolta a betegségét a Covid-fertőzött egri színész? Halottgyalázásért rúgnák ki az igazgatót – Ez áll a közleményében",
+        "txtlength": 10145
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/politika/orban-viktor-bejelentes-kossuth-radio/h98knly?sl_ps=d_4",
+        "h1": "Orbán Viktor bejelentései: béremelést kapnak az ápolók és sokan mások is",
+        "txtlength": 9455
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/gazdasag/20211008_minimalber_emeles_hitel_bank360",
+        "h1": "Mekkora előnyt jelenthet a minimálbér-emelés, ha hitelt akarunk felvenni?",
+        "txtlength": 9166
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20211008_Orban_Viktor_kossuth_interju",
+        "h1": "Orbán Viktor: Jövőre emelik az ápolók, szociális munkások bérét, tárgyalnak a 13. havi nyugdíjról",
+        "txtlength": 8980
+    },
+    {
+        "hostname": "mindmegette.hu",
         "pagelink": "https://www.mindmegette.hu/mezes-kremes-glutenmentesen.recept",
         "h1": "MÉZES KRÉMES GLUTÉNMENTESEN",
         "txtlength": 11011
