@@ -1,6 +1,186 @@
 [
     {
         "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/vegan-kakaos-kalacs.recept",
+        "h1": "VEGÁN KAKAÓS KALÁCS",
+        "txtlength": 10221
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/feketeerdo-torta-glutenmentesen.recept",
+        "h1": "FEKETEERDŐ TORTA GLUTÉNMENTESEN",
+        "txtlength": 10033
+    },
+    {
+        "hostname": "kiszamolo.hu",
+        "pagelink": "https://kiszamolo.hu/penzugyi-bantalmazas-egy-kapcsolatban/",
+        "h1": "Pénzügyi bántalmazás egy kapcsolatban",
+        "txtlength": 34458
+    },
+    {
+        "hostname": "alapblog.hu",
+        "pagelink": "https://alapblog.hu/pumpdump-a-kriptopiacon/",
+        "h1": "Pump&dump a kriptopiacon",
+        "txtlength": 7933
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/karrier/20211006/a-kozepszeruseg-elol-menekult-a-muveszetbe-ladik-katalin-mindent-feladott-bejott-neki-1118321",
+        "h1": "A középszerűség elől menekült a művészetbe Ladik Katalin: mindent feladott, bejött neki",
+        "txtlength": 40075
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20211009_sohrab_ahrami_interju",
+        "h1": "Brüsszel és Washington őrült meg, nem Budapest – Sohrab Ahmari a Mandinernek",
+        "txtlength": 22283
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/befektetes/20211008/esessel-bucsuztattak-a-hetet-az-amerikai-indexek-504238",
+        "h1": "Eséssel búcsúztatták a hetet az amerikai indexek ",
+        "txtlength": 20318
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20211008_facebook_haugen",
+        "h1": "Atom a Facebookra: így robbant a Haugen-ügy",
+        "txtlength": 18666
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/podcast/20211009/senki-nem-szamitott-ilyesmire-de-az-elmult-hetekben-az-energiakrizis-szelere-sodrodtunk/",
+        "h1": "Senki nem számított ilyesmire, de az elmúlt hetekben az energiakrízis szélére sodródtunk",
+        "txtlength": 18012
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vallalat/20211008/bejovok-reggel-delutan-hazamegyek-es-a-ketto-kozott-5-szazalekot-nottek-az-arak/",
+        "h1": "Bejövök reggel, délután hazamegyek és a kettő között 5 százalékot nőttek az árak",
+        "txtlength": 17398
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/auto/20211008/draga-es-hosszu-osz-var-a-magyar-autosokra-nincs-mese-ezert-is-fizetniuk-kell-1118344",
+        "h1": "Drága és hosszú ősz vár a magyar autósokra: nincs mese, ezért is fizetniük kell",
+        "txtlength": 16549
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20211008_fekete_gyor_andras_momentum_partelnok",
+        "h1": "„A sikereinket nem Andrissal, hanem Andris ellenére értük el!” – Leváltja Fekete-Győrt a Momentum?",
+        "txtlength": 16141
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20211008/kritikus-pontjahoz-ert-a-koronavirus-jarvany-magyarorszagon-504172",
+        "h1": "Kritikus pontjához ért a koronavírus-járvány Magyarországon",
+        "txtlength": 15294
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2021/10/08/mar-magyarorszagon-is-egyetemi-kepzesen-foglalkoznak-a-klimaszorongassal",
+        "h1": "MÁR MAGYARORSZÁGON IS EGYETEMI KÉPZÉSEN FOGLALKOZNAK A KLÍMASZORONGÁSSAL",
+        "txtlength": 13957
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20211008/breking-magyarorszag-is-csatlakozik-a-globalis-minimumadohoz-504364",
+        "h1": "Bréking! Magyarország is csatlakozik a globális minimumadóhoz",
+        "txtlength": 13618
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/gyerek/vekerdy-tamas-5-fontos-gondolat/",
+        "h1": "Aki az iskolában jó, egyáltalán nem biztos, hogy az életben is az lesz: 5 gondolat a két éve elhunyt Vekerdy Tamástól",
+        "txtlength": 13576
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/szuloseg/fiatal-a-rakhoz/",
+        "h1": "Túl fiatal a rákhoz? Az orvos tévedett, az anya belehalt",
+        "txtlength": 9182
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/belfold/2021/10/08/a-kozvelemeny-kutatok-bizonytalan-adatai-dontottek-el-az-elovalasztast",
+        "h1": "A közvélemény-kutatók bizonytalan adatai döntötték el a Karácsony–Márki-Zay-csatát?",
+        "txtlength": 22731
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kultura/2021/10/09/a-szakadar-kritika-dokumentumfilm-dzsamal-hasogdzsi-merenylet-szaud-arabia-bryan-fogel/",
+        "h1": "Kritizálta a királyi családot, az életével fizetett érte",
+        "txtlength": 19223
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/politika/karacsony-gergely-marki-zay-peter-miniszterelnok-jelolt-elovalasztas-bejelentes/g4zr2j9",
+        "h1": "Karácsony Gergely visszalépett",
+        "txtlength": 18749
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kulfold/2021/10/08/sebastian-kurz-ovp-korrupcio-ugyeszseg-kozvelemeny-kutatas-zoldek-ausztria-kormanyvalsag",
+        "h1": "„Mindig szolgálni foglak” – gyanús chatüzenetek miatt főhet a feje a csodagyerek osztrák kancellárnak",
+        "txtlength": 18474
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/belfold/2021/10/09/karacsony-visszalepes-tamogatas-partok-gyengul",
+        "h1": "Karácsony visszalépése kockázatos döntés volt, az egész szövetségi rendszert megingathatja",
+        "txtlength": 15966
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/tech/2021/10/08/xiaomi-11t-pro-okostelefon-teszt-120-watt-toltes/",
+        "h1": "Xiaomi 11T Pro teszt: elképesztő gyorstöltés, de milyen áron?",
+        "txtlength": 15959
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2021/10/09/szegeny-edesanyam-egesz-nap-csuklik-bkk-jegyellenorok-riport/",
+        "h1": "„Szegény édesanyám egész nap csuklik, de ki lehet bírni”",
+        "txtlength": 15165
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/fogaszati-turisztikai-kutato-kozpont-ures-valaszok/ebnqfwb",
+        "h1": "Megkérdeztük, miért teljesen üres az 1,2 milliárdos támogatással épült Fogászati Turisztikai Kutató Központ: olyan választ kaptunk, hogy fal adja a másikat",
+        "txtlength": 14738
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/10/08/csak-becslesei-vannak-arrol-a-kormanynak-hogy-megeri-e-35-evre-magankezbe-kiszervezni-a-gyorsforgalmi-uthalozat-uzemelteteset",
+        "h1": "Csak becslései vannak arról a kormánynak, hogy megéri-e 35 évre magánkézbe kiszervezni a gyorsforgalmi úthálózat üzemeltetését",
+        "txtlength": 12325
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/10/09/hetvegi-olvasnivalo-pandora-kinyilt-szelencejetol-marki-zay-csapdajaig",
+        "h1": "Hétvégi olvasnivaló Pandora kinyílt szelencéjétől Márki-Zay csapdájáig",
+        "txtlength": 12163
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/kultura/20211008_kis_hajni_kulon_falka_kritika_dietz_gusztav_magyar_film",
+        "h1": "Váratlanul megérkezett az év egyik legjobb filmje",
+        "txtlength": 11837
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20211008_Karacsony_Gergely_visszalepes",
+        "h1": "Karácsony bejelentette visszalépését: \"Ha nem teszem meg, Orbán Viktor győz\"",
+        "txtlength": 10434
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/tudomany/20211009_klimavaltozas_eocen_oligocen_atmenet_drake_atjaro_elte_karman_laboratorium",
+        "h1": "34 millió évvel ezelőtti klímaváltozást vittek a laborasztalra az ELTE kutatói",
+        "txtlength": 9106
+    },
+    {
+        "hostname": "mindmegette.hu",
         "pagelink": "https://www.mindmegette.hu/szepezdi-torta.recept",
         "h1": "SZEPEZDI TORTA",
         "txtlength": 11371
