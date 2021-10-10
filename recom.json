@@ -1,6 +1,186 @@
 [
     {
         "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/nehez-sos-teasutemeny-ahogy-gaspar-bea-kesziti.recept",
+        "h1": "NEHÉZ SÓS TEASÜTEMÉNY, AHOGY GÁSPÁR BEA KÉSZÍTI",
+        "txtlength": 10269
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/franciakremes-torta-glutenmentesen-1.recept",
+        "h1": "FRANCIAKRÉMES TORTA GLUTÉNMENTESEN",
+        "txtlength": 9536
+    },
+    {
+        "hostname": "kiszamolo.hu",
+        "pagelink": "https://kiszamolo.hu/az-evergrande-csodje/",
+        "h1": "Az Evergrande csődje",
+        "txtlength": 33964
+    },
+    {
+        "hostname": "alapblog.hu",
+        "pagelink": "https://alapblog.hu/a-tuzzel-jatszik-az-aki-most-amerikai-reszvenyeket-vasarol/",
+        "h1": "A tűzzel játszik az, aki most amerikai részvényeket vásárol",
+        "txtlength": 6896
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20211010_szmolenszk_tragedia",
+        "h1": "Szmolenszki tragédia: máig nem tudni, miért veszett oda a lengyel elit",
+        "txtlength": 25134
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.penzcentrum.hu/vasarlas/20211010/sosem-latott-felhalmozasi-hullam-indulhat-meg-melyen-a-zsebebe-nyulhat-aki-karacsonyig-kivar-1118427",
+        "h1": "Sosem látott felhalmozási hullám indulhat meg: mélyen a zsebébe nyúlhat, aki karácsonyig kivár",
+        "txtlength": 23142
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20211101_mindig_is_hirtelen_haragu_fiu_voltam_bayer_zsolt_a_mandinernek",
+        "h1": "Mindig is hirtelen haragú fiú voltam – Bayer Zsolt a Mandinernek",
+        "txtlength": 22307
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/uzlet/20211010/amikor-egy-gyerekkori-alom-teljesul-vilagbajnok-kombajnt-vezettunk-504426",
+        "h1": "Amikor egy gyerekkori álom teljesül - Világbajnok kombájnt vezettünk",
+        "txtlength": 21084
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20211006_dan_schneider_interju_csaladok_kozelet",
+        "h1": "Ha nem tudjuk megőrizni a családokat, a világ elveszett – Dan Schneider a Mandinernek",
+        "txtlength": 20557
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.penzcentrum.hu/megtakaritas/20211010/hazassagi-szerzodes-milyen-esetben-szukseges-egy-hazassagi-vagyonjogi-szerzodes-megkotese-1118383",
+        "h1": "Házassági szerződés: Milyen esetben szükséges egy házassági vagyonjogi szerződés megkötése?",
+        "txtlength": 19373
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/tech/20211009/borzasztoan-zavaro-ha-az-embert-egy-robot-bamulja-az-pedig-remiszto-ha-utasitja/",
+        "h1": "Borzasztóan zavaró, ha az embert egy robot bámulja, az pedig rémisztő, ha utasítja",
+        "txtlength": 17680
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/egeszseg/immunerosito-etel/",
+        "h1": "Túlsúllyal élőknek és időseknek is több kell belőle: a D-vitamin hiánya növelheti a vérnyomást is",
+        "txtlength": 15802
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vilag/20211006/az-oroszok-megadtak-a-kegyelemdofest-teljes-a-kaosz-a-gazpiacon/",
+        "h1": "Az oroszok megadták a kegyelemdöfést: teljes a káosz a gázpiacon",
+        "txtlength": 15522
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/karrier/20211009/ezek-a-nok-pesten-joval-tobbet-keresnek-mint-videken-oriasi-rajuk-az-igeny-vegzettseg-sem-kell-1118432",
+        "h1": "Ezek a nők Pesten jóval többet keresnek, mint vidéken: óriási rájuk az igény, végzettség sem kell",
+        "txtlength": 14901
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/hitel/20211005/itt-az-osszes-magyar-bank-ajanlata-igy-lehet-igenyelni-a-szuperolcso-uj-kolcsont-1118297",
+        "h1": "Itt az összes magyar bank ajánlata: így lehet igényelni a szuperolcsó új kölcsönt",
+        "txtlength": 14467
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2021/10/09/van-e-a-novenyeknek-lelkuk",
+        "h1": "VAN-E A NÖVÉNYEKNEK LELKÜK?",
+        "txtlength": 13663
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/lajfhekk/melyik-tok-eheto-disztok-etkezesi-tok/",
+        "h1": "Melyik tök ehető",
+        "txtlength": 8359
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/tech/2021/10/10/fifa-22-jatekteszt-teszt-ultimate-team-ferencvarosi-tc-videojatek/",
+        "h1": "Már azért is jutalmaz a FIFA 22, ha nem akarsz játszani vele",
+        "txtlength": 19190
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/elet/20211009_vadaszati_vilagkiallitas_beszamolo_egy_a_termeszettel_riport",
+        "h1": "Kettéfűrészelt vadak hátán a Csodaszarvas nyomában: a Vadászati Világkiállítás bódító élmény",
+        "txtlength": 18199
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/sport/2021/10/10/barta-laszlo-ultrafuto-megarace/",
+        "h1": "„Amikor az ember lefut 100–200 kilométert, az olyan, mintha színházba menne”",
+        "txtlength": 17831
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kultura/2021/10/09/mika-tivadar-mulato-kert-szalloda-hotel-epites-szmetana-kristof-georgette-avruch/",
+        "h1": "Mulató helyére épülő szálloda rombolhatja majd a Kazinczy utca képét",
+        "txtlength": 16737
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/gazdasag/20211009_newcastle_uj_tulajdonosok",
+        "h1": "Egy diktatúra vásárolta be magát a Premier League-be",
+        "txtlength": 14713
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/sport/2021/10/10/ot-leutessel-oriasi-fordulatokkal-zarult-le-a-boksztortenelem-legnagyobb-nehezsulyu-trilogiaja",
+        "h1": "Öt leütéssel, óriási fordulatokkal zárult le a boksztörténelem legnagyobb nehézsúlyú trilógiája",
+        "txtlength": 13295
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20211010_Film_keszult_a_2006os_rendori_tulkapasok_aldozatairol",
+        "h1": "2006-ban a társadalmat és a rendőrséget is magára hagyták - kritika az Erőnek erejével című filmről",
+        "txtlength": 13091
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/belfold/2021/10/09/marki-zay-peter-beszolasok-besztof-elovalasztas",
+        "h1": "A börtönbe zárandó fideszesektől a meleg fideszesekig – Márki-Zay Péter, a két lábon járó idézetgyűjtemény",
+        "txtlength": 11869
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/velencei-to-kiszaradas-helyiek/dkrtyse",
+        "h1": "Elkeseredetten nézik végig a Velencei-tó haláltusáját a helyiek: ez már a vég, de miért nem segít senki?",
+        "txtlength": 10453
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/szaporitott-kiskutya-eladas-fillerek-szaporito/3vfy5q9",
+        "h1": "Fillérekért szórják az ész nélkül elletett kutyák kölykeit: így dolgozik a szaporító",
+        "txtlength": 10300
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/belfold/2021/10/10/elovalasztas-masodik-fordulo-dobrev-klara-marki-zay-peter-szavazas",
+        "h1": "Indul Dobrev és Márki-Zay nagy versenye, mától lehet szavazni",
+        "txtlength": 10292
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/10/09/macron-el-akarja-erni-hogy-az-egesz-vilagon-tiltsak-be-a-halalbuntetest",
+        "h1": "Macron el akarja érni, hogy az egész világon tiltsák be a halálbüntetést",
+        "txtlength": 9863
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/10/09/ujabb-ebolas-esetet-talaltak-a-kongoi-demokratikus-koztarsasagban",
+        "h1": "Újra felbukkant az ebola a Kongói Demokratikus Köztársaságban",
+        "txtlength": 9810
+    },
+    {
+        "hostname": "mindmegette.hu",
         "pagelink": "https://www.mindmegette.hu/vegan-kakaos-kalacs.recept",
         "h1": "VEGÁN KAKAÓS KALÁCS",
         "txtlength": 10221
