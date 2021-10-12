@@ -1,6 +1,192 @@
 [
     {
         "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/spooky-burger-sortesztas-hagymakarikaval.recept",
+        "h1": "SPOOKY BURGER SÖRTÉSZTÁS HAGYMAKARIKÁVAL",
+        "txtlength": 10712
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/koromporkolt-csulokkel.recept",
+        "h1": "KÖRÖMPÖRKÖLT CSÜLÖKKEL",
+        "txtlength": 10533
+    },
+    {
+        "hostname": "kiszamolo.hu",
+        "pagelink": "https://kiszamolo.hu/ujra-elerheto-az-elektromos-kerekparhoz-kerheto-tamogatas/",
+        "h1": "Újra elérhető az elektromos kerékpárhoz kérhető támogatás",
+        "txtlength": 30250
+    },
+    {
+        "hostname": "alapblog.hu",
+        "pagelink": "https://alapblog.hu/author/nemeskery-gergely/",
+        "h1": "Nemeskéry Gergely bejegyzései",
+        "txtlength": 5612
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20211011_baloldali_emigracio",
+        "h1": "Terroristák vagy balekok? – így szervezkedett száz éve a baloldali emigráció",
+        "txtlength": 32399
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/kozelet/20211012/egyre-tobbet-kolt-a-kormany-auto-motor-sportra-szijjarto-sogoranak-is-jutott-belole/",
+        "h1": "Egyre többet költ a kormány autó-motor sportra, Szijjártó sógorának is jutott belőle",
+        "txtlength": 27205
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vallalat/20211012/rugalmassag-es-innovacio-a-nyero-a-mennyiseg-helyett-a-buszgyartasban/",
+        "h1": "Rugalmasság és innováció a nyerő a mennyiség helyett a buszgyártásban",
+        "txtlength": 25142
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/global/20211011/lengyelorszag-forrong-csehorszag-uj-iranyt-vehet-mi-lesz-a-v4-szovetseggel-504632",
+        "h1": "Lengyelország forrong, Csehország új irányt vehet – Mi lesz a V4-szövetséggel?",
+        "txtlength": 20574
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20211009_megujulas_helyett_kiarusitas_ujbudan",
+        "h1": "Megújulás helyett kiárusítás a balos vezetésű Újbudán, a civilek tiltakoznak",
+        "txtlength": 20290
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/bank/20211012/kiszamoltuk-ennyiert-lehet-a-tied-almaid-lakasa-az-uj-szuperhitellel-504698",
+        "h1": "Kiszámoltuk: ennyiért lehet a tiéd álmaid lakása az új szuperhitellel",
+        "txtlength": 17353
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/hitel/20211011/csucson-az-inflacio-retteghetnek-a-hitelesek-elkepesztoen-elszallhatnak-ezek-a-hitelkamatok-1118461",
+        "h1": "Csúcson az infláció, retteghetnek a hitelesek: elképesztően elszállhatnak ezek a hitelkamatok",
+        "txtlength": 17188
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/global/20211011/sebastian-kurz-csodagyerekbol-lett-bukott-politikus-megis-a-tuz-kozeleben-maradhat-504662",
+        "h1": "Sebastian Kurz csodagyerekből lett bukott politikus, mégis a tűz közelében maradhat",
+        "txtlength": 16896
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20211012_kispest_elovalasztas_dk_burany_sandor_arato_gergely_belfold_gyurcsany_ferenc",
+        "h1": "Gyurcsányék Kispestet is megszerezték maguknak az előválasztáson",
+        "txtlength": 16643
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/karrier/20211011/kokemeny-diszkriminacio-a-munkahelyeken-ezek-a-dolgozok-csak-leshetik-a-fizetesemelest-1118466",
+        "h1": "Kőkemény diszkrimináció a munkahelyeken: ezek a dolgozók csak leshetik a fizetésemelést?",
+        "txtlength": 15291
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/kapcsolat/targyalas-etikett/",
+        "h1": "Kinek kell bemutatkoznia először egy tárgyaláson? A találkozók 7 alapvető etikettszabálya",
+        "txtlength": 11836
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2021/10/11/eberen-figyelik-a-koronavirus-nyertes-mutaciokkal-felvertezett-mu-variansat-de-aggodalomra-meg-nincs-ok",
+        "h1": "ÉBEREN FIGYELIK A KORONAVÍRUS NYERTES MUTÁCIÓKKAL FELVÉRTEZETT MŰ VARIÁNSÁT, DE AGGODALOMRA MÉG NINCS OK",
+        "txtlength": 10557
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/szuloseg/anya-hangja-baba/",
+        "h1": "anya hangja baba",
+        "txtlength": 9603
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/testem/body-pozitivitas-elonyok-hatranyok/",
+        "h1": "body pozitivitás előnyök hátrányok",
+        "txtlength": 9290
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/tech/2021/10/12/google-cloud-retail-solutions-magyarorszag-csapat-petra-viola-interju",
+        "h1": "„Nagy lehetőséget látunk Budapesten, sok tehetséges mérnökkel tudnánk itt együtt dolgozni” – az új magyar Google-csapat vezetőjénél jártunk",
+        "txtlength": 19681
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/gazdasag/2021/10/12/revolut-bank-amit-a-fintech-mar-tud-amit-meg-nem-es-amire-keszulhet",
+        "h1": "A Revolutnak már nem elég, hogy a magyarok többedik bankkártyaként használják, a magyar bankok óvatosságra intenek",
+        "txtlength": 18723
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/kkv/20211012_globalis_minimumado_tarsasagi_ado_oecd_magyarorszag_usa_biden",
+        "h1": "Mi ez a globális adó, ami ellen hónapokig küzdött a magyar kormány, aztán mégis beadta a derekát?",
+        "txtlength": 17750
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/belfold/2021/10/12/eva-rezesova-varholikova-konyv-2012-autobaleset",
+        "h1": "„Mit mondasz azoknak, akiknek a szeretteit egy másodperc alatt megölted?” – megjelent Eva Rezešová könyve",
+        "txtlength": 17469
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kulfold/2021/10/11/csehorszag-valasztas-eredmeny-andrej-babis-spolu-milos-zeman-kormanyalakitas/",
+        "h1": "Az ellenzéki összefogás győzött Prágában, de Babis nem adja fel",
+        "txtlength": 13882
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kulfold/2021/10/11/lengyelorszag-alkotmanybirosag-europai-unio-birosaga-itelet/",
+        "h1": "Elharapódzott a lengyelek EU elleni harca – közeleg a polexit?",
+        "txtlength": 13776
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20211011_Ez_vezetett_FeketeGyor_Andras_bukasahoz",
+        "h1": "Az ember, aki ott se volt: ez vezethetett Fekete-Győr András leváltásához",
+        "txtlength": 13449
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/fn/gazdasag/2021/10/12/szja-visszaterites-adobevallas/",
+        "h1": "Gyerekesek szja-visszatérítése: jól irányzott adóbevallással több százezer forintot lehet nyerni",
+        "txtlength": 13339
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/10/11/orban-20-eve-meg-brusszel-is-a-mi-oldalunkon-allt",
+        "h1": "Orbán: 20 éve még Brüsszel is a mi oldalunkon állt",
+        "txtlength": 12416
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/10/11/eletfogytiglant-kapott-hasszan-f-az-iszlam-allam-egykori-katonaja-budapesten",
+        "h1": "Életfogytiglant kapott Hasszán F., az Iszlám Állam egykori katonája Budapesten",
+        "txtlength": 10510
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/ingatlan/20211012_zold_otthon_program_bank360",
+        "h1": "Mennyire életszerű, hogy egy átlagos család új, energiatakarékos ingatlanba költözik?",
+        "txtlength": 10152
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/allatvedelmi-ugyek-blikk-tornoczky-anita-kutyak-segitseg/5r0pxmq?sl_ps=d_9",
+        "h1": "Milliókat keresnek a szenvedő kutyákon: így ismerjük fel a tisztességtelen „tenyésztőket”",
+        "txtlength": 9172
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/nyugdij-felmeres-vilag-natixis-kilatasok/1wst8pk?sl_ps=d_11",
+        "h1": "Elkeserítő a magyar nyugdíjasok helyzete: esélyünk sincs arra, hogy utolérjük Ausztriát, Szlovéniát vagy Csehországot",
+        "txtlength": 8348
+    },
+    {
+        "hostname": "mindmegette.hu",
         "pagelink": "https://www.mindmegette.hu/petrezselymes-zoldborosleves-nokedlivel.recept",
         "h1": "PETREZSELYMES ZÖLDBORSÓLEVES NOKEDLIVAL",
         "txtlength": 10130
