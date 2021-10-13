@@ -1,6 +1,180 @@
 [
     {
         "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/hasselback-csirkemell-paradicsomos-tesztakorettel.recept",
+        "h1": "HASSELBACK CSIRKEMELL PARADICSOMOS TÉSZTAKÖRETTEL",
+        "txtlength": 9903
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/sacher-torta-glutenmentesen.recept",
+        "h1": "SACHER TORTA GLUTÉNMENTESEN",
+        "txtlength": 9309
+    },
+    {
+        "hostname": "hataratkelo.blog.hu",
+        "pagelink": "https://hataratkelo.blog.hu/2021/10/08/berlin_magyar_szemmel#c40969880",
+        "h1": "Berlin magyar szemmel",
+        "txtlength": 50585
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20211013/kadar-andrea-a-nuklearis-biztonsag-mindenek-felett-all-paks-ii-engedelyezesenel-504868",
+        "h1": "Kádár Andrea: a nukleáris biztonság mindenek felett áll Paks II. engedélyezésénél",
+        "txtlength": 27575
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20211012/sosem-latott-valasztasi-ajandekot-kapnak-a-nyugdijasok-de-igy-sem-kerulheto-el-a-fajdalmas-jovo-504614",
+        "h1": "Sosem látott választási ajándékot kapnak a nyugdíjasok, de így sem kerülhető el a fájdalmas jövő",
+        "txtlength": 26106
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/kozelet/20211013/van-kiut-a-rezsicsapdabol-ha-a-kormany-is-ugy-akarja/",
+        "h1": "Van kiút a rezsicsapdából, ha a kormány is úgy akarja",
+        "txtlength": 22626
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/global/20211012/elkeszult-a-kovetkezo-nagy-haboru-forgatokonyve-igy-nezhet-ki-a-21-szazad-legveresebb-katonai-konfliktusa-504862",
+        "h1": "Elkészült a következő nagy háború forgatókönyve – Így nézhet ki a 21. század legvéresebb katonai konfliktusa",
+        "txtlength": 19285
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://sport.mandiner.hu/cikk/20211012_az_onbecsulesunkert_is_jatszunk_anglia_magyarorszag_elo_kozvetites",
+        "h1": "Az önbecsülésünkért is játsszunk! - Anglia – Magyarország 1-1 – ÉLŐ KÖZVETÍTÉS",
+        "txtlength": 17619
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20211101_magyar_hosok_moczar_gabor_nemzeti_orokseg_intezet",
+        "h1": "Az erős Magyarország záloga a mélyen gyökerező nemzeti identitás – Móczár Gábor a Mandinernek",
+        "txtlength": 16932
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vilag/20211012/megis-kinek-kellene-elvinni-az-arut-ha-nincs-eleg-kamionos/",
+        "h1": "Mégis kinek kellene elvinni az árut, ha nincs elég kamionos?",
+        "txtlength": 16811
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20211012_ungvary_rudolf_gyurcsany_dobrev_marki_zay_baloldal",
+        "h1": "Önleleplező balos értelmiségiek: bárki nyer, Gyurcsány a főnök",
+        "txtlength": 16114
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/hitel/20211007/indulhat-a-sorbanallas-a-bankfiokokban-oktobertol-jar-az-ingyenhitel-az-ajandekmilliok-melle-1118382",
+        "h1": "Indulhat a sorbanállás a bankfiókokban: októbertől jár az ingyenhitel az ajándékmilliók mellé",
+        "txtlength": 15700
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/megtakaritas/20211008/egyre-tobben-menekitik-ide-a-penzuket-tenyleg-ez-lesz-a-kozeljovo-slagerbefektetese-1118426",
+        "h1": "Egyre többen menekítik ide a pénzüket: tényleg ez lesz a közeljövő slágerbefektetése?",
+        "txtlength": 14725
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2021/10/13/nem-haritjak-el-a-klimakatasztrofat-az-elbaltazott-erdositesek-sot-meg-rontanak-is-a-helyzeten",
+        "h1": "NEM HÁRÍTJÁK EL A KLÍMAKATASZTRÓFÁT AZ ELBALTÁZOTT ERDŐSÍTÉSEK, SŐT MÉG RONTANAK IS A HELYZETEN",
+        "txtlength": 14187
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/otthon/mit-lehet-csinalni-a-lehullott-falevelekkel/",
+        "h1": "Hogyan lehet komposztálni a faleveleket, és mi lesz, ha nem gereblyézed össze őket? Megyeri Szabolcs kertészt kérdeztük",
+        "txtlength": 12356
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/lajfhekk/kozossegi-media-facebook-instagram-idotoltes/",
+        "h1": "Öt dolog, amivel elütheted az időt, ha leállnak a közösségi oldalak",
+        "txtlength": 7693
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/interju/2021/10/12/terhessegi-kolesztazis-viszketes-epesavszint-meres-magzati-halalozas-ladjanszki-bernadett",
+        "h1": "Ha egy nappal előbb megindítják a szülést, akkor itt van a kezemben a kislányom",
+        "txtlength": 35507
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/komplex/2021/10/13/ivermectin-koronavirus-jarvany-kutatasok-oltasellenesek",
+        "h1": "\n      Ivermectin: a lóféreghajtóból lett csodaszer, ami sehogy sem akar beválni a koronavírus ellen\n    ",
+        "txtlength": 24884
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/velemeny/2021/10/13/ha-eltunik-ha-megolik-tenyleg-csak-az-szamit-hogy-szep-szoke-szimpatikus-e",
+        "h1": "Ha eltűnik, ha megölik: tényleg csak az számít, hogy szép, szőke, szimpatikus-e?",
+        "txtlength": 14524
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/10/13/portyazas-a-szomszed-kertjeben-lefujva",
+        "h1": "Portyázás a szomszéd kertjében lefújva",
+        "txtlength": 13301
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/10/12/akkor-is-tovabb-no-a-tengerek-szintje-ha-megall-a-globalis-felmelegedes",
+        "h1": "Akkor is tovább nő a tengerek szintje, ha megáll a globális felmelegedés",
+        "txtlength": 13190
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/kkv/20211012_Jogosult_a_gyerekesek_adovisszateritesere_Mutatjuk_mire_ugyeljen",
+        "h1": "Jogosult ön az szja-visszatérítésre? És hogyan lehet biztos benne, hogy megkapja?",
+        "txtlength": 11726
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/fn/gazdasag/2021/10/13/dohanyzas-heviteses-dohantermekek-eszkozok-statisztika-dohanyzasi-szokasok/",
+        "h1": "Elképesztő ütemben nő a hevítéses dohánytermékek fogyasztása Magyarországon",
+        "txtlength": 11428
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/vilag/20211012_Mindenki_Zemanra_var",
+        "h1": "Zeman még a kórházi ágyán is segíthet Babišnak",
+        "txtlength": 10367
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2021/10/13/marki-zay-peter-dobrev-klara-dk-polgarmesterek-zsarolas-elovalasztas/",
+        "h1": "Márki-Zay: Zsarolással próbálnak polgármestereket rávenni Dobrev támogatására",
+        "txtlength": 10208
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/fn/gazdasag/2021/10/13/vallas-sport-2020-koltes/",
+        "h1": "Vallásra 73 milliárd helyett 229 milliárdot, sportra 292 milliárd helyett 528 milliárdot költött tavaly a kormány",
+        "txtlength": 9044
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/burka-ferenc-kartalanitas-rekord-allam-visszakoveteles/5yjyv7c?sl_ps=d_11",
+        "h1": "Visszakéri az állam a 20 millió forintos kártalanítási összeget a gyilkossággal vádolt Burka Ferenctől",
+        "txtlength": 8993
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/tinedzser-metro-ugras-ongyilkos/65xby9y?sl_ps=d_10",
+        "h1": "Szerelmi bánat miatt ugorhatott a metró elé a tinilány a Széll Kálmán téren: bibliai idézettel búcsúzott tőle az anyukája",
+        "txtlength": 8745
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/gazdasag/20211012_oltasellenes_termeles_kozlekedes_olaszorszag",
+        "h1": "Több millió oltásellenes miatt akadozhat a termelés és a közlekedés Olaszországban",
+        "txtlength": 8029
+    },
+    {
+        "hostname": "mindmegette.hu",
         "pagelink": "https://www.mindmegette.hu/spooky-burger-sortesztas-hagymakarikaval.recept",
         "h1": "SPOOKY BURGER SÖRTÉSZTÁS HAGYMAKARIKÁVAL",
         "txtlength": 10712
