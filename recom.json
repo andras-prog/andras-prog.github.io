@@ -1,6 +1,192 @@
 [
     {
         "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/klasszikus-makos-teszta.recept",
+        "h1": "MÁKOS TÉSZTA",
+        "txtlength": 9781
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/epres-piskotatorta-liszt-nelkul-1.recept",
+        "h1": "EPRES PISKOTATORTA LISZT NÉLKÜL",
+        "txtlength": 9703
+    },
+    {
+        "hostname": "kiszamolo.hu",
+        "pagelink": "https://kiszamolo.hu/a-stagflacio-evtizede/",
+        "h1": "A stagfláció évtizede",
+        "txtlength": 37431
+    },
+    {
+        "hostname": "alapblog.hu",
+        "pagelink": "https://alapblog.hu/bo-5-evunk-maradt-2050-ig/",
+        "h1": "Már csak 5 évünk maradt 2050-ig",
+        "txtlength": 9122
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20211013_elovalasztas_dobrev_klara_marki_zay_peter_belfold_rtl_klub_vita",
+        "h1": "„Péter, nem mondasz igazat” – egymásnak feszült Dobrev és Márki-Zay",
+        "txtlength": 27432
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vilag/20211014/egyetlen-orszagban-tudnak-olcson-atomeromuvet-epiteni-de-meg-ott-is-lemondtak-rola/",
+        "h1": "Egyetlen országban tudnak olcsón atomerőművet építeni, de még ott is lemondtak róla",
+        "txtlength": 21752
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/bank/20211014/elkepeszto-szinten-a-leggazdagabb-magyarok-vagyona-gyors-utemben-halmozzak-a-penzt-505152",
+        "h1": "Elképesztő szinten a leggazdagabb magyarok vagyona – Gyors ütemben halmozzák a pénzt",
+        "txtlength": 19221
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://sport.mandiner.hu/cikk/20211013_tobb_szempontbol_sokkolta_a_wembleyt_az_angol_magyar_meccs_nemzetkozi_lapszemle",
+        "h1": "The Guardian: „Stones megmentette Angliát a magyarok ellen az erőszak éjszakáján a Wembleyben” – nemzetközi lapszemlénk",
+        "txtlength": 18993
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/karrier/20211014/rengeteg-magyar-hitt-a-mesenek-albiztonsagban-elnek-pedig-az-eletuk-a-tet-1118548",
+        "h1": "Rengeteg magyar hitt a mesének: álbiztonságban élnek, pedig az életük a tét",
+        "txtlength": 17770
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.penzcentrum.hu/karrier/20211014/rengeteg-magyar-hitt-a-mesenek-albiztonsagban-elnek-pedig-az-eletuk-a-tet-1118548",
+        "h1": "Rengeteg magyar hitt a mesének: álbiztonságban élnek, pedig az életük a tét",
+        "txtlength": 17675
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/penz/20211013/szetoszt-1250-milliardot-a-kormany-februarig-de-mi-lesz-ennek-a-hatasa/",
+        "h1": "Szétoszt 1250 milliárdot a kormány februárig, de mi lesz ennek a hatása?",
+        "txtlength": 17441
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/egeszseg/20211013/8-oszi-csemege-ami-segit-lekuzdeni-a-fertozeseket-ezzel-felturbozhatod-az-immunrendszered-1118529",
+        "h1": "8 őszi csemege, ami segít leküzdeni a fertőzéseket: ezzel felturbózhatod az immunrendszered",
+        "txtlength": 16019
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20211013_niall_ferguson_interju_mandiner_hideghaboru",
+        "h1": "Hidegháborúban vagyunk – Niall Ferguson a Mandinernek",
+        "txtlength": 15822
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2021/10/14/virtualis-vilagot-epit-a-facebook-jon-a-metaverzum",
+        "h1": "VIRTUÁLIS VILÁGOT ÉPÍT A FACEBOOK, JÖN A METAVERZUM",
+        "txtlength": 14965
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/global/20211013/hatalmas-botranyokat-hozhat-a-70-eves-szurke-eminencias-pere-retteghet-a-spanyol-gazdasagi-politikai-elit-505122",
+        "h1": "Hatalmas botrányokat hozhat a 70 éves szürke eminenciás pere - Retteghet a spanyol gazdasági, politikai elit",
+        "txtlength": 14439
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/kapcsolat/mengele-ikrek-mozes-testver/",
+        "h1": "A 10 éves erdélyi ikerlányok, akik túlélték Mengele kegyetlen kísérleteit: a Mózes testvérek megrázó története",
+        "txtlength": 13845
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/szuloseg/mobil-a-gyerek-kezebe/",
+        "h1": "Kés, villa, olló, teló: a gyerek kezébe nem való?",
+        "txtlength": 9944
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/testem/nyers-tojas-fogyasztasa/",
+        "h1": "Tegye fel a kezét, aki Rocky Balboán kívül nyersen fogyasztja a tojást!",
+        "txtlength": 8794
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/belfold/2021/10/14/dobrev-klara-marki-zay-peter-programok-igeretek-csataja",
+        "h1": "Dobrev Klára és Márki-Zay Péter szinte ugyanolyan országot akar",
+        "txtlength": 25114
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2021/10/13/miniszterelnok-jelolti-vita-rtl-dobrev-klara-marki-zay-peter-elovalasztas/",
+        "h1": "Keményen egymásnak esett, de a vita végére több dologban egyetértett Dobrev Klára és Márki-Zay Péter",
+        "txtlength": 19378
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2021/10/13/borsod-fellegvar-jobbik-atrendezodes-baloldal/",
+        "h1": "Sorra veszti el északkeleti fellegvárait a Jobbik, kapaszkodik vissza a baloldal",
+        "txtlength": 18524
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/gazdasag/2021/10/14/izgalmas-tel-jon-a-gazpiacon-fazni-talan-nem-fogunk-de-az-orult-arakra-sokan-rafaznak",
+        "h1": "Izgalmas tél jön a gázpiacon: fázni talán nem fogunk, de az őrült árakra sokan ráfáznak",
+        "txtlength": 18043
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kulfold/2021/10/14/ausztria-schallenberg-kurz-kancellar-portre-korrupcio/",
+        "h1": "Mekkora árnyékot vet majd Kurz az új kancellárra?",
+        "txtlength": 16722
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/belfold/2021/10/13/elovalasztas-miniszterelnok-jelolti-vita-dobrev-klara-marki-zay-peter",
+        "h1": "Márki-Zay Péter a DK zsarolásáról, Dobrev Klára Márki-Zay alkalmatlanságáról beszélt",
+        "txtlength": 16204
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/10/14/a-bebetonozott-fougyesz",
+        "h1": "A bebetonozott főügyész",
+        "txtlength": 14973
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/gazdasag/20211013_dobrev_marki_zay_gazdasagpolitika_igeretek_elovalasztas_program",
+        "h1": "Mit kezdene Dobrev és Márki-Zay a Fidesz örökségével a gazdaságban?",
+        "txtlength": 12944
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20211013_Eloben_Dobrev_Klara_es_MarkiZay_Peter_miniszterelnokjelolti_tevevitaja",
+        "h1": "Hogyan váltaná le Dobrev Klára és Márki-Zay Péter a Fideszt? - a tévévita percről percre",
+        "txtlength": 12120
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/10/14/minden-otodik-europai-madarfajt-a-kihalas-fenyeget",
+        "h1": "Minden ötödik európai madárfajt a kihalás fenyeget",
+        "txtlength": 11848
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20211013_Karacsony_szerint_Gyurcsany_smsben_szokta_zsarolni__Gyurcsany_valaszolt_elo_akkor_az_smsekkel",
+        "h1": "Karácsony szerint Gyurcsány sms-ben szokta zsarolni – Gyurcsány válaszolt: elő akkor az sms-ekkel",
+        "txtlength": 10338
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/tinedzser-metro-ugras-ongyilkos/65xby9y",
+        "h1": "Szerelmi bánat miatt ugorhatott a metró elé a tinilány a Széll Kálmán téren: bibliai idézettel búcsúzott tőle az anyukája",
+        "txtlength": 8702
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/marki-zay-hadhazy-rokonsag-unokatestver-tavoli-rokon-elovalasztas-kepviselo-politikus/4thfqdm?sl_ps=d_10",
+        "h1": "Felnőtt korukig nem is hallottak egymásról: meglepő rokoni szálak fűzik egymáshoz Márki-Zay Pétert és Hadházy Ákost",
+        "txtlength": 8541
+    },
+    {
+        "hostname": "mindmegette.hu",
         "pagelink": "https://www.mindmegette.hu/hasselback-csirkemell-paradicsomos-tesztakorettel.recept",
         "h1": "HASSELBACK CSIRKEMELL PARADICSOMOS TÉSZTAKÖRETTEL",
         "txtlength": 9903
