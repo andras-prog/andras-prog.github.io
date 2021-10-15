@@ -1,5 +1,173 @@
 [
     {
+        "hostname": "kulturpart.hu",
+        "pagelink": "https://kulturpart.blog.hu/2021/10/11/feltarul_a_kodaly-korondon_tuli_vilag",
+        "h1": "FELTÁRUL A KODÁLY-KÖRÖNDÖN TÚLI VILÁG",
+        "txtlength": 10319
+    },
+    {
+        "hostname": "alapblog.hu",
+        "pagelink": "https://alapblog.hu/profetak-vagy-egyslageres-sztarok/",
+        "h1": "Proféták vagy egyslágeres sztárok",
+        "txtlength": 8068
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20211015/mekkora-az-eselye-hogy-lengyelorszag-kilep-az-europai-uniobol-505330",
+        "h1": "Mekkora az esélye, hogy Lengyelország kilép az Európai Unióból?",
+        "txtlength": 23558
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/adat/20211015/egyetlen-megyeszekhelyen-tartottak-lepest-a-berek-a-lakasarakkal/",
+        "h1": "Egyetlen megyeszékhelyen tartottak lépést a bérek a lakásárakkal",
+        "txtlength": 21404
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/ingatlan/20211015/a-siklo-es-a-fak-mindent-az-uj-budai-siklorol-505216",
+        "h1": "A sikló és a fák: mindent az új budai siklóról",
+        "txtlength": 21173
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/global/20211014/kozos-hadseregrol-almodnak-europa-vezetoi-uj-szuperero-vagy-katonai-katasztrofa-lesz-a-vege-505118",
+        "h1": "Közös hadseregről álmodnak Európa vezetői - Új szupererő vagy katonai katasztrófa lesz a vége?",
+        "txtlength": 20386
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2021/10/14/5-jo-erv-amellett-hogy-2021-ben-is-a-magnokazetta-az-eszmenyi-hanghordozo",
+        "h1": "5 JÓ ÉRV AMELLETT, HOGY 2021-BEN IS A MAGNÓKAZETTA AZ ESZMÉNYI HANGHORDOZÓ",
+        "txtlength": 20120
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/hitel/20211012/kegyetlen-ami-a-magyar-ingatlanokkal-tortenik-itt-a-matek-hazat-venni-vagy-epiteni-eri-meg-jobban-1118334",
+        "h1": "Kegyetlen, ami a magyar ingatlanokkal történik: itt a matek, házat venni vagy építeni éri meg jobban",
+        "txtlength": 19368
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/penz/20211014/mikor-lesznek-penzugyi-szuperappok-magyarorszagon/",
+        "h1": "Mikor lesznek pénzügyi szuperappok Magyarországon?",
+        "txtlength": 18598
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20211015_orban_viktor_belfold_kossuth_radio_interju_bejelentes",
+        "h1": "Orbán Viktor: A rezsiharc eredményeit meg kell védeni",
+        "txtlength": 17543
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20211012_magyar_angol_meccs_magyar_drukkerek_rendorseg",
+        "h1": "Összecsaptak a magyar szurkolók és a brit rendőrök (VIDEÓK)",
+        "txtlength": 17536
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20211014_fustbe_ment_szazmilliok_karacsony_szponzorai_nem_erre_szamitottak",
+        "h1": "Füstbe ment százmilliók – Karácsony szponzorai nem erre számítottak",
+        "txtlength": 17470
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/hitel/20211011/rengeteg-magyar-csaladnak-jar-a-4273-millios-allami-tamogatas-igy-kell-igenyelni-1118314",
+        "h1": "Rengeteg magyar családnak jár a 42+73 milliós állami támogatás: így kell igényelni",
+        "txtlength": 17386
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/utazas/muzeum-ingyenes-belepo/",
+        "h1": "Ingyenesen látogathatják a családok Budapest legjobb múzeumait: hol és mikor vehetitek igénybe a lehetőséget?",
+        "txtlength": 11874
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/lajfhekk/steve-jobs-eletvezetesi-tanacsok/",
+        "h1": "3+1 megfontolásra érdemes életvezetési tanács az informatikai zsenitől, Steve Jobs-tól",
+        "txtlength": 8115
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/belfold/2021/10/15/kampanyfinis-dobrev-marki-zay-elovalasztas-miniszterelnok-jelolt-oevb-valasztok-adatok-reszeredmenyek",
+        "h1": "Bárki bármit mond, még nem dőlt el, Dobrev Klára vagy Márki-Zay Péter lesz-e Orbán Viktor kihívója",
+        "txtlength": 23229
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kultura/2021/10/14/squid-game-netflix-sorozat-del-korea/",
+        "h1": "Még Észak-Koreában is erről beszélnek: miért nézi mindenki a Squid Game-et?",
+        "txtlength": 22619
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kultura/2021/10/14/dunajcsik-matyas-interju-vizivaros-budapest/",
+        "h1": "Dunajcsik Mátyás: Olyan helyről jövök, amit porig égettek",
+        "txtlength": 20547
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20211015_Zsarolasi_vadak_Karacsonyt_is_beperelheti_a_DK",
+        "h1": "Zsarolási vádakkal tetőzik az előválasztási harc: akár Karácsonyt is beperelheti a DK",
+        "txtlength": 17205
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/sport/2021/10/14/newcastel-united-szaud-arabia-adasvetel-premier-league-manchester-city-psg-mike-ashley",
+        "h1": "Egy újságíró brutális meggyilkolása sem zavarja a szurkolókat, ha arról van szó, hogy kedvenc csapatuk a legjobb legyen",
+        "txtlength": 16984
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kulfold/2021/10/14/a-ragyas-sebhelyesarcu-francia-sorozatgyilkos-cecile-bloch-rendorseg-bunugy",
+        "h1": "A 35 évig rejtőzködő, sorozatgyilkos rendőr búcsúlevele újabb ügyeket hozhat elő",
+        "txtlength": 15665
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/10/15/unikornisok-marpedig-leteznek",
+        "h1": "Unikornisok márpedig léteznek",
+        "txtlength": 15327
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kulfold/2021/10/14/irak-valasztas-szadr-fatah-takadum/",
+        "h1": "Több száz áldozattal járó tiltakozások után megerősödött a jelenlegi hatalom Irakban",
+        "txtlength": 14445
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20211014_szent_janos_MR",
+        "h1": "Két éve megvan, de még be sem kapcsolták a Szent János Kórház sok százmilliós MR-gépét",
+        "txtlength": 12659
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/10/14/kongoi-szuletesu-nok-emberiesseg-elleni-bunok-miatt-perlik-belgiumot-mert-kisgyerekkent-elszakitottak-oket-az-edesanyjuktol",
+        "h1": "Kongói születésű nők emberiesség elleni bűnök miatt perlik Belgiumot, mert kisgyerekként elszakították őket az édesanyjuktól",
+        "txtlength": 11903
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/zhvg/20211014_klimavalasztas_dobrev_markizay_beszelgetes",
+        "h1": "Ki viselje a klímaharc költségeit? Erről volt a legnagyobb vita Dobrev és Márki-Zay között",
+        "txtlength": 11171
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/politika/orban-viktor-kossuth-radio-interju-bejelentesek/zf1jy8n?sl_ps=d_4",
+        "h1": "Orbán Viktor legújabb bejelentései a Kossuth Rádióban: így áll Magyarország a járvány negyedik hullámában a saját vakcina fejlesztésével – Szóba került a rezsiharc is",
+        "txtlength": 10795
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/krimi/csalas-karosultak-nyomozas-targyalas-pkkb/cbkjdd0?sl_ps=d_11",
+        "h1": "Olcsó lakást ígért, százakat vert át a kamuzó cégvezető: volt, akinek azt is letagadta, hogy valaha találkoztak – Hárommilliárd a kár",
+        "txtlength": 9726
+    },
+    {
         "hostname": "mindmegette.hu",
         "pagelink": "https://www.mindmegette.hu/klasszikus-makos-teszta.recept",
         "h1": "MÁKOS TÉSZTA",
