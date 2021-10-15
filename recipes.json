@@ -1,73 +1,6 @@
 [
     {
-        "timestamp": 1633690960231,
-        "name": "Tejbegríz gombóc recept",
-        "lead": "A legfontosabb az egész receptben az, hogy a tejbegríz legyen nagyon-nagyon-nagyon sűrű!",
-        "phrase": "gombóc",
-        "link": "https://receptneked.hu/nagyi-receptjei/tejbegriz-gomboc/",
-        "ingred": [
-            "tej",
-            "búzadara",
-            "kristálycukor",
-            "olaj",
-            "zsemlemorzsa",
-            "citrom"
-        ]
-    },
-    {
-        "timestamp": 1633690960231,
-        "name": "Sajttal, baconnal, lila hagymával töltött csirkecomb",
-        "lead": "Éhes ember nem marad utána!",
-        "phrase": "csirkecomb",
-        "link": "https://receptneked.hu/szarnyas/sajttal-baconnal-lila-hagymaval-toltott-csirkecomb-file/",
-        "ingred": [
-            "csirkecomb",
-            "trappista",
-            "bacon",
-            "lila hagyma",
-            "liszt",
-            "tojás",
-            "zsemlemorzsa",
-            "kristálycukor",
-            "olaj"
-        ]
-    },
-    {
-        "timestamp": 1633690960231,
-        "name": "Tarjás-sajtos fodros kocka tepsiben sütve",
-        "lead": "Gyorsan megkedveled majd.",
-        "phrase": "tészta",
-        "link": "https://receptneked.hu/teszta/tarjas-sajtos-fodros-kocka-tepsiben-sutve/",
-        "ingred": [
-            "kocka tészta",
-            "tarja",
-            "tejföl",
-            "sajtkrém",
-            "mustár",
-            "tojás",
-            "trappista"
-        ]
-    },
-    {
-        "timestamp": 1633690960231,
-        "name": "Csirkemell bakonyi módra",
-        "lead": "A bakonyi módon készített ételek a híres Gundel Károlynak köszönhetők, aki először házasította a húsételeket a gombapaprikással. Ezzel egy egész ételcsaládot hozott létre mely közös jellemzője a gombás ragu. Csiperkegombával is finom, de legjobbnak az erdei gombával.",
-        "phrase": "csirkemell",
-        "link": "https://receptneked.hu/szarnyas/csirkemell-bakonyi-modra/",
-        "ingred": [
-            "csirkemell",
-            "gomba",
-            "szalonna",
-            "hagyma",
-            "fokhagyma",
-            "paprika",
-            "tejszín",
-            "kakukkfű",
-            "olaj"
-        ]
-    },
-    {
-        "timestamp": 1611960623707,
+        "timestamp": 1634295709589,
         "name": "Sajttal, sonkával töltött bundás kenyér rolád",
         "lead": "Kiadós, egyszerű és fimom. Mi kellhet még?",
         "phrase": "bundás kenyér",
@@ -80,7 +13,7 @@
         ]
     },
     {
-        "timestamp": 1611960623707,
+        "timestamp": 1634295709589,
         "name": "Minden jóval töltött karajszeletek",
         "lead": "Tapasztalt háziasszonyoknak, de megéri!",
         "phrase": "karaj",
@@ -96,7 +29,7 @@
         ]
     },
     {
-        "timestamp": 1611960623707,
+        "timestamp": 1634295709589,
         "name": "Búbos csirkemell recept",
         "lead": "Próbáld ki, nagyon finom!",
         "phrase": "csirkemell",
@@ -113,7 +46,7 @@
         ]
     },
     {
-        "timestamp": 1612049716687,
+        "timestamp": 1634295709589,
         "name": "Joghurtos cézár saláta parmezánnal",
         "lead": "Nincs őszintébb szeretet, mint az étel szeretete.",
         "phrase": "saláta",
@@ -3197,6 +3130,73 @@
             "tejföl",
             "olívaolaj",
             "vaj"
+        ]
+    },
+    {
+        "timestamp": 1633690960231,
+        "name": "Tejbegríz gombóc recept",
+        "lead": "A legfontosabb az egész receptben az, hogy a tejbegríz legyen nagyon-nagyon-nagyon sűrű!",
+        "phrase": "gombóc",
+        "link": "https://receptneked.hu/nagyi-receptjei/tejbegriz-gomboc/",
+        "ingred": [
+            "tej",
+            "búzadara",
+            "kristálycukor",
+            "olaj",
+            "zsemlemorzsa",
+            "citrom"
+        ]
+    },
+    {
+        "timestamp": 1633690960231,
+        "name": "Sajttal, baconnal, lila hagymával töltött csirkecomb",
+        "lead": "Éhes ember nem marad utána!",
+        "phrase": "csirkecomb",
+        "link": "https://receptneked.hu/szarnyas/sajttal-baconnal-lila-hagymaval-toltott-csirkecomb-file/",
+        "ingred": [
+            "csirkecomb",
+            "trappista",
+            "bacon",
+            "lila hagyma",
+            "liszt",
+            "tojás",
+            "zsemlemorzsa",
+            "kristálycukor",
+            "olaj"
+        ]
+    },
+    {
+        "timestamp": 1633690960231,
+        "name": "Tarjás-sajtos fodros kocka tepsiben sütve",
+        "lead": "Gyorsan megkedveled majd.",
+        "phrase": "tészta",
+        "link": "https://receptneked.hu/teszta/tarjas-sajtos-fodros-kocka-tepsiben-sutve/",
+        "ingred": [
+            "kocka tészta",
+            "tarja",
+            "tejföl",
+            "sajtkrém",
+            "mustár",
+            "tojás",
+            "trappista"
+        ]
+    },
+    {
+        "timestamp": 1633690960231,
+        "name": "Csirkemell bakonyi módra",
+        "lead": "A bakonyi módon készített ételek a híres Gundel Károlynak köszönhetők, aki először házasította a húsételeket a gombapaprikással. Ezzel egy egész ételcsaládot hozott létre mely közös jellemzője a gombás ragu. Csiperkegombával is finom, de legjobbnak az erdei gombával.",
+        "phrase": "csirkemell",
+        "link": "https://receptneked.hu/szarnyas/csirkemell-bakonyi-modra/",
+        "ingred": [
+            "csirkemell",
+            "gomba",
+            "szalonna",
+            "hagyma",
+            "fokhagyma",
+            "paprika",
+            "tejszín",
+            "kakukkfű",
+            "olaj"
         ]
     }
 ]
