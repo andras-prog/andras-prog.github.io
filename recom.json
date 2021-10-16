@@ -1,5 +1,191 @@
 [
     {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/a-tokeletes-piskota.recept",
+        "h1": "A TÖKÉLETES PISKÓTA",
+        "txtlength": 10668
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/sunquick-suti.recept",
+        "h1": "SUNQUICK SÜTI",
+        "txtlength": 9670
+    },
+    {
+        "hostname": "kiszamolo.hu",
+        "pagelink": "https://kiszamolo.hu/a-volker-pillanat/#more-116367",
+        "h1": "A Volcker pillanat",
+        "txtlength": 35340
+    },
+    {
+        "hostname": "kulturpart.hu",
+        "pagelink": "https://kulturpart.blog.hu/2021/10/16/gimi_no_filter_uzemmodban",
+        "h1": "GIMI, NO FILTER ÜZEMMÓDBAN",
+        "txtlength": 11419
+    },
+    {
+        "hostname": "alapblog.hu",
+        "pagelink": "https://alapblog.hu/heti-osszefoglalo-2021-10-10/",
+        "h1": "Heti összefoglaló – 2021.10.10.",
+        "txtlength": 6188
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20211016_minket_ne_hasonlitsanak_ossze_macsai_ilcsi_es_horvath_mate_sommelier_hazaspar_a_mandinernek",
+        "h1": "„A munkánk ott kezdődik, ahol a borászé véget ér” – Mácsai Ilcsi és Horváth Máté sommelier házaspár a Mandinernek",
+        "txtlength": 24539
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20211015_franciaorszag_macron_france_2030",
+        "h1": "Macron újra naggyá tenné Franciaországot",
+        "txtlength": 21037
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/bank/20211015/vilagmeretu-visszaesest-hozott-a-covid-az-elektronikus-fizeteseknel-a-bankok-nagyot-buktak-rajta-505366",
+        "h1": "Világméretű visszaesést hozott a Covid az elektronikus fizetéseknél, a bankok nagyot buktak rajta",
+        "txtlength": 20442
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2021/10/16/nem-minden-egeszseges-ami-nem-karos-miert-aggalyos-hogy-a-fornetti-babaval-reklamozza-a-lisztjet",
+        "h1": "NEM MINDEN EGÉSZSÉGES, AMI NEM KÁROS – MIÉRT AGGÁLYOS, HOGY A FORNETTI BABÁVAL REKLÁMOZZA A LISZTJÉT?",
+        "txtlength": 20167
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20211015_fovarosi_kozgyules_karacsony_gergely_gy_nemeth_erzsebet_kerpel_fronius_gabor_mszp_dk_momentum",
+        "h1": "A Fővárosi Közgyűlést gúzsba köthetik az előválasztási botrányok",
+        "txtlength": 18857
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20211016/a-szemunk-lattara-szuletik-meg-az-uj-vezeto-504846",
+        "h1": "A szemünk láttára születik meg az új vezető",
+        "txtlength": 17885
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vilag/20211015/orosz-fuggeshez-es-csucsra-jaratott-szeneromuvekhez-vezetett-az-unios-energiapolitika/",
+        "h1": "Orosz függéshez és csúcsra járatott szénerőművekhez vezetett az uniós energiapolitika",
+        "txtlength": 16954
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/global/20211015/hiaba-kongatjak-egyre-tobben-a-veszharangot-sokaig-csak-alom-maradhat-az-europai-hadsereg-505496",
+        "h1": "Hiába kongatják egyre többen a vészharangot, sokáig csak álom maradhat az európai hadsereg",
+        "txtlength": 16746
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/podcast/20211016/az-energiakaosz-miatt-elkerulhetetlen-hogy-egyes-elelmiszerek-is-draguljanak/",
+        "h1": "Az energiakáosz miatt elkerülhetetlen, hogy egyes élelmiszerek is dráguljanak",
+        "txtlength": 16666
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/hitel/20211015/nem-er-veget-a-hitelbumm-magyarorszagon-csak-birja-a-lakaspiac-a-terhelest-1118572",
+        "h1": "Nem ér véget a hitelbumm Magyarországon: csak bírja a lakáspiac a terhelést!",
+        "txtlength": 15997
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/hitel/20211013/ketyeg-a-kamatbomba-egy-egyszeru-hiteltrukkel-elkerulheted-a-torlesztorobbanast-1118276",
+        "h1": "Ketyeg a kamatbomba: egy egyszerű hiteltrükkel elkerülheted a törlesztőrobbanást",
+        "txtlength": 15131
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/kapcsolat/elso-randi-hogy-lesz-jobb/",
+        "h1": "Hogy lesz felszabadultabb és kevésbé feszült az első randi? Így kerüld el a kínos helyzeteket",
+        "txtlength": 10723
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/lajfhekk/tim-berners-lee-internet-feltalaloja/",
+        "h1": "Mindennap rebegj el egy hálát: ő találta fel az internetet",
+        "txtlength": 7238
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kultura/2021/10/15/patti-smith-interju-rock-and-roll-punk-koncert-mupa-nobel-dijatado/",
+        "h1": "Patti Smith: Már nem a társadalomból való kiszakadás izgat, hanem hogy képes-e az emberiség összefogni",
+        "txtlength": 18818
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2021/10/16/kell-egy-m0-s-a-tehervonatoknak-hogy-meg-lehessen-menteni-budat-a-brutalis-vasuti-forgalomtol/",
+        "h1": "Kell egy „M0-s” a tehervonatoknak, hogy meg lehessen menteni Budát a brutális vasúti forgalomtól",
+        "txtlength": 17772
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20211016_Dobrev_Marki_Zay_kampany_osszefoglalo",
+        "h1": "Az utolsó pillanatban szavazna az előválasztáson? Összeszedtük, mivel akarta meggyőzni önt Dobrev Klára és Márki-Zay Péter",
+        "txtlength": 16740
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/belfold/2021/10/16/az-koltotte-a-legtobbet-kozossegi-medias-hirdetesre-az-elovalasztasi-kampanyban-aki-nem-is-indul-rajta",
+        "h1": "Az költötte a legtöbbet közösségi médiás hirdetésre az előválasztási kampányban, aki nem is indul rajta",
+        "txtlength": 16204
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/eszkombajn/2021/10/16/william-walker-tennesse-zsoldosvezer-kalandor-filibuster-mexiko-nicaragua-diktator",
+        "h1": "Walker, a tennessee-i zsoldosvezér, aki Nicaragua diktátora lett",
+        "txtlength": 15377
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/gazdasag/20211015_ellenzek_dobrev_marki_zay_koltsegvetes",
+        "h1": "Megnéztük, honnan szerezhetne pénzt Dobrev Klára vagy Márki-Zay Péter a kampányígéretei betartására",
+        "txtlength": 15246
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/tudomany/20211016_negyedik_oltas_nemetorszag_szputnyik_koronavirus",
+        "h1": "Oltatlannak számítanak, ezért újra beoltottak szputnyikos magyarokat Németországban",
+        "txtlength": 14751
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kult/2021/10/15/kovacs-akos-novellak-ezt-nem-lehet-meguszni-konyv-kritika",
+        "h1": "Ezt jobb lett volna megúszni – kritika Kovács Ákos novelláiról",
+        "txtlength": 11771
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kultura/2021/10/15/az-utolso-parbaj-kritika-matt-damon-adam-driver/",
+        "h1": "Ridley Scott lovagi köntösbe bújtatta a 21. század égető problémáit",
+        "txtlength": 11306
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/lanchid-felujitas-ott-jartunk-megneztuk-exkluziv-video-kooroszlan/km9z92f",
+        "h1": "Mi lett a szobrokkal? Eltűntek a kőoroszlánok a Lánchídról: ez történt velük a felújítás alatt – Exkluzív videó a híd belsejéből",
+        "txtlength": 11235
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/10/15/kover-laszlo-arrol-beszelt-a-parlamentben-hogy-az-agymukodesunket-valakik-neurotechnologiai-eszkozokkel-koponyan-belulrol-fogjak-iranyitani",
+        "h1": "Kövér László arról beszélt a Parlamentben, hogy az agyműködésünket valakik neurotechnológiai eszközökkel, koponyán belülről fogják irányítani",
+        "txtlength": 11154
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/10/15/kritikus-a-koronavirus-helyzet-romaniaban-tobb-orszag-es-a-who-is-segit",
+        "h1": "Kritikus a koronavírus-helyzet Romániában, több ország és a WHO is segít",
+        "txtlength": 11048
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/blikk-tv/aktualis/lanchid-felujitas-ott-jartunk-megneztuk-exkluziv-video-kooroszlan/v16p86w",
+        "h1": "Mi lett a szobrokkal? Eltűntek a kőoroszlánok a Lánchídról: ez történt velük a felújítás alatt – Exkluzív videó a híd belsejéből",
+        "txtlength": 10623
+    },
+    {
         "hostname": "kulturpart.hu",
         "pagelink": "https://kulturpart.blog.hu/2021/10/11/feltarul_a_kodaly-korondon_tuli_vilag",
         "h1": "FELTÁRUL A KODÁLY-KÖRÖNDÖN TÚLI VILÁG",
