@@ -1,6 +1,186 @@
 [
     {
         "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/a-legfinomabb-csokitorta.recept",
+        "h1": "A LEGFINOMABB CSOKITORTA",
+        "txtlength": 11789
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/darabos-keksztekercs.recept",
+        "h1": "DARABOS KEKSZTEKERCS",
+        "txtlength": 9528
+    },
+    {
+        "hostname": "kiszamolo.hu",
+        "pagelink": "https://kiszamolo.hu/zold-hitel-feltetelek/",
+        "h1": "Zöld hitel feltételek",
+        "txtlength": 34786
+    },
+    {
+        "hostname": "alapblog.hu",
+        "pagelink": "https://alapblog.hu/fizetesi-rendszerek-a-valtozas-kuszoben-iv-resz-mi-a-helyzet-magyarorszagon-a-hazai-kartyas-fizetesi-piacon/",
+        "h1": "Fizetési rendszerek a változás küszöbén IV. rész – Mi a helyzet Magyarországon a hazai kártyás fizetési piacon?",
+        "txtlength": 4265
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20211013_nobel_dij_kariko_katalin",
+        "h1": "Vita egy elmaradt Nobel-díjról – miért nem Karikó Katalin lett a díjazott?",
+        "txtlength": 27735
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20211016_wembley_angol_magyar_meccs_verekedes_london",
+        "h1": "Ilyen volt a Wembley-balhé közelről: kipakol a magyar szemtanú",
+        "txtlength": 19227
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20211015_bese_gergo_interju_egyhaz_nek_kormany",
+        "h1": "Egy évtized eredményeit veszélyeztetné a kormányváltás – Bese Gergő atya a Mandinernek",
+        "txtlength": 18776
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/kozelet/20211016/eldolt-a-hazaarulozasig-fajulo-kormany-ellenzek-vakcinavita/",
+        "h1": "Eldőlt a hazaárulózásig fajuló kormány-ellenzék vakcinavita",
+        "txtlength": 18190
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/vasarlas/20211016/ki-nem-talalod-milyen-pizzakra-buknak-a-videki-magyarok-itt-a-varosonkenti-toplista-1118500",
+        "h1": "Ki nem találod, milyen pizzákra buknak a vidéki magyarok: itt a városonkénti toplista",
+        "txtlength": 18166
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/tech/20211017/tud-valamit-a-90-ezer-forintos-fogkefe-amit-a-900-forintos-nem/",
+        "h1": "Tud valamit a 90 ezer forintos fogkefe, amit a 900 forintos nem?",
+        "txtlength": 17836
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20211015/kivegez-egy-ujabb-piacot-a-kormany-505458",
+        "h1": "Kivégez egy újabb piacot a kormány",
+        "txtlength": 17443
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/bank/20211017/beszantottak-a-google-bankgyilkos-szolgaltatasat-de-a-harc-folytatodik-505506",
+        "h1": "Beszántották a Google bankgyilkos szolgáltatását, de a harc folytatódik",
+        "txtlength": 16363
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/hitel/20211014/ilyen-lakashitel-meg-nem-volt-magyarorszagon-nem-csak-a-csaladosok-fiatalok-jarnak-jol-vele-1118356",
+        "h1": "Ilyen lakáshitel még nem volt Magyarországon: nem csak a családosok, fiatalok járnak jól vele",
+        "txtlength": 16316
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/uzlet/20211017/rendkivuli-lesz-az-idei-futesi-szezon-erre-lehet-eleg-a-magyar-gaztartalek-505456",
+        "h1": "Rendkívüli lesz az idei fűtési szezon - Erre lehet elég a magyar gáztartalék",
+        "txtlength": 15707
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2021/10/17/na-de-draga-akademikus-ur-minek-adjak-en-neked-penzt",
+        "h1": "„NA DE DRÁGA AKADÉMIKUS ÚR, MINEK ADJAK ÉN NEKED PÉNZT?”",
+        "txtlength": 14018
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/szuloseg/boldog-bolygo-index/",
+        "h1": "GDP helyett itt a jólét új mérőszáma: a boldogbolygó-index",
+        "txtlength": 12745
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/egeszseg/chili-hatasa-fajtai/",
+        "h1": "Rákellenes, fájdalomcsillapító, vérröggátló: a chili 5 fajtája, ami csupa egészség a szervezetnek",
+        "txtlength": 10557
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/belfold/2021/10/17/jakab-andras-alkotmanyjogasz-interju-feles-tobbseggel-alkotmanyozas-alaptorveny-semmis-polgarhaboru",
+        "h1": "A NER-nek kétharmaddal se, az ellenzéknek sima többséggel is? Ez abszurdum!",
+        "txtlength": 26985
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kultura/2021/10/17/testbeszed-joslas-matine/",
+        "h1": "Tudományos tény: ha nagy mellű nővel beszélsz, közben öntudatlanul légtapizol",
+        "txtlength": 22766
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kultura/2021/10/16/kortarstanc-kreativ-mozgas-studio-szocializmus-angelus-ivan-heti-fortepan/",
+        "h1": "Így táncolt be a szocializmusba a modern mozgás",
+        "txtlength": 20831
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/belfold/2021/10/17/ellenzeki-elovalasztas-tiz-emlekezetes-pillanata",
+        "h1": "Az előválasztás tíz legfontosabb mozzanata",
+        "txtlength": 19633
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/elet/20211016_R_Kelly_birosag_targyalas_szexualis_eroszak_bantalmazas",
+        "h1": "Azt hitte, őt csak Isten hallgattathatja el. Végül az áldozatai tették meg",
+        "txtlength": 19058
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kultura/2021/10/16/a-milliard-dollaros-forraskod-billion-dollar-code-a-milliard-dollaros-forraskod-netflix-google-sorozat-kritika/",
+        "h1": "Így lopta el a Google Earth-öt egy német startuptól a techóriás A milliárd dolláros forráskód szerint",
+        "txtlength": 15526
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20211016_szijjarto_peter_interu_al_dzsazira",
+        "h1": "Szijjártót a homofóbtörvényről, a demokrácia állapotáról, a Pegasus-botrányról és a huxitról is faggatták az al-Dzsazírán",
+        "txtlength": 13440
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/gazdasag/20211017_Es_akkor_elovalasztas_korhaz_hitel_ado_rezsi",
+        "h1": "És akkor Dobrev Klára és Márki-Zay Péter elárulták, mi van a kukájukban",
+        "txtlength": 13162
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/eszkombajn/2021/10/17/robotpilota-mukodes-repules-repulogep-afcs",
+        "h1": "Mennyire hülyebiztos egy robotpilóta?",
+        "txtlength": 11662
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/10/16/a-nike-egyik-igazgatoja-elarulta-hogy-56-evvel-ezelott-meggyilkolt-egy-18-eves-fiatalt",
+        "h1": "A Nike egyik igazgatója elárulta, hogy 56 évvel ezelőtt meggyilkolt egy 18 éves fiatalt",
+        "txtlength": 11321
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/10/17/egy-menekulo-ferfi-foldi-maradvanyai-kerultek-elo-herculaneumban",
+        "h1": "Egy menekülő férfi földi maradványai kerültek elő Herculaneumban",
+        "txtlength": 10804
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/piros-edit-taxidermia-vadaszat-no-preparatorno/gl0tb5t?sl_ps=d_8",
+        "h1": "Hiába kérik, házi kedvenceket nem töm ki a preparátornő",
+        "txtlength": 8905
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/krimi/maffia-konyv-valtozas-kiszallas-bolya-zoltan-vallomas-m-richard/yfefhsq?sl_ps=d_5",
+        "h1": "„M. Richárd késébe esett bele a barátom” – Kiábrándult az alvilágból, ma már tisztes családapa Zoltán – videó",
+        "txtlength": 8877
+    },
+    {
+        "hostname": "mindmegette.hu",
         "pagelink": "https://www.mindmegette.hu/a-tokeletes-piskota.recept",
         "h1": "A TÖKÉLETES PISKÓTA",
         "txtlength": 10668
