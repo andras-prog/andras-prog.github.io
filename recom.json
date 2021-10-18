@@ -1,6 +1,192 @@
 [
     {
         "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/amerikai-csokis-keksz-chocolate-chips-cookie-receptje.recept",
+        "h1": "AMERIKAI CSOKIS KEKSZ (CHOCOLATE CHIPS COOKIE)",
+        "txtlength": 10127
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/margareta-linzer.recept",
+        "h1": "MARGARÉTA LINZER",
+        "txtlength": 9302
+    },
+    {
+        "hostname": "kiszamolo.hu",
+        "pagelink": "https://kiszamolo.hu/ujabb-szomoru-inflacios-adatok/",
+        "h1": "Újabb szomorú inflációs adatok",
+        "txtlength": 31167
+    },
+    {
+        "hostname": "kulturpart.hu",
+        "pagelink": "https://kulturpart.blog.hu/2021/10/18/a_bank_nevet_a_vegen",
+        "h1": "A BANK NEVET A VÉGÉN",
+        "txtlength": 12964
+    },
+    {
+        "hostname": "alapblog.hu",
+        "pagelink": "https://alapblog.hu/szintet-lepett-a-holdradar/",
+        "h1": "Szintet lépett a Holdradar",
+        "txtlength": 4099
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2021/10/18/sari-stenfors-finn-jovokutato-a-remenyteli-jovokepek-evtizedekkel-meghosszabbithatjak-az-eletet",
+        "h1": "SARI STENFORS FINN JÖVŐKUTATÓ: A REMÉNYTELI JÖVŐKÉPEK ÉVTIZEDEKKEL MEGHOSSZABBÍTHATJÁK AZ ÉLETET",
+        "txtlength": 21123
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20211018/orokosodesi-illetek-2021-mutatjuk-mennyi-az-orokosodesi-illetek-mikor-kell-fizetni-es-milyen-kedvezmenyek-vannak-505598",
+        "h1": "Örökösödési illeték 2021: Mutatjuk, mennyi az örökösödési illeték, mikor kell fizetni, és milyen kedvezmények vannak",
+        "txtlength": 20089
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20211017/eldolt-az-ellenzeki-elovalasztas-dobrev-klara-gratulalt-marki-zay-peternek-505696",
+        "h1": "Eldőlt az ellenzéki előválasztás, Dobrev Klára gratulált Márki-Zay Péternek ",
+        "txtlength": 19438
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/penz/20211017/az-epitomunkasok-ketszer-annyibol-tudtak-takarekoskodni-a-reformkorban-mint-a-szolometszok/",
+        "h1": "Az építőmunkások kétszer annyiból tudtak takarékoskodni a reformkorban, mint a szőlőmetszők",
+        "txtlength": 19382
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20211018_marki_zay_gyurcsany_elovalasztas_gyozelem_ellenzek",
+        "h1": "Ellenzékváltás? A legkevésbé sem!",
+        "txtlength": 19058
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20211013_milak_kristof_uszas_mandiner_sport",
+        "h1": "Milák Kristóf pillangóra született",
+        "txtlength": 17665
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/global/20211018/elsok-voltunk-az-atoltottsagban-de-europa-elszaguldott-mellettunk-pedig-lehetne-ez-maskepp-is-505594",
+        "h1": "Elsők voltunk az átoltottságban, de Európa elszáguldott mellettünk - pedig lehetne ez másképp is",
+        "txtlength": 17421
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20211017_marki_zay_koszonom_a_dk_nak_mostantol_dobrev_klara_a_szovetsegesunk",
+        "h1": "Márki-Zay: Köszönöm a DK-nak, mostantól Dobrev Klára a szövetségesünk",
+        "txtlength": 17128
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vilag/20211018/a-lidl-utan-az-aldiban-is-megneztuk-olcsobb-e-kulfoldon-a-bevasarlas/",
+        "h1": "A Lidl után az Aldiban is megnéztük, olcsóbb-e külföldön a bevásárlás",
+        "txtlength": 16428
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/karrier/20211014/mar-jelentkezeskor-bukhatod-almaid-allasat-kevesen-gondoljak-de-ez-meg-mindig-fontos-1118472",
+        "h1": "Már jelentkezéskor bukhatod álmaid állását: kevesen gondolják, de ez még mindig fontos",
+        "txtlength": 14117
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/otthon/finom-kave-otthon/",
+        "h1": "Így lesz igazán finom az otthon főzött kávé: a darálás finomsága és a víz minősége is számít",
+        "txtlength": 12666
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/otthon/20211014/horror-a-magyar-lakaspiacon-mar-a-fel-eu-t-lehagytuk-dragulasban-1118555",
+        "h1": "Horror a magyar lakáspiacon: már a fél EU-t lehagytuk drágulásban",
+        "txtlength": 12602
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/lajfhekk/al-capone-tej-felcimkezese/",
+        "h1": "Al Capone tej",
+        "txtlength": 7527
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/belfold/2021/10/18/marki-zay-peter-ot-sulyos-kerdessel-nez-szembe-elemzes",
+        "h1": "Előlépett Orbán kihívója: Márki-Zay Péter öt súlyos kérdéssel néz szembe",
+        "txtlength": 21430
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2021/10/18/elovalasztas-2021-marki-zay-peter-dobrev-klara-miniszterelnok-jelolt/",
+        "h1": "Márki-Zay most leváltotta az ellenzéket, de a Fidesz ellen rájuk is szüksége lesz",
+        "txtlength": 21244
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2021/10/17/ellenzeki-elovalasztas-eredmeny-dobrev-klara-marki-zay-peter/",
+        "h1": "Márki-Zay Péter nyerte az ellenzéki előválasztást",
+        "txtlength": 20378
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/tudomany/2021/10/17/tatarjaras-magyar-kiraly-harc-ellenallas-mongol/",
+        "h1": "Tatárjárás: keményen ellenálltak a magyarok",
+        "txtlength": 17365
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/belfold/2021/10/17/ellenzeki-elovalasztas-2021-masodik-fordulo-elso-eredmenyek-dobrev-klara-marki-zay-peter",
+        "h1": "Budapesten szinte tarolt, és vidéken is győzött Márki-Zay az összes szavazat feldolgozása után",
+        "txtlength": 17152
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/10/18/emzepe-momentuma",
+        "h1": "Emzépé momentuma",
+        "txtlength": 13572
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/belfold/2021/10/17/marki-zay-peter-portre-eletut-elovalasztas-mindenki-magyarorszaga-mozgalom-hodmezovasarhely",
+        "h1": "Márki-Zay Péter: hétgyerekes vendégmunkásból Orbán Viktor kihívója",
+        "txtlength": 13228
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/politika/elovalasztas-eredmenyek-szavazat-dobrev-klara-marki-zay-peter/l6gv8qd",
+        "h1": "Előválasztás: Márki-Zay Péter legyőzte Dobrev Klárát az előválasztás második fordulójában: íme, az eredménynek",
+        "txtlength": 13143
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20211017_MarkiZay_Peter_bejelentese__elo",
+        "h1": "Márki-Zay Péter: Ma ellenzéket is váltottunk",
+        "txtlength": 13108
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://eduline.hu/kozoktatas/20211018_HVG_kozepiskolai_rangsor",
+        "h1": "Van olyan gimnázium, ahonnan a végzősök fele külföldre ment: a világ topegyetemein is tarolnak az ország legjobb középiskolái",
+        "txtlength": 12169
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/10/18/szicilia-egy-reszen-harom-evig-nem-lehet-keresztszuloket-felkerni",
+        "h1": "Szicília egy részén három évig nem lehet keresztszülőket felkérni",
+        "txtlength": 12086
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/krimi/regi-bunugyek-exnyomozo-brfk-rablas-elfogas/qqb0e72?sl_ps=d_2",
+        "h1": "Reménytelen nyomozás váratlan fordulattal - így lett a magyar nyomozó a „Szerencse fia”",
+        "txtlength": 11232
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20211017_Dobrev_vagy_MarkiZay_Kovesse_velunk_eloben_az_eredmenyeket",
+        "h1": "Dobrev Klára 8-kor gratulált Márki-Zay Péternek, ő lesz a közös jelölt - a nap története",
+        "txtlength": 10635
+    },
+    {
+        "hostname": "mindmegette.hu",
         "pagelink": "https://www.mindmegette.hu/a-legfinomabb-csokitorta.recept",
         "h1": "A LEGFINOMABB CSOKITORTA",
         "txtlength": 11789
