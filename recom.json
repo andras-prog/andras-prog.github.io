@@ -1,5 +1,167 @@
 [
     {
+        "hostname": "hataratkelo.blog.hu",
+        "pagelink": "https://hataratkelo.blog.hu/2021/10/08/berlin_magyar_szemmel",
+        "h1": "Berlin magyar szemmel",
+        "txtlength": 53499
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/penz/20211018/allampapirokkal-az-inflacio-ellen-melyikkel-erjuk-el-a-legjobb-eredmenyt/",
+        "h1": "Állampapírokkal az infláció ellen – melyikkel érjük el a legjobb eredményt?",
+        "txtlength": 29106
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20211013_reviczky_gabor_interju_mandiner_szinhaz",
+        "h1": "A hagyományos színházban minden benne van – Reviczky Gábor a Mandinernek",
+        "txtlength": 27204
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vallalat/20211019/megvan-az-elso-komoly-jele-hogy-csodok-johetnek-a-magyar-arampiacon/",
+        "h1": "Megvan az első komoly jele, hogy csődök jöhetnek a magyar árampiacon",
+        "txtlength": 26216
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20211018_egy_helyett_ket_lepesben_valosulhat_meg_a_gyurcsany_terv_elemzok_a_mandinernek",
+        "h1": "Egy helyett két lépésben valósulhat meg a Gyurcsány-terv – elemzők a Mandinernek",
+        "txtlength": 19841
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20211015_orosz_anna_momentum_fekete_gyor_elnokseg",
+        "h1": "Fekete-Győr megy, de ki lehet a Momentum új elnöke?",
+        "txtlength": 18727
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20211019/megint-emelkedik-a-nyugdijkorhatar-mutatunk-mindent-amit-tudni-kell-a-2022-es-emelesrol-a-korhatarrol-es-a-kedvezmenyekrol-505898",
+        "h1": "Megint emelkedik a nyugdíjkorhatár: mutatunk mindent, amit tudni kell a 2022-es emelésről, a korhatárról és a kedvezményekről",
+        "txtlength": 16786
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/unios-forrasok/20211019/itt-vannak-a-legnagyobb-meglepetesek-a-napelemes-palyazatban-505918",
+        "h1": "Itt vannak a legnagyobb meglepetések a napelemes pályázatban",
+        "txtlength": 16627
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/karrier/20211013/szja-visszaterites-2022-itt-van-minden-amit-tudni-kell-ki-pontosan-mennyit-fog-kapni-1118524",
+        "h1": "SZJA-visszatérítés 2022: itt van minden, amit tudni kell, ki, pontosan mennyit fog kapni",
+        "txtlength": 15782
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/uzlet/20211018/nagy-valtozas-keszulodik-energiatarolokkal-latnak-el-a-magyarorszagi-naperomuveket-505290",
+        "h1": "Nagy változás készülődik: energiatárolókkal látnák el a magyarországi naperőműveket",
+        "txtlength": 15697
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2021/10/19/a-jarvanyban-megnott-az-igeny-az-5g-re-es-a-szupergyors-internetre-fel-is-gyorsult-a-halozatok-fejlesztese",
+        "h1": "A JÁRVÁNYBAN MEGNŐTT AZ IGÉNY AZ 5G-RE ÉS A SZUPERGYORS INTERNETRE, FEL IS GYORSULT A HÁLÓZATOK FEJLESZTÉSE",
+        "txtlength": 14641
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/karrier/20211015/rengeteg-magyar-allaskereso-setal-be-a-hr-csapdaba-utolag-keso-gondolkodni-1118567",
+        "h1": "Rengeteg magyar álláskereső sétál be a HR-csapdába: utólag késő gondolkodni",
+        "txtlength": 14205
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/egeszseg/gyogytorna-derekfajas/",
+        "h1": "Fertőzés is okozhat derékfájást: árulkodó, ha nyugalmi állapotban is jelentkezik a fájdalom",
+        "txtlength": 12373
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/szuloseg/jennifer-gates-hazassagi-szerzodes/",
+        "h1": "Álomesküvőn mondta ki az igent Jennifer Gates, de vajon kötött-e házassági szerződést?",
+        "txtlength": 9884
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2021/10/19/ozd-alpolgarmester-karlengetes-farkas-peter-barnabas-interju/",
+        "h1": "Lemondott ózdi alpolgármester: Ön még nem volt illuminált soha? És illumináltan sosem követett el hülyeséget?",
+        "txtlength": 29921
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/belfold/2021/10/19/elovalasztas-dobrev-klara-marki-zay-peter-szavazatok-elemzes",
+        "h1": "Bivalyerős Buda, két forduló közt lecserélődő százezrek – megnéztük, mik voltak Márki-Zay győzelmének fő elemei",
+        "txtlength": 18656
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20211019_Gyurcsany_csak_az_egyik_oka_Dobrev_veresegenek",
+        "h1": "Gyurcsány csak az egyik oka Dobrev vereségének",
+        "txtlength": 16980
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/fn/gazdasag/2021/10/19/gazdasag-orban-viktor-nyugdij-inflacio-hiany/",
+        "h1": "Tényleg olyan jól áll a gazdaság, ahogy Orbán mondja?",
+        "txtlength": 14814
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kulfold/2021/10/19/elovalasztas-marki-zay-gyozelme-kulfoldi-sajto-szemle",
+        "h1": "Magyar Trumpként döntené meg Orbán trónját – külföldi lapok Márki-Zay előválasztási győzelméről",
+        "txtlength": 14560
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/tudomany/2021/10/18/meghalt-kornai-janos-szechenyi-dijas-kozgazdasz",
+        "h1": "Meghalt Kornai János közgazdász, aki talán a legjobban értette a tervgazdaságot",
+        "txtlength": 14536
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/10/19/marki-zay-frakciot-ker",
+        "h1": "Márki-Zay frakciót kér",
+        "txtlength": 12740
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/10/18/zeman-orvosai-szerint-nem-tudja-ellatni-allamfoi-teendoit",
+        "h1": "Zeman az orvosai szerint nem tudja ellátni államfői teendőit",
+        "txtlength": 12126
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/fn/gazdasag/2021/10/18/zamardi-lakotelep-sun-resort/",
+        "h1": "Gigantikus lakótelepet építenének egy védett zamárdi láp mellé",
+        "txtlength": 12088
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/tudomany/20211019_geroscience_oregedestudomany_merkely_bela_huncover_kutatas",
+        "h1": "Egy öregedéstudományi folyóiratban jelent meg Merkely Béláék országos Covid-kutatása, de így is 33-szor idézték",
+        "txtlength": 11429
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://eduline.hu/kozoktatas/20211019_oxfordi_esszeversenyt_nyert_a_magyar_diak",
+        "h1": "Egy 18 éves magyar gimnazista nyerte az egyik legrangosabb oxfordi esszéversenyt",
+        "txtlength": 10514
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/muhiba-magzat-tragedia-maja-veteles/30bd25e",
+        "h1": "„Egy órán át dobogott a szíve, aztán el kellett engednem” – Mintavétel után vetélt el a kislányával Maja",
+        "txtlength": 9845
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/nemet-juhaszok-mentes-vajna-timi/yclhxdv",
+        "h1": "Vajna Timi is támogatja a német juhászok mentését",
+        "txtlength": 9033
+    },
+    {
         "hostname": "mindmegette.hu",
         "pagelink": "https://www.mindmegette.hu/amerikai-csokis-keksz-chocolate-chips-cookie-receptje.recept",
         "h1": "AMERIKAI CSOKIS KEKSZ (CHOCOLATE CHIPS COOKIE)",
