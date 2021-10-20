@@ -1,5 +1,185 @@
 [
     {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/csontleves-grizgaluskaval.recept",
+        "h1": "CSONTLEVES GRÍZGALUSKÁVAL",
+        "txtlength": 11640
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/szaftos-paprikas-csirke-nokedlivel.recept",
+        "h1": "SZAFTOS PAPRIKÁS CSIRKE NOKEDLIVEL",
+        "txtlength": 10879
+    },
+    {
+        "hostname": "hataratkelo.blog.hu",
+        "pagelink": "https://hataratkelo.blog.hu/2021/10/18/tucsok_es_bogar_avagy_gyujtoszenvedely_amerikai_modra#c40985788",
+        "h1": "Tücsök és bogár avagy gyűjtőszenvedély amerikai módra",
+        "txtlength": 72988
+    },
+    {
+        "hostname": "kulturpart.hu",
+        "pagelink": "https://kulturpart.blog.hu/2021/10/20/ujra_zengenek_makovecz_tornyai",
+        "h1": "ÚJRA ZENGENEK MAKOVECZ TORNYAI",
+        "txtlength": 6673
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/kozelet/20211020/a-szivem-szakad-meg-de-erre-kenyszerit-a-rendszer-felemeszti-a-tanarokat-az-elertektelenedo-fizetes/",
+        "h1": "„A szívem szakad meg, de erre kényszerít a rendszer” – felemészti a tanárokat az elértéktelenedő fizetés",
+        "txtlength": 28751
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20211020/carpe-diem-a-valasztasok-elott-700-milliardos-nyugdijhiany-a-koltsegvetesben-505866",
+        "h1": "Carpe diem a választások előtt: 700 milliárdos nyugdíjhiány a költségvetésben",
+        "txtlength": 23977
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20211019_mennyit_bir_a_marki_zay_jelenseg",
+        "h1": "Vita: mennyit bír a „Márki-Zay jelenség”?",
+        "txtlength": 22470
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/utazas/20211019/huzos-hosszu-hetvege-ele-neznek-a-magyar-csaladok-aremeles-tumultus-varja-oket-1118495",
+        "h1": "Húzós hosszú hétvége elé néznek a magyar családok: áremelés, tumultus várja őket",
+        "txtlength": 21546
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/kozelet/20211018/lassuk-az-energiat-a-valsagban/",
+        "h1": "Lássuk az energiát a válságban",
+        "txtlength": 21055
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20211019_horthy_veszpremy_tortenelem",
+        "h1": "A Horthy-korszak első évéről, toposzok nélkül – Veszprémy László Bernát új könyvéről",
+        "txtlength": 20963
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20211020_bevandorlas_orban_balazs_bryan_caplan_kovats_andras",
+        "h1": "Szabad bevándorlás: sci-fi vagy lehetőség? – Orbán Balázs vitája Bryan Caplannal és Kováts Andrással",
+        "txtlength": 20251
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/vasarlas/20211017/sosem-latott-felvasarlasi-hullam-indulhat-meg-melyen-a-zsebebe-nyulhat-aki-karacsonyig-kivar-1118594",
+        "h1": "Sosem látott felvásárlási hullám indulhat meg: mélyen a zsebébe nyúlhat, aki karácsonyig kivár",
+        "txtlength": 20186
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2021/10/20/milyen-erzes-megoregedni",
+        "h1": "MILYEN ÉRZÉS MEGÖREGEDNI?",
+        "txtlength": 19746
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/global/20211020/katasztrofaval-fenyeget-a-klimacsucs-johnsont-az-energiavalsag-szoritotta-sarokba-bident-sajat-partja-teheti-nevetsegesse-a-vilag-elott-506106",
+        "h1": "Katasztrófával fenyeget a klímacsúcs: Johnsont az energiaválság szorította sarokba, Bident saját pártja teheti nevetségessé a világ előtt",
+        "txtlength": 16252
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20211020/jon-az-eu-csucs-letornek-az-energiaarakat-a-lengyelek-a-klimacsomag-modositasaval-506194",
+        "h1": "Jön az EU-csúcs: letörnék az energiaárakat a lengyelek a klímacsomag módosításával",
+        "txtlength": 15299
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/fogyokura/smoothie-bowl-fogyas/",
+        "h1": "Felpörgeti az ellustult anyagcserét és sokáig eltelít: így építsd be a diétádba a smoothie bowlokat a dietetikus szerint",
+        "txtlength": 14941
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/lajfhekk/mosokapszula-hasznalata/",
+        "h1": "Mosókapszula használata",
+        "txtlength": 7510
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kultura/2021/10/19/teljesen-atalakul-a-budai-varnegyed-egyik-legertekesebb-szocmodern-epulete/",
+        "h1": "Teljesen átalakul a budai Várnegyed egyik legértékesebb szocmodern épülete",
+        "txtlength": 19546
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/gazdasag/2021/10/20/elelmiszer-dragulas-inflacio-vilagpiaci-ar-fao-ksh",
+        "h1": "Amikor legutóbb ilyen drága volt az ennivaló, forradalmak törtek ki",
+        "txtlength": 18411
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20211019_ellenzek_2018_2022",
+        "h1": "Az elmúlt négy választás leckéje, hogy az ellenzék nem eshet szét, ha nyerni akar",
+        "txtlength": 15201
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/elet/20211019_pinter_bela_marshal_fiftysix_kritika_galvolgyi_janos_pinter_bela_es_tarsulata",
+        "h1": "A keresztényellenes, beteg, perverz rendező megmutatja a Fidesz Magyarországát",
+        "txtlength": 14881
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/fn/gazdasag/2021/10/20/egeszsgugy-szakdolgozok-beremeles/",
+        "h1": "Szakdolgozók béremelése: 30 százalékról állapodtak meg, de 9 százalék valahogy elveszett",
+        "txtlength": 13749
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kultura/2021/10/19/geniusz-kvizmusor-atv-gundel-takacs-gabor/",
+        "h1": "A Géniusz visszatekeri az időgépet, és tényleg az nyer benne, aki tudja a helyes választ",
+        "txtlength": 13687
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20211020_Orban_Balazs_migracio_kommunikacio",
+        "h1": "Orbán Balázst egy migrációról szóló beszélgetésen szembesítették azzal, hogy itthon nő a bevándorlás",
+        "txtlength": 13641
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/belfold/2021/10/19/lakitelek-tisza-hid-m44-gyorsforgalmi",
+        "h1": "Duna-hídnak készült, Tisza-híd lett belőle",
+        "txtlength": 13208
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/szorakozas/2021/10/20/solvenest-akasztott-ember-nyomozas-jatek-szabaduloszoba",
+        "h1": "Kipróbáltuk az online szabadulószobát, ami a végén majdnem az őrületbe kergetett",
+        "txtlength": 11826
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/10/19/varga-judit-nem-engedheto-meg-hogy-civil-szervezetek-velemenye-alkossa-az-europai-bizottsag-jogallamisagi-jelentesenek-alapjat",
+        "h1": "Varga Judit: Nem engedhető meg, hogy civil szervezetek véleménye alkossa az Európai Bizottság jogállamisági jelentésének alapját",
+        "txtlength": 11811
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/10/20/mire-eleg-negyvenezer",
+        "h1": "Mire elég negyvenezer?",
+        "txtlength": 11609
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/politika/oktober-23-orban-viktor-unnepi-beszed/yl3gcxy",
+        "h1": "Október 23.: szokatlan helyen tartja ünnepi beszédét Orbán Viktor – Úgy néz ki, Gyurcsány is szerepet kap, járványügyi korlátozás viszont nem lesz",
+        "txtlength": 10379
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/krimi/fejer-megye-tac-gyilkossag-dramai-reszletek-eltartasi-szerzodes/xgpvrm0?sl_ps=d_5",
+        "h1": "Gyilkosság Tácon: jótevőjét ölte meg a 22 éves Roland – Már évek óta gyűltek a sérelmek, ez vezethetett a tragédiához",
+        "txtlength": 9026
+    },
+    {
         "hostname": "hataratkelo.blog.hu",
         "pagelink": "https://hataratkelo.blog.hu/2021/10/08/berlin_magyar_szemmel",
         "h1": "Berlin magyar szemmel",
