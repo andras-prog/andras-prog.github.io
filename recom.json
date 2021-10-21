@@ -1,6 +1,186 @@
 [
     {
         "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/gluten-es-laktozmentes-kakaos-csiga-recept.recept",
+        "h1": "GLUTÉN- ÉS LAKTÓZMENTES KAKAÓS CSIGA",
+        "txtlength": 11107
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/toltott-kaposzta-fustolt-szalonnaval.recept",
+        "h1": "TÖLTÖTT KÁPOSZTA",
+        "txtlength": 11075
+    },
+    {
+        "hostname": "hataratkelo.blog.hu",
+        "pagelink": "https://hataratkelo.blog.hu/2021/10/18/tucsok_es_bogar_avagy_gyujtoszenvedely_amerikai_modra#c40988028",
+        "h1": "Tücsök és bogár avagy gyűjtőszenvedély amerikai módra",
+        "txtlength": 67713
+    },
+    {
+        "hostname": "kulturpart.hu",
+        "pagelink": "https://kulturpart.blog.hu/2021/10/17/egy_zulu_enekmondo_es_egy_svajci_trombitas_utazik_a_vonaton",
+        "h1": "EGY ZULU ÉNEKMONDÓ ÉS EGY SVÁJCI TROMBITÁS UTAZIK A VONATON...",
+        "txtlength": 5005
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20211020/magyarorszag-tobb-sebbol-verzik-ket-evtized-regenye-506266",
+        "h1": "Magyarország több sebből vérzik - Két évtized regénye",
+        "txtlength": 37908
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/global/20211021/tortenelmi-lehetoseg-kapujaban-a-magyar-autoipar-nemetorszaggal-kerulhetunk-egy-ligaba-az-akkumulatorgyartas-reven-505494",
+        "h1": "Történelmi lehetőség kapujában a magyar autóipar - Németországgal kerülhetünk egy ligába az akkumulátorgyártás révén",
+        "txtlength": 26312
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20211020_ciganysag_valasztas_kormanyzat_2022",
+        "h1": "Hogyan nyerd meg/veszítsd el a választást a cigányokkal 2022-ben?",
+        "txtlength": 24340
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/deviza/20211021/miert-esik-ilyen-csunyan-a-forint-mikozben-az-mnb-folyamatosan-emeli-a-kamatot-506304",
+        "h1": "Miért esik ilyen csúnyán a forint, miközben az MNB folyamatosan emeli a kamatot?",
+        "txtlength": 20061
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vallalat/20211021/megneztunk-egy-magyar-korforgasos-gazdasagot-allami-tamogatas-nelkul-aligha-fejlodhetnek-hasonlok/",
+        "h1": "Megnéztünk egy magyar körforgásos gazdaságot – állami támogatás nélkül aligha fejlődhetnek hasonlók",
+        "txtlength": 19160
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20211020_legimentok_vezetoje",
+        "h1": "Kötelezővé kellene tenni az oltást – a légimentők vezetője a Mandinernek",
+        "txtlength": 19139
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vallalat/20211019/kevesebb-dolgozo-tobbet-termel-egy-sor-agazatot-leszalkasitott-a-jarvany-magyarorszagon/",
+        "h1": "Kevesebb dolgozó többet termel, egy sor ágazatot leszálkásított a járvány Magyarországon",
+        "txtlength": 18478
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20211021_elkurtuk_film_ujpest",
+        "h1": "Ellehetetlenítette az Elk*rtuk vetítését a balliberális újpesti vezetés (VIDEÓ)",
+        "txtlength": 18037
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/gazdasag/20211019/itt-az-elemzok-joslata-a-vartnal-tartosabb-lehet-a-dragulas-1118680",
+        "h1": "Itt az elemzők jóslata: a vártnál tartósabb lehet a drágulás",
+        "txtlength": 17185
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/karrier/20211018/nem-csak-a-kieges-pusztit-a-munkahelyeken-7-ok-amiert-pszichologusnal-kothetsz-ki-1118573",
+        "h1": "Nem csak a kiégés pusztít a munkahelyeken: 7 ok, amiért pszichológusnál köthetsz ki",
+        "txtlength": 14906
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2021/10/21/forro-krumplikent-dobalja-egymasnak-a-kormany-es-a-fovaros-a-hanyattatott-sorsu-biodomot",
+        "h1": "FORRÓ KRUMPLIKÉNT DOBÁLJA EGYMÁSNAK A KORMÁNY ÉS A FŐVÁROS A HÁNYATTATOTT SORSÚ BIODÓMOT",
+        "txtlength": 13785
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/szepseg/sarah-baartman-tortenete/",
+        "h1": "Nagy feneke miatt lett látványosság Európában Sarah Baartman rabszolganő - A női test kizsákmányolása 200 éve",
+        "txtlength": 13115
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/szuloseg/abortusz-terhesseg-terhessegmegszakitas/",
+        "h1": "5 sztár, aki a terhességmegszakítás mellett döntött",
+        "txtlength": 11213
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/komplex/2021/10/21/horthy-es-kadar-utan-ma-semjen-a-fovadasz",
+        "h1": "\n      Horthy és Kádár után most Semjén a fővadász\n    ",
+        "txtlength": 22172
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/kultura/20211020_Halasz_Judit_Azt_mondjak_a_gyerekek_a_leghalasabb_kozonseg_de_ennek_az_ellenkezoje_igaz",
+        "h1": "Halász Judit: Azt mondják, a gyerekek a leghálásabb közönség, de ennek az ellenkezője igaz",
+        "txtlength": 19809
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/fn/gazdasag/2021/10/21/nevis-offshore-paradicsom/",
+        "h1": "A DK-s képviselő érdekeltsége mellett NER-es szálak is vezetnek a karibi adóparadicsomba",
+        "txtlength": 18217
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/belfold/2021/10/21/kormanyinfo-gulyas-gergely-oktober-21",
+        "h1": "Gulyás: A magyarok felnőttek, eldöntik maguk, hordanak-e maszkot",
+        "txtlength": 16085
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/10/21/gulyas-gergely-szemkilovetes-artatlan-emberek-megveretese-es-csonttores-nem-varhato",
+        "h1": "Gulyás Gergely: Szemkilövetés, ártatlan emberek megveretése és csonttörés nem várható",
+        "txtlength": 15187
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kultura/2021/10/20/galantai-fekete-ilona-helena-galantha-ismeretlen-magyarok-horvath-gyuri/",
+        "h1": "Elszökött egy cigányprímással a bárónő, majd forradalmasította az orvostudományt",
+        "txtlength": 14478
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/10/21/pompasan-buszozunk",
+        "h1": "Pompásan buszozunk",
+        "txtlength": 12364
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/tudomany/2021/10/20/ken-dioxid-vulkan-felho-gaz/",
+        "h1": "Mit okoz a kén-dioxid felhő hazánk felett?",
+        "txtlength": 12169
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/politika/kormanyinfo-dontesek-gulyas-gergely-szentkiralyi-alexandra/1ldsy6k?sl_ps=d_1",
+        "h1": "Kormányinfó – Itt vannak a kormány legfrissebb döntései: Gulyás Gergely elárulta, intézkednek-e a benzinárakkal kapcsolatban, és beszélt a kötelező maszkviselésről is",
+        "txtlength": 11393
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/kkv/20211019_onkiszolgalo_bolt_magyarorszag_kiskereskedelem",
+        "h1": "Már itthon is van eladó nélküli közért, de azért szeretjük, ha valaki segít",
+        "txtlength": 9456
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/tamogatott-tartalom/2021/10/21/vasarlas-hitel-kolcson-halasztott-fizetes-bnpl-mastercard",
+        "h1": "A kasszánál dönthetünk, most vagy később fizetünk",
+        "txtlength": 9385
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/malev-praga-40-eve-baleset-betonnak-csapodott-repulogep-csoda-tulelte-mindenki/nh0nk2y?sl_ps=d_3",
+        "h1": "40 éve csapódott a betonnak Prágában a Malév repülője – Kész csoda, hogy mindenki élve szállt ki a kettétört gépből",
+        "txtlength": 9113
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/tudomany/20211021_szputnyik_engedelyeztetes",
+        "h1": "Az Európai Gyógyszerügynökség szerint idén már biztosan nem kap engedélyt a Szputnyik V",
+        "txtlength": 8227
+    },
+    {
+        "hostname": "mindmegette.hu",
         "pagelink": "https://www.mindmegette.hu/csontleves-grizgaluskaval.recept",
         "h1": "CSONTLEVES GRÍZGALUSKÁVAL",
         "txtlength": 11640
