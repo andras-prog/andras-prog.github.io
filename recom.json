@@ -1,6 +1,186 @@
 [
     {
         "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/klasszikus-linzer-recept.recept",
+        "h1": "KLASSZIKUS LINZER RECEPT",
+        "txtlength": 10931
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/tojasos-galuska-fejes-salataval.recept",
+        "h1": "TOJÁSOS GALUSKA FEJES SALÁTÁVAL",
+        "txtlength": 10644
+    },
+    {
+        "hostname": "hataratkelo.blog.hu",
+        "pagelink": "https://hataratkelo.blog.hu/2021/10/18/tucsok_es_bogar_avagy_gyujtoszenvedely_amerikai_modra#c40996276",
+        "h1": "Tücsök és bogár avagy gyűjtőszenvedély amerikai módra",
+        "txtlength": 87215
+    },
+    {
+        "hostname": "kulturpart.hu",
+        "pagelink": "https://kulturpart.blog.hu/2021/10/25/dune_film_kritika_denis_villeneuve_timothee_chalamet_zendaya",
+        "h1": "A NAGYSÁG ÁTKA",
+        "txtlength": 8019
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/kozelet/20211025/meg-17-havi-nyugdijat-is-fizethetne-a-kormany-ha-nem-venne-repteret/",
+        "h1": "Még 17. havi nyugdíjat is fizethetne a kormány, ha nem venne repteret",
+        "txtlength": 26559
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20211020_baloldal_kozelet_marki_zay_peter_gyurcsany_ferenc_elovalasztas",
+        "h1": "Vissza a füstös szobákba – továbbra is Gyurcsányék a legerősebbek",
+        "txtlength": 22582
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/otthon/20211022/igy-nyerhetsz-sulyos-milliokat-lakaseladaskor-kevesen-merik-bevallalni-de-nagyon-megeri-1118737",
+        "h1": "Így nyerhetsz súlyos milliókat lakáseladáskor: kevesen merik bevállalni, de nagyon megéri",
+        "txtlength": 20078
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/otthon/20211020/luxus-a-kobon-ilyen-kutyanapkozikbe-jaratja-kedvenceit-a-magyar-elit-1118694",
+        "h1": "Luxus a köbön: ilyen kutyanapközikbe járatja kedvenceit a magyar elit",
+        "txtlength": 19494
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.penzcentrum.hu/gazdasag/20211025/lerantjuk-a-leplet-tenyleg-ez-a-bank-lenne-a-szegenyek-hitelezoje-magyarorszagon-1118762",
+        "h1": "Lerántjuk a leplet: tényleg ez a bank lenne a szegények hitelezője Magyarországon?",
+        "txtlength": 19197
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20211024_keresztenyseg_baloldal_ellenzeki_osszefogas_marki_zay_pogranyi_lovas",
+        "h1": "„Márki-Zay egy balra nyitott jobboldali ember imázsát építi” – Pogrányi Lovas Miklós a Mandinernek",
+        "txtlength": 18898
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://makronom.mandiner.hu/cikk/20211022_gyorgylaszlo_acemoglu_eu",
+        "h1": "György László helyretette a sztárközgazdászt, aki kirúgná Magyarországot az unióból",
+        "txtlength": 18845
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/uzlet/20211025/valora-valt-a-terv-meghoditja-keszthelyi-erik-es-meszaros-lorinc-a-biztositasi-piacot-506912",
+        "h1": "Valóra vált a terv, meghódítja Keszthelyi Erik és Mészáros Lőrinc a biztosítási piacot?",
+        "txtlength": 17732
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/ingatlan/20211025/ezekre-a-lakasokra-csaphatsz-le-a-kedvezmenyes-zold-hitel-segitsegevel-terkepen-az-erintett-projektek-506746",
+        "h1": "Ezekre a lakásokra csaphatsz le a kedvezményes zöld hitel segítségével - Térképen az érintett projektek",
+        "txtlength": 16820
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vallalat/20211025/tevedes-hogy-fel-kell-bontani-a-magyar-varosok-utcait-a-kabelfekteteshez/",
+        "h1": "Tévedés, hogy fel kell bontani a magyar városok utcáit a kábelfektetéshez",
+        "txtlength": 15048
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2021/10/25/gigantikus-koltsegvetesbol-keszul-az-emberi-agy-sejtterkepe-es-bar-felidoben-jarunk-messze-meg-a-kituzott-cel",
+        "h1": "GIGANTIKUS KÖLTSÉGVETÉSBŐL KÉSZÜL AZ EMBERI AGY SEJTTÉRKÉPE, ÉS BÁR FÉLIDŐBEN JÁRUNK, MESSZE MÉG A KITŰZÖTT CÉL",
+        "txtlength": 12837
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/egeszseg/alvassegito-dolgok-haloszoba/",
+        "h1": "5 dolog a hálóban, ami nélkül nehéz a pihentető alvás: ha rosszul alszol, érdemes rájuk ügyelni",
+        "txtlength": 11640
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/lajfhekk/tampon-betet-noi-egeszseg-menstruacio/",
+        "h1": "tampon betet noi egeszseg menstruacio",
+        "txtlength": 9257
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/koronavirus/2021/10/24/virusvadaszat-konyv-kemenesi-gabor-barat-jozsef-covid-kutatas-virusok",
+        "h1": "Magunknak köszönhetjük a Covidot, és a következő világjárvány is a mi hibánk lesz",
+        "txtlength": 20602
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/tudomany/2021/10/24/klimavaltozas-globalis-felmelegedes-termeszetvedelem-biodiverzitas-megoldasok-jovo/",
+        "h1": "Ezt kell tennünk, ha meg akarjuk védeni a Földet",
+        "txtlength": 19745
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kulfold/2021/10/25/marki-zay-trump-hasonlosag-kulonbseg",
+        "h1": "Miért mondják Márki-Zayra, hogy ő a magyar Trump?",
+        "txtlength": 16295
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/tech/2021/10/24/xiaomi-telefon-teszt-11t-pro-kina",
+        "h1": "A Xiaomi 11T Pro egy remek telefon, de rosszkor van jó helyen",
+        "txtlength": 15563
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/sztarvilag/sztarban-sztar-leszek-tv2-show-majka-kollo-babett-papai-joci-toth-gabi/v7c10dt?sl_ps=d_10",
+        "h1": "Sztárban Sztár leszek! – Ezúttal neki kellett elhagynia a műsort",
+        "txtlength": 15276
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kulfold/2021/10/24/kurz-babis-matovic-orban-bukas/",
+        "h1": "Sorra buknak térségünk „elorbánosodó” vezetői, de nem szabad leírni őket",
+        "txtlength": 14809
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/fn/gazdasag/2021/10/24/ado-visszaterites-szja-aknak-tippek-szazezer-forintok/",
+        "h1": "Több százezres tippeket adunk az szja-visszatérítéshez, ám ezekhez mielőbb lépni kell",
+        "txtlength": 14545
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/10/24/hasznalt-esetenkent-veres-gumikesztyuk-millioit-exportaltak-amerikaba-a-jarvany-alatt",
+        "h1": "Használt, esetenként véres gumikesztyűk millióit exportálták Amerikába a járvány alatt",
+        "txtlength": 11663
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/oktober-23-ellenzek-bekemenet-unnepseg-orban-viktor-marki-zay-partok/dhyp3dq",
+        "h1": "Miért rejtőzködnek az ellenzék szavazói? A szakértő szerint ezért voltak látványosan kevesebben Márki-Zayék ünnepségén",
+        "txtlength": 11416
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/hvgkonyvek/20211024_Mit_hoz_a_jovo_a_megujulo_energiaforrasoknak",
+        "h1": "Mit hoz a jövő a megújuló energiaforrásoknak?",
+        "txtlength": 11150
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/10/25/erdotuzek-utan-most-aradasok-fenyegetik-eszak-kaliforniat",
+        "h1": "Erdőtüzek után most áradások fenyegetik Észak-Kaliforniát",
+        "txtlength": 10778
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20211023_Orban_Viktor_oktober_23_Bekemenet_fidesz",
+        "h1": "Orbán Viktor kampánynyitó beszédet tartott október 23-i megemlékezésként - összefoglaló",
+        "txtlength": 10043
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/vilag/20211025_who_koronavirus_jarvany_vedooltas_vakcina",
+        "h1": "WHO-igazgató: A járványnak akkor lesz vége, amikor a nemzetközi közösség úgy dönt",
+        "txtlength": 7627
+    },
+    {
+        "hostname": "mindmegette.hu",
         "pagelink": "https://www.mindmegette.hu/zserbo-ahogy-gaspar-bea-kesziti.recept",
         "h1": "ZSERBÓ, AHOGY GÁSPÁR BEA KÉSZÍTI",
         "txtlength": 10628
