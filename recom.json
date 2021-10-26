@@ -1,6 +1,192 @@
 [
     {
         "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/zoldbabfozelek-sult-virslivel.recept",
+        "h1": "ZÖLDBABFŐZELÉK SÜLT VIRSLIVEL",
+        "txtlength": 10590
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/grillezett-karaj-sajtos-brokkolival.recept",
+        "h1": "GRILLEZETT KARAJ SAJTOS BROKKOLIVAL",
+        "txtlength": 10569
+    },
+    {
+        "hostname": "kiszamolo.hu",
+        "pagelink": "https://kiszamolo.hu/az-inflacios-varakozasok/",
+        "h1": "Az inflációs várakozások",
+        "txtlength": 33549
+    },
+    {
+        "hostname": "efesasanisimasa.com",
+        "pagelink": "https://efesasanisimasa.com/2021/10/18/the-walking-dead-tv-series-2010/",
+        "h1": "The Walking Dead (TV-Series, 2010-)",
+        "txtlength": 12326
+    },
+    {
+        "hostname": "alapblog.hu",
+        "pagelink": "https://alapblog.hu/dragabb-lesz-a-farmer-is/",
+        "h1": "Drágább lesz a farmer (is)",
+        "txtlength": 10119
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20211025_covid_agy_denes_adam",
+        "h1": "Sokféleképpen károsíthatja az agyat a COVID – kutató a Mandinernek",
+        "txtlength": 30452
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20211020_kalomista_gabor_interju_kozelet_gyurcsany_ferenc",
+        "h1": "Amit Gyurcsány tett, az hazaárulás – Kálomista Gábor a Mandinernek",
+        "txtlength": 25274
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20211019_e-sport_interju_biro_balazs",
+        "h1": "Sport-e az e-sport? – Bíró Balázs a Mandinernek",
+        "txtlength": 24143
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vilag/20211026/kinaban-65-millio-lakas-all-uresen-de-az-ingatlanpiac-problemai-ennel-melyebbek/",
+        "h1": "Kínában 65 millió lakás áll üresen, de az ingatlanpiac problémái ennél mélyebbek",
+        "txtlength": 24037
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20211026/uj-reszletek-derultek-ki-arrol-hogy-magyarorszag-miert-csatlakozott-a-globalis-minimumadohoz-506770",
+        "h1": "Új részletek derültek ki arról, hogy Magyarország miért csatlakozott a globális minimumadóhoz",
+        "txtlength": 21884
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20211026/bod-peter-akos-ez-nem-hianygazdasag-a-kormanyoknak-kell-a-fekre-lepni-506880",
+        "h1": "Bod Péter Ákos: ez nem hiánygazdaság, a kormányoknak kell a fékre lépni",
+        "txtlength": 21773
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/uzlet/20211026/elindult-az-autowallis-reszvenyjegyzese-itt-vannak-a-reszletek-507058",
+        "h1": "Elindult az AutoWallis részvényjegyzése - Itt vannak a részletek",
+        "txtlength": 20432
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/auto/20211023/berugta-az-ajtot-a-jovo-ezt-tudja-a-tesla-onvezeto-rendszere-varosban-autopalyan-1118773",
+        "h1": "Berúgta az ajtót a jövő? Ezt tudja a Tesla önvezető rendszere városban, autópályán",
+        "txtlength": 17747
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2021/10/26/az-uj-technologiakkal-akar-onallo-otthoni-energiarendszert-is-kialakithatunk",
+        "h1": "AZ ÚJ TECHNOLÓGIÁKKAL AKÁR ÖNÁLLÓ OTTHONI ENERGIARENDSZERT IS KIALAKÍTHATUNK",
+        "txtlength": 17471
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/egeszseg/20211023/kiderult-a-c-vitamin-titok-ezt-jobb-ha-tudod-a-filleres-bolti-kapszulakrol-1118743",
+        "h1": "Kiderült a C-vitamin titok: ezt jobb, ha tudod a filléres, bolti kapszulákról",
+        "txtlength": 15909
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/kozelet/20211025/hiaba-hajtogatjak-a-kormanyvaltas-hianyanak-nincs-koze-a-gazdasagi-sikerekhez/",
+        "h1": "Hiába hajtogatják, a kormányváltás hiányának nincs köze a gazdasági sikerekhez",
+        "txtlength": 14811
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/utazas/ujbuda-vilag-legmenobb-kornyekei-kozott/",
+        "h1": "Ez a budapesti városrész lett a világ 7. legmenőbb környéke: a kávézókat, a bárokat és a fákat méltatta a brit magazin",
+        "txtlength": 10543
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/szuloseg/ikertestver-testeben/",
+        "h1": "A szeméből jöttek rá az orvosok, hogy magzatkorában lenyelte a saját ikertestvérét",
+        "txtlength": 9431
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/tldr/2021/10/26/karacsony-es-marki-zay-kuzdelme-belulrol",
+        "h1": "Karácsony és Márki-Zay küzdelme belülről",
+        "txtlength": 25204
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/10/26/karsai-daniel-a-feles-alkotmanyozas-paradoxona",
+        "h1": "Karsai Dániel: A feles alkotmányozás paradoxona",
+        "txtlength": 21494
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kulfold/2021/10/26/nato-oroszorszag-tanacs-megszunese",
+        "h1": "A hidegháború lezárásaként született, a megszűnése után máris beindult a nukleáris arzenállal fenyegetőzés",
+        "txtlength": 19492
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kultura/2021/10/25/alec-baldwin-portre-rust-halyna-hutchins-donald-trump/",
+        "h1": "Amerika kedvenc komikusa lett, de többet senki nem fog nevetni rajta – mi lesz Alec Baldwinnal?",
+        "txtlength": 19172
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/belfold/2021/10/26/karacsony-gergely-fopolgarmester-igeretek-nem-teljesult-eredmenyek-ket-ev-merlegen",
+        "h1": "Eltelt két év, mi teljesült az ígéretekből? Mérlegen Karácsony Gergely főpolgármestersége",
+        "txtlength": 16349
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kulfold/2021/10/25/gabby-petito-brian-laundrie-florida-maradvanyok-eltunes-holttest-usa-kerdesek",
+        "h1": "Annyi kérdés maradt nyitva, hogy a vőlegény halála még nem jelenti a Gabby Petito-ügy végét",
+        "txtlength": 15379
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2021/10/26/fidesz-allampopulizmus-konzervativ-populizmus-videk-tarsadalmi-feszultseg/",
+        "h1": "Így hódította meg a Fidesz állampopulizmusa a vidéki Magyarországot",
+        "txtlength": 15193
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kultura/2021/10/25/carmen-mola-spanyolorszag-alnev-botrany-planeta-dij-szexizmus-marketingfogas/",
+        "h1": "Egy nő kapta az egymillió eurós irodalmi díjat, aztán kiderült róla, hogy valójában három férfi",
+        "txtlength": 14705
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/gazdasag/20211026_fiatalok_lakas_hitel_mnb",
+        "h1": "Több fiatalt engedne lakáshitelhez jutni az MNB, de ennek nagy ára lehet",
+        "txtlength": 11033
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/gazdasag/20211026_uzemanyag_benzin_Dizel_ar_eu_eurostat",
+        "h1": "Tényleg drága a magyar benzin? Van ország, amivel nem cserélnénk",
+        "txtlength": 10569
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/taxisblokad-fotok-orban-viktor/wxckfzp",
+        "h1": "Amikor Orbán Viktor helikopterezett a taxisblokád miatt – Fotók az országot megbénító tiltakozásról",
+        "txtlength": 9804
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/hivatal-ugyintezes-rossz-szomszed/btf4nvz?sl_ps=d_9",
+        "h1": "Senki sem segít: hivatali útvesztőbe került Judit és családja, miután a szomszédjuk eltörte a szennyvízcsatornájukat",
+        "txtlength": 9170
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/tudomany/20211026_koronavirus_genetika_immunitas_covid_19_kutatok_kutatas",
+        "h1": "Genetikailag védettek a koronavírus ellen egyes emberek – a kutatók meg akarják őket találni",
+        "txtlength": 8086
+    },
+    {
+        "hostname": "mindmegette.hu",
         "pagelink": "https://www.mindmegette.hu/klasszikus-linzer-recept.recept",
         "h1": "KLASSZIKUS LINZER RECEPT",
         "txtlength": 10931
