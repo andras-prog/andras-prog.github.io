@@ -1,6 +1,180 @@
 [
     {
         "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/gulyasleves-csipetkevel-recept.recept",
+        "h1": "GULYÁSLEVES CSIPETKÉVEL",
+        "txtlength": 11319
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/rakott-pulykamell-zoldseges-kuszkusszal.recept",
+        "h1": "RAKOTT PULYKAMELL ZÖLDSÉGES KUSZKUSSZAL",
+        "txtlength": 11199
+    },
+    {
+        "hostname": "hataratkelo.blog.hu",
+        "pagelink": "https://hataratkelo.blog.hu/2021/10/18/tucsok_es_bogar_avagy_gyujtoszenvedely_amerikai_modra",
+        "h1": "Tücsök és bogár avagy gyűjtőszenvedély amerikai módra",
+        "txtlength": 88870
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/gazdasag/20211026/a-legtobb-csaladnak-nem-sokaig-lesz-a-szamlajan-az-szja-visszaterites-erre-keszulnek-2022-ben-1118818",
+        "h1": "A legtöbb családnak nem sokáig lesz a számláján az szja-visszatérítés: erre készülnek 2022-ben",
+        "txtlength": 28157
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20211020_1956_fokusz_forradalom_gyujtemeny",
+        "h1": "1956 – eddig nem publikált fotók a forradalom utcáiról!",
+        "txtlength": 21910
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20211020_usa_mexiko_fal_kulfold_migracio",
+        "h1": "Ahol a fal véget ér – riport a mexikói-amerikai határról",
+        "txtlength": 21316
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2021/10/26/viz-menekules-es-a-kakaos-csiga-illata-a-covidosok-almukban-passziv-elszenvedoi-a-nyomaszto-esemenyeknek",
+        "h1": "VÍZ, MENEKÜLÉS ÉS A KAKAÓS CSIGA ILLATA: A COVIDOSOK ÁLMUKBAN PASSZÍV ELSZENVEDŐI A NYOMASZTÓ ESEMÉNYEKNEK",
+        "txtlength": 20940
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vallalat/20211027/a-haboru-ota-nem-volt-ilyen-kaosz-ujabb-fontos-hazai-agazat-allt-fejre/",
+        "h1": "„A háború óta nem volt ilyen káosz” – újabb fontos hazai ágazat állt fejre",
+        "txtlength": 20471
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/penz/20211026/lehet-nagyobb-baj-a-magas-inflacional-es-valoszinuleg-lesz-is/",
+        "h1": "Lehet nagyobb baj a magas inflációnál, és valószínűleg lesz is",
+        "txtlength": 17675
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/global/20211027/a-szakadek-szelen-romania-a-jarvany-tarol-a-kormany-megbukott-a-partok-meg-csak-veszekednek-507258",
+        "h1": "A szakadék szélén Románia: a járvány tarol, a kormány megbukott, a pártok meg csak veszekednek",
+        "txtlength": 17629
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20211027_partizan_baloldal_kampany_ellenzek",
+        "h1": "Új sorozat indul, kampányeszköz lehet a Partizánból",
+        "txtlength": 17409
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/gazdasag/20211027/aremeles-jon-a-magyar-bankokban-valtozhat-a-szamlavezetes-az-utalas-dija-is-1118831",
+        "h1": "Áremelés jön a magyar bankokban: változhat a számlavezetés, az utalás díja is",
+        "txtlength": 17266
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20211027/vege-a-kotbernek-uj-szerzodesekkel-mentenek-meg-az-epitoipart-507052",
+        "h1": "Vége a kötbérnek: új szerződésekkel mentenék meg az építőipart",
+        "txtlength": 14273
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/uzlet/20211027/meg-mindig-a-google-az-online-hirdetesek-kiralya-507356",
+        "h1": "Még mindig a Google az online hirdetések királya",
+        "txtlength": 13172
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/egeszseg/latas-javitas-gyogynoveny/",
+        "h1": "Gátolják a szürke hályog kialakulását, csökkentik a gyulladást: 4 gyógynövény a bükki füvesember ajánlásával",
+        "txtlength": 10781
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/szuloseg/klimax-lelki-terhe/",
+        "h1": "klimax lelki terhe",
+        "txtlength": 9777
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/tldr/2021/10/27/kis-kapitalista-gepekke-valtoztatott-minket-a-rendszer-de-ez-alaashatja-a-demokraciat",
+        "h1": "Kis kapitalista gépekké változtatott minket a rendszer, de ez alááshatja a demokráciát",
+        "txtlength": 34662
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kulfold/2021/10/27/az-egesz-europai-unio-beleremeghet-a-lengyel-piszkosbombaba",
+        "h1": "Az egész Európai Unió beleremeghet a lengyel piszkosbombába",
+        "txtlength": 19777
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/tudomany/2021/10/27/szelsojobboldal-kozepkor-emlekezetpolitika-tortenelem-iszlam-allam",
+        "h1": "A középkor valójában nem volt egy hetero-fajvédő-keresztény aranykor, de a szélsőjobbot ez nem érdekli",
+        "txtlength": 17345
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/szorakozas/2021/10/26/far-cry-6-teszt",
+        "h1": "Egy anarchista harcikakas és egy idomított krokodil besétál egy kubai kocsmába",
+        "txtlength": 16047
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kulfold/2021/10/26/koronavirus-jarvany-negyedik-hullam-vedekezes-maszkviseles-vedekezes-europa/",
+        "h1": "Idehaza „ha bárki akarja, akkor maszkot hord”, más országok ennél jóval szigorúbbak",
+        "txtlength": 15940
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20211027_MarkiZay_az_MLMvadrol_Ot_hetig_voltam_hazalo_ugynok_de_nem_ott",
+        "h1": "Márki-Zay az MLM-vádról: „Öt hétig voltam házaló ügynök, de az is Kanadában”",
+        "txtlength": 15049
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/fn/gazdasag/2021/10/26/samsung-gyar-god-elhetetlen/",
+        "h1": "„Mit mondjak a gyerekeimnek, érdemes itt gyökeret verni, van itt jövőnk?”",
+        "txtlength": 14952
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://qubit.hu/2021/10/27/nemcsak-megalapozatlan-hanem-veszelyes-is-lehet-a-gyerekekre-varga-judit-csaladjogi-torvenytervezete",
+        "h1": "NEMCSAK MEGALAPOZATLAN, HANEM VESZÉLYES IS LEHET A GYEREKEKRE VARGA JUDIT CSALÁDJOGI TÖRVÉNYTERVEZETE",
+        "txtlength": 14726
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/fn/gazdasag/2021/10/27/budapest-airport-visszavasarlas-ferihegyi-repuloter/",
+        "h1": "Orbánék dupla áron vennék vissza a repülőteret, úgy számolnak, hogy 15 év alatt megtérülhet",
+        "txtlength": 11803
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/hintabaleset-krisztofer-bunozok-segitseg/vgkfcev",
+        "h1": "Bűnözők támogatják Krisztofer gyógyulását: a hintabaleset áldozatának családja hálás a segítségért",
+        "txtlength": 8968
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/kulfold/oltas-gyerekek-pfizer-amerikai-egyesult-allamok/tqdlfsv",
+        "h1": "Koronavírus: napokon belül elkezdhetik oltani az 5-11 éves gyerekeket",
+        "txtlength": 8624
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20211026_varga_judit_menekules_pegasus_ugy",
+        "h1": "Varga Judit ismét elmenekült, amikor a Pegasus-ügyről kérdezték",
+        "txtlength": 8621
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/tudomany/20211027_kutya_macska_otthoni_tanacsok_pet_meteo",
+        "h1": "Ha kutyája vagy macskája van otthon, néhány naponta ellenőrizze ezt a weboldalt",
+        "txtlength": 8145
+    },
+    {
+        "hostname": "mindmegette.hu",
         "pagelink": "https://www.mindmegette.hu/zoldbabfozelek-sult-virslivel.recept",
         "h1": "ZÖLDBABFŐZELÉK SÜLT VIRSLIVEL",
         "txtlength": 10590
