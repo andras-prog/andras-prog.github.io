@@ -1,6 +1,180 @@
 [
     {
         "hostname": "kiszamolo.hu",
+        "pagelink": "https://kiszamolo.hu/minek-szamit-a-varhato-orokseg/",
+        "h1": "Minek számít a várható örökség?",
+        "txtlength": 32461
+    },
+    {
+        "hostname": "alapblog.hu",
+        "pagelink": "https://alapblog.hu/a-fekete-kontinens-meguszta-a-jarvanyt/",
+        "h1": "A fekete kontinens megúszta a járványt?",
+        "txtlength": 11356
+    },
+    {
+        "hostname": "efesasanisimasa.com",
+        "pagelink": "https://efesasanisimasa.com/2021/10/23/mise-ejfelkor-midnight-mass-tv-mini-series-2021/",
+        "h1": "Mise éjfélkor (Midnight Mass, TV Mini Series, 2021)",
+        "txtlength": 10342
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/befektetes/20211029/ingatlan-allampapir-reszveny-nyersanyag-mibe-fektessunk-es-mi-alapjan-dontsunk-507672",
+        "h1": "Ingatlan, állampapír, részvény, nyersanyag – Mibe fektessünk és mi alapján döntsünk?",
+        "txtlength": 35495
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/uzlet/20211029/harmadik-oltas-magyarorszagon-kinek-ajanlott-a-harmadik-oltas-mikor-vegyuk-fel-milyen-vakcinat-kaphatunk-507506",
+        "h1": "Harmadik oltás Magyarországon: kinek ajánlott a harmadik oltás, mikor vegyük fel, milyen vakcinát kaphatunk?",
+        "txtlength": 23002
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20211030_varpalota_asatas_nagy_szabolcs",
+        "h1": "Így éltek eleink a végvári időkben – Nagy Szabolcs régész a Mandinernek",
+        "txtlength": 20244
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vilag/20211029/nem-hozott-atuto-eredmenyt-ahol-a-munkaadokra-biztak-az-oltas-eloirasat/",
+        "h1": "Nem hozott átütő eredményt, ahol a munkaadókra bízták az oltás előírását",
+        "txtlength": 19347
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20211029_hamis_vedettsegi_igazolvanyok_megdobbentok_a_magyar_szamok",
+        "h1": "Hamis védettségi igazolványok: megdöbbentők a magyar számok",
+        "txtlength": 19316
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20211029_belfold_gyurcsany_ferenc_soros_gyorgy_444_hu",
+        "h1": "Amerikai mintára, baloldali portálok újságíróival indul „tényellenőrző” oldal",
+        "txtlength": 18532
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/podcast/20211030/chikan-attila-kornai-kulso-szemlelokent-irta-le-a-rendszereket-amiket-vizsgalt/",
+        "h1": "Chikán Attila: Kornai külső szemlélőként írta le a rendszereket, amiket vizsgált",
+        "txtlength": 18495
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20211030/kotelezo-ceges-vedooltas-most-minden-fontos-kerdest-tisztazunk-507946",
+        "h1": "Kötelező céges védőoltás: most minden fontos kérdést tisztázunk",
+        "txtlength": 18235
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2021/10/30/lawrence-lessig-budapesten-ha-nem-tudjuk-szabalyozni-az-algoritmusokat-ok-fognak-szabalyozni-minket",
+        "h1": "LAWRENCE LESSIG BUDAPESTEN: HA NEM TUDJUK SZABÁLYOZNI AZ ALGORITMUSOKAT, ŐK FOGNAK SZABÁLYOZNI MINKET",
+        "txtlength": 18179
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/otthon/20211028/na-tessek-ez-most-megint-jol-felverte-a-budapesti-lakasarakat-itt-a-matek-1118911",
+        "h1": "Na, tessék: ez most megint jól felverte a budapesti lakásárakat, itt a matek",
+        "txtlength": 15655
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/auto/20211028/elszabadult-a-katalizator-maffia-magyarorszagon-sorra-fosztjak-ki-az-autokat-ez-a-modszeruk-1118776",
+        "h1": "Elszabadult a katalizátor-maffia Magyarországon: sorra fosztják ki az autókat, ez a módszerük",
+        "txtlength": 14769
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/egeszseg/civilizacios-betegseg/",
+        "h1": "7 civilizációs betegség, ami megelőzhető lenne: az érelmeszesedéstől az elhízásig",
+        "txtlength": 11424
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/lajfhekk/hutes-nelkuli-etelek/",
+        "h1": "Hűtés nélüli ételek",
+        "txtlength": 10991
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://qubit.hu/2021/10/30/lawrence-lessig-budapesten-ha-nem-tudjuk-szabalyozni-az-algoritmusokat-ok-fognak-szabalyozni-minket",
+        "h1": "LAWRENCE LESSIG BUDAPESTEN: HA NEM TUDJUK SZABÁLYOZNI AZ ALGORITMUSOKAT, ŐK FOGNAK SZABÁLYOZNI MINKET",
+        "txtlength": 17502
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/tech/2021/10/30/facebook-files-feltaras-belsos-dokumentumok-kozossegi-media/",
+        "h1": "9 mélyen felkavaró dolog, ami kiderült a Facebook belső dokumentumaiból",
+        "txtlength": 16527
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/belfold/2021/10/29/szalka-betonozas-medvehagymas-to-polgarmester-sajat-strand-vizicsuszda-megyei-fejlesztesi-terv",
+        "h1": "A tó a falué, de a partja már a polgármesteré",
+        "txtlength": 16239
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/kultura/20211029_Simon_Marton_interju",
+        "h1": "Simon Márton: Egy világvégi pénzváltóban becsületesebb versenyzők vannak, mint itthon a köztévén",
+        "txtlength": 15706
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/10/29/senki-sem-szamitott-ra-hogy-a-kormany-most-fogja-bedobni-a-kotelezo-oltast",
+        "h1": "Senki sem számított rá, hogy a kormány most fogja bedobni a kötelező oltást",
+        "txtlength": 15402
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/krimi/bankrablas-budapest-politikus-tamasi-gabor-regi-bunugy/zxetq7z",
+        "h1": "Bankrablás Budapesten: kiderült, politikus segített a fegyveresnek",
+        "txtlength": 15293
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/tech/2021/10/29/microsoft-windows-11-operacios-rendszer-teszt",
+        "h1": "Váltani vagy nem váltani? – két hétig nyüstöltük a Windows 11-et",
+        "txtlength": 15192
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/kkv/20211029_A_Facebook_uj_nevet_kap_es_virtualis_vilagot_epit_de_ez_nem_oldja_meg_a_regi_bajokat",
+        "h1": "A Facebook új nevet kap és virtuális világot épít, de ez nem oldja meg a régi bajokat",
+        "txtlength": 15034
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20211029_GiroSzasz_Andras_Orban_Viktor_interju",
+        "h1": "Giró-Szász András: Orbán Viktor le tudott bilincselni az intellektuális fölényével",
+        "txtlength": 14493
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kulfold/2021/10/29/szudan-katonai-puccs-ensz-usa-europai-unio/",
+        "h1": "Meg kell állítani a puccsjárványt – Szudán is visszafordult a képviseleti demokrácia kapujából",
+        "txtlength": 13461
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/fn/gazdasag/2021/10/29/god-meszaros-szennyviz/",
+        "h1": "A gödiek tiszta vizet szeretnének a poharukba, petíciót indítottak",
+        "txtlength": 10633
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/szorakozas/2021/10/30/kopasz-kor-a-budai-hegyseg-napos-oldalan",
+        "h1": "Az Eldugott Kilátó a Budai-hegység napos oldalán",
+        "txtlength": 10353
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/koronavirus-muller-ceclia-nemzeti-nepegeszsegugyi-kozpont-oltott-oltatlan-korhaz/szw00tc",
+        "h1": "Megkérdeztük, hogy az új fertőzöttek és elhunytak közül mennyien voltak beoltva: Müller Cecília ezt válaszolta",
+        "txtlength": 9694
+    },
+    {
+        "hostname": "kiszamolo.hu",
         "pagelink": "https://kiszamolo.hu/mit-tegyel-az-orokolt-vagyonnal/",
         "h1": "Mit tegyél az örökölt vagyonnal?",
         "txtlength": 35740
