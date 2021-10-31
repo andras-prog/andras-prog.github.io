@@ -1,5 +1,167 @@
 [
     {
+        "hostname": "hataratkelo.blog.hu",
+        "pagelink": "https://hataratkelo.blog.hu/2021/10/23/te_honnan_tajekozodsz",
+        "h1": "Te honnan tájékozódsz?",
+        "txtlength": 43447
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/bank/20211030/otthon-maradt-dolgozok-ujra-elokerulo-maszkok-igy-mukodik-most-a-magyar-penzugyi-szektor-507698",
+        "h1": "Otthon maradt dolgozók, újra előkerülő maszkok: így működik most a magyar pénzügyi szektor",
+        "txtlength": 27775
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20211030_mindszenty_zalaegerszeg_balaicz_istvan_ev_polgarmestere",
+        "h1": "Innováció, fejlesztések és értékőrzés Mindszenty városában",
+        "txtlength": 24639
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/egeszseg/20211027/szazezreket-koltenek-a-magyarok-erre-a-betegsegre-evente-rengetegen-nem-tudjak-van-mar-uj-kezeles-1118881",
+        "h1": "Százezreket költenek a magyarok erre a betegségre évente: rengetegen nem tudják, van már új kezelés",
+        "txtlength": 21657
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/elet/20211031/vegigjartuk-a-szalonokat-a-legnepszerubb-autokat-iden-mar-nem-kapjuk-meg/",
+        "h1": "Végigjártuk a szalonokat: a legnépszerűbb autókat idén már nem kapjuk meg",
+        "txtlength": 18954
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/global/20211031/5-pattanasig-feszult-krizis-ami-barmikor-kirobbanthatja-a-kovetkezo-nagy-haborut-507678",
+        "h1": "5 pattanásig feszült krízis, ami bármikor kirobbanthatja a következő nagy háborút",
+        "txtlength": 18552
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20211027_vegh_tamas_interju_kozelet_reformacio",
+        "h1": "Mindig van lehetőség a megújulásra – Végh Tamás lelkész a Mandinernek",
+        "txtlength": 18402
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2021/10/29/a-parizsi-egyezmeny-mar-nem-eleg-a-vasarnap-kezdodo-klimacsucson-az-elheto-jovo-biztositasa-a-tet",
+        "h1": "A PÁRIZSI EGYEZMÉNY MÁR NEM ELÉG, A VASÁRNAP KEZDŐDŐ KLÍMACSÚCSON AZ ÉLHETŐ JÖVŐ BIZTOSÍTÁSA A TÉT",
+        "txtlength": 17067
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/global/20211030/10-legendas-mesterlovesz-fegyver-amitol-rettegnek-a-harcmezokon-507944",
+        "h1": "10 legendás mesterlövész-fegyver, amitől rettegnek a harcmezőkön",
+        "txtlength": 16947
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vilag/20211030/egyre-tobb-a-zombi-szeneromu-projekt-de-kina-nelkul-eselytelen-a-szenmentes-jovo/",
+        "h1": "Egyre több a zombi szénerőmű-projekt, de Kína nélkül esélytelen a szénmentes jövő",
+        "txtlength": 16867
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20211029_a_papokat_kilovik_ugye",
+        "h1": "„A papokat kilövik, ugye?” – Vértesaljai László atya 2006 őszéről",
+        "txtlength": 16605
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/auto/20211027/rerepultek-a-seftesek-az-adblue-panikra-ennyit-kaszalnak-egyetlen-literjen-a-neten-1118868",
+        "h1": "Rérepültek a seftesek az AdBlue-pánikra: ennyit kaszálnak egyetlen literjén a neten",
+        "txtlength": 14966
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/egeszseg/cukorbetegseg-megelozes/",
+        "h1": "A rossz szénhidrát-anyagcsere következményei: súlyos szövődményeket okozhat",
+        "txtlength": 11781
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/lajfhekk/forrolevegos-suto-teszt/",
+        "h1": "Forrólevegős sütő teszt",
+        "txtlength": 8921
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/tudomany/2021/10/31/jarvany-pestis-kereskedelem-tortenelem/",
+        "h1": "Sokan nyerészkedtek még a legpusztítóbb járványon is",
+        "txtlength": 18506
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/foto/2021/10/30/capa-nagydij-szombat-eva-szexualitas-orgazmus",
+        "h1": "A lányoknak ezzel nem illik foglalkozniuk",
+        "txtlength": 16717
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/szorakozas/2021/10/31/jobaratok-gunther-james-michael-tyler-maggie-wheeler-jane-sibbett-jessica-hecht-tom-selleck-elliot-gould-christina-pickles-giovanni-ribisi-debra-jo-rupp-cole-sprouse/",
+        "h1": "Ben a Met-gáláig, Janice egy Lindsay Lohan-filmig jutott – megnéztük mi lett a Jóbarátok mellékszereplőivel",
+        "txtlength": 15052
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/elet-stilus/2021/10/30/dads-agains-predators-szexualis-ragadozo-onbiraskodas/",
+        "h1": "Két amerikai apa pedofilokat szégyenít meg – a hatóságok öngyilkosságokat írnak a számlájukra",
+        "txtlength": 14069
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kult/2021/10/30/a-karfiolt-odaegetni-gozolni-es-vad-dolgokkal-enni-nem-kell-felnetek",
+        "h1": "A karfiolt odaégetni, gőzölni, és vad dolgokkal enni nem kell félnetek",
+        "txtlength": 13893
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/eszkombajn/2021/10/31/hamburg-bombazasa-masodik-vilaghaboru-tuzvihar",
+        "h1": "A második világháborús bombázás, amit a németek Nagaszakijaként is emlegetnek",
+        "txtlength": 12524
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://osaarchivum.444.hu/2021/10/29/alternativ-tortenelem-a-privat-foto-es-film-alapitvanyon-keresztul",
+        "h1": "Alternatív történelem a Privát Fotó és Film Alapítványon keresztül",
+        "txtlength": 12295
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/10/30/az-biztos-hogy-nem-a-karanten-fogja-megallitani-nalunk-a-negyedik-hullamot",
+        "h1": "Az biztos, hogy nem a karantén fogja megállítani nálunk a negyedik hullámot",
+        "txtlength": 12083
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/gazdasag/20211031_Es_akkor_oltas_klima_lengyel_facebook_hitel_benzin",
+        "h1": "És akkor a kormány a cégekre hárította a döntést a kötelező oltásról",
+        "txtlength": 10525
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/krimi/tiszavidi-rem-sorozatgyilkos-gyilkossag-rejtely/cs7jqsj?sl_ps=d_4",
+        "h1": "„Árpád, hát mondja már meg, hova ásta el őket!” – Évtizedes rejtély nyomában: hány embert ölhetett meg a tiszavidi rém?",
+        "txtlength": 10191
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/nyugati-palyaudvar-tortenelem-ferenc-jozsef/smqz6jq",
+        "h1": "144 éves lett a Nyugati pályaudvar, ahol egykor Ferenc Józsefnek királyi várója is volt – fotók",
+        "txtlength": 9936
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/tudomany/20211031_merkely_koronavirus_lelegeztetogep_koronavirus",
+        "h1": "Merkely: Minden beteg, aki lélegeztetőgépen van, oltatlan",
+        "txtlength": 9059
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20211031_kincses_gyula_kotelezo_maszkhasznalat_bizalmi_szavazas",
+        "h1": "Kincses Gyula: Minden zárt térben el kellene rendelni a kötelező maszkhasználatot",
+        "txtlength": 7259
+    },
+    {
         "hostname": "kiszamolo.hu",
         "pagelink": "https://kiszamolo.hu/minek-szamit-a-varhato-orokseg/",
         "h1": "Minek számít a várható örökség?",
