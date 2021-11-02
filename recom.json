@@ -1,5 +1,179 @@
 [
     {
+        "hostname": "kiszamolo.hu",
+        "pagelink": "https://kiszamolo.hu/beszelnunk-kell-rola/",
+        "h1": "Beszélnünk kell róla",
+        "txtlength": 32261
+    },
+    {
+        "hostname": "alapblog.hu",
+        "pagelink": "https://alapblog.hu/luxus-orak-mint-befektetesi-eszkozok/",
+        "h1": "Luxus órák, mint befektetési eszközök",
+        "txtlength": 8393
+    },
+    {
+        "hostname": "kulturpart.hu",
+        "pagelink": "https://kulturpart.blog.hu/2021/10/26/kulonos_orjarat_veszi_kezdetet",
+        "h1": "KÜLÖNÖS ŐRJÁRAT VESZI KEZDETÉT",
+        "txtlength": 6242
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/kozelet/20211102/raktarosi-fizetesert-robotol-tobb-ezer-tanarseged-es-adjunktus-a-magyar-egyetemeken/",
+        "h1": "Raktárosi fizetésért robotol több ezer tanársegéd és adjunktus a magyar egyetemeken",
+        "txtlength": 23156
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20211102/a-bolygo-ledaralasat-nem-usszuk-meg-buntetlenul-507776",
+        "h1": "„A bolygó ledarálását nem ússzuk meg büntetlenül”",
+        "txtlength": 21270
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20211031_marki_zay_peter_belfold_migracio",
+        "h1": "Márki-Zay: Simán előfordulhat, hogy a Kutyapárt miatt fog Orbán Viktor hatalmon maradni",
+        "txtlength": 19733
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2021/10/31/a-tortenelem-mozgatorugoja-a-csere",
+        "h1": "A TÖRTÉNELEM MOZGATÓRUGÓJA: A CSERE",
+        "txtlength": 18073
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/uzlet/20211101/veget-erhet-az-online-gyogyszerrendeles-magyarorszag-szembe-megy-a-forgalommal-a-digitalis-sztradan-508060",
+        "h1": "Véget érhet az online gyógyszerrendelés - Magyarország szembe megy a forgalommal a digitális sztrádán",
+        "txtlength": 18072
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20211101_giro_szasz_andras_belfold_orban_viktor_marki_zay_peter_orban_kormany",
+        "h1": "Orbán Viktor volt főtanácsadója: Nincs kormányváltó hangulat",
+        "txtlength": 17490
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/otthon/20211101/sokaknak-csak-alom-marad-horror-aron-mennek-a-horgasznyaralok-magyarorszagon-1118924",
+        "h1": "Sokaknak csak álom marad: horror áron mennek a horgásznyaralók Magyarországon",
+        "txtlength": 16999
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20211029_fovarosi_kozgyules_vizsgalobizottsag_budapest_e_jegyrendszer_havasi_gabor",
+        "h1": "A fővárosi vizsgálóbizottság rájött, képtelen határidőre leadni a jelentését",
+        "txtlength": 16795
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/megtakaritas/20211101/meg-nincs-keso-igenyelni-a-219-ezer-forintos-tamogatast-de-mar-kozeleg-a-hatarido-1118918",
+        "h1": "Még nincs késő igényelni a 219 ezer forintos támogatást: de már közeleg a határidő",
+        "txtlength": 13714
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/ingatlan/20211102/igy-alakitja-at-az-ingatlanpiacot-a-fenntarthatosag-konkret-lepeseken-keresztul-mutatjuk-be-a-folyamatot-505370",
+        "h1": "Így alakítja át az ingatlanpiacot a fenntarthatóság: konkrét lépéseken keresztül mutatjuk be a folyamatot",
+        "txtlength": 13206
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vilag/20211029/a-draga-gaz-miatt-tobb-helyen-a-szantofoldon-hagyjak-a-kukoricat/",
+        "h1": "A drága gáz miatt több helyen a szántóföldön hagyják a kukoricát",
+        "txtlength": 12879
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/utazas/nemet-nemzetiseg-magyarorszag/",
+        "h1": "Magyarországon élnek, de kik azok a poncichterek, és kik a stiffollerek? Nem minden itthoni német sváb",
+        "txtlength": 10824
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/szuloseg/ez-csak-jatek-de-akkor-miert-jatszanak-olyan-komolyan-a-gyerekek-/",
+        "h1": "Ez csak játék! De akkor miért játszanak olyan komolyan a gyerekek?",
+        "txtlength": 7214
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/komplex/2021/11/02/velencei-to-helyzete-vizszint-vizutanpotlas-termeszet",
+        "h1": "\n      Velencei-tó: kongatják a vészharangot, de nem először tűnne el belőle a víz\n    ",
+        "txtlength": 28727
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kultura/2021/11/01/vay-blanka-sajat-ketrec-interju-transznemuseg-lmbtq-feminizmus/",
+        "h1": "Hogy miért kell velünk ennyit foglalkozni? Mert ennyit baszogattok",
+        "txtlength": 24943
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://qubit.hu/2021/11/02/ahhoz-kepest-hogy-eddig-190-milliard-dollarba-kerult-keves-tudomanyos-eredmenyt-produkalt-a-nemzetkozi-urallomas",
+        "h1": "AHHOZ KÉPEST, HOGY EDDIG 190 MILLIÁRD DOLLÁRBA KERÜLT, KEVÉS TUDOMÁNYOS EREDMÉNYT PRODUKÁLT A NEMZETKÖZI ŰRÁLLOMÁS",
+        "txtlength": 16693
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/tudomany/2021/11/01/boszorkany-salem-akasztas-kivegzes-tortenelem/",
+        "h1": "Ezért akasztották fel a salemi boszorkányokat",
+        "txtlength": 16265
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kulfold/2021/11/01/cop26-ensz-klimacsucs-elso-nap",
+        "h1": "A saját sírunkat ássuk, elég volt az égetésből, a fúrásból és a bányászatból – elkezdődött a COP26 klímacsúcs Glasgowban",
+        "txtlength": 15716
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2021/11/02/magyar-posta-beremeles-belyegmuzeum-42-milliard/",
+        "h1": "A postások nem tudnak róla, hogy 42 milliárd forinttal emelnék a bérüket",
+        "txtlength": 14252
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/11/02/artalomcsokkentes-lehet-100-kiloval-kevesebb",
+        "h1": "Ártalomcsökkentés – lehet 100 kilóval kevesebb?",
+        "txtlength": 13722
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/elet/20211101_Halottak_napja_temetok",
+        "h1": "Ahol a halottak emléke él",
+        "txtlength": 12978
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/politika/joe-biden-g20-glasgow-klimacsucs-cop26/6k2ev78",
+        "h1": "Joe Biden elszundított a glasgow-i klímacsúcs egyik beszéde alatt: videó is készült róla",
+        "txtlength": 11780
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/belfold/2021/11/01/gyor-borbely-fodrasz-sanyi-bacsi-80-eves",
+        "h1": "Még a legmodernebb frizura is ered valahonnan, és Sanyi bácsi a 63 év alatt biztos találkozott vele",
+        "txtlength": 10782
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/noel-vegtaghiany-segitseg-edesanya/3jhqtn7?sl_ps=d_7",
+        "h1": "Egy kisfiú megdöbbentő kálváriája: senki sem vette észre, hogy Noel végtaghiánnyal születik majd – Most segítség kell az édesanyának",
+        "txtlength": 9322
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20211102_egyetem_maszkviseles",
+        "h1": "Alig van már olyan egyetem, ahol nem kötelező a maszk",
+        "txtlength": 7259
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20211102_magyarorszag_koronavirus_adatok",
+        "h1": "Koronavírus: 1867 új fertőzöttet találtak, meghalt 39 beteg",
+        "txtlength": 6867
+    },
+    {
         "hostname": "hataratkelo.blog.hu",
         "pagelink": "https://hataratkelo.blog.hu/2021/10/15/milyen_hatassal_van_a_gyermekunkre_ha_ket_kulturaban_no_fel",
         "h1": "Milyen hatással van a gyermekünkre, ha két kultúrában nő fel?",
