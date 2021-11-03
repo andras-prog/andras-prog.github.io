@@ -776,7 +776,7 @@
     "tarfajl": " 1 kg = 1759 Ft",
     "tarfajlmert": "",
     "disc": "",
-    "erv": " 11.10.",
+    "erv": "",
     "termeklink": "https://www.lidl.hu/p/akcioink-11-04-csuetoertoektol/foeldimogyoro/p113435"
   },
   {
@@ -789,7 +789,7 @@
     "tarfajl": " 1 kg = 2196 Ft",
     "tarfajlmert": "",
     "disc": "",
-    "erv": " 11.10.",
+    "erv": "",
     "termeklink": "https://www.lidl.hu/p/akcioink-11-04-csuetoertoektol/jelly-beans/p113436"
   },
   {
@@ -802,7 +802,7 @@
     "tarfajl": " 1 kg = 2220 Ft",
     "tarfajlmert": "",
     "disc": "",
-    "erv": " 11.10.",
+    "erv": "",
     "termeklink": "https://www.lidl.hu/p/akcioink-11-04-csuetoertoektol/nutella/p113437"
   },
   {
@@ -815,7 +815,7 @@
     "tarfajl": " 1 kg = 2796 Ft",
     "tarfajlmert": "",
     "disc": "",
-    "erv": " 11.10.",
+    "erv": "",
     "termeklink": "https://www.lidl.hu/p/akcioink-11-04-csuetoertoektol/ostya/p113438"
   },
   {
@@ -828,7 +828,7 @@
     "tarfajl": " 1 kg = 2767 Ft",
     "tarfajlmert": "",
     "disc": "",
-    "erv": " 11.10.",
+    "erv": "",
     "termeklink": "https://www.lidl.hu/p/akcioink-11-04-csuetoertoektol/tablas-csokolade/p113439"
   },
   {
@@ -841,7 +841,7 @@
     "tarfajl": " 1 l = 1499 Ft",
     "tarfajlmert": "",
     "disc": "",
-    "erv": " 11.10.",
+    "erv": "",
     "termeklink": "https://www.lidl.hu/p/akcioink-11-04-csuetoertoektol/fozotejszin/p113440"
   },
   {
@@ -2272,19 +2272,6 @@
     "disc": "",
     "erv": "",
     "termeklink": "https://www.aldi.hu/hu/ajanlatok/ajanlatok-vasarnaptol-20211031/reszletes-oldal/ps/p/lightwayled-zseblampa-4/"
-  },
-  {
-    "azon": "ALDI",
-    "forras": "",
-    "termeknev": "SCHEPPACH Multifunkciós gérvágó fűrész Rendelhető 2021.10.14-től 2021.11.03-ig, ill. a készlet erejéig",
-    "termekar": "89 990",
-    "termekcur": " Ft",
-    "termekmenny": "/darab",
-    "tarfajl": "89 990 Ft/db",
-    "tarfajlmert": "",
-    "disc": "",
-    "erv": "",
-    "termeklink": "https://www.aldi.hu/hu/ajanlatok/ajanlatok-vasarnaptol-20211031/reszletes-oldal/ps/p/scheppach-multifunkcios-grvago-furszrendelheto-202/"
   },
   {
     "azon": "ALDI",
@@ -6228,26 +6215,13 @@
   {
     "azon": "CBA",
     "forras": "",
-    "termeknev": "Idared alma lédig",
-    "termekar": "249,- Ft/kg",
+    "termeknev": "Citrom lédig",
+    "termekar": "499,- Ft/kg",
     "termekcur": "",
     "termekmenny": "",
-    "tarfajl": " 249,00 Ft/kg",
+    "tarfajl": " 499,00 Ft/kg",
     "tarfajlmert": "",
     "disc": "-37%",
-    "erv": "",
-    "termeklink": "https://online.prima.hu/s/idared-alma-ledig-10000156112?cat=3020"
-  },
-  {
-    "azon": "CBA",
-    "forras": "",
-    "termeknev": "Citrom lédig",
-    "termekar": "599,- Ft/kg",
-    "termekcur": "",
-    "termekmenny": "",
-    "tarfajl": " 599,00 Ft/kg",
-    "tarfajlmert": "",
-    "disc": "-36%",
     "erv": "",
     "termeklink": "https://online.prima.hu/s/citrom-ledig-10000156138?cat=3020"
   },
@@ -6328,6 +6302,19 @@
     "disc": "",
     "erv": "",
     "termeklink": "https://online.prima.hu/s/perwoll-finommososzer-szint-es-kev-szalas-15-mosas-900ml-10000173519?cat=701020"
+  },
+  {
+    "azon": "CBA",
+    "forras": "",
+    "termeknev": "Karalábé db",
+    "termekar": "179,- Ft/db",
+    "termekcur": "",
+    "termekmenny": "",
+    "tarfajl": " 179,00 Ft/db",
+    "tarfajlmert": "",
+    "disc": "-35%",
+    "erv": "",
+    "termeklink": "https://online.prima.hu/s/karalabe-db-10000156103?cat=3010"
   },
   {
     "azon": "CBA",
@@ -6462,19 +6449,6 @@
   {
     "azon": "CBA",
     "forras": "",
-    "termeknev": "Karalábé db",
-    "termekar": "199,- Ft/db",
-    "termekcur": "",
-    "termekmenny": "",
-    "tarfajl": " 199,00 Ft/db",
-    "tarfajlmert": "",
-    "disc": "-28%",
-    "erv": "",
-    "termeklink": "https://online.prima.hu/s/karalabe-db-10000156103?cat=3010"
-  },
-  {
-    "azon": "CBA",
-    "forras": "",
     "termeknev": "Sport ziccer ostya szelet 36g",
     "termekar": "99,- Ft/db",
     "termekcur": "",
@@ -6501,15 +6475,15 @@
   {
     "azon": "CBA",
     "forras": "",
-    "termeknev": "Pöttyös kakaó 300ml",
-    "termekar": "229,- Ft/db",
+    "termeknev": "Karfiol lédig",
+    "termekar": "449,- Ft/kg",
     "termekcur": "",
     "termekmenny": "",
-    "tarfajl": " 763,33 Ft/l",
+    "tarfajl": " 449,00 Ft/kg",
     "tarfajlmert": "",
     "disc": "-25%",
     "erv": "",
-    "termeklink": "https://online.prima.hu/s/pottyos-kakao-300ml-10000187703?cat=101030"
+    "termeklink": "https://online.prima.hu/s/karfiol-ledig-10000156101?cat=3010"
   },
   {
     "azon": "CBA",
@@ -6527,15 +6501,15 @@
   {
     "azon": "CBA",
     "forras": "",
-    "termeknev": "Vilmos körte lédig",
-    "termekar": "499,- Ft/kg",
+    "termeknev": "Pöttyös kakaó 300ml",
+    "termekar": "229,- Ft/db",
     "termekcur": "",
     "termekmenny": "",
-    "tarfajl": " 499,00 Ft/kg",
+    "tarfajl": " 763,33 Ft/l",
     "tarfajlmert": "",
-    "disc": "-24%",
+    "disc": "-25%",
     "erv": "",
-    "termeklink": "https://online.prima.hu/s/vilmos-korte-ledig-10000156037?cat=3020"
+    "termeklink": "https://online.prima.hu/s/pottyos-kakao-300ml-10000187703?cat=101030"
   },
   {
     "azon": "CBA",
@@ -6722,6 +6696,19 @@
   {
     "azon": "CBA",
     "forras": "",
+    "termeknev": "Kaliforniai paprika piros lédig",
+    "termekar": "799,- Ft/kg",
+    "termekcur": "",
+    "termekmenny": "",
+    "tarfajl": " 799,00 Ft/kg",
+    "tarfajlmert": "",
+    "disc": "-20%",
+    "erv": "",
+    "termeklink": "https://online.prima.hu/s/kaliforniai-paprika-piros-ledig-10000156106?cat=3010"
+  },
+  {
+    "azon": "CBA",
+    "forras": "",
     "termeknev": "Pöttyös túró rudi étbevonóval laktózmentes 51g",
     "termekar": "159,- Ft/db",
     "termekcur": "",
@@ -6731,6 +6718,19 @@
     "disc": "-20%",
     "erv": "",
     "termeklink": "https://online.prima.hu/s/pottyos-turo-rudi-etbevonoval-laktozmentes-51g-10000206799?cat=104040"
+  },
+  {
+    "azon": "CBA",
+    "forras": "",
+    "termeknev": "Birsalma lédig",
+    "termekar": "499,- Ft/kg",
+    "termekcur": "",
+    "termekmenny": "",
+    "tarfajl": " 499,00 Ft/kg",
+    "tarfajlmert": "",
+    "disc": "-16%",
+    "erv": "",
+    "termeklink": "https://online.prima.hu/s/birsalma-ledig-10000173199?cat=3020"
   },
   {
     "azon": "CBA",
@@ -6826,6 +6826,19 @@
   {
     "azon": "CBA",
     "forras": "",
+    "termeknev": "Pöttyös óriás túró rudi tejbevonóval 51g",
+    "termekar": "159,- Ft/db",
+    "termekcur": "",
+    "termekmenny": "",
+    "tarfajl": " 3117,65 Ft/kg",
+    "tarfajlmert": "",
+    "disc": "-15%",
+    "erv": "",
+    "termeklink": "https://online.prima.hu/s/pottyos-orias-turo-rudi-tejbevonoval-51g-10000080618?cat=104040"
+  },
+  {
+    "azon": "CBA",
+    "forras": "",
     "termeknev": "Pöttyös óriás túró rudi sós karamellás étbevonattal 51g",
     "termekar": "159,- Ft/db",
     "termekcur": "",
@@ -6848,19 +6861,6 @@
     "disc": "-15%",
     "erv": "",
     "termeklink": "https://online.prima.hu/s/pottyos-orias-turo-rudi-mak-marcipan-51g-10000211078?cat=104040"
-  },
-  {
-    "azon": "CBA",
-    "forras": "",
-    "termeknev": "Pöttyös óriás túró rudi tejbevonóval 51g",
-    "termekar": "159,- Ft/db",
-    "termekcur": "",
-    "termekmenny": "",
-    "tarfajl": " 3117,65 Ft/kg",
-    "tarfajlmert": "",
-    "disc": "-15%",
-    "erv": "",
-    "termeklink": "https://online.prima.hu/s/pottyos-orias-turo-rudi-tejbevonoval-51g-10000080618?cat=104040"
   },
   {
     "azon": "CBA",
@@ -6904,19 +6904,6 @@
   {
     "azon": "CBA",
     "forras": "",
-    "termeknev": "Milli krémtúró banános 90g",
-    "termekar": "159,- Ft/db",
-    "termekcur": "",
-    "termekmenny": "",
-    "tarfajl": " 1766,67 Ft/kg",
-    "tarfajlmert": "",
-    "disc": "-15%",
-    "erv": "",
-    "termeklink": "https://online.prima.hu/s/milli-kremturo-bananos-90g-10000149820?cat=104020"
-  },
-  {
-    "azon": "CBA",
-    "forras": "",
     "termeknev": "Pöttyös óriás túró rudi tejbevonóval kókuszos 51g",
     "termekar": "159,- Ft/db",
     "termekcur": "",
@@ -6926,6 +6913,19 @@
     "disc": "-15%",
     "erv": "",
     "termeklink": "https://online.prima.hu/s/pottyos-orias-turo-rudi-tejbevonoval-kokuszos-51g-10000201523?cat=104040"
+  },
+  {
+    "azon": "CBA",
+    "forras": "",
+    "termeknev": "Milli krémtúró banános 90g",
+    "termekar": "159,- Ft/db",
+    "termekcur": "",
+    "termekmenny": "",
+    "tarfajl": " 1766,67 Ft/kg",
+    "tarfajlmert": "",
+    "disc": "-15%",
+    "erv": "",
+    "termeklink": "https://online.prima.hu/s/milli-kremturo-bananos-90g-10000149820?cat=104020"
   },
   {
     "azon": "CBA",
@@ -6956,19 +6956,6 @@
   {
     "azon": "CBA",
     "forras": "",
-    "termeknev": "Pöttyös óriás túró rudi étcsokoládés mogyorókrémes 51g",
-    "termekar": "159,- Ft/db",
-    "termekcur": "",
-    "termekmenny": "",
-    "tarfajl": " 3117,65 Ft/kg",
-    "tarfajlmert": "",
-    "disc": "-15%",
-    "erv": "",
-    "termeklink": "https://online.prima.hu/s/pottyos-orias-turo-rudi-etcsokolades-mogyorokremes-51g-10000118244?cat=104040"
-  },
-  {
-    "azon": "CBA",
-    "forras": "",
     "termeknev": "Pöttyös fitt túró rudi málna-müzli joghurt bevonó 38g",
     "termekar": "159,- Ft/db",
     "termekcur": "",
@@ -6978,6 +6965,19 @@
     "disc": "-15%",
     "erv": "",
     "termeklink": "https://online.prima.hu/s/pottyos-fitt-turo-rudi-malna-muzli-joghurt-bevono-38g-10000162994?cat=104040"
+  },
+  {
+    "azon": "CBA",
+    "forras": "",
+    "termeknev": "Pöttyös óriás túró rudi étcsokoládés mogyorókrémes 51g",
+    "termekar": "159,- Ft/db",
+    "termekcur": "",
+    "termekmenny": "",
+    "tarfajl": " 3117,65 Ft/kg",
+    "tarfajlmert": "",
+    "disc": "-15%",
+    "erv": "",
+    "termeklink": "https://online.prima.hu/s/pottyos-orias-turo-rudi-etcsokolades-mogyorokremes-51g-10000118244?cat=104040"
   },
   {
     "azon": "CBA",
@@ -6995,14 +6995,14 @@
   {
     "azon": "CBA",
     "forras": "",
-    "termeknev": "Birsalma lédig",
+    "termeknev": "Grapefruit piros lédig",
     "termekar": "599,- Ft/kg",
     "termekcur": "",
     "termekmenny": "",
     "tarfajl": " 599,00 Ft/kg",
     "tarfajlmert": "",
-    "disc": "-9%",
+    "disc": "-14%",
     "erv": "",
-    "termeklink": "https://online.prima.hu/s/birsalma-ledig-10000173199?cat=3020"
+    "termeklink": "https://online.prima.hu/s/grapefruit-piros-ledig-10000156116?cat=3020"
   }
 ]
