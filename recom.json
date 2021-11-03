@@ -1,6 +1,180 @@
 [
     {
         "hostname": "kiszamolo.hu",
+        "pagelink": "https://kiszamolo.hu/napelemes-palyazat-hetfon/",
+        "h1": "Napelemes pályázat hétfőn",
+        "txtlength": 29039
+    },
+    {
+        "hostname": "alapblog.hu",
+        "pagelink": "https://alapblog.hu/nehany-jol-megvalasztott-betu-eleg-lehet-a-sikerhez/",
+        "h1": "Néhány jól megválasztott betű elég lehet a sikerhez?",
+        "txtlength": 8619
+    },
+    {
+        "hostname": "kulturpart.hu",
+        "pagelink": "https://kulturpart.blog.hu/2021/11/01/kincsek_a_fold_alol_avagy_tarol_a_kozossegi_regeszet",
+        "h1": "KINCSEK A FÖLD ALÓL, AVAGY TAROL A KÖZÖSSÉGI RÉGÉSZET",
+        "txtlength": 5428
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vilag/20211102/nem-varhatunk-tovabb-a-beavatkozasokat-minel-hamarabb-el-kell-kezdeni/",
+        "h1": "Nem várhatunk tovább, a beavatkozásokat minél hamarabb el kell kezdeni",
+        "txtlength": 20910
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vilag/20211103/elkezdtek-visszajonni-a-gyarak-azsiabol-de-nem-magyarorszagra/",
+        "h1": "Elkezdtek visszajönni a gyárak Ázsiából, de nem Magyarországra",
+        "txtlength": 19985
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20211102_torokorszag_turk_tanacs_egeresi_zoltan",
+        "h1": "Mire jó a Türk Tanács? – Egeresi Zoltán turkológus a Mandinernek",
+        "txtlength": 19419
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/egeszseg/20211102/remiszto-nepbetegseg-arnyekolja-be-az-idos-magyarok-eletet-sok-tulelo-sosem-epul-fel-teljesen-1118709",
+        "h1": "Rémisztő népbetegség árnyékolja be az idős magyarok életét: sok túlélő sosem épül fel teljesen",
+        "txtlength": 19330
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20211103_bosznia_milorad_dodik_szakadas",
+        "h1": "Újra szakad Bosznia?",
+        "txtlength": 19129
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20211201_sovennyel_tettek_lathatatlanna_a_forradalom_aldozatainak_parcellajat_a_kadar_rendszerben",
+        "h1": "„Nem kellett kivégezni ahhoz, hogy tönkretegyék, elég volt úgymond élve eltemetni” – elrejtették a forradalom áldozatait Kádárék",
+        "txtlength": 17874
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/unios-forrasok/20211103/vigyazz-szep-csendben-jocskan-belenyultak-a-lakossagi-napelemes-palyazatba-508402",
+        "h1": "Vigyázz! – Szép csendben jócskán belenyúltak a lakossági napelemes pályázatba",
+        "txtlength": 16615
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20211103/megugrott-a-magyar-allamadossag-megsem-kell-aggodnunk-507424",
+        "h1": "Megugrott a magyar államadósság, mégsem kell aggódnunk?",
+        "txtlength": 16394
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2021/11/03/keves-nobel-dijas-kozgazdasz-buszkelkedhet-olyan-eredmenyekkel-mint-kornai-janos-aki-soha-nem-kapta-meg-a-dijat",
+        "h1": "KEVÉS NOBEL-DÍJAS KÖZGAZDÁSZ BÜSZKÉLKEDHET OLYAN EREDMÉNYEKKEL, MINT KORNAI JÁNOS, AKI SOHA NEM KAPTA MEG A DÍJAT",
+        "txtlength": 15039
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/utazas/20211102/itt-a-nagy-utazasi-karteritesi-lista-ekkor-jar-kartalanitas-a-hoppon-maradt-magyaroknak-1119025",
+        "h1": "Itt a nagy utazási kártérítési-lista: ekkor jár kártalanítás a hoppon maradt magyaroknak",
+        "txtlength": 14623
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/otthon/hany-lepes-kell-egy-nap/",
+        "h1": "Ennyi lépést kell megtenned naponta, hogy akár 10 évvel meghosszabbítsd az életed: a környezet is hálás lesz érte",
+        "txtlength": 12392
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/uzlet/20211102/gigantikus-kotes-az-otp-ben-ez-tolta-meg-a-magyar-tozsdet-508348",
+        "h1": "Gigantikus kötés az OTP-ben - Ez tolta meg a magyar tőzsdét",
+        "txtlength": 11839
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/szuloseg/anya-gyermek-kimera/",
+        "h1": "Az anyukáról kiderült, hogy nem ő a biológiai anyja három gyerekének – hogy lehetséges ez?",
+        "txtlength": 9769
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/belfold/2021/11/03/valas-szulok-kozos-felugyelet-varga-judit-torvenymodositas-hintalovon-nane-patent-magyar-noi-erdekervenyesito-szovetseg-kapcsolaton-beluli-erosztak-bantalmazas",
+        "h1": "Tényleg a bántalmazóknak kedvez Varga Judit törvényjavaslata a válásról?",
+        "txtlength": 20833
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2021/11/03/kover-laszlo-kabinetfonok-veress-laszlo-visontai-kalman-hataron-tuli-magyarok-tamogatas-adomany-luxuslakas-villa-frank-liu-tajvan/",
+        "h1": "Külhoni magyaroknak szánt pénzből vettek budai villalakást, Kövér László titkárságáig vezetnek a szálak",
+        "txtlength": 19479
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/11/03/ki-kaphat-most-hitelt-a-bankoktol",
+        "h1": "Ki kaphat most hitelt a bankoktól?",
+        "txtlength": 18644
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kulfold/2021/11/02/eric-zemmour-franciaorszag-valasztas-2022-macron-le-pen",
+        "h1": "A francia szélsőjobb új sztárja egyre jobban szorongatja Marine Le Pent",
+        "txtlength": 18504
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://qubit.hu/2021/11/03/keves-nobel-dijas-kozgazdasz-buszkelkedhet-olyan-eredmenyekkel-mint-kornai-janos-aki-soha-nem-kapta-meg-a-dijat",
+        "h1": "KEVÉS NOBEL-DÍJAS KÖZGAZDÁSZ BÜSZKÉLKEDHET OLYAN EREDMÉNYEKKEL, MINT KORNAI JÁNOS, AKI SOHA NEM KAPTA MEG A DÍJAT",
+        "txtlength": 15021
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/gazdasag/20211103_t_alex_dominika_csalo_ingatlancsalo",
+        "h1": "Így verte át asszisztenseit a magyar kriminalisztikában példátlan csalást elkövető T. Alex",
+        "txtlength": 14355
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/tudomany/2021/11/02/cop26-ensz-klimakonferencia-metan-globalis-metanvallalas/",
+        "h1": "Több mint 100 ország száll szembe a gázzal, ami olyan veszélyes, mint a szén-dioxid",
+        "txtlength": 12936
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/tech/2021/11/02/digitalis-autizmus-pszichologia-kepernyok-gyerekek-fejlodes/",
+        "h1": "Autizmushoz hasonló viselkedést okozhat a gyerekeknél a túl sok képernyőidő",
+        "txtlength": 12111
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kulfold/2021/11/02/ensz-emberi-jogi-jelentes-szijjarto-peter-szigeti-flora-momentum-csusztatas-pontatlansag",
+        "h1": "Szijjártó: Nem tűrnének a magyarok olyan kormányt, ami szembemenne az emberi jogokkal",
+        "txtlength": 11135
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/elet/20211103_100_eve_szuletett_Charles_Bronson",
+        "h1": "Alig beszél, csak a pisztolya szól - 100 éve született Charles Bronson",
+        "txtlength": 10198
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/gazdasag/20211102_cop26_glasgowi_klimacsucs_metankibocsatas_csokkentese_biden",
+        "h1": "A metánkibocsátás csökkentésével nyesnének le pár tizedfokot a felmelegedésből",
+        "txtlength": 9619
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/gyermekelhelyezes-birosag-svedorszag-igazsagugyi-miniszter-konyorges/br0v5kt?sl_ps=d_4",
+        "h1": "„Mint anya, kérlek, segíts rajtam!” – Varga Judit igazságügyi miniszterhez könyörög Viktória, akinek a kislányát külföldre viszi az apja",
+        "txtlength": 9262
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/szabo-timea-kover-laszlo-97-millios-birsag-adomany/74w3pht?sl_ps=d_5",
+        "h1": "Szabó Tímea 9,7 milliós rekordbüntetéséről mesélt a Blikknek: összébb húzták a nadrágszíjat otthon, de nem hátrál meg",
+        "txtlength": 9144
+    },
+    {
+        "hostname": "kiszamolo.hu",
         "pagelink": "https://kiszamolo.hu/beszelnunk-kell-rola/",
         "h1": "Beszélnünk kell róla",
         "txtlength": 32261
