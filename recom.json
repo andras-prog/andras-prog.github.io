@@ -1,6 +1,180 @@
 [
     {
         "hostname": "kiszamolo.hu",
+        "pagelink": "https://kiszamolo.hu/itt-a-napelemes-payazat/",
+        "h1": "Itt a napelemes pályázat!",
+        "txtlength": 27285
+    },
+    {
+        "hostname": "kulturpart.hu",
+        "pagelink": "https://kulturpart.blog.hu/2021/11/03/jelenetek_egy_hazassagbol_sorozat_kritika_hbo_oscar_isaac_jessica_chastain",
+        "h1": "ELŐBB-UTÓBB MINDEN HÁZASSÁG TÖNKREMEGY?",
+        "txtlength": 6947
+    },
+    {
+        "hostname": "alapblog.hu",
+        "pagelink": "https://alapblog.hu/heti-osszefoglalo-2021-10-31/",
+        "h1": "Heti összefoglaló – 2021.10.31.",
+        "txtlength": 6088
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20211027_demeter_szilard_interju_kozelet",
+        "h1": "Nem érdekelnek a szekértáboros viták – Demeter Szilárd a Mandinernek",
+        "txtlength": 26634
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20211103/emag-vezer-mindent-akarunk-arulni-ami-az-interneten-kaphato-498120",
+        "h1": "EMAG-vezér: Mindent akarunk árulni, ami az interneten kapható",
+        "txtlength": 26027
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20211103/jerome-powell-egyelore-turelmesek-vagyunk-de-ha-eljon-az-ido-nem-fogunk-hezitalni-508644",
+        "h1": "Jerome Powell: Egyelőre türelmesek vagyunk - de ha eljön az idő, nem fogunk hezitálni ",
+        "txtlength": 22920
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/gazdasag/20211031/katalizatormaffia-mergezo-tokok-es-a-nyugdijpremiumba-beleevo-inflacio-1118922",
+        "h1": "Katalizátormaffia, mérgező tökök és a nyugdíjprémiumba beleevő infláció",
+        "txtlength": 22310
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20211103/uj-vilag-a-magyar-virushelyzetben-ez-mar-nem-csupan-az-oltatlanok-jarvanya-508272",
+        "h1": "Új világ a magyar vírushelyzetben – Ez már nem csupán az oltatlanok járványa",
+        "txtlength": 18784
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2021/11/04/ha-kinaban-dolgozol-elsosorban-kinaert-dolgozol-es-csak-masodsorban-magadert",
+        "h1": "HA KÍNÁBAN DOLGOZOL, ELSŐSORBAN KÍNÁÉRT DOLGOZOL, ÉS CSAK MÁSODSORBAN MAGADÉRT",
+        "txtlength": 18648
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20211106_nyelvpolitika_kulturharc_1956_czopf_aron_kommentar_klub",
+        "h1": "„Ha helyreállítunk egy fogalmat, azzal a kulturális immunrendszerünket erősítjük” – Czopf Áron a Mandinernek",
+        "txtlength": 18425
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vallalat/20211104/sok-ceg-hatalmas-kockazatot-vallalna-a-kotelezo-oltassal-nem-is-merik-meglepni/",
+        "h1": "Sok cég hatalmas kockázatot vállalna a kötelező oltással, nem is merik meglépni",
+        "txtlength": 18320
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20211103_gulyas_marton_partizan_baloldal_portre",
+        "h1": "Elvtárs nem vész el, csak átalakul: Gulyás Márton",
+        "txtlength": 16908
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vilag/20211103/a-horvatok-mellett-tobb-masik-orszag-is-nagy-lepest-tett-a-szeneromuvek-nyugdijazasa-fele/",
+        "h1": "A horvátok mellett több másik ország is nagy lépést tett a szénerőművek nyugdíjazása felé",
+        "txtlength": 16007
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/karrier/20211102/a-vesztukbe-rohannak-a-magyar-dolgozok-sokan-beallnak-a-sorba-ennek-csak-rossz-vege-lehet-1118965",
+        "h1": "A vesztükbe rohannak a magyar dolgozók: sokan beállnak a sorba, ennek csak rossz vége lehet",
+        "txtlength": 13829
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/szepseg/egeszsegtelen-ruhadarabok/",
+        "h1": "8 divatos ruhadarab, ami rettentő káros az egészségre, ha mindennap viseled",
+        "txtlength": 12241
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/szuloseg/rosszfiuk-meno-vonzo-szex/",
+        "h1": "Miért vonzódunk a rosszfiúkhoz, még akkor is, ha tudjuk, hogy baj lesz belőle?",
+        "txtlength": 12204
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/szorakozas/2021/11/03/november-december-streaming",
+        "h1": "Brutális sorozatdömping érkezik év végére",
+        "txtlength": 26204
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/tudomany/2021/11/03/cop26-ensz-klimakonferencia-ivoviz-haboruk-viz-es-klimaugyi-koalicio-ader-janos/",
+        "h1": "Vízkrízis: háborúkhoz vezethet az ivóvízhiány",
+        "txtlength": 19118
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/gazdasag/20211103_Tenyleg_Elon_Musk_fogja_megmenteni_az_emberiseget_az_ehhalaltol",
+        "h1": "Tényleg Elon Musk fogja megmenteni az emberiséget az éhhaláltól?",
+        "txtlength": 18909
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/kultura/20211103_Magyar_filmek_1896_2021_lexikon_kezikonyv_Gelencser_Gabor_Murai_Andras",
+        "h1": "Tudja, melyik magyar filmet látták moziban tízmillióan?",
+        "txtlength": 16918
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/belfold/2021/11/03/egyetem-autonomia-kuratorium-akademiai-szabadsag-alapitvany-polonyi-istvan-ronay-zoltan-eotvos-csoport",
+        "h1": "Reform helyett az egyetemek politikai megszállása zajlott le a szemünk előtt",
+        "txtlength": 15702
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2021/11/04/huszezren-a-tiszta-valasztasert-2022-ben-20k22-szavazatszamlalo-bizottsag-onkentes/",
+        "h1": "Több mint húszezer szavazatszámlálót keresnek 2022-re, és már majdnem megvan a fele",
+        "txtlength": 15194
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kulfold/2021/11/03/cleo-smith-ausztralia-eltunes-elrablas-megtalaltak-rendorok-nyomozas",
+        "h1": "Két és fél gyötrelmes hét után megtalálták a négyéves ausztrál kislányt, aki egy éjjel a hálózsákjával tűnt el nyomtalanul",
+        "txtlength": 13027
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/11/03/soha-nem-csinaltak-jobb-filmet-az-emesztes-kakalas-ciklusrol",
+        "h1": "Soha nem csináltak jobb filmet az emésztés-kakálás ciklusról",
+        "txtlength": 12993
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kultura/2021/11/03/orokkevalok-kritika-marvel-szuperhosfilm/",
+        "h1": "Örökkévalók: Oscar-díjas rendező kellett a Marvel egyik legjobb szuperhősfilmjéhez",
+        "txtlength": 11757
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/11/03/gigantikus-vizlopas-es-a-rezsicsokkentes-miatt-nagyon-draga-a-viz-dunabogdanyban",
+        "h1": "Gigantikus vízlopás és a rezsicsökkentés miatt nagyon drága a víz Dunabogdányban",
+        "txtlength": 11077
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/politika/blikk-ugyek-allatvedelem-torvenyjavaslat/82db6df",
+        "h1": "Áttörés! Ezért küzdött a Blikk is: börtönbe kerülhetnek az állatkínzók, szaporítók, de még az állatviadalok résztvevői is",
+        "txtlength": 10792
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/varga-judit-miniszterium-targyalas-anya-kitoloncolas/0px5gwy?sl_ps=d_6",
+        "h1": "Hosszan tárgyaltak a minisztériumban a Varga Judittól segítséget kérő, a lánya kitoloncolásától tartó anyával",
+        "txtlength": 9603
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/tudomany/20211104_agy_novekedes_receptor_mcr3",
+        "h1": "Találtak egy agyi receptort a tudósok, ez segíti az embert a növekedésben",
+        "txtlength": 7729
+    },
+    {
+        "hostname": "kiszamolo.hu",
         "pagelink": "https://kiszamolo.hu/napelemes-palyazat-hetfon/",
         "h1": "Napelemes pályázat hétfőn",
         "txtlength": 29039
