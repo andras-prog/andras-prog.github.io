@@ -1,6 +1,186 @@
 [
     {
         "hostname": "receptneked.hu",
+        "pagelink": "https://receptneked.hu/gyors/habos-tejbegriz-bogreben/",
+        "h1": "Habos tejbegríz bögrében recept",
+        "txtlength": 4231
+    },
+    {
+        "hostname": "receptneked.hu",
+        "pagelink": "https://receptneked.hu/gyors/bogres-rizsfelfujt-2/",
+        "h1": "Bögrés rizsfelfújt recept",
+        "txtlength": 4160
+    },
+    {
+        "hostname": "hataratkelo.blog.hu",
+        "pagelink": "https://hataratkelo.blog.hu/2021/09/19/amerikai_kozossegi_kert_testkozelbol",
+        "h1": "Amerikai közösségi kert testközelből",
+        "txtlength": 74388
+    },
+    {
+        "hostname": "kulturpart.hu",
+        "pagelink": "https://kulturpart.hu/2021/11/04/nyerj_jegyet_a_tancszinhaz_unnepi_eloadasara",
+        "h1": "NYERJ JEGYET A TÁNCSZÍNHÁZ ÜNNEPI ELŐADÁSÁRA!",
+        "txtlength": 6486
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20211105_aczel_petra",
+        "h1": "Egész egyszerűen nem akarunk félni – Aczél Petra a Mandinernek",
+        "txtlength": 28168
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20211103_eperjes_karoly_interju_mandiner_magyar_passio",
+        "h1": "Nem csak a testet, a lelket akarták megölni – Eperjes Károly a Magyar Passióról",
+        "txtlength": 26219
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20211107_hunok_tudomany_csiky_gergely",
+        "h1": "Kik voltak valójában a hunok? – Csiky Gergely régész a Mandinernek",
+        "txtlength": 24322
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/szorakozas/20211104/kifakadt-a-magyar-galeriatulajdonos-a-kulturalis-intezmenyrendszer-elfoglalasa-regota-zajlik-1119055",
+        "h1": "Kifakadt a magyar galériatulajdonos: a kulturális intézményrendszer elfoglalása régóta zajlik",
+        "txtlength": 23951
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/bank/20211107/uj-kutatas-merte-fel-a-hazai-mobilbankok-fejlettseget-508910",
+        "h1": "Új kutatás mérte fel a hazai mobilbankok fejlettségét",
+        "txtlength": 21478
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vallalat/20211106/megtepazta-a-valsag-a-magyar-jarmuipari-beszallitokat-no-a-kulonbseg-a-legjobbak-es-a-gyengebbek-kozott/",
+        "h1": "Megtépázta a válság a magyar járműipari beszállítókat, nő a különbség a legjobbak és a gyengébbek között",
+        "txtlength": 18646
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/global/20211106/ot-orszag-rettenetes-peldaja-arrol-mit-tartogathat-szamunkra-a-klimakatasztrofa-509140",
+        "h1": "Öt ország rettenetes példája arról, mit tartogathat számunkra a klímakatasztrófa",
+        "txtlength": 18490
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/kozelet/20211107/nyugdijas-igeretekben-orban-mar-leelozte-medgyessyt-es-gyurcsanyt-de-penzosztasban-meg-nem/",
+        "h1": "Nyugdíjas ígéretekben Orbán már leelőzte Medgyessyt és Gyurcsányt, de pénzosztásban még nem",
+        "txtlength": 18010
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/szepseg/szepsegujdonsagok-osz-2021/",
+        "h1": "Feltölti a megereszkedett bőrt, halványítja a pigmentfoltokat, simítja a száj körüli ráncokat - Őszi szépségkedvenceink",
+        "txtlength": 16031
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/hitel/20211106/ilyen-hitel-meg-nem-volt-magyarorszagon-rengeteg-csaladnak-jarhat-ez-is-az-ajandekmilliok-melle-1119124",
+        "h1": "Ilyen hitel még nem volt Magyarországon: rengeteg családnak járhat ez is az ajándékmilliók mellé",
+        "txtlength": 15710
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20211106/fogynal-nehany-kilot-autozas-helyett-valaszd-a-tomegkozlekedest-508920",
+        "h1": "Fogynál néhány kilót? - Autózás helyett válaszd a tömegközlekedést!",
+        "txtlength": 15661
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2021/11/07/john-carmack-a-facebook-metaverzumarol-mar-az-alapgondolat-is-hibas",
+        "h1": "JOHN CARMACK A FACEBOOK METAVERZUMÁRÓL: MÁR AZ ALAPGONDOLAT IS HIBÁS",
+        "txtlength": 10103
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/szuloseg/mitoszok-szulok-szex/",
+        "h1": "Ebben a házban már szexelni sem lehet nyugodtan? 5 mítosz a szexről a szülővé válás után",
+        "txtlength": 8675
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kultura/2021/11/07/gyogyszer-matine-konyvajanlorichter-gedeon/",
+        "h1": "Őrjöngő kutya elől mentették meg gyerekkorában a legnagyobb magyarok egyikét",
+        "txtlength": 22358
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/tudomany/20211106_Szakertovel_elemeztuk_az_oltast_ellenzok_leggyakoribb_erveit",
+        "h1": "Milyen ürüggyel utasítják el sokan az oltást? Szakértő válaszol a leggyakoribb érvekre",
+        "txtlength": 19777
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/elet/20211106_james_bond_es_a_nok_noabrazolas_feminizmus_007_nincs_ido_meghalni_nemi_eroszak_pussy_galore",
+        "h1": "A nemi erőszaktól a férfikönnyekig: tényleg jön a női James Bond?",
+        "txtlength": 18095
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2021/11/06/szoborallitasok-dontesek-kisfalufi-strobl-zsigmond-eletmu-heti-fortepan/",
+        "h1": "Felállították, majd ledöntötték a szobrait – ez a sorsa a rendszereken átívelő életműveknek",
+        "txtlength": 17608
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/szorakozas/2021/11/06/riot-games-league-of-legends-videojatek-esport-worlds-2021-dwg-edg",
+        "h1": "LoL-vb: végletekig kiélezett döntőben gyűrték le a címvédőt, ismét Kínáé lett a videójátékos trófea",
+        "txtlength": 16437
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/kkv/20211106_Ejegy_korrupcio_politika_kudarc_Tarlos_BKK_fovaros",
+        "h1": "Besült fővárosi e-jegyrendszer: Először szólalt meg a kivitelező cég volt magyar vezetője",
+        "txtlength": 16423
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/tudomany/2021/11/07/tatarjaras-batu-kanvalasztas-kozepkor-tortenelem/",
+        "h1": "Megcáfoltak egy fontos elméletet a tatárjárásról",
+        "txtlength": 14480
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/szorakozas/2021/11/07/netflix-riot-games-league-of-legends-arcane-sorozat",
+        "h1": "A rajongóknak szerelmes levél, mindenki másnak kapudrog lehet a League of Legends világán alapuló sorozat",
+        "txtlength": 14337
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/velemeny/2021/11/07/alkotmanyozas-velemeny-majtenyi-balazs-akarunk-e-egyaltalan-alkotmanyos-demokraciat",
+        "h1": "Akarunk-e egyáltalán alkotmányos demokráciát?",
+        "txtlength": 14123
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/11/06/ez-a-haboru-sosem-er-veget",
+        "h1": "Ez a háború sosem ér véget",
+        "txtlength": 12914
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/kolbaszfesztival-bekescsaba/mvjqgmp",
+        "h1": "A Blikk ellátogatott a Csabai Kolbászfesztiválra, ahol még galambhúsból is készítettek kolbászt – fotók",
+        "txtlength": 12286
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/11/07/kormanyzati-milliardokbol-ontik-betonba-a-tokaji-tajat-egy-csucsgazdag-luxusszallodaja-kedveert",
+        "h1": "Kormányzati milliárdokból öntik betonba a tokaji tájat egy csúcsgazdag luxusszállodája kedvéért",
+        "txtlength": 11876
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/kadar-janos-forradalom-leveres/r5e85v2",
+        "h1": "„Csak izzó haraggal lehet szólni erről a támadásról” – Szolgagyerekből így lett a forradalom véreskezű leverője Kádár János",
+        "txtlength": 11120
+    },
+    {
+        "hostname": "receptneked.hu",
         "pagelink": "https://receptneked.hu/gyors/habkonnyu-turogomboc/",
         "h1": "Habkönnyű túrógombóc recept",
         "txtlength": 4623
