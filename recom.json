@@ -1,6 +1,186 @@
 [
     {
         "hostname": "receptneked.hu",
+        "pagelink": "https://receptneked.hu/gyors/toltott-kenyer/",
+        "h1": "Töltött kenyér recept",
+        "txtlength": 4040
+    },
+    {
+        "hostname": "receptneked.hu",
+        "pagelink": "https://receptneked.hu/gyors/hortobagyi-husgombocok/",
+        "h1": "Hortobágyi húsgombócok recept",
+        "txtlength": 4023
+    },
+    {
+        "hostname": "kulturpart.hu",
+        "pagelink": "https://kulturpart.blog.hu/2021/11/09/veralafutasok_nelkul",
+        "h1": "VÉRALÁFUTÁSOK NÉLKÜL",
+        "txtlength": 12445
+    },
+    {
+        "hostname": "alapblog.hu",
+        "pagelink": "https://alapblog.hu/heti-osszefoglalo-2021-11-07/",
+        "h1": "Heti összefoglaló – 2021.11.07.",
+        "txtlength": 6032
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/uzlet/20211110/van-aki-meg-mindig-nem-tud-az-energiaarak-extrem-emelkedeserol-ez-eletveszelyes-509506",
+        "h1": "Van, aki még mindig nem tud az energiaárak extrém emelkedéséről, ez életveszélyes!",
+        "txtlength": 32031
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/elet/20211110/napi-82-millio-forint-bevetel-es-tobb-mint-2000-elejtett-peldany-celkeresztben-a-magyarorszagi-vadaszat/",
+        "h1": "Napi 82 millió forint bevétel és több mint 2000 elejtett példány – célkeresztben a magyarországi vadászat",
+        "txtlength": 22610
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20211110_karacsony_gergely_belfold_fovarosi_ingatlanugyek_varoshaza",
+        "h1": "Pár nap alatt eljutottunk Karácsonyék teljes tagadásától odáig, hogy csak „tanulmányt” készítettek, amikor a Városháza eladásáról tárgyaltak",
+        "txtlength": 21988
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20211110/ovatosak-a-befektetok-mindenki-az-inflacios-adatokra-figyel-509872",
+        "h1": "Óvatosak a befektetők, mindenki az inflációs adatokra figyel ",
+        "txtlength": 21394
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/uzlet/20211110/jon-az-univerzalis-koronavirus-vakcina-de-mire-keszul-meg-a-sanofi-509804",
+        "h1": "Jön az univerzális koronavírus-vakcina - De mire készül még a Sanofi?",
+        "txtlength": 19801
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2021/11/10/ha-mar-az-alhirekkel-is-alig-birunk-mi-lesz-ha-berobban-a-deepfake",
+        "h1": "HA MÁR AZ ÁLHÍREKKEL IS ALIG BÍRUNK, MI LESZ, HA BEROBBAN A DEEPFAKE?",
+        "txtlength": 19294
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vallalat/20211110/a-konyhajukbol-indultak-egybol-a-multi-boltok-polcaira-ugrottak-a-glutenmentes-muzlijukkel/",
+        "h1": "A konyhájukból indultak, egyből a multi boltok polcaira ugrottak a gluténmentes müzlijükkel",
+        "txtlength": 19086
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/hitel/20211109/vihar-elotti-csend-a-magyar-bankokban-kuszobon-lehet-a-kamatrobbanas-1119200",
+        "h1": "Vihar előtti csend a magyar bankokban? Küszöbön lehet a kamatrobbanás",
+        "txtlength": 18854
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20211109_biztositott_a_biroi_fuggetleneg_az_obh_elnoke_a_mandinernek",
+        "h1": "Biztosított a bírói függetlenség – a bírósági hivatal elnöke a Mandinernek",
+        "txtlength": 18763
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20211109_belfold_karacsony_gergely_fovarosi_ingatlanugyek_baloldal_varoshaza",
+        "h1": "A fővárosi vagyonkezelő társaságában beszélnek a Városháza eladásáról, és arról, hogy a választások után szétrombolnák a közparkot",
+        "txtlength": 17122
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/karrier/20211104/minimalber-emeles-2022-nagyot-no-a-gyed-allaskeresesi-jaradek-osszege-is-1119089",
+        "h1": "Minimálbér emelés 2022: nagyot nő a GYED, az álláskeresési járadék összege is",
+        "txtlength": 14117
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/otthon/szolo-ultetes-kertbe/",
+        "h1": "Milyen fajta szőlő marad meg a kiskertekben, és hogyan kell letenni a tőkéket? Megyeri Szabolcs kertészt kérdeztük",
+        "txtlength": 11967
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/lajfhekk/kavefozo-teszt/",
+        "h1": "Kávéfőző teszt",
+        "txtlength": 8396
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://qubit.hu/2021/11/10/ha-mar-az-alhirekkel-is-alig-birunk-mi-lesz-ha-berobban-a-deepfake",
+        "h1": "HA MÁR AZ ÁLHÍREKKEL IS ALIG BÍRUNK, MI LESZ, HA BEROBBAN A DEEPFAKE?",
+        "txtlength": 19221
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/11/10/nem-tudok-olyat-akinek-a-fogyatekossaggal-elo-gyereket-ne-erte-volna-bantalmazas",
+        "h1": "„Nem tudok olyat, akinek a fogyatékossággal élő gyerekét ne érte volna bántalmazás”",
+        "txtlength": 18663
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kultura/2021/11/09/kiemelt-beruhazas-varnegyed-hauszmann-program-huszonkettesek-stop-civil-kollegium-alapitvany/",
+        "h1": "Nemcsak a Várnegyedet, de az egész országot megfojtják a kiemelt beruházások",
+        "txtlength": 18549
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/nevertek/2021/11/10/esg-vita-energia-arrobbanas",
+        "h1": "Azért büntetnek egy teljes iparágat, mert az energiarendszerünk nagyját adó fosszilis termelésbe akar befektetni",
+        "txtlength": 15108
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/valasztas-2022/2021/11/10/marki-zay-peter-vadak-fidesz-kampany",
+        "h1": "Most akkor Márki-Zay Péter az egyetlen komolyan vehető ellenzéki vagy inkább egy rezsiemelő, migránsbetelepítő amerikai ügynök?",
+        "txtlength": 14107
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/vilag/20211109_Lukasenka_visszavag_azaz_igy_durvul_a_lengyelfeherorosz_hatarvalsag",
+        "h1": "Lukasenka visszavág, tovább durvul a lengyel–fehérorosz határválság",
+        "txtlength": 12721
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/fn/gazdasag/2021/11/09/varoshaza-tervezett-eladas-hangfelvetel-barts-balazs-vagyonkezelo-kozpont/",
+        "h1": "Előkerült egy hangfelvétel, amin négy férfi a Városháza eladásáról beszélget",
+        "txtlength": 11843
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/gazdasag/2021/11/09/mindjart-7-szazalekon-az-inflacio-az-mnb-gyorsithat-a-kamatemelesein-mert-jon-az-aranyeso-a-nyugdijasoknak-es-a-csaladoknak",
+        "h1": "Mindjárt 7% az infláció: az MNB gyorsíthat a kamatemelésen, mert jön az aranyeső a nyugdíjasoknak és a családoknak",
+        "txtlength": 11793
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/fn/gazdasag/2021/11/10/kotelezo-oltas-vendeglatas-idegenforgalom/",
+        "h1": "Erősebb a munkaerőhiány: esélytelen a kötelező oltás bevezetése a szállodákban, éttermekben",
+        "txtlength": 11575
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20211109_Peterfalvi_Pegasusvizsgalat_hol_a_vege",
+        "h1": "Már le akarta zárni, most mégsem látja a Pegasus-vizsgálat végét Péterfalvi",
+        "txtlength": 10506
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/ingatlan/20211109_lakhatas_habitat_jelentes_tamogatas",
+        "h1": "Elment 8700 milliárd arra, hogy jobb körülmények között lakjanak a magyarok, de mire mentünk vele?",
+        "txtlength": 10104
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/politika/varoshaza-anonymus-karacsony-gergely-eladas-hangfelvetel/8egnyy3",
+        "h1": "Egy rejtélyes hangfelvétel szerint mégiscsak eladnák a fővárosi városházát? – videó",
+        "txtlength": 9506
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/aramszunet-onkormanyzatok-villamosaramarak-emelkedes-leallas-sotetseg-katasztrofa/txjm2y5?sl_ps=d_11",
+        "h1": "Jön az áramszünet? Három hazai település már bajba került az árak miatt – Tényleg hetekre leszállhat a sötétség?",
+        "txtlength": 8519
+    },
+    {
+        "hostname": "receptneked.hu",
         "pagelink": "https://receptneked.hu/gyors/toltott-sult-krumpli/",
         "h1": "Töltött sült krumpli recept",
         "txtlength": 4220
