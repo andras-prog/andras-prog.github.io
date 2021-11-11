@@ -1,6 +1,192 @@
 [
     {
         "hostname": "receptneked.hu",
+        "pagelink": "https://receptneked.hu/gyors/serpenyos-pizza/",
+        "h1": "Serpenyős pizza recept",
+        "txtlength": 4086
+    },
+    {
+        "hostname": "receptneked.hu",
+        "pagelink": "https://receptneked.hu/gyors/csaszarne-pogacsaja/",
+        "h1": "Császárné pogácsája recept",
+        "txtlength": 4048
+    },
+    {
+        "hostname": "kiszamolo.hu",
+        "pagelink": "https://kiszamolo.hu/szerkesszunk-konyvet/",
+        "h1": "Szerkesszünk könyvet",
+        "txtlength": 27459
+    },
+    {
+        "hostname": "efesasanisimasa.com",
+        "pagelink": "https://efesasanisimasa.com/2021/10/26/az-igazsag-bajnokai-retfaerdighedens-ryttere-2020/",
+        "h1": "Az igazság bajnokai (Retfærdighedens ryttere, 2020)",
+        "txtlength": 8734
+    },
+    {
+        "hostname": "alapblog.hu",
+        "pagelink": "https://alapblog.hu/motorbiciklit-a-holdra/",
+        "h1": "Motorbiciklit a Holdra",
+        "txtlength": 4224
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/befektetes/20211110/itt-a-kriptobetet-kockazatmentes-nyereseg-vagy-illuzio-az-mnb-is-megszolal-az-ugyben-506430",
+        "h1": "Itt a kriptobetét: kockázatmentes nyereség, vagy illúzió? - Az MNB is megszólal az ügyben",
+        "txtlength": 32636
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20211130_a_kommunistak_elhallgattak_a_fajvedo_ellenallast_bartha_akos_tortenesz_a_mandinernek",
+        "h1": "Kommunisták, fajvédők, legitimisták – kik voltak valójában a magyar ellenállók?",
+        "txtlength": 23143
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/global/20211110/oda-utnek-ahol-kinanak-a-legjobban-faj-miert-kozeledik-europa-tajvan-fele-509810",
+        "h1": "Oda ütnek, ahol Kínának a legjobban fáj – Miért közeledik Európa Tajvan felé?",
+        "txtlength": 22790
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20211110/koronavirus-az-ellenseg-kivont-karddal-rohan-felenk-de-mi-megis-felunk-meghuzni-a-ravaszt-510016",
+        "h1": "Koronavírus: Az ellenség kivont karddal rohan felénk, de mi mégis félünk meghúzni a ravaszt",
+        "txtlength": 22286
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vilag/20211111/fabol-vaskarika-az-eu-kinai-mintara-epit-sajat-selyemutat-europai-elvek-szerint/",
+        "h1": "Fából vaskarika: az EU kínai mintára épít saját Selyemutat, európai elvek szerint",
+        "txtlength": 21035
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/elet/20211111/hogyan-elozhetjuk-meg-a-betegsegeket-egeszsegbiztositassal/",
+        "h1": "Hogyan előzhetjük meg a betegségeket egészségbiztosítással?",
+        "txtlength": 19626
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20211110_lmbtq_genderlobbi_baloldal_zuglo",
+        "h1": "Genderlobbi ütheti fel a fejét Zuglóban, a helyi Fidesz tiltakozik",
+        "txtlength": 18012
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20211110_varoshaza_ugy_karacsonyek_bealdoznak_a_fovarosi_vagyonkezelot",
+        "h1": "Városháza-ügy: Karácsonyék beáldoznák a fővárosi vagyonkezelőt",
+        "txtlength": 15938
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/megtakaritas/20211110/penzugyi-csapdaba-setalnak-a-magyar-parok-ezzel-kevesen-szamolnak-mindenuk-ramehet-1119256",
+        "h1": "Pénzügyi csapdába sétálnak a magyar párok: ezzel kevesen számolnak, mindenük rámehet",
+        "txtlength": 13607
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/auto/20211110/valtozik-az-uzemanyagok-osszetetele-megallhat-a-dragulas-a-magyar-kutakon-1119226",
+        "h1": "Változik az üzemanyagok összetétele: megállhat a drágulás a magyar kutakon?",
+        "txtlength": 13328
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/ezo/paisley-boszorkanyok/",
+        "h1": "A tömeges boszorkánykivégzés egy pohár tej miatt történt 1697-ben: 11 éves lány állt bosszút 7 emberen",
+        "txtlength": 11623
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2021/11/10/egyseges-es-ertheto-szabalyozas-hijan-az-iskolaigazgatok-dontik-el-hogyan-kezelik-a-jarvany-negyedik-hullamat",
+        "h1": "EGYSÉGES ÉS ÉRTHETŐ SZABÁLYOZÁS HÍJÁN AZ ISKOLAIGAZGATÓK DÖNTIK EL, HOGYAN KEZELIK A JÁRVÁNY NEGYEDIK HULLÁMÁT",
+        "txtlength": 10990
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/szuloseg/tesorivalizalas-humbug-vagy-nagyon-is-letezo-haboru-/",
+        "h1": "Tesórivalizálás: humbug, vagy nagyon is létező háború?",
+        "txtlength": 8512
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kultura/2021/11/10/janda-miklos-magyar-sherlock-holmes-detektiv-terez-korut/",
+        "h1": "Leszakadt a szekrény a magyar Sherlock Holmes alatt, amíg a kulcslyukon át figyelte a hűtlenkedő feleséget",
+        "txtlength": 19326
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kulfold/2021/11/10/azerbajdzsan-ormenyorszag-karabahi-haboru/",
+        "h1": "Hegyi-Karabahban papíron sincs béke, Azerbajdzsán mégis egy évvel ezelőtti győzelmét ünnepli",
+        "txtlength": 17043
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/11/11/babist-megbuktatta-az-ellenzeki-osszefogas-de-o-gyengebb-volt-orbannal",
+        "h1": "Babist megbuktatta az ellenzéki összefogás, de ő gyengébb volt Orbánnál",
+        "txtlength": 13831
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/szorakozas/2021/11/10/guardians-of-the-galaxy-eidos-montreal-jatek-teszt",
+        "h1": "Az év egyik legkellemesebb meglepetése A galaxis őrzői videójáték",
+        "txtlength": 13757
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2021/11/10/28-as-villamos-emberoles-vallomasok-itelet/",
+        "h1": "Húsz év fegyházra ítélték a 28-as villamoson gyilkoló férfit",
+        "txtlength": 12814
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20211110_varoshaza_fovarosi_onkormanyzat",
+        "h1": "A Városháza-gate újabb fordulója végre valamennyire tisztázza a helyzetet",
+        "txtlength": 12757
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/koronavirus/2021/11/11/koronavirus-jarvanyugyi-adatok-fertozes-halalozas-oltas",
+        "h1": "132 beteg halt meg, 8349 új fertőzöttet regisztráltak",
+        "txtlength": 10373
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://drogriporter.444.hu/2021/11/11/lejart-drogstrategiaval-haknizni-a-vilagban",
+        "h1": "Lejárt drogstratégiával haknizni a világban",
+        "txtlength": 9910
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/gazdasag/2021/11/10/az-erste-viheti-a-commerzbankot-a-budapest-bank-pedig-az-mkb-ba-olvadhat",
+        "h1": "Az Erste viheti a Commerzbankot, a Budapest Bank pedig az MKB-ba olvadhat",
+        "txtlength": 9703
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/koronavirus-europa-5-11-eves-korosztaly-oltas-engedelyezes/j9ss42q?sl_ps=d_1",
+        "h1": "Koronavírus: még idén elkezdődhet Magyarországon is az 5-11 évesek oltása",
+        "txtlength": 9484
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/kulfold/koronavirus-oroszorszag-nem-alkotmanyellenes-a-kotelezo-oltas-andrej-klisasz/q1bwfwn",
+        "h1": "Alkotmányellenes a koronavírus elleni oltás kötelezővé tétele? Megszólalt az orosz szenátor",
+        "txtlength": 9440
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/gazdasag/20211111_napelem_palyazat_otthonfelujitas_bank360",
+        "h1": "Jobb-e a napelempályázat az otthonfelújítási támogatásnál?",
+        "txtlength": 9427
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20211110_Varoshazagate_Valaszokat_var_Karacsony_a_vagyonkezelo_vezetojetol",
+        "h1": "Városháza-gate: Válaszokat vár Karácsony a vagyonkezelő vezetőjétől",
+        "txtlength": 8802
+    },
+    {
+        "hostname": "receptneked.hu",
         "pagelink": "https://receptneked.hu/gyors/toltott-kenyer/",
         "h1": "Töltött kenyér recept",
         "txtlength": 4040
