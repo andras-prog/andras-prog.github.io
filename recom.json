@@ -1,6 +1,186 @@
 [
     {
         "hostname": "receptneked.hu",
+        "pagelink": "https://receptneked.hu/gyors/sajtos-cukkinigolyok-2/",
+        "h1": "Sajtos cukkinigolyók recept",
+        "txtlength": 5105
+    },
+    {
+        "hostname": "receptneked.hu",
+        "pagelink": "https://receptneked.hu/gyors/bundas-kenyer-maskeppen/",
+        "h1": "Bundás kenyér másképpen recept",
+        "txtlength": 5055
+    },
+    {
+        "hostname": "hataratkelo.blog.hu",
+        "pagelink": "https://hataratkelo.blog.hu/2021/10/28/epitem_a_hazam_svedorszagban",
+        "h1": "Építem a házam - Svédországban",
+        "txtlength": 35495
+    },
+    {
+        "hostname": "kulturpart.hu",
+        "pagelink": "https://kulturpart.blog.hu/2021/11/12/kicsi_savanyu_de_nem_a_mienk",
+        "h1": "RENDHAGYÓ CIPRUSI ÚTIRAJZ",
+        "txtlength": 18820
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/bank/20211112/csanyi-sandor-csinaljuk-jol-vagy-inkabb-ne-is-csinaljuk-gyulolom-a-kozepszeruseget-510364",
+        "h1": "Csányi Sándor: csináljuk jól, vagy inkább ne is csináljuk, gyűlölöm a középszerűséget!",
+        "txtlength": 42996
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vallalat/20211112/rengeteg-az-utas-de-a-soforok-eltuntek-a-dijemeles-mentheti-meg-a-taxispiacot/",
+        "h1": "Rengeteg az utas, de a sofőrök eltűntek, a díjemelés mentheti meg a taxispiacot",
+        "txtlength": 23823
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20211112_nemetorszag_ausztria_covid_korlatozasok",
+        "h1": "Járvány: Ausztria a disztópia, Németország a katasztrófa szélén",
+        "txtlength": 21615
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/uzlet/20211112/hova-menjen-ma-finanszirozasert-egy-novekedni-akaro-kkv-510308",
+        "h1": "Hova menjen ma finanszírozásért egy növekedni akaró kkv?",
+        "txtlength": 21512
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://sport.mandiner.hu/cikk/20211109_sulyos_kerdesek_a_hatalmas_pofonok_vilagaban%20Mike%20Tyson%20Muhamed%20Ali%20Klicsko-fiv%C3%A9rek%20Mandiner%20Sport%20Topor%20Csaba%20Csisztu%20Zsuzsa%20Fury",
+        "h1": "Súlyos kérdések – a hatalmas pofonok világában",
+        "txtlength": 21334
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/gazdasag/20211108/jobban-teljesitett-a-brit-gazdasag-mint-az-eurozona-legfejlettebb-orszagai-1119096",
+        "h1": "Jobban teljesített a brit gazdaság, mint az eurozóna legfejlettebb országai?",
+        "txtlength": 20963
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20211111_bajnai_visszater_gyurcsany_marki_zay_baloldal",
+        "h1": "Újra a frontvonalban? Bajnai úgy térhet vissza, hogy el sem hagyta a baloldalt",
+        "txtlength": 20518
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/kozelet/20211109/stadion-korhaz-vagy-iskola-a-sport-oldalarol-adunk-par-fogodzot-a-valaszhoz/",
+        "h1": "Stadion, kórház vagy iskola? A sport oldaláról adunk pár fogódzót a válaszhoz",
+        "txtlength": 18127
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/uzlet/20211111/ujabb-drasztikus-lepes-a-kormanytol-kinek-faj-az-uzemanyagarak-befagyasztasa-510316",
+        "h1": "Újabb drasztikus lépés a kormánytól - Kinek fáj az üzemanyagárak befagyasztása?",
+        "txtlength": 16936
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/auto/20211111/megeszi-a-kutak-hasznat-a-hatosagi-arszabas-legrosszabb-esetben-bezarasok-is-johetnek-1119290",
+        "h1": "Megeszi a kutak hasznát a hatósági árszabás? Legrosszabb esetben bezárások is jöhetnek",
+        "txtlength": 14569
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2021/11/12/a-kacsatol-a-homarig-hamarosan-jon-a-valodi-muhus-amihez-nem-kell-allatot-olni",
+        "h1": "A KACSÁTÓL A HOMÁRIG: HAMAROSAN JÖN A VALÓDI MŰHÚS, AMIHEZ NEM KELL ÁLLATOT ÖLNI",
+        "txtlength": 13527
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/otthon/stresszoldas-kozlekedes-kornyezetvedelem-e-on-kihivas/",
+        "h1": "Stresszoldásra is használhatod a közlekedést, ha jól csinálod",
+        "txtlength": 9984
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/lajfhekk/miert-nem-valaszolnak-a-tarskereson/",
+        "h1": "Miért nem válaszolnak a társkeresőn?",
+        "txtlength": 7893
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/11/11/turi-gyorgy-felfuggesztette-tevekenyseget-az-uszoszovetsegben-kivizsgaljak-az-uszokat-ert-bantalmazasokat",
+        "h1": "Turi György felfüggesztette tevékenységét az úszószövetségben, kivizsgálják az úszókat ért bántalmazásokat",
+        "txtlength": 21453
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/politika/kormanyinfo-dontesek-gulyas-gergely-szentkiralyi-alexandra-bejelentesek/csltt57",
+        "h1": "Kormányinfó: november 15-től 480 forinton rögzítik a benzin és a gázolaj árát",
+        "txtlength": 17319
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kulfold/2021/11/11/biden-infrastruktura-csomag-beruhazas-trump-usa-egyesult-allamok-adossag",
+        "h1": "Biden átverte egyik fő ígéretét, de a neheze még hátravan",
+        "txtlength": 16966
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/11/11/a-tudosok-segito-kezeket-nyujtottak-a-jarvanykezelesben-a-politikanak-csak-nem-volt-ott-senki-aki-elfogadja",
+        "h1": "A tudósok segítő kezet nyújtottak a járványkezelésben a politikának, csak nem volt ott senki, aki elfogadja",
+        "txtlength": 16911
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/elet/20211111_turi_gyorgy_uszas_bantalmazas_veres",
+        "h1": "Turi György és tanítványai: a Cárt leleplezték, de ő nagyon nem érti, mi a gond",
+        "txtlength": 16703
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20211112_MarkiZay_alkotmanyozas_nepszavazas_matek_alaptorveny",
+        "h1": "Márki-Zay alkotmányozó népszavazásánál nem jön ki a matek, de ez csak a kisebbik baj vele",
+        "txtlength": 16413
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2021/11/12/varoshaza-eladas-karacsony-hangfelvetel-hatter/",
+        "h1": "Korrupció vagy semmi látnivaló? – összeszedtük, mit tudunk eddig a Városháza állítólagos eladásáról",
+        "txtlength": 15152
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/gazdasag/20211111_benzinar_rogzites_480_uzemanyag",
+        "h1": "Összegyűjtöttük, amit a benzinár befagyasztásáról tudni érdemes",
+        "txtlength": 12767
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2021/11/11/kormanyinfo-bejelentes-gulyas-gergely-koronavirus-maszkhasznalat/",
+        "h1": "Gulyás Gergely: 480 forintos felső határral rögzíti a kormány a 95-ös benzin és a gázolaj árát",
+        "txtlength": 12462
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/koronavirus/2021/11/11/oltas-vakcina-vedettseg-hatasossag-fertozes-betegseg-korhazba-kerules-halal-ellen-oroszi-beatrix-statisztika",
+        "h1": "Covid: új hazai adatok jelentek meg arról, milyen sokat számít, ha valaki be van oltva",
+        "txtlength": 11206
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/gazdasag/2021/11/12/mol-kormany-uzemanyagar-befagyasztas-tanksapka-benzin-dizel-gazolaj-inflacio-480-forint",
+        "h1": "A piacot torzítja, de a Molt és a benzinkutakat nem fogja földhöz vágni a benzinár befagyasztása",
+        "txtlength": 10276
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2021/11/11/orban-balazs-mcc-velemenyszabadsag-sajto-media/",
+        "h1": "Orbán Balázs: A valóságtól elrugaszkodott gondolatok vannak a sajtóban",
+        "txtlength": 9258
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/allat-tamadas-aldozat-kecske/v4l2ql2",
+        "h1": "Rejtélyes vérszívó öli az állatokat Tiszacsomán: csak két sebet ejt áldozatai nyakán az ismeretlen lény",
+        "txtlength": 9024
+    },
+    {
+        "hostname": "receptneked.hu",
         "pagelink": "https://receptneked.hu/gyors/serpenyos-pizza/",
         "h1": "Serpenyős pizza recept",
         "txtlength": 4086
