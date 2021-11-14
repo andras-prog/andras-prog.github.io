@@ -1,6 +1,180 @@
 [
     {
         "hostname": "receptneked.hu",
+        "pagelink": "https://receptneked.hu/gyors/toltott-zsemle-2/",
+        "h1": "Töltött zsemle recept",
+        "txtlength": 4955
+    },
+    {
+        "hostname": "receptneked.hu",
+        "pagelink": "https://receptneked.hu/gyors/kenyerlangos-vagy-toki-pompos/",
+        "h1": "Kenyérlángos, vagy töki pompos recept",
+        "txtlength": 4953
+    },
+    {
+        "hostname": "hataratkelo.blog.hu",
+        "pagelink": "https://hataratkelo.blog.hu/2021/11/09/amikor_tenyleg_jobb_ha_hazakoltozol",
+        "h1": "Amikor tényleg jobb, ha hazaköltözöl",
+        "txtlength": 35207
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20211112_kozos_felugyelet_valtott_neveles",
+        "h1": "Gyermekelhelyezés: kinyílt a kapu az édesapák előtt",
+        "txtlength": 28072
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/kozelet/20211114/rovidtavu-a-gazvalsag-vagy-egy-uj-korszak-kezdetet-jelzi/",
+        "h1": "Rövidtávú a gázválság, vagy egy új korszak kezdetét jelzi?",
+        "txtlength": 20647
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/uzlet/20211113/hetvegen-bedurrantjak-a-bitcoin-tortenetenek-egyik-legfontosabb-frissiteset-510488",
+        "h1": "Hétvégén bedurrantják a bitcoin történetének egyik legfontosabb frissítését",
+        "txtlength": 19749
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/vasarlas/20211113/adventi-korlatozasok-pesten-es-videken-ilyen-szabalyok-lehetnek-a-karacsonyi-forgatagban-1119328",
+        "h1": "Adventi korlátozások Pesten és vidéken: ilyen szabályok lehetnek a karácsonyi forgatagban",
+        "txtlength": 19362
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20211109_terdig_az_italban",
+        "h1": "Térdig az italban – több alkoholt fogyasztunk a járvány óta",
+        "txtlength": 19250
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/gazdasag/20211111/valtozo-prudencialis-mozgaster-az-eurocsatlakozast-kovetoen-1119184",
+        "h1": "Változó prudenciális mozgástér az eurocsatlakozást követően",
+        "txtlength": 18832
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20211112/kina-fejebe-vette-hogy-kiirtja-a-koronavirust-az-sem-erdekli-ha-ezzel-foldhoz-vagja-a-vilagot-510482",
+        "h1": "Kína fejébe vette, hogy kiirtja a koronavírust - az sem érdekli, ha ezzel földhöz vágja a világot",
+        "txtlength": 18805
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vallalat/20211113/annyira-nemetek-vagytok-es-ezt-imadom-bennetek/",
+        "h1": "„Annyira németek vagytok, és ezt imádom bennetek”",
+        "txtlength": 17897
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20211112/uzemanyagar-befagyasztas-minden-amit-tudni-kell-a-benzin-es-a-gazolaj-aranak-csokkenteserol-510524",
+        "h1": "Üzemanyagár-befagyasztás: minden, amit tudni kell a benzin és a gázolaj árának csökkentéséről",
+        "txtlength": 16813
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2021/11/14/az-evoeszkozok-svajci-bicskaja-a-csodalatos-kanalgep",
+        "h1": "AZ EVŐESZKÖZÖK SVÁJCI BICSKÁJA, A CSODÁLATOS KANÁLGÉP",
+        "txtlength": 16760
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20211111_tasnadi_peter_portre_maffiozo_keresztapa",
+        "h1": "Az egykori „keresztapa”, aki az ellenzék győzelméért szorít – Tasnádi Péter portréja",
+        "txtlength": 16398
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/gyerek/ha-eloszor-alszik-egyutt-ket-kamasz-interju/",
+        "h1": "Ha először alszik együtt két kamasz: így reagálj jól szülőként a pszichológus szerint",
+        "txtlength": 11623
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/lajfhekk/irodalomterapia-mire-jo/",
+        "h1": "Mikor jöhet jól az irodalomterápia?",
+        "txtlength": 8011
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/sport/2021/11/13/danyi-gabor-siofok-edzovaltas-gyor-valogatott-olimpia",
+        "h1": "A pénz a szakmai munka rovására ment, nemcsak a kézilabdában, máshol is",
+        "txtlength": 19834
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kultura/2021/11/14/jarai-mark-halott-penz-interju/",
+        "h1": "Járai Márk: „Szeretek monoton dolgokba menekülni”",
+        "txtlength": 19575
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20211113_Minden_tiszta_ver_volt_meg_a_kocsinak_a_kereknyoma_is",
+        "h1": "Minden tiszta vér volt, még a kocsinak a keréknyoma is",
+        "txtlength": 19042
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/tech/2021/11/13/igy-csokkentsd-literekkel-az-autod-atlagfogyasztasat",
+        "h1": "Fájdalmasan drága a benzin és a gázolaj? Íme néhány tipp, hogy kevesebbet fogyasszon az autó",
+        "txtlength": 18290
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/kultura/20211113_Erdely_nagy_utemben_fejlodik_sokkal_nagyobb_utemben_mint_mi__Nyary_Krisztian_es_Nyary_Luca_az_erdelyi_korutjarol_meselt",
+        "h1": "„Erdély nagy ütemben fejlődik, sokkal nagyobb ütemben, mint mi\" - Nyáry Krisztián és Nyáry Luca az erdélyi körútjáról mesélt",
+        "txtlength": 18214
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/szorakozas/2021/11/13/travis-scott-astroworld-fesztival-koncert-halalos-aldozatok-tragedia-tomeg-kozonseg/",
+        "h1": "Travis Scott Astroworld-tragédiájára számítani lehetett, mégsem tudták megelőzni",
+        "txtlength": 18149
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/sport/2021/11/14/puskas-ferenc-masodik-elet-konyvajanlo-matine-daniel-entrialgo/",
+        "h1": "„Az új igazolás, elnök úr. Kövér, méghozzá nem is kicsit”",
+        "txtlength": 17168
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/11/13/kisebb-volt-mint-egy-alma-magja-de-attol-valt-gyerekke-hogy-en-tobbet-lattam-bele",
+        "h1": "„Kisebb volt, mint egy alma magja, de attól vált gyerekké, hogy én többet láttam bele”",
+        "txtlength": 13869
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/gazdasag/20211113_klimavaltozas_klimaharc_cop26_ensz_klimacsucs_glasgow",
+        "h1": "Elfogadták a Glasgow-i klímaegyezményt, aki sokat várt, csalódott lesz",
+        "txtlength": 13687
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/tudomany/2021/11/14/a-magyar-antiszemitizmus-a-masodik-legnagyobb-europaban-olyan-eros-mint-a-nyugat-europai-muszlimoke",
+        "h1": "Magyarország dobogós az antiszemitizmusban, a nyugat-európai muszlimokéval vetekszik az itthoni zsidóellenesség",
+        "txtlength": 11801
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/11/14/elfogadtak-az-uj-klimaegyezmenyt",
+        "h1": "Elfogadták az új klímaegyezményt",
+        "txtlength": 11672
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/krimi/bacsbokod-gyilkossag-1986-utolso-kivegzes-magyarorszagon/tmshzp8",
+        "h1": "„Élsz még?” – kérdezte a hét hónapos terhes Ildikótól a bácsbokodi gyerekgyilkos",
+        "txtlength": 10249
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/kulfold/feheroroszorszag-lengyelorszag-migransok-menekultek/tn1ryzt",
+        "h1": "Súlyos a helyzet: úgy néz ki, Lukasenka fehérorosz elnök migránsokkal akarja megostromoltatni Európa határát Lengyelországnál – fotók",
+        "txtlength": 9357
+    },
+    {
+        "hostname": "receptneked.hu",
         "pagelink": "https://receptneked.hu/gyors/sajtos-krumpligolyok/",
         "h1": "Sajtos krumpligolyók recept",
         "txtlength": 4947
