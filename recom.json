@@ -1,6 +1,192 @@
 [
     {
         "hostname": "receptneked.hu",
+        "pagelink": "https://receptneked.hu/gyors/10-perces-csokis-finomsag/",
+        "h1": "10 perces csokis finomság recept",
+        "txtlength": 4974
+    },
+    {
+        "hostname": "receptneked.hu",
+        "pagelink": "https://receptneked.hu/gyors/sajtos-sult-rizsgolyok/",
+        "h1": "Sajtos sült rizsgolyók recept",
+        "txtlength": 4903
+    },
+    {
+        "hostname": "kiszamolo.hu",
+        "pagelink": "https://kiszamolo.hu/babakotveny-allami-tamogatas-emelese/",
+        "h1": "Babakötvény állami támogatás emelése",
+        "txtlength": 20849
+    },
+    {
+        "hostname": "kulturpart.hu",
+        "pagelink": "https://kulturpart.blog.hu/2021/11/14/pengo_csaba_circles",
+        "h1": "TITOKZATOS KÖRÖK HANGJAI",
+        "txtlength": 13898
+    },
+    {
+        "hostname": "alapblog.hu",
+        "pagelink": "https://alapblog.hu/houston-we-have-crypto/",
+        "h1": "Houston, we have crypto!",
+        "txtlength": 7312
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/vasarlas/20211114/oriasi-felhalmozasi-hullam-indulhat-meg-melyen-a-zsebebe-nyulhat-aki-karacsonyig-kivar-1119264",
+        "h1": "Óriási felhalmozási hullám indulhat meg: mélyen a zsebébe nyúlhat, aki karácsonyig kivár",
+        "txtlength": 24679
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20211115_didier_reynders_interju_eu_jogallamisagi_jelentes_olaf_magyarorszag",
+        "h1": "Az Alaptörvény érvénytelenítéséről és a bírák listázásáról sem beszélt Márki-Zay Péterrel az uniós jogállamisági biztos",
+        "txtlength": 22807
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/global/20211114/harom-magyarorszagnyi-sivatag-amelyert-orszagok-esnek-egymasnak-510516",
+        "h1": "Három Magyarországnyi sivatag, amelyért országok esnek egymásnak",
+        "txtlength": 21917
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20211114_claude_chollet_sajto_media",
+        "h1": "Lehet-e egy újságíró politikai aktivista? – Claude Chollet a Mandinernek",
+        "txtlength": 21326
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20211115/a-vilagon-egyedulallo-konstrukcioval-keszul-a-piacra-egy-uj-magyar-gyogyszerjelolt-510426",
+        "h1": "A világon egyedülálló konstrukcióval készül a piacra egy új magyar gyógyszerjelölt",
+        "txtlength": 20800
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20211114_orban_viktor_belfold_fidesz_kongresszus_beszed",
+        "h1": "Orbán: A baloldallal az is rosszul jár, aki rájuk szavaz",
+        "txtlength": 20665
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/bank/20211115/szempillantas-alatt-valora-valhat-a-bankok-remalma-ha-emeli-a-tetet-a-titkos-ellenseguk-509946",
+        "h1": "Szempillantás alatt valóra válhat a bankok rémálma, ha emeli a tétet a titkos ellenségük",
+        "txtlength": 18530
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/oktatas/20211112/mar-robotokkal-tanitanak-ebben-a-magyar-iskolaban-ez-varhat-a-gyerekeinkre-par-even-belul-1119249",
+        "h1": "Már robotokkal tanítanak ebben a magyar iskolában: ez várhat a gyerekeinkre pár éven belül",
+        "txtlength": 18014
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vilag/20211115/svajcban-is-leteszteltuk-az-aldi-arait-es-nagyon-lapos-lett-a-penztarcank/",
+        "h1": "Svájcban is leteszteltük az Aldi árait, és nagyon lapos lett a pénztárcánk",
+        "txtlength": 16091
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/podcast/20211113/a-legnagyobb-elmek-azon-dolgoznak-hogy-tobbet-kattintsunk-reklamokra-de-ennek-nem-kell-igy-lennie/",
+        "h1": "A legnagyobb elmék azon dolgoznak, hogy többet kattintsunk reklámokra, de ennek nem kell így lennie",
+        "txtlength": 15883
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2021/11/15/tudom-hogy-milyen-egy-alma-tudom-hogy-piros-csak-nem-latom-magam-elott",
+        "h1": "TUDOM, HOGY MILYEN EGY ALMA, TUDOM, HOGY PIROS, CSAK NEM LÁTOM MAGAM ELŐTT",
+        "txtlength": 13889
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/lajfhekk/amire-a-gazdagok-nem-koltenek/",
+        "h1": "Amire a gazdagok nem költenek",
+        "txtlength": 10960
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/kapcsolat/hutlenseg-rizikofaktorai-kutatas/",
+        "h1": "10 dolog, ami gyakran vezet hűtlenséghez: a legerősebb rizikófaktorok a kutatás szerint",
+        "txtlength": 10250
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/belfold/2021/11/14/fidesz-kongresszus-orban-viktor-alelnok-valasztas-novak-katalin",
+        "h1": "Orbán bácsi és fideszes nehéz kérdések is előkerültek a párt kongresszusán",
+        "txtlength": 35770
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/politika/fidesz-kongresszus-orban-viktor-valasztas-novak-katalin/2w8e4rl",
+        "h1": "Fidesz-kongresszus – Itt vannak az eredmények: a kihívó nélküli Orbán Viktort újraválasztották, Vastag Tamás is fellépett – fotók",
+        "txtlength": 29601
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/11/15/reynders-elfogadhatatlan-hogy-az-eu-birosaganak-donteseit-figyelmen-kivul-hagyjak",
+        "h1": "Reynders: Elfogadhatatlan, hogy az EU Bíróságának döntéseit figyelmen kívül hagyják",
+        "txtlength": 23113
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kultura/2021/11/14/sorozat-fantasy-netflix-amazon-hbo-az-ido-kereke-gyuruk-ura/",
+        "h1": "Zajlik az igazi trónok harca, hogy mi legyen a világ új fantasykedvence",
+        "txtlength": 18249
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/11/14/orban-a-legjobb-korban-vagyok-amig-birom-csinalom",
+        "h1": "Orbán: A legjobb korban vagyok. Amíg bírom, csinálom",
+        "txtlength": 16423
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20211114_A_Fidesz_kongresszusan_osszeert_a_NER_humora_es_paranoiaja",
+        "h1": "A Fidesz kongresszusán összeért a NER humora és paranoiája",
+        "txtlength": 16399
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/tudomany/2021/11/14/szanyi-szabolcs-unesco-mab-dij-okologia-bioszfera-rezervatum-karpatalja-beregi-sik-lepke-saska-rovarasz",
+        "h1": "Amikor meglátták a lepkehálómat, azt mondták, ne menjek halászni, hiszen arra nincsen víz",
+        "txtlength": 13164
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/kultura/20211114_MTV_EMA_European_Music_Awards",
+        "h1": "\"Legkedvesebb magyar LMBTQ-testvéreim, ez a díj mindannyiotoké\" - magyar aktivistát díjaztak az MTV EMA-n",
+        "txtlength": 12203
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2021/11/14/orban-viktor-kongresszus-beszed-valasztas-2022/",
+        "h1": "Orbán Viktor: Azt ajánljuk Magyarországnak, hogy akarjon többet",
+        "txtlength": 11950
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/sztarvilag/kultura/mtv-ema-elo-kozvetites-budapest/3054ze3",
+        "h1": "MTV EMA 2021: fény derült a nyertesek nevére – A Blikk a helyszínről jelentkezett",
+        "txtlength": 11240
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kultura/2021/11/14/podcast-filezo-kardos-tamas-maradokapenzemnel/",
+        "h1": "Az áremelkedés sokakat visszaterelhet a „mindegy, csak legyen olcsó” termékekhez",
+        "txtlength": 11229
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/vilag/20211114_Zeman_csehorszag",
+        "h1": "A Babiš-kormány lemondásával kezdődik igazán a politikai játszma Csehországban",
+        "txtlength": 10996
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/szorakozas/2021/11/15/mtv-ema-budapest-mtu-ed-sheeran-awards-dijatado",
+        "h1": "Kormányzati pénzből valósult meg Kövér László rémálma",
+        "txtlength": 10795
+    },
+    {
+        "hostname": "receptneked.hu",
         "pagelink": "https://receptneked.hu/gyors/toltott-zsemle-2/",
         "h1": "Töltött zsemle recept",
         "txtlength": 4955
