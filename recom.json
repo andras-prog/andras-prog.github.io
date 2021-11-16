@@ -1,5 +1,203 @@
 [
     {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/macaron-a-hej.recept",
+        "h1": "MACARON - A HÉJ",
+        "txtlength": 11418
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/hazi-leveles-teszta-alaprecept.recept",
+        "h1": "HÁZI LEVELES TÉSZTA ALAPRECEPT",
+        "txtlength": 11353
+    },
+    {
+        "hostname": "receptneked.hu",
+        "pagelink": "https://receptneked.hu/gyors/baconben-sult-sajttekercs-1/",
+        "h1": "Baconben sült sajttekercs recept",
+        "txtlength": 4915
+    },
+    {
+        "hostname": "receptneked.hu",
+        "pagelink": "https://receptneked.hu/gyors/fokhagymas-krumpli/",
+        "h1": "Fokhagymás krumpli recept",
+        "txtlength": 4905
+    },
+    {
+        "hostname": "efesasanisimasa.com",
+        "pagelink": "https://efesasanisimasa.com/2021/10/27/a-gesztenyeember-kastanjemanden-tv-mini-series-2021/",
+        "h1": "A gesztenyeember (Kastanjemanden, TV Mini-series, 2021)",
+        "txtlength": 7878
+    },
+    {
+        "hostname": "kiszamolo.hu",
+        "pagelink": "https://kiszamolo.hu/tag/csok-ujra-igenylese/",
+        "h1": "Címke: CSOK újra igénylése",
+        "txtlength": 7463
+    },
+    {
+        "hostname": "alapblog.hu",
+        "pagelink": "https://alapblog.hu/hangverseny-a-zsivanyoknak-a-taborban/",
+        "h1": "Hangverseny a zsiványoknak, a táborban!",
+        "txtlength": 6198
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20211116/lazar-janos-abcug-kulfoldi-diszkontok-510278",
+        "h1": "Lázár János: abcúg, külföldi diszkontok!",
+        "txtlength": 27186
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20211115_kulaktempoban_haladunk",
+        "h1": "Kuláktempóban haladunk – Gajdics Ottó a Mandinernek",
+        "txtlength": 22724
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20211116/tularazottak-e-a-csereaukcios-papirok-509876",
+        "h1": "Túlárazottak-e a csereaukciós papírok?",
+        "txtlength": 22078
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/otthon/20211115/itt-a-milliokat-ero-lista-errol-minden-lakasvasarlonak-tudnia-kell-1119334",
+        "h1": "Itt a milliókat érő lista: erről minden lakásvásárlónak tudnia kell",
+        "txtlength": 22027
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/kozelet/20211115/februarra-nagyon-nehez-helyzetbe-kerulhet-a-kormany-a-benzinar-maximalizalasa-miatt/",
+        "h1": "Februárra nagyon nehéz helyzetbe kerülhet a kormány a benzinár maximálása miatt",
+        "txtlength": 19285
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20211109_glasgow_i_klimakonferencia_az_erdektelenseg_csucstalalkozoja",
+        "h1": "Az érdektelenség csúcstalálkozója – így zajlott a glasgow-i klímakonferencia",
+        "txtlength": 19141
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/egeszseg/20211111/kiderult-a-d-vitamin-titok-ezt-jobb-ha-tudod-a-meregdraga-patikai-tablettakrol-1119246",
+        "h1": "Kiderült a D-vitamin titok: ezt jobb, ha tudod a méregdrága patikai tablettákról",
+        "txtlength": 17601
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20211109_az_oncenzurabol_hallgatas_lesz",
+        "h1": "Az öncenzúrából hallgatás lesz – Kovács István a Mandinernek",
+        "txtlength": 16959
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/penz/20211116/rengetegen-kaptak-ra-a-befektetesi-celu-numizmatikara-pedig-az-szaktudas-nelkul-egy-hazardjatek/",
+        "h1": "Rengetegen kaptak rá a befektetési célú numizmatikára, pedig az szaktudás nélkül egy hazárdjáték",
+        "txtlength": 15338
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/uzlet/20211116/a-kinai-es-az-amerikai-elnok-csucstalalkozoja-utan-bizonytalansag-a-tozsdeken-510930",
+        "h1": "A kínai és az amerikai elnök csúcstalálkozója után bizonytalanság a tőzsdéken ",
+        "txtlength": 15315
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2021/11/15/munchausen-vagy-munchhausen-hany-h-val-irjuk-a-nagyotmondo-baro-nevet",
+        "h1": "MÜNCHAUSEN VAGY MÜNCHHAUSEN? HÁNY H-VAL ÍRJUK A NAGYOTMONDÓ BÁRÓ NEVÉT?",
+        "txtlength": 13923
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/egeszseg/idoskori-taplalkozas/",
+        "h1": "60 éves kor felett muszáj jobban figyelni rá: mennyit és mit szabad enni a dietetikusok szerint?",
+        "txtlength": 11658
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/lajfhekk/a-cleanfluenszerek-csillogo-vilaga.-kik-ok-es-mit-jelent-ez-pontosan-/",
+        "h1": "A cleanfluenszerek csillogó világa. Kik ők, és mit jelent ez pontosan?",
+        "txtlength": 7790
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/belfold/2021/11/16/pegasus-gyorstalpalo-kemszofver-titkosszolgalat-megfigyeles-jogszeruseg",
+        "h1": "Ha az a titkosszolgálat dolga, hogy megfigyeljen embereket, miért lett botrány a Pegasusból?",
+        "txtlength": 18923
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20211116_kerdoiv_elemzes",
+        "h1": "Érvénytelenítenék az Alaptörvényt, mindenkit elszámoltatnának, de nem adóztatnák a gazdagokat – ezt várják a hvg.hu olvasói",
+        "txtlength": 16969
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/tech/2021/11/15/football-manager-fm22-teszt-jatekteszt-pc-magyar-foci-elit/",
+        "h1": "Az új Football Managerben valóra válhat az álom, az elitbe kerülhet a magyar foci",
+        "txtlength": 14602
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kulfold/2021/11/15/szlovenia-horvath-ferenc-jansa-orban-elemzes/",
+        "h1": "Orbán Viktor szlovéniai magyar híve tartja életben Janez Jansa kormányát",
+        "txtlength": 13489
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/11/15/az-osztrak-egeszsegugyi-miniszter-az-oltottaknal-is-szigoritana-de-a-kancellarnak-nem-tetszik-az-otlet",
+        "h1": "Az osztrák egészségügyi miniszter az oltottaknál is szigorítana, de a kancellárnak nem tetszik az ötlet",
+        "txtlength": 13339
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/zhvg/20211115_cop26_klimavaltozas_ensz_klimacsucs_glasgow_ertekeles_green_policy_center",
+        "h1": "Megtettek mindent, amit lehet, de amit kellett volna, az nem jött össze – mérlegen a glasgow-i klímacsúcs",
+        "txtlength": 12703
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/krimi/regi-bunugyek-rablas-roman-bunozok-elfogas/ssgy6zg?sl_ps=d_11",
+        "h1": "Óriási meglepetés érte a rablóbanda tanyáján rajtaütő budapesti zsarukat: épp melegorgiát tartottak, de a történet folytatása sem túl elegáns",
+        "txtlength": 12121
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/tamogatott-tartalom/2021/11/15/hogyan-kapnak-nevet-a-gyogyszerek-gyogyszer-vakcina-nev-mrns-pfizer",
+        "h1": "Hogyan kapnak nevet a gyógyszerek?",
+        "txtlength": 12095
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kulfold/2021/11/16/romania-uzvolgy-temetofoglalas-jogeros-itelet",
+        "h1": "Míg az úzvölgyi katonatemető tulajdonjogának tisztázása sínen van, a magyarellenes megnyilvánulások kivizsgálása megfeneklett",
+        "txtlength": 11966
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/gazdasag/20211116_gdp_novekedes_valsag_kilabalas",
+        "h1": "Itt az új GDP-adat: meglehet a kormány terve az idei növekedésre, de nincs nagy ok az örömre",
+        "txtlength": 11663
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2021/11/16/fovaros-patkanyirtas-tender-fertozottseg-babolna-rhnb-konzorcium-tarlos-karancsony/",
+        "h1": "Tarlósék mellett az ellenzék is vastagon benne volt a budapesti patkányirtás árának elszállásában",
+        "txtlength": 11304
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/11/15/matolcsy-gyorgy-szerint-a-kormany-gazdasagpolitikaja-fenntarthatatlan-iranyt-kellene-valtani",
+        "h1": "Matolcsy György szerint a kormány gazdaságpolitikája fenntarthatatlan, irányt kellene váltani",
+        "txtlength": 11086
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/telefon-fuggoseg-gyerekek/v6ggwje?sl_ps=d_9",
+        "h1": "Tönkreteszi a mobilozás a gyerekeinket? Schobert Norbi a Sátán eszközének tartja",
+        "txtlength": 10865
+    },
+    {
         "hostname": "receptneked.hu",
         "pagelink": "https://receptneked.hu/gyors/10-perces-csokis-finomsag/",
         "h1": "10 perces csokis finomság recept",
