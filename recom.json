@@ -1,5 +1,185 @@
 [
     {
+        "hostname": "receptneked.hu",
+        "pagelink": "https://receptneked.hu/gyors/sutoben-sult-hotdog/",
+        "h1": "Sütőben sült hotdog recept",
+        "txtlength": 4816
+    },
+    {
+        "hostname": "receptneked.hu",
+        "pagelink": "https://receptneked.hu/gyors/sajtos-baconos-csavart/",
+        "h1": "Sajtos-baconos csavart recept",
+        "txtlength": 4778
+    },
+    {
+        "hostname": "hataratkelo.blog.hu",
+        "pagelink": "https://hataratkelo.blog.hu/2021/11/13/budapest_hataratkelo_szemmel#c41038644",
+        "h1": "Budapest határátkelő szemmel",
+        "txtlength": 45425
+    },
+    {
+        "hostname": "kulturpart.hu",
+        "pagelink": "https://kulturpart.blog.hu/2021/11/11/az_erintes_titokzatos_ereje",
+        "h1": "AZ ÉRINTÉS TITOKZATOS EREJE",
+        "txtlength": 5149
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vilag/20211117/hihetetlenul-nehez-ravenni-az-embereket-hogy-atalakitsak-az-otthonukat/",
+        "h1": "„Hihetetlenül nehéz rávenni az embereket, hogy átalakítsák az otthonukat”",
+        "txtlength": 24250
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/vasarlas/20211116/jol-jonne-a-plusz-penz-karacsony-elott-itt-van-10-dolog-amit-most-jo-penzert-konnyen-eladhatsz-1119418",
+        "h1": "Jól jönne a plusz pénz karácsony előtt? Itt van 10 dolog, amit most jó pénzért, könnyen eladhatsz",
+        "txtlength": 21810
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20211110_rendszerszintu_sikerekre_van_szukseg",
+        "h1": "Rendszerszintű sikerekre van szükség – Both Miklós a Mandinernek",
+        "txtlength": 20525
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/nyugdij/20211112/horror-a-boltokban-ennyivel-roviditette-meg-a-rekord-merteku-dragulas-a-magyar-nyugdijasokat-1119311",
+        "h1": "Horror a boltokban: ennyivel rövidítette meg a rekord mértékű drágulás a magyar nyugdíjasokat",
+        "txtlength": 18928
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20211111_marki_zay_peter_nemzetpolitika_baloldal_erdely_felvidek_delvidek_karpatalja_gyurcsany_ferenc",
+        "h1": "Márki-Zay Péterrel hátraarc jöhet a nemzetpolitikában",
+        "txtlength": 16792
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20211116_ed_west_unherd_bevandorlas_interju",
+        "h1": "Egyre jobban szűkül, mi számít elfogadhatónak – Ed West a Mandinernek",
+        "txtlength": 16621
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2021/11/17/magyarorszagon-alig-letezik-a-maganiskolai-szektor-az-elitizmusa-miatt-megis-nagy-feltunest-kelt",
+        "h1": "MAGYARORSZÁGON ALIG LÉTEZIK A MAGÁNISKOLAI SZEKTOR, AZ ELITIZMUSA MIATT MÉGIS NAGY FELTŰNÉST KELT",
+        "txtlength": 15841
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/global/20211117/megis-mit-csinalnak-a-magyar-katonak-a-vilag-legveszelyesebb-leginstabilabb-orszagaiban-511082",
+        "h1": "Mégis mit csinálnak a magyar katonák a világ legveszélyesebb, leginstabilabb országaiban?",
+        "txtlength": 15549
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/ingatlan/20211117/alapjaiban-kell-atgondolni-a-nagyvarosok-mukodeset-hogy-elhetoek-maradjanak-510992",
+        "h1": "Alapjaiban kell átgondolni a nagyvárosok működését, hogy élhetőek maradjanak",
+        "txtlength": 15243
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/elet/20211114/a-helyi-hagyomanyok-zoldithetik-a-modern-epiteszetet-nalunk-a-valyog-reneszanszara-lenne-szukseg/",
+        "h1": "A helyi hagyományok zöldíthetik a modern építészetet, nálunk a vályog reneszánszára lenne szükség",
+        "txtlength": 14427
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/uzlet/20211117/kitart-a-jo-hangulat-a-tozsdeken-az-inflacios-adatokra-figyelnek-a-befektetok-511156",
+        "h1": "Kitart a jó hangulat a tőzsdéken, az inflációs adatokra figyelnek a befektetők ",
+        "txtlength": 12969
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/utazas/e-roller-kresz-szabalyok/",
+        "h1": "Hogyan szabályos e-rollerrel közlekedni? Megkérdeztük a rendőrséget, kell-e hozzá jogosítvány",
+        "txtlength": 11830
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/lajfhekk/rossz-gyorsettermi-szokasok/",
+        "h1": "Rossz gyorséttermi szokások",
+        "txtlength": 7925
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/11/17/milyen-erdekek-tartanak-a-jeges-kelet-europai-erdoben-nehany-ezer-a-sivatag-szelerol-erkezett-embert",
+        "h1": "Milyen érdekek tartanak a jeges kelet-európai erdőben néhány ezer, a sivatag széléről érkezett embert?",
+        "txtlength": 22752
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kulfold/2021/11/17/orban-menekultvalsag-migracio-igazsagtartalom-factcheck",
+        "h1": "Orbán szerint a 2015-ös menekültválságnál is nagyobb migrációs fenyegetésre kell felkészülnünk. Tényleg ez látszik?",
+        "txtlength": 21179
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/politika/marki-zay-peter-miniszterelnok-jelolt-interju/r4gkffv?sl_ps=d_4",
+        "h1": "Márki-Zay Péter lányát a neten zaklatják",
+        "txtlength": 17762
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/koronavirus/2021/11/16/ausztria-oltatlanok-kijarasi-tilalom-korlatozas-alkotmany-alapjogok-fertozottek",
+        "h1": "Kijárási korlátozás az oltatlanoknak: Ausztria próbálkozik, de nagyon nehéz lesz betartatni az új szigorítást",
+        "txtlength": 16310
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20211117_Fel_eves_csuszassal_teljesult_csak_Orban_oltasi_terve_magat_es_a_valasztast_is_okolhatja",
+        "h1": "Féléves csúszással teljesült csak Orbán oltási terve, magát és a választást is okolhatja",
+        "txtlength": 15955
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/elet/20211116_Fogadjunk_meg_egy_jo_tanacsot_az_oregektol_Con_calma_Azaz_csak_szep_nyugodtan",
+        "h1": "Fogadjunk meg egy jó tanácsot az öregektől: „Con calma”, azaz csak szép nyugodtan!",
+        "txtlength": 15853
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://qubit.hu/2021/11/17/magyarorszagon-alig-letezik-a-maganiskolai-szektor-az-elitizmusa-miatt-megis-nagy-feltunest-kelt",
+        "h1": "MAGYARORSZÁGON ALIG LÉTEZIK A MAGÁNISKOLAI SZEKTOR, AZ ELITIZMUSA MIATT MÉGIS NAGY FELTŰNÉST KELT",
+        "txtlength": 15841
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kulfold/2021/11/16/szlovakia-fico-visszateresre-jatszik-caputova-pellegrini-smer-vadaszhaz-video",
+        "h1": "A bukását hozó Kuciak-gyilkosság óta nem volt ennyire főszerepben Fico",
+        "txtlength": 15723
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/fn/gazdasag/2021/11/17/lifestyle-hotel-bunugyi-zar-quaestor-meszaros-lorinc-tiborcz-istvan/",
+        "h1": "Hogyan kerül egy bűnügyi zár alatt lévő szálloda Mészáros Lőrinchez, aztán Tiborczhoz?",
+        "txtlength": 14607
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kulfold/2021/11/16/haborus-bunos-falfestmenye-osztja-meg-belgradot/",
+        "h1": "Háborús bűnös falfestménye osztja meg Belgrádot",
+        "txtlength": 11143
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/kasler-miklos-koronavirus-vakcina-hatekonysag-pfizer-szputnyik-v-sinopharm-moderna/h1vz00x?sl_ps=d_6",
+        "h1": "Kásler Miklós először beszélt részletesen a vakcinák hatékonyságáról: szerinte az ellenanyagszint semmit nem jelent",
+        "txtlength": 10336
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/gazdasag/20211116_kamatemeles",
+        "h1": "A jegybank nagyobb kamatemelést hajtott végre, mint amekkoráról eddig szó volt",
+        "txtlength": 10050
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2021/11/16/ungar-peter-lamp-ugyeszseg-nyomozas-ajanlasok/",
+        "h1": "Hatalmas üggyé dagadt az Ungár Péter ajánlásaival kapcsolatos, három és fél éve tartó nyomozás",
+        "txtlength": 9663
+    },
+    {
         "hostname": "mindmegette.hu",
         "pagelink": "https://www.mindmegette.hu/macaron-a-hej.recept",
         "h1": "MACARON - A HÉJ",
