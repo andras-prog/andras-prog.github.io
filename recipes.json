@@ -1,78 +1,6 @@
 [
     {
-        "timestamp": 1636714868326,
-        "name": "Görög tzatziki saláta",
-        "lead": "Az ember nem gondolkodhat, nem szerethet, nem alhat jól, ha nem evett jól.",
-        "phrase": "saláta",
-        "link": "https://www.nosalty.hu/recept/gorog-tzatziki-salata",
-        "ingred": [
-            "kígyóuborka",
-            "joghurt",
-            "fehér bors",
-            "lime",
-            "fokhagyma",
-            "kapor"
-        ]
-    },
-    {
-        "timestamp": 1636714868326,
-        "name": "Sertéspörkölt",
-        "lead": "A filozófiám alapja, hogy cogito ergo sum - gondolkodni és létezni viszont csak akkor tudok, ha jóllakott vagyok.",
-        "phrase": "sertés",
-        "link": "https://www.nosalty.hu/recept/sertesporkolt",
-        "ingred": [
-            "lapocka",
-            "paprika",
-            "paradicsom",
-            "hagyma",
-            "fokhagyma",
-            "zsír",
-            "babérlevél"
-        ]
-    },
-    {
-        "timestamp": 1636714868326,
-        "name": "Tejfölben pácolt csirkemell tepsis reszelt krumplival",
-        "lead": "Ha ételről van szó, nincs olyan, hogy rossz étel vagy jó étel. A változatosság a lényeg!",
-        "phrase": "csirkemell",
-        "link": "https://www.nosalty.hu/recept/tejfolben-pacolt-csirkemell-tepsis-reszelt-krumplival",
-        "ingred": [
-            "csirkemell",
-            "tejföl",
-            "tojás",
-            "fokhagyma",
-            "fűszerpaprika",
-            "liszt",
-            "olaj",
-            "burgonya",
-            "hagyma",
-            "margarin",
-            "sajt",
-            "zsemlemorzsa"
-        ]
-    },
-    {
-        "timestamp": 1636714868326,
-        "name": "Csirkés kínai pirított tészta",
-        "lead": "Az étel arra van, hogy jókedvűek legyünk tőle.",
-        "phrase": "kínai",
-        "link": "https://www.nosalty.hu/recept/csirkes-kinai-piritott-teszta",
-        "ingred": [
-            "csirkemell",
-            "kínai tészta",
-            "sárgarépa",
-            "hagyma",
-            "káposzta",
-            "gyömbér",
-            "chili",
-            "fokhagyma",
-            "osztrigaszósz",
-            "szójaszósz",
-            "olaj"
-        ]
-    },
-    {
-        "timestamp": 1612051310591,
+        "timestamp": 1637319681503,
         "name": "Szaftos paprikás csirke",
         "lead": "A szerelem olyan, mint az étel vagy az ital. Lehet ezek nélkül élni?",
         "phrase": "csirkemell",
@@ -89,7 +17,7 @@
         ]
     },
     {
-        "timestamp": 1612051595534,
+        "timestamp": 1637319681503,
         "name": "Lusta kenyér bármikor",
         "lead": "Minden egyes étel és élmény, amit egyedül élünk meg, kevésbé értékes, mint ha azokkal osztjuk meg, akiket szeretünk",
         "phrase": "kenyér",
@@ -100,7 +28,7 @@
         ]
     },
     {
-        "timestamp": 1612051595534,
+        "timestamp": 1637319681503,
         "name": "Pille szelet",
         "lead": "Tudod, miért fontos a finom étel? Összehozza az embereket, bárhonnan származnak is. Mindenkit barátságossá tesz és mosolyt csal az arcára.",
         "phrase": "desszert",
@@ -121,7 +49,7 @@
         ]
     },
     {
-        "timestamp": 1612051595534,
+        "timestamp": 1637319681503,
         "name": "Frankfurti leves 2.",
         "lead": "Nekem ezt jelenti ez az étel: az otthont, a szépséget, a tápláló szeretetet és az élet örök körforgásának érzését.",
         "phrase": "leves",
@@ -3197,6 +3125,78 @@
             "hagyma",
             "ételízesítő",
             "csigatészta"
+        ]
+    },
+    {
+        "timestamp": 1636714868326,
+        "name": "Görög tzatziki saláta",
+        "lead": "Az ember nem gondolkodhat, nem szerethet, nem alhat jól, ha nem evett jól.",
+        "phrase": "saláta",
+        "link": "https://www.nosalty.hu/recept/gorog-tzatziki-salata",
+        "ingred": [
+            "kígyóuborka",
+            "joghurt",
+            "fehér bors",
+            "lime",
+            "fokhagyma",
+            "kapor"
+        ]
+    },
+    {
+        "timestamp": 1636714868326,
+        "name": "Sertéspörkölt",
+        "lead": "A filozófiám alapja, hogy cogito ergo sum - gondolkodni és létezni viszont csak akkor tudok, ha jóllakott vagyok.",
+        "phrase": "sertés",
+        "link": "https://www.nosalty.hu/recept/sertesporkolt",
+        "ingred": [
+            "lapocka",
+            "paprika",
+            "paradicsom",
+            "hagyma",
+            "fokhagyma",
+            "zsír",
+            "babérlevél"
+        ]
+    },
+    {
+        "timestamp": 1636714868326,
+        "name": "Tejfölben pácolt csirkemell tepsis reszelt krumplival",
+        "lead": "Ha ételről van szó, nincs olyan, hogy rossz étel vagy jó étel. A változatosság a lényeg!",
+        "phrase": "csirkemell",
+        "link": "https://www.nosalty.hu/recept/tejfolben-pacolt-csirkemell-tepsis-reszelt-krumplival",
+        "ingred": [
+            "csirkemell",
+            "tejföl",
+            "tojás",
+            "fokhagyma",
+            "fűszerpaprika",
+            "liszt",
+            "olaj",
+            "burgonya",
+            "hagyma",
+            "margarin",
+            "sajt",
+            "zsemlemorzsa"
+        ]
+    },
+    {
+        "timestamp": 1636714868326,
+        "name": "Csirkés kínai pirított tészta",
+        "lead": "Az étel arra van, hogy jókedvűek legyünk tőle.",
+        "phrase": "kínai",
+        "link": "https://www.nosalty.hu/recept/csirkes-kinai-piritott-teszta",
+        "ingred": [
+            "csirkemell",
+            "kínai tészta",
+            "sárgarépa",
+            "hagyma",
+            "káposzta",
+            "gyömbér",
+            "chili",
+            "fokhagyma",
+            "osztrigaszósz",
+            "szójaszósz",
+            "olaj"
         ]
     }
 ]
