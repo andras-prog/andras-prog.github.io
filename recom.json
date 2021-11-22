@@ -1,5 +1,173 @@
 [
     {
+        "hostname": "receptneked.hu",
+        "pagelink": "https://receptneked.hu/gyors/krumplispogacsa/",
+        "h1": "Krumplis pogácsa recept",
+        "txtlength": 4519
+    },
+    {
+        "hostname": "alapblog.hu",
+        "pagelink": "https://alapblog.hu/rimelo-tortenelem-halozati-hatasok/",
+        "h1": "Rímelő történelem – hálózati hatások",
+        "txtlength": 9250
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20211119_cannes_i_filmfesztival_titan_julia_ducournau_filmkritika",
+        "h1": "Titán – Cannes és a botrányok",
+        "txtlength": 32149
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/202111121_hajdu_balazs_specialty_kave",
+        "h1": "Mi fán terem a specialty kávé? – Hajdú Balázs kávéspecialista a Mandinernek",
+        "txtlength": 28850
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vallalat/20211122/a-kisvardai-csigagyar-elnyelt-65-milliard-forint-allami-tamogatast-magyarorszagon-vege-a-csigabiznisznek/",
+        "h1": "A kisvárdai csigagyár elnyelt 6,5 milliárd forint állami támogatást, Magyarországon vége a csigabiznisznek",
+        "txtlength": 27597
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20211117_nyugat_baloldal_baloldali_ujsagirok_demeter_marton",
+        "h1": "„Ők elhiszik, hogy az a nagybetűs újságírás, amit ők csinálnak” – Demeter Márton a Mandinernek",
+        "txtlength": 23432
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20211122/elarulta-a-vilaghiru-kozgazdasz-mi-a-koronavirus-jarvany-legnagyobb-tanulsaga-az-emberiseg-szamara-511690",
+        "h1": "Elárulta a világhírű közgazdász, mi a koronavírus-járvány legnagyobb tanulsága az emberiség számára",
+        "txtlength": 16892
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/kozelet/20211120/nem-a-zoldek-a-magas-energiaar-okozoi/",
+        "h1": "Nem a zöldek a magas energiaár okozói",
+        "txtlength": 15708
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20211121/osszecsapnak-az-erok-a-poziciovedes-vagy-a-nagyszabasu-energetikai-atallas-gyozedelmeskedik-510990",
+        "h1": "Összecsapnak az erők - A pozícióvédés vagy a nagyszabású energetikai átállás győzedelmeskedik?",
+        "txtlength": 15701
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/bank/20211122/a-flottakat-sem-kimeli-az-autoipar-globalis-csuszasa-511466",
+        "h1": "A flottákat sem kíméli az autóipar globális csúszása",
+        "txtlength": 15326
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/vasarlas/20211121/zsebbenyulos-karacsony-var-a-szulokre-orulten-megdragultak-a-legnepszerubb-jatekok-1119533",
+        "h1": "Zsebbenyúlós karácsony vár a szülőkre: őrülten megdrágultak a legnépszerűbb játékok",
+        "txtlength": 13293
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/karrier/20211117/igazi-melos-gyotrelem-magyarorszag-a-legtobbet-dolgozo-de-legkevesebbet-kereso-eu-s-lista-elejen-1119462",
+        "h1": "Igazi melós gyötrelem: Magyarország a legtöbbet dolgozó, de legkevesebbet kereső EU-s lista elején",
+        "txtlength": 13091
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2021/11/22/a-mok-titkara-szerint-a-jarvanyadatok-eltitkolasa-nem-segiti-a-vedekezest-kizarolag-politikai-haszna-van",
+        "h1": "A MOK TITKÁRA SZERINT A JÁRVÁNYADATOK ELTITKOLÁSA NEM SEGÍTI A VÉDEKEZÉST, KIZÁRÓLAG POLITIKAI HASZNA VAN",
+        "txtlength": 11661
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/kapcsolat/catherine-walters-kurtizan/",
+        "h1": "Szegény lányból lett London leghíresebb kurtizánja: a gyönyörű és okos Catherine Waltersért a brit király is rajongott",
+        "txtlength": 10425
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/szuloseg/tapaszto-orsi-nyiltan-beszel-arrol-hogy-o-orokbefogadott-kisfiu-anyukaja/",
+        "h1": "Tapasztó @nemakarokbeleszólni Orsi nyíltan beszél arról, hogy ő örökbe fogadott kisfiú anyukája",
+        "txtlength": 8486
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/komplex/2021/11/22/olyan-gyorsan-allt-talpra-a-vilaggazdasag-hogy-azota-is-szedeleg",
+        "h1": "\n      Áruhiány, elszállt infláció – itt az armageddon? Nem, ez csak a gazdaság poszt-Covid állapota\n    ",
+        "txtlength": 25344
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/11/22/a-felborult-globalis-ellatasi-lancok-miatt-tobb-orszagban-veszelybe-kerult-a-karacsonyi-ajandekvasarlas",
+        "h1": "A felborult globális ellátási láncok miatt több országban veszélybe került a karácsonyi ajándékvásárlás",
+        "txtlength": 20118
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/velemeny/2021/11/21/gundel-takacs-gabor-nem-egyertelmu-hogy-mit-jelent-a-csalad",
+        "h1": "Gundel Takács Gábor: Nem egyértelmű, hogy mit jelent a család",
+        "txtlength": 18390
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/sztarvilag/donto-pillanatai-percrol-percre-sztarban-sztar-leszek-tv2/lyrzfr9?sl_ps=d_6",
+        "h1": "Ő lett a Sztárban Sztár leszek! nyertese, 10 millió üti a markát",
+        "txtlength": 17270
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/tech/2021/11/21/google-alternativ-keresok-you-bing-duckduckgo/",
+        "h1": "Itt egy újabb „anti-Google” kereső, de a piaci esélyei visszafogottak",
+        "txtlength": 15050
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/elet/20211121_peng_suaj_eltunt_kinai_teniszezo",
+        "h1": "Hová tűnt a kínai teniszező, Peng Suaj?",
+        "txtlength": 14576
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/nevertek/2021/11/22/wwf-valasz-kifogasok-hibas-erveles-esg-energiavalsag-zoldpolitika-vita",
+        "h1": "Kifogásokkal és hibás érveléssel nem állítjuk meg a klímaváltozást",
+        "txtlength": 14368
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kultura/2021/11/21/big-mouth-netflix-sorozat-kritika-hormonokkal-tulfutve-szexualis-felvilagositas/",
+        "h1": "Ráfekszik a gyerekekre a depresszió, ami egy hatalmas, elhízott macska",
+        "txtlength": 13760
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/zhvg/20211121_Ana_Ros_taplalkozas_hisa_franko",
+        "h1": "Ana Roš: A mai séfek olyanok, mint a rocksztárok, ha mondunk valamit, arra odafigyelnek",
+        "txtlength": 13039
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/foci/2021/11/22/xaviban-olt-testet-az-fc-barcelona-idealja-de-valtoznak-az-idok",
+        "h1": "Xaviban ölt testet az FC Barcelona ideálja, de változnak az idők",
+        "txtlength": 12716
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/sport/2021/11/21/rovidpalyas-gyorskorcsoly-vilagkupa-debrecen-liu-shaolin-sandor-eses-bokalanc/",
+        "h1": "Liu Shaolin Sándor: Ilyen nem maradhat következmények nélkül, akár a bokámat is eltörhettem volna",
+        "txtlength": 11649
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/eurologus/20211121_Erdovedelem_hulladekkezeles_talajvedelem__uj_brusszeli_javaslatok",
+        "h1": "Hadat üzent az EU a szemétmaffiának és az erdőirtóknak",
+        "txtlength": 11615
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/rudabanya-verhalom-ter-negyzetmeter-ar-leggazdagabb-utca-legszegenyebb-utca/tegb2zp?sl_ps=d_4",
+        "h1": "Az ország legdrágább és legolcsóbb utcájában jártunk, százszoros az árkülönbség – fotók",
+        "txtlength": 9353
+    },
+    {
         "hostname": "mindmegette.hu",
         "pagelink": "https://www.mindmegette.hu/sultzoldseg-kremleves.recept",
         "h1": "SÜLTZÖLDSÉG-KRÉMLEVES",
