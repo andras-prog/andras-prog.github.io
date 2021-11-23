@@ -1,6 +1,750 @@
 [
     {
         "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/raffaello-szelet-buzadaras-sutemeny.recept",
+        "h1": "KRÉMES RAFFAELLO SZELET",
+        "txtlength": 11329
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/lencseburger-videos.recept",
+        "h1": "LENCSEBURGER",
+        "txtlength": 11091
+    },
+    {
+        "hostname": "hataratkelo.blog.hu",
+        "pagelink": "https://hataratkelo.blog.hu/2021/11/22/hazvasarlasi_mizeria_a_videki_angliaban#c41048048",
+        "h1": "Házvásárlási mizéria a vidéki Angliában",
+        "txtlength": 39808
+    },
+    {
+        "hostname": "kulturpart.hu",
+        "pagelink": "https://kulturpart.blog.hu/2021/11/22/szinpadon_a_lengyel_jazz_legjobbjai",
+        "h1": "SZÍNPADON A LENGYEL JAZZ LEGJOBBJAI",
+        "txtlength": 6074
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20211123/bod-peter-akos-hol-a-helye-magyarorszagnak-511886",
+        "h1": "Bod Péter Ákos: Hol a helye Magyarországnak?",
+        "txtlength": 24605
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/adat/20211123/sokkal-kevesebb-unios-penzhez-jutnak-a-magyar-cegek-mint-elsore-latszik/",
+        "h1": "Sokkal kevesebb uniós pénzhez jutnak a magyar cégek, mint elsőre látszik",
+        "txtlength": 22276
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2021/11/22/ez-egyszer-az-emberiseg-torteneteben-szeretnenk-nem-utolag-benazni-amikor-feltakaritunk-a-technologia-utan",
+        "h1": "EZ EGYSZER AZ EMBERISÉG TÖRTÉNETÉBEN SZERETNÉNK NEM UTÓLAG BÉNÁZNI, AMIKOR FELTAKARÍTUNK A TECHNOLÓGIA UTÁN",
+        "txtlength": 21588
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20211122/a-negyedik-hullam-berobbanasanak-nyomaban-miert-ekkor-miert-igy-es-miert-ott-511914",
+        "h1": "A negyedik hullám berobbanásának nyomában: miért ekkor, miért így és miért ott?",
+        "txtlength": 21162
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/kozelet/20211122/orban-mostani-ciklusanak-vegere-romania-lehagyhatja-magyarorszagot/",
+        "h1": "Orbán mostani ciklusának végére Románia lehagyhatja Magyarországot",
+        "txtlength": 20322
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20211121_elkaszalna_az_m100_as_beruhazasat_a_baloldal",
+        "h1": "Elkaszálná az M100-as beruházását a baloldal",
+        "txtlength": 19531
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/vallalkozas/20211119/csak-igy-lehet-igazan-nagy-penzt-szakitani-magyarorszagon-rengetegen-mar-a-legelejen-hibaznak-1119508",
+        "h1": "Csak így lehet igazán nagy pénzt szakítani Magyarországon: rengetegen már a legelején hibáznak",
+        "txtlength": 18782
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/deviza/20211122/sosem-latott-szintre-zuhant-a-forint-szinte-minden-osszeeskudott-ellene-512082",
+        "h1": "Sosem látott szintre zuhant a forint, szinte minden összeesküdött ellene",
+        "txtlength": 18615
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20211122_bodi_abel_1956_2006_elkxrtuk_kommentar_klub_kalomista_gabor",
+        "h1": "„A magyar virtus egyszer már megálljt parancsolt ennek a hordának” – Bódi Ábel a Mandinernek",
+        "txtlength": 18517
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20211122_egy_haromszorosan_kisebbsegi_transzilvan_iro_molter_karoly_emlekezete",
+        "h1": "Egy háromszorosan kisebbségi, transzilván író: Molter Károly emlékezete",
+        "txtlength": 17303
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/utazas/20211120/komoly-valtozas-a-balatonnal-lassan-ra-sem-fogunk-ismerni-kedvenc-tavunkra-1119538",
+        "h1": "Komoly változás a Balatonnál: lassan rá sem fogunk ismerni kedvenc tavunkra",
+        "txtlength": 13577
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/egeszseg/idoskor-taplalkozas/",
+        "h1": "Mennyi zöldséget, mennyi húst egészséges fogyasztani 60 éves kor felett? Hasznos tanácsokat adtak dietetikusok",
+        "txtlength": 12738
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/testem/trauma-novekedes/",
+        "h1": "Így alakulunk át szó szerint a traumától: a szakértő szerint a bajból erősebben, új életcéllal is kilábalhatunk",
+        "txtlength": 9786
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/szuloseg/gyerek-teszt-etelek-tevedes/",
+        "h1": "Lila tehén? Az amerikai gyerekek majdnem fele azt hiszi, a hot dog fán terem",
+        "txtlength": 9684
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kultura/2021/11/11/kozma-jozsef-magyar-zeneszerzo-aki-vilaghiruve-tette-francia-sanzon/",
+        "h1": "Hitler elől Párizsba menekült magyar zeneszerző tette világhírűvé a sanzonokat",
+        "txtlength": 24311
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/11/22/nem-az-lesz-egy-telepules-mutatvanya-hogy-van-e-ovoda-vagy-hogy-burkoltak-e-az-utak-hanem-hogy-van-e-ott-viz",
+        "h1": "„Nem az lesz egy település mutatványa, hogy van-e óvoda vagy hogy burkoltak-e az utak, hanem hogy van-e ott víz”",
+        "txtlength": 23763
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/valasztas-2022/2021/11/23/valasztasok-ellenzeki-kozos-lista-allitas-marki-zay-peter-hetedik-frakcio",
+        "h1": "Terítéken az ellenzéki összefogás legkényesebb kérdése",
+        "txtlength": 23350
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kultura/2021/11/22/rozsa-lajos-interju-koronavirus-jarvany-covid-mesekonyv-a-tipuspeldany-elrablasa-biologia-parazitak/",
+        "h1": "Emberéletekben fizetjük meg az árát a tudomány iránti bizalom hiányának",
+        "txtlength": 22265
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/11/23/csupa-csupa-korrupcios-kockazat-szerepel-a-penzmegvonassal-fenyegeto-brusszeli-levelben",
+        "h1": "Csupa-csupa korrupciós kockázat szerepel a pénzmegvonással fenyegető brüsszeli levélben",
+        "txtlength": 21147
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kulfold/2021/11/22/kina-tenisz-politika-metoo-szexualis-eroszak-vad-cenzura-peng-suaj-csang-kao-li",
+        "h1": "Próbálják csitítani, de annál zajosabb a szexuális erőszakra panaszkodó, majd eltűnt teniszezőnő körüli botrány",
+        "txtlength": 18938
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/elet/20211122_Minel_kepzetlenebb_vagy_ide_annal_nagyobb_az_eselyed_bekerulni",
+        "h1": "Minél képzetlenebb vagy, ide annál nagyobb az esélyed bekerülni",
+        "txtlength": 15527
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/szorakozas/2021/11/22/taylor-swift-zeneipar-scooter-braun-shamrock-capital",
+        "h1": "Taylor Swift parádés bosszút áll azokon, akik tudta nélkül eladták a zenéit",
+        "txtlength": 14935
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/eurologus/20211122_Elet_a_jogallamisagi_vitan_tul_mar_a_le_a_tet",
+        "h1": "Már a pénz a tét Brüsszel és a kormány legújabb csörtéjében",
+        "txtlength": 14804
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/sport/2021/11/23/magyar-tenisz-szovetseg-adossagrendezes-fed-kupa-tartozasok/",
+        "h1": "Akár 19 milliárdot is fizethet a teniszszövetség egy olyan versenyért, amit sosem rendezett meg",
+        "txtlength": 13896
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20211122_influenzaoltas_jarvany_vakcina_who",
+        "h1": "Az influenza veszélyesebb, ha a Coviddal együtt kapják el, mégis kevesen kérnek oltást",
+        "txtlength": 13091
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/oltasi-akciohet-oltas-oltopont/z0ps13d?sl_ps=d_9",
+        "h1": "Videó: oltakozás az oltási akcióhét első napján – Elmentünk, mutatjuk, mik a tapasztalatok",
+        "txtlength": 9546
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/nyilvanos-fizetesek-finn-torvenyjavaslat-osvath-zsolt-sziller-linda-szabados-gabor/5xsn41s",
+        "h1": "Finnországban nyilvánossá tennék a fizetéseket: Osváth Zsolt szerint „ebből nálunk parasztlázadás lenne”",
+        "txtlength": 9469
+    },
+    {
+        "hostname": "receptneked.hu",
+        "pagelink": "https://receptneked.hu/gyors/krumplispogacsa/",
+        "h1": "Krumplis pogácsa recept",
+        "txtlength": 4519
+    },
+    {
+        "hostname": "alapblog.hu",
+        "pagelink": "https://alapblog.hu/rimelo-tortenelem-halozati-hatasok/",
+        "h1": "Rímelő történelem – hálózati hatások",
+        "txtlength": 9250
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20211119_cannes_i_filmfesztival_titan_julia_ducournau_filmkritika",
+        "h1": "Titán – Cannes és a botrányok",
+        "txtlength": 32149
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/202111121_hajdu_balazs_specialty_kave",
+        "h1": "Mi fán terem a specialty kávé? – Hajdú Balázs kávéspecialista a Mandinernek",
+        "txtlength": 28850
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vallalat/20211122/a-kisvardai-csigagyar-elnyelt-65-milliard-forint-allami-tamogatast-magyarorszagon-vege-a-csigabiznisznek/",
+        "h1": "A kisvárdai csigagyár elnyelt 6,5 milliárd forint állami támogatást, Magyarországon vége a csigabiznisznek",
+        "txtlength": 27597
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20211117_nyugat_baloldal_baloldali_ujsagirok_demeter_marton",
+        "h1": "„Ők elhiszik, hogy az a nagybetűs újságírás, amit ők csinálnak” – Demeter Márton a Mandinernek",
+        "txtlength": 23432
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20211122/elarulta-a-vilaghiru-kozgazdasz-mi-a-koronavirus-jarvany-legnagyobb-tanulsaga-az-emberiseg-szamara-511690",
+        "h1": "Elárulta a világhírű közgazdász, mi a koronavírus-járvány legnagyobb tanulsága az emberiség számára",
+        "txtlength": 16892
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/kozelet/20211120/nem-a-zoldek-a-magas-energiaar-okozoi/",
+        "h1": "Nem a zöldek a magas energiaár okozói",
+        "txtlength": 15708
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20211121/osszecsapnak-az-erok-a-poziciovedes-vagy-a-nagyszabasu-energetikai-atallas-gyozedelmeskedik-510990",
+        "h1": "Összecsapnak az erők - A pozícióvédés vagy a nagyszabású energetikai átállás győzedelmeskedik?",
+        "txtlength": 15701
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/bank/20211122/a-flottakat-sem-kimeli-az-autoipar-globalis-csuszasa-511466",
+        "h1": "A flottákat sem kíméli az autóipar globális csúszása",
+        "txtlength": 15326
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/vasarlas/20211121/zsebbenyulos-karacsony-var-a-szulokre-orulten-megdragultak-a-legnepszerubb-jatekok-1119533",
+        "h1": "Zsebbenyúlós karácsony vár a szülőkre: őrülten megdrágultak a legnépszerűbb játékok",
+        "txtlength": 13293
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/karrier/20211117/igazi-melos-gyotrelem-magyarorszag-a-legtobbet-dolgozo-de-legkevesebbet-kereso-eu-s-lista-elejen-1119462",
+        "h1": "Igazi melós gyötrelem: Magyarország a legtöbbet dolgozó, de legkevesebbet kereső EU-s lista elején",
+        "txtlength": 13091
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2021/11/22/a-mok-titkara-szerint-a-jarvanyadatok-eltitkolasa-nem-segiti-a-vedekezest-kizarolag-politikai-haszna-van",
+        "h1": "A MOK TITKÁRA SZERINT A JÁRVÁNYADATOK ELTITKOLÁSA NEM SEGÍTI A VÉDEKEZÉST, KIZÁRÓLAG POLITIKAI HASZNA VAN",
+        "txtlength": 11661
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/kapcsolat/catherine-walters-kurtizan/",
+        "h1": "Szegény lányból lett London leghíresebb kurtizánja: a gyönyörű és okos Catherine Waltersért a brit király is rajongott",
+        "txtlength": 10425
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/szuloseg/tapaszto-orsi-nyiltan-beszel-arrol-hogy-o-orokbefogadott-kisfiu-anyukaja/",
+        "h1": "Tapasztó @nemakarokbeleszólni Orsi nyíltan beszél arról, hogy ő örökbe fogadott kisfiú anyukája",
+        "txtlength": 8486
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/komplex/2021/11/22/olyan-gyorsan-allt-talpra-a-vilaggazdasag-hogy-azota-is-szedeleg",
+        "h1": "\n      Áruhiány, elszállt infláció – itt az armageddon? Nem, ez csak a gazdaság poszt-Covid állapota\n    ",
+        "txtlength": 25344
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/11/22/a-felborult-globalis-ellatasi-lancok-miatt-tobb-orszagban-veszelybe-kerult-a-karacsonyi-ajandekvasarlas",
+        "h1": "A felborult globális ellátási láncok miatt több országban veszélybe került a karácsonyi ajándékvásárlás",
+        "txtlength": 20118
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/velemeny/2021/11/21/gundel-takacs-gabor-nem-egyertelmu-hogy-mit-jelent-a-csalad",
+        "h1": "Gundel Takács Gábor: Nem egyértelmű, hogy mit jelent a család",
+        "txtlength": 18390
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/sztarvilag/donto-pillanatai-percrol-percre-sztarban-sztar-leszek-tv2/lyrzfr9?sl_ps=d_6",
+        "h1": "Ő lett a Sztárban Sztár leszek! nyertese, 10 millió üti a markát",
+        "txtlength": 17270
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/tech/2021/11/21/google-alternativ-keresok-you-bing-duckduckgo/",
+        "h1": "Itt egy újabb „anti-Google” kereső, de a piaci esélyei visszafogottak",
+        "txtlength": 15050
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/elet/20211121_peng_suaj_eltunt_kinai_teniszezo",
+        "h1": "Hová tűnt a kínai teniszező, Peng Suaj?",
+        "txtlength": 14576
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/nevertek/2021/11/22/wwf-valasz-kifogasok-hibas-erveles-esg-energiavalsag-zoldpolitika-vita",
+        "h1": "Kifogásokkal és hibás érveléssel nem állítjuk meg a klímaváltozást",
+        "txtlength": 14368
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kultura/2021/11/21/big-mouth-netflix-sorozat-kritika-hormonokkal-tulfutve-szexualis-felvilagositas/",
+        "h1": "Ráfekszik a gyerekekre a depresszió, ami egy hatalmas, elhízott macska",
+        "txtlength": 13760
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/zhvg/20211121_Ana_Ros_taplalkozas_hisa_franko",
+        "h1": "Ana Roš: A mai séfek olyanok, mint a rocksztárok, ha mondunk valamit, arra odafigyelnek",
+        "txtlength": 13039
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/foci/2021/11/22/xaviban-olt-testet-az-fc-barcelona-idealja-de-valtoznak-az-idok",
+        "h1": "Xaviban ölt testet az FC Barcelona ideálja, de változnak az idők",
+        "txtlength": 12716
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/sport/2021/11/21/rovidpalyas-gyorskorcsoly-vilagkupa-debrecen-liu-shaolin-sandor-eses-bokalanc/",
+        "h1": "Liu Shaolin Sándor: Ilyen nem maradhat következmények nélkül, akár a bokámat is eltörhettem volna",
+        "txtlength": 11649
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/eurologus/20211121_Erdovedelem_hulladekkezeles_talajvedelem__uj_brusszeli_javaslatok",
+        "h1": "Hadat üzent az EU a szemétmaffiának és az erdőirtóknak",
+        "txtlength": 11615
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/rudabanya-verhalom-ter-negyzetmeter-ar-leggazdagabb-utca-legszegenyebb-utca/tegb2zp?sl_ps=d_4",
+        "h1": "Az ország legdrágább és legolcsóbb utcájában jártunk, százszoros az árkülönbség – fotók",
+        "txtlength": 9353
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/sultzoldseg-kremleves.recept",
+        "h1": "SÜLTZÖLDSÉG-KRÉMLEVES",
+        "txtlength": 11069
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/marton-napi-libasult-parolt-lilakaposztaval.recept",
+        "h1": "MÁRTON-NAPI LIBASÜLT PÁROLT LILA KÁPOSZTÁVAL",
+        "txtlength": 10786
+    },
+    {
+        "hostname": "receptneked.hu",
+        "pagelink": "https://receptneked.hu/gyors/tojas-fasirt/",
+        "h1": "Tojásfasírt recept",
+        "txtlength": 4721
+    },
+    {
+        "hostname": "receptneked.hu",
+        "pagelink": "https://receptneked.hu/gyors/meggyes-turos-villamsuti/",
+        "h1": "Meggyes-túrós villámsüti recept",
+        "txtlength": 4645
+    },
+    {
+        "hostname": "kulturpart.hu",
+        "pagelink": "https://kulturpart.blog.hu/2021/11/21/torekenysegben_az_ero",
+        "h1": "TÖRÉKENYSÉGBEN AZ ERŐ",
+        "txtlength": 11799
+    },
+    {
+        "hostname": "kiszamolo.hu",
+        "pagelink": "https://kiszamolo.hu/tag/csok-visszafizetese/",
+        "h1": "Címke: CSOK visszafizetése",
+        "txtlength": 7377
+    },
+    {
+        "hostname": "alapblog.hu",
+        "pagelink": "https://alapblog.hu/igazan-hosszu-tavu-befektetes-avagy-mibol-lesz-a-cserebogar/",
+        "h1": "Igazán hosszú távú befektetés, avagy miből lesz a cserebogár",
+        "txtlength": 4397
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20211117_l_simon_laszlo_interju_kozelet_magyar_nemzeti_muzeum",
+        "h1": "Sosem hittem a függetlenségben – L. Simon László a Mandinernek",
+        "txtlength": 24261
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/egeszseg/20211119/igy-sopor-vegig-europan-a-negyedik-hullam-egyszerre-csap-le-a-jarvany-ezekre-az-orszagokra-1119543",
+        "h1": "Így söpör végig Európán a negyedik hullám: egyszerre csap le a járvány ezekre az országokra",
+        "txtlength": 23348
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20211120_osmagyarok_volga_videk_dmitrij_sztasenkov",
+        "h1": "Honnan származnak valójában a magyarok ősei? – Dmitrij Sztasenkov orosz régész a Mandinernek",
+        "txtlength": 18613
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20211120_belfold_covid_honvedkorhaz_covid_osztaly",
+        "h1": "Drámai felvételek a Honvédkórházból: az oltatlanok kerülnek a lélegeztetőgépekre",
+        "txtlength": 17609
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/global/20211120/titkos-tervek-a-harmadik-vilaghaborurol-amerika-megprobalta-volna-azt-amibe-napoleon-es-hitler-is-belebukott-511318",
+        "h1": "Titkos tervek a harmadik világháborúról: Amerika megpróbálta volna azt, amibe Napóleon és Hitler is belebukott",
+        "txtlength": 17520
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/podcast/20211121/a-kistelepulesi-iskolak-problemai-nem-erdeklik-a-tarsadalmat-parthovatartozastol-fuggetlenul/",
+        "h1": "A kistelepülési iskolák problémái nem érdeklik a társadalmat, párthovatartozástól függetlenül",
+        "txtlength": 16568
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/ingatlan/20211120/merre-tart-a-lakaspiac-igy-latjak-a-legfontosabb-szereplok-511746",
+        "h1": "Merre tart a lakáspiac? - Így látják a legfontosabb szereplők",
+        "txtlength": 16454
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/elet/20211118/kreativitas-e-az-amikor-egy-gep-komponal-zenet-a-beletaplalt-adatokbol/",
+        "h1": "Kreativitás-e az, amikor egy gép komponál zenét a beletáplált adatokból?",
+        "txtlength": 16267
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2021/11/21/tul-jo-ahhoz-hogy-rossz-legyen-40-eve-adtak-at-a-nyiregyhazi-ufot-ban-ferenc-muvelodesi-hazat",
+        "h1": "TÚL JÓ AHHOZ, HOGY ROSSZ LEGYEN – 40 ÉVE ADTÁK ÁT A NYÍREGYHÁZI UFÓT, BÁN FERENC MŰVELŐDÉSI HÁZÁT",
+        "txtlength": 15710
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/global/20211121/sorra-tunnek-el-a-vilagsztarok-milliardos-vallalkozok-kinaban-egy-sulyos-indok-all-a-hatterben-511730",
+        "h1": "Sorra tűnnek el a világsztárok, milliárdos vállalkozók Kínában - Egy súlyos indok áll a háttérben",
+        "txtlength": 14936
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/auto/20211120/meger-tobb-mint-95-milliot-teszten-a-legvaganyabb-nissan-juke-1119540",
+        "h1": "Megér több mint 9,5 milliót? Teszten a legvagányabb Nissan Juke",
+        "txtlength": 13986
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/szepseg/dorian-leigh-tortenete/",
+        "h1": "A történelem első szupermodelljeként tartják számon: Dorian Leigh 27 évesen kezdte karrierjét, és igazi ikonná vált",
+        "txtlength": 11033
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/testem/ki-az-egeszseges-es-ki-a-beteg-te-melyik-csoportba-tartozol-/",
+        "h1": "Ki az egészséges, és ki a beteg? Te melyik csoportba tartozol?",
+        "txtlength": 10079
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/szuloseg/apai-szules-utani-depresszio/",
+        "h1": "Ők nem szültek, de vajon az apáknak is lehet szülés utáni depressziójuk?",
+        "txtlength": 8335
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/tldr/2021/11/21/megindult-a-vertetutol-megtisztitott-fa-eros-egeszseges-verkeringese",
+        "h1": "Figyelem, felnőtt tartalom!",
+        "txtlength": 62204
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kultura/2021/11/21/kelemen-anna-celeb-dalia-laszlo-matine-konyvajanlo/",
+        "h1": "Kelemen Anna szerette volna, ha a könyve pénisz alakban jelenik meg",
+        "txtlength": 37172
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/11/20/a-korhazak-falai-nem-atlathatok-az-egeszsegugyi-dolgozokat-hallgatasra-kotelezik",
+        "h1": "A kórházak falai nem átláthatók, az egészségügyi dolgozókat hallgatásra kötelezik",
+        "txtlength": 28136
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kulfold/2021/11/20/kulfold-kyle-rittenhouse-per-black-lives-matter-tuntetes-kenosha-usa-jacob-blake",
+        "h1": "Az ítélet, ami újabb méretes éket vert a bal- és jobboldal közé Amerikában",
+        "txtlength": 21558
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2021/11/21/gyogypedagogiai-asszisztens-gyogypedagogus-beremeles-szakszervezet/",
+        "h1": "„Ez szerelem, máshogy nem nagyon lehet csinálni” – megalázó bér jut a gyógypedagógiai asszisztenseknek",
+        "txtlength": 16895
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/szorakozas/2021/11/20/grand-theft-auto-trilogy-definitive-edition-kritika-rockstar",
+        "h1": "A Rockstar elkezdte felélni a Grand Theft Auto örökségét",
+        "txtlength": 15784
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/kultura/20211120_Puskas_Panni_interju",
+        "h1": "Puskás Panni: Amikor a nem is olyan sok szabadságot elveszik, fel kell lázadni",
+        "txtlength": 15058
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kulfold/2021/11/20/kadar-kor-fekete-feher-szines-hanyatlo-nyugat-turizmus-heti-fortepan/",
+        "h1": "Így nézett ki a hanyatló kapitalizmus színesben",
+        "txtlength": 15044
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/eszkombajn/2021/11/21/ekranoplan-repulogep-hajo-hibrid-szovjetunio-amerikai-hadsereg",
+        "h1": "Az amerikai hadsereg feltámasztaná a szovjet tengeri szörnyeket",
+        "txtlength": 14587
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/gazdasag/20211121_Es_akkor_MNB_inflacio_gdp_benzinar_oltas_boltok",
+        "h1": "És akkor az MNB szerint a befagyasztott benzinár sem fogja meg az inflációt",
+        "txtlength": 12715
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/kkv/20211119_lakberendezes_butor_arak_felujitas_inflacio",
+        "h1": "Lassan az IKEA sem tudja tartani az árait, a mesterek nem is akarják – elképesztő drágulás a lakásberendezésnél",
+        "txtlength": 11715
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/kulfold/kyle-rittenhouse-felmentese-blm-tuntetes-portland-brooklyn/cwb3pfb",
+        "h1": "Felmentették a BLM-tüntetőket lelövő Kyle Rittenhouse-t, zavargások törtek ki Amerikában",
+        "txtlength": 10203
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/dabasi-marha-gulyas-elete/p6zw2y2?sl_ps=d_11",
+        "h1": "Hét napból hetet dolgozik a dabasi cowboy, mégsem panaszkodik",
+        "txtlength": 10105
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/libamajjal-es-karamellizalt-hagymaval-toltott-libanyak.recept",
+        "h1": "LIBAMÁJJAL ÉS KARAMELLIZÁLT HAGYMÁVAL TÖLTÖTT LIBANYAK",
+        "txtlength": 11334
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/meggyes-sodort-retes.recept",
+        "h1": "MEGGYES SODORT RÉTES",
+        "txtlength": 11036
+    },
+    {
+        "hostname": "receptneked.hu",
+        "pagelink": "https://receptneked.hu/gyors/sajttal-sonkaval-toltott-bundas-kenyer-rolad/",
+        "h1": "Sajttal, sonkával töltött bundás kenyér rolád recept",
+        "txtlength": 4821
+    },
+    {
+        "hostname": "receptneked.hu",
+        "pagelink": "https://receptneked.hu/gyors/turos-lepenyke/",
+        "h1": "Túrós lepényke recept",
+        "txtlength": 4799
+    },
+    {
+        "hostname": "hataratkelo.blog.hu",
+        "pagelink": "https://hataratkelo.blog.hu/2021/11/13/budapest_hataratkelo_szemmel",
+        "h1": "Budapest határátkelő szemmel",
+        "txtlength": 45445
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2021/11/19/veteranautozas-audiofiliaban-edes-teher-a-magnozas-a-21-szazadban",
+        "h1": "VETERÁNAUTÓZÁS AUDIOFÍLIÁBAN: ÉDES TEHER A MAGNÓZÁS A 21. SZÁZADBAN",
+        "txtlength": 28358
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20211119/jon-biden-nagy-dontese-nem-mindegy-kit-ultet-a-gigantikus-penzgyar-elere-511744",
+        "h1": "Jön Biden nagy döntése – Nem mindegy, kit ültet a gigantikus pénzgyár élére",
+        "txtlength": 24947
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20211119_nemetorszag_sajtoszabadsag_bild_merkel_scholz",
+        "h1": "Mi folyik a német médiában és politikában? – Ralf Schuler BILD-szerkesztő a Mandinernek",
+        "txtlength": 24175
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/befektetes/20211119/sok-magyar-nem-fog-orulni-amikor-ranez-a-hozamokra-keresztbe-tesz-az-inflacio-a-kotvenybefekteteseknek-511688",
+        "h1": "Sok magyar nem fog örülni, amikor ránéz a hozamokra - Keresztbe tesz az infláció a kötvénybefektetéseknek?",
+        "txtlength": 23310
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20211119_ausztria_jarvany_korlatozas",
+        "h1": "„Ausztria mától diktatúra” – így fogadják a kötelező oltást az osztrákok",
+        "txtlength": 22002
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20211111_dorner_gyorgy_kultura_ujszinhaz_kulturharc_magyar_muvek",
+        "h1": "Egy oldal van: Magyarország – Dörner György a Mandinernek",
+        "txtlength": 21450
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20211119/mnb-magyarorszag-versenykepessege-stabilan-alakult-a-jarvanyidoszak-alatt-is-511304",
+        "h1": "MNB: Magyarország versenyképessége stabilan alakult a járványidőszak alatt is",
+        "txtlength": 20842
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/tech/20211119/felhomegoldasokkal-a-hagyomanyosnal-olcsobban-tudjak-a-bankok-a-felhasznaloik-igenyeit-kiszolgalni/",
+        "h1": "Felhőmegoldásokkal a hagyományosnál olcsóbban tudják a bankok a felhasználóik igényeit kiszolgálni",
+        "txtlength": 19370
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/vasarlas/20211119/ezeket-a-filleres-cuccokat-rendelik-zsakszamra-a-magyarok-kinabol-karacsony-elott-tudnak-valamit-1119490",
+        "h1": "Ezeket a filléres cuccokat rendelik zsákszámra a magyarok Kínából karácsony előtt: tudnak valamit?",
+        "txtlength": 17244
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/egeszseg/20211119/figyelmeztetnek-a-szakertok-nem-lelegezhetunk-fel-teljesen-a-harmadik-oltas-utan-1119537",
+        "h1": "Figyelmeztetnek a szakértők: nem lélegezhetünk fel teljesen a harmadik oltás után",
+        "txtlength": 16892
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/podcast/20211120/a-tavoktatas-miatt-kerult-eloterbe-a-hallgatok-lelki-egeszsege-a-felsooktatasban/",
+        "h1": "A távoktatás miatt került előtérbe a hallgatók lelki egészsége a felsőoktatásban",
+        "txtlength": 16593
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/egeszseg/emlorak-molekularis-diagnosztika-szoftver/",
+        "h1": "Mellrákos betegek gyógyításában segít a magyar kutatók fejlesztése: a leghatékonyabb célzott kezelést keresi meg",
+        "txtlength": 11488
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/lajfhekk/allat-alkohol-reszeg/",
+        "h1": "Egy állat is lehet alkoholista: a makik a töményet szeretik",
+        "txtlength": 10043
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/tldr/2021/11/20/aki-az-egesz-orszagot-maga-melle-ultette-a-vadlottak-padjara",
+        "h1": "Figyelem, felnőtt tartalom!",
+        "txtlength": 53234
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/komplex/2021/11/19/vasut-nemzetkozi-vonat-kisiklas-eu-milliardok-investigate-europe",
+        "h1": "\n      Így siklatták ki a klímavédelem egyik fontos projektjét\n    ",
+        "txtlength": 30321
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/kultura/20211119_a_padlas_vigszinhaz_interju_presser_gabor_sztevanovity_dusan_1000_eloadas",
+        "h1": "„Akkor megérintett, hogy csoda történt” – Presser Gábor és Sztevanovity Dusán A padlásról",
+        "txtlength": 21306
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://qubit.hu/2021/11/20/te-is-lehetsz-verfarkas",
+        "h1": "TE IS LEHETSZ VÉRFARKAS!",
+        "txtlength": 17091
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/szorakozas/2021/11/19/tiger-king-2-dokusorozat-netflix-joe-exotic-carolie-baskin",
+        "h1": "A tigriskirály bukásával még nincs vége az elmúlt évek legbizarrabb tévés történetének",
+        "txtlength": 16935
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/tudomany/2021/11/19/nemzetkozi-urallomas-oroszorszag-amerika-konfliktus/",
+        "h1": "Súlyos konfliktus formálódik a világűrben",
+        "txtlength": 16934
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/belfold/2021/11/20/romai-part-csonakhazak-vagyonatadas-egyetemi-alapitvany-varga-mihaly",
+        "h1": "Az Óbudai Egyetem alapítványának adja a római-parti csónakházakat és üdülőtelepeket az állam",
+        "txtlength": 14753
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/gazdasag/20211120_gaz_villanyaram_aremelkedes_magas_energiaarak_begyuruzese",
+        "h1": "Szépen rárakódik majd az inflációra a dráguló energia",
+        "txtlength": 14467
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2021/11/20/youtuber-pedofilia-buncselekmeny-hatalommal-visszaeles-szexualis-buncselekmeny-iron-channel/",
+        "h1": "„Na, csinálod vagy nem?” – egy 18 éves magyar youtubert azzal vádolnak, hogy rábírt egy kislányt, vetkőzzön le a kamera előtt",
+        "txtlength": 13647
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/fn/gazdasag/2021/11/20/uzemanyag-arstop-inflacio-bizonytalansag/",
+        "h1": "Attól tartanak a gazdák, hogy hamarosan 500 forintért tankolhatnak a mezőgazdasági gépekbe",
+        "txtlength": 13426
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/kkv/20211119_elelmiszerkiskereskedelmi_lancok_magyar_termekek_import_elelmiszeripar_mezogazdasag",
+        "h1": "Hiába szeretné Lázár János, sokkal több kellene ahhoz, hogy a magyarok magyar boltban vásároljanak",
+        "txtlength": 13352
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/politika/allatvedelmi-torveny-kormanypart-ellenzek/0dxcjr8",
+        "h1": "Állati nagykoalíció: az ügy, ami összehozta a kormányoldalt és az ellenzéket",
+        "txtlength": 9921
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/sztarvilag/galambos-lajos-majka-sztarban-sztar-leszek/hxfzz06?utm_source=related&utm_medium=www.blikk.hu&utm_campaign=widget-9446979",
+        "h1": "Galambos Lajos szerint Majka legalább a feleségére tekintettel lehetett volna, amikor beszólt neki: „Ha engem gúnyol, azzal Hajnit is bántja”",
+        "txtlength": 9687
+    },
+    {
+        "hostname": "mindmegette.hu",
         "pagelink": "https://www.mindmegette.hu/egetett-teszta-alaprecept.recept",
         "h1": "ÉGETETT TÉSZTA - ALAPRECEPT",
         "txtlength": 11165
