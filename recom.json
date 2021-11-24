@@ -1,6 +1,198 @@
 [
     {
         "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/macaron-csokis-es-lime-os-kremmel.recept",
+        "h1": "MACARON CSOKIS ÉS LIME-OS KRÉMMEL",
+        "txtlength": 11269
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/zoldseges-frittata.recept",
+        "h1": "ZÖLDSÉGES FRITTATA",
+        "txtlength": 10540
+    },
+    {
+        "hostname": "kiszamolo.hu",
+        "pagelink": "https://kiszamolo.hu/a-tozsde-szarnyalasa/",
+        "h1": "A tőzsde szárnyalása",
+        "txtlength": 34896
+    },
+    {
+        "hostname": "efesasanisimasa.com",
+        "pagelink": "https://efesasanisimasa.com/2021/11/22/az-ember-a-fellegvarban-the-man-in-the-high-castle-tv-series-2015-2019/",
+        "h1": "Az ember a fellegvárban (The Man in the High Castle, TV Series 2015–2019)",
+        "txtlength": 13767
+    },
+    {
+        "hostname": "alapblog.hu",
+        "pagelink": "https://alapblog.hu/amikor-az-ember-hatat-fordit-a-munkanak/",
+        "h1": "Amikor az ember hátat fordít a munkának",
+        "txtlength": 12714
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20211117_navracsics_tibor_kozelet_interju_fidesz_gyurcsany_show_felsoktatas_europai_neppart",
+        "h1": "A gyűlölet nem tud győzni 2022-ben – Navracsics Tibor a Mandinernek",
+        "txtlength": 27907
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20211123_a_jobbkozep_ujboli_megerosodeset_keszitjuk_elo_gal_kinga_a_mandinernek",
+        "h1": "A jobbközép újbóli megerősödését készítjük elő – Gál Kinga a Mandinernek",
+        "txtlength": 27786
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20211117_lets_go_brandon_usa_kulfold",
+        "h1": "De ki az a Brandon?! – életjeleket mutatnak a republikánusok",
+        "txtlength": 21697
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vallalat/20211123/egy-forintert-adta-el-a-repuloteret-de-tovabbra-is-onti-bele-a-penzt-a-debreceni-ingatlanfejleszto/",
+        "h1": "Egy forintért adta el a repülőteret, de továbbra is önti bele a pénzt a debreceni ingatlanfejlesztő",
+        "txtlength": 19164
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20211123/dominoszeru-bedoleseket-is-eredmenyezhet-az-energiavalsag-512098",
+        "h1": "Dominószerű bedőléseket is eredményezhet az energiaválság",
+        "txtlength": 18914
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/uzlet/20211124/emelkedik-a-bux-szepit-az-otp-512384",
+        "h1": "Emelkedik a BUX, szépít az OTP ",
+        "txtlength": 17519
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/tech/20211122/kamionokkal-nem-fog-menni-a-klimavedelem-fejlesztesekkel-terelnek-vasutra-a-forgalmat/",
+        "h1": "Kamionokkal nem fog menni a klímavédelem, fejlesztésekkel terelnék vasútra a forgalmat",
+        "txtlength": 16080
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2021/11/24/ha-tamogatsz-egy-kenyai-vagy-brazil-erdositest-azzal-valojaban-sajat-magadon-segitesz",
+        "h1": "HA TÁMOGATSZ EGY KENYAI VAGY BRAZIL ERDŐSÍTÉST, AZZAL VALÓJÁBAN SAJÁT MAGADON SEGÍTESZ",
+        "txtlength": 15806
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/otthon/20211123/rengeteget-bukhat-aki-igy-kezd-felujitasba-hiaba-az-ingyenmilliok-ez-durvan-nyeli-a-penzt-1119595",
+        "h1": "Rengeteget bukhat, aki így kezd felújításba: hiába az ingyenmilliók, ez durván nyeli a pénzt",
+        "txtlength": 15577
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/karrier/20211123/ezt-a-legtobb-magyar-elrontja-felmondaskor-vegleg-elassak-magukat-a-munkaeropiacon-1119535",
+        "h1": "Ezt a legtöbb magyar elrontja felmondáskor: végleg elássák magukat a munkaerőpiacon",
+        "txtlength": 14127
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/lajfhekk/termeszetes-megoldasok-fejfajasra/",
+        "h1": "Természetes megoldások fejfájásra",
+        "txtlength": 12111
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/premium/20211124/zold-forradalmat-inditott-a-granit-bank-a-penzugyekben-512232",
+        "h1": "Zöld forradalmat indított a Gránit Bank a pénzügyekben (x)",
+        "txtlength": 11979
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/kapcsolat/semmitmondo-visszajelzesek-fonoktol/",
+        "h1": "A legsemmitmondóbb visszajelzések a főnöktől - Miért olyan demotiválóak?",
+        "txtlength": 10707
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/testem/parkapcsolat-szexualis-fantaziak-szex/",
+        "h1": "Segít vagy mindent tönkretesz a kapcsolatodban, ha másokról fantáziálsz?",
+        "txtlength": 9953
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/sport/2021/11/23/turi-ugy-a-buncselekmeny-elevul-de-a-bun-sohasem",
+        "h1": "Turi-ügy: A bűncselekmény elévül, de a bűn sohasem",
+        "txtlength": 32700
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/gazdasag/20211124_forintarfolyam_inflacio_tortenelmirekordok",
+        "h1": "Kell idegeskedni amiatt, hogy ennyire gyenge a forint?",
+        "txtlength": 19573
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/sport/2021/11/23/coming-out-a-profi-sportban-futball",
+        "h1": "Miért coming outolnak olyan kevesen a profi sportban?",
+        "txtlength": 18051
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kulfold/2021/11/23/duggar-botrany-gyerekporno-vad-a-konzervativ-kereszteny-republikanus-kozosseg-szegyenfoltja-ellen",
+        "h1": "Gyerekpornóért felel Amerika legnagyobb hipokritája",
+        "txtlength": 16792
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://qubit.hu/2021/11/24/ha-tamogatsz-egy-kenyai-vagy-brazil-erdositest-azzal-valojaban-sajat-magadon-segitesz",
+        "h1": "HA TÁMOGATSZ EGY KENYAI VAGY BRAZIL ERDŐSÍTÉST, AZZAL VALÓJÁBAN SAJÁT MAGADON SEGÍTESZ",
+        "txtlength": 15239
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/sport/2021/11/24/turi-gyorgy-uszas-cseh-laszlo-plaganyi-zsolt-ocsi-gabor-kobanya-sc-selmeci-attila/",
+        "h1": "„A Spartacus elnöke figyelmeztetett, vigyázni kell Turival, mert kemény ember”",
+        "txtlength": 15113
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/11/23/egy-akadalymentes-lakas-nem-luxus-a-fogyatekossaggal-elok-szamara-hanem-alapveto-emberi-jog",
+        "h1": "Egy akadálymentes lakás nem luxus a fogyatékossággal élők számára, hanem alapvető emberi jog",
+        "txtlength": 15112
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/elet/20211123_Colin_Kaepernick_Feletenfeheren_Netflix",
+        "h1": "Végre felsejlik, mennyi fájdalom van Colin Kaepernick világraszóló térdelése mögött",
+        "txtlength": 15054
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/tudomany/2021/11/23/cop26-ensz-klimakonferencia-oceanok-anya-waite/",
+        "h1": "Lehet, hogy a kukába dobhatjuk az összes klímamodellünket",
+        "txtlength": 13658
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2021/11/23/badacsonyorsi-lakossagi-forum-hartai-krisztin-kemping-strand/",
+        "h1": "„Olyan katyvaszban vagyunk, amiben mindenki szenved” – gyűlés volt a badacsonyörsi kemping letarolásáról",
+        "txtlength": 12994
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/szex-politika-politikusok-rendszervaltas-parlament-jakab-peter-borkai-zsolt/mxv62b1",
+        "h1": "Hálószobatitkok és szexkalandok: íme, a magyar politikai elit legsikamlósabb sztorijai!",
+        "txtlength": 11051
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/tudomany/20211124_telekom_10_napos_korlatlan_mobilinternet_adomanyozas",
+        "h1": "10 napra korlátlan mobilnetet kapnak a Telekom ügyfelei, egy 40 milliós extrával",
+        "txtlength": 10860
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/adocsokkentes-vallalkozasok-csaladok-torvenyjavaslat/smnfq3j",
+        "h1": "Százmilliárdok maradhatnak a magyaroknál: újabb adócsökkentéseket tervez a kormány, itt vannak a részletek",
+        "txtlength": 9129
+    },
+    {
+        "hostname": "mindmegette.hu",
         "pagelink": "https://www.mindmegette.hu/raffaello-szelet-buzadaras-sutemeny.recept",
         "h1": "KRÉMES RAFFAELLO SZELET",
         "txtlength": 11329
