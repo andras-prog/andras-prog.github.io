@@ -1,6 +1,186 @@
 [
     {
         "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/podlupka.recept",
+        "h1": "PODLUPKA",
+        "txtlength": 10505
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/dinnye-suti-egyszeru-recept.recept",
+        "h1": "DINNYE SÜTI EGYSZERŰEN",
+        "txtlength": 10465
+    },
+    {
+        "hostname": "kiszamolo.hu",
+        "pagelink": "https://kiszamolo.hu/project-333/#more-116575",
+        "h1": "Project 333",
+        "txtlength": 21913
+    },
+    {
+        "hostname": "alapblog.hu",
+        "pagelink": "https://alapblog.hu/erdogan-turelmetlensegevel-nagy-bajba-sodorta-onmagat/",
+        "h1": "Erdogan türelmetlenségével nagy bajba sodorta önmagát",
+        "txtlength": 5541
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/global/20211126/kozuluk-kerulhet-ki-amerika-kovetkezo-elnoke-egy-fekete-no-biztos-benne-hogy-ove-lesz-az-ovalis-iroda-511288",
+        "h1": "Közülük kerülhet ki Amerika következő elnöke – Egy fekete nő biztos benne, hogy övé lesz az Ovális Iroda",
+        "txtlength": 31363
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/kozelet/20211125/nem-a-jarvany-hanem-a-kormany-miatt-kerult-csapdaba-az-oktatas/",
+        "h1": "Nem a járvány, hanem a kormány miatt került csapdába az oktatás",
+        "txtlength": 29177
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2021/11/25/ha-ezer-ev-mulva-lesz-emberiseg-lehet-hogy-teljes-mertekben-a-gamifikacion-alapul-majd",
+        "h1": "HA EZER ÉV MÚLVA LESZ EMBERISÉG, LEHET, HOGY TELJES MÉRTÉKBEN A GAMIFIKÁCIÓN ALAPUL MAJD",
+        "txtlength": 24252
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20211125_usa_kyle_rittenhouse",
+        "h1": "Rittenhouse-ítélet: újra forrong Amerika",
+        "txtlength": 23943
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20211123_nincsenek_elragadtatva_a_hataron_tuliak_marki_zayek_nemzetpolitikai_elkepzeleseitol",
+        "h1": "Nincsenek elragadtatva a határon túliak Márki-Zayék nemzetpolitikai elképzeléseitől",
+        "txtlength": 19245
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20211125_genderlobbi_gyermekvedelmi_torveny_konferencia_kocsis_mate_varga_judit_alapjogokert_kozpont",
+        "h1": "„Alkotmányos pajzzsal védjük a gyerekeket” – így zajlott a Stopgender konferencia",
+        "txtlength": 19009
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/elet/20211125/oregszenek-a-vilag-milliomosai-es-ezt-a-mukereskedelem-is-megerzi/",
+        "h1": "Öregszenek a világ milliomosai, és ezt a műkereskedelem is megérzi",
+        "txtlength": 17754
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/karrier/20211124/kamu-lenne-az-alomfizu-ennyiert-galyaznak-magyarorszagon-az-etelfutarok-1119601",
+        "h1": "Kamu lenne az álomfizu? Ennyiért gályáznak Magyarországon az ételfutárok",
+        "txtlength": 16729
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/uzlet/20211126/itt-az-igazi-fekete-pentek-zuhanas-a-tozsdeken-tarol-az-uj-szupervarians-512862",
+        "h1": "Itt az igazi fekete péntek: zuhanás a tőzsdéken, tarol az új szupervariáns ",
+        "txtlength": 16115
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/hitel/20211125/indul-a-karacsonyi-roham-csunya-buko-var-arra-aki-erre-nem-figyel-nagybevasarlaskor-1119331",
+        "h1": "Indul a karácsonyi roham: csúnya bukó vár arra, aki erre nem figyel nagybevásárláskor",
+        "txtlength": 15942
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20211125/megint-sok-mindent-elront-a-koronavirus-a-szallodak-felkeszultek-es-hadi-korhazza-alakultak-512756",
+        "h1": "Megint sok mindent elront a koronavírus? - A szállodák felkészültek, és \"hadi kórházzá\" alakultak",
+        "txtlength": 15122
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/szuloseg/hazassag-problema-gyerek-szuletes-utan-csalad/",
+        "h1": "házasság probléma család",
+        "txtlength": 13345
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/utazas/bhutani-brutto-nemzeti-boldogsag-index/",
+        "h1": "Az ország, ahol a boldogságot mindennél többre becsülik: mit mér a bhutáni Bruttó Nemzeti Boldogság Index?",
+        "txtlength": 12179
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/tech/2021/11/25/apple-macbook-m1-pro-16-huvelyk-airpods-3-teszt",
+        "h1": "Mintha helikopterrel ugranánk le a sarki közértbe",
+        "txtlength": 14940
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2021/11/25/koronavirus-negyedik-hullam-kozvelemeny-kutatas-policy-solutions/",
+        "h1": "Látványosan nőtt a vírustagadó magyarok száma, a kormánypropaganda viszont kifulladni látszik",
+        "txtlength": 14933
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kult/2021/11/25/varkonyi-andrea-konyve-es-ezt-lehet-kritika-meszaros-lorinc",
+        "h1": "Várkonyi könyve olyan, mint egy fárasztó útitárs, aki néha még bokán is rúg valakit",
+        "txtlength": 14621
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/eszkombajn/2021/11/25/harka-magyarfalva-arcanum-tortenelem-rajk-laszlo",
+        "h1": "Súlyos tévedésből csináltak Magyarfalvát az ősmagyar Harkából",
+        "txtlength": 13711
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/11/26/black-friday-az-arcanumon-ma-ingyen-hasznalhatod",
+        "h1": "Black Friday az Arcanumon: ma ingyen használhatod!",
+        "txtlength": 13380
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://qubit.hu/2021/11/26/ma-van-a-buy-nothing-day-itt-az-ideje-hogy-ne-vegyel-semmit",
+        "h1": "MA VAN A BUY NOTHING DAY, ITT AZ IDEJE, HOGY NE VEGYÉL SEMMIT",
+        "txtlength": 13364
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kultura/2021/11/25/nagykaracsony-film-kritika-mozi-otvos-andras-zsigmond-emoke-szabo-kimmel-tamas-pokorny-lia-scherer-peter/",
+        "h1": "Üzembiztos receptből sütötték, jól is sikerült az első magyar karácsonyi romkom",
+        "txtlength": 10947
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/gazdasag/20211126_kamat_emeles_alapkamat_mnb_inflacio_hitel_moratorium",
+        "h1": "Mit érzünk meg a mindennapjainkban abból, hogy Matolcsyék már hetente emelik a kamatot?",
+        "txtlength": 10943
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/politika/orban-viktor-kossuth-radio-interju-bejelentesek-koronavirus/csmkcrf?sl_ps=d_4",
+        "h1": "Orbán Viktor legújabb bejelentései a Kossuth rádióban: egy héttel meghosszabbítják az oltási akcióhetet, érkezik az első adag vakcina a gyerekeknek",
+        "txtlength": 10873
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://rangado.24.hu/magyar_foci/2021/11/25/europa-liga-betis-ferencvaros/",
+        "h1": "Gyengén kezdte a félidőket, ismét kikapott a Fradi az EL-ben",
+        "txtlength": 10863
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/krimi/keseles-borton-szfe-tamadas/h2b3bb4?sl_ps=d_7",
+        "h1": "Beszakította rabtársa az SZFE-s késelő dobhártyáját – A Blikken keresztül kér bocsánatot áldozatától a támadó",
+        "txtlength": 10194
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/kultura/20211126_Wunderlich_Jozsef_Vigszinhaz_meztelenseg_rudolf_peter",
+        "h1": "Egy meztelenséget nem vállaló színésznő miatt posztolt Wunderlich József, Rudolf Péter szerint senki nem tett panaszbejelentést",
+        "txtlength": 9665
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20211126_Orban_Viktor",
+        "h1": "Orbán szerint egyelőre nem lesz zárás, de nem zár ki semmit",
+        "txtlength": 9653
+    },
+    {
+        "hostname": "mindmegette.hu",
         "pagelink": "https://www.mindmegette.hu/mexikoi-tejszines-csirkeragu.recept",
         "h1": "MEXIKÓI TEJSZÍNES CSIRKERAGU",
         "txtlength": 10756
