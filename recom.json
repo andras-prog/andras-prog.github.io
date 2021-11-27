@@ -1,6 +1,186 @@
 [
     {
         "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/ellenallhatatlan-almas-suti.recept",
+        "h1": "ELLENÁLLHATATLAN ALMÁS SÜTI",
+        "txtlength": 10302
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/dalgona-cukorka-squid-game.recept",
+        "h1": "DALGONA CUKORKA",
+        "txtlength": 10095
+    },
+    {
+        "hostname": "kiszamolo.hu",
+        "pagelink": "https://kiszamolo.hu/az-ertelmetlen-vasarlasok-nagybetus-unnepe/",
+        "h1": "Az értelmetlen vásárlások nagybetűs ünnepe",
+        "txtlength": 23342
+    },
+    {
+        "hostname": "alapblog.hu",
+        "pagelink": "https://alapblog.hu/miert-gyengul-ennyire-a-lira/",
+        "h1": "Miért gyengül ennyire a líra?",
+        "txtlength": 4819
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20211126_pazmany_campus_tima_zoltan_kruppa_gabor",
+        "h1": "„Nem a régi és az új kontrasztját kívántuk létrehozni” – a Pázmány-campus tervezői a Mandinernek",
+        "txtlength": 25954
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20211126/a-szupervarians-ratorte-az-ajtot-a-vilagra-minden-amit-tudunk-a-delta-pluszrol-es-az-uj-szupermutansrol-512566",
+        "h1": "A szupervariáns rátörte az ajtót a világra: minden, amit tudunk a delta pluszról és az új szupermutánsról",
+        "txtlength": 22317
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20211126_varoshaza_gate_a_testreszabott_palyazatok_utan_10_szazalek_volt_a_jutalek",
+        "h1": "Városháza-ügy: Újabb hangfelvétel, testreszabott pályázatok, tízszázalékos jutalék",
+        "txtlength": 21458
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/hitel/20211124/ajandekmilliokbol-ujitanad-fel-a-lakasod-jobb-ha-sietsz-nem-sokaig-tart-a-kanaan-1119375",
+        "h1": "Ajándékmilliókból újítanád fel a lakásod? Jobb, ha sietsz, nem sokáig tart a kánaán",
+        "txtlength": 21206
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20211126_marki_zay_erdely_zsigmond_barna_pal_nemzetpolitika",
+        "h1": "Márki-Zayjal próbálják eladni a baloldali összefogást nem baloldalinak – Zsigmond Barna Pál a Mandinernek",
+        "txtlength": 20050
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20211127/orokre-bebetonozhatjak-a-dermesztoen-alacsony-magyar-minimalnyugdijat-512278",
+        "h1": "Örökre bebetonozhatják a dermesztően alacsony magyar minimálnyugdíjat",
+        "txtlength": 19056
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/hitel/20211126/itt-a-19-pontos-lista-valojaban-ezen-mulik-kik-kaphatnak-penzt-a-bankoktol-1119697",
+        "h1": "Itt a 19 pontos lista: valójában ezen múlik, kik kaphatnak pénzt a bankoktól",
+        "txtlength": 18142
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vilag/20211126/teljes-osszeomlast-hoztak-ossze-a-vilag-legnagyobb-olajtartalekan-ulve-de-most-elkezdtek-talpra-allni/",
+        "h1": "Teljes összeomlást hoztak össze a világ legnagyobb olajtartalékán ülve, de most elkezdtek talpra állni",
+        "txtlength": 16681
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/adat/20211126/tizezrek-hagyjak-el-budapestet-es-egyre-messzebb-mennek/",
+        "h1": "Tízezrek hagyják el Budapestet, és egyre messzebb mennek",
+        "txtlength": 16513
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2021/11/27/barmilyen-jol-hangzik-a-gondolatolvaso-morzsi-a-tudomany-nem-igazolja-a-kutyak-telepatias-kepessegeit",
+        "h1": "BÁRMILYEN JÓL HANGZIK A GONDOLATOLVASÓ MORZSI, A TUDOMÁNY NEM IGAZOLJA A KUTYÁK TELEPÁTIÁS KÉPESSÉGEIT",
+        "txtlength": 13692
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/premium/20211127/az-autos-szektorban-forradalom-zajlik-512576",
+        "h1": "Az autós szektorban forradalom zajlik (x)",
+        "txtlength": 13523
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/kapcsolat/bizarr-vagyfokozok-multban/",
+        "h1": "A történelem legkülönösebb vágyfokozói: a középkorban testnedveket csempésztek a süteménybe",
+        "txtlength": 11200
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/lajfhekk/ne-vasarolj-semmit-nap/",
+        "h1": "Ma van a Ne vásárolj semmit nap. Mondjuk, miért jó ez a lelkednek is!",
+        "txtlength": 8008
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/belfold/2021/11/26/fideszes-anonymus-maszkos-alak-varoshaza-cseh-katalin-ugy-kormanymedia-ellenzek",
+        "h1": "A fideszes Anonymus lerántja a leplet a kormánysajtóról is",
+        "txtlength": 28041
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kultura/2021/11/26/francoise-gilot-pablo-picasso-festeszet-jubileum/",
+        "h1": "A százéves nő, aki tíz évet töltött Picassóval, nyolcvanat a festészettel",
+        "txtlength": 18443
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kulfold/2021/11/26/bulgaria-kormany-petkov-vaszilev-valasztas-boriszov-kormanyalakitas",
+        "h1": "Két hónapja alapították korrupcióellenes pártjukat, felrázták a patthelyzetbe szorult Bulgáriát",
+        "txtlength": 17837
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20211126_Kerdesek_valaszok_gyerekek_koronavirus_oltas",
+        "h1": "Kérdései vannak a gyerekek koronavírus-oltásával kapcsolatban? Most megválaszoljuk",
+        "txtlength": 16591
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kulfold/2021/11/26/nemetorszag-koalicio-olaf-scholz-kormanyalakitas/",
+        "h1": "Célegyenesben az új német kormány megalakulása, és ennek nem örülhetnek Orbánék",
+        "txtlength": 15323
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://qubit.hu/2021/11/27/barmilyen-jol-hangzik-a-gondolatolvaso-morzsi-a-tudomany-nem-igazolja-a-kutyak-telepatias-kepessegeit",
+        "h1": "BÁRMILYEN JÓL HANGZIK A GONDOLATOLVASÓ MORZSI, A TUDOMÁNY NEM IGAZOLJA A KUTYÁK TELEPÁTIÁS KÉPESSÉGEIT",
+        "txtlength": 13583
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/direkt36/2021/11/27/kover-laszlo-arrol-beszelt-titkosszolgalati-vezetoknek-hogy-az-ellenzek-jelenti-a-legnagyobb-nemzetbiztonsagi-veszelyt",
+        "h1": "Kövér László arról beszélt titkosszolgálati vezetőknek, hogy az ellenzék jelenti a legnagyobb nemzetbiztonsági veszélyt",
+        "txtlength": 13517
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/brandcontent/20211124_Teremtsen_zold_jovot_es_zold_irodat",
+        "h1": "Teremtsen zöld jövőt és zöld irodát!",
+        "txtlength": 12832
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/kkv/20211127_BKV_budapest_karacsony_orban",
+        "h1": "A BKV-t leállítani nem kell félnetek jó lesz",
+        "txtlength": 12813
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/krimi/regi-bunugyek-nyomozasok-kabitoszer-elfogasok/vgd25cw",
+        "h1": "A balfék díler, a Törpék és egy kedves, idős néni – Egy magyar exnyomozó vallomásai",
+        "txtlength": 12215
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2021/11/27/varosi-civil-alap-fonyodi-polgari-egyesulet-polgari-estek-kormanypropaganda/",
+        "h1": "Leplezetlenül nyomják a fideszes propagandát az állami civilpénzből",
+        "txtlength": 11492
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/11/26/onkormanyzati-adostop-csod-nem-lesz-csak-a-jardakat-jovore-sem-ujitjak-fel",
+        "h1": "Önkormányzati adóstop: csőd nem lesz, csak a járdákat jövőre sem újítják fel",
+        "txtlength": 11255
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/kasler-miklos-emmi-eletveszelyes-fenyegetes-rendori-vedelem/9s7snhk?sl_ps=d_6",
+        "h1": "Elismerte Kásler: megfenyegették őt és a családját",
+        "txtlength": 9224
+    },
+    {
+        "hostname": "mindmegette.hu",
         "pagelink": "https://www.mindmegette.hu/podlupka.recept",
         "h1": "PODLUPKA",
         "txtlength": 10505
