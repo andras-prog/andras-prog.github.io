@@ -1,6 +1,180 @@
 [
     {
         "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/paradicsomos-lencseragu.recept",
+        "h1": "PARADICSOMOS LENCSERAGU",
+        "txtlength": 10202
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/hercegnoburgonya-hazilag.recept",
+        "h1": "HERCEGNŐBURGONYA HÁZILAG",
+        "txtlength": 10020
+    },
+    {
+        "hostname": "hataratkelo.blog.hu",
+        "pagelink": "https://hataratkelo.blog.hu/2021/11/22/hazvasarlasi_mizeria_a_videki_angliaban#c41058284",
+        "h1": "Házvásárlási mizéria a vidéki Angliában",
+        "txtlength": 69014
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2021/11/28/a-lyukkartyatol-az-ssd-meghajtoig-szedito-fejlodesen-mentek-at-az-adathordozok-az-elmult-evszazadban",
+        "h1": "A LYUKKÁRTYÁTÓL AZ SSD MEGHAJTÓIG: SZÉDÍTŐ FEJLŐDÉSEN MENTEK ÁT AZ ADATHORDOZÓK AZ ELMÚLT ÉVSZÁZADBAN",
+        "txtlength": 28352
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20211124_ujrahasznositott_hullamtorok_igy_kuzd_a_kontinens_a_koronavirussal",
+        "h1": "Újrahasznosított hullámtörők – Így küzd a kontinens a koronavírussal",
+        "txtlength": 25152
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vilag/20211128/hogyan-lehet-elerni-hogy-a-hazakat-bontas-utan-mashol-ujra-osszerakjak/",
+        "h1": "Hogyan lehet elérni, hogy a házakat bontás után máshol újra összerakják?",
+        "txtlength": 22790
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/megtakaritas/20211127/mukodik-a-legalis-gyogyszer-trukk-igy-juthatsz-hozza-felaron-a-meregdraga-pirulakhoz-1119618",
+        "h1": "Működik a legális gyógyszer-trükk: így juthatsz hozzá féláron a méregdrága pirulákhoz",
+        "txtlength": 20970
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/global/20211128/katonai-puccs-uzte-el-ferjet-a-hatalombol-most-orszaga-elso-noi-elnoke-lenne-513102",
+        "h1": "Katonai puccs űzte el férjét a hatalomból, most országa első női elnöke lenne",
+        "txtlength": 19276
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20211124_konzervativ_adattroszt_tizenot_eves_a_nezopont_intezet",
+        "h1": "Konzervatív adattröszt – Tizenöt éves a Nézőpont Intézet",
+        "txtlength": 18663
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/2021127_demeter_szilard_interju_kortars_irodalom_szinhaz_esztetika_oltas",
+        "h1": "A Fidesz az alkotói szabadság egyetlen védvára Magyarországon – Demeter Szilárd a Mandinernek",
+        "txtlength": 18641
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20211128/otodik-jarvanyhullam-magyarorszagon-micsoda-megis-hogyan-es-miert-513122",
+        "h1": "Ötödik járványhullám Magyarországon? – Micsoda? Mégis hogyan és miért?",
+        "txtlength": 18136
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/vasarlas/20211125/tomegek-kovetik-ezt-az-etrendet-magyarorszagon-kemeny-arat-fizetnek-az-eletvitelukert-1119641",
+        "h1": "Tömegek követik ezt az étrendet Magyarországon: kemény árat fizetnek az életvitelükért",
+        "txtlength": 17898
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/elet/20211127/nehany-abra-arrol-hogy-oltasok-nelkul-sokkal-nagyobb-bajban-lennenk/",
+        "h1": "Néhány ábra arról, hogy oltások nélkül sokkal nagyobb bajban lennénk",
+        "txtlength": 17378
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/ingatlan/20211127/madzagon-rangatjak-az-egesz-szallodaipart-megis-jonnek-a-legujabb-hotelcsodak-512946",
+        "h1": "Madzagon rángatják az egész szállodaipart - Mégis jönnek a legújabb hotelcsodák",
+        "txtlength": 16731
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/hazai_sztar/x-faktor-2021-2-elo-show/",
+        "h1": "Az X-Faktor két kiesőjén a nézők is megdöbbentek: Puskás Peti kap miattuk hideget-meleget",
+        "txtlength": 15100
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/lajfhekk/erdekessegek-a-macskakrol/",
+        "h1": "Érdekességek a macskákról",
+        "txtlength": 8434
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://qubit.hu/2021/11/28/a-lyukkartyatol-az-ssd-meghajtoig-szedito-fejlodesen-mentek-at-az-adathordozok-az-elmult-evszazadban",
+        "h1": "A LYUKKÁRTYÁTÓL AZ SSD MEGHAJTÓIG: SZÉDÍTŐ FEJLŐDÉSEN MENTEK ÁT AZ ADATHORDOZÓK AZ ELMÚLT ÉVSZÁZADBAN",
+        "txtlength": 27662
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kultura/2021/11/27/yasmina-khadra-terrorizmus-dzsihadizmus-irodalom-sardzsai-konyvvasar-katonasag-algeria-thriller/",
+        "h1": "Terroristákra vadászó muszlim katonából lett az irodalom drag queenje",
+        "txtlength": 19032
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2021/11/28/farkashazy-tivadar-orban-viktor-jarvany-koronavirus-halalcsoportban-matine/",
+        "h1": "Farkasházy Tivadar: Orbán eltüntetett egy várost",
+        "txtlength": 18878
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/11/28/a-sok-evszazados-elo-indiai-hidak-mar-a-nyugati-epiteszek-figyelmet-is-felkeltettek",
+        "h1": "A sok évszázados élő indiai hidak már a nyugati építészek figyelmét is felkeltették",
+        "txtlength": 18222
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/sport/2021/11/27/szalai-attila-atigazolas-futball-pletykak-dzsudzsak",
+        "h1": "A Szalai Attila átigazolása körüli hercehurca, nem lapinformációk alapján",
+        "txtlength": 15755
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/szorakozas/2021/11/27/paris-hilton-paris-in-love-this-is-paris-reality-dokumentumfilm-eskuvo-hazassag-kapcsolat/",
+        "h1": "Minden giccsessége ellenére szükségünk volt Paris Hilton új sorozatára",
+        "txtlength": 15527
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/velemeny/2021/11/27/nok-es-keresztenyseg-krisztusban-testverek-egyhazban-szolgalok",
+        "h1": "Nők és kereszténység: Krisztusban testvérek, egyházban szolgálók",
+        "txtlength": 13979
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/szorakozas/2021/11/27/riot-games-riot-forge-ruined-king-hextech-mayhem-videojatek-league-of-legends",
+        "h1": "Sokat kellett várni, de végre anélkül is lehet élvezni a League of Legends világát, hogy játszani kellene vele",
+        "txtlength": 13575
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/kultura/20211127_Empatikusnak_kell_lennunk_a_traumainkkal__Mundruczo_uj_filmje_pont_akkor_er_veget_mikor_mar_kezd_jo_lenni",
+        "h1": "Empatikusnak kell lennünk a traumáinkkal – Mundruczó új filmje pont akkor ér véget, mikor már kezd jó lenni",
+        "txtlength": 12122
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/gazdasag/20211128_Es_akkor_arfolyam_forint_bkv_mnb_adocsomag_4ig_vasut",
+        "h1": "És akkor a 3,60-as kenyér után itt van a 370-es euró",
+        "txtlength": 12086
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/kultura/20211127_Miert_nincs_a_magyar_filmnek_muzeuma",
+        "h1": "Miért nincs a magyar filmnek múzeuma?",
+        "txtlength": 10687
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/krimi/svabhegy-feleseg-darabolos-gyilkos-vecen-huzta-le-a-testet/m7bfz8x?sl_ps=d_4",
+        "h1": "Svábhegyi lakása vécéjén húzta le felesége feldarabolt testét a budai gimnázium igazgatóhelyettese",
+        "txtlength": 10630
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/fekete-balint-andras-genetikus/bnnsnqm",
+        "h1": "Dr. Fekete Bálint András genetikus: az, hogy mennyi idősek vagyunk biológiailag, nem feltétlenül egyezik a tényleges életkorunkkal",
+        "txtlength": 9761
+    },
+    {
+        "hostname": "mindmegette.hu",
         "pagelink": "https://www.mindmegette.hu/ellenallhatatlan-almas-suti.recept",
         "h1": "ELLENÁLLHATATLAN ALMÁS SÜTI",
         "txtlength": 10302
