@@ -1,6 +1,198 @@
 [
     {
         "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/karacsonyi-rogton-puha-mezeskalacs",
+        "h1": "Karácsonyi rögtön puha mézeskalács",
+        "txtlength": 20387
+    },
+    {
+        "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/hagyomanyos-kakaos-csiga",
+        "h1": "Hagyományos kakaós csiga",
+        "txtlength": 18173
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/omlos-libatepertos-pogacsa.recept",
+        "h1": "OMLÓS LIBATEPERTŐS POGÁCSA",
+        "txtlength": 10460
+    },
+    {
+        "hostname": "kiszamolo.hu",
+        "pagelink": "https://kiszamolo.hu/mennyi-lesz-az-uj-hiteltorlesztom/",
+        "h1": "Mennyi lesz az új hiteltörlesztőm?",
+        "txtlength": 33641
+    },
+    {
+        "hostname": "alapblog.hu",
+        "pagelink": "https://alapblog.hu/egy-jo-sneaker-a-ruhatarad-es-a-portfoliod-resze-is-lehet/",
+        "h1": "Egy jó sneaker a ruhatárad és a portfóliód része is lehet",
+        "txtlength": 8067
+    },
+    {
+        "hostname": "kulturpart.hu",
+        "pagelink": "https://kulturpart.blog.hu/2021/11/24/fiatalok_melodramaja_budapesten",
+        "h1": "FIATALOK MELODRÁMÁJA BUDAPESTEN",
+        "txtlength": 5148
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20211203_se_karacsony_se_holgyek_se_urak_itt_a_teljes_unios_newspeak_szotar",
+        "h1": "Se karácsony, se hölgyek, se urak: itt a teljes uniós újbeszél-szótár!",
+        "txtlength": 23622
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vallalat/20211201/egyre-mereszebben-gorog-a-ner-informatikai-kis-gomboce-a-digit-is-felfalo-4ig/",
+        "h1": "Egyre merészebben görög a NER informatikai kis gömböce, a Digit is felfaló 4iG",
+        "txtlength": 19807
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20211124_ki_lathat_bele_a_telefonunkba",
+        "h1": "Ki láthat bele a telefonunkba? – még egy lépéssel beljebb masírozhatnak a privát szféránkba",
+        "txtlength": 19068
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20211130_iraki_kurd_alelnok_mi_egyaltalan_nem_tamogatjuk_a_migraciot",
+        "h1": "Iraki kurd alelnök: Mi egyáltalán nem támogatjuk a migrációt",
+        "txtlength": 18546
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/global/20211130/lelepleztek-a-mestertervet-uj-europai-szuperszovetseg-formalodik-513436",
+        "h1": "Leleplezték a mestertervet: új európai szuperszövetség formálódik",
+        "txtlength": 17780
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/bank/20211201/egyedul-maradt-a-fundamenta-hol-tart-ma-a-lakaskassza-513708",
+        "h1": "Egyedül maradt a Fundamenta - hol tart ma a lakáskassza?",
+        "txtlength": 17197
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/biztositas/20211130/itt-van-minden-amit-eddig-az-omikron-koronavirus-variansrol-tudni-lehet-tenyleg-annyira-veszelyes-1119834",
+        "h1": "Itt van minden, amit eddig az omikron koronavírus-variánsról tudni lehet: tényleg annyira veszélyes?",
+        "txtlength": 17048
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vallalat/20211129/elore-a-multba-magyarorszagon-betiltjak-az-online-gyogyszer-kereskedelmet/",
+        "h1": "Előre a múltba, Magyarországon betiltják az online gyógyszer-kereskedelmet",
+        "txtlength": 15800
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/tech/20211127/hiaba-a-szigoru-szabalyozas-ez-lehet-a-2021-es-karacsony-slagerajandeka-1119464",
+        "h1": "Hiába a szigorú szabályozás: ez lehet a 2021-es karácsony slágerajándéka",
+        "txtlength": 15452
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2021/12/01/lacika-markold-meg-a-kontrollert-es-teleportalj-oda-a-traktorhoz",
+        "h1": "LACIKA, MARKOLD MEG A KONTROLLERT, ÉS TELEPORTÁLJ ODA A TRAKTORHOZ!",
+        "txtlength": 14680
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/krtk/20211201/segitik-e-a-rangsorok-az-optimalis-dontest-ha-nagy-a-tet-513588",
+        "h1": "Segítik-e a rangsorok az optimális döntést, ha nagy a tét?",
+        "txtlength": 14465
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/otthon/elo-fenyo-gondozasa-karacsony/",
+        "h1": "Nem hullik a fenyő levele, és sokáig egészséges, illatos marad, ha erre ügyelsz: 8 dolog, amire érdemes figyelni",
+        "txtlength": 11764
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/szuloseg/szexualis-elet-csaszarmetszes-termeszetes-szules/",
+        "h1": "Van, aki bevállalja a császármetszést a férje kedvéért. Te megtennéd?",
+        "txtlength": 7745
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/sport/2021/11/30/turi-gyorgy-uszas-herczog-maria-lelki-terror-testi-fenyites-abuzus/",
+        "h1": "Herczog Mária a Turi-ügyről: A megalázás gyakorta mélyebb nyomot hagy, mint egy-egy pofon",
+        "txtlength": 20528
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/12/01/a-nyugati-orszagok-tehetnek-az-omikron-kialakulasarol",
+        "h1": "A nyugati országok tehetnek az omikron kialakulásáról?",
+        "txtlength": 20503
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/sport/2021/11/30/hermann-tilke-forma-1-f1-palya-tervezes-szaud-arabia-dzsidda-versenypalya",
+        "h1": "Az ember, aki 20 éve tervezi az új Forma–1-es pályákat, és átkozzák is érte rendesen",
+        "txtlength": 15613
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/11/30/dubajig-menekult-a-tobb-tizmillios-rajongotaborral-rendelkezo-orosz-rapper-miutan-kiderult-hogy-lecsukhatjak",
+        "h1": "Dubajig menekült a több tízmilliós rajongótáborral rendelkező orosz rapper, miután kiderült, hogy lecsukhatják",
+        "txtlength": 15105
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/tamogatott-tartalom/2021/11/30/hazai-eredmenyek-is-vannak-a-ritka-betegsegek-gyogyitasaban-pfizer",
+        "h1": "Hazai eredmények is vannak a ritka betegségek gyógyításában",
+        "txtlength": 14708
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20211130_Kover_Laszlo_beszed_leirat_alkotmanyvedelmi_hivatal",
+        "h1": "Nem Kövér elhangzott beszéde került fel a házelnök hivatalos honlapjára. Aztán mégis",
+        "txtlength": 13019
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2021/11/30/koronavirus-oltas-oltasellenesseg-pszichologia/",
+        "h1": "Tényleg azért oltatjuk be magunkat, mert vakon engedelmeskedünk a hatalomnak?",
+        "txtlength": 12619
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kulfold/2021/11/30/eu-nyelvi-iranyelv-semleges-nevmasok-karacsony-helyett-teli-szunido",
+        "h1": "Az EU inkább visszavonta a gendersemleges iránymutatását, miután azzal vádolták, hogy a karácsonyt is be akarja tiltani",
+        "txtlength": 11904
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kultura/2021/11/30/halle-berry-megsebezve-netflix-filmkritika/",
+        "h1": "Ketrecharcos filmjével Halle Berry csak azt bizonyította be, hogy jobban verekszik, mint ahogy rendez",
+        "txtlength": 11829
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/kulfold/kotelezo-oltas-nemetorszag/6g608p8",
+        "h1": "Koronavírus-hírek: Németország is kötelezővé tenné az oltást",
+        "txtlength": 9715
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/eltunes-rejtely-betegseg-nyomozas/w7twhmd?sl_ps=d_3",
+        "h1": "Nyilvános levélben köszönt el családjától a kényszerbeteg asszony – Öt gyermeke és a párja kérleli az eltűnt édesanyát: „Gyere haza, anya!”",
+        "txtlength": 9276
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/gazdasag/20211130_bige_laszlo_nagy_istvan_nyilt_level",
+        "h1": "Bige László nyílt levélben válaszolt az agrárminiszternek: Azért csinálják, mert nyíltan elmondtam, hogy az önök politikájával nem értek egyet",
+        "txtlength": 8951
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/gazdasag/20211201_gdp_ksh_szolgaltatas",
+        "h1": "Az evés-ivás hajtotta a magyar gazdaságot a harmadik negyedévben",
+        "txtlength": 8399
+    },
+    {
+        "hostname": "nosalty.hu",
         "pagelink": "https://www.nosalty.hu/recept/tejfolben-pacolt-csirkemell-tepsis-reszelt-krumplival",
         "h1": "Tejfölben pácolt csirkemell tepsis reszelt krumplival",
         "txtlength": 18690

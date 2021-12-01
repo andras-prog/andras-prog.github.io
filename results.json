@@ -1198,19 +1198,6 @@
   {
     "azon": "LIDL",
     "forras": "",
-    "termeknev": "Cseh craftsörválogatás",
-    "termekar": "4999",
-    "termekcur": "Ft",
-    "termekmenny": "12 x 0",
-    "tarfajl": "33 l",
-    "tarfajlmert": "",
-    "disc": "",
-    "erv": " 12.08.",
-    "termeklink": "https://www.lidl.hu/p/akcioink-12-02-csuetoertoektol/cseh-craftsoervalogatas/p116236"
-  },
-  {
-    "azon": "LIDL",
-    "forras": "",
     "termeknev": "Belgium büszkeségei",
     "termekar": "2299",
     "termekcur": "Ft",
@@ -1224,19 +1211,6 @@
   {
     "azon": "LIDL",
     "forras": "",
-    "termeknev": "Ajándékcsomag 6 db exkluzív belga sörből",
-    "termekar": "2699",
-    "termekcur": "Ft",
-    "termekmenny": "6 x 0",
-    "tarfajl": "33 l",
-    "tarfajlmert": "",
-    "disc": "",
-    "erv": " 12.08.",
-    "termeklink": "https://www.lidl.hu/p/akcioink-12-02-csuetoertoektol/ajandekcsomag-6-db-exkluziv-belga-soerbol/p116238"
-  },
-  {
-    "azon": "LIDL",
-    "forras": "",
     "termeknev": "Nedves kutyaeledel*  ORLANDO",
     "termekar": "299",
     "termekcur": "Ft",
@@ -1246,6 +1220,32 @@
     "disc": "-18%",
     "erv": " 12.08.",
     "termeklink": "https://www.lidl.hu/p/akcioink-12-02-csuetoertoektol/nedves-kutyaeledel/p116239"
+  },
+  {
+    "azon": "LIDL",
+    "forras": "",
+    "termeknev": "Cseh craftsörválogatás",
+    "termekar": "4999",
+    "termekcur": "Ft",
+    "termekmenny": "12 x 0",
+    "tarfajl": "33 l",
+    "tarfajlmert": "",
+    "disc": "",
+    "erv": " 12.08.",
+    "termeklink": "https://www.lidl.hu/p/akcioink-12-02-csuetoertoektol/cseh-craftsoervalogatas/p116236"
+  },
+  {
+    "azon": "LIDL",
+    "forras": "",
+    "termeknev": "Ajándékcsomag 6 db exkluzív belga sörből",
+    "termekar": "2699",
+    "termekcur": "Ft",
+    "termekmenny": "6 x 0",
+    "tarfajl": "33 l",
+    "tarfajlmert": "",
+    "disc": "",
+    "erv": " 12.08.",
+    "termeklink": "https://www.lidl.hu/p/akcioink-12-02-csuetoertoektol/ajandekcsomag-6-db-exkluziv-belga-soerbol/p116238"
   },
   {
     "azon": "LIDL",
@@ -3017,15 +3017,15 @@
   {
     "azon": "AUCHAN",
     "forras": "",
-    "termeknev": "RÉSIDENT SZELETELT SAJT",
-    "termekar": "479 Ft",
+    "termeknev": "PRÉSIDENT SZELETELT SAJT",
+    "termekar": "399 Ft",
     "termekcur": "",
     "termekmenny": "100g",
     "tarfajl": "",
     "tarfajlmert": "",
     "disc": "",
     "erv": "2021.11.25-12.01.",
-    "termeklink": "https://www.auchan.hu/termekek/reszletek/friss-elelmiszer/sajtok/residentszeletelt-sajt"
+    "termeklink": "https://www.auchan.hu/termekek/reszletek/friss-elelmiszer/sajtok/president-szeletelt-sajt-12"
   },
   {
     "azon": "AUCHAN",
@@ -7697,58 +7697,6 @@
   {
     "azon": "CBA",
     "forras": "",
-    "termeknev": "2db Silan öblítő 1200ml és/vagy 1800ml és/vagy 1450ml",
-    "termekar": "1698,- Ft/cs",
-    "termekcur": "",
-    "termekmenny": "",
-    "tarfajl": "",
-    "tarfajlmert": "",
-    "disc": "",
-    "erv": "",
-    "termeklink": "https://online.prima.hu/s/2db-silan-oblito-1200ml-es-vagy-1800ml-es-vagy-1450ml-80000000403?cat=701040"
-  },
-  {
-    "azon": "CBA",
-    "forras": "",
-    "termeknev": "2db Persil mosógél, mosókapszula, mosópor (22,26,36,40 mos)",
-    "termekar": "3998,- Ft/cs",
-    "termekcur": "",
-    "termekmenny": "",
-    "tarfajl": "",
-    "tarfajlmert": "",
-    "disc": "",
-    "erv": "",
-    "termeklink": "https://online.prima.hu/s/2db-persil-mosogel-mosokapszula-mosopor-22-26-36-40-mos-80000000823?cat=701020"
-  },
-  {
-    "azon": "CBA",
-    "forras": "",
-    "termeknev": "2db Bref Power/Color aktív és/vagy DeLuxe toalettfriss.3x50g",
-    "termekar": "1998,- Ft/cs",
-    "termekcur": "",
-    "termekmenny": "",
-    "tarfajl": "",
-    "tarfajlmert": "",
-    "disc": "",
-    "erv": "",
-    "termeklink": "https://online.prima.hu/s/2db-bref-power-color-aktiv-es-vagy-deluxe-toalettfriss-3x50g-80000000858?cat=702020"
-  },
-  {
-    "azon": "CBA",
-    "forras": "",
-    "termeknev": "Happy Day gyümölcslé 1l",
-    "termekar": "878,- Ft/cs",
-    "termekcur": "",
-    "termekmenny": "",
-    "tarfajl": "",
-    "tarfajlmert": "",
-    "disc": "",
-    "erv": "",
-    "termeklink": "https://online.prima.hu/s/happy-day-gyumolcsle-1l-80000000341?cat=554520"
-  },
-  {
-    "azon": "CBA",
-    "forras": "",
     "termeknev": "Bodvin Tokaji Aszú 5 puttonyos desszertbor 12% 0.5l",
     "termekar": "3299,- Ft/db",
     "termekcur": "",
@@ -7784,19 +7732,6 @@
     "disc": "",
     "erv": "",
     "termeklink": "https://online.prima.hu/s/pedranzini-prosciutto-crudo-100g-10000167081?cat=25502010"
-  },
-  {
-    "azon": "CBA",
-    "forras": "",
-    "termeknev": "Idared alma lédig",
-    "termekar": "249,- Ft/kg",
-    "termekcur": "",
-    "termekmenny": "",
-    "tarfajl": " 249,00 Ft/kg",
-    "tarfajlmert": "",
-    "disc": "-37%",
-    "erv": "",
-    "termeklink": "https://online.prima.hu/s/idared-alma-ledig-10000156112?cat=3020"
   },
   {
     "azon": "CBA",
@@ -7944,19 +7879,6 @@
   {
     "azon": "CBA",
     "forras": "",
-    "termeknev": "Vöröshagyma lédig",
-    "termekar": "179,- Ft/kg",
-    "termekcur": "",
-    "termekmenny": "",
-    "tarfajl": " 179,00 Ft/kg",
-    "tarfajlmert": "",
-    "disc": "-33%",
-    "erv": "",
-    "termeklink": "https://online.prima.hu/s/voroshagyma-ledig-10000156034?cat=3010"
-  },
-  {
-    "azon": "CBA",
-    "forras": "",
     "termeknev": "Khaki szilva db",
     "termekar": "119,- Ft/db",
     "termekcur": "",
@@ -7966,19 +7888,6 @@
     "disc": "-33%",
     "erv": "",
     "termeklink": "https://online.prima.hu/s/khaki-szilva-db-10000183902?cat=3020"
-  },
-  {
-    "azon": "CBA",
-    "forras": "",
-    "termeknev": "Karalábé db",
-    "termekar": "169,- Ft/db",
-    "termekcur": "",
-    "termekmenny": "",
-    "tarfajl": " 169,00 Ft/db",
-    "tarfajlmert": "",
-    "disc": "-32%",
-    "erv": "",
-    "termeklink": "https://online.prima.hu/s/karalabe-db-10000156103?cat=3010"
   },
   {
     "azon": "CBA",
@@ -8100,19 +8009,6 @@
   {
     "azon": "CBA",
     "forras": "",
-    "termeknev": "Persil Discs mosókapszula sensitive 22 mosás 22db",
-    "termekar": "2199,- Ft/db",
-    "termekcur": "",
-    "termekmenny": "",
-    "tarfajl": " 99,95 Ft/db",
-    "tarfajlmert": "",
-    "disc": "-31%",
-    "erv": "",
-    "termeklink": "https://online.prima.hu/s/persil-discs-mosokapszula-sensitive-22-mosas-22db-10000206734?cat=701030"
-  },
-  {
-    "azon": "CBA",
-    "forras": "",
     "termeknev": "Persil mosógél színes lavender freshness 40 mosás 2l",
     "termekar": "2199,- Ft/db",
     "termekcur": "",
@@ -8122,6 +8018,19 @@
     "disc": "",
     "erv": "",
     "termeklink": "https://online.prima.hu/s/persil-mosogel-szines-lavender-freshness-40-mosas-2l-10000175057?cat=701020"
+  },
+  {
+    "azon": "CBA",
+    "forras": "",
+    "termeknev": "Persil Discs mosókapszula sensitive 22 mosás 22db",
+    "termekar": "2199,- Ft/db",
+    "termekcur": "",
+    "termekmenny": "",
+    "tarfajl": " 99,95 Ft/db",
+    "tarfajlmert": "",
+    "disc": "-31%",
+    "erv": "",
+    "termeklink": "https://online.prima.hu/s/persil-discs-mosokapszula-sensitive-22-mosas-22db-10000206734?cat=701030"
   },
   {
     "azon": "CBA",
@@ -8230,19 +8139,6 @@
   {
     "azon": "CBA",
     "forras": "",
-    "termeknev": "Abate körte lédig",
-    "termekar": "549,- Ft/kg",
-    "termekcur": "",
-    "termekmenny": "",
-    "tarfajl": " 549,00 Ft/kg",
-    "tarfajlmert": "",
-    "disc": "-31%",
-    "erv": "",
-    "termeklink": "https://online.prima.hu/s/abate-korte-ledig-10000171383?cat=3020"
-  },
-  {
-    "azon": "CBA",
-    "forras": "",
     "termeknev": "Martini Asti édes fehér pezsgő 7,5% 0.75l",
     "termekar": "2899,- Ft/db",
     "termekcur": "",
@@ -8347,19 +8243,6 @@
   {
     "azon": "CBA",
     "forras": "",
-    "termeknev": "Törley Excellence Chardonnay kül.sz.fehér pezsgő 12.5% 0.75l",
-    "termekar": "1399,- Ft/db",
-    "termekcur": "",
-    "termekmenny": "",
-    "tarfajl": " 1865,33 Ft/l",
-    "tarfajlmert": "",
-    "disc": "-30%",
-    "erv": "",
-    "termeklink": "https://online.prima.hu/s/torley-excellence-chardonnay-kul-sz-feher-pezsgo-12-5-0-75l-10000157184?cat=55907010"
-  },
-  {
-    "azon": "CBA",
-    "forras": "",
     "termeknev": "Törley Excellence sárga muskotály éd. fehér pezsgő 10% 0,75l",
     "termekar": "1399,- Ft/db",
     "termekcur": "",
@@ -8369,6 +8252,19 @@
     "disc": "-30%",
     "erv": "",
     "termeklink": "https://online.prima.hu/s/torley-excellence-sarga-muskotaly-ed-feher-pezsgo-10-0-75l-10000157183?cat=55907010"
+  },
+  {
+    "azon": "CBA",
+    "forras": "",
+    "termeknev": "Törley Excellence Chardonnay kül.sz.fehér pezsgő 12.5% 0.75l",
+    "termekar": "1399,- Ft/db",
+    "termekcur": "",
+    "termekmenny": "",
+    "tarfajl": " 1865,33 Ft/l",
+    "tarfajlmert": "",
+    "disc": "-30%",
+    "erv": "",
+    "termeklink": "https://online.prima.hu/s/torley-excellence-chardonnay-kul-sz-feher-pezsgo-12-5-0-75l-10000157184?cat=55907010"
   },
   {
     "azon": "CBA",
@@ -8672,19 +8568,6 @@
   {
     "azon": "CBA",
     "forras": "",
-    "termeknev": "Henkell Blanc de Blancs száraz fehér pezsgő 11.5% 0.75l",
-    "termekar": "1699,- Ft/db",
-    "termekcur": "",
-    "termekmenny": "",
-    "tarfajl": " 2265,33 Ft/l",
-    "tarfajlmert": "",
-    "disc": "-27%",
-    "erv": "",
-    "termeklink": "https://online.prima.hu/s/henkell-blanc-de-blancs-szaraz-feher-pezsgo-11-5-0-75l-10000008241?cat=55907010"
-  },
-  {
-    "azon": "CBA",
-    "forras": "",
     "termeknev": "Henkell Trocken száraz minőségi pezsgő 11,5% 0.75l",
     "termekar": "1699,- Ft/db",
     "termekcur": "",
@@ -8694,6 +8577,19 @@
     "disc": "-27%",
     "erv": "",
     "termeklink": "https://online.prima.hu/s/henkell-trocken-szaraz-minosegi-pezsgo-11-5-0-75l-10000008239?cat=55907010"
+  },
+  {
+    "azon": "CBA",
+    "forras": "",
+    "termeknev": "Henkell Blanc de Blancs száraz fehér pezsgő 11.5% 0.75l",
+    "termekar": "1699,- Ft/db",
+    "termekcur": "",
+    "termekmenny": "",
+    "tarfajl": " 2265,33 Ft/l",
+    "tarfajlmert": "",
+    "disc": "-27%",
+    "erv": "",
+    "termeklink": "https://online.prima.hu/s/henkell-blanc-de-blancs-szaraz-feher-pezsgo-11-5-0-75l-10000008241?cat=55907010"
   },
   {
     "azon": "CBA",
@@ -8711,19 +8607,6 @@
   {
     "azon": "CBA",
     "forras": "",
-    "termeknev": "Vylyan Villányi Rosé Kakas száraz rozébor 2020 12% 0.75l",
-    "termekar": "1299,- Ft/db",
-    "termekcur": "",
-    "termekmenny": "",
-    "tarfajl": " 1732,00 Ft/l",
-    "tarfajlmert": "",
-    "disc": "-27%",
-    "erv": "",
-    "termeklink": "https://online.prima.hu/s/vylyan-villanyi-rose-kakas-szaraz-rozebor-2020-12-0-75l-10000203058?cat=55902010"
-  },
-  {
-    "azon": "CBA",
-    "forras": "",
     "termeknev": "Gál Balatonmelléki Chardonnay száraz fehérbor 13.5% 0.75l",
     "termekar": "1299,- Ft/db",
     "termekcur": "",
@@ -8733,6 +8616,19 @@
     "disc": "-27%",
     "erv": "",
     "termeklink": "https://online.prima.hu/s/gal-balatonmelleki-chardonnay-szaraz-feherbor-13-5-0-75l-10000152427?cat=55901010"
+  },
+  {
+    "azon": "CBA",
+    "forras": "",
+    "termeknev": "Vylyan Villányi Rosé Kakas száraz rozébor 2020 12% 0.75l",
+    "termekar": "1299,- Ft/db",
+    "termekcur": "",
+    "termekmenny": "",
+    "tarfajl": " 1732,00 Ft/l",
+    "tarfajlmert": "",
+    "disc": "-27%",
+    "erv": "",
+    "termeklink": "https://online.prima.hu/s/vylyan-villanyi-rose-kakas-szaraz-rozebor-2020-12-0-75l-10000203058?cat=55902010"
   },
   {
     "azon": "CBA",
@@ -9075,19 +8971,6 @@
   {
     "azon": "CBA",
     "forras": "",
-    "termeknev": "Golden alma lédig",
-    "termekar": "299,- Ft/kg",
-    "termekcur": "",
-    "termekmenny": "",
-    "tarfajl": " 299,00 Ft/kg",
-    "tarfajlmert": "",
-    "disc": "-25%",
-    "erv": "",
-    "termeklink": "https://online.prima.hu/s/golden-alma-ledig-10000156117?cat=3020"
-  },
-  {
-    "azon": "CBA",
-    "forras": "",
     "termeknev": "Rauch MyTea ZERO citromos tea 1.5l",
     "termekar": "289,- Ft/db",
     "termekcur": "",
@@ -9387,19 +9270,6 @@
   {
     "azon": "CBA",
     "forras": "",
-    "termeknev": "Zeller lédig",
-    "termekar": "349,- Ft/kg",
-    "termekcur": "",
-    "termekmenny": "",
-    "tarfajl": " 349,00 Ft/kg",
-    "tarfajlmert": "",
-    "disc": "-22%",
-    "erv": "",
-    "termeklink": "https://online.prima.hu/s/zeller-ledig-10000158352?cat=3010"
-  },
-  {
-    "azon": "CBA",
-    "forras": "",
     "termeknev": "Chio Stickletti burgonyás 80g",
     "termekar": "239,- Ft/db",
     "termekcur": "",
@@ -9556,19 +9426,6 @@
   {
     "azon": "CBA",
     "forras": "",
-    "termeknev": "Silan textilöblítő fresh spring 72 mosás 1800ml",
-    "termekar": "1099,- Ft/db",
-    "termekcur": "",
-    "termekmenny": "",
-    "tarfajl": " 610,56 Ft/l",
-    "tarfajlmert": "",
-    "disc": "-21%",
-    "erv": "",
-    "termeklink": "https://online.prima.hu/s/silan-textiloblito-fresh-spring-72-mosas-1800ml-10000196004?cat=701040"
-  },
-  {
-    "azon": "CBA",
-    "forras": "",
     "termeknev": "Silan textilöblítő spring lavender 72 mosás 1800ml",
     "termekar": "1099,- Ft/db",
     "termekcur": "",
@@ -9595,15 +9452,15 @@
   {
     "azon": "CBA",
     "forras": "",
-    "termeknev": "Silan textilöblítő fresh control cool fresh 58 mosás 1450ml",
+    "termeknev": "Silan textilöblítő fresh spring 72 mosás 1800ml",
     "termekar": "1099,- Ft/db",
     "termekcur": "",
     "termekmenny": "",
-    "tarfajl": " 757,93 Ft/l",
+    "tarfajl": " 610,56 Ft/l",
     "tarfajlmert": "",
     "disc": "-21%",
     "erv": "",
-    "termeklink": "https://online.prima.hu/s/silan-textiloblito-fresh-control-cool-fresh-58-mosas-1450ml-10000195993?cat=701040"
+    "termeklink": "https://online.prima.hu/s/silan-textiloblito-fresh-spring-72-mosas-1800ml-10000196004?cat=701040"
   },
   {
     "azon": "CBA",
@@ -9634,6 +9491,19 @@
   {
     "azon": "CBA",
     "forras": "",
+    "termeknev": "Silan textilöblítő fresh control cool fresh 58 mosás 1450ml",
+    "termekar": "1099,- Ft/db",
+    "termekcur": "",
+    "termekmenny": "",
+    "tarfajl": " 757,93 Ft/l",
+    "tarfajlmert": "",
+    "disc": "-21%",
+    "erv": "",
+    "termeklink": "https://online.prima.hu/s/silan-textiloblito-fresh-control-cool-fresh-58-mosas-1450ml-10000195993?cat=701040"
+  },
+  {
+    "azon": "CBA",
+    "forras": "",
     "termeknev": "Silan textilöblítő supreme elegance 48 mosás 1200ml",
     "termekar": "1099,- Ft/db",
     "termekcur": "",
@@ -9643,5 +9513,135 @@
     "disc": "-21%",
     "erv": "",
     "termeklink": "https://online.prima.hu/s/silan-textiloblito-supreme-elegance-48-mosas-1200ml-10000183843?cat=701040"
+  },
+  {
+    "azon": "CBA",
+    "forras": "",
+    "termeknev": "Teleki Villányi Nap Cuvée száraz vörösbor 14% 0.75l",
+    "termekar": "1099,- Ft/db",
+    "termekcur": "",
+    "termekmenny": "",
+    "tarfajl": " 1465,33 Ft/l",
+    "tarfajlmert": "",
+    "disc": "-21%",
+    "erv": "",
+    "termeklink": "https://online.prima.hu/s/teleki-villanyi-nap-cuvee-szaraz-vorosbor-14-0-75l-10000065766?cat=55903010"
+  },
+  {
+    "azon": "CBA",
+    "forras": "",
+    "termeknev": "Teleki Villányi Éj Cuvée száraz vörösbor 14,5% 0.75l",
+    "termekar": "1099,- Ft/db",
+    "termekcur": "",
+    "termekmenny": "",
+    "tarfajl": " 1465,33 Ft/l",
+    "tarfajlmert": "",
+    "disc": "-21%",
+    "erv": "",
+    "termeklink": "https://online.prima.hu/s/teleki-villanyi-ej-cuvee-szaraz-vorosbor-14-5-0-75l-10000065768?cat=55903010"
+  },
+  {
+    "azon": "CBA",
+    "forras": "",
+    "termeknev": "Silan textilöblítő supreme romance rózsaszín 1.2l",
+    "termekar": "1099,- Ft/db",
+    "termekcur": "",
+    "termekmenny": "",
+    "tarfajl": " 915,83 Ft/l",
+    "tarfajlmert": "",
+    "disc": "-21%",
+    "erv": "",
+    "termeklink": "https://online.prima.hu/s/silan-textiloblito-supreme-romance-rozsaszin-1-2l-10000160146?cat=701040"
+  },
+  {
+    "azon": "CBA",
+    "forras": "",
+    "termeknev": "Silan textilöblítő supreme glamour arany 1.2l",
+    "termekar": "1099,- Ft/db",
+    "termekcur": "",
+    "termekmenny": "",
+    "tarfajl": " 915,83 Ft/l",
+    "tarfajlmert": "",
+    "disc": "-21%",
+    "erv": "",
+    "termeklink": "https://online.prima.hu/s/silan-textiloblito-supreme-glamour-arany-1-2l-10000160144?cat=701040"
+  },
+  {
+    "azon": "CBA",
+    "forras": "",
+    "termeknev": "Füstli virsli classic 350g",
+    "termekar": "669,- Ft/db",
+    "termekcur": "",
+    "termekmenny": "",
+    "tarfajl": " 1911,43 Ft/kg",
+    "tarfajlmert": "",
+    "disc": "-21%",
+    "erv": "",
+    "termeklink": "https://online.prima.hu/s/fustli-virsli-classic-350g-10000022162?cat=256020"
+  },
+  {
+    "azon": "CBA",
+    "forras": "",
+    "termeknev": "Füstli sajtos 350g",
+    "termekar": "669,- Ft/db",
+    "termekcur": "",
+    "termekmenny": "",
+    "tarfajl": " 1911,43 Ft/kg",
+    "tarfajlmert": "",
+    "disc": "-21%",
+    "erv": "",
+    "termeklink": "https://online.prima.hu/s/fustli-sajtos-350g-10000175020?cat=256020"
+  },
+  {
+    "azon": "CBA",
+    "forras": "",
+    "termeknev": "Füstli csípős 350g",
+    "termekar": "669,- Ft/db",
+    "termekcur": "",
+    "termekmenny": "",
+    "tarfajl": " 1911,43 Ft/kg",
+    "tarfajlmert": "",
+    "disc": "-21%",
+    "erv": "",
+    "termeklink": "https://online.prima.hu/s/fustli-csipos-350g-10000175022?cat=256020"
+  },
+  {
+    "azon": "CBA",
+    "forras": "",
+    "termeknev": "Füstli ínyenc 350g",
+    "termekar": "669,- Ft/db",
+    "termekcur": "",
+    "termekmenny": "",
+    "tarfajl": " 1911,43 Ft/kg",
+    "tarfajlmert": "",
+    "disc": "-21%",
+    "erv": "",
+    "termeklink": "https://online.prima.hu/s/fustli-inyenc-350g-10000175021?cat=256020"
+  },
+  {
+    "azon": "CBA",
+    "forras": "",
+    "termeknev": "Sága Füstli Grill BBQ füst ízes.és paradicsomos fűszer. 350g",
+    "termekar": "669,- Ft/db",
+    "termekcur": "",
+    "termekmenny": "",
+    "tarfajl": " 1911,43 Ft/kg",
+    "tarfajlmert": "",
+    "disc": "",
+    "erv": "",
+    "termeklink": "https://online.prima.hu/s/saga-fustli-grill-bbq-fust-izes-es-paradicsomos-fuszer-350g-10000175010?cat=256020"
+  },
+  {
+    "azon": "CBA",
+    "forras": "",
+    "termeknev": "Sauska Brut pezsgő 12% 0.75l",
+    "termekar": "3999,- Ft/db",
+    "termekcur": "",
+    "termekmenny": "",
+    "tarfajl": " 5332,00 Ft/l",
+    "tarfajlmert": "",
+    "disc": "",
+    "erv": "",
+    "termeklink": "https://online.prima.hu/s/sauska-brut-pezsgo-12-0-75l-10000207803?cat=55907010"
   }
 ]
