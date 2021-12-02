@@ -1,6 +1,180 @@
 [
     {
         "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/aranygaluska-ahogy-nagymamam-kesziti",
+        "h1": "Aranygaluska ahogy a nagymamám készíti",
+        "txtlength": 19617
+    },
+    {
+        "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/hagyomanyos-zserbo-viciko-konyhajabol",
+        "h1": "Hagyományos zserbó Vicikó konyhájából",
+        "txtlength": 17844
+    },
+    {
+        "hostname": "hataratkelo.blog.hu",
+        "pagelink": "https://hataratkelo.blog.hu/2021/11/22/hazvasarlasi_mizeria_a_videki_angliaban",
+        "h1": "Házvásárlási mizéria a vidéki Angliában",
+        "txtlength": 72618
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/uzlet/20211201/jaszai-gellert-egy-uj-vallalatot-epitunk-a-felvasarlasok-uj-dimenziokba-emelik-a-4ig-t-513848",
+        "h1": "Jászai Gellért: egy új vállalatot építünk, a felvásárlások új dimenziókba emelik a 4iG-t",
+        "txtlength": 27836
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20211130_jobbik_jakab_peter_szabo_balazs_etikai_vizsgalat_kizaras",
+        "h1": "Etikai eljárást kezdeményezett Jakab Péter ellen, kizárták a Jobbikból. Vagy fordítva?",
+        "txtlength": 22175
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/kozelet/20211201/a-kovetkezo-kormanyra-hagyott-orokseg/",
+        "h1": "A következő kormányra hagyott örökség",
+        "txtlength": 20623
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/kozelet/20211202/nincs-felzarkozas-erdekegyesites-nelkul/",
+        "h1": "Nincs felzárkózás érdekegyesítés nélkül",
+        "txtlength": 20223
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20211129_politikatorteneti_intezet_per_kompenzacio_kikoltozes",
+        "h1": "Nem ért véget a harc az állam és a Politikatörténeti Intézet között",
+        "txtlength": 18826
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20211201_neprajzi_muzeum_varosliget_baan_laszlo_liget_budapest_projekt_interju",
+        "h1": "Baán László: Világszínvonalú épületben kap új otthont a Néprajzi Múzeum",
+        "txtlength": 17690
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/global/20211201/olyan-szuperhatalomma-tenne-az-eu-t-a-brusszeli-mesterterv-ami-kinat-is-lenyomna-513888",
+        "h1": "Olyan szuperhatalommá tenné az EU-t a brüsszeli mesterterv, ami Kínát is lenyomná",
+        "txtlength": 17086
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20211202/duplazott-es-regionalis-cegge-valt-a-gloster-a-minero-it-akviziciojaval-513814",
+        "h1": "Duplázott és regionális céggé vált a Gloster a Minero IT akvizíciójával",
+        "txtlength": 15104
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/karrier/20211201/itt-a-legujabb-terv-az-elvandorlas-megallitasara-drasztikusan-hozzanyulnanak-a-minimalberhez-1119827",
+        "h1": "Itt a legújabb terv az elvándorlás megállítására: drasztikusan hozzányúlnának a minimálbérhez",
+        "txtlength": 15059
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/kapcsolat/utolso-kinai-csaszarne/",
+        "h1": "Az utolsó kínai uralkodónő, Ce-hszi ágyasból lett császárné: fél évszázadon át megtartotta a hatalmat",
+        "txtlength": 14791
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/otthon/20211129/kilatastalan-helyzetben-rengeteg-idos-magyar-toredekaron-hirdetik-az-ertekes-ingatlanjaikat-1119687",
+        "h1": "Kilátástalan helyzetben rengeteg idős magyar: töredékáron hirdetik az értékes ingatlanjaikat",
+        "txtlength": 14648
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2021/11/30/az-arupiac-gatlastalan-kiralyai-a-nyersanyag-kereskedok",
+        "h1": "AZ ÁRUPIAC GÁTLÁSTALAN KIRÁLYAI: A NYERSANYAG-KERESKEDŐK",
+        "txtlength": 12419
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/lajfhekk/adventi-koszoru-2021-trend-utolso-pillanat-diy/",
+        "h1": "Adventi koszorú az utolsó pillanatban",
+        "txtlength": 9176
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/12/01/mit-uzen-a-magyar-wannsee",
+        "h1": "Mit üzen a „magyar Wannsee”?",
+        "txtlength": 25085
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/12/01/utolag-talan-az-a-legmegdobbentobb-hogy-az-embereket-sokkolta-hogy-hitler-valoban-megtette-amit-megigert",
+        "h1": "„Utólag talán az a legmegdöbbentőbb, hogy az embereket sokkolta, hogy Hitler valóban megtette, amit megígért”",
+        "txtlength": 23642
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kulfold/2021/12/01/jogallamisagi-mechanizmus-mi-a-tet-europai-unio-birosag-allasfoglalas-magyarorszag-lengyelorszag-eu",
+        "h1": "Mérföldkőnek számító indítvány jön a magyar–lengyel tandemmel szembeni EU-s jogállamisági mechanizmusról",
+        "txtlength": 16775
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/elet/20211201_HIV_fertozott_anya_kismama_gyerek_szules",
+        "h1": "„Kérdezték, van-e papírom arról, nálam hogyan kell levezetni a szülést” – így lett egészséges fia egy HIV-vel élő magyar nőnek",
+        "txtlength": 16220
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/belfold/2021/12/02/kozos-koltseg-havi-kozel-300-ezer-lakhatas-tarsashaz",
+        "h1": "Eldurvult a budai társasházi háború, háromszázezres havi díjról küldtek papírt a lakónak",
+        "txtlength": 14490
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kultura/2021/12/01/decemberi-sorozatok-sorozatpremier-evadpremier-netflix-hbo-go-amazon-prime-epic-drama/",
+        "h1": "Régen látott sorozatdömping jön decemberben",
+        "txtlength": 13885
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/eurologus/20211202_fotanacsnoki_inditvany_jogallamisag",
+        "h1": "Pofon a kormánynak: az EU Bíróság főtanácsnoka elutasítaná a magyarok keresetét a jogállamisági ügyben",
+        "txtlength": 11541
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2021/12/02/simonka-gyorgy-bekes-megye-pusztaottlaka-paprikakert-tesz-magyar-allamkincstar-transparency-international/",
+        "h1": "Parlamenti segítséggel százmilliók visszafizetését próbálta megúszni Simonka György egykori cége",
+        "txtlength": 11269
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/gazdasag/20211202_karacsony_ajandek_hitel_bank360",
+        "h1": "5 tipp, hogy a családi kassza is túlélje az ünnepi nagybevásárlást",
+        "txtlength": 10827
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kultura/2021/12/01/rifkin-fesztivalja-kritika-woody-allen/",
+        "h1": "Decens negyvenesre nyomul a nyolcvanéves öregúr – mi ez, ha nem az új Woody Allen-film?",
+        "txtlength": 10243
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/eszkombajn/2021/12/02/barbados-project-harp-uragyu-muhold",
+        "h1": "Létezett egy 40 méteres űrágyú, amivel műholdakat lőttek volna Föld körüli pályára",
+        "txtlength": 10182
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/eltunes-rejtely-betegseg-nyomozas/w7twhmd",
+        "h1": "Nyilvános levélben köszönt el családjától a kényszerbeteg asszony – Öt gyermeke és a párja kérleli az eltűnt édesanyát: „Gyere haza, anya!”",
+        "txtlength": 9225
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/budapest-iskolai-bantalmazas/5x90dt5?sl_ps=d_4",
+        "h1": "„Buta libák vagytok” – Az egész osztály előtt alázott egy pedagógus két tinédzsert egy budapesti iskolában",
+        "txtlength": 9213
+    },
+    {
+        "hostname": "nosalty.hu",
         "pagelink": "https://www.nosalty.hu/recept/karacsonyi-rogton-puha-mezeskalacs",
         "h1": "Karácsonyi rögtön puha mézeskalács",
         "txtlength": 20387
