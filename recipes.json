@@ -1,68 +1,6 @@
 [
     {
-        "timestamp": 1637924435078,
-        "name": "Meggyes piskóta",
-        "lead": "Először a szemünkkel kóstolunk, de az orrunk ébreszti fel a gyomrunkat.",
-        "phrase": "piskóta",
-        "link": "https://www.nosalty.hu/recept/meggyes-piskota",
-        "ingred": [
-            "tojás",
-            "porcukor",
-            "liszt",
-            "meggy",
-            "sütőpor"
-        ]
-    },
-    {
-        "timestamp": 1637924435078,
-        "name": "Eredeti görög saláta",
-        "lead": "A bakonyi módon készített ételek a híres Gundel Károlynak köszönhetők, aki először házasította a húsételeket a gombapaprikással. Ezzel egy egész ételcsaládot hozott létre mely közös jellemzője a gombás ragu. Csiperkegombával is finom, de legjobbnak az erdei gombával.",
-        "phrase": "saláta",
-        "link": "https://www.nosalty.hu/recept/eredeti-gorog-salata",
-        "ingred": [
-            "paradicsom",
-            "kígyóuborka",
-            "lila hagyma",
-            "olajbogyó",
-            "feta",
-            "olívaolaj",
-            "citrom",
-            "bazsalikom"
-        ]
-    },
-    {
-        "timestamp": 1637924435078,
-        "name": "Dubarry csirkemell ahogy Zsuzsi készíti",
-        "lead": "Jó minőségű alapanyagból könnyű rosszat főzni, de rosszból sohasem lehet jót.",
-        "phrase": "csirkemell",
-        "link": "https://www.nosalty.hu/recept/dubarry-csirkemell-ahogy-zsuzsi-kesziti",
-        "ingred": [
-            "karfiol",
-            "csirkemell",
-            "olaj",
-            "vaj",
-            "liszt",
-            "tej",
-            "szerecsendió",
-            "trappista",
-            "tejföl"
-        ]
-    },
-    {
-        "timestamp": 1637924435078,
-        "name": "Egyszerű káposztasaláta pussycattól",
-        "lead": "Minden egyes étel és élmény, amit egyedül élünk meg, kevésbé értékes, mint ha azokkal osztjuk meg, akiket szeretünk",
-        "phrase": "saláta",
-        "link": "https://www.nosalty.hu/recept/egyszeru-kaposztasalata-pussycattol",
-        "ingred": [
-            "káposzta",
-            "ecet",
-            "köménymag",
-            "hagyma"
-        ]
-    },
-    {
-        "timestamp": 1612051642090,
+        "timestamp": 1638529244681,
         "name": "Cézár saláta",
         "lead": "Nekem ezt jelenti ez az étel: az otthont, a szépséget, a tápláló szeretetet és az élet örök körforgásának érzését.",
         "phrase": "saláta",
@@ -84,7 +22,7 @@
         ]
     },
     {
-        "timestamp": 1612051867188,
+        "timestamp": 1638529244681,
         "name": "Tepsiben sült csirkecomb",
         "lead": "A szerelem olyan, mint az étel vagy az ital. Lehet ezek nélkül élni?",
         "phrase": "csirke",
@@ -99,7 +37,7 @@
         ]
     },
     {
-        "timestamp": 1612051867188,
+        "timestamp": 1638529244681,
         "name": "Montenegrói tepsis krumpli",
         "lead": "Próbáld ki, nagyon finom!",
         "phrase": "krumpli",
@@ -115,7 +53,7 @@
         ]
     },
     {
-        "timestamp": 1612051867188,
+        "timestamp": 1638529244681,
         "name": "Gyors tehéntúrós csöröge",
         "lead": "Amit a tányérra teszek az nem étel, hanem a lelkem és a szenvedélyem.",
         "phrase": "finom",
@@ -3197,6 +3135,68 @@
             "köménymag",
             "virsli",
             "tejföl"
+        ]
+    },
+    {
+        "timestamp": 1637924435078,
+        "name": "Meggyes piskóta",
+        "lead": "Először a szemünkkel kóstolunk, de az orrunk ébreszti fel a gyomrunkat.",
+        "phrase": "piskóta",
+        "link": "https://www.nosalty.hu/recept/meggyes-piskota",
+        "ingred": [
+            "tojás",
+            "porcukor",
+            "liszt",
+            "meggy",
+            "sütőpor"
+        ]
+    },
+    {
+        "timestamp": 1637924435078,
+        "name": "Eredeti görög saláta",
+        "lead": "A bakonyi módon készített ételek a híres Gundel Károlynak köszönhetők, aki először házasította a húsételeket a gombapaprikással. Ezzel egy egész ételcsaládot hozott létre mely közös jellemzője a gombás ragu. Csiperkegombával is finom, de legjobbnak az erdei gombával.",
+        "phrase": "saláta",
+        "link": "https://www.nosalty.hu/recept/eredeti-gorog-salata",
+        "ingred": [
+            "paradicsom",
+            "kígyóuborka",
+            "lila hagyma",
+            "olajbogyó",
+            "feta",
+            "olívaolaj",
+            "citrom",
+            "bazsalikom"
+        ]
+    },
+    {
+        "timestamp": 1637924435078,
+        "name": "Dubarry csirkemell ahogy Zsuzsi készíti",
+        "lead": "Jó minőségű alapanyagból könnyű rosszat főzni, de rosszból sohasem lehet jót.",
+        "phrase": "csirkemell",
+        "link": "https://www.nosalty.hu/recept/dubarry-csirkemell-ahogy-zsuzsi-kesziti",
+        "ingred": [
+            "karfiol",
+            "csirkemell",
+            "olaj",
+            "vaj",
+            "liszt",
+            "tej",
+            "szerecsendió",
+            "trappista",
+            "tejföl"
+        ]
+    },
+    {
+        "timestamp": 1637924435078,
+        "name": "Egyszerű káposztasaláta pussycattól",
+        "lead": "Minden egyes étel és élmény, amit egyedül élünk meg, kevésbé értékes, mint ha azokkal osztjuk meg, akiket szeretünk",
+        "phrase": "saláta",
+        "link": "https://www.nosalty.hu/recept/egyszeru-kaposztasalata-pussycattol",
+        "ingred": [
+            "káposzta",
+            "ecet",
+            "köménymag",
+            "hagyma"
         ]
     }
 ]

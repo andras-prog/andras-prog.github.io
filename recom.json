@@ -1,6 +1,198 @@
 [
     {
         "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/hagyomanyos-edes-fank",
+        "h1": "Hagyományos édes fánk",
+        "txtlength": 18985
+    },
+    {
+        "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/tarkonyos-csirkeraguleves-tarkonyos-raguleves-3",
+        "h1": "Tárkonyos csirkeraguleves (Tárkonyos raguleves 3.)",
+        "txtlength": 15946
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/szilvalekvaros-makos-rakott-teszta.recept",
+        "h1": "SZILVALEKVÁROS-MÁKOS RAKOTT TÉSZTA BOSZORKÁNYHABBAL",
+        "txtlength": 11160
+    },
+    {
+        "hostname": "kiszamolo.hu",
+        "pagelink": "https://kiszamolo.hu/katasok-szolgalati-ideje/",
+        "h1": "Katások szolgálati ideje",
+        "txtlength": 32113
+    },
+    {
+        "hostname": "alapblog.hu",
+        "pagelink": "https://alapblog.hu/euromilliardok-johetnek-magyarorszagra-es-a-regio-mas-orszagaiba-legalabbis-remeljuk/",
+        "h1": "Eurómilliárdok jöhetnek Magyarországra és a régió más országaiba – legalábbis reméljük…",
+        "txtlength": 11730
+    },
+    {
+        "hostname": "efesasanisimasa.com",
+        "pagelink": "https://efesasanisimasa.com/2021/11/30/a-feher-lotusz-the-white-lotus-tv-series-2021/",
+        "h1": "A Fehér Lótusz (The White Lotus, TV-Series, 2021-)",
+        "txtlength": 9789
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2021/12/03/segithetnek-e-rajtunk-a-tenyek-ebben-az-orult-vilagban",
+        "h1": "SEGÍTHETNEK-E RAJTUNK A TÉNYEK EBBEN AZ ŐRÜLT VILÁGBAN?",
+        "txtlength": 31580
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20211202_ciganyugy_mi_legyen_a_kotelezo_iskolai_korhatarral_es_a_szakkepzessel",
+        "h1": "Cigányügy: mi legyen a kötelező iskolai korhatárral és a szakképzéssel?",
+        "txtlength": 25709
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/hitel/20211202/csunya-idoszak-jon-a-hazai-bankokban-mindenkinek-fajni-fog-ami-rank-var-1119860",
+        "h1": "Csúnya időszak jön a hazai bankokban: mindenkinek fájni fog, ami ránk vár",
+        "txtlength": 21350
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vallalat/20211203/halsperma-minositestol-az-urbe-a-kozbeszerzesi-bajnok-4ig-utja-a-legnagyobb-magyar-cegek-koze/",
+        "h1": "Halsperma-minősítéstől az űrbe: a közbeszerzési bajnok 4iG útja a legnagyobb magyar cégek közé",
+        "txtlength": 19695
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/kozelet/20211202/mi-lesz-a-fovarosi-kozvilagitassal-miutan-az-ahhoz-aramot-szolgaltato-ceg-bedolt/",
+        "h1": "Mi lesz a fővárosi közvilágítással, miután az ahhoz áramot szolgáltató cég bedőlt?",
+        "txtlength": 19238
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20211202_szalloda_per_gemesi_koltsegvetes_g_magistratus_kozvagyon",
+        "h1": "Tátongó lyukat ütöttek Gémesiék a gödöllői büdzsén",
+        "txtlength": 17828
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20211203_orban_viktor_belfold_kossuth_radio_interju",
+        "h1": "Orbán Viktor: Mi azt akarjuk, hogy az emberek kevesebbet fizessenek a rezsiért, a baloldal meg azt akarja, hogy többet fizessenek",
+        "txtlength": 17438
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/global/20211203/fenyegetozik-a-nato-de-megis-mit-tud-csinalni-ha-vlagyimir-putyin-tenyleg-megtamadja-ukrajnat-514122",
+        "h1": "Fenyegetőzik a NATO, de mégis mit tud csinálni, ha Vlagyimir Putyin tényleg megtámadja Ukrajnát?",
+        "txtlength": 16814
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/vasarlas/20211130/mar-csak-ez-hianyzott-dragulnak-a-magyarok-kedvenc-edessegei-karacsony-elott-1119787",
+        "h1": "Már csak ez hiányzott: drágulnak a magyarok kedvenc édességei karácsony előtt",
+        "txtlength": 15279
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/uzlet/20211203/folytatodik-a-csapkodas-a-tozsdeken-ma-komoly-visszapattanas-latszik-514248",
+        "h1": "Folytatódik a csapkodás a tőzsdéken, ma komoly visszapattanás látszik ",
+        "txtlength": 15137
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/bank/20211203/hatalmas-szakadekot-talaltak-a-vilag-bankrendszereben-rohamosan-fogy-az-ido-a-megoldasra-514198",
+        "h1": "Hatalmas szakadékot találtak a világ bankrendszerében, rohamosan fogy az idő a megoldásra",
+        "txtlength": 14090
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/szepseg/huangluo-hosszu-haj/",
+        "h1": "A kínai faluban minden nőnek méteres haja van: a lehető leghosszabbra növesztik a hosszú életért",
+        "txtlength": 10654
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/lajfhekk/miert-teli-a-teliszalami/",
+        "h1": "Kiderült, miért ilyen drága a téliszalámi",
+        "txtlength": 8425
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://qubit.hu/2021/12/03/segithetnek-e-rajtunk-a-tenyek-ebben-az-orult-vilagban",
+        "h1": "SEGÍTHETNEK-E RAJTUNK A TÉNYEK EBBEN AZ ŐRÜLT VILÁGBAN?",
+        "txtlength": 31480
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/belfold/2021/12/02/kormanyinfo-gulyas-gergely-koronavirus-jarvanykezeles",
+        "h1": "Gulyás: Az Egyesült Államoknak nagyobb problémái vannak a demokráciával, mint Magyarországnak",
+        "txtlength": 21825
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/politika/kormanyinfo-friss-dontesek-koronavirus-intezkedesek-bejelentesek/bhws1nb",
+        "h1": "Gulyás Gergely közölte: a harmadik oltáshoz köthetik a védettségi igazolvány érvényességét",
+        "txtlength": 17813
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20211202_Peterfalvi_Pegasus_jelentes_NAIH_Amnesty_lehallgatas_megfigyeles",
+        "h1": "Péterfalvi az Amnestyt hibáztatja, amiért nem készült el a Pegasus-jelentéssel",
+        "txtlength": 15399
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kulfold/2021/12/02/karacsony-gergely-v4-fovarosok-polgarmesterei-a-kongresszus-albizottsag-elott",
+        "h1": "Karácsony bocsánatot kért Orbán miatt az amerikai törvényhozás albizottsága előtt",
+        "txtlength": 14584
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/gazdasag/2021/12/02/a-draga-gaz-es-aram-jovore-nagyon-odacsap-a-fovarosi-budzsenek-a-koltsegek-nonek-a-bevetelek-nem",
+        "h1": "A drága gáz és áram jövőre odacsap Budapestnek",
+        "txtlength": 13735
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/12/02/a-gucci-haz-arulas-es-gyilkossag-sok-humorral-elmeselve",
+        "h1": "A Gucci-ház: árulás és gyilkosság, sok humorral elmesélve",
+        "txtlength": 13277
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20211202_Karacsony_Gergely_az_amerikai_kongresszusban",
+        "h1": "Karácsony Gergely az amerikai kongresszusban: az Orbán-kormány Putyin módszereit alkalmazza",
+        "txtlength": 13078
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/sport/2021/12/02/kezi-vb-magyarorszag-szlovakia-elo/",
+        "h1": "Szenvedős első félidő után a másodikban legyűrte a szlovákokat a női kézicsapat",
+        "txtlength": 12224
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/sztarvilag/filmklikk/eszaki-vizeken-ajanlo-hajoorvos-hbo/ve2hrml",
+        "h1": "Északi vizeken: Colin Farrell és Jack O’Connell a szereplőgárda élén az HBO új sorozatában",
+        "txtlength": 11454
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2021/12/02/birosagi-vegrehajto-elnok-schadl-gyorgy-letartoztatas-polt-peter-hirzarlat/",
+        "h1": "Hetek óta teljes a hírzárlat a végrehajtók elnökének letartóztatásáról",
+        "txtlength": 11443
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20211203_Orban_Viktor_Kossuth_Radio",
+        "h1": "Orbán Viktor: A kormány mindenkit meg fog keresni személyesen a harmadik oltás miatt",
+        "txtlength": 11299
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2021/12/02/szuleszeti-eroszak-tuntetes-anyak-video/",
+        "h1": "„Hogy ezt megteszik egy kiszolgáltatott anyával, szörnyű. De egy gyerekkel?”",
+        "txtlength": 10892
+    },
+    {
+        "hostname": "nosalty.hu",
         "pagelink": "https://www.nosalty.hu/recept/aranygaluska-ahogy-nagymamam-kesziti",
         "h1": "Aranygaluska ahogy a nagymamám készíti",
         "txtlength": 19617
