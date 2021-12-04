@@ -1,6 +1,192 @@
 [
     {
         "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/paprikas-krumpli-kolbasszal",
+        "h1": "Paprikás krumpli kolbásszal",
+        "txtlength": 17749
+    },
+    {
+        "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/ropogos-omlos-libacomb",
+        "h1": "Ropogós - omlós libacomb",
+        "txtlength": 15833
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/adventi-fonott-kalacs.recept",
+        "h1": "ADVENTI FONOTT KALÁCS",
+        "txtlength": 12448
+    },
+    {
+        "hostname": "kulturpart.hu",
+        "pagelink": "https://kulturpart.blog.hu/2021/12/03/csaladi_uzelmek_275",
+        "h1": "CSALÁDI ÜZELMEK",
+        "txtlength": 9475
+    },
+    {
+        "hostname": "alapblog.hu",
+        "pagelink": "https://alapblog.hu/inflacio-latom-megjottel-kerlek-foglalj-helyet-kozottunk/",
+        "h1": "Infláció látom megjöttél, kérlek foglalj helyet közöttünk!",
+        "txtlength": 7430
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20211130_mathe_zsuzsa_irodalomoktatas_kommentar_klub_genderelmelet",
+        "h1": "„A hűség manapság az egyik legnagyobb értékké válik” – Máthé Zsuzsa a Mandinernek",
+        "txtlength": 20262
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/uzlet/20211203/utottek-az-amerikai-tozsdeket-nem-kimeltek-a-bitcoint-es-az-ethereumot-sem-514248",
+        "h1": "Ütötték az amerikai tőzsdéket - Nem kímélték a bitcoint és az ethereumot sem ",
+        "txtlength": 20066
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vallalat/20211203/a-vilag-legnagyobb-etelkiszallito-cegei-kuzdenek-egymassal-a-magyar-piacon/",
+        "h1": "A világ legnagyobb ételkiszállító cégei küzdenek egymással a magyar piacon",
+        "txtlength": 18148
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/kozelet/20211204/a-dijnyertes-cikksorozat-amiert-kipakoltattak-kollegank-taskajat-a-strasbourgi-lidlben/",
+        "h1": "A díjnyertes cikksorozat, amiért kipakoltatták kollégánk táskáját a strasbourgi Lidlben",
+        "txtlength": 17937
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20211201_civilek_ellen_vesztett_pert_pecs_baloldali_polgarmestere",
+        "h1": "Civilek ellen vesztett pert Pécs baloldali polgármestere ",
+        "txtlength": 17395
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20211203_varoshaza_ugy_bfvk_berki_zsolt_barts_j_balazs",
+        "h1": "Fővárosi vagyonkezelő: soha nem álltunk szerződésben Berki Zsolttal",
+        "txtlength": 17290
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/global/20211203/a-vilag-egyik-legveszelyesebb-terrorszervezete-altal-uralt-orszag-amely-amerika-uj-afganisztanja-lehet-513918",
+        "h1": "A világ egyik legveszélyesebb terrorszervezete által uralt ország, amely Amerika új Afganisztánja lehet",
+        "txtlength": 16949
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/bank/20211203/lassulas-jon-a-magyar-hitelpiacon-igy-latja-most-az-mnb-a-bankszektort-514358",
+        "h1": "Lassulás jön a magyar hitelpiacon - Így látja most az MNB a bankszektort",
+        "txtlength": 16175
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/kapcsolat/szules-es-szuletes/",
+        "h1": "„Karácsonykor normális gyereket se szülnek, nemhogy ilyet!” A terhesség és a szülés alatt a méltóság mindenkit megillet",
+        "txtlength": 14231
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/egeszseg/20211203/erre-figyelmeztetnek-a-gyogyszereszek-a-negyedik-hullamban-ezt-fontold-meg-mielott-patikaba-indulsz-1119910",
+        "h1": "Erre figyelmeztetnek a gyógyszerészek a negyedik hullámban: ezt fontold meg mielőtt patikába indulsz",
+        "txtlength": 13433
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2021/12/02/latvanyosan-sok-aggaszto-mutacioval-rendelkezik-az-omikron-de-meg-nem-tudni-milyen-lesz-az-egyuttes-hatasuk",
+        "h1": "LÁTVÁNYOSAN SOK AGGASZTÓ MUTÁCIÓVAL RENDELKEZIK AZ OMIKRON, DE MÉG NEM TUDNI, MILYEN LESZ AZ EGYÜTTES HATÁSUK",
+        "txtlength": 13304
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/otthon/20211130/sorra-szedi-aldozatait-a-magyar-otthonok-nema-gyilkosa-nagyobb-a-veszely-mint-valaha-1119792",
+        "h1": "Sorra szedi áldozatait a magyar otthonok néma gyilkosa: nagyobb a veszély, mint valaha",
+        "txtlength": 13005
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/lajfhekk/milyen-csokimikulast-vegyek/",
+        "h1": "Így kerüld el a gagyi csokimikulásokat!",
+        "txtlength": 8396
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/12/03/testepito-volt-hegyet-maszott-nem-akarta-beoltatni-magat-koronavirusban-halt-meg",
+        "h1": "Testépítő volt, hegyet mászott, nem akarta beoltatni magát - koronavírusban halt meg",
+        "txtlength": 15504
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/12/03/4-evet-kapott-az-5-gyermekes-feherorosz-csaladanya-aki-szerette-viktor-coj-legendas-dalait-es-a-teadelutanokat",
+        "h1": "4 évet kapott az 5 gyermekes fehérorosz családanya, aki szerette Viktor Coj legendás dalait és a teadélutánokat",
+        "txtlength": 15456
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kulfold/2021/12/03/kurz-lemondas-ausztria-kormanyvalsag/",
+        "h1": "„Olasz állapotok” Bécsben: öt év alatt jön a hetedik kormány, egy nap alatt hárman mondtak le",
+        "txtlength": 14964
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/gazdasag/2021/12/04/az-alapveto-elelmiszerek-aranak-befagyasztasa-nem-lenne-eszszeru-de-ez-nem-zarja-ki-hogy-bevezetik",
+        "h1": "Az alapvető élelmiszerek árának befagyasztása nem lenne észszerű, ettől még simán bevezethetik",
+        "txtlength": 14583
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20211203_gyerekek_oltas_koronavirus_gyermekorvos",
+        "h1": "„Nem tudok hirtelen 250 családot felhívni, akarnak-e oltást a gyerekeknek”",
+        "txtlength": 14078
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/sport/forma-1/2021/12/03/lewis-hamilton-max-verstappen-elso-es-nyolcadik-vb-cim/",
+        "h1": "Elszoktunk már tőle, de újra körömrágósan izgalmas a Forma-1-es év vége",
+        "txtlength": 13858
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/gazdasag/20211204_onkormanyzat_koltsegvetes_2022",
+        "h1": "Elmaradó útépítések, le nem vágott fű, visszafogott sportfejlesztések - nehéz év elé néznek az önkormányzatok",
+        "txtlength": 13359
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kulfold/2021/12/03/belarusz-lengyelorszag-hatar-migracio-lukasenko-eu",
+        "h1": "Nem jött be Lukasenko menekülthulláma az EU ellen",
+        "txtlength": 13078
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/szorakozas/2021/12/04/uj-kilatopont-a-bolcso-hegyen-kis-torony-nagy-korpanoramaval",
+        "h1": "Új kilátópont a Bölcső-hegyen: kis torony nagy körpanorámával",
+        "txtlength": 10860
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/tudomany/2021/12/04/miert-10-nap-a-karanten-es-mi-tortenik-ez-alatt-a-testunkben/",
+        "h1": "Miért 10 nap a karantén, és mi történik ez alatt a testünkben?",
+        "txtlength": 10341
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/zagyvarekas-gyilkos-felmentes-aldozat/bnt7msk",
+        "h1": "Elképesztő: Elégett felvételen lehetett Magdi néni igazi gyilkosa",
+        "txtlength": 9675
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/cegauto/20211204_ne_eroltessuk_ra_mindenkire_a_villanyautot_a_toyota_tobb_labon_kivan_allni",
+        "h1": "Ne erőltessük rá mindenkire a villanyautókat: a Toyota többfrontos támadást indít",
+        "txtlength": 9479
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/et-foldonkivuli-film-hivatal-kavehaz-adakozas-segelyszervezet/lrw33qg",
+        "h1": "E. T. indította be a százezres adakozási akciót",
+        "txtlength": 9157
+    },
+    {
+        "hostname": "nosalty.hu",
         "pagelink": "https://www.nosalty.hu/recept/hagyomanyos-edes-fank",
         "h1": "Hagyományos édes fánk",
         "txtlength": 18985
