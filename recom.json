@@ -1,6 +1,180 @@
 [
     {
         "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/igazi-strandos-langos",
+        "h1": "Igazi strandos lángos",
+        "txtlength": 17350
+    },
+    {
+        "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/kinai-teszta-ahogy-bufeben-keszul",
+        "h1": "Kínai tészta, ahogy a büfében készül",
+        "txtlength": 15731
+    },
+    {
+        "hostname": "hataratkelo.blog.hu",
+        "pagelink": "https://hataratkelo.blog.hu/2021/11/29/elvis_es_tom_sawyer_nyomaban#c41071176",
+        "h1": "Elvis és Tom Sawyer nyomában",
+        "txtlength": 78004
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20211203_pazmany_peter_katolikus_egyetem_foldvari_olah_csaba_egyetem",
+        "h1": "Vadnyugat és „katolikus Disneyland” a Pilisben – könyv a Pázmány-kampuszról",
+        "txtlength": 23576
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20211201_szalai_vivien_interju_tv2_media",
+        "h1": "Kifejezetten ütésálló darab vagyok – Szalai Vivien a Mandinernek",
+        "txtlength": 22435
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://sport.mandiner.hu/cikk/20211205_a_csehorszag_elleni_gyozelemmel_a_magyar_valogatott_kiharcolta_a_tovabbjutast_a_kozepdontobe_a_spanyolorszagi_noi_kezilabda_vilagbajnoksagon",
+        "h1": "A Csehország elleni győzelemmel a magyar válogatott kiharcolta a továbbjutást a középdöntőbe a spanyolországi női kézilabda-világbajnokságon",
+        "txtlength": 22316
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20211205/szertefoszlott-remenyek-igy-valik-ujra-pokoliva-az-oltottak-elete-is-514384",
+        "h1": "Szertefoszlott remények: így válik újra pokolivá az oltottak élete is",
+        "txtlength": 19817
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2021/12/05/szendrey-julia-barki-lehet-mikulas",
+        "h1": "SZENDREY JÚLIA: BÁRKI LEHET MIKULÁS!",
+        "txtlength": 17852
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/gazdasag/20211203/vege-a-penzosztasnak-igy-erhet-veget-a-bo-7-esztendo-a-hazai-bankokban-1119907",
+        "h1": "Vége a pénzosztásnak: így érhet véget a 7 bő esztendő a hazai bankokban",
+        "txtlength": 17641
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/biztositas/20211204/reg-volt-ilyen-sok-tuzvesz-a-magyar-otthonokban-ezert-van-ennyire-sok-tragedia-1119793",
+        "h1": "Rég volt ilyen sok tűzvész a magyar otthonokban: ezért van ennyire sok tragédia",
+        "txtlength": 17269
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/elet/20211204/a-tersegben-csak-magyarorszagon-nott-a-legfontosabb-termekenysegi-mutato/",
+        "h1": "A térségben csak Magyarországon nőtt a legfontosabb termékenységi mutató",
+        "txtlength": 17173
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/bank/20211205/viharosan-terjed-az-uj-vasarlasi-orulet-a-hatosagok-egyre-jobban-aggodnak-514382",
+        "h1": "Viharosan terjed az új vásárlási őrület, a hatóságok egyre jobban aggódnak",
+        "txtlength": 15745
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/global/20211204/csodafegyverrel-mattolnak-putyinek-amerikat-az-uj-fegyverkezesi-versenyben-513308",
+        "h1": "Csodafegyverrel mattolnák Putyinék Amerikát az új fegyverkezési versenyben",
+        "txtlength": 15437
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/adat/20211203/fordultak-a-visegradi-jarvanygorbek-megtorpant-a-meredek-felfutas/",
+        "h1": "Fordultak a visegrádi járványgörbék, megtorpant a meredek felfutás",
+        "txtlength": 14477
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/kapcsolat/walburga-dolly-oesterreich/",
+        "h1": "Évekig a padláson rejtegette szeretőjét a gazdag textilgyáros felesége: Dolly Oesterreich különös története",
+        "txtlength": 12807
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/lajfhekk/mosogatas-tippek-igy-lesz-konnyebb/",
+        "h1": "Mosogatási tippek",
+        "txtlength": 7677
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/interju/2021/12/04/sebastian-marroquin-juan-pablo-escobar-interju",
+        "h1": "Bocsánatot kérek a véreskezű apámért, nem felejtést",
+        "txtlength": 23030
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/gazdasag/2021/12/05/hataron-tuli-magyar-tamogataspolitika-ner-kornyezo-kormanyok-konfliktus",
+        "h1": "Fontos a határon túli nyomulás a magyar kormánynak, de a környékbeli szövetségeket azért nem kockáztatja",
+        "txtlength": 19740
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2021/12/04/uccu-alapitvany-jozsefvaros-ciganysag-roma-kultura-parbeszed-riport/",
+        "h1": "„Akik elutasítják a cigányságot, igazából nem is ismerik azt, amit elutasítanak”",
+        "txtlength": 19080
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/tudomany/2021/12/04/klimaszorongas-okoszorongas-nem-mi-gyerekek-okoztuk-ezeket-a-valsagokat",
+        "h1": "Mint amikor a sci-fikben ott van valami félelmetes, hatalmas dolog az égen",
+        "txtlength": 17772
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://qubit.hu/2021/12/05/szendrey-julia-barki-lehet-mikulas",
+        "h1": "SZENDREY JÚLIA: BÁRKI LEHET MIKULÁS!",
+        "txtlength": 17120
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/szorakozas/2021/12/04/the-princes-and-the-press-bbc-vilmos-herceg-harry-herceg-meghan-markle-kate-middleton-ii-erzsebet-karoly-herceg-kiralyi-csalad/",
+        "h1": "„Bármit is akar Meghan, megkapja” – így csatázott Vilmos és Harry herceg a médiával a BBC új dokuja szerint",
+        "txtlength": 15968
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20211204_Idosek_es_fiatalok_kozott_kell_hezitalni_az_intenziv_osztalyon",
+        "h1": "Az életmentő intenzíves gép, amelyről lejönni is rendkívül kockázatos",
+        "txtlength": 15342
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2021/12/05/europai-unio-birosaga-stop-soros-elmarasztalas-sandor-zsuzsa-velemeny/",
+        "h1": "Sándor Zsuzsa: Teljesen jogos a „magyarlengyelezés”",
+        "txtlength": 15264
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/gazdasag/20211205_Es_akkor_Matolcsy_inflacio_gyogyszer_onkormanyzat",
+        "h1": "És akkor Matolcsy bemondta a rémálom-forgatókönyvet",
+        "txtlength": 12813
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/utolso-seta-gellert-szallo-zaras-elott/kkvvscz?sl_ps=d_6",
+        "h1": "Ami Párizsnak az Eiffel-torony, az Budapestnek a patinás hotel: utolsó séta a Gellért szállóban, zárás előtt – fotók",
+        "txtlength": 12066
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/brandcontent/20211202_Pro_bono__A_vedoi_tevekenyseg_mindig_magasztos_es_felemelo_erzes",
+        "h1": "Pro bono – „A védői tevékenység mindig magasztos és felemelő érzés”",
+        "txtlength": 11985
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/12/04/eros-eszkozt-kaphat-az-europai-bizottsag-a-birosagtol-ha-meri-majd-hasznalni",
+        "h1": "Erős eszközt kaphat az Európai Bizottság a bíróságtól, ha meri majd használni",
+        "txtlength": 11029
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/ultramaraton-490-km-maraz-zsuzsanna-51-ev-gyoztes-gorogorszag-athen-futas/sxfgwet",
+        "h1": "Az 51 éves Zsuzsa úgy ért a csúcsra, ahogy még senki hozzá hasonló",
+        "txtlength": 9178
+    },
+    {
+        "hostname": "nosalty.hu",
         "pagelink": "https://www.nosalty.hu/recept/paprikas-krumpli-kolbasszal",
         "h1": "Paprikás krumpli kolbásszal",
         "txtlength": 17749
