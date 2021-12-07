@@ -1,5 +1,209 @@
 [
     {
+        "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/falusi-almas-pite",
+        "h1": "Falusi almás pite",
+        "txtlength": 17323
+    },
+    {
+        "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/zoldborsofozelek-viciko-konyhajabol",
+        "h1": "Zöldborsófőzelék - Vicikó konyhájából",
+        "txtlength": 14864
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/edesburgonyas-sajttorta-baszk-recept.recept",
+        "h1": "ÉDESBURGONYÁS SAJTTORTA (BASZK RECEPT)",
+        "txtlength": 11451
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/empanada-spanyol-toltott-batyu.recept",
+        "h1": "EMPANADA A SPANYOL TÖLTÖTT BATYU",
+        "txtlength": 11135
+    },
+    {
+        "hostname": "kiszamolo.hu",
+        "pagelink": "https://kiszamolo.hu/transferwise-magyar-bankszamla/",
+        "h1": "Transferwise magyar bankszámla",
+        "txtlength": 29472
+    },
+    {
+        "hostname": "efesasanisimasa.com",
+        "pagelink": "https://efesasanisimasa.com/2021/11/28/bunos-varos-2021/",
+        "h1": "Bűnös város (2021)",
+        "txtlength": 7817
+    },
+    {
+        "hostname": "alapblog.hu",
+        "pagelink": "https://alapblog.hu/holdi-oxigent-holdi-kozetbol/",
+        "h1": "Holdi oxigént holdi kőzetből!",
+        "txtlength": 3925
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20211130_jogalom_e_a_jogallam_jogallamisag_vita_a_mandineren",
+        "h1": "Jogálom-e a jogállam? – szakértői vita a Mandineren",
+        "txtlength": 41397
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2021/12/07/waldorfos-vagyok-de-tudok-olvasni",
+        "h1": "WALDORFOS VAGYOK, DE TUDOK OLVASNI",
+        "txtlength": 37829
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20211206_momentum_baloldal_valasztas_osszefogas_elemzes",
+        "h1": "Mi lesz a Momentumból Donáth Anna vezetésével?",
+        "txtlength": 23992
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vilag/20211207/zakatol-de-nem-jut-elore-a-magyarorszag-nevu-osszeszerelo-uzem/",
+        "h1": "Zakatol, de nem jut előre a Magyarország nevű összeszerelő üzem",
+        "txtlength": 23321
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://makronom.mandiner.hu/cikk/20211129_matovic_adoreformja_a_volt_szlovak_kormanyfo_bohozata_negy_felvonasban",
+        "h1": "Matovič adóforradalma: a volt szlovák kormányfő bohózata négy felvonásban",
+        "txtlength": 22672
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/otthon/20211206/ezt-minden-lakasfelujito-magyarnak-tudnia-kell-itt-a-lista-ennyit-dragulnak-az-epitoipari-alapanyagok-1119978",
+        "h1": "Ezt minden lakásfelújító magyarnak tudnia kell: itt a lista, ennyit drágulnak az építőipari alapanyagok",
+        "txtlength": 21590
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vilag/20211206/idehaza-is-dragulhat-az-aram-az-uj-nemet-kormany-zoldito-tervei-miatt/",
+        "h1": "Idehaza is drágulhat az áram az új német kormány zöldítő tervei miatt",
+        "txtlength": 18950
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/hitel/20211206/tomegek-forditottak-hatat-a-magyar-bankoknak-kuszobon-az-ujabb-valsag-1119926",
+        "h1": "Tömegek fordítottak hátat a magyar bankoknak: küszöbön az újabb válság?",
+        "txtlength": 18576
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/ingatlan/20211207/terkepen-a-legfrissebb-lakasarak-a-te-kornyekeden-mennyit-er-egy-negyzetmeter-514706",
+        "h1": "Térképen a legfrissebb lakásárak: a te környékeden mennyit ér egy négyzetméter?",
+        "txtlength": 16970
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20211206/koronavirus-miert-ilyen-katasztrofalisak-a-halalozasi-szamok-magyarorszagon-514640",
+        "h1": "Koronavírus: miért ilyen katasztrofálisak a halálozási számok Magyarországon?",
+        "txtlength": 14791
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/ingatlan/20211207/lakhatasi-valsag-magyarorszagon-20-pontban-a-minimum-feladatokrol-514776",
+        "h1": "Lakhatási válság Magyarországon: 20 pontban a minimum feladatokról",
+        "txtlength": 13808
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/utazas/vilag-elso-kertvarosa/",
+        "h1": "Valóságos kis ékszerdoboz a világ első tervezett kertvárosa: a Wekerletelephez is mintaként szolgált Letchworth",
+        "txtlength": 12676
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/testem/wellness-veszely-betegseg/",
+        "h1": "wellness veszély betegség",
+        "txtlength": 9577
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/szuloseg/gyerek-karacsony-izgalmak-negativan-hatas/",
+        "h1": "Ne a gyerek hisztérikus viselkedésére reagálj!",
+        "txtlength": 9000
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://qubit.hu/2021/12/07/waldorfos-vagyok-de-tudok-olvasni",
+        "h1": "WALDORFOS VAGYOK, DE TUDOK OLVASNI",
+        "txtlength": 37889
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kulfold/2021/12/06/daniel-freund-jogallami-mechanizmus-europai-parlament-interju/",
+        "h1": "„Nagyon keményen fogalmaztunk a német koalíciós szerződésben Magyarországgal kapcsolatban”",
+        "txtlength": 21440
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/fn/gazdasag/2021/12/07/gyogyszer-hazhoz-szallitas-atvetel-patikak/",
+        "h1": "„Senki nem nézi a betegek érdekeit” – megtiltják a gyógyszereknél a csomagküldést",
+        "txtlength": 20018
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/belfold/2021/12/07/iskola-ovoda-koronavirus-covid-szabalyok-karanten-kontakt-oltas-egyetem-maszk-online-oktatas",
+        "h1": "Iskolánként és egyetemi karonként is másként járnak el a koronavírusos diákokkal",
+        "txtlength": 17557
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/12/07/inyenc-illy-es-alessi-kavecsomagok-szemestol-a-kapszulasig-elmeny-extraval",
+        "h1": "Ínyenc illy és Alessi kávécsomagok szemestől a kapszulásig, élmény extrával!",
+        "txtlength": 15790
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/sport/2021/12/06/forma-1-f1-szaud-arabiai-nagydij-max-verstappen-lewis-hamilton-utkozes-csatak",
+        "h1": "Mi vezetett Hamilton és Verstappen bizarr ütközéséhez?",
+        "txtlength": 13341
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/koronavirus/2021/12/06/factchecking-jarvany-alatt-oltas-szabaly-tevhit",
+        "h1": "Már több mint száz éve tudjuk, hogy járvány alatt is fontos oltani",
+        "txtlength": 11886
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/gazdasag/20211207_inflacio_elelmiszerek_karacsony",
+        "h1": "Tíz százaléknál is többet drágul idén a karácsonyi bevásárlás",
+        "txtlength": 11007
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kultura/2021/12/06/varnegyed-szocialista-modern-szentharomsag-ter-visszaepites-janossy-gyorgy-laczkovits-laszlo-reisz-adam-padme-alapitvanyok-pallas-athene-domus-meriti/",
+        "h1": "A budai Vár főterén bont modern épületet a jegybank alapítványa, hogy háború előtti külsőt állítson a helyére",
+        "txtlength": 10829
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/blikk-tv/aktualis/kulfoldrol-vasarolt-autonal-figyeljen-ezekre/kt7krf8?sl_ps=d_12",
+        "h1": "Külföldről behozott autó? A budapesti kereskedő megmutatja a trükköket, amikkel vigyázni kell, de azt is, milyen sérüléssel lehet még nyugodtan kocsit venni – videó",
+        "txtlength": 10160
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/kultura/20211206_Ez_egy_eletre_szolt__tizenegy_Omegadal_ami_orokke_velunk_marad",
+        "h1": "„Egy életre szól” – tizenegy Omega-dal, amely örökké velünk marad",
+        "txtlength": 10119
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/tudomany/20211207_ftc_kereset_nividia_arm_fuzio_ellen",
+        "h1": "Megakadályoznák a történelem legnagyobb chipfúzióját",
+        "txtlength": 10025
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/velencei-to-viz-remeny-okologiai-katasztrofa/f1shnwh?sl_ps=d_5",
+        "h1": "Megcsillant a remény: végre víz kerül az ökológiai katasztrófa szélére sodródott Velencei-tóba",
+        "txtlength": 9365
+    },
+    {
         "hostname": "mindmegette.hu",
         "pagelink": "https://www.mindmegette.hu/gesztenyes-pudingos-torta.recept",
         "h1": "GESZTENYÉS-PUDINGOS TORTA",
