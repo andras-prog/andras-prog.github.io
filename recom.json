@@ -1,6 +1,186 @@
 [
     {
         "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/edes-palacsinta-alapteszta",
+        "h1": "Édes palacsinta alaptészta",
+        "txtlength": 16572
+    },
+    {
+        "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/kinai-szezammagos-csirke",
+        "h1": "Kínai szezámmagos csirke",
+        "txtlength": 13807
+    },
+    {
+        "hostname": "hataratkelo.blog.hu",
+        "pagelink": "https://hataratkelo.blog.hu/2021/11/29/elvis_es_tom_sawyer_nyomaban",
+        "h1": "Elvis és Tom Sawyer nyomában",
+        "txtlength": 80948
+    },
+    {
+        "hostname": "kulturpart.hu",
+        "pagelink": "https://kulturpart.blog.hu/2021/12/07/nagykaracsony_film_kritika",
+        "h1": "JÓÍZŰ ÜNNEP-TÚLADAGOLÁS",
+        "txtlength": 7113
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20211201_korzenszky_richard_kozelet_interju_keresztenyseg",
+        "h1": "A mában kell élni, de nem a mának – Korzenszky Richárd a Mandinernek",
+        "txtlength": 27458
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20211207_bagdy_emoke_mcc_tehetseggondozas_tanulaskutato_intezet",
+        "h1": "Bagdy Emőke: Sok helyen, akinek kilóg a feje a tömegből, annak levágják",
+        "txtlength": 25019
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/bank/20211208/igy-konnyitik-meg-az-eletunket-az-irodai-robotok-szeliditoi-514676",
+        "h1": "Így könnyítik meg az életünket az irodai robotok \"szelidítői\"",
+        "txtlength": 21841
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/kozelet/20211208/megbukott-a-multikra-alapozott-felzarkozas/",
+        "h1": "Megbukott a multikra alapozott felzárkózás",
+        "txtlength": 21525
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20211207_lemondott_volner_pal_allamtitkar",
+        "h1": "Lemondott Völner Pál államtitkár",
+        "txtlength": 20316
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/megtakaritas/20211207/jokora-hozamot-raknak-most-zsebre-a-bolcs-hozamvadaszok-kockazat-is-alig-van-1120008",
+        "h1": "Jókora hozamot raknak most zsebre a bölcs hozamvadászok: kockázat is alig van",
+        "txtlength": 19885
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2021/12/08/az-allam-erkolcsi-kotelessege-hogy-bevezesse-a-kotelezo-oltast",
+        "h1": "AZ ÁLLAM ERKÖLCSI KÖTELESSÉGE, HOGY BEVEZESSE A KÖTELEZŐ OLTÁST",
+        "txtlength": 18926
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/uzlet/20211208/tobb-mint-400-szobat-ad-at-a-hunguest-hotels-a-kovetkezo-fel-evben-514646",
+        "h1": "Több mint 400 szobát ad át a Hunguest Hotels a következő fél évben",
+        "txtlength": 18858
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/biztositas/20211205/elkepeszto-biztositasi-csalasok-tortennek-magyarorszagon-igy-buknak-le-a-legtobben-1119909",
+        "h1": "Elképesztő biztosítási csalások történnek Magyarországon: így buknak le a legtöbben",
+        "txtlength": 18519
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/penz/20211207/mit-tanulhatunk-harry-pottertol-az-inflaciorol/",
+        "h1": "Mit tanulhatunk Harry Pottertől az inflációról?",
+        "txtlength": 17714
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/gyerek/a-bantas-gyerekszemmel/",
+        "h1": "\"Ezeknek a gyerekeknek a legfőbb igényük és vágyuk egy szerető család\" - A bántás-táborban jártunk",
+        "txtlength": 16338
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/global/20211208/durvul-a-diktatura-mianmarban-de-szervezodik-a-fegyveres-ellenallas-is-514886",
+        "h1": "Durvul a diktatúra Mianmarban, de szerveződik a fegyveres ellenállás is",
+        "txtlength": 15971
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/szuloseg/varazslatos-karacsonyi-programok-a-gyerekekkel/",
+        "h1": "10 varázslatos karácsonyi program a gyerekekkel",
+        "txtlength": 7569
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://qubit.hu/2021/12/08/az-allam-erkolcsi-kotelessege-hogy-bevezesse-a-kotelezo-oltast",
+        "h1": "AZ ÁLLAM ERKÖLCSI KÖTELESSÉGE, HOGY BEVEZESSE A KÖTELEZŐ OLTÁST",
+        "txtlength": 18913
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/12/08/megfenyegettek-egymast-de-atomhaborurol-szo-sem-volt",
+        "h1": "Megfenyegették egymást, de atomháborúról szó sem volt",
+        "txtlength": 16085
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kozelet/2021/12/08/volner-pal-mbvk-a-kozbizalom-erositese-vegrehajtok-kenopenz/",
+        "h1": "Völner Pál útja az Orbánnál keményebb ifjúkori antikommunista lázadástól a végrehajtók uralásán át a korrupció gyanúja miatti lelépésig",
+        "txtlength": 14447
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/belfold/2021/12/07/komoly-balhe-a-vegrehajtoknal-volner-pal-allamtitkar-mar-lemondott-a-szakma-meg-nem-lat-tisztan",
+        "h1": "Komoly balhé a végrehajtóknál, Völner Pál államtitkár már lemondott, a szakma még nem lát tisztán",
+        "txtlength": 13808
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/pszichologiamagazin/20211207_Boldogsaghoz_vezeto_utak__valasszon_kedvere",
+        "h1": "Boldogsághoz vezető utak – válasszon kedvére",
+        "txtlength": 12412
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/gazdasag/20211208_volner_pal_lehallgatas_pinter_sandor",
+        "h1": "Rengeteg lehallgatási anyag szól Völnerék ellen, a gyanúsítottak az államtitkárban láthatták a védelmet",
+        "txtlength": 12409
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/kultura/20211206_Meghalt_Kobor_Janos",
+        "h1": "Meghalt Kóbor János",
+        "txtlength": 11423
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kultura/2021/12/07/podcast-bukso-kollar-klemencz-laszlo/",
+        "h1": "Kollár-Klemencz László: Akartam egy koncertet, ahol elégetjük a Szájber gyereket",
+        "txtlength": 11068
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kultura/2021/12/07/ismeretlen-budapest-szechenyi-magyar-tudomanyos-akademia-szentharomsag-ter-bontas-padme-alapitvany-janossy-gyorgy/",
+        "h1": "A Széchenyi Akadémia is tiltakozik a Szentháromság téri modern ház eltűnése ellen",
+        "txtlength": 10798
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/volner-pal-allamtitkar-nyergesujfalu-vegrehajto-botrany/sywht1g?sl_ps=d_11",
+        "h1": "Völner milliókat keres, miért keveredett balhéba? Elbujdokolt a bukott államtitkár",
+        "txtlength": 10695
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/blikk-tv/aktualis/kulfoldrol-vasarolt-autonal-figyeljen-ezekre/kt7krf8",
+        "h1": "Külföldről behozott autó? A budapesti kereskedő megmutatja a trükköket, amikkel vigyázni kell, de azt is, milyen sérüléssel lehet még nyugodtan kocsit venni – videó",
+        "txtlength": 10326
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/szorakozas/2021/12/07/west-side-story-film-steven-spielberg-musical-kritika",
+        "h1": "Az új West Side Story néha lepipálja a régi klasszikust",
+        "txtlength": 9587
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/eszkombajn/2021/12/07/borisz-jelcin-egyszer-annyira-berugott-hogy-alsogatyaban-talaltak-ra-washington-utcain-mikozben-pizzat-probalt-venni",
+        "h1": "Borisz Jelcin egyszer annyira berúgott egy elnöki csúcstalálkozó előtt, hogy alsógatyában találtak rá Washington utcáin, mert pizzát akart enni",
+        "txtlength": 9161
+    },
+    {
+        "hostname": "nosalty.hu",
         "pagelink": "https://www.nosalty.hu/recept/falusi-almas-pite",
         "h1": "Falusi almás pite",
         "txtlength": 17323
