@@ -1,5 +1,173 @@
 [
     {
+        "hostname": "hataratkelo.blog.hu",
+        "pagelink": "https://hataratkelo.blog.hu/2021/12/05/a_nagy_pogacsa-rejtely",
+        "h1": "A Nagy Pogácsa-rejtély",
+        "txtlength": 47801
+    },
+    {
+        "hostname": "hafr.hvgblog.hu",
+        "pagelink": "https://hafr.hvgblog.hu/2020/12/26/merjunk-kicsit-gondolni-gondolkodok-egy-tgm-interju-margojara/",
+        "h1": "Merjünk kicsit gondolni, gondolkodók! (Egy TGM-interjú margójára)",
+        "txtlength": 15889
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/uzlet/20211209/ujabb-ceg-jon-a-magyar-tozsdere-itt-vannak-a-terveik-515150",
+        "h1": "Újabb cég jön a magyar tőzsdére, itt vannak a terveik",
+        "txtlength": 30833
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20211203_media_sajto_magyarorszag_jelentes",
+        "h1": "A képlet: LMBTQ-üldöző, bevándorlásellenes kormánymédia versus független sajtó",
+        "txtlength": 26585
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20211207_fovarosi_vizsgalobizottsag_varoshaza_kovacs_peter_ellenzek_karacsony_gergely_bajnai_gordon_belfold",
+        "h1": "Városháza-gate: a „vizsgálóbizottságosdi” színjáték, a balos koalíció mindent lezsírozott",
+        "txtlength": 24035
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/kozelet/20211208/patyomkin-biodom-le-kell-bontani-ha-csak-legvar/",
+        "h1": "Patyomkin-biodóm: le kell bontani, ha csak légvár",
+        "txtlength": 22797
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20211208_az_ellenzek_ujra_az_utcara_vonul_megkezdik_az_alairasgyujtest_a_nepszavazasra",
+        "h1": "Az ellenzék újra az utcára vonul, megkezdik az aláírásgyűjtést a népszavazásra",
+        "txtlength": 19793
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/kozelet/20211208/orban-buszke-a-tanarfizetesek-emelesere-de-csak-kobe-veste-a-berek-tovabbi-elertektelenedeset/",
+        "h1": "Orbán büszke a tanárfizetések emelésére, de csak kőbe véste a bérek további elértéktelenedését",
+        "txtlength": 18867
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/hitel/20211208/most-is-mukodik-a-kamatzuzo-hiteltrukk-kevesen-ismerik-pedig-nagyot-lehet-szakitani-rajta-1119782",
+        "h1": "Most is működik a kamatzúzó hiteltrükk: kevesen ismerik, pedig nagyot lehet szakítani rajta",
+        "txtlength": 17067
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/nyugdij/20211208/13-havi-nyugdij-2022-hivatalos-332-ezer-utheti-egy-atlagnyugdijas-markat-februarban-1120062",
+        "h1": "13. havi nyugdíj 2022: hivatalos, 332 ezer ütheti egy átlagnyugdíjas markát februárban",
+        "txtlength": 16619
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/premium/20211209/mar-a-tervezesi-fazis-resze-a-zold-energia-kalkulacio-512846",
+        "h1": "Már a tervezési fázis része a zöld energia-kalkuláció (x)",
+        "txtlength": 15763
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/uzlet/20211209/csapkodas-a-tozsdeken-kapaszkodokat-keresnek-a-befektetok-515202",
+        "h1": "Csapkodás a tőzsdéken, kapaszkodókat keresnek a befektetők ",
+        "txtlength": 14950
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2021/12/07/a-magyar-fiatalok-elegedetlenek-az-eletukkel-de-nem-sokat-tesznek-azert-hogy-megvaltozzon-a-helyzet",
+        "h1": "A MAGYAR FIATALOK ELÉGEDETLENEK AZ ÉLETÜKKEL, DE NEM SOKAT TESZNEK AZÉRT, HOGY MEGVÁLTOZZON A HELYZET",
+        "txtlength": 14260
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/egeszseg/mind-dieta-alzheimer-ellen/",
+        "h1": "A MIND-diéta lehet a megoldás az Alzheimer-kór ellen: már kialakult betegségnél is segíthet",
+        "txtlength": 10096
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/lajfhekk/elektromos-fogkefek-tesztje/",
+        "h1": "Elektromos fogkefék tesztje",
+        "txtlength": 8741
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/gazdasag/2021/12/08/uj-lakasra-szerzodnek-de-hogyan-tegyem-hogy-a-szerzodes-erjen-is-valamit",
+        "h1": "Többéves csúszás után vis maior: elmérgesedett a helyzet a Duna House budai lakóparkfejlesztésénél",
+        "txtlength": 22268
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/kkv/20211208_gundel_ujranyitas",
+        "h1": "A 48 órán át rotyogó pörköltszaft és az arany elefántok: így tér vissza a névadó szelleme a Gundelbe",
+        "txtlength": 16236
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kulfold/2021/12/09/demokraciacsucs-biden-magyarorszag-eu-meghivas-strategia-kina-oroszorszag",
+        "h1": "Nem csúcs és nem csak demokráciák vesznek rajta részt – akkor mit akar Biden a demokráciacsúccsal?",
+        "txtlength": 16164
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/12/09/egy-karacsonyi-ajandekvasarlas-naploja",
+        "h1": "Egy karácsonyi ajándékvásárlás naplója",
+        "txtlength": 15882
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/12/09/ez-a-szerzodes-provokalta-ki-nemeth-szilard-nemetellenes-kirohanasat",
+        "h1": "Ez a szerződés provokálta ki Németh Szilárd németellenes kirohanását",
+        "txtlength": 15024
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kultura/2021/12/08/furdonegyed-margit-hid-frankel-leo-ut-buvati-kozti-furdo-csaszar-veli-bej-lukacs/",
+        "h1": "Hetven éve még fürdőnegyeddé alakították volna a Margit híd környékét",
+        "txtlength": 14802
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kulfold/2021/12/08/omar-raddad-kertesz-franciaorszag-gyilkossag-itelet-ghislaine-marchal",
+        "h1": "Egy gyilkosság, aminél halott áldozata buktatta le a tettest. Vagy mégsem?",
+        "txtlength": 13603
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/politika/gazarak-emelkedes-europa-magyarorszag-valsag/s20gx1g",
+        "h1": "Kritikus lehet az idei tél: valósággá vált, amire a szakemberek hónapok óta figyelmeztettek, a szomszédban már óriási a baj",
+        "txtlength": 10980
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2021/12/09/fizetes-emeles-allami-vezetok-szaporodas/",
+        "h1": "A „rangkórság” ára: két év alatt duplájára nőtt az állami vezetők bértömege",
+        "txtlength": 10761
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/tudomany/20211209_east_west_gate_oriasdaruk_allitasa_video_fotok_fenyeslitke",
+        "h1": "Már állítják a 41 méter széles, 20 méter magas 5G-s óriásdarukat a magyar-ukrán határon",
+        "txtlength": 10177
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/heti-idojaras-onos-eso-havazas-riasztas/8efjgzj",
+        "h1": "Heti időjárás: durva időre készülhetünk, a katasztrófavédelem is közleményt adott ki",
+        "txtlength": 9876
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2021/12/09/bkk-utasforgalom-berletesek-szama-2021/",
+        "h1": "Két covidos év alatt a bérletesek majd harmada eltűnt a budapesti tömegközlekedésből",
+        "txtlength": 9465
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/tudomany/20211208_szuper_jupiter_oriasbolygo_csillagaszat_csillagrendszer_b_centauri",
+        "h1": "Rengeteg kérdése lett a kutatóknak egy új bolygó miatt, annyira különleges",
+        "txtlength": 9450
+    },
+    {
         "hostname": "nosalty.hu",
         "pagelink": "https://www.nosalty.hu/recept/edes-palacsinta-alapteszta",
         "h1": "Édes palacsinta alaptészta",
