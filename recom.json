@@ -1,5 +1,185 @@
 [
     {
+        "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/palacsinta-0",
+        "h1": "Palacsinta",
+        "txtlength": 16129
+    },
+    {
+        "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/egyszeru-piskotatekercs",
+        "h1": "Egyszerű piskótatekercs",
+        "txtlength": 13345
+    },
+    {
+        "hostname": "hataratkelo.blog.hu",
+        "pagelink": "https://hataratkelo.blog.hu/2021/11/17/magyarkent_angliaban_felnoni",
+        "h1": "Magyarként Angliában felnőni",
+        "txtlength": 28684
+    },
+    {
+        "hostname": "kulturpart.hu",
+        "pagelink": "https://kulturpart.hu/2021/12/03/csaladi_uzelmek_275",
+        "h1": "CSALÁDI ÜZELMEK",
+        "txtlength": 9525
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20211210/konnyebb-vagy-nehezebb-lesz-a-munkavallalok-elete-a-koronavirus-utan-515090",
+        "h1": "Könnyebb, vagy nehezebb lesz a munkavállalók élete a koronavírus után?",
+        "txtlength": 40174
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20211208_kozelet_europa_jobboldal_szovetseg",
+        "h1": "Frakciózás helyett együttműködés – a konzervatívok tovább építik az európai szövetséget",
+        "txtlength": 24367
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20211208_magyarorszag_brusszel_mediapluralizmus",
+        "h1": "Így vizsgáztatják sajtószabadságból Magyarországot",
+        "txtlength": 24263
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/kozelet/20211210/a-magyar-videk-nagy-resze-kozepes-fejlettsegi-csapdaban-ragadt/",
+        "h1": "A magyar vidék nagy része közepes fejlettségi csapdában ragadt",
+        "txtlength": 21403
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20211209/alkotmanyos-valsag-amerikaban-meg-ennel-is-pusztitobb-inflacio-megoldas-az-oregedes-problemajara-tenyleg-ilyen-lesz-2022-515304",
+        "h1": "Alkotmányos válság Amerikában, még ennél is pusztítóbb infláció, megoldás az öregedés problémájára – Tényleg ilyen lesz 2022?",
+        "txtlength": 18951
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20211208_melocco_miklos_interju_elet_adam_rebeka_nora",
+        "h1": "1956-ban éreztem meg, mit jelent az, hogy hazafi – Melocco Miklós a Mandinernek",
+        "txtlength": 17571
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vilag/20211209/lassan-fuvet-esznek-de-akkor-is-haladnak-az-atombomba-megepitese-fele/",
+        "h1": "Lassan füvet esznek, de akkor is haladnak az atombomba megépítése felé",
+        "txtlength": 16655
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2021/12/09/itt-a-kimerito-karacsonyi-konzolkalauz-hogy-a-gatyad-se-menjen-ra-es-a-gyerek-se-hisztizzen",
+        "h1": "ITT A KIMERÍTŐ KARÁCSONYI KONZOLKALAUZ, HOGY A GATYÁD SE MENJEN RÁ, ÉS A GYEREK SE HISZTIZZEN",
+        "txtlength": 16411
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/uzlet/20211210/visszavonulot-fujtak-a-befektetok-a-fontos-inflacios-adat-elott-515436",
+        "h1": "Visszavonulót fújtak a befektetők a fontos inflációs adat előtt ",
+        "txtlength": 15605
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/otthon/20211206/gondoltad-volna-valojaban-ezen-a-10-dolgon-mulik-hogy-tenyleg-boldog-vagy-e-az-eletedben-1119988",
+        "h1": "Gondoltad volna? Valójában ezen a 10 dolgon múlik, hogy tényleg boldog vagy-e az életedben",
+        "txtlength": 13994
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/karrier/20211207/ennyit-fizet-a-pincereknek-szakacsoknak-a-legendas-pesti-gundel-indul-a-toborzas-1120024",
+        "h1": "Ennyit fizet a pincéreknek, szakácsoknak a legendás pesti Gundel: indul a toborzás",
+        "txtlength": 13287
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/karacsony/karacsony-deli-felteken/",
+        "h1": "Nagyon máshogy ünneplik a karácsonyt a déli féltekén: ott az adventi időszak nyár közepére esik",
+        "txtlength": 13039
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/lajfhekk/100-szazalekos-gyumolcsle-hit-tevhit/",
+        "h1": "Figyelj, melyik gyümölcslevet vásárolod meg!",
+        "txtlength": 7463
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2021/12/10/valas-gyermekelhelyezes-valtott-gondoskodas-torvenymodositas/",
+        "h1": "Kinek és miért fáj a gyermekfelügyeleti szabályok változása?",
+        "txtlength": 18892
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/12/10/25-eve-tanit-most-allashirdeteseket-nez-mert-fel-az-oltas-mellekhatasaitol",
+        "h1": "25 éve tanít, most álláshirdetéseket néz, mert fél az oltás mellékhatásaitól",
+        "txtlength": 16803
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://qubit.hu/2021/12/09/itt-a-kimerito-karacsonyi-konzolkalauz-hogy-a-gatyad-se-menjen-ra-es-a-gyerek-se-hisztizzen",
+        "h1": "ITT A KIMERÍTŐ KARÁCSONYI KONZOLKALAUZ, HOGY A GATYÁD SE MENJEN RÁ, ÉS A GYEREK SE HISZTIZZEN",
+        "txtlength": 16325
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kult/2021/12/10/sokmilliardos-adossagot-hagytak-maguk-utan-most-ujra-visszater-az-alexandra",
+        "h1": "Sokmilliárdos adósságot hagyott maga után, de most visszatér az Alexandra",
+        "txtlength": 15577
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/nevertek/2021/12/10/cinikus-jatek-a-kotszerszamlakkal-korhazi-tartozasok-az-ev-vegen-puha-koltsegvetesi-korlat",
+        "h1": "Cinikus játék a kötszerszámlákkal",
+        "txtlength": 15322
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20211209_2021_ev_embere_ev_citromdijasa_ev_szava_szavazas",
+        "h1": "Szavazzon: ki volt önnél az év embere, kinek jár a citromdíj, és mi legyen az év szava?",
+        "txtlength": 14417
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20211210_orban_viktor_kossuth_radio",
+        "h1": "Orbán: „A nyugdíjasokkal pontosan kell elszámolni, minden forintot számontartanak”",
+        "txtlength": 12455
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kultura/2021/12/09/west-side-story-steven-spielberg-mozi-film-kritika-rachel-zegler-ansel-elgort/",
+        "h1": "Spielberg West Side Storyja minden ízében jobb, mint amit vártunk",
+        "txtlength": 12361
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/sport/20211209_fradi_pafc_csaladi_szektor_groupama",
+        "h1": "Megtanulták szépen szidni a bíró anyját – megnéztük a Fradi-szektort, ahol betiltották a káromkodást",
+        "txtlength": 11941
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/idojaras-havazas-magyarorszag/bedn6wc",
+        "h1": "Leszakadt a hó az országban: másodfokú figyelmeztetés, csúszós utak – A hétvége még keményebb lesz",
+        "txtlength": 11001
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/gereb-agnes-interju-kadarkai-endre/z4tt93j?sl_ps=d_4",
+        "h1": "Geréb Ágnes 14 évvel a kislány halála után: „Lehettem volna ügyesebb”",
+        "txtlength": 10747
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/szorakozas/2021/12/10/game-awards-dij-videojatek-bejelentes-it-takes-two",
+        "h1": "Mindenkit legyűrt a párterápiázó bábuk kalandja a legnagyobb videójátékos díjátadón",
+        "txtlength": 10256
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2021/12/09/gyogypedagogiai-asszisztens-beremeles-sneider-tamas-retvari-bence/",
+        "h1": "„Rétvári ennyire tájékozatlan, vagy az állampolgárokat nézi teljesen hülyének?”",
+        "txtlength": 10149
+    },
+    {
         "hostname": "hataratkelo.blog.hu",
         "pagelink": "https://hataratkelo.blog.hu/2021/12/05/a_nagy_pogacsa-rejtely",
         "h1": "A Nagy Pogácsa-rejtély",
