@@ -1,6 +1,180 @@
 [
     {
         "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/paradicsomos-kaposzta",
+        "h1": "Paradicsomos káposzta",
+        "txtlength": 13289
+    },
+    {
+        "hostname": "hataratkelo.blog.hu",
+        "pagelink": "https://hataratkelo.blog.hu/2021/12/09/irany_amerika_nemi_nehezsegekkel#c41084036",
+        "h1": "Irány Amerika - némi nehézségekkel",
+        "txtlength": 40949
+    },
+    {
+        "hostname": "kulturpart.hu",
+        "pagelink": "https://kulturpart.blog.hu/2021/12/09/ok_az_idei_legjobbak",
+        "h1": "ŐK AZ IDEI LEGJOBBAK!",
+        "txtlength": 7945
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20211210_egyre_sulyosabb_a_nyugat_europai_keresztenyellenesseg_egy_jelentes_szerint",
+        "h1": "Egyre súlyosabb a nyugat-európai keresztényellenesség egy jelentés szerint",
+        "txtlength": 30704
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20211209_egyszerre_sikerult_antiszemita_es_homofob_megjegyzessel_tamadnia_bohar_danielre_marki_zay_peternek",
+        "h1": "Márki-Zay Péternek egyszerre sikerült antiszemita és homofób megjegyzéssel támadnia Bohár Dánielre",
+        "txtlength": 26173
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://precedens.mandiner.hu/cikk/20211210_alkotmanybirosag_magyarorszag_alaptorveny_unios_jogrend_hatarzar_szuverenitas",
+        "h1": "Rossz uniós szabályozás nem kerekedhet felül az Alaptörvényen",
+        "txtlength": 25866
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20211210/meghozta-donteset-az-alkotmanybirosag-amirol-orban-viktor-reggel-beszelt-515502",
+        "h1": "Meghozta döntését az Alkotmánybíróság, amiről Orbán Viktor reggel beszélt",
+        "txtlength": 21564
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/vasarlas/20211209/orom-utan-maris-sokkban-az-idos-magyarok-igy-falja-fel-az-inflacio-a-nyugdijemelest-1120063",
+        "h1": "Öröm után máris sokkban az idős magyarok: így falja fel az infláció a nyugdíjemelést",
+        "txtlength": 18888
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/global/20211210/ezert-kell-kinanak-egy-egesz-tenger-akar-sulyos-aldozatok-aran-is-515274",
+        "h1": "Ezért kell Kínának egy egész tenger, akár súlyos áldozatok árán is",
+        "txtlength": 18730
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/podcast/20211211/a-magyar-cegeknek-es-dolgozoiknak-lesz-a-legkemenyebb-menet-az-autoipar-atalakulasa/",
+        "h1": "A magyar cégeknek és dolgozóiknak lesz a legkeményebb menet az autóipar átalakulása",
+        "txtlength": 17769
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/megtakaritas/20211208/itt-egy-befektetes-ami-vedhet-az-inflacio-ellen-a-profik-eskusznek-ra-1120028",
+        "h1": "Itt egy befektetés, ami védhet az infláció ellen: a profik esküsznek rá",
+        "txtlength": 17499
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vilag/20211210/most-szigorit-kozep-europa-amikor-mar-epp-tetozott-a-jarvany/",
+        "h1": "Most szigorít Közép-Európa, amikor már épp tetőzött a járvány",
+        "txtlength": 15442
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2021/12/10/mihez-kezdenenek-a-kutyak-ha-eltunne-a-foldrol-az-ember",
+        "h1": "MIHEZ KEZDENÉNEK A KUTYÁK, HA ELTŰNNE A FÖLDRŐL AZ EMBER?",
+        "txtlength": 14754
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20211210/ezert-fontos-hogy-a-gyerekek-is-felvegyek-a-koronavirus-elleni-oltast-515376",
+        "h1": "Ezért fontos, hogy a gyerekek is felvegyék a koronavírus elleni oltást",
+        "txtlength": 13775
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/kapcsolat/kontrollmanias-emberek-leepitese/",
+        "h1": "Így építsd le a kontrollmániás embereket a terapeuták szerint: 3 módszer, amivel megbirkózhatsz velük",
+        "txtlength": 10470
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/lajfhekk/mosogatogep-helyes-hasznalata/",
+        "h1": "Így pakolj be helyesen a mosogatógépbe!",
+        "txtlength": 7131
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/politika/ader-janos-interju-tervek-koronavirus-interju/18b1xe9?sl_ps=d_10",
+        "h1": "Áder János elárulta, mit gondol a kötelező oltásról – Exkluzív interjú",
+        "txtlength": 16375
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/sport/2021/12/10/pontlevonassal-buntetik-ha-valaki-piszkos-trukkel-akarna-eldonteni-az-f1-vb-cimet",
+        "h1": "Pontlevonással büntetik, ha valaki piszkos trükkel akarná eldönteni az F1-vb-címet",
+        "txtlength": 14088
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/12/10/uszoszovetseg-turi-gyorgy-gyakran-alkalmazott-testi-fenyitest",
+        "h1": "Úszószövetség: Turi György gyakran alkalmazott testi fenyítést",
+        "txtlength": 13930
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/eghajlatvaltozas-egeszseg-jelentes-egeszsegugy-klimakutatok-video/m65y5b9",
+        "h1": "Egyre nagyobb kihívásokkal találhatjuk szembe magunkat: itt van a magyar klímakutatók jövőt érintő jóslata – videó",
+        "txtlength": 13533
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/eszkombajn/2021/12/11/20-szazad-magyar-csalok-zacsovics-dr-martini",
+        "h1": "Szédelegtek, kéjelegtek, százezres károkat okoztak a 20. század nagy magyar csalói",
+        "txtlength": 13348
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/kultura/20211210_Spielberg_uj_eletet_lehelt_a_West_Side_Storyba",
+        "h1": "Spielberg új életet lehelt a West Side Storyba",
+        "txtlength": 13267
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/kkv/20211211_kukoricaar_dragulas_gazdak_takarmany_hustermelok_husar",
+        "h1": "Jövőre nagyon megérezzük majd bevásárláskor a most rekord árú kukorica hatását",
+        "txtlength": 13117
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20211210_Magyarorszag_eu_birosag_alkotmanybirosag",
+        "h1": "Magyarország nem megy el a falig az EU-val szemben, csak épít egyet magának",
+        "txtlength": 12668
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/fn/gazdasag/2021/12/10/a-taszari-repuloter-eladas-ujpest-futball-kinai-befekteto/",
+        "h1": "Pápai szájmaszkgyártóknak adta a kormány a taszári repülőteret, az újpesti futballcsapattal bővülhet a portfólió",
+        "txtlength": 12435
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kulfold/2021/12/11/brusszel-karacsony-betiltas-fidesz/",
+        "h1": "Így akarta eltörölni az Európai Unió a karácsonyt",
+        "txtlength": 12337
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/tudomany/2021/12/11/horgasz-folyok-tavak-okologia-termeszetvedelem/",
+        "h1": "Horgászok segíthetnek megmenteni a magyar vizeket",
+        "txtlength": 12316
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kult/2021/12/10/nmhh-korhatar-jenny-eskuvoje-rtl-klub-leszbikus-pedofilellenes-torveny-teve-besorolas-lmbtq",
+        "h1": "Gyermekvédelmi törvény akcióban: 18-as karikát kapott a leszbikus esküvőről szóló vígjáték, aminek eddig 12 év volt a korhatára",
+        "txtlength": 12258
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://qubit.hu/2021/12/10/az-antarktisz-az-utolso-kontinens-ahova-meg-nem-huztak-be-az-internetet-de-ami-kesik-nem-mulik",
+        "h1": "AZ ANTARKTISZ AZ UTOLSÓ KONTINENS, AHOVÁ MÉG NEM HÚZTÁK BE AZ INTERNETET, DE AMI KÉSIK, NEM MÚLIK",
+        "txtlength": 10775
+    },
+    {
+        "hostname": "nosalty.hu",
         "pagelink": "https://www.nosalty.hu/recept/palacsinta-0",
         "h1": "Palacsinta",
         "txtlength": 16129
