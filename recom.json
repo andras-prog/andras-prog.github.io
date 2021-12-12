@@ -1,6 +1,192 @@
 [
     {
         "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/birsalmasajt",
+        "h1": "Birsalmasajt",
+        "txtlength": 15772
+    },
+    {
+        "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/sutotokos-muffin",
+        "h1": "Sütőtökös muffin",
+        "txtlength": 13224
+    },
+    {
+        "hostname": "hataratkelo.blog.hu",
+        "pagelink": "https://hataratkelo.blog.hu/2021/12/09/irany_amerika_nemi_nehezsegekkel#c41086196",
+        "h1": "Irány Amerika - némi nehézségekkel",
+        "txtlength": 49302
+    },
+    {
+        "hostname": "kulturpart.hu",
+        "pagelink": "https://kulturpart.blog.hu/2021/12/11/segits_az_intezetis_gyerekeknek",
+        "h1": "SEGÍTS AZ „INTÉZETIS” GYEREKEKNEK!",
+        "txtlength": 6557
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2021/12/12/a-diszkurziv-gondolkodas-ideje-lejart-a-megtapasztalhato-megertese-a-jovo",
+        "h1": "A DISZKURZÍV GONDOLKODÁS IDEJE LEJÁRT, A MEGTAPASZTALHATÓ MEGÉRTÉSÉ A JÖVŐ",
+        "txtlength": 31716
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/megtakaritas/20211210/autoipar-gyogyszeripar-esg-elarulta-a-befektetesi-guru-mibe-erdemes-most-fektetni-1120014",
+        "h1": "Autóipar, gyógyszeripar, ESG: elárulta a befektetési guru, mibe érdemes most fektetni",
+        "txtlength": 26086
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/global/20211211/10-legendas-harckocsi-amely-orokre-megvaltoztatta-a-pancelos-hadviseles-tortenelmet-515352",
+        "h1": "10 legendás harckocsi, amely örökre megváltoztatta a páncélos-hadviselés történelmét",
+        "txtlength": 22699
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20211210_gyermekoltas_korkep",
+        "h1": "Nem tudom, hogyan hatna a covid a gyerekemre, inkább beoltatom – szülők a Mandinernek",
+        "txtlength": 22509
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20211212/ketyeg-a-nyugdijbomba-sorra-ebrednek-fel-az-orszagok-hol-kesik-magyarorszag-515518",
+        "h1": "Ketyeg a nyugdíjbomba, sorra ébrednek fel az országok - Hol késik Magyarország?",
+        "txtlength": 21879
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/uzlet/20211211/a-nagy-penzrablas-itt-vannak-az-ev-legdurvabb-kriptos-atveresei-es-lopasai-515370",
+        "h1": "A nagy pénzrablás: itt vannak az év legdurvább kriptós átverései és lopásai",
+        "txtlength": 18988
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20211130_belfold_fovaros_varoshaza_ugy_berki_zsolt_video_anonymus",
+        "h1": "Városháza-ügy: személyre szabottan írhatták ki a pályázatokat a főváros által áruba bocsátott ingatlanokhoz",
+        "txtlength": 18802
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/utazas/20211211/tomegek-lepik-el-matol-a-hazai-sipalyakat-errol-jobb-ha-tudsz-mielott-utnak-indulsz-1120137",
+        "h1": "Tömegek lepik el mától a hazai sípályákat: erről jobb ha tudsz, mielőtt útnak indulsz",
+        "txtlength": 18319
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20211125_belfold_marki_zay_peter_varoshaza_bajnai_gordon_fidesz",
+        "h1": "Karácsony szerint kamubotrány, Márki-Zay fideszezik, Gyurcsány meg inkább fánkot süt – így kezeli az ellenzék a Városháza-ügyet",
+        "txtlength": 17879
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/adat/20211212/nem-az-etolaj-vagy-a-liszt-dragult-leginkabb-a-diszkontokban/",
+        "h1": "Nem az étolaj vagy a liszt drágult leginkább a diszkontokban",
+        "txtlength": 16810
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/elet/20211211/egyre-tobbet-videojatekozunk-de-ennek-tobb-pozitiv-hatasa-van-mint-gondolnad/",
+        "h1": "Egyre többet videójátékozunk, de ennek több pozitív hatása van, mint gondolnád",
+        "txtlength": 16113
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/testem/forro-italok-vilag-italai-17/",
+        "h1": "Ha unod a hüttés löttyöket, próbálj ki egyet ezekből!",
+        "txtlength": 15726
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/hazai_sztar/x-faktor-2021-elodonto/",
+        "h1": "\"Itt mindenki süket?\" – Az X-Faktor nézői kiakadtak Mehringer Marci kiesése miatt",
+        "txtlength": 15374
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/lajfhekk/koktelkeszites-eszkozok/",
+        "h1": "A spirálvágó jól jön minden kezdő mixernek",
+        "txtlength": 7545
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/szorakozas/2021/12/11/farm-vip-kulissza-katona-andor-olah-akos-tv2/",
+        "h1": "„Máshogy működik valaki otthon, anyu konyhája mellett és a tévében”",
+        "txtlength": 30421
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/velemeny/2021/12/11/abortusz-magzatgyilkossag-vagy-anyai-jog",
+        "h1": "Abortusz: magzatgyilkosság vagy anyai jog?",
+        "txtlength": 17362
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/vilag/20211212_libia_titkos_bortonok_menekultek",
+        "h1": "Líbia eltitkolt börtönei tartják távol Európától a menekültek tömegeit",
+        "txtlength": 16859
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kultura/2021/12/11/the-beatles-get-back-dokumentumfilm-sorozat-peter-jackson-let-it-be/",
+        "h1": "Jó néhány hamis legendával leszámol az új Beatles-sorozat",
+        "txtlength": 15331
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kulfold/2021/12/12/emmanuel-macron-budapestre-latogat-orban-francia-kapcsolatok-v4-okok/",
+        "h1": "Öt ok, amiért Macron Budapestre látogat",
+        "txtlength": 14295
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/szorakozas/2021/12/11/forro-novemberi-meneteles-az-arab-sivatag-hegyeiben",
+        "h1": "Forró menetelés az arab sivatag hegyeiben",
+        "txtlength": 14099
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/gazdasag/20211212_Es_akkor_Volner_inflacio_Evergrande_napelem",
+        "h1": "És akkor Völner Pálnak virgácsot hozott Polt Péter",
+        "txtlength": 13629
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/politika/antall-jozsef-evfordullo-miniszterelnuk-rendszervaltas-orban-viktor/m2nhy8r?sl_ps=d_3",
+        "h1": "A nap, amikor megszakadt a Kacsamesék adása, helyette gyászzene szólt minden magyarországi tévéből – Antall József halála",
+        "txtlength": 12973
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/tamogatott-tartalom/2021/12/11/vilagelso-vorosbor-villany-titok-jammertal-dr-szucs-robert-cassiopeia-merlot",
+        "h1": "Világelső vörösbor készült Villányban – utánajártunk, mi a titok",
+        "txtlength": 11690
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://qubit.hu/2021/12/11/budapest-a-ferfivaros",
+        "h1": "BUDAPEST, A FÉRFIVÁROS",
+        "txtlength": 9818
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/krimi/elet-elleni-buncselekmenyek-gyerekgyilkossag-duna-csehszlovakia-magyarorszag/ew8nssw?sl_ps=d_1",
+        "h1": "Babakocsistól dobta a Dunába az öt hónapos kisfiút az elmebeteg gyilkos, magyar zsaruk találták meg az áldozatot - és mást is sodort el a víz",
+        "txtlength": 9597
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/12/11/visszavontak-a-ferto-tavi-epitkezesek-tenderet",
+        "h1": "Visszavonták a Fertő tavi építkezések tenderét",
+        "txtlength": 9414
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20211211_Mar_lehet_idopontot_foglalni_az_511_evesek_oltasahoz_a_neten",
+        "h1": "Már lehet időpontot foglalni az 5-11 évesek oltásához a neten",
+        "txtlength": 8728
+    },
+    {
+        "hostname": "nosalty.hu",
         "pagelink": "https://www.nosalty.hu/recept/paradicsomos-kaposzta",
         "h1": "Paradicsomos káposzta",
         "txtlength": 13289
