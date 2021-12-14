@@ -1,6 +1,186 @@
 [
     {
         "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/frankfurti-leves-egyszeruen",
+        "h1": "Frankfurti leves egyszerűen",
+        "txtlength": 14671
+    },
+    {
+        "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/hagyomanyos-rakott-kel-gabystol",
+        "h1": "Hagyományos rakott kel Gabystól",
+        "txtlength": 12807
+    },
+    {
+        "hostname": "hataratkelo.blog.hu",
+        "pagelink": "https://hataratkelo.blog.hu/2021/12/09/irany_amerika_nemi_nehezsegekkel#c41091164",
+        "h1": "Irány Amerika - némi nehézségekkel",
+        "txtlength": 52721
+    },
+    {
+        "hostname": "kulturpart.hu",
+        "pagelink": "https://kulturpart.blog.hu/2021/12/14/mediterran_nagyagyuk_jonnek_budapestre",
+        "h1": "MEDITERRÁN NAGYÁGYÚK JÖNNEK BUDAPESTRE",
+        "txtlength": 6657
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vilag/20211213/megis-ki-mit-akar-es-mit-erhet-el-az-orosz-ukran-hibrid-haboruban/",
+        "h1": "Mégis ki mit akar, és mit érhet el az orosz-ukrán hibrid háborúban?",
+        "txtlength": 26791
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20211213_jaruzelski_walesa_lengyelorszag",
+        "h1": "Jaruzelski és Wałęsa – párhuzamos életrajzok a lengyel félmúlt drámájából",
+        "txtlength": 26658
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20211213_varju_laszlo_kisz_demosz_privatizacio",
+        "h1": "Varju László sokáig titkolt érdekköre is megcsapolta az állami vagyont",
+        "txtlength": 25354
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20211214/nem-csak-a-hazai-palyan-versenyezne-a-corvinus-514602",
+        "h1": "Nem csak a hazai pályán versenyezne a Corvinus",
+        "txtlength": 21511
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20211208_mandiner_sport_piros_zsombor_tenisz",
+        "h1": "Világelső akar lenni",
+        "txtlength": 20448
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/bank/20211213/egy-orszag-ahol-robotok-fegyelmeznek-az-utcan-a-biztonsag-fellegvara-vagy-tech-remalom-515554",
+        "h1": "Egy ország, ahol robotok fegyelmeznek az utcán: a biztonság fellegvára vagy tech-rémálom?",
+        "txtlength": 18707
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20211213/igazi-fenyo-vagy-mufenyo-karacsonyfa-arak-es-kornyezettudatos-karacsonyfa-kisokos-514826",
+        "h1": "Igazi fenyő vagy műfenyő? - Karácsonyfa árak és környezettudatos karácsonyfa-kisokos",
+        "txtlength": 17960
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/penz/20211214/lassabban-novekednek-azok-a-magyar-cegek-amelyek-unios-tamogatasokat-kapnak/",
+        "h1": "Lassabban növekednek azok a magyar cégek, amelyek uniós támogatásokat kapnak",
+        "txtlength": 17671
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2021/12/14/vegre-utjara-indulhat-minden-idok-legfejlettebb-es-legdragabb-urtavcsove-a-james-webb",
+        "h1": "VÉGRE ÚTJÁRA INDULHAT MINDEN IDŐK LEGFEJLETTEBB ÉS LEGDRÁGÁBB ŰRTÁVCSÖVE, A JAMES WEBB",
+        "txtlength": 14817
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/tech/20211213/itt-a-jelszavak-listaja-ha-te-is-ezt-hasznalod-percek-alatt-kifoszthatnak-1120198",
+        "h1": "Itt a jelszavak listája: ha te is ezt használod, percek alatt kifoszthatnak",
+        "txtlength": 14454
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/vallalkozas/20211213/elni-kell-a-palyazati-lehetosegekkel-de-erdemes-ugyelni-a-reszletekre-1120189",
+        "h1": "Élni kell a pályázati lehetőségekkel, de érdemes ügyelni a részletekre",
+        "txtlength": 14205
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/szepseg/karacsonyi-ajandekcsomagok-2021/",
+        "h1": "Feltölti a ráncokat, tisztítja a zsíros bőrt, varázslatos illatba burkol - A legjobb ajándékcsomagok karácsonyra",
+        "txtlength": 11980
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/lajfhekk/parfum-kolni-kulonbseg/",
+        "h1": "Ha jól akarod elkölteni a pénzed, erre figyelj!",
+        "txtlength": 6732
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://osaarchivum.444.hu/2021/12/13/az-osszes-telefon-es-telexvonalat-elvagtak-a-szabad-europa-radio-es-az-1981-es-lengyel-hadiallapot",
+        "h1": "„Az összes telefon- és telexvonalat elvágták” – A Szabad Európa Rádió és az 1981-es lengyel hadiállapot",
+        "txtlength": 19243
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kulfold/2021/12/14/vera-jourova-jogallamisag-fotanacsnoki-inditvany-mediaszabalyozas-eu",
+        "h1": "Věra Jourová: Készek vagyunk a lehető leghamarabb cselekedni a jogállamiság ügyében",
+        "txtlength": 17393
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kulfold/2021/12/13/lengyelorszag-hadiallapot-1981-jaruzelski",
+        "h1": "A magyar propaganda viccet csinált a lengyelekből, de valójában rettegtek a példájuktól: szabadság, Szolidaritás, 1981",
+        "txtlength": 17297
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/gazdasag/20211214_elelmiszer_pazarlas_elleni_torvenyjavaslat",
+        "h1": "Elveheti az állam, ami más tulajdona – több sebből vérzik az élelmiszer-pazarlás elleni törvényjavaslat",
+        "txtlength": 16807
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kultura/2021/12/13/ismeretlen-budapest-elso-vilaghaboru-katonai-hid-zagyva-astoria-kettes-metro-metroepites/",
+        "h1": "Első világháborús hadihíd is segítette a pesti metróépítést",
+        "txtlength": 15420
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/english/2021/12/14/vera-jourova-interview-rule-of-law-media-regulation",
+        "h1": "Vera Jourova on rule of law matters: We would be ready to act as soon as we can",
+        "txtlength": 15032
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/12/14/gyor-nem-engedett-a-tavhovalsag-tovabb-huzodik",
+        "h1": "Győr nem engedett, a távhőválság tovább húzódik",
+        "txtlength": 14216
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kulfold/2021/12/13/orban-visegradi-negyek-franciaorszag-ferihegyi-repuloter-macron/",
+        "h1": "Orbán: A választások előtt már nem veszi meg az állam a ferihegyi repteret",
+        "txtlength": 12562
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20211213_vegrehajto_Schadl_Volner_vesztegetes_korrupcio_gyanusitas",
+        "h1": "A hét végrehajtó, az oktatási cég és a „vízüzemű motor” – erről szólhat Völner és Schadl sok százmilliósra becsült korrupciós ügye",
+        "txtlength": 12047
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2021/12/14/mongol-diakok-egyhazi-iskola-egressy-beni/",
+        "h1": "Mongol diákokkal trükközhetett egy egyházi iskola",
+        "txtlength": 11460
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20211213_macron_orban_v4_targyalas_jogallamisag_migracio",
+        "h1": "Orbán, Macron és a V4: „Alaposan, kimerítően és szenvedélyesen” tárgyaltak a jogállamiságról",
+        "txtlength": 11405
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/halasztelek-egressy-beni-reformatus-szakgimnazium-visszaeles-tamogatas-mongol-diakok/my3g55w",
+        "h1": "Jogtalanul vett fel támogatást egy fővárosi egyházi iskola a mongol diákjai után?",
+        "txtlength": 10435
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/krimi/nyomkoveto-gyerekelhelyezes-hazi-orizet/m25cml3?sl_ps=d_10",
+        "h1": "Házi őrizet lett a gyermekelhelyezésből – Nyomkövető miatt nem láthatja a kisfiát Gabriella",
+        "txtlength": 9735
+    },
+    {
+        "hostname": "nosalty.hu",
         "pagelink": "https://www.nosalty.hu/recept/csirkemell-ozgerincformaban-sutve-2",
         "h1": "Csirkemell őzgerincformában sütve 2.",
         "txtlength": 14967
