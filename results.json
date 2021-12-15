@@ -275,7 +275,7 @@
   {
     "azon": "LIDL",
     "forras": "",
-    "termeknev": "Cékla 1",
+    "termeknev": "Cékla",
     "termekar": "149",
     "termekcur": "Ft",
     "termekmenny": "",
@@ -288,7 +288,7 @@
   {
     "azon": "LIDL",
     "forras": "",
-    "termeknev": "Csiperkegomba 1",
+    "termeknev": "Csiperkegomba",
     "termekar": "669",
     "termekcur": "Ft",
     "termekmenny": "750 g/csomag",
@@ -327,7 +327,7 @@
   {
     "azon": "LIDL",
     "forras": "",
-    "termeknev": "Almás háromszög 1",
+    "termeknev": "Almás háromszög",
     "termekar": "89",
     "termekcur": "Ft",
     "termekmenny": "100 g",
@@ -340,7 +340,7 @@
   {
     "azon": "LIDL",
     "forras": "",
-    "termeknev": "Friss, antibiotikummentes csirke 1  VALDOR",
+    "termeknev": "Friss, antibiotikummentes csirke  VALDOR",
     "termekar": "899",
     "termekcur": "Ft",
     "termekmenny": "",
@@ -353,7 +353,7 @@
   {
     "azon": "LIDL",
     "forras": "",
-    "termeknev": "Friss sertésoldalas 1  HÚSFARM",
+    "termeknev": "Friss sertésoldalas  HÚSFARM",
     "termekar": "1219",
     "termekcur": "Ft",
     "termekmenny": "",
@@ -366,7 +366,7 @@
   {
     "azon": "LIDL",
     "forras": "",
-    "termeknev": "Krémtúró 1  MILLI",
+    "termeknev": "Krémtúró  MILLI",
     "termekar": "149",
     "termekcur": "Ft",
     "termekmenny": "90 g",
@@ -379,7 +379,7 @@
   {
     "azon": "LIDL",
     "forras": "",
-    "termeknev": "Fitt Túró Rudi 1  PÖTTYÖS",
+    "termeknev": "Fitt Túró Rudi  PÖTTYÖS",
     "termekar": "149",
     "termekcur": "Ft",
     "termekmenny": "38 g",
@@ -1140,7 +1140,7 @@
     "tarfajl": "",
     "tarfajlmert": "",
     "disc": "-27%",
-    "erv": "",
+    "erv": " 12.19.",
     "termeklink": "https://www.lidl.hu/p/zoeldseg-gyuemoelcs-akcioink-12-16-csuetoertoektol/narancs/p117493"
   },
   {
@@ -2796,19 +2796,6 @@
   {
     "azon": "ALDI",
     "forras": "",
-    "termeknev": "MEDION Hangfal DJ-keverőpulttal Rendelhető 2021.11.25-től 2021.12.15-ig, ill. a készlet erejéig",
-    "termekar": "59 990",
-    "termekcur": " Ft",
-    "termekmenny": "/darab",
-    "tarfajl": "59 990 Ft/db",
-    "tarfajlmert": "",
-    "disc": "",
-    "erv": "",
-    "termeklink": "https://www.aldi.hu/hu/ajanlatok/ajanlatok-vasarnaptol-20211212/reszletes-oldal/ps/p/medionhangfal-dj-keveropulttal-1/"
-  },
-  {
-    "azon": "ALDI",
-    "forras": "",
     "termeknev": "XIAOMI Xiaomi MI Smart Projektor Mini Rendelhető 2021.11.25-től 2021.12.16-ig, ill. a készlet erejéig",
     "termekar": "149 990",
     "termekcur": " Ft",
@@ -2935,19 +2922,6 @@
     "disc": "",
     "erv": "",
     "termeklink": "https://www.aldi.hu/hu/ajanlatok/ajanlatok-vasarnaptol-20211212/reszletes-oldal/ps/p/xiaomi-mi-robot-vacuum-mop-1c-robotporszivorendelh/"
-  },
-  {
-    "azon": "ALDI",
-    "forras": "",
-    "termeknev": "NOKIA 5.4 4/64 GB blue okostelefon Rendelhető 2021.12.09-től 2021.12.30-ig, ill. a készlet erejéig",
-    "termekar": "49 990",
-    "termekcur": " Ft",
-    "termekmenny": "/darab",
-    "tarfajl": "49 990 Ft/db",
-    "tarfajlmert": "",
-    "disc": "",
-    "erv": "",
-    "termeklink": "https://www.aldi.hu/hu/ajanlatok/ajanlatok-vasarnaptol-20211212/reszletes-oldal/ps/p/nokia-54-464-gb-blue-okostelefonrendelheto-2021120/"
   },
   {
     "azon": "ALDI",
@@ -8659,6 +8633,32 @@
   {
     "azon": "CBA",
     "forras": "",
+    "termeknev": "Président Brie érlelt lágy sajt 125g",
+    "termekar": "499,- Ft/db",
+    "termekcur": "",
+    "termekmenny": "",
+    "tarfajl": " 3992,00 Ft/kg",
+    "tarfajlmert": "",
+    "disc": "-33%",
+    "erv": "",
+    "termeklink": "https://online.prima.hu/s/president-brie-erlelt-lagy-sajt-125g-10000008936?cat=10902030"
+  },
+  {
+    "azon": "CBA",
+    "forras": "",
+    "termeknev": "Président Brie nemespenéssz.érlelt lágy sajt olívával 125g",
+    "termekar": "499,- Ft/db",
+    "termekcur": "",
+    "termekmenny": "",
+    "tarfajl": " 3992,00 Ft/kg",
+    "tarfajlmert": "",
+    "disc": "",
+    "erv": "",
+    "termeklink": "https://online.prima.hu/s/president-brie-nemespenessz-erlelt-lagy-sajt-olivaval-125g-10000008938?cat=10902030"
+  },
+  {
+    "azon": "CBA",
+    "forras": "",
     "termeknev": "Nádudvari félzsíros tehéntúró 250g",
     "termekar": "319,- Ft/db",
     "termekcur": "",
@@ -8750,19 +8750,6 @@
   {
     "azon": "CBA",
     "forras": "",
-    "termeknev": "Monster energy rehab iced tea szénsavm.hipotóniás ital 500ml",
-    "termekar": "299,- Ft/db",
-    "termekcur": "",
-    "termekmenny": "",
-    "tarfajl": " 598,00 Ft/l",
-    "tarfajlmert": "",
-    "disc": "-33%",
-    "erv": "",
-    "termeklink": "https://online.prima.hu/s/monster-energy-rehab-iced-tea-szensavm-hipotonias-ital-500ml-10000178811?cat=551010"
-  },
-  {
-    "azon": "CBA",
-    "forras": "",
     "termeknev": "Monster Energy szénsavas ital mangó 0.5l",
     "termekar": "299,- Ft/db",
     "termekcur": "",
@@ -8772,6 +8759,19 @@
     "disc": "-33%",
     "erv": "",
     "termeklink": "https://online.prima.hu/s/monster-energy-szensavas-ital-mango-0-5l-10000190030?cat=555510"
+  },
+  {
+    "azon": "CBA",
+    "forras": "",
+    "termeknev": "Monster energy rehab iced tea szénsavm.hipotóniás ital 500ml",
+    "termekar": "299,- Ft/db",
+    "termekcur": "",
+    "termekmenny": "",
+    "tarfajl": " 598,00 Ft/l",
+    "tarfajlmert": "",
+    "disc": "-33%",
+    "erv": "",
+    "termeklink": "https://online.prima.hu/s/monster-energy-rehab-iced-tea-szensavm-hipotonias-ital-500ml-10000178811?cat=551010"
   },
   {
     "azon": "CBA",
@@ -8906,19 +8906,6 @@
   {
     "azon": "CBA",
     "forras": "",
-    "termeknev": "Fa tusfürdő energizing 250ml",
-    "termekar": "469,- Ft/db",
-    "termekcur": "",
-    "termekmenny": "",
-    "tarfajl": " 1876,00 Ft/l",
-    "tarfajlmert": "",
-    "disc": "-32%",
-    "erv": "",
-    "termeklink": "https://online.prima.hu/s/fa-tusfurdo-energizing-250ml-10000035447?cat=601030"
-  },
-  {
-    "azon": "CBA",
-    "forras": "",
     "termeknev": "Fa coconut milk krémtusfürdő term. kókuszkivonattal 250ml",
     "termekar": "469,- Ft/db",
     "termekcur": "",
@@ -8928,6 +8915,19 @@
     "disc": "-32%",
     "erv": "",
     "termeklink": "https://online.prima.hu/s/fa-coconut-milk-kremtusfurdo-term-kokuszkivonattal-250ml-10000147922?cat=601030"
+  },
+  {
+    "azon": "CBA",
+    "forras": "",
+    "termeknev": "Fa tusfürdő energizing 250ml",
+    "termekar": "469,- Ft/db",
+    "termekcur": "",
+    "termekmenny": "",
+    "tarfajl": " 1876,00 Ft/l",
+    "tarfajlmert": "",
+    "disc": "-32%",
+    "erv": "",
+    "termeklink": "https://online.prima.hu/s/fa-tusfurdo-energizing-250ml-10000035447?cat=601030"
   },
   {
     "azon": "CBA",
@@ -8984,19 +8984,6 @@
   {
     "azon": "CBA",
     "forras": "",
-    "termeknev": "Fa Divine moments krémtusfürdő 250ml",
-    "termekar": "469,- Ft/db",
-    "termekcur": "",
-    "termekmenny": "",
-    "tarfajl": " 1876,00 Ft/l",
-    "tarfajlmert": "",
-    "disc": "",
-    "erv": "",
-    "termeklink": "https://online.prima.hu/s/fa-divine-moments-kremtusfurdo-250ml-10000167636?cat=601030"
-  },
-  {
-    "azon": "CBA",
-    "forras": "",
     "termeknev": "Fa Men tusfürdő xtreme sport energy boost 250ml",
     "termekar": "469,- Ft/db",
     "termekcur": "",
@@ -9006,6 +8993,19 @@
     "disc": "",
     "erv": "",
     "termeklink": "https://online.prima.hu/s/fa-men-tusfurdo-xtreme-sport-energy-boost-250ml-10000035428?cat=601030"
+  },
+  {
+    "azon": "CBA",
+    "forras": "",
+    "termeknev": "Fa Divine moments krémtusfürdő 250ml",
+    "termekar": "469,- Ft/db",
+    "termekcur": "",
+    "termekmenny": "",
+    "tarfajl": " 1876,00 Ft/l",
+    "tarfajlmert": "",
+    "disc": "",
+    "erv": "",
+    "termeklink": "https://online.prima.hu/s/fa-divine-moments-kremtusfurdo-250ml-10000167636?cat=601030"
   },
   {
     "azon": "CBA",
@@ -9062,19 +9062,6 @@
   {
     "azon": "CBA",
     "forras": "",
-    "termeknev": "Lelovits Villányi Rosé száraz rozébor 12% 0.75l",
-    "termekar": "1299,- Ft/db",
-    "termekcur": "",
-    "termekmenny": "",
-    "tarfajl": " 1732,00 Ft/l",
-    "tarfajlmert": "",
-    "disc": "-31%",
-    "erv": "",
-    "termeklink": "https://online.prima.hu/s/lelovits-villanyi-rose-szaraz-rozebor-12-0-75l-10000145410?cat=55902010"
-  },
-  {
-    "azon": "CBA",
-    "forras": "",
     "termeknev": "Bodvin Tokaji Szamorodni édes fehérbor 13% 0.5l",
     "termekar": "1299,- Ft/db",
     "termekcur": "",
@@ -9084,6 +9071,19 @@
     "disc": "-31%",
     "erv": "",
     "termeklink": "https://online.prima.hu/s/bodvin-tokaji-szamorodni-edes-feherbor-13-0-5l-10000145391?cat=559050"
+  },
+  {
+    "azon": "CBA",
+    "forras": "",
+    "termeknev": "Lelovits Villányi Rosé száraz rozébor 12% 0.75l",
+    "termekar": "1299,- Ft/db",
+    "termekcur": "",
+    "termekmenny": "",
+    "tarfajl": " 1732,00 Ft/l",
+    "tarfajlmert": "",
+    "disc": "-31%",
+    "erv": "",
+    "termeklink": "https://online.prima.hu/s/lelovits-villanyi-rose-szaraz-rozebor-12-0-75l-10000145410?cat=55902010"
   },
   {
     "azon": "CBA",
@@ -9647,19 +9647,6 @@
   {
     "azon": "CBA",
     "forras": "",
-    "termeknev": "Apenta üdítőital bodza 1,5l",
-    "termekar": "179,- Ft/db",
-    "termekcur": "",
-    "termekmenny": "",
-    "tarfajl": " 119,33 Ft/l",
-    "tarfajlmert": "",
-    "disc": "-30%",
-    "erv": "",
-    "termeklink": "https://online.prima.hu/s/apenta-uditoital-bodza-1-5l-10000027696?cat=551020"
-  },
-  {
-    "azon": "CBA",
-    "forras": "",
     "termeknev": "Apenta Vitamixx üdítőital alma-mangó szénsavm.energiasz.1.5l",
     "termekar": "179,- Ft/db",
     "termekcur": "",
@@ -9673,6 +9660,19 @@
   {
     "azon": "CBA",
     "forras": "",
+    "termeknev": "Apenta üdítőital bodza 1,5l",
+    "termekar": "179,- Ft/db",
+    "termekcur": "",
+    "termekmenny": "",
+    "tarfajl": " 119,33 Ft/l",
+    "tarfajlmert": "",
+    "disc": "-30%",
+    "erv": "",
+    "termeklink": "https://online.prima.hu/s/apenta-uditoital-bodza-1-5l-10000027696?cat=551020"
+  },
+  {
+    "azon": "CBA",
+    "forras": "",
     "termeknev": "Apenta Vitamixx üdítőital eper-v.áfonya sz.ment.cuk.,éd.1.5l",
     "termekar": "179,- Ft/db",
     "termekcur": "",
@@ -9682,19 +9682,6 @@
     "disc": "-30%",
     "erv": "",
     "termeklink": "https://online.prima.hu/s/apenta-vitamixx-uditoital-eper-v-afonya-sz-ment-cuk-ed-1-5l-10000148664?cat=553020"
-  },
-  {
-    "azon": "CBA",
-    "forras": "",
-    "termeknev": "Apenta üdítőital narancs 1,5l",
-    "termekar": "179,- Ft/db",
-    "termekcur": "",
-    "termekmenny": "",
-    "tarfajl": " 119,33 Ft/l",
-    "tarfajlmert": "",
-    "disc": "-30%",
-    "erv": "",
-    "termeklink": "https://online.prima.hu/s/apenta-uditoital-narancs-1-5l-10000027694?cat=551020"
   },
   {
     "azon": "CBA",
@@ -9725,7 +9712,7 @@
   {
     "azon": "CBA",
     "forras": "",
-    "termeknev": "Apenta üdítőital málna 1,5l",
+    "termeknev": "Apenta üdítőital narancs 1,5l",
     "termekar": "179,- Ft/db",
     "termekcur": "",
     "termekmenny": "",
@@ -9733,33 +9720,7 @@
     "tarfajlmert": "",
     "disc": "-30%",
     "erv": "",
-    "termeklink": "https://online.prima.hu/s/apenta-uditoital-malna-1-5l-10000027693?cat=551020"
-  },
-  {
-    "azon": "CBA",
-    "forras": "",
-    "termeknev": "Apenta üdítőital meggy 1,5l",
-    "termekar": "179,- Ft/db",
-    "termekcur": "",
-    "termekmenny": "",
-    "tarfajl": " 119,33 Ft/l",
-    "tarfajlmert": "",
-    "disc": "-30%",
-    "erv": "",
-    "termeklink": "https://online.prima.hu/s/apenta-uditoital-meggy-1-5l-10000027691?cat=551020"
-  },
-  {
-    "azon": "CBA",
-    "forras": "",
-    "termeknev": "Apenta üdítőital grapefruit 1,5l",
-    "termekar": "179,- Ft/db",
-    "termekcur": "",
-    "termekmenny": "",
-    "tarfajl": " 119,33 Ft/l",
-    "tarfajlmert": "",
-    "disc": "-30%",
-    "erv": "",
-    "termeklink": "https://online.prima.hu/s/apenta-uditoital-grapefruit-1-5l-10000027695?cat=551020"
+    "termeklink": "https://online.prima.hu/s/apenta-uditoital-narancs-1-5l-10000027694?cat=551020"
   },
   {
     "azon": "CBA",
@@ -9790,6 +9751,32 @@
   {
     "azon": "CBA",
     "forras": "",
+    "termeknev": "Apenta üdítőital málna 1,5l",
+    "termekar": "179,- Ft/db",
+    "termekcur": "",
+    "termekmenny": "",
+    "tarfajl": " 119,33 Ft/l",
+    "tarfajlmert": "",
+    "disc": "-30%",
+    "erv": "",
+    "termeklink": "https://online.prima.hu/s/apenta-uditoital-malna-1-5l-10000027693?cat=551020"
+  },
+  {
+    "azon": "CBA",
+    "forras": "",
+    "termeknev": "Apenta üdítőital meggy 1,5l",
+    "termekar": "179,- Ft/db",
+    "termekcur": "",
+    "termekmenny": "",
+    "tarfajl": " 119,33 Ft/l",
+    "tarfajlmert": "",
+    "disc": "-30%",
+    "erv": "",
+    "termeklink": "https://online.prima.hu/s/apenta-uditoital-meggy-1-5l-10000027691?cat=551020"
+  },
+  {
+    "azon": "CBA",
+    "forras": "",
     "termeknev": "Apenta light üditőital szőlő enyhén széns.ásványvíz. 1.5l",
     "termekar": "179,- Ft/db",
     "termekcur": "",
@@ -9812,6 +9799,19 @@
     "disc": "-30%",
     "erv": "",
     "termeklink": "https://online.prima.hu/s/apenta-vitamixx-uditoital-korte-rebar-sz-ment-cuk-ed-1-5l-10000148665?cat=553020"
+  },
+  {
+    "azon": "CBA",
+    "forras": "",
+    "termeknev": "Apenta üdítőital grapefruit 1,5l",
+    "termekar": "179,- Ft/db",
+    "termekcur": "",
+    "termekmenny": "",
+    "tarfajl": " 119,33 Ft/l",
+    "tarfajlmert": "",
+    "disc": "-30%",
+    "erv": "",
+    "termeklink": "https://online.prima.hu/s/apenta-uditoital-grapefruit-1-5l-10000027695?cat=551020"
   },
   {
     "azon": "CBA",
@@ -9998,19 +9998,6 @@
   {
     "azon": "CBA",
     "forras": "",
-    "termeknev": "Président Brie érlelt lágy sajt 125g",
-    "termekar": "499,- Ft/db",
-    "termekcur": "",
-    "termekmenny": "",
-    "tarfajl": " 3992,00 Ft/kg",
-    "tarfajlmert": "",
-    "disc": "-28%",
-    "erv": "",
-    "termeklink": "https://online.prima.hu/s/president-brie-erlelt-lagy-sajt-125g-10000008936?cat=10902030"
-  },
-  {
-    "azon": "CBA",
-    "forras": "",
     "termeknev": "Flora gold vajas íz margarin csészés 400g",
     "termekar": "499,- Ft/db",
     "termekcur": "",
@@ -10020,19 +10007,6 @@
     "disc": "-28%",
     "erv": "",
     "termeklink": "https://online.prima.hu/s/flora-gold-vajas-iz-margarin-cseszes-400g-10000195778?cat=106010"
-  },
-  {
-    "azon": "CBA",
-    "forras": "",
-    "termeknev": "Président Brie nemespenéssz.érlelt lágy sajt olívával 125g",
-    "termekar": "499,- Ft/db",
-    "termekcur": "",
-    "termekmenny": "",
-    "tarfajl": " 3992,00 Ft/kg",
-    "tarfajlmert": "",
-    "disc": "",
-    "erv": "",
-    "termeklink": "https://online.prima.hu/s/president-brie-nemespenessz-erlelt-lagy-sajt-olivaval-125g-10000008938?cat=10902030"
   },
   {
     "azon": "CBA",
@@ -10076,19 +10050,6 @@
   {
     "azon": "CBA",
     "forras": "",
-    "termeknev": "Dawtona dzsem fekete ribizli 280g",
-    "termekar": "299,- Ft/db",
-    "termekcur": "",
-    "termekmenny": "",
-    "tarfajl": " 1067,86 Ft/kg",
-    "tarfajlmert": "",
-    "disc": "-28%",
-    "erv": "",
-    "termeklink": "https://online.prima.hu/s/dawtona-dzsem-fekete-ribizli-280g-10000179885?cat=358010"
-  },
-  {
-    "azon": "CBA",
-    "forras": "",
     "termeknev": "Dawtona dzsem meggy 280g",
     "termekar": "299,- Ft/db",
     "termekcur": "",
@@ -10098,6 +10059,19 @@
     "disc": "-28%",
     "erv": "",
     "termeklink": "https://online.prima.hu/s/dawtona-dzsem-meggy-280g-10000179884?cat=358010"
+  },
+  {
+    "azon": "CBA",
+    "forras": "",
+    "termeknev": "Dawtona dzsem fekete ribizli 280g",
+    "termekar": "299,- Ft/db",
+    "termekcur": "",
+    "termekmenny": "",
+    "tarfajl": " 1067,86 Ft/kg",
+    "tarfajlmert": "",
+    "disc": "-28%",
+    "erv": "",
+    "termeklink": "https://online.prima.hu/s/dawtona-dzsem-fekete-ribizli-280g-10000179885?cat=358010"
   },
   {
     "azon": "CBA",
