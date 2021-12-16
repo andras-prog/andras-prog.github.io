@@ -1,6 +1,180 @@
 [
     {
         "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/klasszikus-hagyomanyos-bejgli",
+        "h1": "Klasszikus hagyományos bejgli",
+        "txtlength": 25296
+    },
+    {
+        "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/ropogos-omlos-sult-kacsacomb-vicikotol",
+        "h1": "Ropogós, omlós, sült kacsacomb - Vicikótól",
+        "txtlength": 22417
+    },
+    {
+        "hostname": "hataratkelo.blog.hu",
+        "pagelink": "https://hataratkelo.blog.hu/2021/12/09/irany_amerika_nemi_nehezsegekkel#c41094810",
+        "h1": "Irány Amerika - némi nehézségekkel",
+        "txtlength": 53364
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2021/12/16/karacsony-gergely-penz-nelkul-se-zold-politikat-nem-lehet-csinalni-se-narancssargat",
+        "h1": "KARÁCSONY GERGELY: PÉNZ NÉLKÜL SE ZÖLD POLITIKÁT NEM LEHET CSINÁLNI, SE NARANCSSÁRGÁT",
+        "txtlength": 36920
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/otthon/20211213/ujabb-aremeles-jon-az-epitoanyagoknal-mar-januarban-fajhat-az-epitkezok-feje-1120108",
+        "h1": "Újabb áremelés jön az építőanyagoknál: már januárban fájhat az építkezők feje",
+        "txtlength": 32100
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/vasarlas/20211212/most-kezdodik-csak-az-igazi-bojt-indul-a-felhalmozasi-hullam-draga-lesz-az-idei-karacsony-1120126",
+        "h1": "Most kezdődik csak az igazi böjt: indul a felhalmozási hullám, drága lesz az idei karácsony",
+        "txtlength": 25907
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20211215/jerome-powell-mar-egy-szoval-sem-mondta-hogy-az-inflacio-atmeneti-lesz-516412",
+        "h1": "Jerome Powell már egy szóval sem mondta, hogy az infláció átmeneti lesz ",
+        "txtlength": 24652
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20211215_varoshaza_ugy_vizsgalobizottsag_osszefogalalo",
+        "h1": "Városháza-ügy: a vagyonkezelő vezetője beismerte, hogy hibázott",
+        "txtlength": 24392
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20211215/eljott-a-nagy-nap-ma-este-elrakja-fustolgo-fegyveret-a-fed-amellyel-felforgatta-a-piacokat-es-a-gazdasagot-516188",
+        "h1": "Eljött a nagy nap: ma este elrakja füstölgő fegyverét a Fed, amellyel felforgatta a piacokat és a gazdaságot",
+        "txtlength": 21828
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20211215_az_atom_a_nagy_belso_horogdobas_kovacs_antal_a_mandinernek",
+        "h1": "Az atom a nagy belső horogdobás – Kovács Antal a Mandinernek",
+        "txtlength": 21421
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vilag/20211216/azok-is-elutasitjak-az-allam-egyik-legfontosabb-feladatat-akik-jol-jarnanak-vele/",
+        "h1": "Azok is elutasítják az állam egyik legfontosabb feladatát, akik jól járnának vele",
+        "txtlength": 21184
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20211214_fovarosi_kozgyules_varoshaza_ugy_koltsegvetes_karacsony_gergely",
+        "h1": "A Városházán tüntettek Karácsonyék ellen",
+        "txtlength": 19900
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/kozelet/20211215/magyar-ovonok-a-szakmarol-ez-nem-eletpalya-hanem-halalpalyamodell/",
+        "h1": "Magyar óvónők a szakmáról: ez nem életpálya-, hanem halálpályamodell",
+        "txtlength": 18361
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/ingatlan/20211216/berobbant-a-hibrid-vilag-az-irodapiacra-igy-alakul-at-az-igeny-es-a-hasznalat-516126",
+        "h1": "Berobbant a hibrid világ az irodapiacra - Így alakul át az igény és a használat",
+        "txtlength": 18140
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/karacsony/herner-dorka-karacsonyi-interju/",
+        "h1": "Anya előtt a karácsony: ha te elfogysz szentestére, akkor elveszett az ünnep is - Interjú Herner Dorkával",
+        "txtlength": 12356
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/szuloseg/kamasz-tiktok-orultseg/",
+        "h1": "A TikTok is hibás a kamaszok őrültségeiért, de nem mindenért",
+        "txtlength": 9278
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://qubit.hu/2021/12/16/karacsony-gergely-penz-nelkul-se-zold-politikat-nem-lehet-csinalni-se-narancssargat",
+        "h1": "KARÁCSONY GERGELY: PÉNZ NÉLKÜL SE ZÖLD POLITIKÁT NEM LEHET CSINÁLNI, SE NARANCSSÁRGÁT",
+        "txtlength": 36786
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/belfold/2021/12/16/matolcsy-gyorgy-budapest-keruletek-onallosodas-versenykepesseg-zubreczki-ongjerth-tosics",
+        "h1": "Tárgyi tévedések, abszurd ötletek, rossz megoldások – városkutatók a Budapest feldarabolásáról szóló Matolcsy-tervről",
+        "txtlength": 18059
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/12/15/akar-eros-vedettseguk-is-lehet-a-gyogyultaknak-de-tovabbra-is-az-a-biztos-ha-beoltatjak-magukat",
+        "h1": "Akár erős védettségük is lehet a gyógyultaknak, de továbbra is az a biztos, ha beoltatják magukat",
+        "txtlength": 17828
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20211215_kinevezes_birosagi_vegrehajto_Schadl_elozetes_Volner_Pal",
+        "h1": "Ki a hét végrehajtó, akik 884 milliót fizethettek a kinevezésükért?",
+        "txtlength": 15644
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kultura/2021/12/15/apartmanhotel-lesz-a-bazilika-mellett-pollack-mihaly-muemlek-epuletebol/",
+        "h1": "Apartmanhotel lesz a Bazilika mellett Pollack Mihály műemlék épületéből",
+        "txtlength": 15538
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/eurologus/20211215_eucsucs_elozetes_eurologus",
+        "h1": "Harciasan üzentünk Brüsszelnek, bár velünk most nem foglalkoznak",
+        "txtlength": 14213
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2021/12/16/szentgyorgyvolgyi-bakony-fold-eppel-janos-ner/",
+        "h1": "NER-közeli üzletembertől, tisztázatlan forrásból vásárolt a belvárosi polgármester 24 hektárt",
+        "txtlength": 13714
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/tech/2021/12/15/okosora-aktivitasmero-eladasok-magyarorszag/",
+        "h1": "A magyarok sem félnek 100 ezret költeni egy okosórára",
+        "txtlength": 13193
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/szorakozas/2021/12/15/lenyugozo-matrix-demo-mutatta-meg-milyen-lehetnek-a-jovo-videojatekai",
+        "h1": "Lenyűgöző Mátrix-demó mutatta meg, milyenek lehetnek a jövő videójátékai",
+        "txtlength": 12447
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kult/2021/12/15/hosszulepes-budapesten-varosi-seta-konyv-merker-david-koniorczyk-borbala",
+        "h1": "A legjobb dolog elveszni a városban, és megalkotni a saját Budapestünket",
+        "txtlength": 11671
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/krimi/volnar-pal-biro-ica-kilakoltatas-korrupcio-vegrehajto-m-eszter-polip/jtzj4jz?sl_ps=d_6",
+        "h1": "A Völner-ügy újabb szála: Bíró Icát is kisemmizte a lecsukott végrehajtó",
+        "txtlength": 11191
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/fekete-parduc-kiskunhalas/tqjzfds",
+        "h1": "„Felmászok egy közeli oszlopra” – Tartanak a szabadon kószáló vadállattól a kiskunhalasiak",
+        "txtlength": 10423
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/tudomany/20211216_vakcina_oltas_alhir_tudosok_nagy_barrington_nyilatkozat_urbanlegends",
+        "h1": "Hogy mit mondott 60 000 tudós? Óriási hülyeség terjed az oltásokról, nehogy elhiggye",
+        "txtlength": 8941
+    },
+    {
+        "hostname": "nosalty.hu",
         "pagelink": "https://www.nosalty.hu/recept/legegyszerubb-muffin",
         "h1": "A legegyszerűbb muffin",
         "txtlength": 13797
