@@ -1,6 +1,186 @@
 [
     {
         "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/szekelykaposzta-1",
+        "h1": "Székelykáposzta 1.",
+        "txtlength": 21801
+    },
+    {
+        "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/karacsonyi-rakott-csirkemell",
+        "h1": "Karácsonyi rakott csirkemell",
+        "txtlength": 19827
+    },
+    {
+        "hostname": "kulturpart.hu",
+        "pagelink": "https://kulturpart.blog.hu/2021/12/16/a_10_legizgalmasabb_parfum-_es_divatreklam",
+        "h1": "A 10 LEGIZGALMASABB PARFÜM- ÉS DIVATREKLÁM",
+        "txtlength": 21468
+    },
+    {
+        "hostname": "alapblog.hu",
+        "pagelink": "https://alapblog.hu/bitcoin-vs-arany-egy-fogadas-amit-meg-nem-nyertem-meg-de-mar-nagyon-csalodott-lennek-ha-elveszitenem/",
+        "h1": "Bitcoin vs. arany – Egy fogadás, amit még nem nyertem meg, de már nagyon csalódott lennék, ha elveszíteném",
+        "txtlength": 12895
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20211216_szatmary_interju",
+        "h1": "Budapest nem veszhet el a polgári oldal számára – Szatmáry Kristóf a Mandinernek",
+        "txtlength": 25861
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/kozelet/20211217/megvannak-az-alapok-a-magyar-gazdasag-jovobeli-sikertortenetehez/",
+        "h1": "Megvannak az alapok a magyar gazdaság jövőbeli sikertörténetéhez",
+        "txtlength": 22917
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20211216_svedorszag_migracio_johan_lundberg",
+        "h1": "Svédországban már túl késő – stockholmi professzor a multikulturalizmusról",
+        "txtlength": 21132
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/ingatlan/20211217/vilagszinvonalu-ultramodern-belvarost-kap-zuglo-516222",
+        "h1": "Világszínvonalú, ultramodern belvárost kap Zugló",
+        "txtlength": 20813
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/auto/20211216/folytatodik-a-horror-a-magyar-autopiacon-mar-a-listaarat-sem-tudjak-garantalni-a-gyartok-1120290",
+        "h1": "Folytatódik a horror a magyar autópiacon: már a listaárat sem tudják garantálni a gyártók",
+        "txtlength": 19831
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20211216_elkeszult_a_magyar_zene_haza_gyorgyevics_benedek_interju",
+        "h1": "Elkészült a világ egyik legjobban várt épülete",
+        "txtlength": 18591
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/penz/20211216/leegyszerusodott-a-kartyas-terminalok-igenylese-harom-ev-alatt-duplajara-nott-a-szamuk/",
+        "h1": "Leegyszerűsödött a kártyás terminálok igénylése, három év alatt duplájára nőtt a számuk",
+        "txtlength": 17828
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/vasarlas/20211216/pizza-kanaan-koszonthet-be-a-magyar-konyhakba-ez-lehet-most-a-karacsonyi-slagerajandek-1120223",
+        "h1": "Pizza-kánaán köszönthet be a magyar konyhákba: ez lehet most a karácsonyi slágerajándék",
+        "txtlength": 17309
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/global/20211216/a-veres-polgarhaboru-amely-meg-az-amerikai-politikaban-is-atrajzolja-a-toresvonalakat-516158",
+        "h1": "A véres polgárháború, amely még az amerikai politikában is átrajzolja a törésvonalakat",
+        "txtlength": 16188
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20211216/atlag-alatt-termel-az-aramfogyasztasi-rekordok-idejen-paks-516528",
+        "h1": "Átlag alatt termel az áramfogyasztási rekordok idején Paks",
+        "txtlength": 15271
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2021/12/17/a-ferfiak-problemairol-alig-esik-szo-pedig-ha-ertenenk-oket-tenni-lehetne-azert-hogy-ne-a-szelsojobbra-szavazzanak",
+        "h1": "A FÉRFIAK PROBLÉMÁIRÓL ALIG ESIK SZÓ, PEDIG, HA ÉRTENÉNK ŐKET, TENNI LEHETNE AZÉRT, HOGY NE A SZÉLSŐJOBBRA SZAVAZZANAK",
+        "txtlength": 11937
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/szepseg/haj-megerositese-modszerek/",
+        "h1": "Gyorsabban nő és szépen megerősödik a haj: 7 otthoni módszer, ami szép eredményt hoz",
+        "txtlength": 10780
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/szuloseg/babanevek-gyerek-keresztnev-2021/",
+        "h1": "A sztárok is A sztárok is befolyásolták 2021 babanévlistáját2021 babanév-listáját",
+        "txtlength": 8396
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2021/12/17/fleck-zoltan-interju-kozjogi-atmenet-alkotmany-kormanyvaltas/",
+        "h1": "Fleck Zoltán: Sunnyogni, hallgatni nem nagyon lehet",
+        "txtlength": 33650
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/koronavirus/2021/12/17/covid-vakcinak-oltasok-fertozes-elleni-vedelem-csokkenes-negy-honap-vedettseg-atoltottsag-vedettek-szama-harmadik-oltas-omikron",
+        "h1": "Sokkal kevesebb oltott lehet valóban védett a fertőzés ellen Magyarországon, mint amit a hivatalos számok sugallnak",
+        "txtlength": 21510
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/gazdasag/2021/12/16/a-vegrehajtoi-bunbanda-a-hetkoznapokban",
+        "h1": "A végrehajtói bűnbanda a hétköznapokban",
+        "txtlength": 20547
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/12/17/a-fidesz-a-kozmunkastol-a-nyugdijasig-ezermilliardokat-oszt-szet",
+        "h1": "A Fidesz a közmunkástól a nyugdíjasig ezermilliárdokat oszt szét",
+        "txtlength": 14197
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/nevertek/2021/12/17/magyar-euro-bevezetes-valasz-az-mnb-cikkere",
+        "h1": "Eurócsatlakozás: inkább az inflációról és a forintárfolyamról kéne beszélni",
+        "txtlength": 13691
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/kkv/20211216_volner_pal_hivatali_vesztegetesi_ugye_cegek_vallalkozasok",
+        "h1": "Pár év alatt megötszörözte forgalmát egy Völnerrel kapcsolatba hozott cég",
+        "txtlength": 12059
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://qubit.hu/2021/12/17/a-ferfiak-problemairol-alig-esik-szo-pedig-ha-ertenenk-oket-tenni-lehetne-azert-hogy-ne-a-szelsojobbra-szavazzanak",
+        "h1": "A FÉRFIAK PROBLÉMÁIRÓL ALIG ESIK SZÓ, PEDIG, HA ÉRTENÉNK ŐKET, TENNI LEHETNE AZÉRT, HOGY NE A SZÉLSŐJOBBRA SZAVAZZANAK",
+        "txtlength": 11736
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/gazdasag/20211216_MNB_inflacio_dragulas_arak",
+        "h1": "MNB: Majdnem kétszer akkorát drágulhatnak az élelmiszerek jövőre, mint idén",
+        "txtlength": 11659
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kultura/2021/12/16/pokember-nincs-hazaut-kritika-marvel-szuperhosfilm/",
+        "h1": "Itt a világ összes Pókembere, de ennek a srácnak csak a szomszéd lány kell",
+        "txtlength": 11614
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/kultura/20211216_legjobb_tudomasom_szerint_kritika_nemi_eroszak_metoo_szexualis_eroszak_hamori_gabriella",
+        "h1": "Ön természetesen sosem gondolna ilyesmiket a nemi erőszak áldozatairól",
+        "txtlength": 11519
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/krimi/volnar-pal-biro-ica-kilakoltatas-korrupcio-vegrehajto-m-eszter-polip/jtzj4jz",
+        "h1": "A Völner-ügy újabb szála: Bíró Icát is kisemmizte a lecsukott végrehajtó",
+        "txtlength": 11378
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/fekete-parduc-kiskunhalas/95dt6qe?sl_ps=d_9",
+        "h1": "Veszélyben lehet a Kiskunhalason bóklászó fekete párduc, egymillióért adják az illegális kereskedők",
+        "txtlength": 9872
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2021/12/16/repulobaleset-itm-debrecen/",
+        "h1": "Hason landoltak egy repülővel Debrecenben az ITM légügyi prominensei",
+        "txtlength": 9373
+    },
+    {
+        "hostname": "nosalty.hu",
         "pagelink": "https://www.nosalty.hu/recept/klasszikus-hagyomanyos-bejgli",
         "h1": "Klasszikus hagyományos bejgli",
         "txtlength": 25296
