@@ -1,6 +1,198 @@
 [
     {
         "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/vadas-martas-serteshussal",
+        "h1": "Vadas mártás sertéshússal",
+        "txtlength": 18092
+    },
+    {
+        "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/hajtogatott-tepertos-pogacsa-anditol",
+        "h1": "Hajtogatott tepertős pogácsa Anditól",
+        "txtlength": 16346
+    },
+    {
+        "hostname": "kiszamolo.hu",
+        "pagelink": "https://kiszamolo.hu/mi-lesz-a-csok-kal-babvaroval-es-a-csok-hitellel-valas-eseten/",
+        "h1": "Mi lesz a CSOK-kal, babaváróval és a CSOK hitellel válás esetén?",
+        "txtlength": 33039
+    },
+    {
+        "hostname": "alapblog.hu",
+        "pagelink": "https://alapblog.hu/a-passziv-befektetesi-alapok-veszelyei/",
+        "h1": "A passzív befektetési alapok veszélyei",
+        "txtlength": 9057
+    },
+    {
+        "hostname": "efesasanisimasa.com",
+        "pagelink": "https://efesasanisimasa.com/2021/12/08/valan-az-angyalok-volgye-2019/",
+        "h1": "Valan – Az angyalok völgye (2019)",
+        "txtlength": 7653
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20211215_kozelet_herczegh_anita_regoczi_istvan_alapitvany_covid",
+        "h1": "„Olyan drámák voltak, amik mellett nem lehetett elmenni” – Herczegh Anita a Mandinernek",
+        "txtlength": 24313
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/kozelet/20211219/meg-azelott-elfogyhat-a-pfizer-magyarorszagon-hogy-az-uj-beszerzes-ideer/",
+        "h1": "Még azelőtt elfogyhat a Pfizer Magyarországon, hogy az új beszerzés ideér",
+        "txtlength": 21238
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20211218_belfold_marki_zay_peter_median_hvg_kutatas_felmeres",
+        "h1": "Márki-Zay csökkenő népszerűsége miatt elkezdődött a gondolkodás az esetleges lecseréléséről",
+        "txtlength": 20118
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/global/20211218/nato-tagok-acsarkodnak-egymasra-a-foldkozi-tengeren-mikozben-furcsa-szovetsegek-kottetnek-516828",
+        "h1": "NATO-tagok acsarkodnak egymásra a Földközi-tengeren, miközben furcsa szövetségek köttetnek",
+        "txtlength": 20044
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/gazdasag/20211215/2021-meg-csak-a-kezdet-brutalis-valsag-sujthat-le-magyarorszagra-jovore-1120265",
+        "h1": "2021 még csak a kezdet: brutális válság sújthat le Magyarországra jövőre",
+        "txtlength": 19607
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20211219_szekely_iras_matyas_kiraly_nemzeti_identitas",
+        "h1": "Kik és hogyan használták valójában a székely írást? – kutatók a Mandinernek",
+        "txtlength": 19057
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/global/20211219/tizezrevel-menekulnek-a-hongkongiak-peking-uralma-elol-a-nyugati-toke-azonban-rendithetetlen-516882",
+        "h1": "Tízezrével menekülnek a hongkongiak Peking uralma elől – A nyugati tőke azonban rendíthetetlen",
+        "txtlength": 18977
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/kozelet/20211218/a-zold-gazdasagban-tobb-es-ertekesebb-munkahely-van-mint-a-hagyomanyosban/",
+        "h1": "A zöld gazdaságban több és értékesebb munkahely van, mint a hagyományosban",
+        "txtlength": 18501
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/vasarlas/20211218/beutott-a-sokkolo-aruhiany-ezeket-a-slager-termekeket-mar-ne-is-keresd-a-boltokban-2021-ben-1120357",
+        "h1": "Beütött a sokkoló áruhiány: ezeket a sláger-termékeket már ne is keresd a boltokban 2021-ben",
+        "txtlength": 18456
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20211217/hatalmas-fordulat-a-nagy-koltekezes-utan-korrigal-a-kormany-516720",
+        "h1": "Hatalmas fordulat: a nagy költekezés után korrigál a kormány",
+        "txtlength": 17933
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2021/12/19/10-jo-konyv-karacsonyra-a-qubit-ajanlasaval",
+        "h1": "10 JÓ KÖNYV KARÁCSONYRA A QUBIT AJÁNLÁSÁVAL",
+        "txtlength": 17933
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/otthon/fuszernoveny-neveles-telen/",
+        "h1": "Ezek a fűszernövények jól bírják a benti nevelést: válaszd őket a téli időszakra Megyeri Szabolcs kertész szerint",
+        "txtlength": 13444
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/testem/kutatas-legszexibbbb-hajszin-legsikeresebb-barna-voros-szoke/",
+        "h1": "A legszexibb hajszínnel nem jutsz el a csúcsra",
+        "txtlength": 10809
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/szuloseg/ferfinak-szuletett-gyereke/",
+        "h1": "férfinak született gyereke",
+        "txtlength": 10601
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/szorakozas/2021/12/19/ha-karacsony-akkor-tarsasjatek-1",
+        "h1": "Ha karácsony, akkor társasjáték!",
+        "txtlength": 24723
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/belfold/2021/12/18/roma-diszkriminacio-lakhatas-alberlet-kereses",
+        "h1": "Az utolsó két lakásnál sírva jöttem el",
+        "txtlength": 20617
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kultura/2021/12/18/ismeretlen-magyarok-tibor-reich-textil-epitesz-anglia/",
+        "h1": "A nácik elől menekülő magyar textiltervező, aki kiszínezte a háború miatt beszürkült Angliát",
+        "txtlength": 19062
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/tudomany/2021/12/19/tatarjaras-mongol-kivonulas-magyarorszag-kozepkor/",
+        "h1": "Valójában a magyarok legyőzték a tatárokat?",
+        "txtlength": 18278
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/elet-stilus/2021/12/18/soma-mamagesa-spitzer-gyongyi-interju/",
+        "h1": "Soma Mamagésa: Tudatosan készülök a kicsekkolásra, hogy gyönyörű legyen majd",
+        "txtlength": 18230
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/tudomany/20211218_fejes_zsolt_csillagasz_csillagfeny_mellett_konyvajanlo",
+        "h1": "Így járhat az, aki sosem néz a lába elé – Fejes Zsolt hobbicsillagász",
+        "txtlength": 15129
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kulfold/2021/12/18/stephen-port-gyilkos-sorozatgyilkos-brit-rendorseg-hiba",
+        "h1": "Végig ott volt az orruk előtt a pofonegyszerű megoldás, mégis hagyták tombolni a sorozatgyilkost a rendőrök",
+        "txtlength": 15057
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/struccfarm-orias-madar-keltetes-vagas-rugas-riport/6m52gg8",
+        "h1": "150 kiló, de az agya egy dió: buta, ám gyilkos állatok élnek Donát magyarországi farmján",
+        "txtlength": 13194
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/gazdasag/20211219_Es_akkor_inflacio_kamat_elelmiszer_bolt_volner_lakasok",
+        "h1": "És akkor a kormány kiveszi a Mikulás zsákjából a mindjárt lejáró csokit",
+        "txtlength": 11888
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/12/19/arverezik-a-gyori-stadiont-szilveszterkor-indul-a-licit-a-quaestor-vagyonra",
+        "h1": "Árverezik a győri stadiont – szilveszterkor indul a licit a Quaestor-vagyonra",
+        "txtlength": 11722
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/12/18/a-szex-es-new-yorkbol-ismert-chris-noth-ot-mar-harom-no-vadolja-szexualis-eroszakkal",
+        "h1": "A Szex és New Yorkból ismert Chris Nothot már három nő vádolja szexuális erőszakkal",
+        "txtlength": 10868
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/kulfold/brexit-david-frost-lemondott/l3rm47y",
+        "h1": "Lemondott a brit Brexit-ügyi államtitkár",
+        "txtlength": 9469
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/tudomany/20211219_apple_tracker_detect_app_androidosoknak",
+        "h1": "Androidos és fél, hogy titokban követik? Akkor töltse le az Apple alkalmazását",
+        "txtlength": 9378
+    },
+    {
+        "hostname": "nosalty.hu",
         "pagelink": "https://www.nosalty.hu/recept/dios-makos-bejgli-3-bejgli-6",
         "h1": "Diós és mákos bejgli 3. (Bejgli 6.)",
         "txtlength": 18002
