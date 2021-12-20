@@ -1,5 +1,173 @@
 [
     {
+        "hostname": "kiszamolo.hu",
+        "pagelink": "https://kiszamolo.hu/ez-tortent-a-heten-2/",
+        "h1": "Ez történt a héten",
+        "txtlength": 29407
+    },
+    {
+        "hostname": "alapblog.hu",
+        "pagelink": "https://alapblog.hu/mi-kerul-majd-a-fa-ala-kozelgo-unnepek-az-elhuzodo-kontenervalsag-fenyeben/",
+        "h1": "Mi kerül majd a fa alá? – Közelgő ünnepek az elhúzódó konténerválság fényében",
+        "txtlength": 7816
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/kozelet/20211220/a-magyar-modell-nem-vesz-tudomast-a-tarsadalmi-hatranyokrol/",
+        "h1": "A magyar modell nem vesz tudomást a társadalmi hátrányokról",
+        "txtlength": 22232
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20211216_amikor_a_munkaado_betart_lombikprogramos_par_meseli_el_pokoljarasuk_tortenetet",
+        "h1": "„Amikor a munkaadó betart” – lombikprogramos pár meséli el pokoljárásuk történetét",
+        "txtlength": 22024
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20211220/rado-peter-tiz-eves-a-torveny-ami-lejtore-lokte-a-kozoktatast-516660",
+        "h1": "Radó Péter: tíz éves a törvény, ami lejtőre lökte a közoktatást",
+        "txtlength": 21794
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20211216_elovalasztas_kozos_lista_ellenzek_mszp_jobbik_dk_momentum_parbeszed_lmp",
+        "h1": "Több ellenzéki pártlistát már lenyomtak a tagság torkán, de még akad bizonytalanság",
+        "txtlength": 21310
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vallalat/20211219/erthetetlen-hogy-mi-tortenik-az-uzemanyagarakkal-magyarorszagon/",
+        "h1": "Érthetetlen, hogy mi történik az üzemanyagárakkal Magyarországon",
+        "txtlength": 19317
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/uzlet/20211220/ezekkel-a-megoldasokkal-fuggetlenedhetnek-az-energia-dragulasatol-a-cegek-516576",
+        "h1": "Ezekkel a megoldásokkal függetlenedhetnek az energia drágulásától a cégek",
+        "txtlength": 18690
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20211217_belfold_kutatas_marki_zay_peter_baloldal_felmeres_iranytu_intezet",
+        "h1": "Összevissza beszél az ellenzék a számukra előnytelen kutatásról",
+        "txtlength": 18334
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/bank/20211220/celunk-a-legzoldebb-bankka-valni-magyarorszagon-515730",
+        "h1": "\"Célunk: a legzöldebb bankká válni Magyarországon\"",
+        "txtlength": 17696
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2021/12/20/elkepesztoen-gyorsan-kepes-terjedni-az-omikron-de-az-astrazeneca-a-moderna-es-a-pfizer-felveszi-vele-a-harcot",
+        "h1": "ELKÉPESZTŐEN GYORSAN KÉPES TERJEDNI AZ OMIKRON, DE AZ ASTRAZENECA, A MODERNA ÉS A PFIZER FELVESZI VELE A HARCOT",
+        "txtlength": 17138
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/vasarlas/20211215/karacsonyi-osszeomlas-kuszoben-rengeteg-magyar-igy-gyozd-le-az-unnepi-stresszt-a-tulkoltekezest-1120280",
+        "h1": "Karácsonyi összeomlás küszöbén rengeteg magyar: így győzd le az ünnepi stresszt, a túlköltekezést",
+        "txtlength": 16288
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/megtakaritas/20211215/eszmeletlenul-berezeltek-a-magyarok-ezert-fogjak-meg-most-tomegek-a-kolteseiket-1120267",
+        "h1": "Eszméletlenül berezeltek a magyarok: ezért fogják meg most tömegek a költéseiket",
+        "txtlength": 16065
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/otthon/lakas-vasarlas-egyedulallokent/",
+        "h1": "Mennyi önerő kell egy 25 milliós lakáshoz, és hogy teremthető elő az önerő egyedülállóként? A szakértő válaszolt",
+        "txtlength": 15876
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/szuloseg/karacsony-teli-szunet-gyerekekkel-10-program/",
+        "h1": "Vége a sulinak? Itt van 10 jó program a gyerekeknek",
+        "txtlength": 7552
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/komplex/2021/12/20/kihalo-falvak-aprofalvak-videk-falu-fiatalok-komplex",
+        "h1": "\n      Nálunk nyugodt az élet, nem veszekedünk, hát nincs kivel\n    ",
+        "txtlength": 38869
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/elet/20211219_A_hivatalos_Downton_Abbey_szakacskonyv_uborkaleves_toad_in_the_hole_reteges_narancstorta",
+        "h1": "„Daisy! Fagylaltot mondtam, nem cukormázas tortát!” – kipróbáltuk a Downton Abbey-szakácskönyvet",
+        "txtlength": 20237
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/tldr/2021/12/20/a-konyv-ami-szerint-teljesen-ujra-kellene-irni-a-vilag-tortenelmet",
+        "h1": "A könyv, ami szerint teljesen újra kellene írni a világ történelmét",
+        "txtlength": 19839
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/fn/gazdasag/2021/12/20/gazdasagi-fejlettseg-1995-2020-gdp-kozep-europa/",
+        "h1": "Lemaradtunk a régióban, hiába a sikerpropaganda",
+        "txtlength": 19675
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/elet/20211219_Jelenleg_birkakat_nevelunk__Tiz_eves_Hoffmann_Rozsa_fo_muve",
+        "h1": "„Jelenleg birkákat nevelünk” - Tízéves Hoffmann Rózsa fő műve",
+        "txtlength": 17467
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://qubit.hu/2021/12/20/elkepesztoen-gyorsan-kepes-terjedni-az-omikron-de-az-astrazeneca-a-moderna-es-a-pfizer-felveszi-vele-a-harcot",
+        "h1": "ELKÉPESZTŐEN GYORSAN KÉPES TERJEDNI AZ OMIKRON, DE AZ ASTRAZENECA, A MODERNA ÉS A PFIZER FELVESZI VELE A HARCOT",
+        "txtlength": 16404
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/tudomany/2021/12/19/atomenergia-nuklearis-energia-kis-modularis-reaktorok-smr-william-magwood-interju/",
+        "h1": "Az atomenergia új korszakát hozhatják el a kis atomerőművek",
+        "txtlength": 15677
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/belfold/2021/12/19/exkluziv-csomag-a-hasznaltauto-hu-n-nem-hirdetheted-mashol-az-autoidat",
+        "h1": "Mit tehet meg és mit nem egy nagy hirdetési portál, ha ő az úr a piacon?",
+        "txtlength": 14345
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/szorakozas/2021/12/19/gomorra-sorozat-roberto-saviano-napoly-maffia-camorra",
+        "h1": "A Gomorránál jobban még semmi sem mutatta be Nápoly legmocskosabb oldalát",
+        "txtlength": 13091
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kultura/2021/12/19/podcast-filezo-olimpia-etterem-adam-csaba/",
+        "h1": "A végleg bezáró Olimpia étterem vezetője szerint kőkemény változásokra lenne szükség a vendéglátásban",
+        "txtlength": 12614
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/blikk-tv/sztarvilag/poth-dia-gyepes-gabor-kiso-mujegpalya/5wz0yqw",
+        "h1": "Sztárok a jégen – Nem mindennapi dolgot tudtunk meg Kisóról és a Farm VIP házaspárjáról, Póth Diáról és Gyepes Gáborról – videó",
+        "txtlength": 11167
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20211220_Orban_Ma_az_europaiaknak_nincs_joguk_a_hazajukhoz",
+        "h1": "Orbán: Ma az európaiaknak nincs joguk a hazájukhoz",
+        "txtlength": 10201
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/krimi/eclipse-ugy-katzenbach-imre-gyilkossag-nyomozas-poligraf-szembesites/ckepsjh",
+        "h1": "Semmit sem nyert azzal, hogy kipakolt? Sok börtönév vár H. Attilára, aki feldobta a társait, köztük Curtis testvérét a Katzenbach-gyilkosság ügyében",
+        "txtlength": 9570
+    },
+    {
         "hostname": "nosalty.hu",
         "pagelink": "https://www.nosalty.hu/recept/vadas-martas-serteshussal",
         "h1": "Vadas mártás sertéshússal",
