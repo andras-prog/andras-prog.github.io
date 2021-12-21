@@ -1,5 +1,203 @@
 [
     {
+        "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/csuka-mama-bejglije",
+        "h1": "Csuka mama bejglije",
+        "txtlength": 17966
+    },
+    {
+        "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/franciasalata",
+        "h1": "Franciasaláta",
+        "txtlength": 16851
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/gesztenyes-bejgli.recept",
+        "h1": "GESZTENYÉS BEJGLI",
+        "txtlength": 13329
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/mezes-kremes-grizes.recept",
+        "h1": "MÉZES KRÉMES",
+        "txtlength": 12305
+    },
+    {
+        "hostname": "kiszamolo.hu",
+        "pagelink": "https://kiszamolo.hu/heti-hirosszefoglalo-2/",
+        "h1": "Heti hírösszefoglaló",
+        "txtlength": 30551
+    },
+    {
+        "hostname": "efesasanisimasa.com",
+        "pagelink": "https://efesasanisimasa.com/2021/12/20/fekete-tukor-black-mirror-2011/",
+        "h1": "Fekete tükör (Black Mirror, Season 1-5, 2011-)",
+        "txtlength": 15280
+    },
+    {
+        "hostname": "alapblog.hu",
+        "pagelink": "https://alapblog.hu/gorogorszag-tovabbra-is-vonzo-befektetesi-celpont/",
+        "h1": "Görögország: továbbra is vonzó befektetési célpont",
+        "txtlength": 10485
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/global/20211221/mercedes-benz-eqs-580-4matic-teszten-az-ultragazdag-csaladok-elektromos-autoja-517178",
+        "h1": "Mercedes-Benz EQS 580 4MATIC: teszten az ultragazdag családok elektromos autója",
+        "txtlength": 26696
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://sport.mandiner.hu/cikk/20211220_szabo_szebasztian_hetfon_megszerezheti_az_elso_magyar_ermet_a_rovid_palyas_uszo_vilagbajnoksagon_abu_dzabiban_a_legjobb_idovel_jutott_az_50_pillango_dontojebe",
+        "h1": "Szabó Szebasztián hétfőn megszerezheti az első magyar érmet a rövid pályás úszó-világbajnokságon Abu-Dzabiban – a legjobb idővel jutott az 50 pillangó döntőjébe",
+        "txtlength": 24083
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/penz/20211220/fialtassuk-a-penzunket-eletbiztositassal/",
+        "h1": "Fialtassuk a pénzünket életbiztosítással",
+        "txtlength": 19434
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/kozelet/20211221/ertelmetlenul-rovid-es-alacsony-osszegu-a-munkanelkuliek-segelyezese/",
+        "h1": "Értelmetlenül rövid és alacsony összegű a munkanélküliek segélyezése",
+        "txtlength": 19070
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20211221/forradalmi-valtozas-keszul-a-lakossagi-allampapiroknal-az-inflacio-is-atrajzolhatja-a-piacot-517112",
+        "h1": "Forradalmi változás készül a lakossági állampapíroknál, az infláció is átrajzolhatja a piacot",
+        "txtlength": 18481
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://precedens.mandiner.hu/cikk/20211220_facebook_kozossegi_media_gdpr_irorszag_europai_birosag",
+        "h1": "Figyelmen kívül hagyja a Facebook az Európai Bíróság ítéleteit",
+        "txtlength": 16466
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2021/12/20/eletre-nevelo-tanfolyam-99-evnel-fiatalabbaknak",
+        "h1": "ÉLETRE NEVELŐ TANFOLYAM 99 ÉVNÉL FIATALABBAKNAK",
+        "txtlength": 16371
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/szorakozas/20211218/ebben-az-orszagreszben-lehet-feher-a-karacsony-oriasi-tevhitek-doltek-meg-az-unnepi-havazasrol-1120311",
+        "h1": "Ebben az országrészben lehet fehér a karácsony: óriási tévhitek dőltek meg az ünnepi havazásról",
+        "txtlength": 15994
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/bank/20211220/15-20-evre-biztosithatjuk-magunknak-az-alacsony-lakashitelkamatokat-interju-517088",
+        "h1": "15-20 évre biztosíthatjuk magunknak az alacsony lakáshitelkamatokat (Interjú)",
+        "txtlength": 15798
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/otthon/20211216/a-klimavaltozashoz-tervezik-az-uj-zugloi-varosnegyedet-1120263",
+        "h1": "A klímaváltozáshoz tervezik az új Zuglói Városnegyedet",
+        "txtlength": 15775
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20211220_1977_ben_meg_csak_85_ezret_adtak_az_565_millios_csontvary_kepert",
+        "h1": "1977-ben még csak 85 ezret adtak az 565 milliós Csontváry-képért",
+        "txtlength": 15767
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/kapcsolat/elso-talalkozas-partner-szuleivel-rokonaival/",
+        "h1": "Első találkozás a partner szüleivel, rokonaival? Gyorsan megkedvelnek, ha erre a 7 dologra figyelsz",
+        "txtlength": 11128
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/lajfhekk/legrosszabb-karacsonyi-filmek/",
+        "h1": "Legrosszabb karácsonyi filmek",
+        "txtlength": 9702
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/direkt36/2021/12/21/kinai-lelegeztetogep-korhaz-egeszsegugy-karbantartas-fustol-direkt36",
+        "h1": "„Eladó nem vállalja a karbantartást” – küszködtek a kórházak a füstölő, alkatrészhiányos kínai lélegeztetőgépekkel",
+        "txtlength": 21961
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2021/12/21/keleti-vakcinak-szputynik-sinopharm-ogyei-engedelyezes-koronavirus-jarvany/",
+        "h1": "Sok aggályuk volt a szakértőknek a keleti vakcinák miatt a titkos dokumentumok szerint",
+        "txtlength": 18811
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kultura/2021/12/20/matrix-ujratoltve-forradalmak-wachowski-testverek/",
+        "h1": "Miért csavarodott rá a fél világ a Mátrixra, és mi értelme volt a folytatásoknak?",
+        "txtlength": 18307
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://qubit.hu/2021/12/21/jarvany-idejen-ha-van-oltas-oltunk",
+        "h1": "JÁRVÁNY IDEJÉN, HA VAN OLTÁS, OLTUNK",
+        "txtlength": 14534
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/tudomany/2021/12/20/kullancs-virus-hyalomma-krimi-kongoi-verzeses-laz/",
+        "h1": "Hamarosan kiderül, meghódítja-e hazánkat az új kullancs",
+        "txtlength": 14278
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/12/21/megijedtem-hogy-a-kozlekedesi-muzeumot-is-ram-akarjatok-bizni",
+        "h1": "„Megijedtem, hogy a Közlekedési Múzeumot is rám akarjátok bízni”",
+        "txtlength": 14196
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/nevertek/2021/12/21/a-torok-vegjatek-erdogan-lira-inflacio",
+        "h1": "8 helyett 18 lett, maradhat? A török végjáték",
+        "txtlength": 12509
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/belfold/2021/12/20/januar-osszefoglalo-2021-ev-vege",
+        "h1": "Telex Neked #2021 január: Rémó, gyere már, ezt nézzed, baszki",
+        "txtlength": 11470
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20211220_Varoshazavizsgalobizottsag_egymast_cafoljak_a_vad_tanui_Gansperger_hallgat",
+        "h1": "Városháza-vizsgálóbizottság: egymást cáfolják a vád tanúi, Gansperger hallgat",
+        "txtlength": 10741
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/kulfold/anglia-jarvanyellenes-intezkedesek-covid-omikron/9czyv0w",
+        "h1": "Anglia bármelyik pillanatban szigoríthat a járványellenes intézkedéseken",
+        "txtlength": 10154
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/negyedik-oltas-koronavirus-ellen-moderna/95ty2kx?sl_ps=d_5",
+        "h1": "Kijátszotta a rendszert: negyedik oltást is kapott Balázs",
+        "txtlength": 9549
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/tudomany/20211221_elektromos_legitaxi_orca_v8_aerinx",
+        "h1": "Elektromos repülő taxit fejleszt egy magyar cég, már tervben van a tesztrepülés",
+        "txtlength": 8827
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20211220_ellenzek_kozvelemeny_kutatas_eselyek",
+        "h1": "Index: Márki-Zay számára készült az ellenzék visszaesését mutató közvélemény-kutatás",
+        "txtlength": 8486
+    },
+    {
         "hostname": "kiszamolo.hu",
         "pagelink": "https://kiszamolo.hu/ez-tortent-a-heten-2/",
         "h1": "Ez történt a héten",
