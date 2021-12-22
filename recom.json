@@ -1,6 +1,198 @@
 [
     {
         "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/beigli-karacsonyra",
+        "h1": "Beigli karácsonyra",
+        "txtlength": 21133
+    },
+    {
+        "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/mezes-tejfolos-pudingos-szelet",
+        "h1": "Mézes tejfölös pudingos szelet",
+        "txtlength": 15573
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/tejberizses-torta.recept",
+        "h1": "TEJBERIZSES TORTA",
+        "txtlength": 12687
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/borsofozelek-rantott-fogasfilevel-es-fenyomaggal.recept",
+        "h1": "BORSÓFŐZELÉK RÁNTOTT FOGASFILÉVEL ÉS FENYŐMAGGAL",
+        "txtlength": 12118
+    },
+    {
+        "hostname": "hataratkelo.blog.hu",
+        "pagelink": "https://hataratkelo.blog.hu/2021/12/19/karacsonyvaras_amerikaban#c41106302",
+        "h1": "Karácsonyvárás Amerikában",
+        "txtlength": 54495
+    },
+    {
+        "hostname": "kulturpart.hu",
+        "pagelink": "https://kulturpart.blog.hu/2021/12/21/hianyzo_szavak",
+        "h1": "HIÁNYZÓ SZAVAK",
+        "txtlength": 10396
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20211222/jon-az-otodik-jarvanyhullam-magyarorszagon-ugy-hivjak-hogy-omikron-miert-kell-tartanunk-tole-517176",
+        "h1": "Jön az ötödik járványhullám Magyarországon, úgy hívják, hogy omikron - Miért kell tartanunk tőle?",
+        "txtlength": 29242
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/unios-forrasok/20211222/magyarok-szazezreit-kinozhatja-rejtetten-a-kullancs-kor-ami-most-egy-vilagraszolo-megoldassal-felismerhetove-valik-517152",
+        "h1": "Magyarok százezreit kínozhatja rejtetten a kullancs-kór, ami most egy világraszóló megoldással felismerhetővé válik",
+        "txtlength": 27102
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20211221_amerika_egyesult_allamok_konfoderacio_konyv_szilvay_gergely",
+        "h1": "Na, ez a könyv nem jelenhetett volna meg Amerikában",
+        "txtlength": 22969
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/karrier/20211220/robotok-veszelyeztetik-a-magyar-munkahelyeket-kiderult-az-igazsag-ez-var-rank-a-jovoben-1120358",
+        "h1": "Robotok veszélyeztetik a magyar munkahelyeket? Kiderült az igazság, ez vár ránk a jövőben",
+        "txtlength": 22653
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20211220_marki_zay_peter_kutatas_iranytu_intezet_ellenzek_baloldal_index",
+        "h1": "Egyenesen Márki-Zay részére készült a kutatás, amiről azt állította, csak a sajtóból ismeri",
+        "txtlength": 22266
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/vasarlas/20211219/gigaroham-indult-a-magyar-konyvesboltokban-ezek-a-libri-es-a-lira-sikerkonyvei-2021-ben-1120230",
+        "h1": "Gigaroham indult a magyar könyvesboltokban: ezek a Libri és a Líra sikerkönyvei 2021-ben",
+        "txtlength": 20596
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2021/12/21/17-kulonleges-kartyajatek-karacsonyra-a-qubit-ajanlasaval",
+        "h1": "17 KÜLÖNLEGES KÁRTYAJÁTÉK KARÁCSONYRA A QUBIT AJÁNLÁSÁVAL",
+        "txtlength": 19646
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vilag/20211222/van-egy-orszag-ahol-meg-most-sincs-inflacio/",
+        "h1": "Van egy ország, ahol még most sincs infláció",
+        "txtlength": 18809
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/global/20211221/polgarhaboruval-riogatnak-amerika-befolyasos-emberei-tenyleg-ennyire-nagy-a-baj-517130",
+        "h1": "Polgárháborúval riogatnak Amerika befolyásos emberei – Tényleg ennyire nagy a baj?",
+        "txtlength": 18025
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vallalat/20211220/politikai-vagy-gazdasagi-okok-miatt-nem-jon-tobb-orosz-gaz/",
+        "h1": "Politikai vagy gazdasági okok miatt nem jön több orosz gáz?",
+        "txtlength": 17290
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20211216_444_ellenzek_kampany_felmeres_fidesz",
+        "h1": "444: Amíg az ellenzék csak vitatkozik, a Fidesz egyre erősödik",
+        "txtlength": 17251
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/karacsony/sutisutes-gyerekkel/",
+        "h1": "Mi az? Gyerekkel hat óra, gyerek nélkül kettő? A karácsonyi aprósütemények elkészítése!",
+        "txtlength": 14875
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/lajfhekk/pszichologiai-konyvek-amiket-ferfiak-irtak/",
+        "h1": "Az 5 legjobb pszichós könyv, amit férfiak írtak",
+        "txtlength": 9295
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/politika/orban-viktor-rendkivuli-kormanyinfo-ev-vege/9gt3e1v",
+        "h1": "Orbán Viktor rendkívüli bejelentései: új, az omikron elleni vakcinákról és a kötelező oltásról is beszélt",
+        "txtlength": 26033
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/elet/20211221_karacsonyi_sorok_teszt_desszertsor_sor_ajandekba",
+        "h1": "Imádtuk a lilahagymás sört, de a meggyes-mákos se rossz: teszten a legfurcsább sörök",
+        "txtlength": 20287
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kulfold/2021/12/21/hongkong-demokracia-valasztas-kina",
+        "h1": "Megszületett a hongkongi típusú demokrácia, ahol 90-ből 89 képviselő Kína-párti",
+        "txtlength": 16906
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://qubit.hu/2021/12/22/a-konzervativ-kereszteny-anyaeszmeny-talcan-kinalja-a-noknek-az-amerikai-almot-csak-a-kovetkezmenyekrol-hallgat",
+        "h1": "A KONZERVATÍV-KERESZTÉNY ANYAESZMÉNY TÁLCÁN KÍNÁLJA A NŐKNEK AZ AMERIKAI ÁLMOT, CSAK A KÖVETKEZMÉNYEKRŐL HALLGAT",
+        "txtlength": 16069
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/belfold/2021/12/21/a-magyar-kormany-nem-fogja-betartani-az-europai-birosag-iteletet-jelentette-be-orban",
+        "h1": "A magyar kormány szuverenitási kérdést csinál a jogsértésből, nem akarják betartani az Európai Bíróság ítéletét",
+        "txtlength": 15713
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/vilag/20211222_europai_populizmus_korkep_2021",
+        "h1": "A mindent elsöprő populista hullám 2021-re elvesztette erejét",
+        "txtlength": 15218
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/belfold/2021/12/21/novak-katalin-koztarsasagielnok-jelolt-portre",
+        "h1": "Novák Katalin, akiben Orbán Viktor már évekkel ezelőtt meglátta az erőt és a kurázsit",
+        "txtlength": 12405
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/12/21/miert-novak-katalint-valasztotta-orban-viktor-allamfojeloltnek",
+        "h1": "Miért Novák Katalint választotta Orbán Viktor államfőjelöltnek?",
+        "txtlength": 12207
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kultura/2021/12/21/podcast-bukso-pataki-agi-nyary-krisztian/",
+        "h1": "Pataki Ági: Nemhogy nem haragszom arra, aki jelentett rólam, hanem hálás vagyok érte",
+        "txtlength": 11883
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2021/12/21/orban-viktor-kormanyinfo-video-novak-katalin-volner-pal-valaszok/",
+        "h1": "Orbán direkt nem mondja ki Márki-Zay Péter nevét",
+        "txtlength": 11009
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2021/12/21/kormanyinfo-orban-viktor-bejelentes-koronavirus-sajtotajekoztato-2021-december/",
+        "h1": "Reméli, a harmadik oltás működik, a negyedik oltás már nehezen menne Orbánnak",
+        "txtlength": 10838
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/kulfold/omikron-tunetek-oltas-vedettseg-covid-koronavirus-tudnivalok-mutans/l93cwrp?sl_ps=d_9",
+        "h1": "Mennyire veszélyes? Milyen fertőző? Mi lesz, ha elkapom? Íme, a válaszok: vezető tudósok elmondtak mindent az omikronról, amit tudni lehet",
+        "txtlength": 10625
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20211221_Orban_kormanyinfo",
+        "h1": "Orbán Viktor a kormányinfón: Új népjóléti intézkedéseket tervez a kormány a választások előtt",
+        "txtlength": 8991
+    },
+    {
+        "hostname": "nosalty.hu",
         "pagelink": "https://www.nosalty.hu/recept/csuka-mama-bejglije",
         "h1": "Csuka mama bejglije",
         "txtlength": 17966
