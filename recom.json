@@ -1,6 +1,204 @@
 [
     {
         "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/fanta-szelet-detty-konyhajabol",
+        "h1": "Fanta szelet Detty konyhájából",
+        "txtlength": 16081
+    },
+    {
+        "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/mezes-kremes",
+        "h1": "Mézes krémes",
+        "txtlength": 14078
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/wellingon-belszin-zoldbors-martassal.recept",
+        "h1": "WELLINGON BÉLSZÍN ZÖLDBORS MÁRTÁSSAL",
+        "txtlength": 11986
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/mezeskalacs-haziko-egyszeruen.recept",
+        "h1": "MÉZESKALÁCS HÁZIKÓ",
+        "txtlength": 11782
+    },
+    {
+        "hostname": "kiszamolo.hu",
+        "pagelink": "https://kiszamolo.hu/a-blog-cikkei-osszegyujtve/",
+        "h1": "A blog cikkei összegyűjtve",
+        "txtlength": 20140
+    },
+    {
+        "hostname": "efesasanisimasa.com",
+        "pagelink": "https://efesasanisimasa.com/2021/12/20/a-nagy-penzrablas-1-4-evad-la-casa-del-papel-tv-series-2017/",
+        "h1": "A nagy pénzrablás – 1-5. évad (La Casa del Papel, TV Series, 2017-2021)",
+        "txtlength": 14605
+    },
+    {
+        "hostname": "alapblog.hu",
+        "pagelink": "https://alapblog.hu/a-jovo-afrika-szerintem/",
+        "h1": "A jövő: Afrika (szerintem)",
+        "txtlength": 14495
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://makronom.mandiner.hu/cikk/20211222_gyorffy_dora_olah_daniel_felzarkozas_gazdasag_novekedes",
+        "h1": "Nem leszakadáshoz, hanem felzárkózáshoz vezethet a magyar út",
+        "txtlength": 33216
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vallalat/20211223/az-allam-felvasarolna-a-jogilag-ellehetetlenitett-meddosegi-maganklinikakat-is/",
+        "h1": "Az állam felvásárolná a jogilag ellehetetlenített meddőségi magánklinikákat is",
+        "txtlength": 28021
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20211215_marsai_viktor_kulfold_mali",
+        "h1": "Ősi rejtélyek, mai kihívások Maliban",
+        "txtlength": 22532
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://precedens.mandiner.hu/cikk/20211222_az_emberi_jogokat_nemzeti_kozossegek_elik_meg_beszelgetes_paolo_g_carozzaval",
+        "h1": "Az emberi jogokat nemzeti közösségek élik meg – beszélgetés Paolo G. Carozzával",
+        "txtlength": 22298
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2021/12/23/meg-elon-musk-cegehez-is-behivtak-a-magyar-agykutatot-aki-patkanyokat-tanitott-meg-doomozni",
+        "h1": "MÉG ELON MUSK CÉGÉHEZ IS BEHÍVTÁK A MAGYAR AGYKUTATÓT, AKI PATKÁNYOKAT TANÍTOTT MEG DOOMOZNI",
+        "txtlength": 20651
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/kozelet/20211222/vegso-soron-mi-kell-magyarorszag-felzarkozasahoz/",
+        "h1": "Végső soron mi kell Magyarország felzárkózásához?",
+        "txtlength": 19371
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/tech/20211222/robottechnologiaval-mukodo-automata-ipari-mosot-fejlesztett-a-logicon-invest-magyarorszag-kft-x-1120451",
+        "h1": "Robottechnológiával működő automata ipari mosót fejlesztett a Logicon Invest Magyarország Kft. (x)",
+        "txtlength": 18216
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/ingatlan/20211222/kivancsi-vagy-mennyit-fog-erni-a-budapesti-lakasod-egy-ev-mulva-itt-a-valasz-517132",
+        "h1": "Kíváncsi vagy, mennyit fog érni a budapesti lakásod egy év múlva? - Itt a válasz",
+        "txtlength": 15214
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/uzlet/20211223/itt-a-het-utolso-kereskedesi-napja-a-magyar-tozsden-felpattant-az-otp-517922",
+        "h1": "Itt a hét utolsó kereskedési napja a magyar tőzsdén - Felpattant az OTP ",
+        "txtlength": 15169
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/otthon/20211220/elkepesztoen-nagyot-nottek-az-elviteles-karacsonyi-menuk-arai-is-olcsobb-otthon-megfozni-1120347",
+        "h1": "Elképesztően nagyot nőttek az elviteles karácsonyi menük árai is: olcsóbb otthon megfőzni?",
+        "txtlength": 14895
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20211223/megvan-hol-farag-le-a-kormany-755-milliard-forintot-jovore-egy-resze-egyelore-csak-igeret-517890",
+        "h1": "Megvan, hol farag le a kormány 755 milliárd forintot jövőre - Egy része egyelőre csak ígéret",
+        "txtlength": 14763
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/ezo/vesna-vulovic-tortenete/",
+        "h1": "A stewardess, aki hihetetlen módon túlélt egy 10 ezer méteres zuhanást: Jugoszlávia hősnője lett",
+        "txtlength": 11603
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/szuloseg/testverek-baratnok/",
+        "h1": "testvérek barátnők",
+        "txtlength": 8977
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/komplex/2021/12/22/james-webb-space-telescope-urteleszkop-vilagegyetem-galaxisok-csillagaszat-urkutatas-nasa",
+        "h1": "\n      Tizenegymilliárd dollárba került, és újra fogja írni a kozmikus történelmet\n    ",
+        "txtlength": 49616
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/gazdasag/20211222_allamhaztartas_osztogatas_koltsegvetes_gazdasagpolitika",
+        "h1": "A kormány tücsök, a választások előtt még hegedül egy nagyot, de aztán jön a hangyalét",
+        "txtlength": 21388
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://qubit.hu/2021/12/23/meg-elon-musk-cegehez-is-behivtak-a-magyar-agykutatot-aki-patkanyokat-tanitott-meg-doomozni",
+        "h1": "MÉG ELON MUSK CÉGÉHEZ IS BEHÍVTÁK A MAGYAR AGYKUTATÓT, AKI PATKÁNYOKAT TANÍTOTT MEG DOOMOZNI",
+        "txtlength": 20622
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://qubit.hu/2021/12/22/edes-jezusom-itt-egy-geek-mit-vegyek-neki-karacsonyra",
+        "h1": "ÉDES JÉZUSOM, ITT EGY GEEK, MIT VEGYEK NEKI KARÁCSONYRA?",
+        "txtlength": 19870
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/erdo-peter-biboros-karacsony-interju-jarvany-isten-vigasz-hit/be079gv?sl_ps=d_6",
+        "h1": "Erdő Péter bíboros a Blikknek: „Az nyújthat vigaszt, hogy velünk az Isten!” – Beszélgetés régi karácsonyokról, járványról, gyógyulásról, bátorságról és hitről",
+        "txtlength": 19677
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/valasztas-2022/2021/12/23/ellenzek-marki-zay-peter-karacsony-nepszavazas-kozvelemeny-kutatas-elemzes",
+        "h1": "Bénázás, szivárogtatás, kóstolgatás: eluralkodott a bizalmatlanság az ellenzéki oldalon",
+        "txtlength": 18517
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kultura/2021/12/22/michael-patrick-king-interju-szex-es-new-york-forgatokonyviro-folytatas-es-egyszer-csak/",
+        "h1": "A Szex és New York írója elárulta, miért kellett a folytatásban meghalnia Mr. Bignek",
+        "txtlength": 17710
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kulfold/2021/12/22/kuba-meleghazassag-orokbefogadas-alkotmany-nepszavazas-lmbtq",
+        "h1": "LMBTQ-forradalom a machismo kontinensén: Kubában is törvényessé tennék a melegházasságot",
+        "txtlength": 15970
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/tudomany/2021/12/23/omikron-koronavirus-panik-tudomyan-politika/",
+        "h1": "Felesleges pánik zajlik az omikron körül?",
+        "txtlength": 15591
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/tudomany/2021/12/22/rak-daganat-allatok-ragadozo/",
+        "h1": "Miért lesz egy állat rákos?",
+        "txtlength": 13360
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/politika/szja-mentesseg-adovisszaterites-beremelesek-osszeszedtuk-kik-szamithatnak-plusz/wjhbr12",
+        "h1": "Szja-mentesség, adóvisszatérítés, béremelések: összeszedtük, kik számíthatnak plusz pénzre 2022-ben",
+        "txtlength": 12138
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/gazdasag/20211222_Narancssarga_gyertyat_DKs_gyufaval_karacsonyra_Miert_is_ne",
+        "h1": "Narancssárga gyertyát DK-s gyufával karácsonyra? Miért is ne!",
+        "txtlength": 11373
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/tudomany/20211223_elon_musk_neuralink_patkanyok_doom_toth_viktor",
+        "h1": "Állásinterjúra hívta Elon Musk cége a magyar kutatót, aki patkányokat tanított meg doomozni",
+        "txtlength": 10856
+    },
+    {
+        "hostname": "nosalty.hu",
         "pagelink": "https://www.nosalty.hu/recept/beigli-karacsonyra",
         "h1": "Beigli karácsonyra",
         "txtlength": 21133
