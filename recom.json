@@ -1,6 +1,198 @@
 [
     {
         "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/tiramisu-5-igazi",
+        "h1": "Tiramisu 5. - az \"igazi\"",
+        "txtlength": 19041
+    },
+    {
+        "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/makos-guba-vaniliasodoval",
+        "h1": "Mákos guba vaníliasodóval",
+        "txtlength": 13512
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/karacsonyi-csokipuding.recept",
+        "h1": "KARÁCSONYI CSOKIPUDING",
+        "txtlength": 11527
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/hagyomanyos-karacsonyi-gyumolcskenyer.recept",
+        "h1": "HAGYOMÁNYOS KARÁCSONYI GYÜMÖLCSKENYÉR",
+        "txtlength": 11356
+    },
+    {
+        "hostname": "hataratkelo.blog.hu",
+        "pagelink": "https://hataratkelo.blog.hu/2021/12/19/karacsonyvaras_amerikaban#c41109562",
+        "h1": "Karácsonyvárás Amerikában",
+        "txtlength": 53319
+    },
+    {
+        "hostname": "hafr.hvgblog.hu",
+        "pagelink": "https://hafr.hvgblog.hu/2020/12/08/behanyas_az_mcc-ben_es_a_napi_525_forintnyi_elelem/",
+        "h1": "Behányás az MCC-ben és a napi 525 forintnyi élelem",
+        "txtlength": 11565
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/krtk/20211224/jovore-60-eves-az-eu-kozos-agrarpolitikaja-siker-vagy-kudarc-517846",
+        "h1": "Jövőre 60 éves az EU közös agrárpolitikája: siker vagy kudarc?",
+        "txtlength": 36328
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/befektetes/20211223/2021-legorultebb-tozsdei-sztorija-igy-zajlott-a-memreszveny-orulet-516306",
+        "h1": "2021 legőrültebb tőzsdei sztorija: így zajlott a mémrészvény-őrület",
+        "txtlength": 28033
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20211222_marosi_adam_ottusa_interju_lovaglas_torlese",
+        "h1": "Csak fogtuk a fejünket, hogyan történhet ez – Marosi Ádám a Mandinernek",
+        "txtlength": 24469
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20211221_karacsonyfadisz_szabo_lajos",
+        "h1": "Aki a fél világot ellátta karácsonyfadísszel, és sohasem hitt a lehetetlenben",
+        "txtlength": 23107
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/szorakozas/20211223/itt-a-karacsonyi-musor-ezeket-a-filmeket-sorozatokat-nezhetjuk-a-teveben-netflixen-hbo-go-n-1120509",
+        "h1": "Itt a karácsonyi műsor: ezeket a filmeket, sorozatokat nézhetjük a tévében, Netflixen, HBO GO-n",
+        "txtlength": 22543
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2021/12/24/az-orszag-ahol-betiltottak-a-karacsonyt",
+        "h1": "AZ ORSZÁG, AHOL BETILTOTTÁK A KARÁCSONYT",
+        "txtlength": 21399
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20211215_ugrosdy_marton_kulfold_autonomia",
+        "h1": "Óvilági unikornis – Tűnődések a stratégiai autonómiáról",
+        "txtlength": 21125
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20211224/elkepeszto-profit-a-luxuspiacon-megis-mi-kerul-egy-parfumben-tobb-szazezer-forintba-516108",
+        "h1": "Elképesztő profit a luxuspiacon: mégis, mi kerül egy parfümben több százezer forintba?",
+        "txtlength": 19391
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vallalat/20211222/ibuying-ezzel-az-uj-modszerrel-adnak-el-villamgyorsan-evi-tobb-mint-tizezer-ingatlant-az-usa-ban/",
+        "h1": "iBuying – ezzel az új módszerrel adnak el villámgyorsan évi több mint tízezer ingatlant az USA-ban",
+        "txtlength": 19167
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vallalat/20211224/a-teeszbol-lett-csaladi-vallalkozas-nemzetkozi-piacra-viszi-a-35-eves-abonettet/",
+        "h1": "A téeszből lett családi vállalkozás nemzetközi piacra viszi a 35 éves Abonettet",
+        "txtlength": 18377
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/vasarlas/20211221/errol-a-legtobb-magyar-megfeledkezik-most-a-bevasarlasnal-pedig-siman-tizezreket-sprolhatnanak-1120414",
+        "h1": "Erről a legtöbb magyar megfeledkezik most a bevásárlásnál: pedig simán tízezreket sprólhatnának",
+        "txtlength": 16300
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/szuloseg/ne-eroltesd-a-gyerekedre-az-oleleseket/",
+        "h1": "Az ölelést nem kell eltűrni, pláne erőltetni",
+        "txtlength": 11650
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/utazas/lillian-alling-tortenete/",
+        "h1": "Honvágya volt, gyalog indult el New Yorkból Szibériába: Lillian Alling négy év alatt tette meg a veszélyes utat",
+        "txtlength": 11643
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/komplex/2021/12/23/olyan-munkat-vegzek-el-amit-ott-nem-vegezne-el-senki",
+        "h1": "\n      A láthatatlan migráció\n    ",
+        "txtlength": 33842
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://qubit.hu/2021/12/24/az-orszag-ahol-betiltottak-a-karacsonyt",
+        "h1": "AZ ORSZÁG, AHOL BETILTOTTÁK A KARÁCSONYT",
+        "txtlength": 21419
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/12/24/a-kinai-divatbehemot-masolassal-es-algoritmusokkal-tarolja-le-a-nemzetkozi-fast-fashion-piacot",
+        "h1": "A kínai divatbehemót másolással és algoritmusokkal tarolja le a nemzetközi fast fashion piacot",
+        "txtlength": 21269
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kultura/2021/12/24/jolsvai-andras-marton-irma-tevedese-matine/",
+        "h1": "Madarász Henrietta úgy döntött, Swárni Parwaghidával veteti el a szüzességét",
+        "txtlength": 20350
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/interju/2021/12/23/berki-zsolt-a-varoshazan-nem-mukodott-semmilyen-jutalekos-rendszer-koholmany-aljas-ragalom-az-egesz",
+        "h1": "„Gyanús lett, amikor erőltették a második találkozót” – interjú Berki Zsolttal, a Városháza-ügy egyik kulcsfigurájával",
+        "txtlength": 16385
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/belfold/2021/12/24/telex-neked-41-karacsonyi-telex-udvozlet-orban-szemelyisege-es-marki-zay-keztorese",
+        "h1": "Telex Neked #41: Karácsonyi Telex-üdvözlet, Orbán személyisége és Márki-Zay kéztörése",
+        "txtlength": 15456
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kulfold/2021/12/24/juliane-koepcke-legikatasztrofa-csoda-peru-1971-december-24-tulelo-evfordulo/",
+        "h1": "„A dzsungel megmentett engem” – 50 éve történt a légikatasztrófák egyik legnagyobb csodája",
+        "txtlength": 14497
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kultura/2021/12/23/a-matrix-feltamadasok-probalja-elviccelni-hogy-mennyire-folosleges-volt-leforgatni/",
+        "h1": "A Mátrix: Feltámadások próbálja elviccelni, hogy mennyire fölösleges volt leforgatni",
+        "txtlength": 14127
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/tudomany/20211224_nagyboldogasszony_es_szent_adalbert_foszekesegyhaz_esztergomi_bazilika_felujitasa_lebego_allvanyzat",
+        "h1": "Ég és föld között: külföldről is csodájára járnak az esztergomi bazilika magyar mérnöki bravúrjának",
+        "txtlength": 12957
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/tudomany/20211223_szputnyik_v_vakcina_ogyei_dokumentumok_hadhazy_akos",
+        "h1": "Nagyot kockáztattak a magyar hatóságok a Szputnyik V vakcinával az OGYÉI dokumentumai szerint",
+        "txtlength": 12830
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/gazdasag/20211223_Transparency_kozbeszerzes_lelegeztetogep_malaj",
+        "h1": "A lélegeztetőgépeket eladó maláj üzletember számláján is landolt pár milliárd forint a magyar külügytől",
+        "txtlength": 12739
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/koronavirus-publicus-intezet-kozvelemeny-kutatas-kotelezo-oltas/9941s1n",
+        "h1": "Itt a felmérés eredménye: kiderült, mennyien ellenzik és mennyien tennék kötelezővé a koronavírus elleni vakcinát",
+        "txtlength": 10734
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/kulfold/koronavirus-olaszorszag-szigoritas-maszkviseles-bezaras-vedettsegi-igazolas/zwkcfe2",
+        "h1": "Az olaszok bekeményítettek: szabadtéren is kötelező a maszk - Vajon nálunk is újra ez lesz?",
+        "txtlength": 10276
+    },
+    {
+        "hostname": "nosalty.hu",
         "pagelink": "https://www.nosalty.hu/recept/fanta-szelet-detty-konyhajabol",
         "h1": "Fanta szelet Detty konyhájából",
         "txtlength": 16081
