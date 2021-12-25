@@ -1230,45 +1230,45 @@
         "picarr": [
             {
                 "picture": "https://kisgomboc.files.wordpress.com/2020/11/shopping-cart-1269166_1920.jpg?w=723",
-                "timestamp": 1612226590864
+                "timestamp": 1640430052722
             }
         ],
         "titlearr": [
             {
-                "title": "A majális ízei (nem sör!)",
-                "timestamp": 1612226590864
-            },
-            {
                 "title": "Mustárral vagy ketchuppal?",
-                "timestamp": 1612049410559
+                "timestamp": 1640430052722
             },
             {
                 "title": "26mm",
                 "timestamp": 1612225301376
+            },
+            {
+                "title": "A majális ízei (nem sör!)",
+                "timestamp": 1612226590864
             }
         ],
         "leadarr": [
             {
-                "lead": "A virslit szilveszterkor nagyon nagy mennyiségben, de egész évben is rendszeresen fogyasztjuk, mi magyarok.",
-                "timestamp": 1612226590864
+                "lead": "A Magyar Élelmiszerkönyv szerint a virsli : <em>A virsli legfeljebb 26 mm átmérőjű, természetes vagy műbélbe töltött húspépet (prádot) tartalmazó, főzéssel hőkezelt, füstöletlen, füstölt vagy füstízesítésű homogén metszéslapú termék. A jelölés szempontjából a hústartalom a késztermékre vonatkoztatva legalább 51%. A csontokról mechanikusan lefejtett hús mennyisége ezen felül a késztermékre vonatkoztatva legfeljebb 10%.</em> Azon termékek, amelyek megjelenésükben hasonlítanak a virslire, de rúd, pálca stb. nevet kapták, hústartalma alacsonyabb és/vagy bennük a csontokról mechanikusan lefejtett hús mennyisége magasabb mint a virsliben.",
+                "timestamp": 1640430052722
             },
             {
-                "lead": "A Magyar Élelmiszerkönyv szerint a virsli : <em>A virsli legfeljebb 26 mm átmérőjű, természetes vagy műbélbe töltött húspépet (prádot) tartalmazó, főzéssel hőkezelt, füstöletlen, füstölt vagy füstízesítésű homogén metszéslapú termék. A jelölés szempontjából a hústartalom a késztermékre vonatkoztatva legalább 51%. A csontokról mechanikusan lefejtett hús mennyisége ezen felül a késztermékre vonatkoztatva legfeljebb 10%.</em> Azon termékek, amelyek megjelenésükben hasonlítanak a virslire, de rúd, pálca stb. nevet kapták, hústartalma alacsonyabb és/vagy bennük a csontokról mechanikusan lefejtett hús mennyisége magasabb mint a virsliben.",
-                "timestamp": 1612225301376
+                "lead": "A virslit szilveszterkor nagyon nagy mennyiségben, de egész évben is rendszeresen fogyasztjuk, mi magyarok.",
+                "timestamp": 1612226590864
             }
         ],
         "contentarr": [
             {
-                "content": "1805. október 15-én készítette el először a bécsi virslit vagy másnéven a bécsi-frankfurtit egy Johann Georg Lahner nevezetű hentes, aminek sikere olyan nagy volt, hogy állítólag még magának II. Ferencnek is a kedvenc ételei közé tartozott. A mai napig sokan keverik a virslifajtákat, és nem igazán tudnak különséget tenni a bécsi (frankfurti) virsli és az egyszerű frankfurti virsli között. Az eltérés tehát a húsösszetételben rejlik. A frankfurti virsli már régóta ismert volt, hiszen már a 13. században is gyártották, a bécsi virsli annyiban különbözik ettől, hogy marha és disznóhús van összekeverve benne.",
-                "timestamp": 1612226590864
-            },
-            {
                 "content": "Készítése házilag is megoldható, de a nagyipari módszerekbe is <a href=\"https://www.youtube.com/watch?v=s6Jnzlh48mI\">betekintést nyerhetünk.</a> Olcsó, elérhető húsfajta, de minősége rendkívül változó. A termékre vonatkozó tesztek <a href=\"https://datapub.eu/fbteszt.html?filter=virsli&notext=\">ide kattintva érhetőek el.</a>",
-                "timestamp": 1612049410559
+                "timestamp": 1640430052722
             },
             {
                 "content": "A hagyományos virsli alapanyaga 40% marhacomb, 35% sertésszalonna, 20% jég, emellett fűszereket tartalmaz, ezeket az alapanyagokat a krémességig pépesítik a jéggel, amit fokozatosan adagolnak, majd a prádnak nevezett húspépet bélbe töltik (többnyire juh vékonybélbe, emészthető, fehérje vagy cellulóz alapú mesterséges bélbe), főzik és esetleg füstölik. A pépesítésnek köszönhetően a végtermék egységes szerkezetű és színű. Adalékanyagok közül gyakran tartalmaz stabilizátort (E450, monoszacharid, azaz szőlőcukor, cukorbetegeknek nem ajánlott) és tartósítószert (E250, nátrium-nitrit, avagy pácsó, a húsáruk pirosas színét biztosítja, túlzott bevitele nem előnyös). Jó étvágyat!",
                 "timestamp": 1612225301376
+            },
+            {
+                "content": "1805. október 15-én készítette el először a bécsi virslit vagy másnéven a bécsi-frankfurtit egy Johann Georg Lahner nevezetű hentes, aminek sikere olyan nagy volt, hogy állítólag még magának II. Ferencnek is a kedvenc ételei közé tartozott. A mai napig sokan keverik a virslifajtákat, és nem igazán tudnak különséget tenni a bécsi (frankfurti) virsli és az egyszerű frankfurti virsli között. Az eltérés tehát a húsösszetételben rejlik. A frankfurti virsli már régóta ismert volt, hiszen már a 13. században is gyártották, a bécsi virsli annyiban különbözik ettől, hogy marha és disznóhús van összekeverve benne.",
+                "timestamp": 1612226590864
             }
         ]
     },
