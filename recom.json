@@ -1,6 +1,198 @@
 [
     {
         "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/hatlapos-sutemeny",
+        "h1": "Hatlapos sütemény",
+        "txtlength": 18545
+    },
+    {
+        "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/holabda-napfeny-fuszer-konyhajabol",
+        "h1": "Hólabda Napfény és fűszer konyhájából",
+        "txtlength": 13412
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/vadas-marha-recept.recept",
+        "h1": "VADAS MARHA",
+        "txtlength": 11127
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/cukkinis-tesztasalata-joghurtos-ontettel.recept",
+        "h1": "CUKKINIS TÉSZTASALÁTA JOGHURTOS ÖNTETTEL",
+        "txtlength": 11095
+    },
+    {
+        "hostname": "hataratkelo.blog.hu",
+        "pagelink": "https://hataratkelo.blog.hu/2021/12/19/karacsonyvaras_amerikaban",
+        "h1": "Karácsonyvárás Amerikában",
+        "txtlength": 52142
+    },
+    {
+        "hostname": "hafr.hvgblog.hu",
+        "pagelink": "https://hafr.hvgblog.hu/2020/11/22/a_magyar_nep_szenvedni_fog/",
+        "h1": "A magyar nép szenvedni fog",
+        "txtlength": 10587
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20211223_ragaszkodni_az_evangeliumhoz",
+        "h1": "A valódi keresztény fundamentalista – Márkus Tamás András lelkipásztor a Mandinernek",
+        "txtlength": 31789
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20211215_weisz_teodoria_elet_interju_marton_zsolt_csaladvedelem",
+        "h1": "„A családvédelem alapja a házasság védelme” – Marton Zsolt váci püspök a Mandinernek",
+        "txtlength": 27946
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20211215_elet_gasztro_samson_gergely_meszaros_gabriella_karacsony",
+        "h1": "Kalandozás a karácsonyi ízek körül – Mészáros Gabriella nemzetközi borakadémikus a Mandinernek",
+        "txtlength": 22968
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/kapcsolat/csaladfakutatas-hereg/",
+        "h1": "„Katartikus élmény megismerni a már régen nem élő felmenőimet\": tippek a családfakutatáshoz",
+        "txtlength": 19133
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/ingatlan/20211224/oriashullamok-a-hazai-ujlakas-piacon-mit-hoz-a-kovetkezo-ev-517960",
+        "h1": "Óriáshullámok a hazai újlakás-piacon - Mit hoz a következő év?",
+        "txtlength": 18582
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/vasarlas/20211222/kiderult-a-nagy-bejgli-titok-ezzel-etetnek-minket-valojaban-a-boltok-ovatosan-a-filleres-tekercsekkel-1120353",
+        "h1": "Kiderült a nagy bejgli-titok: ezzel etetnek minket valójában a boltok, óvatosan a filléres tekercsekkel",
+        "txtlength": 17834
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/tech/20211223/megugrott-a-szamitogepek-ara-dragabban-es-kevesebbet-vasaroltunk-a-black-friday-heten/",
+        "h1": "Megugrott a számítógépek ára, drágábban és kevesebbet vásároltunk a Black Friday héten",
+        "txtlength": 16874
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/vasarlas/20211224/ovatosan-a-karacsonyi-posztokkal-durvan-rafizethetsz-ha-ilyen-ajandek-kerult-a-fa-ala-1120415",
+        "h1": "Óvatosan a karácsonyi posztokkal: durván ráfizethetsz, ha ilyen ajándék került a fa alá",
+        "txtlength": 16168
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/podcast/20211225/az-uj-vilag-meg-nem-a-regi-mar-nem-fogadja-be-az-elso-generacios-magyar-diplomasokat/",
+        "h1": "Az új világ még nem, a régi már nem fogadja be az első generációs magyar diplomásokat",
+        "txtlength": 15869
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/global/20211224/tobbe-kerulhet-a-kiralyi-csalad-a-briteknek-mint-gondolnak-vannak-akik-muzeumma-alakitanak-a-kiralyi-palotat-517788",
+        "h1": "Többe kerülhet a királyi család a briteknek, mint gondolnák – Vannak, akik múzeummá alakítanák a királyi palotát",
+        "txtlength": 15176
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/uzlet/20211225/ujabb-rekord-a-tozsdeken-sosem-volt-meg-ennyi-kibocsatas-515864",
+        "h1": "Újabb rekord a tőzsdéken, sosem volt még ennyi kibocsátás",
+        "txtlength": 14151
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2021/12/23/az-lcd-teve-feltamadt-es-felment-a-mennyekbe",
+        "h1": "AZ LCD TÉVÉ FELTÁMADT, ÉS FELMENT A MENNYEKBE",
+        "txtlength": 13315
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/lajfhekk/tippek-karacsonyi-sporolasra/",
+        "h1": "Így ne told túl a karácsonyi költekezést: pénzügyi szakik tippjei az ünnepi szezonhoz",
+        "txtlength": 8168
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kultura/2021/12/25/lelenc-karacsony-matine-konyvajanlo/",
+        "h1": "„Hat évvel ezelőtt beadtam ide gondozásra a kislányomat, és másnap elvitte valaki, aki nekem adta ki magát”",
+        "txtlength": 18510
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/elet/20211224_magyar_karacsonyi_menuk_regen",
+        "h1": "Amikor a narancs vette át a nyúl szerepét a magyar karácsonyi luxusban",
+        "txtlength": 17893
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2021/12/25/csordas-negyes-ikrek-kaposvar-riport/",
+        "h1": "Ez történt az 1952-ben született, világhírű magyar négyes ikrekkel",
+        "txtlength": 17144
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/belfold/2021/12/24/allami-gondozottak-gyermekotthon-ancsan-aranka-tiszadob-tuzcsiholo-egyesulet-szulok",
+        "h1": "Azért dolgozunk, hogy az ő gyerekeik már ne állami gondozottként nőjenek fel",
+        "txtlength": 16113
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kultura/2021/12/24/ismeretlen-budapest-huszonkettesek-epiteszcsoport-csomay-zsofia-szentharomsag-ter-diplomata-lakohaz-haz-janossy-gyorgy-laczkovits-lebontas-padme-mnb-varnegyed-visszaepites/",
+        "h1": "A főváros és a kerület is megmenthetné a modern házat, amit elbontana a jegybanki alapítvány a Várban",
+        "txtlength": 15077
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kulfold/2021/12/24/juliane-koepcke-peru-esoerdo-lezuhant-repulo-dzsungel-kijutott-tuleles-50-evfordulo",
+        "h1": "Túlélte, hogy 3000 méterről a perui esőerdőbe zuhant, aztán kijutott a dzsungel közepéről is",
+        "txtlength": 14795
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/12/24/orban-kloninterjujaval-koszontik-az-unnepet-a-megyei-lapok",
+        "h1": "Orbán klóninterjújával köszöntik az ünnepet a megyei lapok",
+        "txtlength": 12295
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/tech/2021/12/24/leszerepelt-a-toresteszten-az-olcso-dacia-villanyauto-tul-szigoru-az-ertekeles-vagy-veszelyes-az-auto",
+        "h1": "Tragikus törésteszt-eredmények: az olcsó Dacia villanyautó és a népszerű Renault Zoe lerombolja a gyártó presztízsét?",
+        "txtlength": 11912
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/12/24/nem-is-olyan-reg-a-karacsony-meg-inkabb-egy-oriasi-bulisorozat-volt",
+        "h1": "Nem is olyan rég a karácsony még inkább egy óriási bulisorozat volt",
+        "txtlength": 11158
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/penz/5-elethelyzet-amikor-kulonosen-jo-ha-van-onkentes-penztari-megtakaritasunk/d4f6emv",
+        "h1": "5 élethelyzet, amikor szükségünk lehet a megtakarításunkra",
+        "txtlength": 10583
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/krimi/exnyomozo-regi-tortenetek-leckeztetes-fuveszkert/n322pf0?sl_ps=d_2",
+        "h1": "„Mától én hozom a parizeres zsömlét” – Egy hétig nem mert a főnöke szeme elé kerülni a szervezett bűnözés elleni, megleckéztetett nyomozó",
+        "txtlength": 10100
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/elet/20211222_Es_ezt_lehet__Varkonyi_Andrea_az_ev_citromdijasa_a_hvghu_olvasoinal",
+        "h1": "És ezt lehet? – Várkonyi Andrea az év citromdíjasa a hvg.hu olvasóinál",
+        "txtlength": 9548
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20211224_Kariko_Katalin_az_ev_embere_a_hvghu_olvasoi_szavazasan",
+        "h1": "Karikó Katalin az év embere a hvg.hu olvasói szavazásán",
+        "txtlength": 9512
+    },
+    {
+        "hostname": "nosalty.hu",
         "pagelink": "https://www.nosalty.hu/recept/tiramisu-5-igazi",
         "h1": "Tiramisu 5. - az \"igazi\"",
         "txtlength": 19041
