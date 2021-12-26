@@ -1,6 +1,198 @@
 [
     {
         "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/gesztenyes-kremes-sutes-nelkul",
+        "h1": "Gesztenyés krémes sütés nélkül",
+        "txtlength": 17111
+    },
+    {
+        "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/zserbogolyo-egyszeruen",
+        "h1": "Zserbógolyó egyszerűen",
+        "txtlength": 13131
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/turogomboc-mezeskalacsos-meggymartassal.recept",
+        "h1": "TÚRÓGOMBÓC MÉZESKALÁCSOS MEGGYMÁRTÁSSAL",
+        "txtlength": 11432
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/aszalt-szilvaval-toltott-csirke-burgonyapurevel-tomi-kedvence.recept",
+        "h1": "ASZALT SZILVÁVAL TÖLTÖTT CSIRKE BURGONYAPÜRÉVEL (TOMI KEDVENCE)",
+        "txtlength": 10591
+    },
+    {
+        "hostname": "kiszamolo.hu",
+        "pagelink": "https://kiszamolo.hu/az-ertekesites-uj-csatornaja-az-eloben-kozvetitett-online-teleshop/",
+        "h1": "Az értékesítés új csatornája, az élőben közvetített online teleshop",
+        "txtlength": 21581
+    },
+    {
+        "hostname": "alapblog.hu",
+        "pagelink": "https://alapblog.hu/kamatstop-felelossegstop-piacgazdasagstop/",
+        "h1": "Kamatstop, Felelősségstop, Piacgazdaságstop",
+        "txtlength": 6372
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/szorakozas/20211225/ez-lehet-a-jovo-tomegsportja-itthon-sorra-epulnek-a-palyak-stadionok-1120426",
+        "h1": "Ez lehet a jövő tömegsportja itthon: sorra épülnek a pályák, stadionok",
+        "txtlength": 47201
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20211224_koronavirus_omikron_letoha_tamas_interju",
+        "h1": "Az Omicron nem egy védtelen populációra csap le!  – Letoha Tamás a Mandinernek",
+        "txtlength": 28260
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/vasarlas/20211225/magyarok-tomegei-jartak-porul-tegnap-este-ujra-johet-a-horror-a-veget-nem-ero-sorbanallas-1120291",
+        "h1": "Magyarok tömegei jártak pórul tegnap este: újra jöhet a horror, a véget nem érő sorbanállás",
+        "txtlength": 27327
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20211222_ensz_soros_emberi_jog_befolyasolas_ecjl_jelentes_keszul",
+        "h1": "Új jelentés: így befolyásolják a Soros-szervezetek az ENSZ-t",
+        "txtlength": 21442
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20211215_kecskes_csoma_kulhon_karpatalja",
+        "h1": "„Mink a kezdetnél vagyunk!” – Riport a kárpátaljai magyarság végvárából",
+        "txtlength": 20679
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/uzlet/20211226/felelmekkel-teli-vilagban-mentek-csucsra-a-tozsdek-mi-johet-2022-ben-518164",
+        "h1": "Félelmekkel teli világban mentek csúcsra a tőzsdék – Mi jöhet 2022-ben?",
+        "txtlength": 20044
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/ingatlan/20211223/kepek-az-epitkezesrol-ilyen-lesz-az-egykori-viztorony-helyen-epulo-ingatlankomplexum-515356",
+        "h1": "Képek az építkezésről: ilyen lesz az egykori víztorony helyén épülő ingatlankomplexum",
+        "txtlength": 17729
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/elet/20211226/gyakorlatilag-elfelejtettek-tanulni-a-diakok-az-elmult-ket-evben/",
+        "h1": "Gyakorlatilag elfelejtettek tanulni a diákok az elmúlt két évben",
+        "txtlength": 15405
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vilag/20211225/egy-egzotikus-arosszehasonlitas-ausztraliaban-olcsobb-az-aldi-vagy-magyarorszagon/",
+        "h1": "Egy egzotikus árösszehasonlítás: Ausztráliában olcsóbb az Aldi, vagy Magyarországon?",
+        "txtlength": 15134
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20211226/itt-volt-a-foldi-pokol-2021-ben-517324",
+        "h1": "Itt volt a földi pokol 2021-ben",
+        "txtlength": 12421
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/kapcsolat/al-capone-felesege/",
+        "h1": "Egy katolikus ír nő és egy olasz maffiózó házasságának története: Al Capone feleségét igaz szerelemmel szerette",
+        "txtlength": 11705
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2021/12/24/eljott-a-karacsony-veget-ert-a-qubit-nagyszabasu-projektje-elkeszult-a-lucaszeke",
+        "h1": "ELJÖTT A KARÁCSONY, VÉGET ÉRT A QUBIT NAGYSZABÁSÚ PROJEKTJE, ELKÉSZÜLT A LUCASZÉKE",
+        "txtlength": 11396
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/lajfhekk/mibol-keszul-a-halrudacska/",
+        "h1": "Tényleg hulladékból készül a halrudacska?",
+        "txtlength": 8163
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kultura/2021/12/26/isten-karacsony-fu-matine-konyvajanlo-franzen/",
+        "h1": "Betépve jött rá az egyetemista lány, hogy Isten nem kint van, hanem bent",
+        "txtlength": 26360
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/belfold/2021/12/25/ongyilkossag-karacsony-prevencio-megelozes",
+        "h1": "Az öngyilkosság megelőzésében az első lépés, hogy nem tabuként kezeljük a témát",
+        "txtlength": 21276
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/tudomany/2021/12/25/vegansag-taplalhatja-e-a-szulo-vegan-modon-a-gyereket",
+        "h1": "Lehet-e egyszerre vegán és egészséges egy gyerek?",
+        "txtlength": 21027
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://rangado.24.hu/magyar_foci/2021/12/26/magyar-futballkaracsony-puskas-ferenc-honved-textiles-ftc-btc/",
+        "h1": "Egyszer a futballkarácsony is hozott Puskáséknak egy 6:3-at",
+        "txtlength": 20588
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/elet-stilus/2021/12/25/szenteste-egett-porra-a-hazuk-de-a-pokol-csak-ezutan-jott-az-eltunt-sodder-gyerekek-tortenete/",
+        "h1": "Szenteste égett porrá a házuk, de a pokol csak ezután jött – az eltűnt Sodder gyerekek története",
+        "txtlength": 19711
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/gazdasag/20211226_es_akkor_ev_vege_legolvasottabb_cikkek",
+        "h1": "És akkor megnéztük, mit olvastak önök a leginkább 2021-ben",
+        "txtlength": 15654
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kult/2021/12/25/hus-krumpli-es-sutimaradekok-ujjaszuletese-karacsony-utan",
+        "h1": "Semmit nem dobunk ki: hús, krumpli-, és sütimaradékok újjászületése karácsony után",
+        "txtlength": 13570
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/cegauto/20211226_beultunk_a_maybachba_amelynek_csak_a_fenyezese_88_millio_forintba_kerulhet",
+        "h1": "Beültünk a Maybachba, amelynek csak a fényezése 8,8 millió forintba kerülhet",
+        "txtlength": 12606
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://qubit.hu/2021/12/26/kepeslap-a-marsrol-bujocskazo-medve-es-new-york-luxusa-2021-legjobb-fotoi-a-qubiten",
+        "h1": "KÉPESLAP A MARSRÓL, BÚJÓCSKÁZÓ MEDVE ÉS NEW YORK LUXUSA: 2021 LEGJOBB FOTÓI A QUBITEN",
+        "txtlength": 11335
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/elet/20211225_Jegyet_vehetunk_arra_hogy_jol_atverjenek_minket_es_ennek_meg_orulunk_is",
+        "h1": "Jegyet vehetünk arra, hogy jól átverjenek minket, és ennek még örülünk is",
+        "txtlength": 11197
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/krimi/exnyomozo-regi-tortenetek-leckeztetes-fuveszkert/n322pf0",
+        "h1": "„Mától én hozom a parizeres zsömlét” – Egy hétig nem mert a főnöke szeme elé kerülni a szervezett bűnözés elleni, megleckéztetett nyomozó",
+        "txtlength": 10467
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/kulfold/desmond-tutu-apartheid-halalozas/67bge38",
+        "h1": "Meghalt Desmond Tutu",
+        "txtlength": 10241
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/12/26/rekordokat-dont-az-omikron-ujabb-jaratokat-toroltek",
+        "h1": "Rekordokat dönt az omikron, újabb járatokat töröltek",
+        "txtlength": 9601
+    },
+    {
+        "hostname": "nosalty.hu",
         "pagelink": "https://www.nosalty.hu/recept/hatlapos-sutemeny",
         "h1": "Hatlapos sütemény",
         "txtlength": 18545
