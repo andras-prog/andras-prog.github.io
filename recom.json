@@ -1,6 +1,198 @@
 [
     {
         "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/lajcsi-szelet",
+        "h1": "Lajcsi szelet",
+        "txtlength": 14877
+    },
+    {
+        "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/majonezes-burgonyasalata-3",
+        "h1": "Majonézes burgonyasaláta 3.",
+        "txtlength": 12634
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/hokifli-szilvalekvarral-toltve.recept",
+        "h1": "HÓKIFLI SZILVALEKVÁRRAL TÖLTVE",
+        "txtlength": 11884
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/karacsonyi-isler-egyszeruen.recept",
+        "h1": "KARÁCSONYI ISLER",
+        "txtlength": 11079
+    },
+    {
+        "hostname": "kiszamolo.hu",
+        "pagelink": "https://kiszamolo.hu/nap-kepe-12-23/#comment-211574",
+        "h1": "Nap képe 12.23",
+        "txtlength": 26521
+    },
+    {
+        "hostname": "alapblog.hu",
+        "pagelink": "https://alapblog.hu/europa-putin-markaban/",
+        "h1": "Európa Putin markában",
+        "txtlength": 5021
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20211226_keresztenyseg_tortenelem_tarsadalom_ruff_tibor",
+        "h1": "A történelem legnagyobb civilizációs váltásában élünk – Ruff Tibor teológus a Mandinernek",
+        "txtlength": 29804
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/kozelet/20211227/zold-nepszeru-es-piacbarat-egyszerre-a-szen-dioxid-ado/",
+        "h1": "Zöld, népszerű és piacbarát egyszerre: a szén-dioxid adó",
+        "txtlength": 22510
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vilag/20211226/a-helyi-penzek-kihivasok-sokasagan-segitettek-at-a-magyar-kozossegeket/",
+        "h1": "A helyi pénzek kihívások sokaságán segítették át a magyar közösségeket",
+        "txtlength": 17370
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20211225_kaczinski_kulfold_eu_lengyelorszag_nemetorszag",
+        "h1": "Kaczynski: Németország negyedik birodalommá alakítaná az EU-t",
+        "txtlength": 16618
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20211225_szinetar_belfold_kultura",
+        "h1": "Szinetár: Ha a szocialista párt csak tizedannyira kacsingatna Kádárra, mint a jobboldal a Horthy-rendszerre, akkor ma sokkal több szavazójuk lenne",
+        "txtlength": 16134
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2021/12/27/tobb-szuperhost-az-iskolaba",
+        "h1": "TÖBB SZUPERHŐST AZ ISKOLÁBA!",
+        "txtlength": 15620
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/uzlet/20211227/ez-itt-a-cegfeldarabolasok-eve-vege-az-oriasvallalatok-koranak-518076",
+        "h1": "Ez itt a cégfeldarabolások éve - Vége az óriásvállalatok korának?",
+        "txtlength": 15092
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/gazdasag/20211226/hektorliterszamra-vedelik-a-magyarok-marketingkamu-vagy-eletelixir-1120540",
+        "h1": "Hektoliterszámra vedelik a magyarok: marketingkamu vagy életelixír?",
+        "txtlength": 14537
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/bank/20211227/vege-a-magyar-hitelkanaannak-keszuljunk-a-7-feletti-kamatokra-517982",
+        "h1": "Vége a magyar hitelkánaánnak, készüljünk a 7% feletti kamatokra!",
+        "txtlength": 14457
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/gazdasag/20211225/igy-bukott-el-a-mesterterv-ezert-nem-lett-globalis-sikersztori-a-magyar-fold-kincsebol-1120539",
+        "h1": "Így bukott el a mesterterv: ezért nem lett globális sikersztori a magyar föld kincséből",
+        "txtlength": 13820
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/otthon/szelektiv-hulladekgyujtes-szabalyai/",
+        "h1": "10 dolog, amit nem dobhatsz a szelektívbe, hiába hiszed, hogy igen: a szelektív hulladékgyűjtés legfontosabb szabályai",
+        "txtlength": 13042
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/uzlet/20211227/bejglimamor-unnepi-hangulat-es-nyugalom-a-tozsdeken-518226",
+        "h1": "Bejglimámor, ünnepi hangulat és nyugalom a tőzsdéken ",
+        "txtlength": 12831
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/szuloseg/testsulycsokkento-mutet-gyerek/",
+        "h1": "testsúlycsökkentő műtét gyerek",
+        "txtlength": 9857
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kultura/2021/12/27/hus-vegetarianizmus-gingko-konyvajanlo-matine/",
+        "h1": "„Négyéves koromban azt mondtam a szüleimnek, hogy nem eszek több malacot, mert épp most ismerkedtem meg eggyel”",
+        "txtlength": 24078
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/tudomany/2021/12/26/sisi-szerelem-ferenc-jozsef-levelek/",
+        "h1": "Miért írt kurvácskákról Ferenc József Sisinek?",
+        "txtlength": 21638
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kultura/2021/12/26/matrix-lana-wachowski-lilly-wachowski-andy-larry-transznemuseg/",
+        "h1": "Új értelmet ad a Mátrixnak az, ami nemi identitását kereső alkotóival az elmúlt húsz évben történt",
+        "txtlength": 19141
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://qubit.hu/2021/12/27/tobb-szuperhost-az-iskolaba",
+        "h1": "TÖBB SZUPERHŐST AZ ISKOLÁBA!",
+        "txtlength": 15645
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/nevertek/2021/12/27/korhazi-beszallitok-tartozas-bearazzak-e-a-kesedelmet-viszontvalasz",
+        "h1": "Kórházi adósságok: vajon a Toffifee-t is beárazzák a késedelmes fizetés mellé?",
+        "txtlength": 13356
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/idojaras-elorejelzes-riasztas-onos-eso/jf7sj75",
+        "h1": "Időjárás: kiadták a harmadfokú riasztást az ónos eső miatt, senki ne üljön autóba! Ezekben a megyékben járhatatlanok lesznek az utak",
+        "txtlength": 12190
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/szilveszter-tuzijatek-rendorseg-szabalyok/slmbjj9?sl_ps=d_2",
+        "h1": "Akkor, hogy is durrogtassunk? Így nem lesz bírság szilveszterkor és az ujjak is a helyükön maradnak",
+        "txtlength": 11834
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/elet/20211226_karacsony_filmek_diszlet_Holiday_Reszkessetek_betorok_Nagykaracsony",
+        "h1": "Amikor a karácsony tényleg olyan, mint a filmekben",
+        "txtlength": 10857
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/szorakozas/2021/12/26/alpesi-karacsonyi-hangulat-a-pilisben-a-zajnat-hegyek",
+        "h1": "Alpesi karácsony a Pilisben: a Labirintus-túrakör",
+        "txtlength": 10495
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/zacc/2021/12/26/karacsonyfa-talp-diy-buher",
+        "h1": "Íme, olvasóink legszánalmasabb karácsonyfái!",
+        "txtlength": 9729
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/12/26/orban-kedvenc-sportujsagja-elmagyarazta-hogy-nem-azert-nem-lesz-pecsen-stadion-mert-a-kormany-kikoltekezett-hanem-azert-mert-az-emberek-nem-is-akarjak",
+        "h1": "Orbán kedvenc sportújságja elmagyarázta, hogy nem azért nem lesz Pécsen stadion, mert a kormány kiköltekezett, hanem azért, mert az emberek nem is akarják",
+        "txtlength": 8888
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/elet/20211223_ev_szava_2021_Andi",
+        "h1": "Bödőcs Tibor Andija elvitte az Év Szava díjat",
+        "txtlength": 8570
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/tudomany/20211227_koronavirus_omikron_tunetek_ajanlas_zoe_covid",
+        "h1": "Figyelmeztetnek a britek: sürgősen változtatni kellene az omikron miatt",
+        "txtlength": 7953
+    },
+    {
+        "hostname": "nosalty.hu",
         "pagelink": "https://www.nosalty.hu/recept/gesztenyes-kremes-sutes-nelkul",
         "h1": "Gesztenyés krémes sütés nélkül",
         "txtlength": 17111
