@@ -1,5 +1,185 @@
 [
     {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/narancsos-kacsamell-tepsis-burgonyaval.recept",
+        "h1": "NARANCSOS KACSAMELL TEPSIS BURGONYÁVAL",
+        "txtlength": 11255
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/kaves-csokis-alomdesszert.recept",
+        "h1": "KÁVÉS-CSOKIS ÁLOMDESSZERT",
+        "txtlength": 11208
+    },
+    {
+        "hostname": "hataratkelo.blog.hu",
+        "pagelink": "https://hataratkelo.blog.hu/2021/12/14/pannonhalmatol_finnorszagig_es_svajcig",
+        "h1": "Pannonhalmától Finnországig és Svájcig",
+        "txtlength": 18468
+    },
+    {
+        "hostname": "kulturpart.hu",
+        "pagelink": "https://kulturpart.blog.hu/2021/12/24/jezus_kulonbozo_kameraallasokban",
+        "h1": "JÉZUS NÉGY TÖRTÉNETE",
+        "txtlength": 14815
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vilag/20211228/sajat-magaval-kell-megkuzdenie-kinanak-ha-el-akarja-erni-az-uj-celjat/",
+        "h1": "Saját magával kell megküzdenie Kínának, ha el akarja érni az új célját",
+        "txtlength": 29951
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20211227_nyugat_sajto_magyarorszag",
+        "h1": "Így nem érti a Nyugat 170 éve Magyarországot",
+        "txtlength": 29601
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/hitel/20211227/tovabbi-aremelesre-kell-szamitani-az-epitoanyagoknal-mar-januartol-jon-a-hidegzuhany-1120620",
+        "h1": "További áremelésre kell számítani az építőanyagoknál: már januártól jön a hidegzuhany",
+        "txtlength": 29360
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/bank/20211228/mi-lesz-a-magyar-bankokkal-2022-ben-elmondtak-nekunk-a-bankvezerek-517934",
+        "h1": "Mi lesz a magyar bankokkal 2022-ben? - Elmondták nekünk a bankvezérek",
+        "txtlength": 28454
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20211215_matus_tibor_baritz_laura_sarolta_makronom_interju_fogyasztas",
+        "h1": "Az erényes ember és a jó-lét – Baritz Laura Sarolta nővér a Mandinernek",
+        "txtlength": 24194
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20211221_migracio_eu",
+        "h1": "„A migrációs válság velünk marad” – kutatók a Mandinernek",
+        "txtlength": 22357
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/ingatlan/20211227/elkepeszto-hozamszintek-elszallo-kamatok-es-dermeszto-bizonytalansag-egy-orult-ev-az-ingatlanpiacon-518268",
+        "h1": "Elképesztő hozamszintek, elszálló kamatok és dermesztő bizonytalanság - Egy őrült év az ingatlanpiacon",
+        "txtlength": 20466
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/biztositas/20211224/sokkolo-balesetek-tortennek-a-magyar-otthonokban-karacsonykor-mutatjuk-mi-a-leghalalosabb-vesz-1120427",
+        "h1": "Sokkoló balesetek történnek a magyar otthonokban karácsonykor: mutatjuk, mi a leghalálosabb vész",
+        "txtlength": 20416
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/bank/20211228/mik-lesznek-2022-legforrobb-fintech-trendjei-517296",
+        "h1": "Mik lesznek 2022 legforróbb fintech trendjei?",
+        "txtlength": 19214
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vilag/20211227/nem-jott-be-a-joslat-nem-forditotta-vissza-a-jarvany-a-globalizaciot/",
+        "h1": "Nem jött be a jóslat, nem fordította vissza a járvány a globalizációt",
+        "txtlength": 17772
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2021/12/28/a-vilag-negyedik-leggazdagabb-embere-egesz-konyvet-irt-arrol-hogyan-keruljuk-el-a-klimakatasztrofat",
+        "h1": "A VILÁG NEGYEDIK LEGGAZDAGABB EMBERE EGÉSZ KÖNYVET ÍRT ARRÓL, HOGYAN KERÜLJÜK EL A KLÍMAKATASZTRÓFÁT",
+        "txtlength": 15538
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/kapcsolat/clara-bow-tortenete/",
+        "h1": "Túl kicsinek, túl kövérnek nevezték, mégis Hollywood szexikonja lett: Clara Bow karrierje szomorú véget ért",
+        "txtlength": 12208
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/lajfhekk/maradekok-melegitese/",
+        "h1": "Maradékok melegítése",
+        "txtlength": 8740
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kultura/2021/12/28/vilaghaboru-tomeggyilkossag-hitler-sztalin-konyvajanlo-matine/",
+        "h1": "Templomba zártak, majd szöges bunkósbottal vertek agyon 250 embert",
+        "txtlength": 55543
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/tudomany/2021/12/28/ivermectin-koronavirus-covid-19-lofereghajto-osszeeskuves-kutatasok-japan-india-rago-zsuzsanna-toth-sandor/",
+        "h1": "Ivermectin: a gyógyszermaffia összeesküvése vagy veszélyes lóféreghajtó?",
+        "txtlength": 29947
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/12/28/ennel-tobb-kell-ha-nyerni-akar-az-ellenzek-szabolcsban",
+        "h1": "Ennél több kell, ha nyerni akar az ellenzék Szabolcsban",
+        "txtlength": 25959
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/tudomany/2021/12/28/naci-holokauszt-kozel-kelet-tortenelem/",
+        "h1": "A nácik exportálni is akarták a holokausztot",
+        "txtlength": 19929
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/belfold/2021/12/28/emberoles-felmentes-felmento-itelet-zagyvarekasi-gyilkossag",
+        "h1": "Hogy válhat rendőri sikersztoriból megoldatlan üggyé egy almát áruló idős nő meggyilkolása?",
+        "txtlength": 17735
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20211227_Belassult_a_torvenygyar_de_Orban_szugyig_allt_a_verben_a_Parlamentben",
+        "h1": "Lelassult a törvénygyár, de Orbán szügyig állt a vérben a Parlamentben",
+        "txtlength": 16736
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://qubit.hu/2021/12/28/a-vilag-negyedik-leggazdagabb-embere-egesz-konyvet-irt-arrol-hogyan-keruljuk-el-a-klimakatasztrofat",
+        "h1": "A VILÁG NEGYEDIK LEGGAZDAGABB EMBERE EGÉSZ KÖNYVET ÍRT ARRÓL, HOGYAN KERÜLJÜK EL A KLÍMAKATASZTRÓFÁT",
+        "txtlength": 14814
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/tech/2021/12/27/hercleon-kribi-budos-boxer-emberkiserlet",
+        "h1": "A sosem büdösödő bokszer tényleg működik – de milyen áron?",
+        "txtlength": 14325
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/politika/pegasus-varoshaza-volner-jakab-toth-pandora-botrany-2021/rxn4hyp",
+        "h1": "Pegasus, városháza, Völner: íme, ezek voltak az idei esztendő legnagyobb politikai botrányai",
+        "txtlength": 12629
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kult/2021/12/27/telex-neked-augusztus-osszefoglalo-best-of-olimpia-megbokrosodott-lo-augusztus-20-metal-turul-afganisztan-kivonulas-elovalasztas-levendula",
+        "h1": "Telex Neked #2021. augusztus: Időhurok, öttusagyilkos ló, metálturul és telepisált Balaton",
+        "txtlength": 11646
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/pirotechnika-petarda-serules-zacher-szilveszter-rendorseg/9q54tjr",
+        "h1": "Zacher Gábor: „Nincs olyan év, hogy ne kelljen ellátni a szilveszteri közönségből néhány sérültet, akinek valamelyik végtagja vagy az arca bánja a vagánykodást”",
+        "txtlength": 11183
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/vilag/20211228_alkotmany_modositas_feheroroszorszag_lukasenka",
+        "h1": "Mentelmi jogot adna a volt elnököknek a fehérorosz alkotmány új módosítása",
+        "txtlength": 9292
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20211227_Bucsuajandek_NERhaveroknak_is_jutott_Novak_Katalin_ev_vegi_penzjutalmaibol",
+        "h1": "Novák Katalin év végi meglepetést adott néhány közelállónak",
+        "txtlength": 7329
+    },
+    {
         "hostname": "nosalty.hu",
         "pagelink": "https://www.nosalty.hu/recept/lajcsi-szelet",
         "h1": "Lajcsi szelet",
