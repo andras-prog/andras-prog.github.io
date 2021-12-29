@@ -1,5 +1,203 @@
 [
     {
+        "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/tatar-beefsteak",
+        "h1": "Tatár beefsteak",
+        "txtlength": 20025
+    },
+    {
+        "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/toltott-kaposzta-karacsonyra",
+        "h1": "Töltött káposzta karácsonyra",
+        "txtlength": 17954
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/fustolt-sajtos-rakott-brokkoli-csirkemellel.recept",
+        "h1": "FÜSTÖLT SAJTOS RAKOTT BROKKOLI CSIRKEMELLEL",
+        "txtlength": 11004
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/egyszeru-cheddar-sajtos-pogacsa-zsomac-pogacsa.recept",
+        "h1": "EGYSZERŰ CHEDDAR SAJTOS POGÁCSA (ZSOMAC POGÁCSA)",
+        "txtlength": 10951
+    },
+    {
+        "hostname": "kulturpart.hu",
+        "pagelink": "https://kulturpart.blog.hu/2021/12/25/a_halalkerek_fenegyereke",
+        "h1": "A HALÁLKERÉK FENEGYEREKE",
+        "txtlength": 12470
+    },
+    {
+        "hostname": "alapblog.hu",
+        "pagelink": "https://alapblog.hu/megdobbento-oevi-joslatok-2021/",
+        "h1": "Megdöbbentő „óévi’ jóslatok 2021",
+        "txtlength": 6535
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/uzlet/20211229/mi-lesz-a-magyar-biztositokkal-2022-ben-elmondtak-nekunk-a-biztositovezerek-517948",
+        "h1": "Mi lesz a magyar biztosítókkal 2022-ben? Elmondták nekünk a biztosítóvezérek",
+        "txtlength": 27751
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20211215_kovacs_akos_kozelet_interju",
+        "h1": "„Mindig csak akkor van diktatúra, ha nem ők vannak hatalmon” – Kovács Ákos a Mandinernek",
+        "txtlength": 27107
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/kozelet/20211229/habony-es-tombor-korehez-is-juthatott-a-bedolt-fovarosi-fejlesztes-11-milliardjabol/",
+        "h1": "Habony és Tombor köréhez is juthatott a bedőlt fővárosi fejlesztés 11 milliárdjából",
+        "txtlength": 23018
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20211222_varoshaza_ugy_osszefoglalo_karacsony",
+        "h1": "Karácsony üvöltözik, a baloldal tagad, a rendőrség nyomoz – itt tart a Városháza-ügy",
+        "txtlength": 22795
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20211215_sayfo_omar_kulfold_rajzfilm_iszlam_koran",
+        "h1": "Ezeregy matiné meséi – népnevelés muszlim módra",
+        "txtlength": 22093
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/tech/20211228/mit-varhatunk-a-technologiatol-2022-ben/",
+        "h1": "Mit várhatunk a technológiától 2022-ben?",
+        "txtlength": 20212
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/otthon/20211228/durva-buntetessel-indulhat-2022-150-ezres-csekket-is-kaphat-aki-erre-nem-figyel-1120359",
+        "h1": "Durva büntetéssel indulhat 2022: 150 ezres csekket is kaphat, aki erre nem figyel",
+        "txtlength": 19814
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/ezo/kinai-horoszkop-2022/",
+        "h1": "Nagy kínai horoszkóp 2022-re: rengeteg változást hoz a Fekete Víz Tigris éve",
+        "txtlength": 19563
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/prof/20211228/ha-befagy-a-penzcsap-meg-a-legnagyobbak-is-terdre-rogynak-513820",
+        "h1": "Ha befagy a pénzcsap, még a legnagyobbak is térdre rogynak",
+        "txtlength": 18736
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/global/20211229/szetszakadtak-az-ellatasi-lancok-felrobbantak-az-alapanyagarak-518464",
+        "h1": "Szétszakadtak az ellátási láncok, felrobbantak az alapanyagárak",
+        "txtlength": 18006
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/gazdasag/20211227/szavaztak-a-2022-es-szja-visszateritesrol-es-a-csaladi-potlek-emeleserol-is-1120324",
+        "h1": "Szavaztak a 2022-es szja-visszatérítésről és a családi pótlék emeléséről is",
+        "txtlength": 16451
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2021/12/29/amire-buszkek-lehetunk-2021-bol-a-vilagtortenelem-legnagyobb-oltasi-kampanya-es-a-bolygomento-tehenvece",
+        "h1": "AMIRE BÜSZKÉK LEHETÜNK 2021-BŐL: A VILÁGTÖRTÉNELEM LEGNAGYOBB OLTÁSI KAMPÁNYA ÉS A BOLYGÓMENTŐ TEHÉNVÉCÉ",
+        "txtlength": 15164
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/testem/szetnyilt-hasizom-tippek/",
+        "h1": "Tipp – 10 jótanács, ha neked is szétnyílt hasizmod van",
+        "txtlength": 13038
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/szuloseg/elvalt-szulo-kastely/",
+        "h1": "Váláskor az apuka azt ígérte fiának, egy nap kastélyban fognak lakni – és megcsinálta!",
+        "txtlength": 9164
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/belfold/2021/12/29/szexualis-molesztalas-az-orvosnal-hogy-praktizalhatott-egyaltalan-ez-az-ember",
+        "h1": "Szexuális molesztálás az orvosnál: Szerettem volna, ha valaki vállalja a felelősséget",
+        "txtlength": 19763
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kult/2021/12/28/lorincz-nandor-nagy-balint-magyar-film-legjobb-tudomasom-szerint-nemi-eroszak-interju",
+        "h1": "Próbálják jól érezni magukat Budapesten, de lassan bekúszik a valóság",
+        "txtlength": 19153
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20211228_Fiatalok_eve_2021",
+        "h1": "Karantén-rutin és szorosabb barátságok: ilyen volt fiatalnak lenni 2021-ben",
+        "txtlength": 18333
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://rangado.24.hu/nemzetkozi_foci/2021/12/28/belga-foci-union-saint-gilloise-felemelkedese/",
+        "h1": "Csapást mért a gigászokra, felébredt az európai futball alvó óriása",
+        "txtlength": 16713
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/gazdasag/20211228_inflacio_dragulas_arak",
+        "h1": "Nyakunkon a drágulás, de tényleg rossz dolog az infláció?",
+        "txtlength": 16642
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/fn/gazdasag/2021/12/29/meszaros-lorinc-csanyi-sandor-forbes-50-leggazdagabb-lista/",
+        "h1": "Mészáros Lőrinc és Csányi Sándor vagyona közelíti az 500 milliárd forintot",
+        "txtlength": 15762
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kulfold/2021/12/29/koronavirus-negyedik-oltas-izrael-kiserlet-teszt/",
+        "h1": "Izraelben tesztelik, ami már Orbánnak is nehezen menne",
+        "txtlength": 15335
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/belfold/2021/12/28/szeptember-legfontosabb-esemenyei-best-of-telex-2021",
+        "h1": "Telex Neked #2021. szeptember: Mészáros Lőrinc fésűkagyló-wakaméja, Orbán Ráhelék marbellai költözése, Ferenc pápa budapesti beszéde",
+        "txtlength": 14593
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://qubit.hu/2021/12/29/amire-buszkek-lehetunk-2021-bol-a-vilagtortenelem-legnagyobb-oltasi-kampanya-es-a-bolygomento-tehenvece",
+        "h1": "AMIRE BÜSZKÉK LEHETÜNK 2021-BŐL: A VILÁGTÖRTÉNELEM LEGNAGYOBB OLTÁSI KAMPÁNYA ÉS A BOLYGÓMENTŐ TEHÉNVÉCÉ",
+        "txtlength": 14465
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/12/29/osmeros-orcak-az-ev-percemberei",
+        "h1": "Ösmerős orcák – az év percemberei",
+        "txtlength": 14149
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/tragedia-gyasz-meghalt-anyukaja-elutottek-baleset/7be5v26",
+        "h1": "Fadíszítés közben tudta meg a tízéves Ábel, hogy meghalt az édesanyja – Versenyző fiatalok okoztak halálos balesetet",
+        "txtlength": 9902
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/tudomany/20211229_koronavirus_jarvany_omikron_fertozes_karanten",
+        "h1": "Koronavírus: megfelezték a karanténidőt az Egyesült Államokban, de nem mindenkinek",
+        "txtlength": 9597
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/heti-idojaras-onos-eso-veszjelzes-visszavonas/h1x8ts2",
+        "h1": "Időjárás ma: az egész országban visszavonták az ónos eső miatt kiadott veszélyjelzést",
+        "txtlength": 8941
+    },
+    {
         "hostname": "mindmegette.hu",
         "pagelink": "https://www.mindmegette.hu/narancsos-kacsamell-tepsis-burgonyaval.recept",
         "h1": "NARANCSOS KACSAMELL TEPSIS BURGONYÁVAL",
