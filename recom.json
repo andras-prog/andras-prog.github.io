@@ -1,6 +1,204 @@
 [
     {
         "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/sertesszuz-wellington-modra",
+        "h1": "Sertésszűz Wellington módra",
+        "txtlength": 14234
+    },
+    {
+        "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/egyszeru-sajtos-rudak",
+        "h1": "Egyszerű sajtos rudak",
+        "txtlength": 12380
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/klasszikus-szabolcsi-toltott-kaposzta.recept",
+        "h1": "SZABOLCSI TÖLTÖTT KÁPOSZTA",
+        "txtlength": 10865
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/rakott-bejgli-maradekbol.recept",
+        "h1": "RAKOTT BEJGLI MARADÉKBÓL",
+        "txtlength": 10829
+    },
+    {
+        "hostname": "kiszamolo.hu",
+        "pagelink": "https://kiszamolo.hu/bevasarlas-igy-csinaljuk-mi/",
+        "h1": "Bevásárlás: így csináljuk mi",
+        "txtlength": 37177
+    },
+    {
+        "hostname": "kulturpart.hu",
+        "pagelink": "https://kulturpart.hu/2021/12/24/jezus_kulonbozo_kameraallasokban",
+        "h1": "JÉZUS NÉGY TÖRTÉNETE",
+        "txtlength": 14813
+    },
+    {
+        "hostname": "alapblog.hu",
+        "pagelink": "https://alapblog.hu/konglomeratumok-alkonya/",
+        "h1": "Konglomerátumok alkonya",
+        "txtlength": 12345
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/gazdasag/20211228/igy-lett-2021-a-valsag-eve-van-feny-az-alagut-vegen-1120447",
+        "h1": "Így lett 2021 a válság éve: van fény az alagút végén?",
+        "txtlength": 31424
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20211230_a_papak_sorban_figyelmeztetnek_a_gyokertelenne_valas_veszelyeire_katolikus_teologus_a_mandinernek",
+        "h1": "A pápák sorban figyelmeztetnek a gyökértelenné válás veszélyeire – katolikus teológus a Mandinernek",
+        "txtlength": 25426
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/tech/20211229/irigylesre-melto-a-magyar-e-sport-fejlodese-es-ez-meg-csak-a-kezdet/",
+        "h1": "Irigylésre méltó a magyar e-sport fejlődése, és ez még csak a kezdet",
+        "txtlength": 23546
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/karrier/20211229/ezert-nincs-jobb-befektetes-mint-a-kepzomuveszet-mar-a-fiatal-magyarok-kepein-is-milliokat-lehet-fogni-1120479",
+        "h1": "Ezért nincs jobb befektetés, mint a képzőművészet: már a fiatal magyarok képein is milliókat lehet fogni",
+        "txtlength": 23215
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2021/12/30/2021-az-urben-repultunk-a-marson-kisbolygonak-utkozo-szondat-inditottunk-es-utnak-indult-a-james-webb",
+        "h1": "2021 AZ ŰRBEN: REPÜLTÜNK A MARSON, KISBOLYGÓNAK ÜTKÖZŐ SZONDÁT INDÍTOTTUNK, ÉS ÚTNAK INDULT A JAMES WEBB",
+        "txtlength": 20113
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20211229_szorongato_idoket_elunk_a_24_oraban_vagyunk_a_novemberi_allasfoglalas_tagja_a_mandinernek",
+        "h1": "A huszonnegyedik órában vagyunk! – az evangélikus LMBTQ-ügyi állásfoglalás aláírója a Mandinernek",
+        "txtlength": 19864
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/kozelet/20211230/tavasszal-ujabb-nepszeru-vakcinatol-kell-bucsut-venni-idehaza/",
+        "h1": "Tavasszal újabb népszerű vakcinától kell búcsút venni idehaza",
+        "txtlength": 19164
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20211229_bbc_nemetorszag_antiszemitizmus_kulfold_simon_wiesenthal_kozpont",
+        "h1": "Németország és a BBC is a globális antiszemitizmus top tízes listáján",
+        "txtlength": 18373
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/ezo/szerelmi-horoszkop-2022/",
+        "h1": "Nagy szerelmi horoszkóp 2022-re: a rég megérdemelt boldogságot hozhatja el az új esztendő",
+        "txtlength": 16888
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20211230/sinko-otto-eljott-az-ideje-a-4-koronavirus-elleni-oltasnak-magyarorszagon-518584",
+        "h1": "Sinkó Ottó: eljött az ideje a 4. koronavírus elleni oltásnak Magyarországon",
+        "txtlength": 16225
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20211229/mindennek-elszallt-az-ara-es-ezen-nagyon-sok-penzt-lehetett-iden-keresni-516036",
+        "h1": "Mindennek elszállt az ára, és ezen nagyon sok pénzt lehetett idén keresni",
+        "txtlength": 16103
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/bank/20211229/a-legkonnyebben-elerheto-halozat-akar-lenni-a-szuperbank-mindenki-szamara-518518",
+        "h1": "A legkönnyebben elérhető hálózat akar lenni a szuperbank mindenki számára",
+        "txtlength": 16017
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/szuloseg/koronavirus-koraszulott-webkamera-semmelweis-egyetem/",
+        "h1": "Nem veszítik el a kapcsolatot a koronavírusos szülök koraszülött gyermekükkel",
+        "txtlength": 6436
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/12/29/ezek-voltak-a-kedvenc-idei-cikkeink",
+        "h1": "Ezek voltak a kedvenc idei cikkeink",
+        "txtlength": 31011
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kultura/2021/12/30/tuladagolas-krimi-gyilkossag-matine-konyvajanlo/",
+        "h1": "Rendőrnő talált rá a meggyilkolt lányra a külvárosban",
+        "txtlength": 30047
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2021/12/30/balaton-lakopark-apartman-epitkezes-kornyezetvedelem-2021/",
+        "h1": "Kempingből luxuslakópark, nádasból nyílt víz – így babráltak a befektetők a Balatonnal 2021-ben",
+        "txtlength": 22577
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/sport/20211229_kulcsar_krisztian_mob_elnok_bizalmi_szavazas_kozgyules_elnokseg",
+        "h1": "Botrány a MOB-ban: „Olyan vihar keletkezett, amiből lett egy szép kis tornádó”",
+        "txtlength": 20248
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://qubit.hu/2021/12/30/2021-az-urben-repultunk-a-marson-kisbolygonak-utkozo-szondat-inditottunk-es-utnak-indult-a-james-webb",
+        "h1": "2021 AZ ŰRBEN: REPÜLTÜNK A MARSON, KISBOLYGÓNAK ÜTKÖZŐ SZONDÁT INDÍTOTTUNK, ÉS ÚTNAK INDULT A JAMES WEBB",
+        "txtlength": 20129
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/tech/2021/12/29/nft-kriptovaluta-token-ethereum-videojatek-ubisoft-ea-steam",
+        "h1": "A legújabb kriptoőrület a videójátékokat változtatná vadkapitalista rémálommá",
+        "txtlength": 19917
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/tech/2021/12/29/meetoo-botrany-videojatek-ipar-ubisoft-activison-blizzard-bobby-kotick/",
+        "h1": "Fenyegethetsz gyilkossággal, ha fut a szekér, így is főnök maradhatsz",
+        "txtlength": 17989
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/belfold/2021/12/30/legalabb-ot-eve-mehetett-a-korrupcio-a-legnagyobb-autos-vizsgabazison",
+        "h1": "Az autós korrupció ősforrása: a műszakivizsga-rendszer",
+        "txtlength": 13492
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kulfold/2021/12/29/ghislaine-maxwell-epstein-targyalas-eskudtek-itelet",
+        "h1": "Hat vádpontból ötben bűnösnek találták Ghislaine Maxwellt, Jeffrey Epstein volt barátnőjét",
+        "txtlength": 11485
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/galeria-bolt-baross-utca-kozert-aldozat-nyomozas-leszakadt/sqjsnbm?sl_ps=d_4",
+        "h1": "Egy percen múlt az élete! Üdítőért indult a leszakadt galériájú budapesti boltba Dániel: a romok alól húzta ki a tulajt",
+        "txtlength": 10552
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/gazdasag/20211229_Orankent_legalabb_negy_vonatot_iger_a_kormany_strategiaja_a_kulbudapestieknek",
+        "h1": "A budapesti ingázók Kánaánja jöhet el, ha megvalósul a kormány legújabb stratégiája",
+        "txtlength": 10361
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/idojaras-elorejelzes-kod-riasztast-szilveszter/2cbt4sr?sl_ps=d_11",
+        "h1": "Időjárás: ki se látunk majd a ködből, de jön a 15 fokos meleg is – Ilyen idő lesz szilveszterkor",
+        "txtlength": 9692
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20211229_hvg_kedvenc_videoi_2021",
+        "h1": "Betiltott tanyaszínház és az Orbán-család főhercegi titkai: 2021 a hvg.hu videósainak szemével",
+        "txtlength": 7866
+    },
+    {
+        "hostname": "nosalty.hu",
         "pagelink": "https://www.nosalty.hu/recept/tatar-beefsteak",
         "h1": "Tatár beefsteak",
         "txtlength": 20025
