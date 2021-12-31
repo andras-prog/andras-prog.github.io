@@ -1,6 +1,204 @@
 [
     {
         "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/kaszinotojas",
+        "h1": "Kaszinótojás",
+        "txtlength": 13339
+    },
+    {
+        "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/lencsegulyas",
+        "h1": "Lencsegulyás",
+        "txtlength": 13263
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/szilveszteri-malacsult.recept",
+        "h1": "SZILVESZTERI MALACSÜLT",
+        "txtlength": 10553
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/kaszinotojas-franciasalataval-hidegtal.recept",
+        "h1": "KASZINÓTOJÁS FRANCIASALÁTÁVAL",
+        "txtlength": 10532
+    },
+    {
+        "hostname": "kiszamolo.hu",
+        "pagelink": "https://kiszamolo.hu/varjak-az-olcsobb-lakasra-vagy-menekuljek-elore-a-dragulo-hitel-miatt/",
+        "h1": "Várjak az olcsóbb lakásra vagy meneküljek előre a dráguló hitel miatt?",
+        "txtlength": 39304
+    },
+    {
+        "hostname": "kulturpart.hu",
+        "pagelink": "https://kulturpart.hu/2021/12/25/a_halalkerek_fenegyereke",
+        "h1": "A HALÁLKERÉK FENEGYEREKE",
+        "txtlength": 12425
+    },
+    {
+        "hostname": "alapblog.hu",
+        "pagelink": "https://alapblog.hu/cd-projekt-1-ev-alatt-a-mennybol-a-pokolba/",
+        "h1": "CD Projekt – 1 év alatt a mennyből a pokolba",
+        "txtlength": 5421
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20211228_schanda_tamas",
+        "h1": "Az államtól való távolodás az egyetemek autonómiáját növeli – Schanda Tamás a Mandinernek",
+        "txtlength": 26257
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/gazdasag/20211230/emelik-a-nyugdijkorhatart-nagy-valtozas-jon-a-patikakban-ezeket-olvasta-mindenki-2021-ben-a-penzcentrumon-1120700",
+        "h1": "Emelik a nyugdíjkorhatárt, nagy változás jön a patikákban: ezeket olvasta mindenki 2021-ben",
+        "txtlength": 25690
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vilag/20211231/itthon-mar-bevalt-megoldas-rejtheti-el-ha-ner-es-befekteto-szerzi-meg-a-euronews-t/",
+        "h1": "Itthon már bevált megoldás rejtheti el, ha NER-es befektető szerzi meg a Euronews-t",
+        "txtlength": 21116
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20211215_kariko_katalin_kozelet_portre",
+        "h1": "A disznószívtől a világhírig",
+        "txtlength": 20464
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20211230_habsburg_tescheni_frigyes_foherceg_portreja",
+        "h1": "A Habsburg, aki Magyarországot választotta: Frigyes főherceg portréja",
+        "txtlength": 19479
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/vasarlas/20211230/undorito-mivel-akarjak-megetetni-a-magyarokat-ezekben-a-husokban-kukac-a-pekarukon-penesz-van-1120496",
+        "h1": "Undorító, mivel akarják megetetni a magyarokat: ezekben a húsokban kukac, a pékárukon penész van",
+        "txtlength": 18503
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/bank/20211230/uj-nagybefekteto-a-granit-banknal-hegedus-evat-kerdeztuk-a-reszletekrol-518698",
+        "h1": "Új nagybefektető a Gránit Banknál: Hegedüs Évát kérdeztük a részletekről",
+        "txtlength": 17939
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vilag/20211230/elore-latni-az-elorelathatatlant/",
+        "h1": "Előre látni az előreláthatatlant",
+        "txtlength": 16530
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/unios-forrasok/20211230/nagy-dontes-a-kormanytol-a-4-legfejletlenebb-regioba-iranyit-6000-milliard-forintnyi-eu-penzt-518780",
+        "h1": "Nagy döntés a kormánytól: a 4 legfejletlenebb régióba irányít 6000 milliárd forintnyi EU-pénzt",
+        "txtlength": 15493
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20211230/jarvanyelemzo-bekovetkezett-a-negativ-fordulat-megjott-az-omikron-hullam-magyarorszagra-518778",
+        "h1": "Járványelemző: bekövetkezett a negatív fordulat, megjött az omikron hullám Magyarországra",
+        "txtlength": 15191
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2021/12/30/16-cikk-amire-buszkek-voltunk-2021-ben",
+        "h1": "16 CIKK, AMIRE BÜSZKÉK VOLTUNK 2021-BEN",
+        "txtlength": 13753
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/egeszseg/elvonasi-tunetek-dohanyzas-abbahagyasakor/",
+        "h1": "Tényleg hízhat az ember, ha leteszi a cigit? 6 elvonási tünet, ami miatt nehéz abbahagyni a dohányzást",
+        "txtlength": 11844
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/szuloseg/szulotars-platoi-kapcsolat-csalad/",
+        "h1": "Ez a jövő családja? Az elváltak szülőtársakat fogadnak, szigorúan plátói kapcsolatra",
+        "txtlength": 9835
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2021/12/30/jezus-meleg-karacsony-homofobia-velemeny/",
+        "h1": "Jézus magára vállalta a másságukért kirekesztettek sorsát",
+        "txtlength": 30801
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/interju/2021/12/30/leonyid-volkov-interju-europai-parlament-szaharov-dij-alekszej-navalnij",
+        "h1": "Két éve a politikai elnyomás csak eszköz volt a lopáshoz. Most már cél, ez vegytiszta fasizmus",
+        "txtlength": 29885
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/szorakozas/2021/12/30/az-ev-legjobb-sorozatai-amelyekrol-egy-budos-szot-nem-irt-a-telex",
+        "h1": "Az év legjobb sorozatai, amelyekről eddig egy büdös szót sem írt a Telex",
+        "txtlength": 23545
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kultura/2021/12/30/2021-legjobb-filmjei-toplista/",
+        "h1": "Ezek voltak 2021 legjobb filmjei",
+        "txtlength": 19214
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/sport/2021/12/31/2021-meghalt-sportolok/",
+        "h1": "Ők azok a kiváló magyar sportemberek, akik elhagytak minket 2021-ben",
+        "txtlength": 18282
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/12/30/2021-legdragabb-klimakatasztrofai",
+        "h1": "2021 legdrágább klímakatasztrófái",
+        "txtlength": 17397
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://jo.444.hu/2021/12/30/31-jo-lemez-2021-bol",
+        "h1": "31 jó lemez 2021-ből",
+        "txtlength": 15433
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/gazdasag/20211230_koltsegvetes_beruhazas_allamhaztartas_atcsoportositas",
+        "h1": "Van, ami nem változik: a kormány idén is kisöpörte az utolsó forintokat a költségvetésből",
+        "txtlength": 12126
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/politika/kepviselok-politikusok-fogadalom-2022/3jh73h1",
+        "h1": "Vajon betartják majd? Megkérdeztük a politikusokat, milyen újévi fogadalmakat tesznek",
+        "txtlength": 12125
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/eszkombajn/2021/12/31/repulogep-akrobata-kaszkador-szarny-tenisz",
+        "h1": "A repülés hőskorának fenegyerekei úgy sétálgattak a repülőgépek szárnyain, mintha csak a közértbe mentek volna",
+        "txtlength": 11622
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/meghalt-kalasz-marton-iro-kolto-nemzet-muvesze/q9pwx0r",
+        "h1": "Meghalt Kalász Márton, a nemzet művésze",
+        "txtlength": 11572
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/gazdasag/20211231_extrem_joslatok_2022",
+        "h1": "Jóslatok 2022-re, amelyek jobb, ha be sem következnek",
+        "txtlength": 9417
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20211230_Bihari_Adam_Mi_van_ha_ez_az_ev_mar_sokkal_regebben_elmult",
+        "h1": "Bihari Ádám: Mi van, ha ez az év már sokkal régebben elmúlt?",
+        "txtlength": 9272
+    },
+    {
+        "hostname": "nosalty.hu",
         "pagelink": "https://www.nosalty.hu/recept/sertesszuz-wellington-modra",
         "h1": "Sertésszűz Wellington módra",
         "txtlength": 14234
