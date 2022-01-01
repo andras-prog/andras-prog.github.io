@@ -1,6 +1,198 @@
 [
     {
         "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/legegyszerubb-sajtos-rud",
+        "h1": "A legegyszerűbb sajtos rúd",
+        "txtlength": 14011
+    },
+    {
+        "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/pihe-puha-pogacsa-sajtos-pogacsa-11",
+        "h1": "Pihe-puha pogácsa -Sajtos pogácsa 11.",
+        "txtlength": 13591
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/sajttekercs-es-sonkatekercs.recept",
+        "h1": "SAJTTEKERCS ÉS SONKATEKERCS",
+        "txtlength": 10834
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/sajtos-ropogos-villamgyorsan.recept",
+        "h1": "VILLÁMGYORS SAJTOS ROPOGÓS",
+        "txtlength": 10760
+    },
+    {
+        "hostname": "hataratkelo.blog.hu",
+        "pagelink": "https://hataratkelo.blog.hu/2021/12/25/magyarok_karacsonya_ausztraliatol_ausztriaig",
+        "h1": "Magyarok karácsonya Ausztráliától Ausztriáig",
+        "txtlength": 24307
+    },
+    {
+        "hostname": "kulturpart.hu",
+        "pagelink": "https://kulturpart.blog.hu/2021/12/26/erdekes_karacsonyi_szokasok_es_hiedelmek",
+        "h1": "A FATUSKÓ, AKI AJÁNDÉKOT KAKIL",
+        "txtlength": 11919
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20211231_ezt_lattuk_hallgattuk_olvastuk_szerettuk_2021_ben",
+        "h1": "Ezt láttuk, hallgattuk, olvastuk, szerettük 2021-ben",
+        "txtlength": 44082
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20211231_hunok_tudomany_regeszet",
+        "h1": "Korszakváltáshoz érkeztünk a hunok kutatásában – régészek a Mandinernek",
+        "txtlength": 25751
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20211231_jobbik_jakab_peter_2021",
+        "h1": "Mi lett a Jobbikból Jakab Péter vezetésével?",
+        "txtlength": 23391
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/global/20211231/veszelyes-allatnak-hitt-ezer-eves-inka-labdaba-csapott-bele-a-szuzen-szulo-meteor-amit-aron-alul-adtak-el-518136",
+        "h1": "Veszélyes állatnak hitt ezer éves inka labdába csapott bele a szűzen szülő meteor, amit áron alul adtak el",
+        "txtlength": 22888
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/kozelet/20211231/minden-masodik-forintot-ujraoszt-az-allam-tudod-hogy-mire-kolti/",
+        "h1": "Minden második forintot újraoszt az állam – tudod, hogy mire költi?",
+        "txtlength": 17757
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/ezo/eves-horoszkop-2022/",
+        "h1": "Éves horoszkóp 2022-re: pénzügyi gyarapodást és új szerelmet is hozhat az esztendő",
+        "txtlength": 16846
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/vallalkozas/20211231/repktedtek-a-szazmilliok-a-capak-kozottben-mutatjuk-az-elmult-evek-legorultebb-uzleteit-1120675",
+        "h1": "Repktedtek a százmilliók a Cápák közöttben: mutatjuk az elmúlt évek legőrültebb üzleteit",
+        "txtlength": 16812
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vilag/20211231/a-jarvany-es-az-emelkedo-kamatok-eve-lesz-2022/",
+        "h1": "A járvány és az emelkedő kamatok éve lesz 2022?",
+        "txtlength": 16675
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/vasarlas/20211229/kiderult-a-bolti-virslik-titka-ezzel-etetnek-minket-szilveszterkor-az-aruhazak-1120460",
+        "h1": "Kiderült a bolti virslik titka: ezzel etetnek minket szilveszterkor az áruházak",
+        "txtlength": 15138
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20211231/ime-az-elemzok-optimista-forgatokonyvei-ezek-a-tortenesek-razhatjak-fel-a-vilagot-2022-ben-517968",
+        "h1": "Íme az elemzők optimista forgatókönyvei: ezek a történések rázhatják fel a világot 2022-ben",
+        "txtlength": 14759
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20211230/arrobbanas-hianyzo-termekek-recesszio-forradalom-nem-biztos-hogy-boldog-lesz-az-uj-ev-518000",
+        "h1": "Árrobbanás, hiányzó termékek, recesszió, forradalom - nem biztos, hogy boldog lesz az új év",
+        "txtlength": 14599
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2021/12/31/az-oviraptor-embrio-az-ev-dinoszaurusza-a-qubit-2021-es-oslenytani-osszefoglalojaban",
+        "h1": "AZ OVIRAPTOR-EMBRIÓ AZ ÉV DINOSZAURUSZA A QUBIT 2021-ES ŐSLÉNYTANI ÖSSZEFOGLALÓJÁBAN",
+        "txtlength": 10745
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/lajfhekk/fiatal-sztarok-plasztikai-beavatkozasok/",
+        "h1": "Te felismered, a fiatal sztárok milyen plasztikai beavatkozásokon estek át?",
+        "txtlength": 8198
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2021/12/31/top10-2021-page-not-found-kozeleti-csucsesemenyek/",
+        "h1": "Top10: 2021 közéleti csúcseseményei Fiola góljától a Mészáros-Várkonyi álomesküvőn át Orbán Ráhelék Marbellára költözéséig",
+        "txtlength": 34985
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kult/2021/12/31/thuroczy-szabolcs-interju-futball-fradi-stadion-bunos-varos",
+        "h1": "Úgy tesznek, mintha a saját pénzüket fektették volna be a futballba. Nem, nem a saját pénzeteket fektettétek be",
+        "txtlength": 29063
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/foto/2021/12/31/ev-kepei-kulfold",
+        "h1": "A Capitolium ostroma, drámai evakuálás, a Szuezi-csatorna megbénulása: a képek, amikre sokáig emlékezni fogunk",
+        "txtlength": 22487
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kultura/2021/12/31/ezek-voltak-2021-legjobb-sorozatai/",
+        "h1": "Ezek voltak 2021 legjobb sorozatai",
+        "txtlength": 18427
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://rangado.24.hu/magyar_foci/2021/12/31/magyar-foci-tomasz-mortimer/",
+        "h1": "„Szörnyeteggé válok, ha a magyar válogatott meccsét nézem” – megőrül a focinkért egy angol újságíró",
+        "txtlength": 17396
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/nagyitas/20211231_HVG_ev_kepei_2021",
+        "h1": "Oltástól lebukásig – az év képei a HVG fotósainak szemével",
+        "txtlength": 13342
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/12/31/a-vilag-legjobb-kartyajateka-szilveszteri-osszejovetelekre",
+        "h1": "A világ legjobb kártyajátéka szilveszteri összejövetelekre",
+        "txtlength": 13165
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20211231_2021_kozeleti_humor",
+        "h1": "A méhlegelő-kaszálástól a metálturulig, avagy dolgok, amelyeken kínunkban nevettünk 2021-ben",
+        "txtlength": 13039
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/kultura/20211231_Eves_osszefoglalo_kultura",
+        "h1": "Spontán kukázás, lassú kivéreztetés – ez volt 2021 a kultúrában",
+        "txtlength": 11751
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/penz/2022-penzugyek-valtozasok-minimalber/m8t4v4q?sl_ps=d_11",
+        "h1": "Fontos! Mi vár ránk 2022-ben? Összeszedtük minden pénzügyi változást, tudnivalót",
+        "txtlength": 10442
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/12/30/szilagyi-liliana-apja-szerint-lanya-hazudik-feljelentest-tesz-es-azt-keri-a-szilagyi-nev-helyett-viseld-edesanyad-csaladnevet",
+        "h1": "Szilágyi Liliána apja szerint lánya hazudik, feljelentést tesz, és azt kéri: „a Szilágyi név helyett viseld édesanyád családnevét”",
+        "txtlength": 10409
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/izer-norbert-adozas-ujev/ln96phy?sl_ps=d_5",
+        "h1": "Szja-visszatérítés, kriptovaluta, megújult átalányadó: itt van részletesen, hogy adózunk 2022-ben",
+        "txtlength": 10032
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/tamogatott-tartalom/2021/12/31/coca-cola-szelektiv-hulladekgyujtes-kviz",
+        "h1": "Tennél valamit a Földért? Újévi fogadalmak a Telexen!",
+        "txtlength": 9347
+    },
+    {
+        "hostname": "nosalty.hu",
         "pagelink": "https://www.nosalty.hu/recept/kaszinotojas",
         "h1": "Kaszinótojás",
         "txtlength": 13339
