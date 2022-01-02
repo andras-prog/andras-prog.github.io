@@ -1,6 +1,192 @@
 [
     {
         "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/meteres-sutemeny",
+        "h1": "Méteres sütemény",
+        "txtlength": 12305
+    },
+    {
+        "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/lilahagymas-lencsesalata",
+        "h1": "Lilahagymás lencsesaláta",
+        "txtlength": 12034
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/huspestetom-maradek-sult-csirkebol.recept",
+        "h1": "HÚSPÉSTÉTOM MARADÉK SÜLT CSIRKÉBŐL",
+        "txtlength": 10085
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/turos-pogacsa.recept",
+        "h1": "TÚRÓS POGÁCSA",
+        "txtlength": 9756
+    },
+    {
+        "hostname": "hataratkelo.blog.hu",
+        "pagelink": "https://hataratkelo.blog.hu/2021/12/27/barhol_legyel_a_vilagban_a_bundaskenyer_orok#c41121158",
+        "h1": "Bárhol legyél a világban, a bundáskenyér örök",
+        "txtlength": 23964
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20211229_frenyo_zoltan_konzervativ_arckepek_liberalis_diktatura_interju",
+        "h1": "Ma nyugaton liberális diktatúrák működnek – Frenyó Zoltán a Mandinernek",
+        "txtlength": 25378
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/egeszseg/20211231/itt-az-orszag-boldogsagterkepe-ezekben-a-megyekben-varosokban-a-legjobb-elni-magyarorszagon-1120702",
+        "h1": "Itt az ország boldogságtérképe: ezekben a megyékben, városokban a legjobb élni Magyarországon",
+        "txtlength": 20121
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20211231_gulyas_a_valasztas_tetje_hogy_a_mult_terjen_vissza_vagy_a_jelen_folytatodjon",
+        "h1": "Gulyás: A választás tétje, hogy a múlt térjen vissza vagy a jelen folytatódjon",
+        "txtlength": 17917
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/global/20211229/szetszakadtak-az-ellatasi-lancok-felrobbantak-az-alapanyagarak-top10-sztori-3-518464",
+        "h1": "Szétszakadtak az ellátási láncok, felrobbantak az alapanyagárak (TOP10 sztori - 3.)",
+        "txtlength": 17891
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/tamogatoi-tartalom/20211231/egyelore-leginkabb-a-fogyasztok-elvarasai-miatt-probalnak-zoldulni-a-cegek/",
+        "h1": "Egyelőre leginkább a fogyasztók elvárásai miatt próbálnak zöldülni a cégek",
+        "txtlength": 16004
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/egeszseg/20220101/120-ezer-forintot-is-bukhatsz-evente-csak-egy-orvosi-igazolas-kell-a-kedvezmenyhez-1120730",
+        "h1": "120 ezer forintot is bukhatsz évente: csak egy orvosi igazolás kell a kedvezményhez",
+        "txtlength": 15999
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20211201_meta_konyvek_a_jovorol_woke_ideologia",
+        "h1": "Humorral az elmebaj ellen",
+        "txtlength": 15595
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/tech/20211229/csod-fenyegeti-a-pegasus-kemszoftver-gyartojat/",
+        "h1": "Csőd fenyegeti a Pegasus kémszoftver gyártóját",
+        "txtlength": 14564
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/bank/20211227/vege-a-magyar-hitelkanaannak-keszuljunk-a-7-feletti-kamatokra-top10-sztori-5-517982",
+        "h1": "Vége a magyar hitelkánaánnak, készüljünk a 7% feletti kamatokra! (TOP10 sztori - 5.)",
+        "txtlength": 14536
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/befektetes/20211231/bator-huzassal-vagnak-neki-2022-nek-a-magyar-befektetesi-nagyagyuk-518922",
+        "h1": "Bátor húzással vágnak neki 2022-nek a magyar befektetési nagyágyúk",
+        "txtlength": 13785
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/gyerek/hiperaktiv-gyerek-nyugtatas/",
+        "h1": "4 módszer, ami megnyugtatja a hiperaktív gyereket: érdemes az étrendet is átgondolni",
+        "txtlength": 10568
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2021/12/31/kozel-11-millio-halalesetet-eloztek-meg-a-koronavirus-elleni-vakcinak-az-egyesult-allamokban",
+        "h1": "KÖZEL 1,1 MILLIÓ HALÁLESETET ELŐZTEK MEG A KORONAVÍRUS ELLENI VAKCINÁK AZ EGYESÜLT ÁLLAMOKBAN",
+        "txtlength": 8310
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/lajfhekk/hajmosas-hibak/",
+        "h1": "Hajmosás hibák",
+        "txtlength": 7841
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/kultura/20211213_karacsonyi_konyvajanlo_2_resz",
+        "h1": "Mi ez az őrület körülöttünk? – a hvg.hu karácsonyi könyvajánlója, 2. rész",
+        "txtlength": 20890
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/telextarcak/2021/11/27/cserna-szabo-andras-anyam-pokja-telextarcak-tarcanovella",
+        "h1": "Cserna-Szabó András: Anyám pókja",
+        "txtlength": 17709
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kultura/2021/12/31/film-csalodas-2021-ridley-scott-nincs-ido-meghalni-gucci-hat-utolso-parban-suicide-squad/",
+        "h1": "Nem lehet csak a pandémiát hibáztatni 2021 legnagyobb filmes csalódásaiért",
+        "txtlength": 15572
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/blikk-tv/aktualis/pablo-escobar-fia-interju-vagatlanul/b9v1t26",
+        "h1": "Interjú a világ leghíresebb drogbárója, Pablo Escobar fiával: íme, a teljes, vágatlan felvétel",
+        "txtlength": 15208
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/tech/2021/12/31/negy-videojatek-ami-segitett-atveszelni-2021-et-deathloop-forza-horizon-5-it-takes-two-guardians-of-the-galaxy/",
+        "h1": "Nekünk ez a négy játék segített átvészelni 2021-et",
+        "txtlength": 11747
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/telextarcak/2021/12/11/benedek-szabolcs-egy-magyar-teherauto-telextarca-tarcanovella",
+        "h1": "Benedek Szabolcs: Egy magyar teherautó",
+        "txtlength": 11356
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/brandcontent/20211129_Aki_sokaig_var_a_modernizalassal_az_akar_az_Ipar_40_vesztese_is_lehet",
+        "h1": "Ha nem így kezdi az évet a cége, akár nagy vesztes is lehet",
+        "txtlength": 11311
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kulfold/2021/12/31/bezaratjak-oroszorszag-legregebbi-emberi-jogi-civil-szervezetet/",
+        "h1": "Bezáratják Oroszország legrégebbi emberi jogi civil szervezetét.",
+        "txtlength": 10964
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/mohacsi-csata-majs-torokok/gdefch8?sl_ps=d_12",
+        "h1": "Megdöbbentő felfedezést tett az évek óta kutató régészcsapat: nem is Mohácson volt a mohácsi csata",
+        "txtlength": 10469
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/cegauto/20211230_legjobb_tesztautok_2021_dacia_spring_mercedes_eqs580_4matic_s500_rolls_royve_ghost_ferrari_488_gte_lego_porsche_taycan_turismo_toyota_gr_yaris_shelby_gt500",
+        "h1": "2021 tesztautói a legolcsóbb elektromostól a legőrültebb benzinpusztító izomautóig",
+        "txtlength": 10224
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/12/31/gyurott-ocsmany-telbiztos-ezek-voltak-2021-legemlekezetesebb-divatpillanatai",
+        "h1": "Gyűrött, ocsmány, télbiztos: Ezek voltak 2021 legemlékezetesebb divatpillanatai",
+        "txtlength": 9843
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/12/31/szilagyi-gerda-a-szornyusegek-melyeket-szilagyi-liliana-allit-hazugsagok",
+        "h1": "Szilágyi Gerda: A szörnyűségek, melyeket Szilágyi Liliána állít, hazugságok",
+        "txtlength": 9770
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/sport/2021/12/31/szilagyi-gerda-uszo-nyilt-level-reagalas-szilagyi-liliana-bantalmazas",
+        "h1": "Nyílt levélben reagált nővére állításaira Szilágyi Gerda: A szörnyűségek, melyeket Szilágyi Liliána állít, hazugságok",
+        "txtlength": 9287
+    },
+    {
+        "hostname": "nosalty.hu",
         "pagelink": "https://www.nosalty.hu/recept/legegyszerubb-sajtos-rud",
         "h1": "A legegyszerűbb sajtos rúd",
         "txtlength": 14011
