@@ -1,6 +1,192 @@
 [
     {
         "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/egyszeru-paradicsomleves-betutesztaval",
+        "h1": "Egyszerű paradicsomleves betűtésztával",
+        "txtlength": 12134
+    },
+    {
+        "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/klasszikus-toltott-kaposzta",
+        "h1": "Klasszikus töltött káposzta",
+        "txtlength": 11608
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/pihe-puha-puffancs.recept",
+        "h1": "PIHE-PUHA JOGHURTOS PUFFANCS",
+        "txtlength": 9574
+    },
+    {
+        "hostname": "hataratkelo.blog.hu",
+        "pagelink": "https://hataratkelo.blog.hu/2021/12/27/barhol_legyel_a_vilagban_a_bundaskenyer_orok",
+        "h1": "Bárhol legyél a világban, a bundáskenyér örök",
+        "txtlength": 23994
+    },
+    {
+        "hostname": "hafr.hvgblog.hu",
+        "pagelink": "https://hafr.hvgblog.hu/2020/12/04/a_nemetek_szerepe_az_orban-rezsim_eddigi_stabilitasaban/",
+        "h1": "A németek szerepe az Orbán-rezsim eddigi stabilitásában",
+        "txtlength": 10391
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://makronom.mandiner.hu/cikk/20211223_igy_verte_at_a_diakhiteleseket_biden_es_meg_keresett_is_rajta",
+        "h1": "Így verte át a diákhiteleseket Biden, és még keresett is rajta",
+        "txtlength": 23923
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/uzlet/20211226/felelmekkel-teli-vilagban-mentek-csucsra-a-tozsdek-mi-johet-2022-ben-top10-sztori-6-518164",
+        "h1": "Félelmekkel teli világban mentek csúcsra a tőzsdék – Mi jöhet 2022-ben? (TOP10 sztori - 6.)",
+        "txtlength": 19722
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20211223/haladek-kaptak-a-napelempark-projektek-fontos-dontest-hozott-a-mekh-korr-517778",
+        "h1": "Haladék kaptak a napelempark-projektek, fontos döntést hozott a MEKH (korr.)",
+        "txtlength": 18216
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20211209/megvan-a-megoldas-hogyan-torjon-ki-az-elelmiszergazdasag-a-kozepes-jovedelem-csapdajabol-515282",
+        "h1": "Megvan a megoldás, hogyan törjön ki az élelmiszergazdaság a közepes jövedelem csapdájából",
+        "txtlength": 17840
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20211215_meta_feminens_gacsalyi_sara_lakatos_monika_ciganyzene",
+        "h1": "Az otthonokban élő zene nagykövete",
+        "txtlength": 16140
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/szorakozas/20211231/vasarolhatsz-de-vigyazz-ami-tegnap-meg-147-ezer-az-a-jovo-heten-mar-lehet-hogy-177-ezer-1120734",
+        "h1": "Vásárolhatsz, de vigyázz: \"ami tegnap még 147 ezer, az a jövő héten már lehet, hogy 177 ezer\"",
+        "txtlength": 15643
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20211230_marki_zay_peter_migracio_belfold_ellenzeki_osszefogas_bevandorlas",
+        "h1": "Így viszonyul Márki-Zay Péter a migrációhoz",
+        "txtlength": 15168
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/megtakaritas/20211231/2022-sem-lesz-egyszeru-ev-ezeket-fogadd-meg-es-nem-lesznek-penzugyi-gondjaid-jovore-1120461",
+        "h1": "2022 sem lesz egyszerű év: ezeket fogadd meg, és nem lesznek pénzügyi gondjaid jövőre",
+        "txtlength": 14818
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vilag/20211228/jonnek-az-amerikai-tankerek-megfelezodott-a-gaz-ara-europaban/",
+        "h1": "Jönnek az amerikai tankerek, megfeleződött a gáz ára Európában",
+        "txtlength": 13915
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vilag/20211229/olyan-oriasvallalatot-hoznak-letre-kinaban-amelynek-az-egesz-vilagra-hatasa-lesz/",
+        "h1": "Olyan óriásvállalatot hoznak létre Kínában, amelynek az egész világra hatása lesz",
+        "txtlength": 13270
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/testem/magyarorszagon-otvenezer-ember-lehet-folyamatosan-eletveszelyben-az-alvasi-apnoe-miatt/",
+        "h1": "Magyarországon ötvenezer ember lehet folyamatosan életveszélyben az alvási apnoé miatt",
+        "txtlength": 12294
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/ezo/heti_horoszkop/202201/",
+        "h1": "Heti horoszkóp január 3-tól 9-ig: a Mérleg jó híreket kap, a Skorpió életében felbukkan valaki",
+        "txtlength": 11309
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/szuloseg/mentalis-problemak-kismamasag-idejen/",
+        "h1": "Nem szégyen, ha kiborulsz a szülés után, de az sem, ha már a terhesség alatt",
+        "txtlength": 10138
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2021/12/30/amikor-meg-az-aramszunet-sem-allithat-meg",
+        "h1": "AMIKOR MÉG AZ ÁRAMSZÜNET SEM ÁLLÍTHAT MEG",
+        "txtlength": 7625
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kulfold/2021/12/30/ghislaine-maxwell-itelet-jeffrey-epstein-szexualis-abuzus-molesztalas/",
+        "h1": "Jeffrey Epsteint nem tudták bíróság elé vinni, de kerítőnője nem úszta meg a számonkérést",
+        "txtlength": 12450
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/eszkombajn/2021/02/20/halapenz-orvosberek-tortenelem-egeszsegugy",
+        "h1": "Gerő Ernő három évre szemet hunyt a hálapénzezésnek, hetven év lett belőle",
+        "txtlength": 12211
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/tudomany/20211227_mobiljatek_pyson_games_jarvany_koronavirus_antidote_covid_19",
+        "h1": "Kár, hogy nem ilyen könnyű szétszedni a Covidot, úgy már vége lenne a járványnak",
+        "txtlength": 11954
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/penz/beremeles-2022-munkaltatok-minimalber/wprwsem",
+        "h1": "Legalább ekkora béremelést kell adniuk a munkáltatóknak, ha meg akarják tartani az embereiket",
+        "txtlength": 11771
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/politika/ader-janos-nem-koccintott-weisz-fannival-ujevi-koszonto/sfqxhjj",
+        "h1": "Valami hiányzott Áder újévi köszöntőjéből: Ön észrevette, mi az?",
+        "txtlength": 11272
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/brandcontent/20211103_Az_ellenallhatatlan_nosztalgia_kifli_es_a_pityokas_kenyer_tortenete_Lipotrol",
+        "h1": "Így születtek a legendás péksütemények: Önnek melyik a kedvence?",
+        "txtlength": 10916
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2021/12/29/varrogepjavito-utolso-mohikan-munka/",
+        "h1": "„A varrógép nem egy egyszerű gép a sarokban: életek, sorsok kötődnek hozzá”",
+        "txtlength": 10625
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2021/12/23/podcast-haromharmad-novak-katalin-allamfo-koztarsasagi-elnok/",
+        "h1": "Novák Katalin pont az, amire az ellenzék jelenleg képtelen",
+        "txtlength": 10345
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/tudomany/20211228_esport_nezettseg_trendek_deloitte_elemzes_lets_play",
+        "h1": "Magyarországon is berobbant az e-sport – de mi lesz vele a járvány után?",
+        "txtlength": 9789
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/telextarcak/2021/07/05/maros-andras-pentek-16-30-telextarcak-tarcanovella",
+        "h1": "Maros András: Péntek 16.30",
+        "txtlength": 9201
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/telextarcak/2021/04/17/mecs-anna-a-fukusimai-buvar-telextarcak-tarcanovella",
+        "h1": "Mécs Anna: A fukusimai búvár",
+        "txtlength": 7866
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2021/12/31/a-100-legjobb-magyar-slager-2021-ben",
+        "h1": "A 100 legjobb magyar sláger 2021-ben",
+        "txtlength": 2766
+    },
+    {
+        "hostname": "nosalty.hu",
         "pagelink": "https://www.nosalty.hu/recept/meteres-sutemeny",
         "h1": "Méteres sütemény",
         "txtlength": 12305
