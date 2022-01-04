@@ -1,6 +1,192 @@
 [
     {
         "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/lilahagymas-krumplisalata",
+        "h1": "Lilahagymás krumplisaláta",
+        "txtlength": 12379
+    },
+    {
+        "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/tokeletes-zserbo",
+        "h1": "Tökéletes zserbó",
+        "txtlength": 11470
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/keto-palacsinta.recept",
+        "h1": "KETO PALACSINTA",
+        "txtlength": 9550
+    },
+    {
+        "hostname": "kiszamolo.hu",
+        "pagelink": "https://kiszamolo.hu/miert-fulladnak-kudarcba-az-ujevi-fogadalmak/",
+        "h1": "Miért fulladnak kudarcba az újévi fogadalmak?",
+        "txtlength": 36697
+    },
+    {
+        "hostname": "efesasanisimasa.com",
+        "pagelink": "https://efesasanisimasa.com/2021/12/30/ne-nezz-fel-dont-look-up-2021/",
+        "h1": "Ne nézz fel! (Don’t Look Up!, 2021)",
+        "txtlength": 14203
+    },
+    {
+        "hostname": "alapblog.hu",
+        "pagelink": "https://alapblog.hu/a-fogyasztas-kora-veget-ert-a-hiany-kora-koszontott-rank/",
+        "h1": "A fogyasztás kora véget ért. A hiány kora köszöntött ránk!",
+        "txtlength": 13961
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://indexadhu.hit.gemius.pl/hitredir/id=16OVT_ehZUHPpkQiH4OmL6QsHQDGpyLQltfvuVLpw8H.m7/stparam=wppfhqfuua/fastid=brgznknjhasxxlaypxzomjcirqnd/nc=0/url=https://indexadhu.hit.gemius.pl/hitredir/id=bQ2biQd8wAB4HszZfvC3dcSrHbd_qCM8sr3vRry2zTD.Z7/stparam=plfmorfgad/fastid=agchmtslgvgdhacgqvrdjnpyaljv/nc=0/url=https://www.rsm.hu/blog/adotanacsadas/2021/12/2022-adovaltozasok-hogyan-adozunk",
+        "h1": "2022. évi adóváltozások – Hogyan adózunk 2022-ben?",
+        "txtlength": 27995
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/gazdasag/20220103/megszolaltak-az-elemzok-ezen-all-vagy-bukik-a-magyarok-sorsa-2022-ben-1120659",
+        "h1": "Megszólaltak az elemzők: ezen áll vagy bukik a magyarok sorsa 2022-ben",
+        "txtlength": 20400
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20211231_vendegszerzo",
+        "h1": "Hallassuk a hangunkat, mondjuk el, hogy milyen Európában szeretnénk élni",
+        "txtlength": 17997
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/karrier/20220103/ezek-a-legjobban-fizetett-diploma-nelkuli-szakmak-itthon-millios-fizetes-is-van-1120779",
+        "h1": "Ezek a legjobban fizetett, diploma nélküli szakmák itthon: milliós fizetés is van",
+        "txtlength": 17513
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20211229/mit-adott-nekunk-a-novekedesi-kotvenyprogram-518274",
+        "h1": "Mit adott nekünk a Növekedési Kötvényprogram?",
+        "txtlength": 17282
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20211227/oveket-becsatolni-idoutazunk-516496",
+        "h1": "Öveket becsatolni: időutazunk!",
+        "txtlength": 16342
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20211231_veszpremy_laszlo_bernat_kulpolitika",
+        "h1": "A holland valóságtól a józan liberálisig – Veszprémy László Bernát kedvenc 2021-es cikkei",
+        "txtlength": 14848
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20211229_hann_endre_interju_valasztas_kozvelemeny_kutatas_ellenzek_baloldal_fidesz_szeteses",
+        "h1": "Hann Endre: Azt sem tartom kizártnak, hogy szétszakadhat az ellenzék áprilisig",
+        "txtlength": 14754
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vallalat/20211007/tobb-mint-havi-12-millio-forintra-es-egy-3-as-bmw-re-tette-az-aldi-a-palyakezdo-vezetoinek-fizeteset/",
+        "h1": "Több mint havi 1,2 millió forintra és egy 3-as BMW-re tette az Aldi a pályakezdő vezetőinek fizetését",
+        "txtlength": 13194
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vilag/20211231/bizonytalan-a-jarvany-lefutasa-de-a-szilveszter-nalunk-a-legszabadabb-a-regioban/",
+        "h1": "Bizonytalan a járvány lefutása, de a szilveszter nálunk a legszabadabb a régióban",
+        "txtlength": 12708
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/fogyokura/mintaetrend-edzestervvel-tavaszig/",
+        "h1": "Így fogyhatsz le tavaszig 10 kilót: mintaétrendet és edzéstervet is mutatunk",
+        "txtlength": 12213
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/testem/ferfi-fogamzasgatlo/",
+        "h1": "Fogamzásgátló férfiaknak: miért nem hajlandók használni őket?",
+        "txtlength": 10865
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/szuloseg/instasztar-a-gyerek/",
+        "h1": "Húzd meg a határt, ha nem akarsz Insta-sztár gyereket!",
+        "txtlength": 9124
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2021/12/31/tobb-mint-475-ezer-autot-hiv-vissza-a-tesla-az-egyesult-allamokban",
+        "h1": "TÖBB MINT 475 EZER AUTÓT HÍV VISSZA A TESLA AZ EGYESÜLT ÁLLAMOKBAN",
+        "txtlength": 4539
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/eszkombajn/2021/03/27/steinherz-rudolf-gyilkossag-bergyilkos-vonat-cegled-biztositasi-csalas",
+        "h1": "Az évszázad legfurább gyilkossága: saját maga ellen fogadott bérgyilkost a kecskeméti borkereskedő",
+        "txtlength": 19100
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/eszkombajn/2021/10/23/mary-bell-gyerek-gyilkossag-anonimitas",
+        "h1": "Tízévesen gyilkolt először, gyerekírással és halottakat ábrázoló rajzokkal vallotta be, hogy mit tett",
+        "txtlength": 12316
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/homonnay-gergely-facebook-halala-testvere-kiborult-gyasz-rendoseg-eljaras/t762vzs?sl_ps=d_5",
+        "h1": "Homonnay Gergely testvére kiborult, nem is kereste a rendőrség az öccse halála miatt: „Nem tartom korrektnek az intézkedéseket”",
+        "txtlength": 12030
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/telextarcak/2021/09/18/biro-zsombor-aurel-szalami-sajt-udito-telextarcak-tarcanovella",
+        "h1": "Biró Zsombor Aurél: Szalámi, sajt, üdítő",
+        "txtlength": 11603
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/krimi/vegrehajtas-ingatlan-arveres-birosag-itelet-kikoltozes/29pr6tw?sl_ps=d_10",
+        "h1": "Háromgyerekes magyar család kálváriája: mire a szülők legyőzték a rákot, elárverezték a házukat – És itt még nincs vége a pokoljárásnak!",
+        "txtlength": 11158
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2021/12/31/2021_evosszefoglalo/",
+        "h1": "2021 hat katartikus percben: Berki Mazsi szülésétől az olimpián át az omikronig",
+        "txtlength": 9729
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kultura/2021/12/29/galla-miklos-karinthy-gyuru-laar-andras-atvetel/",
+        "h1": "Megkapta a Karinthy-gyűrűt Galla Miklós, és úgy vigyáz majd rá, mint a Mona Lisára",
+        "txtlength": 9565
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2021/12/30/utolso-mohikan-drotostot-javitas/",
+        "h1": "„Én más drótostóttal nem találkoztam”",
+        "txtlength": 9542
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20211231_Szubjektiv_Gyereket_egyedul",
+        "h1": "Szubjektív 2021: Gyereket, egyedül",
+        "txtlength": 8917
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/tudomany/20211231_opera_gx_elerheto_letoltes_microsoft_store",
+        "h1": "Jó hírt kaptak böngészőügyben, akik Windows alatt játszanak",
+        "txtlength": 7414
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20211211_Fulke_Miert_erhet_80100_milliot_egy_vegrehajtoi_praxis",
+        "h1": "Fülke: Miért érhet 80-100 milliót egy végrehajtói praxis?",
+        "txtlength": 5865
+    },
+    {
+        "hostname": "nosalty.hu",
         "pagelink": "https://www.nosalty.hu/recept/egyszeru-paradicsomleves-betutesztaval",
         "h1": "Egyszerű paradicsomleves betűtésztával",
         "txtlength": 12134
