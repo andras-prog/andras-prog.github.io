@@ -1,6 +1,156 @@
 [
     {
         "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/gyors-bolognai-spagetti",
+        "h1": "Gyors bolognai spagetti",
+        "txtlength": 12860
+    },
+    {
+        "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/gyumolcskenyer-egyszeruen",
+        "h1": "Gyümölcskenyér egyszerűen",
+        "txtlength": 11295
+    },
+    {
+        "hostname": "kiszamolo.hu",
+        "pagelink": "https://kiszamolo.hu/uj-ingatlant-vagy-hasznaltat-hitelkalkulatorral/",
+        "h1": "Új ingatlant vagy használtat? Hitelkalkulátorral",
+        "txtlength": 36045
+    },
+    {
+        "hostname": "efesasanisimasa.com",
+        "pagelink": "https://efesasanisimasa.com/2021/12/27/sajat-szoba-the-green-knight-2021/",
+        "h1": "Saját szoba: The Green Knight (2021)",
+        "txtlength": 11496
+    },
+    {
+        "hostname": "alapblog.hu",
+        "pagelink": "https://alapblog.hu/a-jarvanynak-talan-vege-lesz-jovore-az-inflacionak-nem/",
+        "h1": "A járványnak talán vége lesz jövőre, az inflációnak nem",
+        "txtlength": 9962
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/egeszseg/20220105/orvosi-csodaval-vagta-at-a-fel-vilagot-240-milliardot-csalt-el-most-borton-var-a-fiatal-anyukara-1120823",
+        "h1": "Orvosi csodával vágta át a fél világot: 240 milliárdot csalt el, most börtön vár a fiatal anyukára",
+        "txtlength": 23303
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20211229_belfold_sport_szilagyi_liliana_uszas_szexualis_bantalmazas",
+        "h1": "Szexuális bántalmazással vádolja Szilágyi Liliána az apját",
+        "txtlength": 21501
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/hitel/20220104/orulten-raporogtek-a-csaladok-ezekre-a-hitelekre-jobb-ha-sietnek-mar-nem-sokaig-tart-a-kanaan-1120781",
+        "h1": "Őrülten rápörögtek a családok ezekre a hitelekre: jobb ha sietnek, már nem sokáig tart a kánaán",
+        "txtlength": 16768
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://sport.mandiner.hu/cikk/20211231_nb_i_es_bizonyitvany_ii_resz_kieshet_e_az_mtk_vagy_az_ujpest",
+        "h1": "NB I-es bizonyítvány (II. rész) - kieshet-e az MTK vagy az Újpest?",
+        "txtlength": 16087
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/uzlet/20211222/negy-ev-alatt-negyszerezni-keszul-a-gloster-csoport-a-jovo-it-szolgaltatojat-epitik-517068",
+        "h1": "Négy év alatt négyszerezni készül a Gloster csoport: a jövő IT-szolgáltatóját építik",
+        "txtlength": 15477
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/bank/20211223/nem-szamitunk-kieso-csontvazakra-interju-az-erste-bankvasarlasarol-517920",
+        "h1": "„Nem számítunk kieső csontvázakra” – Interjú az Erste bankvásárlásáról",
+        "txtlength": 15396
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20211221/hany-havi-az-eves-nyugdij-517048",
+        "h1": "Hány havi az éves nyugdíj?",
+        "txtlength": 14535
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://precedens.mandiner.hu/cikk/20211229_egyesult_kiralysag_menekultugy_migracio_reform",
+        "h1": "Értesítés nélkül foszthatják meg brit állampolgárságuktól a külföldön harcoló dzsihadistákat",
+        "txtlength": 13286
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/penz/20211230/aki-nem-fogadja-el-betetjere-a-negativ-kamatot-repul-az-egyik-nemet-penzintezettol/",
+        "h1": "Aki nem fogadja el betétjére a negatív kamatot, repül az egyik német pénzintézettől",
+        "txtlength": 12611
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/egeszseg/masodlagos-stroke-megelozese/",
+        "h1": "5 tünet, ami a kialakuló stroke-ot jelzi: a memóriazavartól az egyensúlyvesztésig",
+        "txtlength": 11155
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/lajfhekk/fotorendszerezo-trukkok/",
+        "h1": "Fotórendszerező trükkök",
+        "txtlength": 7742
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2021/12/31/tomeges-etelmergezes-utan-sztrajk-tort-ki-egy-indiai-iphone-gyarban",
+        "h1": "TÖMEGES ÉTELMÉRGEZÉS UTÁN SZTRÁJK TÖRT KI EGY INDIAI IPHONE-GYÁRBAN",
+        "txtlength": 4571
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/tudomany/2021/12/18/tigris-a-het-esztergomi-fenevad-uldozese-1901",
+        "h1": "Hadsereggel mentek az esztergomi tigris és szökött társai ellen, de soha nem lett meg a Magyarországon kóborló hét fenevad",
+        "txtlength": 16576
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/telextarcak/2021/05/29/cserna-szabo-andras-barbarok-telextarca-tarcanovella",
+        "h1": "Cserna-Szabó András: Barbárok",
+        "txtlength": 14759
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/krimi/szemcseppel-olt-sorozatgyilkos-gy-terez-ipolysag/h7mnl7s",
+        "h1": "Szemcseppel ölt a sorozatgyilkos Gy. Teréz, a barátnői csalták csapdába: több tucat áldozata lehet",
+        "txtlength": 13285
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/foto/2021/07/25/liverpool-80-as-evek",
+        "h1": "Csodálatos potréfotókon elevenedik meg a '80-as, '90-es évek liverpooli munkásosztálya",
+        "txtlength": 12293
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/bugac-tanya-fekete-parduc-verengzes-pusztitas-szettepett-birkak/40q63ph",
+        "h1": "Széttépett állatok miatt retteg a tanyavilág: tényleg a fekete párduc csapott le Bugac határában? Több portán is gyilkolt a rejtélyes ragadozó – fotók!",
+        "txtlength": 10589
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20210916_Elmondana_nekunk_valamit_Uzenjen_WhatsAppon_vagy_Signalon",
+        "h1": "Elmondana nekünk valamit? Üzenjen WhatsAppon vagy Signalon!",
+        "txtlength": 5730
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/nagyitas/20211122_Rac_furdo",
+        "h1": "Galéria: Lehangolóan fest, de második újjászületésére készül a budapesti Rác fürdő",
+        "txtlength": 4191
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/nagyitas/20211023_oktober_23",
+        "h1": "Budapest, 2021. október 23. - Egy sűrű nap arcai",
+        "txtlength": 3221
+    },
+    {
+        "hostname": "nosalty.hu",
         "pagelink": "https://www.nosalty.hu/recept/lilahagymas-krumplisalata",
         "h1": "Lilahagymás krumplisaláta",
         "txtlength": 12379
