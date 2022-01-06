@@ -1,6 +1,138 @@
 [
     {
         "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/turos-retes-reteslapbol",
+        "h1": "Túrós rétes réteslapból",
+        "txtlength": 17233
+    },
+    {
+        "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/magyaros-halaszle",
+        "h1": "Magyaros halászlé",
+        "txtlength": 10969
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/kaposztaleves-recept-dietahoz.recept",
+        "h1": "KÁPOSZTALEVES RECEPT DIÉTÁHOZ",
+        "txtlength": 10356
+    },
+    {
+        "hostname": "hataratkelo.blog.hu",
+        "pagelink": "https://hataratkelo.blog.hu/2021/12/24/boldog_bekes_karacsonyt_mindenkinek_416",
+        "h1": "Boldog, békés karácsonyt mindenkinek!",
+        "txtlength": 6283
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20211230_belfold_szilagyi_liliana_vad_szexualis_bantalmazas_reagalas_szilagyi_zoltan",
+        "h1": "Válaszolt Szilágyi Liliána apja a vádakra",
+        "txtlength": 26230
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/bank/20211221/nagyszabasu-it-fejlesztes-zajlik-a-hatterben-a-hazai-tokepiac-meg-vonzobba-valhat-a-befektetonek-516760",
+        "h1": "Nagyszabású IT-fejlesztés zajlik a háttérben, a hazai tőkepiac még vonzóbbá válhat a befektetőnek",
+        "txtlength": 17345
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/szuloseg/szilagyi-liliana-bantalmazas-szakerto/",
+        "h1": "Fáj felismerni, hogy akiknek szeretniük kellett volna, ők bántottak",
+        "txtlength": 15274
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/egeszseg/20220104/dramai-jelentes-erkezett-a-magyarokrol-elkeseritoen-keves-zoldseget-es-gyumolcsot-esznek-1120808",
+        "h1": "Drámai jelentés érkezett a magyarokról: elkeserítően kevés zöldséget és gyümölcsöt esznek",
+        "txtlength": 14458
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/vallalkozas/20220102/lesokkolt-balogh-levente-es-moldovan-andras-hihetetlen-vallomas-a-capak-kozottben-1120689",
+        "h1": "Lesokkolt Balogh Levente és Moldován András: hihetetlen vallomás a Cápák közöttben",
+        "txtlength": 14432
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/testem/sovanysag-veszelyes-mitosz-dieta-arnyoldal/",
+        "h1": "Számolj le a soványság veszélyes mítoszával!",
+        "txtlength": 14046
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20211223/13-ev-utan-tert-vissza-a-magyar-gazdasagba-az-egyik-legutaltabb-jelenseg-top10-sztori-9-515508",
+        "h1": "13 év után tért vissza a magyar gazdaságba az egyik legutáltabb jelenség (TOP10 sztori - 9.)",
+        "txtlength": 13283
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://sport.mandiner.hu/cikk/20211228_mondatok_melyek_nem_rengettek_meg_a_vilagot",
+        "h1": "Mondatok, melyek nem rengették meg a világot",
+        "txtlength": 12560
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20211209/igy-lephetnek-nemzetkozi-porondra-a-magyar-elelmiszeripari-cegek-515324",
+        "h1": "Így léphetnek nemzetközi porondra a magyar élelmiszeripari cégek",
+        "txtlength": 12476
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20211231_domotor_csokkent_a_szegenyseg_a_jobboldali_kormanyzas_alatt",
+        "h1": "Dömötör: Csökkent a szegénység a jobboldali kormányzás alatt",
+        "txtlength": 12007
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/kapcsolat/corvin-janos-anyja-edelpeck-borbala/",
+        "h1": "Mátyás király és Edelpeck Borbála szerelmi viszonyából született Corvin János: nem lehetett apja örököse",
+        "txtlength": 10493
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2021/12/31/a-johnson-johnson-kiegeszito-vakcinaja-85-szazalekban-hatasos-az-omikronnal-szemben",
+        "h1": "A JOHNSON & JOHNSON KIEGÉSZÍTŐ VAKCINÁJA 85 SZÁZALÉKBAN HATÁSOS AZ OMIKRONNAL SZEMBEN",
+        "txtlength": 4350
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/belfold/2021/04/25/oltakozik-oltakozni-nyelv-ige-visszahato-kolcsonos-muvelteto",
+        "h1": "Semmi baj az oltakozni szóval, mégis sokan oltják",
+        "txtlength": 14333
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/blikk-tv/aktualis/beremeles-utca-embere-mire-eleg-a-fizetes/zmm5fpz",
+        "h1": "2022-es béremelés: de vajon mire elég egy havi fizetés? Az utca emberét kérdeztük: a tengődéstől a luxusig – videó",
+        "txtlength": 10052
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/krimi/25-eve-ketsegek-kozott-meghal-kislany-kihantol-rejtely-megoldas/e9xvwyv?sl_ps=d_5",
+        "h1": "„Talán nem is az én babámat temettük el” – Kihantolná negyed évszázada elhunyt kislánya sírhelyét Erzsébet",
+        "txtlength": 10001
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/brandcontent/20211110_Itt_egy_uj_technologia_amellyel_akar_a_fodrasznal_vagy_a_szerelonel_is_fizethetunk_bankkartyaval",
+        "h1": "Tudta, hogy erre is jó az okostelefonja?",
+        "txtlength": 8043
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/foto/2021/08/08/kourtney-roy-i-drink",
+        "h1": "A világ egy rohadt rejtély",
+        "txtlength": 6227
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/video/2021/07/26/duranda-gyongyos-cigany-beres-tibor-autonomia-alapitvany-gyerekek-riport",
+        "h1": "Ülni kell az iskolában? Öcsém, Tökölön is ülni kell!",
+        "txtlength": 3707
+    },
+    {
+        "hostname": "nosalty.hu",
         "pagelink": "https://www.nosalty.hu/recept/gyors-bolognai-spagetti",
         "h1": "Gyors bolognai spagetti",
         "txtlength": 12860
