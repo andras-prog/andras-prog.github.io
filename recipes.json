@@ -1,78 +1,6 @@
 [
     {
-        "timestamp": 1640948446481,
-        "name": "Bögrés mákos sütemény",
-        "lead": "Egy jó vacsora után az ember bárkinek megbocsát. Akár még a saját rokonainak is.",
-        "phrase": "mákos",
-        "link": "https://www.nosalty.hu/recept/bogres-makos-sutemeny",
-        "ingred": [
-            "mák",
-            "liszt",
-            "tej",
-            "tojás",
-            "olaj",
-            "sütőpor",
-            "csokoládé",
-            "vaj",
-            "kakaópor"
-        ]
-    },
-    {
-        "timestamp": 1640948446481,
-        "name": "Csirkemell őzgerincformában sütve 2.",
-        "lead": "Megéri a munkát, a család imádni fogja!",
-        "phrase": "csirkemell",
-        "link": "https://www.nosalty.hu/recept/csirkemell-ozgerincformaban-sutve-2",
-        "ingred": [
-            "csirkemell",
-            "bacon",
-            "sajt",
-            "tojás",
-            "petrezselyem",
-            "tejföl",
-            "liszt",
-            "vaj",
-            "zsemlemorzsa"
-        ]
-    },
-    {
-        "timestamp": 1640948446481,
-        "name": "Lángosban sült csirkefalatok friss salátával",
-        "lead": "Ha ételről van szó, nincs olyan, hogy rossz étel vagy jó étel. A változatosság a lényeg!",
-        "phrase": "saláta",
-        "link": "https://www.nosalty.hu/recept/langosban-sult-csirkefalatok-friss-salataval",
-        "ingred": [
-            "liszt",
-            "élesztő",
-            "joghurt",
-            "tej",
-            "olaj",
-            "tejföl",
-            "trappista",
-            "csirkemell",
-            "lila hagyma",
-            "jégsaláta",
-            "uborka",
-            "koktélparadicsom"
-        ]
-    },
-    {
-        "timestamp": 1640948446481,
-        "name": "Svéd egytálétel szűzpecsenyével",
-        "lead": "Próbáld ki, nagyon finom!",
-        "phrase": "egytál",
-        "link": "https://www.nosalty.hu/recept/sved-egytaletel-szuzpecsenyevel",
-        "ingred": [
-            "szűzpecsenye",
-            "olaj",
-            "hagyma",
-            "burgonya",
-            "sárgarépa",
-            "petrezselyem"
-        ]
-    },
-    {
-        "timestamp": 1613127640458,
+        "timestamp": 1641553244298,
         "name": "Malacsült lusta krumplival és részeges káposztával",
         "lead": "Korgó gyomornak nincs füle.",
         "phrase": "sertés",
@@ -106,7 +34,7 @@
         ]
     },
     {
-        "timestamp": 1613127640458,
+        "timestamp": 1641553244298,
         "name": "Tárkonyos sertésraguleves",
         "lead": "Nem az elfogyasztott étel mennyisége, hanem annak a minősége fontos.",
         "phrase": "sertés",
@@ -131,7 +59,7 @@
         ]
     },
     {
-        "timestamp": 1613127640458,
+        "timestamp": 1641553244298,
         "name": "Nagyon omlós pite",
         "lead": "Igazi klasszikus, a család imádni fogja!",
         "phrase": "pite",
@@ -150,7 +78,7 @@
         ]
     },
     {
-        "timestamp": 1613732467625,
+        "timestamp": 1641553244298,
         "name": "Görög rakott tészta",
         "lead": "Igazi klasszikus, a család imádni fogja!",
         "phrase": "tészta",
@@ -3197,6 +3125,78 @@
             "olaj",
             "paprikakrém",
             "provence fűszerkeverék"
+        ]
+    },
+    {
+        "timestamp": 1640948446481,
+        "name": "Bögrés mákos sütemény",
+        "lead": "Egy jó vacsora után az ember bárkinek megbocsát. Akár még a saját rokonainak is.",
+        "phrase": "mákos",
+        "link": "https://www.nosalty.hu/recept/bogres-makos-sutemeny",
+        "ingred": [
+            "mák",
+            "liszt",
+            "tej",
+            "tojás",
+            "olaj",
+            "sütőpor",
+            "csokoládé",
+            "vaj",
+            "kakaópor"
+        ]
+    },
+    {
+        "timestamp": 1640948446481,
+        "name": "Csirkemell őzgerincformában sütve 2.",
+        "lead": "Megéri a munkát, a család imádni fogja!",
+        "phrase": "csirkemell",
+        "link": "https://www.nosalty.hu/recept/csirkemell-ozgerincformaban-sutve-2",
+        "ingred": [
+            "csirkemell",
+            "bacon",
+            "sajt",
+            "tojás",
+            "petrezselyem",
+            "tejföl",
+            "liszt",
+            "vaj",
+            "zsemlemorzsa"
+        ]
+    },
+    {
+        "timestamp": 1640948446481,
+        "name": "Lángosban sült csirkefalatok friss salátával",
+        "lead": "Ha ételről van szó, nincs olyan, hogy rossz étel vagy jó étel. A változatosság a lényeg!",
+        "phrase": "saláta",
+        "link": "https://www.nosalty.hu/recept/langosban-sult-csirkefalatok-friss-salataval",
+        "ingred": [
+            "liszt",
+            "élesztő",
+            "joghurt",
+            "tej",
+            "olaj",
+            "tejföl",
+            "trappista",
+            "csirkemell",
+            "lila hagyma",
+            "jégsaláta",
+            "uborka",
+            "koktélparadicsom"
+        ]
+    },
+    {
+        "timestamp": 1640948446481,
+        "name": "Svéd egytálétel szűzpecsenyével",
+        "lead": "Próbáld ki, nagyon finom!",
+        "phrase": "egytál",
+        "link": "https://www.nosalty.hu/recept/sved-egytaletel-szuzpecsenyevel",
+        "ingred": [
+            "szűzpecsenye",
+            "olaj",
+            "hagyma",
+            "burgonya",
+            "sárgarépa",
+            "petrezselyem"
         ]
     }
 ]
