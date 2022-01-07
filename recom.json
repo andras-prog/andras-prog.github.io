@@ -1,6 +1,132 @@
 [
     {
         "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/gyors-amerikai-palacsinta",
+        "h1": "Gyors amerikai palacsinta",
+        "txtlength": 12309
+    },
+    {
+        "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/dios-lekvaros-hokiflik",
+        "h1": "Diós és lekváros hókiflik",
+        "txtlength": 10853
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/hazi-orjaleves-gyomberes-daragaluskaval.recept",
+        "h1": "ORJALEVES GYÖMBÉRES DARAGALUSKÁVAL",
+        "txtlength": 10448
+    },
+    {
+        "hostname": "kulturpart.hu",
+        "pagelink": "https://kulturpart.hu/2021/12/26/erdekes_karacsonyi_szokasok_es_hiedelmek",
+        "h1": "A FATUSKÓ, AKI AJÁNDÉKOT KAKIL",
+        "txtlength": 11925
+    },
+    {
+        "hostname": "alapblog.hu",
+        "pagelink": "https://alapblog.hu/ami-kesik-nem-mulik-kina-lassulni-fog/",
+        "h1": "Ami késik nem múlik: Kína lassulni fog",
+        "txtlength": 9603
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20211231_mediapluralizmus",
+        "h1": "Lejárató országjelentések eurómilliókból, a mi kárunkra",
+        "txtlength": 20757
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/hitel/20220106/megsem-kellenek-a-magyaroknak-a-fogyasztobarat-hitelek-megis-mitol-ijedtek-meg-ennyien-1120840",
+        "h1": "Mégsem kellenek a magyaroknak a fogyasztóbarát hitelek: mégis mitől ijedtek meg ennyien?",
+        "txtlength": 19900
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/gazdasag/20220106/ennek-a-lehetosegnek-vege-igy-fektesd-be-a-penzed-2022-ben-ha-nem-akarod-elbukni-1120671",
+        "h1": "Ennek a lehetőségnek vége: így fektesd be a pénzed 2022-ben, ha nem akarod elbukni",
+        "txtlength": 16626
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/szepseg/evelyn-nesbit-elso-szupermodell/",
+        "h1": "Szomorú sors jutott a világ első szupermodelljének: a gyönyörű Evelyn Nesbitért még gyilkoltak is",
+        "txtlength": 14763
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/unios-forrasok/20211217/ritka-dolog-tortent-ez-eu-csucson-elmaradt-a-megallapodas-pedig-egekben-az-energiaarak-516692",
+        "h1": "Ritka dolog történt ez EU-csúcson: elmaradt a megállapodás, pedig egekben az energiaárak",
+        "txtlength": 12147
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/bank/20211209/jonnek-a-7-10-szazalekos-hitelkamatok-visszasirjak-az-nhp-t-a-magyar-agrarium-hitelezoi-515312",
+        "h1": "Jönnek a 7-10 százalékos hitelkamatok, visszasírják az NHP-t a magyar agrárium hitelezői",
+        "txtlength": 11211
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://makronom.mandiner.hu/cikk/20211229_a_megujuloenergia_felhasznalas_reszaranya_megkozelitette_a_14_szazalekot",
+        "h1": "A megújulóenergia-felhasználás részaránya megközelítette a 14 százalékot",
+        "txtlength": 9803
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://sport.mandiner.hu/cikk/20211205_szohoz_sem_engedtek_a_lovaglaspartiakat_a_nemzetkozi_kozgyulesen",
+        "h1": "Szóhoz sem engedték a lovagláspártiakat a nemzetközi közgyűlésen",
+        "txtlength": 8956
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20211221/sosem-volt-meg-ilyen-draga-a-foldgaz-europaban-517306",
+        "h1": "Sosem volt még ilyen drága a földgáz Európában",
+        "txtlength": 7941
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/lajfhekk/karacsonyfa-leszedese-kidobasa/",
+        "h1": "Karácsonyfa leszedése kidobása",
+        "txtlength": 7549
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2021/12/31/nemcsak-az-oev-bucsuzik-hanem-a-blackberry-telefonok-is",
+        "h1": "NEMCSAK AZ ÓÉV BÚCSÚZIK, HANEM A BLACKBERRY TELEFONOK IS",
+        "txtlength": 4271
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/telextarcak/2021/11/13/finy-petra-pucer-reszek-telextarcak-tarcanovella",
+        "h1": "Finy Petra: Pucér részek",
+        "txtlength": 16564
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/telextarcak/2021/06/12/haasz-janos-meg-almodom-arrol-a-meccsrol-telextarcak-tarcanovella",
+        "h1": "Haász János: Néha még álmodom arról a meccsről",
+        "txtlength": 16370
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/telextarcak/2021/12/04/maros-andras-jekatyerina-neni-lakas-nem-erdemlik-meg-telextarcak-tarcanovella",
+        "h1": "Maros András: Nem érdemlik meg",
+        "txtlength": 12245
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/krimi/atveres-penz-facebook-csalas-marketplace-rendorseg/qmed98m",
+        "h1": "Mindenki legyen nagyon résen: így támadnak az internetes csalók – Kollégánknak majdnem félmilliója bánta – Itt vannak a döbbenetes beszélgetés részletei!",
+        "txtlength": 10434
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/svedorszag-jogellenes-gyermekelvitel-szaffi-birosag-itelet-kiadatas-betegseg/1jbv0nc?sl_ps=d_5",
+        "h1": "Szaffi a koronavírus miatt úszta meg, hogy elvegyék az édesanyjától – Új hír jött a magyar kislányról, akit a bíróság svédországi apjának ítélt",
+        "txtlength": 9828
+    },
+    {
+        "hostname": "nosalty.hu",
         "pagelink": "https://www.nosalty.hu/recept/turos-retes-reteslapbol",
         "h1": "Túrós rétes réteslapból",
         "txtlength": 17233
