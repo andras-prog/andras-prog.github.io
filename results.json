@@ -924,58 +924,6 @@
   {
     "azon": "ALDI",
     "forras": "",
-    "termeknev": "PÖTTYÖS Túró rudi",
-    "termekar": "849",
-    "termekcur": " Ft",
-    "termekmenny": "/csomag",
-    "tarfajl": "4 716,67 Ft/kg",
-    "tarfajlmert": "",
-    "disc": "",
-    "erv": "",
-    "termeklink": "https://www.aldi.hu/hu/ajanlatok/ajanlatok-csuetoertoektol-20220106/reszletes-oldal/ps/p/poettyoesturo-rudi-30/"
-  },
-  {
-    "azon": "ALDI",
-    "forras": "",
-    "termeknev": "KOKÁRDÁS Natúr rudi",
-    "termekar": "279",
-    "termekcur": " Ft",
-    "termekmenny": "/csomag",
-    "tarfajl": "1 860 Ft/kg",
-    "tarfajlmert": "",
-    "disc": "",
-    "erv": "",
-    "termeklink": "https://www.aldi.hu/hu/ajanlatok/ajanlatok-csuetoertoektol-20220106/reszletes-oldal/ps/p/kokardasnatur-rudi-16/"
-  },
-  {
-    "azon": "ALDI",
-    "forras": "",
-    "termeknev": "LISTERINE Szájvíz",
-    "termekar": "1 399",
-    "termekcur": " Ft",
-    "termekmenny": "/flakon",
-    "tarfajl": "2 798 Ft/l",
-    "tarfajlmert": "",
-    "disc": "",
-    "erv": "",
-    "termeklink": "https://www.aldi.hu/hu/ajanlatok/ajanlatok-csuetoertoektol-20220106/reszletes-oldal/ps/p/listerineszajviz-16/"
-  },
-  {
-    "azon": "ALDI",
-    "forras": "",
-    "termeknev": "DENTOFIT Szájvíz",
-    "termekar": "399",
-    "termekcur": " Ft",
-    "termekmenny": "/flakon",
-    "tarfajl": "798 Ft/l",
-    "tarfajlmert": "",
-    "disc": "",
-    "erv": "",
-    "termeklink": "https://www.aldi.hu/hu/ajanlatok/ajanlatok-csuetoertoektol-20220106/reszletes-oldal/ps/p/dentofitszajviz-1/"
-  },
-  {
-    "azon": "ALDI",
-    "forras": "",
     "termeknev": "MY LIVING STYLE Páros ágyneműhuzat",
     "termekar": "9 999",
     "termekcur": " Ft",
@@ -1102,6 +1050,58 @@
     "disc": "",
     "erv": "",
     "termeklink": "https://www.aldi.hu/hu/ajanlatok/ajanlatok-csuetoertoektol-20220106/reszletes-oldal/ps/p/krizantmcsokor-29/"
+  },
+  {
+    "azon": "ALDI",
+    "forras": "",
+    "termeknev": "PÖTTYÖS Túró rudi",
+    "termekar": "849",
+    "termekcur": " Ft",
+    "termekmenny": "/csomag",
+    "tarfajl": "4 716,67 Ft/kg",
+    "tarfajlmert": "",
+    "disc": "",
+    "erv": "",
+    "termeklink": "https://www.aldi.hu/hu/ajanlatok/ajanlatok-csuetoertoektol-20220106/reszletes-oldal/ps/p/poettyoesturo-rudi-30/"
+  },
+  {
+    "azon": "ALDI",
+    "forras": "",
+    "termeknev": "KOKÁRDÁS Natúr rudi",
+    "termekar": "279",
+    "termekcur": " Ft",
+    "termekmenny": "/csomag",
+    "tarfajl": "1 860 Ft/kg",
+    "tarfajlmert": "",
+    "disc": "",
+    "erv": "",
+    "termeklink": "https://www.aldi.hu/hu/ajanlatok/ajanlatok-csuetoertoektol-20220106/reszletes-oldal/ps/p/kokardasnatur-rudi-16/"
+  },
+  {
+    "azon": "ALDI",
+    "forras": "",
+    "termeknev": "LISTERINE Szájvíz",
+    "termekar": "1 399",
+    "termekcur": " Ft",
+    "termekmenny": "/flakon",
+    "tarfajl": "2 798 Ft/l",
+    "tarfajlmert": "",
+    "disc": "",
+    "erv": "",
+    "termeklink": "https://www.aldi.hu/hu/ajanlatok/ajanlatok-csuetoertoektol-20220106/reszletes-oldal/ps/p/listerineszajviz-16/"
+  },
+  {
+    "azon": "ALDI",
+    "forras": "",
+    "termeknev": "DENTOFIT Szájvíz",
+    "termekar": "399",
+    "termekcur": " Ft",
+    "termekmenny": "/flakon",
+    "tarfajl": "798 Ft/l",
+    "tarfajlmert": "",
+    "disc": "",
+    "erv": "",
+    "termeklink": "https://www.aldi.hu/hu/ajanlatok/ajanlatok-csuetoertoektol-20220106/reszletes-oldal/ps/p/dentofitszajviz-1/"
   },
   {
     "azon": "ALDI",
@@ -6215,19 +6215,6 @@
   {
     "azon": "CBA",
     "forras": "",
-    "termeknev": "Fuzetea szénsavmentes üdítőital barack-rózsa zero 1.5l",
-    "termekar": "299,- Ft/db",
-    "termekcur": "",
-    "termekmenny": "",
-    "tarfajl": " 199,33 Ft/l",
-    "tarfajlmert": "",
-    "disc": "-23%",
-    "erv": "",
-    "termeklink": "https://online.prima.hu/s/fuzetea-szensavmentes-uditoital-barack-rozsa-zero-1-5l-10000188227?cat=554020"
-  },
-  {
-    "azon": "CBA",
-    "forras": "",
     "termeknev": "Fuzetea Zero szénsavmentes üdítőital citromízű 1.5l",
     "termekar": "299,- Ft/db",
     "termekcur": "",
@@ -6237,6 +6224,19 @@
     "disc": "-23%",
     "erv": "",
     "termeklink": "https://online.prima.hu/s/fuzetea-zero-szensavmentes-uditoital-citromizu-1-5l-10000174882?cat=554020"
+  },
+  {
+    "azon": "CBA",
+    "forras": "",
+    "termeknev": "Fuzetea szénsavmentes üdítőital barack-rózsa zero 1.5l",
+    "termekar": "299,- Ft/db",
+    "termekcur": "",
+    "termekmenny": "",
+    "tarfajl": " 199,33 Ft/l",
+    "tarfajlmert": "",
+    "disc": "-23%",
+    "erv": "",
+    "termeklink": "https://online.prima.hu/s/fuzetea-szensavmentes-uditoital-barack-rozsa-zero-1-5l-10000188227?cat=554020"
   },
   {
     "azon": "CBA",
@@ -6462,19 +6462,6 @@
   {
     "azon": "CBA",
     "forras": "",
-    "termeknev": "Milka tejcsokoládé oreo 100g",
-    "termekar": "279,- Ft/db",
-    "termekcur": "",
-    "termekmenny": "",
-    "tarfajl": " 2790,00 Ft/kg",
-    "tarfajlmert": "",
-    "disc": "-20%",
-    "erv": "",
-    "termeklink": "https://online.prima.hu/s/milka-tejcsokolade-oreo-100g-10000075816?cat=401010"
-  },
-  {
-    "azon": "CBA",
-    "forras": "",
     "termeknev": "Milka tejcsokoládé chocolate dessert 100g",
     "termekar": "279,- Ft/db",
     "termekcur": "",
@@ -6488,7 +6475,7 @@
   {
     "azon": "CBA",
     "forras": "",
-    "termeknev": "Milka alpesi tejkr.tejcsokoládé 100g",
+    "termeknev": "Milka tejcsokoládé oreo 100g",
     "termekar": "279,- Ft/db",
     "termekcur": "",
     "termekmenny": "",
@@ -6496,7 +6483,7 @@
     "tarfajlmert": "",
     "disc": "-20%",
     "erv": "",
-    "termeklink": "https://online.prima.hu/s/milka-alpesi-tejkr-tejcsokolade-100g-10000005793?cat=401010"
+    "termeklink": "https://online.prima.hu/s/milka-tejcsokolade-oreo-100g-10000075816?cat=401010"
   },
   {
     "azon": "CBA",
@@ -6510,6 +6497,19 @@
     "disc": "-20%",
     "erv": "",
     "termeklink": "https://online.prima.hu/s/milka-tejcsokolade-toffe-cream-100g-10000005803?cat=401010"
+  },
+  {
+    "azon": "CBA",
+    "forras": "",
+    "termeknev": "Milka alpesi tejkr.tejcsokoládé 100g",
+    "termekar": "279,- Ft/db",
+    "termekcur": "",
+    "termekmenny": "",
+    "tarfajl": " 2790,00 Ft/kg",
+    "tarfajlmert": "",
+    "disc": "-20%",
+    "erv": "",
+    "termeklink": "https://online.prima.hu/s/milka-alpesi-tejkr-tejcsokolade-100g-10000005793?cat=401010"
   },
   {
     "azon": "CBA",
@@ -6536,6 +6536,19 @@
     "disc": "-20%",
     "erv": "",
     "termeklink": "https://online.prima.hu/s/milka-triple-choco-kakaos-tejcsokolade-90g-10000150481?cat=401010"
+  },
+  {
+    "azon": "CBA",
+    "forras": "",
+    "termeknev": "Milka tejcsokoládé milkinis 87,5g",
+    "termekar": "279,- Ft/db",
+    "termekcur": "",
+    "termekmenny": "",
+    "tarfajl": " 3188,57 Ft/kg",
+    "tarfajlmert": "",
+    "disc": "-20%",
+    "erv": "",
+    "termeklink": "https://online.prima.hu/s/milka-tejcsokolade-milkinis-87-5g-10000048786?cat=401010"
   },
   {
     "azon": "CBA",
@@ -6575,19 +6588,6 @@
     "disc": "-20%",
     "erv": "",
     "termeklink": "https://online.prima.hu/s/milka-tejcsokolade-joghurtos-100g-10000006709?cat=401010"
-  },
-  {
-    "azon": "CBA",
-    "forras": "",
-    "termeknev": "Milka tejcsokoládé milkinis 87,5g",
-    "termekar": "279,- Ft/db",
-    "termekcur": "",
-    "termekmenny": "",
-    "tarfajl": " 3188,57 Ft/kg",
-    "tarfajlmert": "",
-    "disc": "-20%",
-    "erv": "",
-    "termeklink": "https://online.prima.hu/s/milka-tejcsokolade-milkinis-87-5g-10000048786?cat=401010"
   },
   {
     "azon": "CBA",
@@ -6826,19 +6826,6 @@
   {
     "azon": "CBA",
     "forras": "",
-    "termeknev": "Kinley tonic water tonikízű szénsavas üdítőital 1,5l",
-    "termekar": "349,- Ft/db",
-    "termekcur": "",
-    "termekmenny": "",
-    "tarfajl": " 232,67 Ft/l",
-    "tarfajlmert": "",
-    "disc": "-16%",
-    "erv": "",
-    "termeklink": "https://online.prima.hu/s/kinley-tonic-water-tonikizu-szensavas-uditoital-1-5l-10000185545?cat=551020"
-  },
-  {
-    "azon": "CBA",
-    "forras": "",
     "termeknev": "Sprite zero szénsavas üdítőital édesítőszerekkel 1,75l",
     "termekar": "349,- Ft/db",
     "termekcur": "",
@@ -6861,6 +6848,19 @@
     "disc": "-16%",
     "erv": "",
     "termeklink": "https://online.prima.hu/s/fanta-zero-narancs-szensavas-uditoital-edesitoszer-1-75l-10000133036?cat=551020"
+  },
+  {
+    "azon": "CBA",
+    "forras": "",
+    "termeknev": "Kinley tonic water tonikízű szénsavas üdítőital 1,5l",
+    "termekar": "349,- Ft/db",
+    "termekcur": "",
+    "termekmenny": "",
+    "tarfajl": " 232,67 Ft/l",
+    "tarfajlmert": "",
+    "disc": "-16%",
+    "erv": "",
+    "termeklink": "https://online.prima.hu/s/kinley-tonic-water-tonikizu-szensavas-uditoital-1-5l-10000185545?cat=551020"
   },
   {
     "azon": "CBA",
