@@ -1,6 +1,144 @@
 [
     {
         "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/tejszines-fokhagymakremleves",
+        "h1": "Tejszínes fokhagymakrémleves",
+        "txtlength": 12275
+    },
+    {
+        "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/kokuszos-keksztekercs",
+        "h1": "Kókuszos keksztekercs",
+        "txtlength": 11019
+    },
+    {
+        "hostname": "kiszamolo.hu",
+        "pagelink": "https://kiszamolo.hu/ez-lenne-az-inflacio-oka/",
+        "h1": "Ez lenne a magas infláció valódi oka?",
+        "txtlength": 35742
+    },
+    {
+        "hostname": "alapblog.hu",
+        "pagelink": "https://alapblog.hu/reszvenyarbitrazs-trump-modra-magas-hozam-de-csak-a-kivaltsagosoknak-a-spac-ok-vilaga/",
+        "h1": "Részvényarbitrázs Trump módra: magas hozam, de csak a kiváltságosoknak – a SPAC-ok világa…",
+        "txtlength": 9296
+    },
+    {
+        "hostname": "efesasanisimasa.com",
+        "pagelink": "https://efesasanisimasa.com/2021/12/29/evolucio-2021/",
+        "h1": "Evolúció (2021)",
+        "txtlength": 8481
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/hitel/20220107/hiaba-a-kamatstop-ezzel-rengeteg-lakashiteles-sporolhat-2022-ben-a-torlesztojen-1120891",
+        "h1": "Hiába a kamatstop: ezzel rengeteg lakáshiteles spórolhat 2022-ben a törlesztőjén",
+        "txtlength": 20474
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20211230_brazilia_magyarok_magyar_nyelv",
+        "h1": "„Általában imponál másoknak, hogy magyarul tanulok” – brazil utazó legendás ősökkel",
+        "txtlength": 19100
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/hitel/20220107/rengeteg-magyar-fiatal-mond-nemet-az-ingyenmilliokra-ha-nem-sietnek-kifutnak-az-idobol-1120882",
+        "h1": "Rengeteg magyar fiatal mond nemet az ingyenmilliókra: ha nem sietnek, kifutnak az időből",
+        "txtlength": 18791
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://precedens.mandiner.hu/cikk/20211229_biden_usa_nagy_britannia_nato_k%C3%ADna_oroszorszag_velemeny_john_bolton",
+        "h1": "Biden gyengesége veszély: a Nyugatnak Nagy-Britanniára van szüksége",
+        "txtlength": 12803
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/kapcsolat/idealis-no-16-szazadban/",
+        "h1": "Ilyen volt az ideális nő az 1500-as években: szinte minden fontosabb dologért ő felelt, megbecsülést nem várt",
+        "txtlength": 10767
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://sport.mandiner.hu/cikk/20211215_csak_egy_valaki_ellen_vagyok_hajlando_cimet_vedeni",
+        "h1": "Csak egy valaki ellen vagyok hajlandó címet védeni",
+        "txtlength": 8789
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/podcast/20211229/elszallo-inflacioval-rekord-gyenge-forinttal-indul-az-ev-mi-jon-ezutan-518570",
+        "h1": "Elszálló inflációval, rekord gyenge forinttal indul az év: mi jön ezután?",
+        "txtlength": 7842
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/lajfhekk/melltarto-mosasa/",
+        "h1": "Lehet, hogy te is rosszul mosod a melltartódat",
+        "txtlength": 7580
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/podcast/20211231/podcast-ez-a-legnagyobb-szervezeti-innovacio-a-futoszalag-feltalalasa-ota-517102",
+        "h1": "Podcast: Ez a legnagyobb szervezeti innováció a futószalag feltalálása óta",
+        "txtlength": 7235
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/short/20211231/gyereket-lokott-fel-egy-orjaratozo-brit-gardista-518940",
+        "h1": "Gyereket lökött fel egy őrjáratozó brit gárdista",
+        "txtlength": 5546
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2021/12/30/itt-a-video-arrol-ahogy-a-james-webb-urtavcso-levalik-a-raketarol-es-elkezdi-kicsomagolni-magat",
+        "h1": "ITT A VIDEÓ ARRÓL, AHOGY A JAMES WEBB ŰRTÁVCSŐ LEVÁLIK A RAKÉTÁRÓL, ÉS ELKEZDI KICSOMAGOLNI MAGÁT",
+        "txtlength": 3779
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/sztarvilag/elvis-presley-rock-and-roll-kiralya-halal-1956/7vwepfn",
+        "h1": "Kiállt a magyarokért és sikert sikerre halmozott, de a végére már árnyéka volt önmagának – 45 éve rejtély, mi áll Elvis Presley boncolási jegyzőkönyvében",
+        "txtlength": 17843
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/brandcontent/20211129_Ahany_kave_annyi_recept__A_tokeletes_kaveitalok_nyomaban",
+        "h1": "Új év, új kávé: ön megtalálta már a tökéleteset?",
+        "txtlength": 13753
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/blikk-tv/aktualis/koronavirus-covid-video-naplo-karacsonykor-karanten-omikron/20bgje0",
+        "h1": "Covid-videónapló, avagy az ünneprontó piros csík – Marczali László kollégánk elbaltázott karácsonya",
+        "txtlength": 12392
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/foto/2021/10/23/az-otvenes-evek-brutalitasanak-utolso-nyomai",
+        "h1": "Az ötvenes évek brutalitásának utolsó nyomai",
+        "txtlength": 10877
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/brandcontent/20211209_Mi_dontunk_a_sorsunkrol_tegyunk_az_unnepi_magany_ellen",
+        "h1": "\"Senki ne legyen egyedül karácsonykor\" – rengeteg embernek mégis muszáj volt",
+        "txtlength": 10546
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/telextarcak/2021/07/24/dragoman-gyorgy-pohar-pohar-pohar-telextarcak-tarcanovella",
+        "h1": "Dragomán György: Pohár-pohár-pohár",
+        "txtlength": 9149
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/telextarcak/2021/12/25/grecso-krisztian-megelni-az-idei-karacsonyt-telextarca-tarcanovella-karacsony-irodalom",
+        "h1": "Grecsó Krisztián: Megélni az idei karácsonyt",
+        "txtlength": 8797
+    },
+    {
+        "hostname": "nosalty.hu",
         "pagelink": "https://www.nosalty.hu/recept/gyors-amerikai-palacsinta",
         "h1": "Gyors amerikai palacsinta",
         "txtlength": 12309
