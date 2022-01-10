@@ -1,6 +1,90 @@
 [
     {
         "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/tejszines-brokkolikremleves-2",
+        "h1": "Tejszínes brokkolikrémleves 2.",
+        "txtlength": 11587
+    },
+    {
+        "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/korhelyleves-eredeti-recept-alapjan",
+        "h1": "Korhelyleves eredeti recept alapján",
+        "txtlength": 10577
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/gozgomboc-vaniliasodoval-es-makkal.recept",
+        "h1": "GŐZGOMBÓC VANÍLIASODÓVAL ÉS MÁKKAL",
+        "txtlength": 10367
+    },
+    {
+        "hostname": "kulturpart.hu",
+        "pagelink": "https://kulturpart.blog.hu/2021/12/28/autista_fiaval_egyutt_lep_szinpadra_a_szineszlegenda",
+        "h1": "AUTISTA FIÁVAL EGYÜTT LÉP SZÍNPADRA A SZÍNÉSZLEGENDA",
+        "txtlength": 7180
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/auto/20220109/a-vasember-jobbkeze-hozta-el-elon-musk-kriptonitjat-teszten-a-hyundai-ioniq-5-1120923",
+        "h1": "A Vasember jobbkeze hozta el Elon Musk kriptonitját? Teszten a Hyundai Ioniq 5",
+        "txtlength": 18326
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/megtakaritas/20220105/fontos-level-erkezik-a-bankodtol-januarban-dontened-kell-sok-penzrol-van-szo-1120807",
+        "h1": "Fontos levél érkezik a bankodtól januárban: döntened kell, sok pénzről van szó",
+        "txtlength": 14402
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/egeszseg/hormonrendszer-helyreallitasaban-segito-szokasok/",
+        "h1": "5 szokás, ami segít a felborult hormonrendszer helyreállításában: nem csak a stressz csökkentése fontos",
+        "txtlength": 11204
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/szuloseg/miert-sir-baba-gyerek/",
+        "h1": "miért sír a baba?",
+        "txtlength": 10619
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20211230/elszabadultak-a-gaz-es-aramarak-emiatt-meg-rengetegen-szivjak-majd-a-fogukat-top10-sztori-2-518686",
+        "h1": "Elszabadultak a gáz- és áramárak - Emiatt még rengetegen szívják majd a fogukat (TOP10 sztori - 2.)",
+        "txtlength": 3199
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/deviza/20211224/sosem-latott-melysegekben-jart-a-forint-de-ennek-mar-senki-nem-orul-top10-sztori-8-517980",
+        "h1": "Sosem látott mélységekben járt a forint, de ennek már senki nem örül (TOP10 sztori - 8.)",
+        "txtlength": 2243
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/fenntarthato-karacsony/2021/12/19/karacsonyi-menu-csucstechnologiaval-5000-forintbol",
+        "h1": "Karácsonyi menü csúcstechnológiával, 5000 forintból",
+        "txtlength": 15032
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/kiraly-zoltan-diploma-73-evesen-spormedia-szak/0k2dvcm?sl_ps=d_6",
+        "h1": "A harmadik diplomájára hajt Király Zoltán: újra egyetemista a 73 éves volt MDF-es politikus – videó",
+        "txtlength": 11870
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/brandcontent/20211126_Mi_is_az_a_bizonyos_Ipar_40",
+        "h1": "Mi is az a bizonyos Ipar 4.0?",
+        "txtlength": 11561
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/apa-kuzdelem-lanya-birosag-csod-segitseg/w0lzxd3?sl_ps=d_10",
+        "h1": "Kilenc évig járt Péter a bíróságra: csődbe taszította a harc a lányáért küzdő apát",
+        "txtlength": 9973
+    },
+    {
+        "hostname": "nosalty.hu",
         "pagelink": "https://www.nosalty.hu/recept/zsenge-borsofozelek",
         "h1": "Zsenge borsófőzelék",
         "txtlength": 12091
