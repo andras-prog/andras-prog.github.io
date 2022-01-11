@@ -1,6 +1,108 @@
 [
     {
         "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/ujevi-lencsesalata",
+        "h1": "Újévi lencsesaláta",
+        "txtlength": 11683
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/rakott-edesburgonya.recept",
+        "h1": "RAKOTT ÉDESBURGONYA",
+        "txtlength": 11261
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/klasszikus-toros-kaposzta.recept",
+        "h1": "TOROS KÁPOSZTA",
+        "txtlength": 10158
+    },
+    {
+        "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/parolt-lila-kaposzta",
+        "h1": "Párolt lila káposzta",
+        "txtlength": 9932
+    },
+    {
+        "hostname": "kulturpart.hu",
+        "pagelink": "https://kulturpart.hu/2021/12/30/dexter_new_blood_yellowjackets_nosztalgia",
+        "h1": "ELŐÁSNI AZ ÉVTIZEDES HULLÁKAT",
+        "txtlength": 10976
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20211228/a-negyedik-ipari-forradalom-emberi-arca-518240",
+        "h1": "A negyedik ipari forradalom emberi arca",
+        "txtlength": 20440
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20211201_erdely_vakiskola_kulhon",
+        "h1": "Itt az első erdélyi magyar vakiskola",
+        "txtlength": 17482
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/karrier/20220110/bersatuban-a-magyar-cegek-eljott-az-ertekeles-ideje-iden-mar-nem-lehet-elodazni-a-fizetesemeleseket-1120918",
+        "h1": "Bérsatuban a magyar cégek: eljött az értékelés ideje, idén már nem lehet elodázni a fizetésemeléseket",
+        "txtlength": 16092
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/megtakaritas/20220110/legy-resen-ezeknel-az-atm-eknel-elnyelik-a-kartyat-levonjak-az-osszeget-de-penzt-nem-adnak-ki-1120968",
+        "h1": "Légy résen ezeknél az ATM-eknél: elnyelik a kártyát, levonják az összeget, de pénzt nem adnak ki",
+        "txtlength": 15855
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/otthon/egeszseges-teli-zoldsegek/",
+        "h1": "Védik a szívet, erősítik az immunrendszert: az 5 legegészségesebb zöldség, ami télen a tányérodra kerülhet",
+        "txtlength": 12522
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://makronom.mandiner.hu/cikk/20211223_kihagyta_a_globalizacio_egy_jelentos_reszet_indonezia_ezaltal_nem_fenyegeti_az_inflacio",
+        "h1": "Kihagyta a globalizáció egy jelentős részét Indonézia, ezáltal nem fenyegeti az infláció",
+        "txtlength": 12207
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/szuloseg/a-narcisztikus-apa-eletre-szolo-sebeket-hagyhat-gyermekeiben/",
+        "h1": "A narcisztikus apa életre szóló sebeket hagyhat gyerekeiben",
+        "txtlength": 10555
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/kiraly-zoltan-diploma-73-evesen-spormedia-szak/0k2dvcm",
+        "h1": "A harmadik diplomájára hajt Király Zoltán: újra egyetemista a 73 éves volt MDF-es politikus – videó",
+        "txtlength": 11774
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/nagytarcsa-epitesi-engedely-szabalytalansag-nyomozas-felfuggesztes-ugyeszseg/786v6f3",
+        "h1": "Kis magyar abszurd: mivel nem derült ki, ki fújta meg a wc-tartályt, leállt volna a nyomozás az átvert lakók ügyében... pedig ez a legkisebb gondjuk",
+        "txtlength": 10973
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/eszkombajn/2021/12/14/egyszer-kiastak-es-elloptak-chaplin-koporsojat-chaplinnel-egyutt",
+        "h1": "Egyszer kiásták és ellopták Chaplin koporsóját, Chaplinnel együtt",
+        "txtlength": 8365
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/foto/2021/11/01/szalai-daniel-novogen",
+        "h1": "Egyet nem akart: hogy csirkés fiúként ismerje meg a világ",
+        "txtlength": 7386
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/eszkombajn/2021/12/15/usa-arany-tartalek-beszolgaltatas-torveny-tortenelem",
+        "h1": "Évtizedeken át tilos volt aranyat tartani otthon az USA-ban",
+        "txtlength": 7119
+    },
+    {
+        "hostname": "nosalty.hu",
         "pagelink": "https://www.nosalty.hu/recept/tejszines-brokkolikremleves-2",
         "h1": "Tejszínes brokkolikrémleves 2.",
         "txtlength": 11587
