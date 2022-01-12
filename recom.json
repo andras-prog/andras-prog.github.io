@@ -1,6 +1,108 @@
 [
     {
         "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/lazac-egyszeruen",
+        "h1": "Lazac egyszerűen",
+        "txtlength": 11515
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/csokis-gofri-egyszeruen.recept",
+        "h1": "CSOKIS GOFRI EGYSZERŰEN",
+        "txtlength": 10045
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/amerikai-palacsinta-alapreceptje.recept",
+        "h1": "AMERIKAI PALACSINTA ALAPRECEPTJE",
+        "txtlength": 9860
+    },
+    {
+        "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/kokuszgolyo-legegyszerubben",
+        "h1": "Kókuszgolyó a legegyszerűbben",
+        "txtlength": 9502
+    },
+    {
+        "hostname": "kiszamolo.hu",
+        "pagelink": "https://kiszamolo.hu/hazvasarlasunk-tortenete/",
+        "h1": "Házvásárlásunk története",
+        "txtlength": 38644
+    },
+    {
+        "hostname": "efesasanisimasa.com",
+        "pagelink": "https://efesasanisimasa.com/2021/03/27/narcos-tv-series-2015-2017/",
+        "h1": "Narcos (TV Series, 2015–2017)",
+        "txtlength": 9758
+    },
+    {
+        "hostname": "alapblog.hu",
+        "pagelink": "https://alapblog.hu/angliaban-is-hamar-tetozni-latszik-az-omikron-elkerulhetonek-tunnek-a-lezarasok/",
+        "h1": "Angliában is hamar tetőzni látszik az Omikron – elkerülhetőnek tűnnek a lezárások",
+        "txtlength": 4382
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/vasarlas/20220111/dagad-az-akacmez-botrany-igy-hamisitjak-a-meregdraga-csemeget-nehez-kiszurni-az-eredetit-1120978",
+        "h1": "Dagad az akácméz-botrány: így hamisítják a méregdrága csemegét, nehéz kiszúrni az eredetit",
+        "txtlength": 16272
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/egeszseg/20220111/modern-nepbetegseg-szedi-aldozatait-a-magyar-munkahelyeken-sokaknak-visszauthet-a-januar-1121006",
+        "h1": "Modern népbetegség szedi áldozatait a magyar munkahelyeken: sokaknak visszaüthet a január",
+        "txtlength": 15218
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/fogyokura/teljes-testes-hiit-edzes/",
+        "h1": "Teljes testes HIIT-edzés, amitől látványosan beindul a fogyás: csak 20 perc, kezdők és haladók is végezhetik",
+        "txtlength": 12313
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/szuloseg/vita-koronavirus-oltas/",
+        "h1": "Mi történik, ha az egyik szülő nem akarja beoltatni a gyereket?",
+        "txtlength": 10278
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/foto/2021/08/27/romai-part-csonakhaz-tortenelem-aranykorok",
+        "h1": "Vadevezősökkel, csónakházakkal, Nagy-Magyarország-reklámokkal telt a Római-part aranykora",
+        "txtlength": 17107
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/brandcontent/20211206_Elmaradt_uzleti_eredmenyek_A_problema_az_On_keszulekeben_van",
+        "h1": "Az építőipar növekszik a leggyorsabban, mégsem örülhetünk?",
+        "txtlength": 11635
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/kulfold/kazahsztan-almati-magyarok-felkeles/l8gpscv",
+        "h1": "Mit tapasztaltak és hogyan jutottak haza a Kazahsztánban rekedt magyarok? – Helyszíni beszámoló",
+        "txtlength": 10098
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/parragh-adam-baleset-gazolas-agy-sors/84n95pz",
+        "h1": "Balesete óta, 18 éve él ágyhoz kötve Ádám: megbocsátottam a gázolómnak, elfogadtam a sorsomat",
+        "txtlength": 9677
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/video/2021/05/03/lazar-janos-fidesz-interju-menesbirtok-tramtrain",
+        "h1": "Lázár: Nem létezik olyan ember, akitől én megijednék vagy félnék",
+        "txtlength": 5804
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/video/2021/05/24/telexikon-identitaspolitika-gender-lmbtq-harc-animacio",
+        "h1": "Az elnyomott heteró, fehér férfi és a genderfluid óvodások: hogyan vált identitások harcává a politika?",
+        "txtlength": 3676
+    },
+    {
+        "hostname": "nosalty.hu",
         "pagelink": "https://www.nosalty.hu/recept/ujevi-lencsesalata",
         "h1": "Újévi lencsesaláta",
         "txtlength": 11683
