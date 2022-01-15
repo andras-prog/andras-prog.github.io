@@ -1,5 +1,89 @@
 [
     {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/pasztortarhonya-video.recept",
+        "h1": "PÁSZTORTARHONYA",
+        "txtlength": 10431
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/kakukkfuves-gombaragu.recept",
+        "h1": "KAKUKKFÜVES GOMBARAGU",
+        "txtlength": 10217
+    },
+    {
+        "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/lencsefozelek-egyszeruen",
+        "h1": "Lencsefőzelék egyszerűen",
+        "txtlength": 10176
+    },
+    {
+        "hostname": "hafr.hvgblog.hu",
+        "pagelink": "https://hafr.hvgblog.hu/2020/11/27/gyozhet-e_az_egyesult_ellenzek_igen/",
+        "h1": "Győzhet-e az egyesült ellenzék? – Igen.",
+        "txtlength": 10021
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/vasarlas/20220114/hajmereszto-az-elelmiszerarak-dragulasa-itthon-van-ami-egy-honap-alatt-26-szazalekkal-kerul-tobbe-1121111",
+        "h1": "Hajmeresztő az élelmiszerárak drágulása itthon: van, ami egy hónap alatt 26 százalékkal kerül többe",
+        "txtlength": 14924
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/egeszseg/20220114/rekordhosszu-varolistak-a-magyar-korhazakban-eveket-varhatnak-a-betegek-mire-sorra-kerulnek-1121062",
+        "h1": "Rekordhosszú várólisták a magyar kórházakban: éveket várhatnak a betegek, mire sorra kerülnek",
+        "txtlength": 13931
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/fogyokura/majvedo-ital-zsigeri-zsir-ellen/",
+        "h1": "Gátolják a hasi hízást, támogatják a máj működését: 4 ital, ami elősegíti a zsírégetést",
+        "txtlength": 10483
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/szuloseg/szegenyseg-beszelgetes/",
+        "h1": "szegénység beszélgetés",
+        "txtlength": 10021
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/krimi/regi-bunugyek-exnyomozo-rablasok-elfogas-birosagi-targyalas-beszolas/wm9qcqc?sl_ps=d_3",
+        "h1": "Úgy húzta csőbe a bolgár fegyverest a budapesti nyomozó, hogy tanítani kellene – Vérfagyasztó pillanatok a munkásszállón",
+        "txtlength": 15226
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/kulfold/andras-herceg-szexbotrany-erzsebet-kiralyno-kiralyi-csalad/8gvf5rf",
+        "h1": "Botrányoktól hangos a Buckingham-palota: II. Erzsébet királynő köszöni szépen, nem kér belőle",
+        "txtlength": 12290
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/telextarcak/2021/06/26/egressy-zoltan-szivarszoba-telextarcak-tarcanovella",
+        "h1": "Egressy Zoltán: Szivarszoba",
+        "txtlength": 9465
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/brandcontent/20211203_Egy_magyar_kapun_at_is_elerhetoek_a_vilag_felhoi",
+        "h1": "Egy magyar kapun át is elérhetőek a világ felhői",
+        "txtlength": 8612
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/video/2021/04/03/filmpremier-amirol-a-fak-suttognak",
+        "h1": "A Telex bemutatja: Amiről a fák suttognak",
+        "txtlength": 7237
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/video/2021/12/30/telex-evzaro-beszed-ujev-koszonto",
+        "h1": "Megmutatjuk, mi az, amit minden más újévi köszöntő beszédből kivágnak",
+        "txtlength": 3279
+    },
+    {
         "hostname": "nosalty.hu",
         "pagelink": "https://www.nosalty.hu/recept/gyors-chilis-bab",
         "h1": "Gyors chilis bab",
