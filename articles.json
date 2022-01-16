@@ -1433,26 +1433,22 @@
         "topic": "konyv",
         "picarr": [
             {
-                "picture": "https://kisgomboc.files.wordpress.com/2021/01/golden-791072_1920.jpg?w=723",
-                "timestamp": 1641726060974
-            },
-            {
                 "picture": "https://kisgomboc.files.wordpress.com/2021/01/girl-3528292_1920.jpg?w=723",
-                "timestamp": 1639911669900
+                "timestamp": 1642330851106
             },
             {
                 "picture": "https://kisgomboc.files.wordpress.com/2021/01/blond-1866951_1920.jpg?w=723",
                 "timestamp": 1640516442164
+            },
+            {
+                "picture": "https://kisgomboc.files.wordpress.com/2021/01/golden-791072_1920.jpg?w=723",
+                "timestamp": 1641726060974
             }
         ],
         "titlearr": [
             {
-                "title": "https://bookline.hu/product/home.action?_v=Dan_Brown_Inferno&type=22&id=123773",
-                "timestamp": 1641726060974
-            },
-            {
                 "title": "https://bookline.hu/product/home.action?_v=Stieg_Larsson_A_tetovalt_lany&type=22&id=78198",
-                "timestamp": 1633259009775
+                "timestamp": 1642330851106
             },
             {
                 "title": "https://bookline.hu/product/home.action?_v=Ransom_Riggs_Vandorsolyom_kisasszony_ku&type=22&id=104944",
@@ -1497,6 +1493,10 @@
             {
                 "title": "https://bookline.hu/product/home.action?_v=Borsa_Brown_Az_Arab_Arab_1_&type=22&id=280920",
                 "timestamp": 1640516442164
+            },
+            {
+                "title": "https://bookline.hu/product/home.action?_v=Dan_Brown_Inferno&type=22&id=123773",
+                "timestamp": 1641726060974
             }
         ],
         "leadarr": [
