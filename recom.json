@@ -1,5 +1,95 @@
 [
     {
+        "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/dios-kosarka",
+        "h1": "Diós kosárka",
+        "txtlength": 14288
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/edesburgonyas-brownie.recept",
+        "h1": "ÉDESBURGONYÁS BROWNIE",
+        "txtlength": 10739
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/gombas-karaj-kiforditott-bundaban.recept",
+        "h1": "GOMBÁS KARAJ KIFORDÍTOTT BUNDÁBAN",
+        "txtlength": 10095
+    },
+    {
+        "hostname": "kiszamolo.hu",
+        "pagelink": "https://kiszamolo.hu/deezer-vs-spotify-vs-youtube-premium/",
+        "h1": "Deezer vs Spotify vs Youtube Premium",
+        "txtlength": 35286
+    },
+    {
+        "hostname": "alapblog.hu",
+        "pagelink": "https://alapblog.hu/bond-fogonosz-mentheti-meg-az-aston-martint/",
+        "h1": "Bond főgonosz mentheti meg az Aston Martint?",
+        "txtlength": 11478
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/auto/20220112/durvan-megdragultak-a-legolcsobb-uj-autok-4-millio-alatt-mar-szinte-semmit-sem-kapsz-1121010",
+        "h1": "Durván megdrágultak a legolcsóbb új autók: 4 millió alatt már szinte semmit sem kapsz",
+        "txtlength": 15205
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/karrier/20220112/idosgondozonak-csabitjak-kulfoldre-a-magyar-apolokat-szallas-etkezes-is-jar-a-csucsfizetes-melle-1121042",
+        "h1": "Idősgondozónak csábítják külföldre a magyar ápolókat: szállás, étkezés is jár a csúcsfizetés mellé",
+        "txtlength": 13165
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/kapcsolat/irena-sendler/",
+        "h1": "Több mint 2500 zsidó gyermeket mentett meg a náciktól - Irena Sendlert elfogta és megkínozta a Gestapo",
+        "txtlength": 11715
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/szuloseg/anya-nem-illik-kulonbseg-a-nok-ferfiak-kozott/",
+        "h1": "Egy anyának ezt már nem illik?",
+        "txtlength": 10161
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/telextarcak/2021/08/07/man-varhegyi-reka-ugye-orulsz-telextarcak-tarcanovella",
+        "h1": "Mán-Várhegyi Réka: Ugye örülsz?",
+        "txtlength": 10178
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/idojaras-elorejelzes-vasarnap/fhnemtx",
+        "h1": "Időjárás ma: szeles vasárnap vár ránk, és még a veszélyjelzést is kiadták",
+        "txtlength": 9650
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/kulfold/tonga-vulkan-kitores-cunami-riado-japan-usa-peru/bs0rl1n",
+        "h1": "Japánban, Peruban és az USA-ban is cunamiriadót rendeltek el a tenger alatti vulkánkitörés miatt",
+        "txtlength": 9485
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/brandcontent/20211217_Tudta_Meg_a_halozatokat_is_fel_lehet_okositani",
+        "h1": "Hallott már az SD-WAN-ról?",
+        "txtlength": 9122
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/video/2021/01/19/oltasellenesseg-vakcinak-nyajimmunitas-orvosok-kommunikacio",
+        "h1": "Kommunikációs káosz veszélyezteti a nyájimmunitást",
+        "txtlength": 3440
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/video/2021/02/08/dobbenet-eloszor-szolalt-meg-szabo-zsofi-kozeli-ismerosenek-bejaronoje",
+        "h1": "Döbbenet: először szólalt meg Szabó Zsófi közeli ismerősének bejárónője",
+        "txtlength": 3367
+    },
+    {
         "hostname": "mindmegette.hu",
         "pagelink": "https://www.mindmegette.hu/pasztortarhonya-video.recept",
         "h1": "PÁSZTORTARHONYA",
