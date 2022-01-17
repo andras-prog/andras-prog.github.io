@@ -1,6 +1,102 @@
 [
     {
         "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/pizzateszta-jamie-oliver-tol",
+        "h1": "Pizzatészta Jamie Oliver-től",
+        "txtlength": 21111
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/csirkes-paella-valenciai.recept",
+        "h1": "CSIRKÉS PAELLA (VALENCIAI PAELLA)",
+        "txtlength": 10537
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/csiliszoszban-pacolt-kacsamell.recept",
+        "h1": "CSILISZÓSZBAN PÁCOLT KACSAMELL",
+        "txtlength": 10076
+    },
+    {
+        "hostname": "hafr.hvgblog.hu",
+        "pagelink": "https://hafr.hvgblog.hu/2020/12/01/mi_a_baj_a_liberalizmussal_364/",
+        "h1": "Mi a baj a liberalizmussal?",
+        "txtlength": 9271
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/vasarlas/20220116/igy-falta-fel-az-inflacio-a-nyugdijemelest-durvan-megdragult-az-idos-magyarok-elete-1121131",
+        "h1": "Így falta fel az infláció a nyugdíjemelést: durván megdrágult az idős magyarok élete",
+        "txtlength": 18613
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20211129_belfold_buszsav_budapest_karacsony_gergely",
+        "h1": "Karácsony kocsija a buszsávban suhan, miközben mások a dugóban állnak",
+        "txtlength": 17236
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/vasarlas/20220113/etolaj-sertescomb-csirkemell-cukor-igy-valtozott-az-aruk-egy-ev-alatt-ilyen-hatasa-lehet-az-arstopnak-1121073",
+        "h1": "Étolaj, sertéscomb, csirkemell, cukor: így változott az áruk egy év alatt, ilyen hatása lehet az árstopnak",
+        "txtlength": 16781
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20211129_karacsony_gergely_belfold_budapest_buszsav_video",
+        "h1": "Karácsony: Nem emlékszem arra, hogy éber állapotban buszsávban közlekedtem volna",
+        "txtlength": 11702
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://makronom.mandiner.hu/cikk/20211230_kozgazdasz_kozep_es_kelet_europa_rajott_hogy_az_eu_tagsag_magaban_nem_eleg_a_fejlodeshez",
+        "h1": "Közgazdász: Közép- és Kelet-Európa ráébredt, az EU-tagság magában nem elég a fejlődéshez",
+        "txtlength": 10886
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/ezo/heti_horoszkop/202203/",
+        "h1": "Heti horoszkóp január 17-től 23-ig: a Kos jó lehetőséget, a Bak új esélyt kap",
+        "txtlength": 10726
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/lajfhekk/alvas-memoria-osszefugges/",
+        "h1": "Hogyan segít az alvás megőrizni a jó memóriát?",
+        "txtlength": 8745
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/eszkombajn/2021/06/27/ki-a-coca-colat-issza-nem-ostoba-soviniszta",
+        "h1": "Ki a Coca-Colát issza, nem ostoba soviniszta",
+        "txtlength": 15310
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/sztarvilag/filmklikk/tvr-het-marlene-dietrich-film/xcf0sbh",
+        "h1": "Marlene Dietrich, a végzet asszonya sok férfit szeretett, de csak egynek volt helye a szívében",
+        "txtlength": 12409
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/velencei-to-vizszint-emelkedik-kiszaradas/9b13bzy",
+        "h1": "Felcsillant a remény szikrája: nyáron már ismét fürödhetünk a Velencei tóban?",
+        "txtlength": 11392
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/foto/2021/06/27/najmanyi-laszlo",
+        "h1": "A forradalmár legfőbb kötelessége, hogy megússza",
+        "txtlength": 8965
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/video/2021/10/21/afganisztan-video-talibok-helyszini-riport-nok-elnyomas-iskola-talib",
+        "h1": "Titkos interjúkon mondták el afgán nők, milyen lett az életük a tálibok alatt",
+        "txtlength": 4077
+    },
+    {
+        "hostname": "nosalty.hu",
         "pagelink": "https://www.nosalty.hu/recept/dios-kosarka",
         "h1": "Diós kosárka",
         "txtlength": 14288
