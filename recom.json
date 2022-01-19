@@ -1,5 +1,83 @@
 [
     {
+        "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/fank-13-konnyed-szalagos",
+        "h1": "Fánk 13. - könnyed, szalagos",
+        "txtlength": 12625
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/joghurtos-narancsos-repaleves.recept",
+        "h1": "JOGHURTOS-NARANCSOS RÉPALEVES",
+        "txtlength": 10156
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/cukkinis-kapros-lepeny.recept",
+        "h1": "CUKKINIS-KAPROS LEPÉNY ",
+        "txtlength": 10026
+    },
+    {
+        "hostname": "kulturpart.hu",
+        "pagelink": "https://kulturpart.blog.hu/2021/01/02/megdobbento_fotok_a_neptelen_fovarosrol",
+        "h1": "MEGDÖBBENTŐ FOTÓK A NÉPTELEN FŐVÁROSRÓL",
+        "txtlength": 5039
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/vasarlas/20220116/igy-csap-le-a-kokemeny-dragulas-a-nyugdijasokra-csaladosokra-bojttel-kezdodhet-ez-az-ev-is-1121085",
+        "h1": "Így csap le a kőkemény drágulás a nyugdíjasokra, családosokra: böjttel kezdődhet ez az év is",
+        "txtlength": 26981
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/megtakaritas/20220118/multimilliomos-lehetsz-ha-ezt-2022-ben-megleped-250-forint-is-eleg-az-indulashoz-1121166",
+        "h1": "Multimilliomos lehetsz, ha ezt 2022-ben megléped: 250 forint is elég az induláshoz",
+        "txtlength": 17049
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20211124_marki_zay_peter_belfold_rezsicsokkentes_bige_laszlo_forum",
+        "h1": "Márki-Zay szerint a rezsicsökkentés népbutítás, Bige Lászlóról pedig nem tudja, hogy bűnöző-e",
+        "txtlength": 16921
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/hazai_sztar/balazs-klari-femina-podcast/",
+        "h1": "„Korda Gyuri mindenképpen engem akart, ami sok nőnek fájt” - Balázs Klárival Soós Andrea beszélgetett",
+        "txtlength": 10873
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/szuloseg/hazimunka-jotekony-hatasai-a-gyerekre/",
+        "h1": "Nem átok, áldás a gyereknek a házimunka",
+        "txtlength": 9957
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/szorakozas/2021/12/15/omega-kobor-janos-beatzene",
+        "h1": "Az Omega vége egy kicsit a rock and roll halála is",
+        "txtlength": 12277
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/koronavirus-magyarorszag-halalos-aldozatok-fertozottek/yfk1qv4?sl_ps=d_1",
+        "h1": "Koronavírus: 85 beteg halt meg az elmúlt 24 órában, közel 15 ezer új fertőzöttet találtak",
+        "txtlength": 10192
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/blikk-tv/sztarvilag/harsanyi-levente-risztov-eva-radiozas-kirugas-uj-munka-sportradio/63md438",
+        "h1": "Kirúgása után Harsányi Levente visszatért a mikrofon mögé: elindult az új rádió, ez történt az első napon",
+        "txtlength": 10103
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/video/2021/01/11/hosszu-katinka-kitalalt-azonnal-levettek-a-kepernyorol",
+        "h1": "Hosszú Katinka kitálalt, azonnal levették a képernyőről",
+        "txtlength": 3242
+    },
+    {
         "hostname": "kiszamolo.hu",
         "pagelink": "https://kiszamolo.hu/a-lakas-nem-passziv-befektetes/",
         "h1": "A lakás nem passzív befektetés",
