@@ -1,6 +1,78 @@
 [
     {
         "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/legegyszerubb-tejberizs",
+        "h1": "Legegyszerűbb tejberizs",
+        "txtlength": 14465
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/nagyon-kremes-paradicsomos-teszta-husmentesen.recept",
+        "h1": "NAGYON KRÉMES PARADICSOMOS TÉSZTA HÚSMENTESEN",
+        "txtlength": 10871
+    },
+    {
+        "hostname": "alapblog.hu",
+        "pagelink": "https://alapblog.hu/vilagunkba-beszokott-az-osz/",
+        "h1": "Világunkba beszökött az Ősz",
+        "txtlength": 13685
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/vasarlas/20220119/folytatodik-a-trappista-botrany-eddig-meg-biztosan-maradnak-a-nem-tul-jo-minosegu-sajtok-a-boltokban-1121219",
+        "h1": "Folytatódik a trappista-botrány: eddig még biztosan maradnak a nem túl jó minőségű sajtok a boltokban",
+        "txtlength": 17504
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/vallalkozas/20220117/a-jarvannyal-egyutt-a-boltoshorror-is-kitort-egekben-a-berleti-dijak-hol-van-meg-a-vege-1121086",
+        "h1": "A járvánnyal együtt a boltoshorror is kitört: egekben a bérleti díjak, hol van még a vége?",
+        "txtlength": 17150
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/egeszseg/vitaminok-immunerosites/",
+        "h1": "Kinek szükséges multivitamint szednie? 4 fontos tápanyag, amit pótolni kell a szakértő szerint",
+        "txtlength": 12984
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/lajfhekk/kutya-macska-intelligencia/",
+        "h1": "kutya macska intelligencia",
+        "txtlength": 9369
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/brandcontent/20210914_Uj_gyujtoszallitmanyozasi_projekt__ordogi_kort_szamol_fel_a_logisztikai_ceg",
+        "h1": "Új gyűjtőszállítmányozási projekt – ördögi kört számol fel a logisztikai cég",
+        "txtlength": 14002
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/kulfold/koronavirus-hirek-nagy-britannia-korlatozasok-eltorles/frv13zc",
+        "h1": "Már hivatalos: Európában elsőként ők szüntetik meg a koronavírus miatti korlátozások zömét",
+        "txtlength": 11559
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/janos-korhaz-torott-combcsont-kezeles-panasz-emmi-nnk/rfk5zkb",
+        "h1": "Hazaküldték a kórházból: nem hagyja annyiban az apa törött combcsontú kisfia ügyét",
+        "txtlength": 10655
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/telextarcak/2021/03/06/kiss-tibor-noe-nehany-napot-csak-veled-tarcanovella-telextarcak",
+        "h1": "Kiss Tibor Noé: Néhány napot, csak veled",
+        "txtlength": 8627
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/telextarcak/2021/01/09/kiss-laszlo-a-golya",
+        "h1": "A gólya",
+        "txtlength": 6836
+    },
+    {
+        "hostname": "nosalty.hu",
         "pagelink": "https://www.nosalty.hu/recept/fank-13-konnyed-szalagos",
         "h1": "Fánk 13. - könnyed, szalagos",
         "txtlength": 12625
