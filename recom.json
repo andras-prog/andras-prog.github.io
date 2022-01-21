@@ -1,6 +1,78 @@
 [
     {
         "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/klasszikus-madartej",
+        "h1": "Klasszikus madártej",
+        "txtlength": 11092
+    },
+    {
+        "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/edes-paradicsomos-husgomboc",
+        "h1": "Édes paradicsomos húsgombóc",
+        "txtlength": 11057
+    },
+    {
+        "hostname": "hafr.hvgblog.hu",
+        "pagelink": "https://hafr.hvgblog.hu/2020/12/02/a_magyar_ellenzek_mint_piaci_kofa/",
+        "h1": "A magyar ellenzék mint piaci kofa",
+        "txtlength": 9239
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/karrier/20220118/itt-csuszhat-el-a-boltlancok-berhaboruja-ezzel-nem-szamol-aki-nyilvanos-fizeteseket-akar-1121172",
+        "h1": "Itt csúszhat el a boltláncok bérháborúja: ezzel nem számol, aki nyilvános fizetéseket akar",
+        "txtlength": 17626
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/vasarlas/20220119/kemeny-honapok-ele-neznek-a-magyar-csaladok-nincs-mese-ennek-megfizetik-az-arat-1121189",
+        "h1": "Kemény hónapok elé néznek a magyar családok: nincs mese, ennek megfizetik az árát",
+        "txtlength": 16914
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/fogyokura/2022-legnepszerubb-dieta/",
+        "h1": "Tartós fogyást hoznak, és erősítik az immunrendszert: ezek lesznek 2022 legkedveltebb diétái",
+        "txtlength": 11236
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/lajfhekk/hagyma-konnyezes/",
+        "h1": "Hagyma könnyezés",
+        "txtlength": 9088
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/politika/orban-viktor-kossuth-radio-pentek-interju-jo-reggelt-magyarorszag/kl4p7w9?sl_ps=d_2",
+        "h1": "Orbán Viktor: mindenhol vita van a védekezésről – A miniszterelnök friss bejelentései",
+        "txtlength": 13278
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/covid-bolcsode-ovoda-megvaltozott-szokasok-video/n72peg2",
+        "h1": "Próbára teszi a járvány a családokat és az intézményeket is: a Blikk kiderítette, hogy változtak a bölcsődei és óvodai szokások a koronavírus-járvány kirobbanása óta – videó",
+        "txtlength": 13243
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/foto/2021/06/20/nancy-floyd-weathering-time",
+        "h1": "Kattog a gép, eliramlik az élet",
+        "txtlength": 12449
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/telextarcak/2021/03/27/man-varhegyi-reka-a-vilag-meg-nem-valtozott-meg-telextarcak-tarcanovella",
+        "h1": "Mán-Várhegyi Réka: A világ még nem változott meg",
+        "txtlength": 11070
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/eszkombajn/2021/09/25/muse-testverek-freak-show-albino",
+        "h1": "Az elrabolt fekete albínó testvérek, akiket anyjuk egy cirkuszi előadáson látott viszont a Mars nagyköveteiként",
+        "txtlength": 10101
+    },
+    {
+        "hostname": "nosalty.hu",
         "pagelink": "https://www.nosalty.hu/recept/legegyszerubb-tejberizs",
         "h1": "Legegyszerűbb tejberizs",
         "txtlength": 14465
