@@ -1,6 +1,102 @@
 [
     {
         "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/tokeletes-krumplis-teszta-ahogy-mi-szeretjuk",
+        "h1": "Tökéletes krumplis tészta - ahogy mi szeretjük",
+        "txtlength": 11154
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/mustaros-csirkeragu.recept",
+        "h1": "MUSTÁROS CSIRKERAGU",
+        "txtlength": 10741
+    },
+    {
+        "hostname": "kiszamolo.hu",
+        "pagelink": "https://kiszamolo.hu/amikor-nem-eleg-a-bevetel-a-szukseges-dolgokra/",
+        "h1": "Amikor nem elég a bevétel a szükséges dolgokra",
+        "txtlength": 45434
+    },
+    {
+        "hostname": "alapblog.hu",
+        "pagelink": "https://alapblog.hu/csepp-a-tengerben-nem-tunik-logikusnak-ennyiert-veszelyeztetni-a-telekom-megiteleset/",
+        "h1": "Csepp a tengerben – nem tűnik logikusnak ennyiért veszélyeztetni a Telekom megítélését",
+        "txtlength": 21414
+    },
+    {
+        "hostname": "efesasanisimasa.com",
+        "pagelink": "https://efesasanisimasa.com/2021/12/04/a-kutya-karmai-kozott-the-power-of-the-dog-2021/#comment-144612",
+        "h1": "A kutya karmai között (The Power of the Dog, 2021)",
+        "txtlength": 9835
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/auto/20220120/kiakadt-a-becsuletesnepper-magyarorszag-szegyene-ahogy-az-autohonositas-intezik-1121221",
+        "h1": "Kiakadt a Becsületesnepper: Magyarország szégyene, ahogy az autóhonosítást intézik",
+        "txtlength": 22735
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/hitel/20220121/anyagi-csodbe-donthet-ha-igy-veszel-fel-hitelt-mutatjuk-hogy-kerulheted-el-az-adossagcsapdat-1121262",
+        "h1": "Anyagi csődbe dönthet, ha így veszel fel hitelt: mutatjuk, hogy kerülheted el az adósságcsapdát",
+        "txtlength": 20216
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20211208_cseh_katalin_belfold_hazkutatas",
+        "h1": "Házkutatást tarthattak a Cseh Katalin cégügyeihez kapcsolódó egyik telephelyen",
+        "txtlength": 13553
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/egeszseg/meregtelenites-izzadas/",
+        "h1": "Tényleg igaz, hogy ki tudod izzadni a méreganyagokat? Sok a félreértés a toxinokkal kapcsolatban",
+        "txtlength": 11079
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/szuloseg/minosegi-ido-gyerek-szulo/",
+        "h1": "minőségi idő gyerek szülő",
+        "txtlength": 9719
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/blikk-tv/aktualis/covid-19-koronavirus-dr-rusvai-miklos-virustagadok-oltasellenesek/le146t1",
+        "h1": "Vírustagadók kérdéseivel szembesítettük dr. Rusvai Miklóst: állta a sarat! – videó",
+        "txtlength": 14559
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/krimi/rendorseg-regi-ugyek-tortenetek-trefa-karomkodas-buntetes-auto/ks7wwec",
+        "h1": "Milyen is az, amikor egy rendőr a társait jól megszívatja? Több évtizedes sztori került elő Budapestről",
+        "txtlength": 13820
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/foto/2021/12/19/peter-funch-babel-tales-nagykep-manipulalt-kep-valosag",
+        "h1": "Amikor a manipulált képek mutatják meg a valóságot",
+        "txtlength": 7403
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/foto/2021/05/30/martin-kollar-long-stroll",
+        "h1": "A régi világ utolsó turistája",
+        "txtlength": 6870
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/brandcontent/20211227_Okori_kincsektol_a_digitalis_ikrekig__mindenhol_ott_a_3Ds_technologia",
+        "h1": "Így kutatják a műkincseket napjainkban",
+        "txtlength": 3876
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/video/2021/02/11/hideg-extrem-tura-duna-furdes-edzes-wim-hof-tibeti-tummo",
+        "h1": "A legdurvább téli túra: fürdés az ötfokos Dunában",
+        "txtlength": 3425
+    },
+    {
+        "hostname": "nosalty.hu",
         "pagelink": "https://www.nosalty.hu/recept/klasszikus-madartej",
         "h1": "Klasszikus madártej",
         "txtlength": 11092
