@@ -1,6 +1,78 @@
 [
     {
         "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/legfinomabb-egyszeru-omlos-sajtos-rud",
+        "h1": "A legfinomabb - de egyszerű - omlós sajtos rúd",
+        "txtlength": 15637
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/otthon/20220121/tobb-ezer-magyar-csalad-marad-ki-a-penzosztasbol-ezert-nem-emelkedik-a-csaladi-potlek-iden-sem-1121274",
+        "h1": "Több ezer magyar család marad ki a pénzosztásból: ezért nem emelkedik a családi pótlék idén sem",
+        "txtlength": 18403
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/vasarlas/20220122/kemeny-arat-fizet-aki-ezt-az-etrendet-koveti-csomo-magyar-valasztja-a-hagyomanyos-helyett-1121238",
+        "h1": "Kemény árat fizet, aki ezt az étrendet követi: csomó magyar választja a hagyományos helyett",
+        "txtlength": 16168
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20211105_hajnal_miklos_belfold_nyelvvizsga_video",
+        "h1": "Már sajnálja Hajnal Miklós, hogy közgazdászként hivatkozott magára",
+        "txtlength": 15806
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/kapcsolat/violette-szabo-ugynok/",
+        "h1": "Férje halála után lett ügynök, 23 évesen végezték ki a nácik - Violette Szabo vakmerősége nem ismert határokat",
+        "txtlength": 11489
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20211231_gyorffy_akos_adam_rebeka_nora_hangoscikk_mindennapi_metafizika",
+        "h1": "Győrffy Ákos: Az vagyok én – Ádám Rebeka Nóra előadásában",
+        "txtlength": 10801
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/testem/kave-adalek-egeszseg/",
+        "h1": "kávé adalék egészség",
+        "txtlength": 9971
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/lajfhekk/lakas-nagyobb-ter-tippek/",
+        "h1": "Így tűnik nagyobbnak a kis lakás",
+        "txtlength": 8398
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/tudomany/2021/02/07/svajc-nepszavazas-nok-valasztojog-1971",
+        "h1": "Tehenek az istállóban, nők a konyhában",
+        "txtlength": 11465
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/jazminka-beteg-ments-eletet-alapitvany/52wczyw?sl_ps=d_5",
+        "h1": "„Még hallom a gépek sípolását, látom magam előtt, ahogy elveszti az eszméletét” – Egy mezőtúri nagymama drámai küzdelme az unokájáért, a súlyos beteg Jázminkáért",
+        "txtlength": 10525
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/krimi/z-nagy-gyilkossag-magda-marinko-gyanusitas-vademeles-felmentes/7cdcw4h",
+        "h1": "Álmukban végeztek az ismert szegedi család mind a négy tagjával",
+        "txtlength": 10458
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/eszkombajn/2021/12/19/fingodemon-japan-kappa",
+        "h1": "A japán fingódémon, aki emberek végbelébe mászott be, hogy megszerezze a lelküket",
+        "txtlength": 8653
+    },
+    {
+        "hostname": "nosalty.hu",
         "pagelink": "https://www.nosalty.hu/recept/tokeletes-krumplis-teszta-ahogy-mi-szeretjuk",
         "h1": "Tökéletes krumplis tészta - ahogy mi szeretjük",
         "txtlength": 11154
