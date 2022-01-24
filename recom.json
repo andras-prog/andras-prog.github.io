@@ -1,6 +1,66 @@
 [
     {
         "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/rakott-kelkaposzta",
+        "h1": "Rakott kelkáposzta",
+        "txtlength": 13089
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/utazas/20220123/ezek-lesznek-europa-legkedveltebb-uticeljai-2022-nyaran-mutatjuk-a-toplistat-1121293",
+        "h1": "Ezek lesznek Európa legkedveltebb úticéljai 2022 nyarán: mutatjuk a toplistát",
+        "txtlength": 22774
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/szorakozas/20220123/lehidaltak-a-capak-a-fura-feltalalotol-petya-levente-es-andras-is-rendesen-beleult-a-hintaba-1121205",
+        "h1": "Lehidaltak a Cápák a fura feltalálótól: Petya, Levente és András is rendesen beleült a hintába",
+        "txtlength": 18865
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/fogyokura/francia-no-fogyokura-ecet/",
+        "h1": "Így fogyókúráztak a 18. századi francia nők: komoly leckét tanítottak meg az utókornak",
+        "txtlength": 11732
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/testem/fuzo-alakformalo-haskoto-terhesseg-mozgas-mutet/",
+        "h1": "Ne szokj rá az alakformálókra!",
+        "txtlength": 9254
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/szuloseg/21-gyerek-nagycsalad/",
+        "h1": "21 gyerek nagycsalád",
+        "txtlength": 8995
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/sport/2021/12/09/leverkusen-tortenelem-europa-liga-futball-nemetorszag",
+        "h1": "Az örök második Neverkusen legendája",
+        "txtlength": 15507
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/petofi-zenei-dijak-gyoztesek-fotok/60pn715",
+        "h1": "Átadták a Petőfi Zenei Díjakat: íme, a győztesek listája – fotók",
+        "txtlength": 11557
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/jazminka-beteg-ments-eletet-alapitvany/52wczyw",
+        "h1": "„Még hallom a gépek sípolását, látom magam előtt, ahogy elveszti az eszméletét” – Egy mezőtúri nagymama drámai küzdelme az unokájáért, a súlyos beteg Jázminkáért",
+        "txtlength": 10310
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/video/2021/06/01/orban-viktor-magyar-sajto-teszt-fact-checking",
+        "h1": "Csókolom! Kormánykritikus lap van?",
+        "txtlength": 3441
+    },
+    {
+        "hostname": "nosalty.hu",
         "pagelink": "https://www.nosalty.hu/recept/legfinomabb-egyszeru-omlos-sajtos-rud",
         "h1": "A legfinomabb - de egyszerű - omlós sajtos rúd",
         "txtlength": 15637
