@@ -1,6 +1,78 @@
 [
     {
         "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/malacsult-ropogosan",
+        "h1": "Malacsült ropogósan",
+        "txtlength": 13444
+    },
+    {
+        "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/hagyomanyos-toltott-paprika",
+        "h1": "Hagyományos töltött paprika",
+        "txtlength": 12095
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/becsinalt-savanyu-leves.recept",
+        "h1": "SAVANYÚ BECSINÁLT LEVES",
+        "txtlength": 11377
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/tejfolos-virslis-teszta.recept",
+        "h1": "GYORS, EGYSZERŰ ÉS OLCSÓ: TEJFÖLÖS-VIRSLIS TÉSZTA",
+        "txtlength": 10907
+    },
+    {
+        "hostname": "hafr.hvgblog.hu",
+        "pagelink": "https://hafr.hvgblog.hu/2020/11/28/orban_udvaroncai_tehetsegtelenek_csak_magara_szamithat/",
+        "h1": "Orbán udvaroncai tehetségtelenek, csak magára számíthat",
+        "txtlength": 8600
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/hitel/20220124/indulhat-az-utolso-roham-a-kedvezmenyes-hitelert-kipukkad-az-ingatlanlufi-ha-kivezetik-a-babavarot-1121287",
+        "h1": "Indulhat az utolsó roham a kedvezményes hitelért: kipukkad az ingatlanlufi, ha kivezetik a babavárót?",
+        "txtlength": 16842
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/utazas/beszelgetes-gaal-zsuzsannaval/",
+        "h1": "„Az Őrségben a lelkem szabad” - Gaál Zsuzsannával, a szalafői Múltidéző Porta háziasszonyával beszélgettünk",
+        "txtlength": 16297
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/vasarlas/20220123/ennyibe-kerul-egy-heti-egeszseges-adag-zoldseg-gyumolcs-durvan-elszalltak-az-arak-a-boltokban-1121282",
+        "h1": "Ennyibe kerül egy heti egészséges adag zöldség, gyümölcs: durván elszálltak az árak a boltokban",
+        "txtlength": 15592
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/testem/fuller-bianka-eleg-jo-vagyok/",
+        "h1": "fuller bianka elég jó vagyok",
+        "txtlength": 9177
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/lajfhekk/konyhai-robotgep-teszt-2022/",
+        "h1": "Teszt: mit tudhat egy konyhai robotgép, amely 400 ezer forintba kerül?",
+        "txtlength": 8520
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/idojaras-elorejelzes-extrem-hideg-januar-25-kedd/ktrf8t5",
+        "h1": "Időjárás: brutális fagyokkal robog tovább a január, lassan enyhül majd a hideg",
+        "txtlength": 10008
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/oktatas-zaklatas-fegyelmi-eljaras-diakok/r1y2ff2",
+        "h1": "Botrány egy budapesti gimnáziumban: álprofillal buktatták le diákjai a zaklató tanárt – „Zavaró pillantások és kínos pillanatok”",
+        "txtlength": 9975
+    },
+    {
+        "hostname": "nosalty.hu",
         "pagelink": "https://www.nosalty.hu/recept/rakott-kelkaposzta",
         "h1": "Rakott kelkáposzta",
         "txtlength": 13089
