@@ -1,6 +1,204 @@
 [
     {
         "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/aranygaluska-ahogy-nagymamam-kesziti",
+        "h1": "Aranygaluska ahogy a nagymamám készíti",
+        "txtlength": 19273
+    },
+    {
+        "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/rizskoch-citromhejjal",
+        "h1": "Rizskoch citromhéjjal",
+        "txtlength": 16889
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/bolognai-rakott-zoldseg.recept",
+        "h1": "BOLOGNAI RAKOTT ZÖLDSÉG",
+        "txtlength": 10495
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/becsi-szelet-dietasan.recept",
+        "h1": "BÉCSI SZELET DIÉTÁSAN",
+        "txtlength": 10299
+    },
+    {
+        "hostname": "receptneked.hu",
+        "pagelink": "https://receptneked.hu/gyors/egyszeru-sajtkrokett/",
+        "h1": "Egyszerű sajtkrokett recept",
+        "txtlength": 4467
+    },
+    {
+        "hostname": "receptneked.hu",
+        "pagelink": "https://receptneked.hu/gyors/hamis-aranygaluska-muffin/",
+        "h1": "Hamis aranygaluska muffin recept",
+        "txtlength": 4180
+    },
+    {
+        "hostname": "hataratkelo.blog.hu",
+        "pagelink": "https://hataratkelo.blog.hu/2022/01/05/egy_visszautasithatatlan_ajanlat_111",
+        "h1": "Egy visszautasíthatatlan ajánlat",
+        "txtlength": 78696
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20220127/szja-visszaterites-2022-jon-a-penzeso-mutatjuk-mit-kell-tudni-es-mi-van-azzal-aki-lemaradt-522951",
+        "h1": "Szja-visszatérítés 2022: jön a pénzeső, mutatjuk mit kell tudni, és mi van azzal, aki lemaradt",
+        "txtlength": 24738
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20220126/jerome-powell-hadat-uzent-az-inflacionak-tepik-a-dollart-523261",
+        "h1": "Jerome Powell hadat üzent az inflációnak: tépik a dollárt ",
+        "txtlength": 24054
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/bank/20220127/blockchain-mesterseges-intelligencia-es-robotok-a-bankokban-mire-keszul-a-magyar-bankszektor-523355",
+        "h1": "Blockchain, mesterséges intelligencia és robotok a bankokban - Mire készül a magyar bankszektor?",
+        "txtlength": 22310
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220126_fovarosi_kozgyules_varoshaza_eladasa_vizsgalobizottsag_szavazas",
+        "h1": "Újabb vizsgálóbizottság alakult a fővárosban, a Fidesz revansról beszél",
+        "txtlength": 22287
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/kozelet/20220124/az-inflaciobannal-het-szazalek-korul-van-a-hatar-amely-felett-mar-csokkenhet-a-kormany-tamogatottsaga/",
+        "h1": "Hét százalék körüli inflációnál már csökkenhet a kormány támogatottsága",
+        "txtlength": 19808
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vilag/20220127/ukrajna-30-eve-egy-gazdasagi-tragedia-ezert-ennyire-serulekeny/",
+        "h1": "Ukrajna 30 éve egy gazdasági tragédia, ezért ennyire sérülékeny",
+        "txtlength": 19459
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220119_precedens_europai_unio_birosaga_lengyelorszag",
+        "h1": "Hol a fék a luxembourgi expresszen?",
+        "txtlength": 19414
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/biztositas/20220124/zsebbenyulos-nyaralas-varhat-a-magyar-csaladokra-2022-ben-millios-bukta-lehet-a-sporolas-vege-1121195",
+        "h1": "Zsebbenyúlós nyaralás várhat a magyar családokra 2022-ben: milliós bukta lehet a spórolás vége",
+        "txtlength": 17972
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220126_lehet_e_rossz_testbe_szuletni_vita_a_gyermekvedelmi_nepszavazasrol",
+        "h1": "Lehet-e rossz testbe születni? – vita a gyermekvédelmi népszavazásról",
+        "txtlength": 17737
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/egeszseg/20220124/hiaba-varjuk-a-megvaltast-az-omikrontol-elarultak-mikor-kaphatjuk-vissza-a-regi-eletunk-1121370",
+        "h1": "Hiába várjuk a megváltást az omikrontól? Elárulták, mikor kaphatjuk vissza a régi életünk",
+        "txtlength": 16669
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2022/01/24/ne-altasd-magad-ha-van-internet-hozzaferesed-te-is-kiberbunozok-celpontjava-valhatsz",
+        "h1": "NE ÁLTASD MAGAD: HA VAN INTERNET-HOZZÁFÉRÉSED, TE IS KIBERBŰNÖZŐK CÉLPONTJÁVÁ VÁLHATSZ",
+        "txtlength": 14617
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/kapcsolat/emberek-eltunese-japan-johatsu/",
+        "h1": "Akik egyik napról a másikra eltűnnek a saját életükből: Japánban egyre nagyobb méreteket ölt a johatsujelenség",
+        "txtlength": 11161
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/lajfhekk/liszt-sutopor-cukor-eltarthatosag/",
+        "h1": "Liszt sütőpor cukor eltarthatóság",
+        "txtlength": 8039
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/01/27/orosz-anna-erre-a-rendszerre-ramegy-az-eletunk-igy-nehez-azt-mondani-hogy-csinalja-mas",
+        "h1": "Orosz Anna: Erre a rendszerre rámegy az életünk, így nehéz azt mondani, hogy csinálja más",
+        "txtlength": 24400
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/belfold/2022/01/26/volner-ugy-volner-pal-osszefoglalo-vegrehajto-korrupcio-rogan-antal",
+        "h1": "Egyre többet tudunk a Völner-ügyről, de szaporodnak a kérdések is, például Rogán Antal szerepéről",
+        "txtlength": 18467
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/gazdasag/2022/01/27/paks-2-orban-viktor-vlagyimir-putyin-hunatom",
+        "h1": "Hunatom: nem sokat tudni róla, pedig méretes projektekre készül az orosz mintára elnevezett új paksi cég",
+        "txtlength": 16716
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/eszkombajn/2022/01/26/stockholm-koppenhaga-belgrad-jat-367-vesna-vulovic-tulelo",
+        "h1": "Felrobbant a repülője, tízezer métert zuhant, majd a kórházban azt kérdezte: Van egy cigarettája?",
+        "txtlength": 15260
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/01/26/szergej-lavrov-moszkva-lepeseket-tesz-ha-washington-nem-valaszol-a-javaslataira",
+        "h1": "Szergej Lavrov: Moszkva lépéseket tesz, ha Washington nem válaszol a javaslataira",
+        "txtlength": 14323
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/fn/gazdasag/2022/01/27/elektromos-akkumulatorok-gyartasara-28-ezer-milliard-forint-beruhazas/",
+        "h1": "Magyarország durván rástartolt az elektromos akkumulátorok gyártására",
+        "txtlength": 14133
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20220127_Nem_lesz_ellenzeki_nepszavazas_aprilis_3an",
+        "h1": "Elkezdték az ellenzék 470 ezer aláírásának ellenőrzését, de ebből biztos nem lesz népszavazás április 3-án",
+        "txtlength": 13254
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kultura/2022/01/26/eroltetett-menet-ascension-dokumentumfilm-kina/",
+        "h1": "Kína legyőzné Amerikát, de legalább annyira szeretne késsel-villával enni",
+        "txtlength": 12471
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20220126_25_jeloltjet_cserelte_le_a_Fidesz",
+        "h1": "Orbán 25 jelöltet cserélt le, és Budapesten szinte teljesen új csatársort küld a pályára",
+        "txtlength": 12023
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/kulfold/politikai-korrektseg-hofeherke-termekek/s1lt8k0",
+        "h1": "Élet a Hófehérke után: dolgok, amiket a politikai korrektség nevében töröltek el",
+        "txtlength": 10290
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2022/01/27/rogan-antal-nagy-adam-kabinetfonok-nagy-andras-schadl-gyorgy-lakas/",
+        "h1": "Hallgatnak Rogánék a kabinetfőnökről, akinek apja a miniszter körüli ingatlanok gazdája",
+        "txtlength": 9754
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/koronavirus-hirek-covid-magyarorszag-fertozottek-elhunytak-szama-adatok/jfr6ekl?sl_ps=d_1",
+        "h1": "Koronavírus itthon: lesújtóak a legfrissebb adatok, még mindig az egekben az új fertőzöttek száma",
+        "txtlength": 9228
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20220126_tucker_carlson_dokumentumfilm",
+        "h1": "Kijött Tucker Carlson Magyarország-riportfilmje, amely akár a Fidesz kampányfilmjének is elmenne",
+        "txtlength": 9168
+    },
+    {
+        "hostname": "nosalty.hu",
         "pagelink": "https://www.nosalty.hu/recept/tradicionalis-gulyasleves",
         "h1": "Tradicionális gulyásleves",
         "txtlength": 26589
