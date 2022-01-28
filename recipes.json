@@ -1,89 +1,6 @@
 [
     {
-        "timestamp": 1642762840651,
-        "name": "Temesvári sertéstokány",
-        "lead": "Bármily egyszerű is az étel, a született szakácsot tévedhetetlenül föl lehet ismerni.",
-        "phrase": "sertés",
-        "link": "https://www.nosalty.hu/recept/temesvari-sertestokany",
-        "ingred": [
-            "lapocka",
-            "zöldbab",
-            "szalonna",
-            "hagyma",
-            "fokhagyma",
-            "kaliforniai paprika",
-            "paradicsom",
-            "tejföl",
-            "liszt"
-        ]
-    },
-    {
-        "timestamp": 1642762840651,
-        "name": "Pizzatészta, paradicsomszósz",
-        "lead": "Tudod, miért fontos a finom étel? Összehozza az embereket, bárhonnan származnak is. Mindenkit barátságossá tesz és mosolyt csal az arcára.",
-        "phrase": "pizza",
-        "link": "https://www.nosalty.hu/recept/pizzateszta-paradicsomszosz",
-        "ingred": [
-            "liszt",
-            "élesztő",
-            "olívaolaj",
-            "paradicsomkonzerv",
-            "bazsalikom",
-            "fokhagyma",
-            "olívaolaj"
-        ]
-    },
-    {
-        "timestamp": 1642762840651,
-        "name": "Bakonyi sertésszelet Vicikó konyhájából",
-        "lead": "Nem az elfogyasztott étel mennyisége, hanem annak a minősége fontos.",
-        "phrase": "sertés",
-        "link": "https://www.nosalty.hu/recept/bakonyi-sertesszelet-viciko-konyhajabol",
-        "ingred": [
-            "comb",
-            "szalonna",
-            "hagyma",
-            "gomba",
-            "paradicsom",
-            "paprika",
-            "liszt",
-            "tejföl",
-            "liszt",
-            "tojás",
-            "petrezselyem",
-            "olaj"
-        ]
-    },
-    {
-        "timestamp": 1642762840651,
-        "name": "Tárkonyos legényfogó leves",
-        "lead": "A jó minőségű élelmiszer nem más, mint olcsó egészségbiztosítás.",
-        "phrase": "leves",
-        "link": "https://www.nosalty.hu/recept/tarkonyos-legenyfogo-leves",
-        "ingred": [
-            "borjúhús",
-            "csirkemell filé",
-            "sertéscsont",
-            "hagyma",
-            "fokhagyma",
-            "fehérrépa",
-            "sárgarépa",
-            "zeller",
-            "zellerlevél",
-            "tárkony",
-            "só",
-            "bors",
-            "citromlé",
-            "tejföl",
-            "liszt",
-            "napraforgó olaj",
-            "víz",
-            "tojás",
-            "búzadara"
-        ]
-    },
-    {
-        "timestamp": 1614942087535,
+        "timestamp": 1643382029980,
         "name": "Mustáros tarja hagymás krumplival",
         "lead": "Nekem ezt jelenti ez az étel: az otthont, a szépséget, a tápláló szeretetet és az élet örök körforgásának érzését.",
         "phrase": "krumpli",
@@ -99,7 +16,7 @@
         ]
     },
     {
-        "timestamp": 1614942087535,
+        "timestamp": 1643382029980,
         "name": "Pihe-puha pogácsa -Sajtos pogácsa 11.",
         "lead": "A terített asztal az egyetlen hely, ahol az ember az első órában soha se unatkozik.",
         "phrase": "pogácsa",
@@ -114,7 +31,7 @@
         ]
     },
     {
-        "timestamp": 1614942087535,
+        "timestamp": 1643382029980,
         "name": "Kovászos uborka egyszerűen",
         "lead": "Minden egyes étel és élmény, amit egyedül élünk meg, kevésbé értékes, mint ha azokkal osztjuk meg, akiket szeretünk.",
         "phrase": "uborka",
@@ -127,7 +44,7 @@
         ]
     },
     {
-        "timestamp": 1615546840133,
+        "timestamp": 1643382029980,
         "name": "Gyors csalamádé",
         "lead": "Az a legjobb és legfinomabb étel, amelyet éhségben is és egészségben is félelem nélkül fogyaszthatunk.",
         "phrase": "savanyú",
@@ -3197,6 +3114,89 @@
             "majonéz",
             "mustár",
             "szerecsendió"
+        ]
+    },
+    {
+        "timestamp": 1642762840651,
+        "name": "Temesvári sertéstokány",
+        "lead": "Bármily egyszerű is az étel, a született szakácsot tévedhetetlenül föl lehet ismerni.",
+        "phrase": "sertés",
+        "link": "https://www.nosalty.hu/recept/temesvari-sertestokany",
+        "ingred": [
+            "lapocka",
+            "zöldbab",
+            "szalonna",
+            "hagyma",
+            "fokhagyma",
+            "kaliforniai paprika",
+            "paradicsom",
+            "tejföl",
+            "liszt"
+        ]
+    },
+    {
+        "timestamp": 1642762840651,
+        "name": "Pizzatészta, paradicsomszósz",
+        "lead": "Tudod, miért fontos a finom étel? Összehozza az embereket, bárhonnan származnak is. Mindenkit barátságossá tesz és mosolyt csal az arcára.",
+        "phrase": "pizza",
+        "link": "https://www.nosalty.hu/recept/pizzateszta-paradicsomszosz",
+        "ingred": [
+            "liszt",
+            "élesztő",
+            "olívaolaj",
+            "paradicsomkonzerv",
+            "bazsalikom",
+            "fokhagyma",
+            "olívaolaj"
+        ]
+    },
+    {
+        "timestamp": 1642762840651,
+        "name": "Bakonyi sertésszelet Vicikó konyhájából",
+        "lead": "Nem az elfogyasztott étel mennyisége, hanem annak a minősége fontos.",
+        "phrase": "sertés",
+        "link": "https://www.nosalty.hu/recept/bakonyi-sertesszelet-viciko-konyhajabol",
+        "ingred": [
+            "comb",
+            "szalonna",
+            "hagyma",
+            "gomba",
+            "paradicsom",
+            "paprika",
+            "liszt",
+            "tejföl",
+            "liszt",
+            "tojás",
+            "petrezselyem",
+            "olaj"
+        ]
+    },
+    {
+        "timestamp": 1642762840651,
+        "name": "Tárkonyos legényfogó leves",
+        "lead": "A jó minőségű élelmiszer nem más, mint olcsó egészségbiztosítás.",
+        "phrase": "leves",
+        "link": "https://www.nosalty.hu/recept/tarkonyos-legenyfogo-leves",
+        "ingred": [
+            "borjúhús",
+            "csirkemell filé",
+            "sertéscsont",
+            "hagyma",
+            "fokhagyma",
+            "fehérrépa",
+            "sárgarépa",
+            "zeller",
+            "zellerlevél",
+            "tárkony",
+            "só",
+            "bors",
+            "citromlé",
+            "tejföl",
+            "liszt",
+            "napraforgó olaj",
+            "víz",
+            "tojás",
+            "búzadara"
         ]
     }
 ]
