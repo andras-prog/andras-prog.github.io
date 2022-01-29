@@ -1,6 +1,204 @@
 [
     {
         "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/vadas-martas-serteshussal",
+        "h1": "Vadas mártás sertéshússal",
+        "txtlength": 17740
+    },
+    {
+        "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/tarkonyos-csirkeraguleves-tarkonyos-raguleves-3",
+        "h1": "Tárkonyos csirkeraguleves (Tárkonyos raguleves 3.)",
+        "txtlength": 15807
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/toltott-szalagos-fank-csokis-vanilias-lekvaros.recept",
+        "h1": "TÖLTÖTT SZALAGOS FÁNK (CSOKIS, VANÍLIÁS, LEKVÁROS)",
+        "txtlength": 12668
+    },
+    {
+        "hostname": "receptneked.hu",
+        "pagelink": "https://receptneked.hu/gyors/gyors-rakott-bundas-kenyer/",
+        "h1": "Gyors rakott bundás kenyér recept",
+        "txtlength": 4031
+    },
+    {
+        "hostname": "receptneked.hu",
+        "pagelink": "https://receptneked.hu/gyors/tokeletes-rantott-sajt/",
+        "h1": "Tökéletes rántott sajt recept",
+        "txtlength": 4025
+    },
+    {
+        "hostname": "alapblog.hu",
+        "pagelink": "https://alapblog.hu/author/nemeskery-gergely/",
+        "h1": "Nemeskéry Gergely bejegyzései",
+        "txtlength": 6333
+    },
+    {
+        "hostname": "kulturpart.hu",
+        "pagelink": "https://kulturpart.blog.hu/2022/01/24/mitol_lesz_elmeny_az_olvasas",
+        "h1": "MITŐL LESZ ÉLMÉNY AZ OLVASÁS?",
+        "txtlength": 5258
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220127_betlen_anna_feminizmus_lmbtq_pszichologia_interju",
+        "h1": "Feminista közgazdász: A melegeket és leszbikusokat kiszolgáltatják a transzlobbinak",
+        "txtlength": 33872
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20220128/utazasi-kisokos-a-teleleshez-mar-ket-oltassal-se-megyunk-sok-mindenre-europaban-523353",
+        "h1": "Utazási kisokos a teleléshez: már két oltással se megyünk sok mindenre Európában",
+        "txtlength": 30842
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220119_kulfold_afrika_dzsihad_iszlamizmus",
+        "h1": "Fekete dzsihád – Terjed az iszlamizmus Afrika mélyén",
+        "txtlength": 20970
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/penz/20220101/a-penzforma-amely-a-bankkartyanak-es-a-bitcoinnak-egyarant-versenytarsa-lehet/",
+        "h1": "A pénzforma, amely a bankkártyának és a bitcoinnak egyaránt versenytársa lehet",
+        "txtlength": 20252
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vilag/20220128/az-orosz-tamadashoz-mar-a-sebesulteket-ellato-alakulatok-sem-hianyoznak/",
+        "h1": "Az orosz támadáshoz már a sebesülteket ellátó alakulatok sem hiányoznak",
+        "txtlength": 19183
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/otthon/20220126/tetomaffia-brigadok-jarjak-az-orszagot-millios-rafizetes-lehet-a-kontar-munka-vege-1121399",
+        "h1": "Tetőmaffia-brigádok járják az országot: milliós ráfizetés lehet a kontár munka vége",
+        "txtlength": 18146
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/global/20220128/europa-ket-tuz-koze-szorult-a-feje-folott-donthetnek-a-sorsarol-523617",
+        "h1": "Európa két tűz közé szorult - A feje fölött dönthetnek a sorsáról",
+        "txtlength": 17202
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/vasarlas/20220128/ez-az-igazi-arkatasztrofa-ezert-tud-egy-osztrak-3-szor-annyi-elelmiszert-venni-mint-egy-magyar-1121477",
+        "h1": "Ez az igazi árkatasztrófa: ezért tud egy osztrák 3-szor annyi élelmiszert venni, mint egy magyar",
+        "txtlength": 16938
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/global/20220129/putyin-5-szuperfegyvere-mellyel-igazan-durvan-odacsaphat-523757",
+        "h1": "Putyin 5 szuperfegyvere, mellyel igazán durván odacsaphat",
+        "txtlength": 16218
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220128_orakon_at_egyeztetett_bajnaival_egy_londoni_etteremben_marki_zay",
+        "h1": "Órákon át egyeztetett Bajnaival egy londoni étteremben Márki-Zay",
+        "txtlength": 15925
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2022/01/28/nagy-hatasu-fotokon-elevenedik-meg-a-magyarorszagi-mozgasserultek-20-szazadi-valosaga",
+        "h1": "NAGY HATÁSÚ FOTÓKON ELEVENEDIK MEG A MAGYARORSZÁGI MOZGÁSSÉRÜLTEK 20. SZÁZADI VALÓSÁGA",
+        "txtlength": 14879
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/szuloseg/gyerek-jogai-valas-kulcsar-edina-csuti-gwm/",
+        "h1": "Ehhez van joga a gyereknek, ha válnak a szülei: nem tesz jót, ha mindenki előtt teregetjük ki a szennyest",
+        "txtlength": 13873
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/egeszseg/szemfajdalom-oka/",
+        "h1": "4 gyakori ok a szemfájdalom hátterében: az sem mindegy, pontosan hol jelentkezik",
+        "txtlength": 12550
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/tudomany/2022/01/29/bethlen-istvan-horthy-korszak-trianon-tortenelem/",
+        "h1": "Szovjet börtönbe hurcolták Bethlen Istvánt",
+        "txtlength": 24391
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/01/29/ledobbennek-hogy-letezik-a-fideszetol-eltero-valosag-is",
+        "h1": "Ledöbbennek, hogy létezik a Fideszétől eltérő valóság is",
+        "txtlength": 21223
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/sport/2022/01/28/gyulay-zsolt-dr-hajdu-balazs-magyar-olimpiai-bizottsag-mob-mob-elnokvalasztas-mob-kozgyules/",
+        "h1": "Az új MOB-elnök szembemegy az elmúlt négy év gyakorlatával",
+        "txtlength": 18743
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kulfold/2022/01/28/west-memphis-three-uj-erofeszites-a-hirhedt-harmas-gyerekgyilkossag-ugyeben-az-artatlansag-bizonyitasara",
+        "h1": "Új roham indult az Amerikát máig kísértő hármas gyerekgyilkosság tisztázásáért",
+        "txtlength": 17923
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/kkv/20220128_oroszorszag_ukrajna_konfliktus_gazdasagi_kapcsolatok",
+        "h1": "Magyarországnak különösen fájhat, ha elmérgesedik a helyzet Moszkvával",
+        "txtlength": 17511
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20220129_Miert_csak_akkor_mondanak_le_a_politikusok_ha_mar_teljesen_megsemmisultek",
+        "h1": "Miért csak akkor mondanak le a politikusok, ha már teljesen megsemmisültek?",
+        "txtlength": 14809
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/valasztas-2022/2022/01/29/wittinghoff-tamas-budaors-polgarmester-interju-marki-zay-peter-onkormanyzati-szakerto",
+        "h1": "Wittinghoff Tamás olyan rendszert szeretne, ahol nem lophatja el az állam az önkormányzatok bevételeit",
+        "txtlength": 14728
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kultura/2022/01/29/femokracia-nemet-dokumentumfilm-noi-politikusok-nszk/",
+        "h1": "Megfékezhetetlen nők taposták ki az utat Angela Merkel előtt",
+        "txtlength": 14639
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/01/28/adott-is-beremelest-a-kormany-meg-nem-is",
+        "h1": "Adott is béremelést a kormány, meg nem is",
+        "txtlength": 14618
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/gazdasag/20220128_demografia_nepesedes_szuletes_halal",
+        "h1": "Békeidőben soha nem halt meg egy év alatt annyi magyar, mint 2021-ben",
+        "txtlength": 11974
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/szorakozas/2022/01/28/hotel-margaret-rtl-klub-sorozat-kritika-balaton",
+        "h1": "Először egy influenszert nyírnak ki az RTL Klub új sorozatában, aztán a nézőt is",
+        "txtlength": 10371
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/politika/orban-viktor-kossuth-radio-interju-bejelentesek-intezkedesek/tdvts74",
+        "h1": "Orbán Viktor legújabb bejelentései a Kossuth rádióban",
+        "txtlength": 10119
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/zalaegerszeg-hajlektalan-rendori-tulkapas/633l5e7?sl_ps=d_4",
+        "h1": "Szörnyű: vödröt húztak a fejére és megaláztak a rendőrök egy hajléktalant",
+        "txtlength": 7731
+    },
+    {
+        "hostname": "nosalty.hu",
         "pagelink": "https://www.nosalty.hu/recept/hagyomanyos-edes-fank",
         "h1": "Hagyományos édes fánk",
         "txtlength": 19173
