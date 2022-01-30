@@ -1,6 +1,198 @@
 [
     {
         "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/falusi-almas-pite",
+        "h1": "Falusi almás pite",
+        "txtlength": 17257
+    },
+    {
+        "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/konnyu-puha-turogomboc",
+        "h1": "Könnyű és puha túrógombóc",
+        "txtlength": 16216
+    },
+    {
+        "hostname": "receptneked.hu",
+        "pagelink": "https://receptneked.hu/gyors/toltott-kenyer/",
+        "h1": "Töltött kenyér recept",
+        "txtlength": 3978
+    },
+    {
+        "hostname": "receptneked.hu",
+        "pagelink": "https://receptneked.hu/gyors/tojasos-szendvics-sutoben/",
+        "h1": "Tojásos szendvics sütőben recept",
+        "txtlength": 3965
+    },
+    {
+        "hostname": "hataratkelo.blog.hu",
+        "pagelink": "https://hataratkelo.blog.hu/2022/01/19/barbadosi_eskuvo_jarvany_idejen",
+        "h1": "Barbadosi esküvő járvány idején",
+        "txtlength": 72081
+    },
+    {
+        "hostname": "kulturpart.hu",
+        "pagelink": "https://kulturpart.hu/2022/01/24/mitol_lesz_elmeny_az_olvasas",
+        "h1": "MITŐL LESZ ÉLMÉNY AZ OLVASÁS?",
+        "txtlength": 5268
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220127_energiavalsag_kitta_gergely_kommentar_klub_klimapolitikai_intezet_klimavedelem_rezsicsokkentes",
+        "h1": "„Az ellenzék energiapolitikája nem egységes, ráadásul még álságos is” – Kitta Gergely a Mandinernek",
+        "txtlength": 24426
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/elet/20220129/szukseg-van-meg-sajat-kocsira-vagy-jarhatunk-helyette-kozautoval/",
+        "h1": "Szükség van még saját kocsira, vagy járhatunk helyette közautóval?",
+        "txtlength": 23610
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220117_viszkis_rablo_ambrus_attila_interju_keramia_bankrablas_borton",
+        "h1": "A viszkis rabló csak egy dologtól tart igazán – Ambrus Attila a Mandinernek",
+        "txtlength": 22536
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220125_kozelet_iskola_reformatus_egyhaz",
+        "h1": "Az iskola az egyház veteményeskertje",
+        "txtlength": 21409
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/oktatas/20220129/pedagogussztrajk-most-akkor-lesz-tanitas-jauar-31-en-hetfon-vagy-nem-percrol-percre-1121530",
+        "h1": "Pedagógussztrájk: most akkor lesz tanítás jauár 31-én hétfőn, vagy nem? - Percről-percre!",
+        "txtlength": 19605
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/krtk/20220130/kutatas-bizonyitja-ha-igy-vegzodik-a-vezetekneved-nagyobb-esellyel-tartozol-az-elithez-magyarorszagon-523525",
+        "h1": "Kutatás bizonyítja: ha így végződik a vezetékneved, nagyobb eséllyel tartozol az elithez Magyarországon",
+        "txtlength": 19449
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vilag/20220127/mindenki-erot-akar-mutatni-nehez-lesz-feloldani-az-orosz-ukran-patthelyzetet/",
+        "h1": "Mindenki erőt akar mutatni, nehéz lesz feloldani az orosz-ukrán patthelyzetet",
+        "txtlength": 19042
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/egeszseg/20220127/atyaeg-ennyit-keres-havonta-egy-szemelyi-edzo-budapesten-es-videken-1121465",
+        "h1": "Atyaég! Ennyit keres havonta egy személyi edző Budapesten és vidéken",
+        "txtlength": 18788
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2022/01/30/mesterloveszek-budapest-ostromaban",
+        "h1": "MESTERLÖVÉSZEK BUDAPEST OSTROMÁBAN",
+        "txtlength": 16659
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/global/20220130/csernobil-vedelmere-keszulnek-mi-lesz-ha-oroszorszag-a-tiltott-zonan-keresztul-indit-tamadast-523227",
+        "h1": "Csernobil védelmére készülnek – Mi lesz, ha Oroszország a tiltott zónán keresztül indít támadást?",
+        "txtlength": 16424
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/ingatlan/20220129/egeszen-extrem-ami-az-elmult-evtizedben-a-magyar-lakasarakkal-tortent-merre-tovabb-a-kovetkezo-evekben-522729",
+        "h1": "Egészen extrém, ami az elmúlt évtizedben a magyar lakásárakkal történt - Merre tovább a következő években?",
+        "txtlength": 14457
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/szuloseg/parkapcsolat-gyerekneveles-hintalovon/",
+        "h1": "Boldog gyereket szeretnél nevelni? Kezdd azzal, hogy kiegyensúlyozott párkapcsolatban élsz!",
+        "txtlength": 13437
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/utazas/relaxacio-vezetes-kozben/",
+        "h1": "Relaxációs technikák, amik vezetés közben is bevethetők: azonnal segítenek megnyugodni",
+        "txtlength": 11763
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kultura/2022/01/29/szexualis-zaklatas-hollywood-armie-hammer-kevin-spacey-ansel-elgort-johnny-depp-shia-labeouf/",
+        "h1": "Van az a pénz, amiért moziba küldik még a nemi erőszakkal vádolt filmsztárt is",
+        "txtlength": 24954
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kultura/2022/01/30/zold-kornyezetvedelem-bolygomento-matine-konyvajanlo/",
+        "h1": "Tényleg összekeverik a szelektívbe dobott papírt és műanyagot?",
+        "txtlength": 19719
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/szorakozas/2022/01/29/thierry-mugler-divattervezo-meghalt-karrier-diszlettervezo-lady-gaga-beyonce/",
+        "h1": "Extrém életet élt, összeveszett George Michaellel, legtöbben mégis a parfümje miatt ismerik",
+        "txtlength": 18374
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/01/30/munka-antiwork-marxizmus-covid-munkaellenes-mozgalom",
+        "h1": "Sose dolgozz!",
+        "txtlength": 16990
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20220129_Itt_az_idei_valasztas_ujitasa_egy_kattintassal_ellenorizheto_a_visszaeles",
+        "h1": "Itt az idei választás újítása: egy kattintással ellenőrizhető a visszaélés",
+        "txtlength": 16939
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://qubit.hu/2022/01/30/mesterloveszek-budapest-ostromaban",
+        "h1": "MESTERLÖVÉSZEK BUDAPEST OSTROMÁBAN",
+        "txtlength": 16659
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kulfold/2022/01/29/indonezia-uj-fovaros-borneon",
+        "h1": "Az eddigi fővárosuk szép lassan elsüllyed, ezért építenek egy újat az esőerdő helyén",
+        "txtlength": 16243
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/cegauto/20220130_320_loeros_vw_arteon_r_sportkombi_teszt_velemeny_menetproba",
+        "h1": "Kék kaméleon: meghajtottuk a 320 lovas VW Arteon R sportkombit",
+        "txtlength": 13422
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/belfold/2022/01/29/tarthatatlan-a-parkolasi-helyzet-a-lakotelepeken-es-lassan-mashol-is",
+        "h1": "Tarthatatlan a parkolási helyzet a lakótelepeken. És lassan máshol is",
+        "txtlength": 13135
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/gazdasag/20220130_Es_akkor_elelmiszer_korrupcio_demografia_jogallamisag",
+        "h1": "És akkor kiplakátolják, hogy érkezik az olcsó spanyol sertéshús",
+        "txtlength": 12635
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/belfold/2022/01/30/novak-katalin-europai-unio-magyarorszag-allamfo-part",
+        "h1": "Fact-check: Valóban általános itthon és külföldön, hogy az államfő-jelöltek pártokhoz kötődnek",
+        "txtlength": 12251
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/nemeth-zoltan-vadaszpilota-veszely-mig/yz2cv65?sl_ps=d_6",
+        "h1": "Magyar vadászpilóta akadályozta meg a háborút: Németh Zoltánnak, a Mig-21-es lovagjának története",
+        "txtlength": 9457
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/vizimalom-tamas-peter-molnar-restaurato/21hw9zb?sl_ps=d_9",
+        "h1": "Egy modern kori magyar molnár – Tamás Péter malomrestaurátor több száz éves malmokat újít fel, egyedüliként hazánkban",
+        "txtlength": 9126
+    },
+    {
+        "hostname": "nosalty.hu",
         "pagelink": "https://www.nosalty.hu/recept/vadas-martas-serteshussal",
         "h1": "Vadas mártás sertéshússal",
         "txtlength": 17740
