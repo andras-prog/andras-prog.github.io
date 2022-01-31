@@ -1,6 +1,204 @@
 [
     {
         "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/paprikas-krumpli-kolbasszal",
+        "h1": "Paprikás krumpli kolbásszal",
+        "txtlength": 18070
+    },
+    {
+        "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/nagymamam-fankja",
+        "h1": "Nagymamám fánkja",
+        "txtlength": 17865
+    },
+    {
+        "hostname": "receptneked.hu",
+        "pagelink": "https://receptneked.hu/gyors/bogres-rizsfelfujt-2/",
+        "h1": "Bögrés rizsfelfújt recept",
+        "txtlength": 3930
+    },
+    {
+        "hostname": "receptneked.hu",
+        "pagelink": "https://receptneked.hu/gyors/sajtos-cukkinigolyok-2/",
+        "h1": "Sajtos cukkinigolyók recept",
+        "txtlength": 3930
+    },
+    {
+        "hostname": "hataratkelo.blog.hu",
+        "pagelink": "https://hataratkelo.blog.hu/2022/01/25/koltozes_kulfoldon_varatlan_nehezsegekkel#c41182674",
+        "h1": "Költözés külföldön váratlan nehézségekkel",
+        "txtlength": 47004
+    },
+    {
+        "hostname": "kulturpart.hu",
+        "pagelink": "https://kulturpart.blog.hu/2022/01/31/aki_csodat_lat_csondben_teszi",
+        "h1": "AKI CSODÁT LÁT, CSÖNDBEN TESZI",
+        "txtlength": 9688
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/global/20220130/a-hideghaboru-ota-nem-latott-feszultsegben-talalkozik-orban-viktor-es-vlagyimir-putyin-moszkvaban-523893",
+        "h1": "A hidegháború óta nem látott feszültségben találkozik Orbán Viktor és Vlagyimir Putyin Moszkvában",
+        "txtlength": 22168
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220126_elet_szamuraj_interju_szuzuki_kimijosi",
+        "h1": "Egy legendás szamuráj a Mecsekben – beszélgetés Szuzuki Kimijosival",
+        "txtlength": 21823
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220128_belfold_momentum_csillag_tamas_kerdezz_felelek_marki_zay_peter_inflacio_iphone_fekete_gyor_andras_ellenzek_baloldal",
+        "h1": "iPhone miatt kesergő momentumos: Nehezen bírjuk Márki-Zay Péter elszólásait",
+        "txtlength": 21778
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/global/20220130/eldolt-nem-igaz-hogy-az-omikron-hullam-enyhe-lesz-523759",
+        "h1": "Eldőlt: nem igaz, hogy az omikron-hullám enyhe lesz",
+        "txtlength": 21564
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2022/01/31/megrendeled-almaid-rozsaszin-mikrohullamu-sutojet-megsem-tetszik-visszakuldod-szo-nelkul-megy-a-szemetbe",
+        "h1": "MEGRENDELED ÁLMAID RÓZSASZÍN MIKROHULLÁMÚ SÜTŐJÉT, MÉGSEM TETSZIK, VISSZAKÜLDÖD, SZÓ NÉLKÜL MEGY A SZEMÉTBE",
+        "txtlength": 21348
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://makronom.mandiner.hu/cikk/20220126_a_nemetekre_raszallt_a_vilagsajto_scholz_onkritikat_gyakorolt_es_kuldott_otezer_sisakot",
+        "h1": "A németekre rászállt a világsajtó, Scholz önkritikát gyakorolt és küldött ötezer sisakot",
+        "txtlength": 20525
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/karrier/20220130/13-millios-netto-de-az-arnyoldalakrol-hallgatnak-igy-kesziti-ki-aldozatait-a-kulfoldi-alommunka-1121528",
+        "h1": "1,3 milliós nettó, de az árnyoldalakról hallgatnak: így készíti ki áldozatait a külföldi álommunka",
+        "txtlength": 18791
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/szorakozas/20220130/nem-jott-be-a-vallalkozok-otlete-keresetlen-szavakkal-tavoztak-a-capak-kozott-studiojabol-1121471",
+        "h1": "Nem jött be a vállalkozók ötlete: keresetlen szavakkal távoztak a Cápák között stúdiójából",
+        "txtlength": 17898
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/adat/20220131/nehany-abra-arrol-hogy-miert-sztrajkolnak-a-tanarok/",
+        "h1": "Néhány ábra arról, hogy miért sztrájkolnak a tanárok",
+        "txtlength": 17326
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/kozelet/20220130/parjat-ritkitja-a-magyar-politikai-propaganda-intenzitasa/",
+        "h1": "Párját ritkítja a magyar politikai propaganda intenzitása",
+        "txtlength": 16559
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/uzlet/20220131/erosen-indul-a-het-a-tozsdeken-523981",
+        "h1": "Erősen indul a hét a tőzsdéken ",
+        "txtlength": 15005
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/szuloseg/lackfi-janos-irodalom-facebook-kozosseg-hit/",
+        "h1": "Lackfi János: Kibújt belőlem az irodalom alienje",
+        "txtlength": 12158
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/egeszseg/prebiotikus-probiotikus-rostok/",
+        "h1": "Hozzájárulnak a bélflóra egyensúlyához és a vastagbélrák megelőzéséhez: ezekből a prebiotikus rostokból egyél sokat",
+        "txtlength": 11277
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/testem/sargarepa-sargasag/",
+        "h1": "Igaz, hogy elsárgulhat a bőröm, ha túl sok sárgarépát eszem?",
+        "txtlength": 8968
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://qubit.hu/2022/01/31/megrendeled-almaid-rozsaszin-mikrohullamu-sutojet-megsem-tetszik-visszakuldod-szo-nelkul-megy-a-szemetbe",
+        "h1": "MEGRENDELED ÁLMAID RÓZSASZÍN MIKROHULLÁMÚ SÜTŐJÉT, MÉGSEM TETSZIK, VISSZAKÜLDÖD, SZÓ NÉLKÜL MEGY A SZEMÉTBE",
+        "txtlength": 21348
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/gazdasag/2022/01/30/2022-a-vilaggazdasagban-evtizedes-rekordok-kikezdhetetlennek-hitt-trendek-dolhetnek-meg",
+        "h1": "2022 a világgazdaságban: évtizedes rekordok, kikezdhetetlennek hitt trendek dőlhetnek meg",
+        "txtlength": 18998
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/elet-stilus/2022/01/30/gergely-robert-bkv-buszsofor-interju-nyugdij/",
+        "h1": "„Szóltam, hogy vegye fel a maszkot, mire közölte: most szabadult a Gyorskocsi utcából”",
+        "txtlength": 17254
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/valasztas-2022/2022/01/30/fidesz-kdnp-egyeni-orszaggyulesi-kepviselojeloltjei-csatater-korzetek",
+        "h1": "Öt választókerület, amelyre érdemes lesz odafigyelni",
+        "txtlength": 17244
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/belfold/2022/01/31/pedagogusok-sztrajk-psz-pdsz-emmi-forgalomlassitas",
+        "h1": "Sztrájkolnak a pedagógusok, több vidéki nagyvárosban beleálltak a tiltakozásba az iskolák",
+        "txtlength": 16666
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20220131_pedagogusok_tanarok_oktatas_sztrajk_emmi",
+        "h1": "Tanársztrájk: Van olyan iskola, ahol a 600 diákból csak ketten jelentek meg",
+        "txtlength": 15139
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/tldr/2022/01/31/a-gazda-a-zsarolo-miniszter-es-a-szexualis-bunozo-a-schadlvolner-dosszie-legnehezebb-kerdesei",
+        "h1": "A gazda, a zsaroló miniszter és a szexuális bűnöző – a Schadl–Völner-dosszié legnehezebb kérdései",
+        "txtlength": 14806
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/kultura/20220130_Januar_havi_osszefoglalo_kultura_eletmod",
+        "h1": "Mi lesz velünk, ha az iskolák ontják a műveletlen tömegeket?",
+        "txtlength": 14509
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/vilag/20220130_Voltunk_mar_Berlinben_leszunk_meg_Kijevben",
+        "h1": "„Voltunk már Berlinben, leszünk még Kijevben”",
+        "txtlength": 13610
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kultura/2022/01/30/botrany-brit-modra-sorozat-margaret-campbell-argyll-marki-bbc-amazon-hbo-go/",
+        "h1": "A fej nélküli férfi eseténél nehéz rosszabb színben bemutatni a brit uralkodó osztályt",
+        "txtlength": 13372
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kulfold/2022/01/30/tanctilalom-idejen-a-berlini-technosok-edzoterembe-jarnak-veretni/",
+        "h1": "Tánctilalom idején a berlini technósok edzőterembe járnak veretni",
+        "txtlength": 10457
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/politika/torott-borda-allamvizsga-volt-politikus-73-eves-kiraly-zoltan/sw58699?sl_ps=d_6",
+        "h1": "Törött bordákkal államvizsgázott a 73 éves egykori politikus, fenegyerek, Király Zoltán",
+        "txtlength": 8016
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/benedek-gyorgy-festo-szobrasz-muvesz-meghalt-gyasz/n8vyn2l",
+        "h1": "Meghalt Benedek György",
+        "txtlength": 7963
+    },
+    {
+        "hostname": "nosalty.hu",
         "pagelink": "https://www.nosalty.hu/recept/falusi-almas-pite",
         "h1": "Falusi almás pite",
         "txtlength": 17257
