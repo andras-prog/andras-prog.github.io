@@ -1,6 +1,198 @@
 [
     {
         "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/igazi-strandos-langos",
+        "h1": "Igazi strandos lángos",
+        "txtlength": 17175
+    },
+    {
+        "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/zoldborsofozelek-viciko-konyhajabol",
+        "h1": "Zöldborsófőzelék - Vicikó konyhájából",
+        "txtlength": 15156
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/malyvacukor.recept",
+        "h1": "MÁLYVACUKOR",
+        "txtlength": 10719
+    },
+    {
+        "hostname": "receptneked.hu",
+        "pagelink": "https://receptneked.hu/gyors/hortobagyi-husgombocok/",
+        "h1": "Hortobágyi húsgombócok recept",
+        "txtlength": 3908
+    },
+    {
+        "hostname": "receptneked.hu",
+        "pagelink": "https://receptneked.hu/gyors/csaszarne-pogacsaja/",
+        "h1": "Császárné pogácsája recept",
+        "txtlength": 3832
+    },
+    {
+        "hostname": "hataratkelo.blog.hu",
+        "pagelink": "https://hataratkelo.blog.hu/2022/01/25/koltozes_kulfoldon_varatlan_nehezsegekkel",
+        "h1": "Költözés külföldön váratlan nehézségekkel",
+        "txtlength": 47041
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/global/20220201/benko-tibor-hosszu-tavon-senkinek-sem-kedvez-ez-a-hideghaborut-idezo-feszultseg-523159",
+        "h1": "Benkő Tibor: hosszú távon senkinek sem kedvez ez a hidegháborút idéző feszültség",
+        "txtlength": 28247
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2022/02/01/magyarorszagon-a-leszakado-falvakat-es-tersegeket-sujtja-leginkabb-a-terbeli-igazsagtalansag",
+        "h1": "MAGYARORSZÁGON A LESZAKADÓ FALVAKAT ÉS TÉRSÉGEKET SÚJTJA LEGINKÁBB A TÉRBELI IGAZSÁGTALANSÁG",
+        "txtlength": 23525
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/karrier/20220131/nagyot-fordult-a-vilag-ezert-utasitanak-el-10-bol-9-jelentkezot-az-allasinterjukon-2022-ben-1121562",
+        "h1": "Nagyot fordult a világ: ezért utasítanak el 10-ből 9 jelentkezőt az állásinterjúkon 2022-ben",
+        "txtlength": 21542
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/penz/20220131/a-lakossag-agyatlan-reszvenyezese-is-a-jarvany-mellekhatasa-lett/",
+        "h1": "A lakosság agyatlan részvényezése is a járvány mellékhatása lett",
+        "txtlength": 19887
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/penz/20220201/a-farhat-arbefagyasztasa-valojaban-2022-rezsicsokkentese/",
+        "h1": "A farhát árbefagyasztása valójában 2022 rezsicsökkentése",
+        "txtlength": 18658
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220125_kulfold_boris_johnson_buli_koronavirus",
+        "h1": "Bulis Boris buktatói",
+        "txtlength": 17980
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220131_pedagogusok_demokratikus_szakszervezete_pedagogusok_szakszervezete_emmi_belfold",
+        "h1": "A pedagógusok döntő többsége távol maradt a sztrájktól",
+        "txtlength": 17009
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/egeszseg/20220128/tobb-tizezer-magyar-csalad-ellatasa-valhat-bizonytalanna-tombol-a-szakemberhiany-az-egeszsegugyben-1121511",
+        "h1": "Több tízezer magyar család ellátása válhat bizonytalanná: tombol a szakemberhiány az egészségügyben",
+        "txtlength": 16533
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220131_lazar_janos_vita_belfold_marki_zay_peter",
+        "h1": "Lázár János: Velem nem fog vitatkozni a baloldal jelöltje",
+        "txtlength": 16487
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.penzcentrum.hu/vasarlas/20220201/arstop-ujabb-elelmiszeraruhaz-vezeti-be-a-mennyisegi-korlatozast-megszolalt-a-lidl-is-1121594",
+        "h1": "Árstop: újabb élelmiszeráruház vezeti be a mennyiségi korlátozást; megszólalt a Lidl is",
+        "txtlength": 15883
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20220201/az-adobevallasok-alatamasztjak-a-dinamikus-magyarorszagi-bernovekedest-523969",
+        "h1": "Az adóbevallások alátámasztják a dinamikus magyarországi bérnövekedést",
+        "txtlength": 14780
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/otthon/onkentes-nyugdijpenztar/",
+        "h1": "Akár évi 150 ezret is hozhat, és idős korban sem kell aggódni: miért jó az önkéntes nyugdíjpénztár a szakértő szerint?",
+        "txtlength": 11767
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/lajfhekk/matrac-karbantartas/",
+        "h1": "Matrac karbantartás",
+        "txtlength": 8540
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2022/01/31/palyakezdo-pedagogus-tanar-fizetes-ber/",
+        "h1": "„Már rákerestem, jár-e pénz egy petesejtdonornak” – nem akarnak szorongani és nélkülözni a pályakezdő pedagógusok",
+        "txtlength": 26008
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20220201_Vagyonnyilatkozatok_2022",
+        "h1": "Vagyonnyilatkozatok 2022: A világ legpuritánabb politikusainak országa vagyunk - ha elhisszük nekik",
+        "txtlength": 25879
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://qubit.hu/2022/02/01/magyarorszagon-a-leszakado-falvakat-es-tersegeket-sujtja-leginkabb-a-terbeli-igazsagtalansag",
+        "h1": "MAGYARORSZÁGON A LESZAKADÓ FALVAKAT ÉS TÉRSÉGEKET SÚJTJA LEGINKÁBB A TÉRBELI IGAZSÁGTALANSÁG",
+        "txtlength": 23525
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/belfold/2022/01/31/kormanytagok-vagyonnyilatkozatai-2022",
+        "h1": "408 milliót kapott találmánya után Rogán Antal, 205 millióval mégis csökkent a vagyona tavaly",
+        "txtlength": 23082
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/02/01/orban-tobb-gazt-ker-putyintol",
+        "h1": "Orbán több gázt kér Putyintól",
+        "txtlength": 21375
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kulfold/2022/01/31/ukrajna-kijev-orosz-hadsereg-fenyegetes-arnyekaban-nyugati-tamogatas-nato",
+        "h1": "Helyszíni riport Kijevből: „Elegünk van, hogy a Kreml kistestvérként kezel bennünket. Most minket, aztán majd megint a magyarokat”",
+        "txtlength": 19414
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kozelet/2022/02/01/orban-letudta-a-tartozasat-rogannak-jol-fizet-a-talalmanya/",
+        "h1": "Orbán letudta a tartozását, Rogánnak jól fizet a találmánya, Gyurcsány gazdagabb lett",
+        "txtlength": 18874
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/belfold/2022/02/01/politikusi-vagyonnyilaktozatok-fidesz-es-ellenzek",
+        "h1": "Kósa 50 milliós adóstárs lett, Gyurcsány hitelezett és görgős karfás munkaszéket kapott",
+        "txtlength": 15602
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kozelet/2022/01/31/best-of-vagyonnyilatkozatok-rogan-kosa-torgyan-medgyessy-lazar-video/",
+        "h1": "A vagyonnyilatkozatoknak ebben a formában annyi értelme van, mintha mindenki önkéntesen vallhatná be, csinált-e bármi rosszat",
+        "txtlength": 10802
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/eurologus/20220201_Putyin_orban_latogatas_michal_baranowski",
+        "h1": "Putyin Magyarországot is fenyegeti egy amerikai think-thank varsói igazgatója szerint",
+        "txtlength": 9189
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/tudomany/20220201_d_vitamin_autoimmun_betegseg",
+        "h1": "Rájöttek a D-vitamin egy nagyszerű hatására",
+        "txtlength": 8984
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/koronavirus-hirek-magyarorszag-fertozottek-halalos-aldozatok/59e15m7?sl_ps=d_2",
+        "h1": "Koronavírus: 9 ezer felett az új fertőzöttek száma, meghalt 66 beteg",
+        "txtlength": 8457
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/politika/vagyonyilatkozatok-2021-novak-katalin-rogan-antal-lazar-janos-volner-pal-kover-laszlo/jghrgnd?sl_ps=d_1",
+        "h1": "Vagyonnyilatkozatok: Novák Katalinnak kisebb ingatlanbirodalma van, Lázár János pedig rengeteg hitelt fel",
+        "txtlength": 8346
+    },
+    {
+        "hostname": "nosalty.hu",
         "pagelink": "https://www.nosalty.hu/recept/paprikas-krumpli-kolbasszal",
         "h1": "Paprikás krumpli kolbásszal",
         "txtlength": 18070
