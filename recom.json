@@ -1,6 +1,210 @@
 [
     {
         "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/edes-palacsinta-alapteszta",
+        "h1": "Édes palacsinta alaptészta",
+        "txtlength": 15768
+    },
+    {
+        "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/bakonyi-sertesszelet-viciko-konyhajabol",
+        "h1": "Bakonyi sertésszelet Vicikó konyhájából",
+        "txtlength": 14262
+    },
+    {
+        "hostname": "receptneked.hu",
+        "pagelink": "https://receptneked.hu/gyors/serpenyos-pizza/",
+        "h1": "Serpenyős pizza recept",
+        "txtlength": 3817
+    },
+    {
+        "hostname": "receptneked.hu",
+        "pagelink": "https://receptneked.hu/gyors/bundas-kenyer-maskeppen/",
+        "h1": "Bundás kenyér másképpen recept",
+        "txtlength": 3798
+    },
+    {
+        "hostname": "kiszamolo.hu",
+        "pagelink": "https://kiszamolo.hu/tudni-kell-tovabblepni-is/",
+        "h1": "Tudni kell továbblépni is",
+        "txtlength": 37749
+    },
+    {
+        "hostname": "alapblog.hu",
+        "pagelink": "https://alapblog.hu/oroszorszag-nem-hoditani-gyozni-akar-ukrajnaban/",
+        "h1": "Oroszország nem hódítani, győzni akar Ukrajnában",
+        "txtlength": 13574
+    },
+    {
+        "hostname": "efesasanisimasa.com",
+        "pagelink": "https://efesasanisimasa.com/2022/01/19/az-elveszett-lany-the-lost-daughter-2021/",
+        "h1": "Az elveszett lány (The Lost Daughter, 2021)",
+        "txtlength": 10688
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vilag/20220201/putyin-okosabb-a-haborunal/",
+        "h1": "Putyin okosabb a háborúnál?",
+        "txtlength": 31667
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/kozelet/20220202/az-energetika-a-frontvonala-a-zold-atallasnak/",
+        "h1": "Az energetika a frontvonala a zöld átállásnak",
+        "txtlength": 26115
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220125_kozelet_novak_katalin_interju",
+        "h1": "Tettekre készülök, nem gesztusokra – Novák Katalin a Mandinernek",
+        "txtlength": 25877
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220122_igy_tevednek_a_gyermekvedelmi_torvenyt_elitelo_szakmai_tarsasagok",
+        "h1": "Így tévednek a gyermekvédelmi törvényt elítélő szakmai társaságok",
+        "txtlength": 25291
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220131_messias_komplexussal_a_barsonyszekbe",
+        "h1": "Messiás-komplexussal a bársonyszékbe?",
+        "txtlength": 22905
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20220201/bod-peter-akos-magyarorszagon-beindul-az-ar-ber-spiral-524061",
+        "h1": "Bod Péter Ákos: Magyarországon beindul az ár-bér spirál",
+        "txtlength": 20915
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/vasarlas/20220201/itt-all-feketen-feheren-ennyi-penzt-hagyhat-a-magyarok-zsebeeben-az-arstop-1121592",
+        "h1": "Itt áll feketén-fehéren: ennyi pénzt hagyhat a magyarok zsebében az árstop",
+        "txtlength": 20022
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/karrier/20220129/dul-a-gyorsettermi-berhaboru-ennyiert-galyaznak-a-dolgozok-a-mekiben-kfc-ben-burger-kingben-1121514",
+        "h1": "Dúl a gyorséttermi bérháború: ennyiért gályáznak a dolgozók a Mekiben, KFC-ben, Burger Kingben",
+        "txtlength": 16580
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/uzlet/20220202/kedvezo-gyorsjelentesek-hatan-emelkednek-a-tozsdek-524467",
+        "h1": "Kedvező gyorsjelentések hátán emelkednek a tőzsdék ",
+        "txtlength": 16106
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/global/20220202/kinos-helyzetbe-kerult-kim-dzsongun-drasztikus-tettekkel-keszul-raijeszteni-a-vilagra-524349",
+        "h1": "Kínos helyzetbe került Kim Dzsongun, drasztikus tettekkel készül ráijeszteni a világra",
+        "txtlength": 15558
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2022/02/02/a-magyar-kormany-nem-tamogatja-a-hibrid-oktatast-de-a-tanarok-kenytelenek-igy-tanitani",
+        "h1": "A MAGYAR KORMÁNY NEM TÁMOGATJA A HIBRID OKTATÁST, DE A TANÁROK KÉNYTELENEK ÍGY TANÍTANI",
+        "txtlength": 12204
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/gyerek/sevcsik-m-anna-femina-podcast/",
+        "h1": "„Ez a gyerek meghalt, de még fiatal, lehet következő” - A Babagenetika Egyesület alapítójával Soós Andrea beszélgetett",
+        "txtlength": 11787
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/testem/edzes-mellekhatasok/",
+        "h1": "6 furcsa, de ártalmatlan mellékhatás, amit az edzés okozhat",
+        "txtlength": 8819
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/lajfhekk/biztonsagos-otthon-kutya-macska/",
+        "h1": "biztonságos otthon kutya macska",
+        "txtlength": 7612
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/belfold/2022/02/01/bfk-ket-eves-merleg",
+        "h1": "Itt a Budapest Fejlesztési Központ kétéves mérlege: rengeteg terv, kevés kivitelezés",
+        "txtlength": 26801
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/sport/2022/02/01/pekingi-teli-olimpia-alpesi-si-kvalifikacio-manipulalas-csalas/",
+        "h1": "„Könyörgöm, hadd örüljenek a kicsik is” – kiskapukon át csalták be magukat az olimpiára",
+        "txtlength": 16295
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/fn/gazdasag/2022/02/02/eu-fire-penzugyminiszterium-eu-tamogatas-geotermikus-eromu-buda-cash-csod/",
+        "h1": "2,8 milliárd forint EU-s támogatás úszott el a Buda-Cash csődje miatt, a minisztérium hallgat az ügyről",
+        "txtlength": 14940
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/belfold/2022/02/01/a-kormany-fizetett-egy-kutatast-az-europai-antiszemitizmusrol-de-nem-hiszi-el-az-eredmenyet-miutan-tul-nagy-zsidoellenesseg-jott-ki-magyarorszagra",
+        "h1": "A kormány fizetett egy kutatást az európai antiszemitizmusról, de nem hiszi el az eredményét, mert nem az jött ki, amit várt",
+        "txtlength": 14772
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/gazdasag/2022/02/01/arstop-hatosagi-ar-boltok-tej-liszt-cukor-olaj-csirkemell-sertescomb-auchan-coop-lidl-aldi-spar",
+        "h1": "A húspultban a leglátványosabb az árstop hatása, de az étolaj ára is nagyot csökkent sok helyen",
+        "txtlength": 14110
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kulfold/2022/02/01/orban-viktor-madrid-europa-szelsojobb/",
+        "h1": "Miért ment el Orbán a madridi szélsőjobbos találkozóra, ahol egy magyarellenes román párt is megjelent?",
+        "txtlength": 13948
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/02/02/a-nap-amikor-kim-dzsongun-bevagtatott-a-metaverzumba",
+        "h1": "A nap, amikor Kim Dzsongun bevágtatott a Metaverzumba",
+        "txtlength": 13924
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/gazdasag/20220202_Putyin_latogatas_foldgaz_gazdasag_elemzes",
+        "h1": "Putyin nem adott semmit, de alaposan használta a hozzá látogató Orbánt",
+        "txtlength": 13832
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/02/01/az-ensz-jelentese-szerint-a-mianmari-katonai-junta-maffiakent-mukodik-es-terrorban-tartja-a-lakossagot",
+        "h1": "Az ENSZ jelentése szerint a mianmari katonai junta maffiaként működik, és terrorban tartja a lakosságot",
+        "txtlength": 12823
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/politika/vlagyimir-putyin-orban-viktor-talalkozo/shvj96m?sl_ps=d_11",
+        "h1": "Orbán Viktor bejelentése a Putyinnal folytatott tárgyalásokról – „Ha van orosz gáz, van rezsicsökkentés, ha nincs...” – Szó volt a háborúról is",
+        "txtlength": 10632
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/tragedia-veszprem-kormanyhivatal-felgyujtotta-magat-reszletek/pxe09yx",
+        "h1": "Kiderült, miért gyújtotta fel magát Lajos bácsi a veszprémi kormányhivatalban: sokkoló részletek",
+        "txtlength": 9302
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/gazdasag/20220202_hitelkamat_kamatemeles",
+        "h1": "Egy nap alatt hét bank emelte meg a hitelkamatait",
+        "txtlength": 9191
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/tudomany/20220202_ogyei_favipiravir_ferenci_tamas",
+        "h1": "\"Elfogadhatatlan, hogy börtönbe zárással fenyegető eljárást indítanak, mert kutatók elmondták a véleményüket\" - a biostatisztikus reagált az OGYÉI feljelentésére",
+        "txtlength": 9162
+    },
+    {
+        "hostname": "nosalty.hu",
         "pagelink": "https://www.nosalty.hu/recept/igazi-strandos-langos",
         "h1": "Igazi strandos lángos",
         "txtlength": 17175
