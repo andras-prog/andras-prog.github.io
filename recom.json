@@ -1,6 +1,210 @@
 [
     {
         "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/kinai-teszta-ahogy-bufeben-keszul",
+        "h1": "Kínai tészta, ahogy a büfében készül",
+        "txtlength": 14718
+    },
+    {
+        "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/csirkemell-ozgerincformaban-sutve-2",
+        "h1": "Csirkemell őzgerincformában sütve 2.",
+        "txtlength": 13708
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/oroszkremtorta-video.recept",
+        "h1": "OROSZKRÉMTORTA",
+        "txtlength": 13115
+    },
+    {
+        "hostname": "receptneked.hu",
+        "pagelink": "https://receptneked.hu/gyors/sajtos-krumpligolyok/",
+        "h1": "Sajtos krumpligolyók recept",
+        "txtlength": 3744
+    },
+    {
+        "hostname": "receptneked.hu",
+        "pagelink": "https://receptneked.hu/gyors/kenyerlangos-vagy-toki-pompos/",
+        "h1": "Kenyérlángos, vagy töki pompos recept",
+        "txtlength": 3740
+    },
+    {
+        "hostname": "kiszamolo.hu",
+        "pagelink": "https://kiszamolo.hu/a_bitcoinrol_meg_egyszer/",
+        "h1": "A Bitcoinról még egyszer",
+        "txtlength": 45004
+    },
+    {
+        "hostname": "alapblog.hu",
+        "pagelink": "https://alapblog.hu/szinhaz-az-egesz-vilag-vagy-megse-az/",
+        "h1": "Színház az egész világ… Vagy mégse az?",
+        "txtlength": 14044
+    },
+    {
+        "hostname": "efesasanisimasa.com",
+        "pagelink": "https://efesasanisimasa.com/2022/02/02/sajat-szoba-utodlas-succession-1-2-2018-2019/",
+        "h1": "Saját szoba – Utódlás (Succession 1-3., 2018-)",
+        "txtlength": 11252
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/vasarlas/20220203/itt-mar-a-maffia-hamisitja-az-elelmiszert-ezekkel-a-borokkal-husokkal-oliva-olajokkal-jobb-vigyazni-1121645",
+        "h1": "Itt már a maffia hamisítja az élelmiszert: ezekkel a borokkal, húsokkal, olíva olajokkal jobb vigyázni",
+        "txtlength": 35462
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220204_putyin_oroszorszag_nato",
+        "h1": "Valósak-e Putyin érvei? – az orosz-NATO konfliktus szerződési háttere",
+        "txtlength": 33722
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/uzlet/20220204/komolyan-gondoljatok-ti-az-elektromos-autozast-egyaltalan-524193",
+        "h1": "Komolyan gondoljátok ti az elektromos autózást egyáltalán?",
+        "txtlength": 29209
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220202_elet_interju_batta_andras_magyar_zene_haza",
+        "h1": "Kezdetektől a zene grandiózussága varázsolt el – Batta András a Mandinernek",
+        "txtlength": 27834
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220206_szechenyi_timea_interju_a_nev_kotelez",
+        "h1": "A kommunizmus sem tudta megtörni családunk hazaszeretetét – Széchenyi Tímea a Mandinernek",
+        "txtlength": 22465
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/kozelet/20220204/kell-e-110-forintos-benzinaremeles-ahhoz-hogy-meg-idejeben-csokkentsuk-a-kibocsatast/",
+        "h1": "Kell-e 110 forintos benzináremelés ahhoz, hogy még idejében csökkentsük a kibocsátást?",
+        "txtlength": 22098
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2022/02/04/nem-neil-young-tavozasa-a-legnagyobb-baj-a-spotify-jal-hanem-az-hogy-szar-a-zene",
+        "h1": "NEM NEIL YOUNG TÁVOZÁSA A LEGNAGYOBB BAJ A SPOTIFY-JAL, HANEM AZ, HOGY SZAR A ZENE",
+        "txtlength": 21703
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/uzlet/20220204/pluszban-zart-az-sp-500-es-a-nasdaq-is-524907",
+        "h1": "Pluszban zárt az S&P 500 és a Nasdaq is ",
+        "txtlength": 21190
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/global/20220205/eros-allitasokat-tett-vlagyimir-putyin-az-orban-viktorral-tortent-talalkozon-de-vajon-van-alapjuk-524987",
+        "h1": "Erős állításokat tett Vlagyimir Putyin az Orbán Viktorral történt találkozón, de vajon van alapjuk?",
+        "txtlength": 21099
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/egeszseg/20220202/sulyos-aremeles-a-maganklinikakon-ennyibe-kerul-egy-vip-szules-2022-ben-1121636",
+        "h1": "Súlyos áremelés a magánklinikákon: ennyibe kerül egy VIP-szülés 2022-ben",
+        "txtlength": 20785
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/kozelet/20220204/lesz-e-meg-olcso-a-gaz/",
+        "h1": "Lesz-e még olcsó a gáz?",
+        "txtlength": 20410
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/utazas/szentinelez-nepcsoport/",
+        "h1": "A titokzatos népcsoport, aki azonnal megöli a betolakodókat: a szentinelézek szigetéről élve senki sem jut ki",
+        "txtlength": 13171
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/lajfhekk/feltekenyseg-pszichologia/",
+        "h1": "A féltékenység pszichológiája: ez bújik meg mögötte valójában a szakértő szerint",
+        "txtlength": 9861
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kulfold/2022/02/04/iskolai-menzak-europaban-korkep-az-iskolai-etkezesrol",
+        "h1": "A szomszédban már az ingyenes menzát is megpróbálták, máshol szinte ismeretlen a klasszikus iskolai menza fogalma",
+        "txtlength": 25329
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/politika/rakosi-matyas-eletut-magyar-tortenelem/rr2gsdy",
+        "h1": "Jelöletlen urnahely rejti Rákosi Mátyás hamvait Budapesten – 51 éve, elfeledve halt meg a gyűlölt pártvezér – fotók",
+        "txtlength": 19254
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/sport/2022/02/04/liu-shaolin-sandor-gyorskorcsolya-interju-teli-olimpia-peking/",
+        "h1": "Liu Shaolin Sándor: Nagyképűségnek tűnhet, pedig csak őszinte vagyok",
+        "txtlength": 17473
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/fn/gazdasag/2022/02/05/berfelzarkozas-magyarorszag-nem-sikerult-olcso-berekkel-versenyez/",
+        "h1": "Még 45 év, és utolérjük az osztrák béreket",
+        "txtlength": 14812
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kulfold/2022/02/04/nincs-bizonyitek-bentlakasos-iskola-indian-gyerek-tomegsir-kanada",
+        "h1": "Miért jelentették be, hogy indián gyerekek tömegsírját találták, ha azóta egyetlen holttest sem került elő?",
+        "txtlength": 14450
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20220204_Szavazatszamlalok_a_tiszta_valasztasokert",
+        "h1": "Van, amiben akár felül is múlhatja az ellenzék a Fideszt",
+        "txtlength": 13841
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/belfold/2022/02/05/hodasz-andras-atya-veiszer-alinda-interju-vallas-egyhaz-hittan-meleg",
+        "h1": "Hodász András: Ha eljönne a misémre, szelfiznék én Orbán Viktorral is",
+        "txtlength": 12766
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20220205_Megneztuk_hol_a_leggyorsabbak_a_rendorok",
+        "h1": "Megnéztük, hol a leggyorsabbak a rendőrök",
+        "txtlength": 12393
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20220204_A_rendorseg_nyomoz_a_Metropolnal_a_Martha_Imret_lejarato_cikkek_miatt",
+        "h1": "A rendőrség nyomoz a Metropolnál a Mártha Imrét lejárató cikkek miatt",
+        "txtlength": 12099
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/02/04/tobb-rmdsz-es-vezeto-is-jelezte-marki-zaynak-hogy-nem-fogadjak-ha-erdelybe-latogat",
+        "h1": "Több RMDSZ-es vezető is jelezte Márki-Zaynak, hogy nem fogadják, ha Erdélybe látogat",
+        "txtlength": 11672
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kultura/2022/02/04/ismeretlen-budapest-pest-belvaros-ferenczy-istvan-utca-molnar-hajos-alfred-kallina-mor-festetics-grof/",
+        "h1": "Egymás után burkolóznak aranyba a pesti belváros palotái",
+        "txtlength": 11183
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/02/04/jens-stoltenberg-a-nato-fotitkara-lesz-a-norveg-jegybank-elnoke",
+        "h1": "Jens Stoltenberg, a NATO főtitkára lesz a norvég jegybank elnöke",
+        "txtlength": 10429
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/kamu-covid-hamis-gyorstesztek-az-iskolakban/mnm43vk?sl_ps=d_5",
+        "h1": "Kiderült, hogyan próbálnak trükközni a diákok: ellenőrizte a Blikk átlehet-e verni a Covid-teszteket - videó",
+        "txtlength": 10000
+    },
+    {
+        "hostname": "nosalty.hu",
         "pagelink": "https://www.nosalty.hu/recept/sargaborso-fozelek-fustolt-oldalassal",
         "h1": "Sárgaborsó főzelék füstölt oldalassal",
         "txtlength": 15246
