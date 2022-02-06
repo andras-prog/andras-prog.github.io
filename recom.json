@@ -1,6 +1,198 @@
 [
     {
         "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/frankfurti-leves-egyszeruen",
+        "h1": "Frankfurti leves egyszerűen",
+        "txtlength": 14008
+    },
+    {
+        "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/kaposztas-teszta",
+        "h1": "Káposztás tészta",
+        "txtlength": 13815
+    },
+    {
+        "hostname": "receptneked.hu",
+        "pagelink": "https://receptneked.hu/gyors/toltott-zsemle-2/",
+        "h1": "Töltött zsemle recept",
+        "txtlength": 3728
+    },
+    {
+        "hostname": "receptneked.hu",
+        "pagelink": "https://receptneked.hu/gyors/sajtos-sult-rizsgolyok/",
+        "h1": "Sajtos sült rizsgolyók recept",
+        "txtlength": 3719
+    },
+    {
+        "hostname": "hataratkelo.blog.hu",
+        "pagelink": "https://hataratkelo.blog.hu/2022/01/30/amerikai_tukor_modern_gyermekneveles_es_a_titokzatos_olivia#c41196354",
+        "h1": "Amerikai tükör: modern gyermeknevelés és a titokzatos Olivia",
+        "txtlength": 54903
+    },
+    {
+        "hostname": "kulturpart.hu",
+        "pagelink": "https://kulturpart.blog.hu/2022/01/30/online_folytatodik_a_budapesti_dokumentumfilm_fesztival",
+        "h1": "ONLINE FOLYTATÓDIK A BUDAPESTI DOKUMENTUMFILM FESZTIVÁL",
+        "txtlength": 5823
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220131_elelmiszerarstop_mcc_szegenyseg_erzekeny_csoportok_toth_balint_laszlo_kiss_kozma_georgina",
+        "h1": "„Az árstop által érintett termékek kiválasztásán kár gúnyolódni” – MCC-s kutatók a Mandinernek",
+        "txtlength": 29573
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220203_orszagjelentes_mediapluralizmus_transzparns_ujsagirasert_alapitvany_eu",
+        "h1": "Így készül a lejárató országjelentés – hamis kép a magyar médiáról",
+        "txtlength": 27937
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220202_mandiner_sport_liu_shaolin_sandor_liu_shaoang_interju",
+        "h1": "A legmagasabbra törünk! – A Liu fivérek útja Budapesttől Pekingig",
+        "txtlength": 23471
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/otthon/20220202/lassan-tenyleg-kiurul-az-orszag-keleti-fele-tomegek-menekulnek-ezekrol-a-telepulesekrol-1121620",
+        "h1": "Lassan tényleg kiürül az ország keleti fele: tömegek menekülnek ezekről a településekről",
+        "txtlength": 20537
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/penz/20220203/az-inflacio-ellen-meg-a-vilag-legnagyobb-hadserege-sem-tud-vedekezni/",
+        "h1": "Az infláció ellen még a világ legnagyobb hadserege sem tud védekezni",
+        "txtlength": 20520
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/krtk/20220206/a-munkanelkuli-biztositas-es-a-munkanelkuliseg-hossza-milyen-rovid-a-harom-honap-524759",
+        "h1": "A munkanélküli biztosítás és a munkanélküliség hossza: milyen rövid a három hónap?",
+        "txtlength": 19464
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/egeszseg/20220205/hatalmas-valtozas-johet-a-magyar-boltokban-sokan-felhaborodtak-az-ujfajta-sonkan-1121715",
+        "h1": "Hatalmas változás jöhet a magyar boltokban: sokan felháborodtak az újfajta \"sonkán\"",
+        "txtlength": 18764
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/kozelet/20220203/a-magyar-epitoiparon-biztos-nem-mulik-az-ellenzek-nagy-berlakasepitesi-terve/",
+        "h1": "A magyar építőiparon biztos nem múlik az ellenzék nagy bérlakásépítési terve",
+        "txtlength": 17269
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20220205/mergezo-viz-folyik-a-csapbol-itt-a-friss-telepuleslista-525041",
+        "h1": "Mérgező víz folyik a csapból? Itt a friss településlista",
+        "txtlength": 17020
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20220205/fellegezhettek-de-megis-kiabrandito-a-siszezon-ausztriaban-524601",
+        "h1": "Fellégezhettek, de mégis kiábrándító a síszezon Ausztriában",
+        "txtlength": 15798
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2022/02/06/az-atomenergia-mar-most-biztonsagosabb-sok-mas-energiaforrasnal-de-a-modularis-eromuvekkel-meg-ezt-is-lehet-fokozni",
+        "h1": "AZ ATOMENERGIA MÁR MOST BIZTONSÁGOSABB SOK MÁS ENERGIAFORRÁSNÁL, DE A MODULÁRIS ERŐMŰVEKKEL MÉG EZT IS LEHET FOKOZNI",
+        "txtlength": 15306
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/egeszseg/zoldhalyog-kezelese/",
+        "h1": "Akár látásvesztéssel is járhat a zöld hályog: többféle hatékony kezelési módja létezik",
+        "txtlength": 13207
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/lajfhekk/koffein-leszokas-tunetei/",
+        "h1": "Koffein leszokás tünetei",
+        "txtlength": 8026
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kult/2022/02/05/omlenek-rank-a-celebekrol-szolo-dokumentumfilmek-de-mennyire-erdemes-elhinni-oket",
+        "h1": "Ömlenek ránk a celebekről szóló dokumentumfilmek, de érdemes-e elhinni, amit látunk?",
+        "txtlength": 19377
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kultura/2022/02/05/es-egyszer-csak-szex-es-new-york/",
+        "h1": "Van tíz érvünk amellett, hogy az És egyszer csak… jobb lett, mint az eredeti Szex és New York",
+        "txtlength": 18407
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kultura/2022/02/06/szex-harmincasok-nok-matine-konyvajanlo/",
+        "h1": "„A maradék életemet szex nélküli félkómában töltöm egy díványon”",
+        "txtlength": 17012
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/nevertek/2022/02/06/eurovita-euroovezet-magyar-eurocsatlakozas-nelkulozhetetlen-allomas",
+        "h1": "Eurócsatlakozás – szükségszerűség és történelmi lehetőség",
+        "txtlength": 16293
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/belfold/2022/02/05/hasznalt-auto-ha-ezt-hallod-az-eladotol-menekulj",
+        "h1": "Menekülj, ha ezeket hallod az eladótól autóvásárláskor!",
+        "txtlength": 15591
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://qubit.hu/2022/02/06/az-atomenergia-mar-most-biztonsagosabb-sok-mas-energiaforrasnal-de-a-modularis-eromuvekkel-meg-ezt-is-lehet-fokozni",
+        "h1": "AZ ATOMENERGIA MÁR MOST BIZTONSÁGOSABB SOK MÁS ENERGIAFORRÁSNÁL, DE A MODULÁRIS ERŐMŰVEKKEL MÉG EZT IS LEHET FOKOZNI",
+        "txtlength": 15306
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/02/04/nagy-balint-epitesz-19492022",
+        "h1": "Nagy Bálint építész, 1949–2022",
+        "txtlength": 13353
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/vilag/20220205_DW_Exkluziv_Szunet_nelkul_kinoztak_minket",
+        "h1": "Tűket szúrtak a körmük alá, deszkával verték a sarkukat - foglyok beszámolói a szibériai börtönökből",
+        "txtlength": 12714
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/gazdasag/20220206_Es_akkor_orosz_elelmiszer_adok_ipar_karate_bacska",
+        "h1": "És akkor Orbán Viktor bejelentkezett a Nobel-békedíjra",
+        "txtlength": 12643
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/fn/gazdasag/2022/02/05/lux-legtisztito-hitel-cofidis-agressziv-ugynokok-szerzodes-elallas-posta/",
+        "h1": "Mintha pisztolyt fogtak volna rá, úgy érezte magát a légtisztítóügynökök agresszív győzködésétől",
+        "txtlength": 11928
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/kamu-covid-hamis-gyorstesztek-az-iskolakban/mnm43vk",
+        "h1": "Kiderült, hogyan próbálnak trükközni a diákok: ellenőrizte a Blikk, át lehet-e verni a Covid-teszteket – videó",
+        "txtlength": 9942
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/cseuz-laszlo-tornatanar-2024-es-parizsi-olimpia/j7dnwkl?sl_ps=d_3",
+        "h1": "Cseuz László, a 78 éves péceli testnevelés tanár olyan teljesítményre képes, amire a fiatalok közül is csak kevesen",
+        "txtlength": 9327
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20220206_Emelkedett_a_minimalber_tobbet_kell_fizetni_a_valasztoi_nevjegyzekert_is",
+        "h1": "Emelkedett a minimálbér, többet kell fizetni a választói névjegyzékért is",
+        "txtlength": 8104
+    },
+    {
+        "hostname": "nosalty.hu",
         "pagelink": "https://www.nosalty.hu/recept/kinai-teszta-ahogy-bufeben-keszul",
         "h1": "Kínai tészta, ahogy a büfében készül",
         "txtlength": 14718
