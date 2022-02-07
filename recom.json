@@ -1,6 +1,210 @@
 [
     {
         "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/pihe-puha-fank-sutoben-sutve",
+        "h1": "Pihe-puha fánk sütőben sütve",
+        "txtlength": 14060
+    },
+    {
+        "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/klasszikus-maglyarakas",
+        "h1": "Klasszikus máglyarakás",
+        "txtlength": 13476
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/kremturo-hazilag.recept",
+        "h1": "KRÉMTÚRÓ HÁZILAG",
+        "txtlength": 10730
+    },
+    {
+        "hostname": "receptneked.hu",
+        "pagelink": "https://receptneked.hu/gyors/sutoben-sult-hotdog/",
+        "h1": "Sütőben sült hotdog recept",
+        "txtlength": 3651
+    },
+    {
+        "hostname": "receptneked.hu",
+        "pagelink": "https://receptneked.hu/gyors/bundaskenyer-muffin/",
+        "h1": "Bundáskenyér muffin recept",
+        "txtlength": 3647
+    },
+    {
+        "hostname": "kiszamolo.hu",
+        "pagelink": "https://kiszamolo.hu/tanuljunk-a-tortenelembol-a-nagy-depresszio/",
+        "h1": "Tanuljunk a történelemből: a Nagy Depresszió, azaz az 1929-es világválság",
+        "txtlength": 38836
+    },
+    {
+        "hostname": "efesasanisimasa.com",
+        "pagelink": "https://efesasanisimasa.com/2022/01/11/narcos-mexiko-1-2-evad-tv-series-2018/",
+        "h1": "Narcos: Mexikó – 1-3. évad (TV Series, 2018-2021)",
+        "txtlength": 9751
+    },
+    {
+        "hostname": "alapblog.hu",
+        "pagelink": "https://alapblog.hu/tronfosztas-a-divatiparban-a-shein-es-az-lpp-sikerei/",
+        "h1": "Trónfosztás a divatiparban: a Shein és az LPP sikerei",
+        "txtlength": 6567
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220131_fellegvar_napkozi_sulyosan_halmozottan_serult_gyerekek_varga_gabor_viii_kerulet",
+        "h1": "„Egy halmozottan sérült gyermek sok mindenre megtanítja az embert” – Varga Gábor a Mandinernek",
+        "txtlength": 27611
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/kozelet/20220207/a-nepszavazast-tamogatok-jol-latjak-hogy-a-fudan-ugy-mogott-lakhatasi-valsag-van/",
+        "h1": "A népszavazást támogatók jól látják, hogy a Fudan-ügy mögött lakhatási válság van",
+        "txtlength": 23960
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/megtakaritas/20220206/idul-a-visszaszamlalas-mar-csak-eddig-igenyelhetik-a-csaladok-a-4273-millio-forintos-tamogatast-1121686",
+        "h1": "Idul a visszaszámlálás: már csak eddig igényelhetik a családok a 42+73 millió forintos támogatást",
+        "txtlength": 21075
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://sport.mandiner.hu/cikk/20220206_csank_janos_a_12_csapatos_nb_i_a_magyar_futball_halala",
+        "h1": "Csank János: A 12 csapatos NB I a magyar futball halála!",
+        "txtlength": 20363
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220206_itt_az_ideje_az_erkolcsi_es_szellemi_megujulasnak_marfi_gyula_ersek_a_mandinernek",
+        "h1": "Itt az ideje az erkölcsi és szellemi megújulásnak! – Márfi Gyula érsek a Mandinernek",
+        "txtlength": 20156
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/egeszseg/20220206/kiderult-a-nagy-multivitamin-titok-ezt-jobb-ha-tudod-a-patikai-tablettakrol-1121676",
+        "h1": "Kiderült a nagy multivitamin-titok: ezt jobb, ha tudod a patikai tablettákról",
+        "txtlength": 17657
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/bank/20220207/lehull-a-lepel-a-lakashitelekrol-kiszamoltuk-kik-buktak-a-legnagyobbat-525197",
+        "h1": "Lehull a lepel a lakáshitelekről: kiszámoltuk, kik bukták a legnagyobbat",
+        "txtlength": 16199
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/podcast/20220206/adrenalininjekcio-a-tanaroknak-ha-egy-vallalatnal-latjak-mire-keszitik-fel-a-diakjaikat/",
+        "h1": "Adrenalininjekció a tanároknak, ha egy vállalatnál látják, mire készítik fel a diákjaikat",
+        "txtlength": 16148
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2022/02/07/igy-valt-a-kadar-korban-a-magyar-falvak-emblematikus-epuleteve-a-satortetos-kockahaz",
+        "h1": "ÍGY VÁLT A KÁDÁR-KORBAN A MAGYAR FALVAK EMBLEMATIKUS ÉPÜLETÉVÉ A SÁTORTETŐS KOCKAHÁZ",
+        "txtlength": 13846
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/uzlet/20220207/emelkedessel-indul-a-het-az-europai-tozsdeken-525221",
+        "h1": "Emelkedéssel indul a hét az európai tőzsdéken ",
+        "txtlength": 13685
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/ingatlan/20220206/ezek-ma-magyarorszag-legkulonlegesebb-epuletei-rangos-nemzetkozi-dijert-versenyeznek-525147",
+        "h1": "Ezek ma Magyarország legkülönlegesebb épületei - Rangos nemzetközi díjért versenyeznek",
+        "txtlength": 13160
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/utazas/hitler-farkasverem/",
+        "h1": "Így néz ki Hitler szigorúan őrzött Farkasverme napjainkban: a leghíresebb merényletkísérlet helyszíne volt",
+        "txtlength": 12202
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/szuloseg/koronavirusos-szulo-gyerek/",
+        "h1": "koronavírus szülő gyerek",
+        "txtlength": 10173
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/gazdasag/20220206_Joe_Rogan_nemcsak_egy_amokfuto_de_egy_generacio_hangja_is_aki_a_maga_kepere_formalja_a_mediat",
+        "h1": "Joe Rogan nem csak egy ámokfutó, de egy generáció hangja is, aki a maga képére formálja a médiát",
+        "txtlength": 30132
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kultura/2022/02/06/szex-jelenetek-hollywood-film-metoo/",
+        "h1": "Hová tűnt a szex Hollywoodból?",
+        "txtlength": 23858
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2022/02/06/whisky-lovagiassag-ferfias-ertekek-szubkultura-tortenelem-tevesz-laszlo/",
+        "h1": "Hogyan igyunk whiskyt a lovagiasság szellemében?",
+        "txtlength": 19880
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/szorakozas/2022/02/06/georgina-rodriguez-netflix-sorozat-kritika/",
+        "h1": "Georgina Rodríguez nem a felszínes dokusorozat miatt szabadul majd meg a „Ronaldo barátnője” címkétől",
+        "txtlength": 17338
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/tldr/2022/02/06/empire-p-az-irodalom-ami-legyozi-a-vilagot",
+        "h1": "Empire P – az irodalom, ami legyőzi a világot",
+        "txtlength": 17316
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/sport/2022/02/06/afrika-kupa-2022-futball",
+        "h1": "Sadio Mané történelmet írt – Szenegál először nyerte meg az Afrika Kupát",
+        "txtlength": 14777
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://qubit.hu/2022/02/07/igy-valt-a-kadar-korban-a-magyar-falvak-emblematikus-epuleteve-a-satortetos-kockahaz",
+        "h1": "ÍGY VÁLT A KÁDÁR-KORBAN A MAGYAR FALVAK EMBLEMATIKUS ÉPÜLETÉVÉ A SÁTORTETŐS KOCKAHÁZ",
+        "txtlength": 13846
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/eszkombajn/2022/02/07/john-bobbitt-frankenpenisz",
+        "h1": "A levágott péniszű férfi, aki karriert csinált abból, hogy erőszakosan bánt a nőkkel",
+        "txtlength": 11714
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/blikk-tv/sztarvilag/dr-toth-frank-valogatott-vizilabdazo-gyogyszeresz/ntdzcwz",
+        "h1": "Élet a sportsikerek, egy busztragédia és ikerlánya elvesztése után: mi lett Tóth Frankkal, a bajnok vízilabdázóval? – Exkluzív felvétel",
+        "txtlength": 10693
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/nevertek/2022/02/07/globalis-minimumado-az-iparuzesi-ado-beszamithatosaga-a-legfontosabb-kerdes",
+        "h1": "Globális minimumadó: az iparűzési adó beszámíthatósága a legfontosabb kérdés",
+        "txtlength": 9654
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/penz/babavaro-kamattamogatas-babakotveny-kamat-buntetes-befektetes/2t25p9d",
+        "h1": "Állami babakedvezmények: csúcson a hozam – Nem árt vigyázni, magas lett a büntetőkamat is!",
+        "txtlength": 9509
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/gazdasag/20220207_Fix_valtozo_kamat_lakashitel_bank360",
+        "h1": "Fix vagy változó kamat? Így adnak a bankok 9 millió forint lakáshitelt",
+        "txtlength": 8582
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/tudomany/20220207_samsung_galaxy_s22_ultra_geekbench_exynos_es_snapdragon_lapkakeszlet_kulonbseg",
+        "h1": "A nagy Samsung-kérdés: milyen gyorsak lesznek az európai Galaxy S22 csúcsmobilok?",
+        "txtlength": 8359
+    },
+    {
+        "hostname": "nosalty.hu",
         "pagelink": "https://www.nosalty.hu/recept/frankfurti-leves-egyszeruen",
         "h1": "Frankfurti leves egyszerűen",
         "txtlength": 14008
