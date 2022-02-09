@@ -1,6 +1,204 @@
 [
     {
         "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/tejfolben-pacolt-csirkemell-tepsis-reszelt-krumplival",
+        "h1": "Tejfölben pácolt csirkemell tepsis reszelt krumplival",
+        "txtlength": 19176
+    },
+    {
+        "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/legegyszerubb-muffin",
+        "h1": "A legegyszerűbb muffin",
+        "txtlength": 13446
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/csicseriborso-leves-bagolyborso.recept",
+        "h1": "CSICSERIBORSÓ-LEVES (BAGOLYBORSÓ)",
+        "txtlength": 10804
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/10-perces-bogres-fank-egyszeruen.recept",
+        "h1": "10 PERCES BÖGRÉS FÁNK",
+        "txtlength": 10032
+    },
+    {
+        "hostname": "receptneked.hu",
+        "pagelink": "https://receptneked.hu/gyors/parizsiszoszba-forgatot-cukkini-tartarmartassal/",
+        "h1": "Párizsiszószba forgatott cukkini tartármártással recept",
+        "txtlength": 3647
+    },
+    {
+        "hostname": "receptneked.hu",
+        "pagelink": "https://receptneked.hu/gyors/sajtos-tejfolos-galuska-zoldhagymaval/",
+        "h1": "Sajtos tejfölös galuska zöldhagymával recept",
+        "txtlength": 3642
+    },
+    {
+        "hostname": "hataratkelo.blog.hu",
+        "pagelink": "https://hataratkelo.blog.hu/2022/01/30/amerikai_tukor_modern_gyermekneveles_es_a_titokzatos_olivia",
+        "h1": "Amerikai tükör: modern gyermeknevelés és a titokzatos Olivia",
+        "txtlength": 52260
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://www.askamanager.org/2022/01/the-new-hire-who-showed-up-is-not-the-same-person-we-interviewed.html",
+        "h1": "Ask a Manager",
+        "txtlength": 298762
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220202_kozelet_lmbtq_gender",
+        "h1": "Transzba esett ideológiák – így nyomul az lmbt-lobbi itthon és Nyugaton",
+        "txtlength": 26860
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/kozelet/20220208/hetszeresere-noveli-a-kozbeszerzesi-gyozelem-eselyet-a-ner-es-kapcsolat/",
+        "h1": "Hétszeresére növeli a közbeszerzési győzelem esélyét a NER-es kapcsolat",
+        "txtlength": 25684
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220207_18_kerulet_ganz_kertvaros_ipari_park_szaniszlo_ferenc_dk",
+        "h1": "Kamionhadat eresztenének Szaniszlóék az Üllői útra? Újabb botrány a 18. kerületben",
+        "txtlength": 23981
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/megtakaritas/20220209/mnb-meres-nelkul-nincs-zold-fordulat-1121788",
+        "h1": "MNB: Mérés nélkül nincs zöld fordulat",
+        "txtlength": 21609
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220208_ukrajna_belpolitika_zelenszkij_porosenko",
+        "h1": "És amúgy mi folyik Ukrajnában?",
+        "txtlength": 19141
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/global/20220209/harminc-eve-nem-latott-katonai-erovel-ijesztene-ra-a-vilagra-vlagyimir-putyin-525619",
+        "h1": "Harminc éve nem látott katonai erővel ijesztene rá a világra Vlagyimir Putyin",
+        "txtlength": 18725
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/egeszseg/20220203/mergezo-viz-folyik-a-csapbol-magyarorszagon-terkepen-a-legveszelyesebb-telepulesek-1121650",
+        "h1": "Mérgező víz folyik a csapból Magyarországon? Térképen a legveszélyesebb települések",
+        "txtlength": 17050
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20220208/13-havi-nyugdij-2022-milliardok-kopogtatnak-be-holnap-a-nyugdijasokhoz-mutatjuk-kinek-es-mekkora-13-havi-nyugdij-jar-525579",
+        "h1": "13. havi nyugdíj 2022: milliárdok kopogtatnak be holnap a nyugdíjasokhoz; mutatjuk, kinek és mekkora 13. havi nyugdíj jár",
+        "txtlength": 16552
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/uzlet/20220209/jo-a-hangulat-a-tozsdeken-emelkednek-a-vezeto-indexek-525693",
+        "h1": "Jó a hangulat a tőzsdéken, emelkednek a vezető indexek ",
+        "txtlength": 15505
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2022/02/09/a-klimavaltozas-nehany-evtizeden-belul-veget-vethet-a-teli-olimpiaknak",
+        "h1": "A KLÍMAVÁLTOZÁS NÉHÁNY ÉVTIZEDEN BELÜL VÉGET VETHET A TÉLI OLIMPIÁKNAK",
+        "txtlength": 11959
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/ezo/kozepkori-penzhamisitok/",
+        "h1": "Kegyetlen halál várt a középkorban a magyar pénzhamisítókra: szerencsés volt, akinek csak a birtokát vették el",
+        "txtlength": 11129
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/lajfhekk/hanyszor-lehet-hasznalni-az-olajat/",
+        "h1": "Hányszor lehet használni az olajat",
+        "txtlength": 8277
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/komplex/2022/02/08/forma-1-f1-2022-szabalyvaltoztatas-uj-versenyautok-motorsport",
+        "h1": "\n      Feje tetejére állíthatja az F1-et a sportág legnagyobb szabályváltoztatása\n    ",
+        "txtlength": 21018
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/02/08/sok-ner-es-maradvannyal-kellene-egyutt-elnie-az-ellenzeknek-ha-nyerne-de-nem-sikerulne-ketharmadot-szereznie",
+        "h1": "Sok NER-es maradvánnyal kellene együtt élnie az ellenzéknek, ha nyerne, de nem sikerülne kétharmadot szereznie",
+        "txtlength": 20517
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/belfold/2022/02/09/magyar-nemzet-leleplezes-civilek-soros-manipulacio-adagyujtes",
+        "h1": "Valakik jól felépített kamutörténettel húztak ki meredek mondatokat civilekből, majd a kormánymédiánál landolt az anyag",
+        "txtlength": 16055
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/interju/2022/02/08/interju-kult-mark-rylance-dr-semmelweis-semmelweis-ignac-bristol-old-vic-tom-morris-stephen-brown-szinhaz-szinesz",
+        "h1": "Örülök, hogy százmilliók nézik a filmem, de közelébe sem ér annak az élménynek, ami a Dr. Semmelweis végén ér ötszáz néző előtt",
+        "txtlength": 16042
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20220208_Harommilliardbol_javitana_a_meddosegi_kezelesek_hatekonysagat_a_kormany",
+        "h1": "Milliárdos kutatóközponttal javítaná a meddőségi kezelések hatékonyságát a kormány",
+        "txtlength": 13974
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/02/09/tippeld-meg-mi-volt-borkai-zsolt-kedvenc-receptje-2015-ben",
+        "h1": "Tippeld meg, mi volt Borkai Zsolt kedvenc receptje 2015-ben!",
+        "txtlength": 13947
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/kultura/20220208_jonathan_franzen_keresztutak_kritika_crossroads_irodalom_konyv",
+        "h1": "Titkos viszonyok, drog és vallás: borzongató, ahogy a világ egyik legjobb írója belénk lát",
+        "txtlength": 13665
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kozelet/2022/02/09/nagy-adam-rogan-antal-kabinetfonok-nagy-andras-lakas-martonhegy-brassolis-kft/",
+        "h1": "Újabb budai villára bukkantunk Rogán kabinetfőnökének családjánál",
+        "txtlength": 12870
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/brandcontent/20220120_Mit_kell_tudni_a_hackertamadasokrol_es_hogyan_lehet_vedekezni_ellenuk",
+        "h1": "Mit kell tudni a hackertámadásokról, és hogyan lehet védekezni ellenük?",
+        "txtlength": 12491
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/tudomany/2022/02/08/atomenergia-atomeromu-zold-aram-klimavaltozas/",
+        "h1": "Nonszensz a zöld atomenergia",
+        "txtlength": 12308
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/sport/2022/02/08/mkosz-mob-kozos-kozlemeny-kizaras-liu-shaolin-sandor/",
+        "h1": "Nem hagyja annyiban a szövetség és a MOB Liu Shaolin kizárását, etikai vizsgálatot akarnak",
+        "txtlength": 10045
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/kulfold/szlovakia-parlament-dulakodas-video/b09lbf8",
+        "h1": "Botrány a parlamentben: dulakodtak és vízzel locsolták egymást a képviselők – videó",
+        "txtlength": 8431
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/csokay-andras-idegsebesz-eletmentes-nigeria-12-eves-fiu/ncy3yjk?sl_ps=d_4",
+        "h1": "Hetek óta Nigériában gyógyít Csókay doktor: megmentette egy agytumoros 12 éves fiú életét – fotók",
+        "txtlength": 8331
+    },
+    {
+        "hostname": "nosalty.hu",
         "pagelink": "https://www.nosalty.hu/recept/pihe-puha-fank-sutoben-sutve",
         "h1": "Pihe-puha fánk sütőben sütve",
         "txtlength": 14060
