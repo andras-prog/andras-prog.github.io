@@ -1,6 +1,198 @@
 [
     {
         "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/lusta-asszony-sutije",
+        "h1": "Lusta asszony sütije",
+        "txtlength": 15312
+    },
+    {
+        "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/tejszines-carbonara-spagetti",
+        "h1": "Tejszínes carbonara spagetti",
+        "txtlength": 10835
+    },
+    {
+        "hostname": "receptneked.hu",
+        "pagelink": "https://receptneked.hu/gyors/fokhagymas-krumpli/",
+        "h1": "Fokhagymás krumpli recept",
+        "txtlength": 3641
+    },
+    {
+        "hostname": "receptneked.hu",
+        "pagelink": "https://receptneked.hu/gyors/sajttal-sonkaval-toltott-bundas-kenyer-rolad/",
+        "h1": "Sajttal, sonkával töltött bundás kenyér rolád recept",
+        "txtlength": 3614
+    },
+    {
+        "hostname": "hataratkelo.blog.hu",
+        "pagelink": "https://hataratkelo.blog.hu/2022/01/30/amerikai_tukor_modern_gyermekneveles_es_a_titokzatos_olivia#c41204168",
+        "h1": "Amerikai tükör: modern gyermeknevelés és a titokzatos Olivia",
+        "txtlength": 50617
+    },
+    {
+        "hostname": "kulturpart.hu",
+        "pagelink": "https://kulturpart.blog.hu/2022/02/07/az_igazi_pusztulas_az_olajfinomito_mellett_zajlik",
+        "h1": "AZ IGAZI PUSZTULÁS AZ OLAJFINOMÍTÓ MELLETT ZAJLIK",
+        "txtlength": 8217
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20220209/szja-visszaterites-2022-hidegzuhany-es-varatlan-bejelentes-is-erkezett-a-kifizetesek-elott-525845",
+        "h1": "Szja-visszatérítés 2022: hidegzuhany és váratlan bejelentés is érkezett a kifizetések előtt",
+        "txtlength": 30786
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/elet/20220207/miert-jobb-ugy-az-embereknek-ahogy-van/",
+        "h1": "Miért jobb úgy az embereknek, ahogy van?",
+        "txtlength": 25190
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/szorakozas/20220206/szerelemuzletbe-vagtak-az-rtl-capai-tenyleg-er-10-milliot-a-befektetes-1121617",
+        "h1": "Szerelemüzletbe vágtak az RTL Cápái: tényleg ér 10 milliót a befektetés?",
+        "txtlength": 25142
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20220209/bantalmazas-nemi-eroszak-es-gyuloletbeszed-a-metaverzum-sotet-oldala-525599",
+        "h1": "Bántalmazás, nemi erőszak és gyűlöletbeszéd: a metaverzum sötét oldala",
+        "txtlength": 23674
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/kozelet/20220208/olcson-is-tizmilliardokba-kerulhet-az-ujabb-magyar-vizes-vb-ami-mindenkinek-kockazatos/",
+        "h1": "Olcsón is tízmilliárdokba kerülhet az újabb magyar vizes vb, ami mindenkinek kockázatos",
+        "txtlength": 23477
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220210_ukrajna_oroszorszag_nato_haboru",
+        "h1": "Csínján az oroszokkal? – Mandiner-vitaest az ukrán konfliktusról",
+        "txtlength": 23070
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220205_kovacs_balazs_fidesz_erzsebetvaros_terezvaros_kepviselojelolt_valasztas_orszaggyules_belfold_olah_lajos",
+        "h1": "Ősfideszes kéményseprő készül legyőzni Oláh Lajost Erzsébet- és Terézvárosban",
+        "txtlength": 21499
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220209_sok_tekintetben_egyetertes_van_macron_es_orban_kozott_habsburg_gyorgy_parizsi_magyar_nagykovet_a_mandinernek",
+        "h1": "„Sok tekintetben egyetértés van Macron és Orbán között” – Habsburg György párizsi magyar nagykövet a Mandinernek",
+        "txtlength": 19895
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/utazas/20220204/nincs-tobbe-filleres-repjegy-igy-dragult-meg-a-fapados-a-kotelezo-pcr-tesztek-miatt-1121702",
+        "h1": "Nincs többé filléres repjegy: így drágult meg a fapados a kötelező PCR tesztek miatt",
+        "txtlength": 18718
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2022/02/10/a-megujulo-energiaforrasok-csak-ujfajta-atomeromuvekkel-egyutt-menthetik-meg-a-foldet",
+        "h1": "A MEGÚJULÓ ENERGIAFORRÁSOK CSAK ÚJFAJTA ATOMERŐMŰVEKKEL EGYÜTT MENTHETIK MEG A FÖLDET",
+        "txtlength": 15391
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/uzlet/20220210/itt-a-nagy-nap-mindenki-az-inflacios-adatra-figyel-525911",
+        "h1": "Itt a nagy nap, mindenki az inflációs adatra figyel ",
+        "txtlength": 14946
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/egeszseg/terdfajdalom-gyakori-okai/",
+        "h1": "Mitől fájhat a térd? A 10 leggyakoribb ok a kellemetlenség hátterében",
+        "txtlength": 11979
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/lajfhekk/fagyaszto-leolvasztasa/",
+        "h1": "Fagyasztó leolvasztása",
+        "txtlength": 7960
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kulfold/2022/02/09/livania-kina-embargo-kereskedelem-tajvan-eu-zsarolas-szuverenitas",
+        "h1": "Egy hárommilliós ország betartott Kínának, mire a pekingi gőzhenger a német ipart is csatasorba állította",
+        "txtlength": 22099
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kulfold/2022/02/09/melissa-lucio-halalraitelt-amerikai-no-kivegzes-elott-artatlan-vagy-tenyleg-gyermekbantalmazas-tortent",
+        "h1": "A kétéves kislánya megöléséért ítélték el, de sokan küzdenek új tárgyalásért a közelgő kivégzése előtt",
+        "txtlength": 19333
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kultura/2022/02/09/ismeretlen-budapest-zuglo-mszmp-parthaz-szent-istvan-kiraly-zeneiskola-zenemuveszeti-iskola-szakgimnazium-csernyus-lorinc-organikus-epiteszet-makrisz-agamemnon-szobraszat-dombormu-bontas-atepites/",
+        "h1": "Eltűnik a világhírű szobrász munkája az egykori zuglói pártház faláról",
+        "txtlength": 18669
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/elet/20220209_Fogyas_hizas_testkep_testsuly_alkat_megjegyzesek_velemeny_kulso_megjelenes",
+        "h1": "Mindenki akkora, amekkora. És?",
+        "txtlength": 15925
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/02/10/szazmilliokert-versenyeznek-a-valasztasokon-a-bizniszpartok-most-dol-el-hogy-nehezebb-lett-e-szabadon-rabolni",
+        "h1": "Százmilliókért versenyeznek a választásokon a bizniszpártok, most dől el, hogy nehezebb lett-e szabadon rabolni",
+        "txtlength": 14943
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/gazdasag/2022/02/09/vegrehajto-kilakoltatas-erd",
+        "h1": "A bérlőm se rezsit, se bérleti díjat nem fizet, de a kormány segítségével használhatja a házamat",
+        "txtlength": 14857
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20220209_mentoallomas_garazs_kirugas",
+        "h1": "Elismert mentőorvos ellen indult fegyelmi egy garázsban elszabadult focimeccs miatt",
+        "txtlength": 14213
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kulfold/2022/02/09/orosz-ukran-konfliktus-putyin-scholz-macron-biden-targyalas-haboru/",
+        "h1": "Felpörögtek a diplomáciai akciók az orosz–ukrán konfliktus körül",
+        "txtlength": 14144
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kultura/2022/02/09/tinder-csalo-netflix-kritika-dokumentumfilm-online-tarskereses-szelhamos/",
+        "h1": "Ha megnézed A Tinder-csalót, utána kétszer is meggondolod, kit húzz jobbra a társkeresőn",
+        "txtlength": 13934
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/gazdasag/20220209_MarkiZay_Peter_forum_bojar_palocz_bpa",
+        "h1": "Márki-Zay Péter: Ugyanott tartunk, mint amikor a szocializmusban az imperialista Nyugathoz hasonlítottuk magunkat",
+        "txtlength": 13518
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/02/09/mar-a-szlovak-vamhivatalnak-is-feltunt-hogy-utanfutoval-hordjak-at-magyarorszagrol-az-olcso-benzint",
+        "h1": "Már a szlovák vámhivatalnak is feltűnt, hogy utánfutóval hordják át Magyarországról az olcsó benzint",
+        "txtlength": 10439
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/politika/goncz-arpad-100-szuletesnap-unoka-benedek-marton/f77xmfd",
+        "h1": "Így emlékszik az unokája Göncz Árpádra – Ma lenne 100 éves a modern magyar politika egyik legnépszerűbb alakja",
+        "txtlength": 10259
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/krimi/csepreg-gyerek-halal/kc87p89?sl_ps=d_10",
+        "h1": "Rejtély, mitől halt meg a csepregi két és fél éves kisfiú: egyelőre sem az apát, sem az anyát nem gyanúsítják az ügyben",
+        "txtlength": 8150
+    },
+    {
+        "hostname": "nosalty.hu",
         "pagelink": "https://www.nosalty.hu/recept/tejfolben-pacolt-csirkemell-tepsis-reszelt-krumplival",
         "h1": "Tejfölben pácolt csirkemell tepsis reszelt krumplival",
         "txtlength": 19176
