@@ -1,6 +1,198 @@
 [
     {
         "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/turogomboc-3",
+        "h1": "Túrógombóc 3.",
+        "txtlength": 14996
+    },
+    {
+        "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/klasszikus-rakott-krumpli",
+        "h1": "Klasszikus rakott krumpli",
+        "txtlength": 10211
+    },
+    {
+        "hostname": "receptneked.hu",
+        "pagelink": "https://receptneked.hu/gyors/petrezselymes-tocsni/",
+        "h1": "Petrezselymes tócsni recept",
+        "txtlength": 3595
+    },
+    {
+        "hostname": "receptneked.hu",
+        "pagelink": "https://receptneked.hu/gyors/meggyes-turos-villamsuti/",
+        "h1": "Meggyes-túrós villámsüti recept",
+        "txtlength": 3559
+    },
+    {
+        "hostname": "hataratkelo.blog.hu",
+        "pagelink": "https://hataratkelo.blog.hu/2022/01/30/amerikai_tukor_modern_gyermekneveles_es_a_titokzatos_olivia#c41206184",
+        "h1": "Amerikai tükör: modern gyermeknevelés és a titokzatos Olivia",
+        "txtlength": 52044
+    },
+    {
+        "hostname": "kulturpart.hu",
+        "pagelink": "https://kulturpart.blog.hu/2022/02/06/lenyugozo_fotokon_az_egyeni_szabadsag",
+        "h1": "LENYŰGÖZŐ FOTÓKON AZ EGYÉNI SZABADSÁG",
+        "txtlength": 7937
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/penz/20220210/sebezheto-e-a-magyar-gazdasag/",
+        "h1": "Sebezhető-e a magyar gazdaság?",
+        "txtlength": 27882
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220202_kozelet_vita_peto_andrea_skrabski_fruzsina",
+        "h1": "Kell-e több nő a politikába? Pető Andrea és Skrabski Fruzsina a Mandinernek",
+        "txtlength": 27083
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220209_kozelet_egeszsegugy_ellenzek_baloldal_piac",
+        "h1": "Gyógyítás piaci alapon? – Itt az ellenzék egészségügyi programja",
+        "txtlength": 26972
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/auto/20220208/ujabb-kaotikus-ev-var-a-magyar-autopiacra-jo-ideig-velunk-maradhatnak-a-hosszu-varolistak-1121761",
+        "h1": "Újabb kaotikus év vár a magyar autópiacra: jó ideig velünk maradhatnak a hosszú várólisták",
+        "txtlength": 26873
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/kozelet/20220209/biztos-hogy-nem-lesz-gazaremeles/",
+        "h1": "Biztos, hogy nem lesz gázáremelés?",
+        "txtlength": 23818
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/utazas/20220209/nincs-mese-aremeles-jon-a-pesti-furdokben-nem-lehet-tovabb-halogatni-a-gellert-felujitasat-1121807",
+        "h1": "Nincs mese, áremelés jöhet a pesti fürdőkben: nem lehet tovább halogatni a Gellért felújítását",
+        "txtlength": 23519
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220210_falath_zsuzsanna_szlovakia_tortenelem_per",
+        "h1": "Jó hírek érkeztek Falath Zsuzsanna magyar-szlovák történésznő peréről",
+        "txtlength": 19995
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/uzlet/20220211/betett-az-amerikai-inflacios-adat-nagy-esessel-nyithat-europa-526133",
+        "h1": "Betett az amerikai inflációs adat, eséssel nyitottak az európai tőzsdék ",
+        "txtlength": 17909
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/global/20220210/izgalmas-felvetelek-szivarognak-az-ukran-hataron-felvonulo-felelmetes-orosz-fegyverarzenalrol-526049",
+        "h1": "Izgalmas felvételek szivárognak az ukrán határon felvonuló félelmetes orosz fegyverarzenálról",
+        "txtlength": 14650
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/befektetes/20220211/bet-kozel-az-itelet-napja-a-piac-szamara-525913",
+        "h1": "BÉT: közel az ítélet napja a piac számára",
+        "txtlength": 14039
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/otthon/szja-visszaterites-felhasznalasa/",
+        "h1": "Így járhattok a legjobban az szja-visszatérítéssel: pénzügyi szakértő mondta el, mit érdemes kezdeni vele",
+        "txtlength": 11498
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2022/02/11/szalai-daniel-robotizalt-telepeken-tenyesztett-teheneket-szkennelt-be-hogy-megmutassa-atomjaira-hullott-ember-es-termeszet-kapcsolata",
+        "h1": "SZALAI DÁNIEL ROBOTIZÁLT TELEPEKEN TENYÉSZTETT TEHENEKET SZKENNELT BE, HOGY MEGMUTASSA: ATOMJAIRA HULLOTT EMBER ÉS TERMÉSZET KAPCSOLATA",
+        "txtlength": 11119
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/lajfhekk/mit-lehet-sutni-forrolevegos-sutoben/",
+        "h1": "8 meglepő dolog, amit forró levegős sütővel készíthetsz, és 6 másik, amit nem",
+        "txtlength": 9407
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/komplex/2022/02/11/energiavalsag",
+        "h1": "\n      Energiaválság: az EU megásta az oroszoknak a vermet, aztán beleesett\n    ",
+        "txtlength": 26562
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2022/02/10/harom-kiralyfi-kiralylany-reformok-szuleszetben-termeszetes-szules/",
+        "h1": "Legtöbbször a szerencsén múlik, milyen lesz a szülésélmény  ",
+        "txtlength": 22073
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kultura/2022/02/10/konyv-cenzura-iskola-konyvtar-betiltas-amerika-maus/",
+        "h1": "Tilts be a tinédzserek számára egy könyvet, csak aztán ne csodálkozz, ha tiltott könyvklubot indítanak",
+        "txtlength": 20854
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kultura/2022/02/10/will-smith-portre-oscar-jeloles-richard-kiraly/",
+        "h1": "Will Smith kiállhatatlan sportapukaként juthat fel a filmvilág csúcsára",
+        "txtlength": 19414
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kulfold/2022/02/10/ukrajna-avgyijivka-katona-szakadar-donyeck-kozeleben-frontvonal",
+        "h1": "Helyszíni riport: Ott jártunk, ahol az ukrán hadsereg farkasszemet néz a szakadárokkal",
+        "txtlength": 16943
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/elet/20220210_Tanacs_Eszter_Ferfiak_gyermek_nelkul_konyv_interju",
+        "h1": "Nem ér véget az élet, ha valakinek nincs gyereke, akkor sem, hogyha szeretett volna",
+        "txtlength": 15402
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/szorakozas/2022/02/10/book-of-boba-fett-evadzaro-mandalorian-disney-star-wars",
+        "h1": "A végére sikerült megmenteni a Boba Fett-sorozatot a teljes csődtől",
+        "txtlength": 13155
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/02/11/nyomoznak-a-keleti-vakcinak-engedelyezese-ugyeben",
+        "h1": "Nyomoznak a keleti vakcinák engedélyezése ügyében",
+        "txtlength": 11877
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/02/10/ujabb-harom-partot-jegyzett-be-a-valasztasi-bizottsag-harmat-viszont-visszautasitott",
+        "h1": "Újabb három pártot jegyzett be a választási bizottság, hármat viszont visszautasított",
+        "txtlength": 11848
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/gazdasag/20220211_inflacio_dragulas_arak",
+        "h1": "Még tovább nőtt, minden várakozásnál magasabb az infláció",
+        "txtlength": 11186
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/eurologus/20220210_Pegasus_epp_tasz",
+        "h1": "Pegasus: ez lesz Európa következő Watergate-botránya?",
+        "txtlength": 10795
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/penz/csaladi-szja-adovisszaterites-befektetes/4yke5em?sl_ps=d_12",
+        "h1": "Így csinálhat még több pénzt a családi szja-visszatérítésből",
+        "txtlength": 10161
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/sarokhaz-baleset-utkozes-wesselenyi-pesterzsebet/x8beyqz?sl_ps=d_8",
+        "h1": "Mágnesként vonzza a baleseteket az elátkozott pesterzsébeti sarokház: „Ideje volna valakinek megvenni, mert az autósok lassacskán lebontják”",
+        "txtlength": 7621
+    },
+    {
+        "hostname": "nosalty.hu",
         "pagelink": "https://www.nosalty.hu/recept/lusta-asszony-sutije",
         "h1": "Lusta asszony sütije",
         "txtlength": 15312
