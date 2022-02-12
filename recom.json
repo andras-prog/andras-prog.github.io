@@ -1,6 +1,198 @@
 [
     {
         "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/paradicsomos-kaposzta",
+        "h1": "Paradicsomos káposzta",
+        "txtlength": 13522
+    },
+    {
+        "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/10-perces-tojasleves",
+        "h1": "10 perces tojásleves",
+        "txtlength": 10080
+    },
+    {
+        "hostname": "receptneked.hu",
+        "pagelink": "https://receptneked.hu/gyors/sajtos-baconos-csavart/",
+        "h1": "Sajtos-baconos csavart recept",
+        "txtlength": 3550
+    },
+    {
+        "hostname": "receptneked.hu",
+        "pagelink": "https://receptneked.hu/gyors/turos-lepenyke/",
+        "h1": "Túrós lepényke recept",
+        "txtlength": 3544
+    },
+    {
+        "hostname": "hataratkelo.blog.hu",
+        "pagelink": "https://hataratkelo.blog.hu/2022/02/08/vig_idoutazas_itthon_es_kulfoldon#c41207456",
+        "h1": "Víg időutazás itthon és külföldön",
+        "txtlength": 41494
+    },
+    {
+        "hostname": "kulturpart.hu",
+        "pagelink": "https://kulturpart.hu/2022/02/06/lenyugozo_fotokon_az_egyeni_szabadsag",
+        "h1": "LENYŰGÖZŐ FOTÓKON AZ EGYÉNI SZABADSÁG",
+        "txtlength": 7894
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220212_paivi_rasanen_finnorszag_keresztenyseg_interju",
+        "h1": "A szólás és a hit szabadsága becsületbeli ügyem – Päivi Räsänen finn exminiszter a Mandinernek",
+        "txtlength": 24809
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220210_gattyan_gyorgy_marki_zay_ellenzek_interju_mandiner",
+        "h1": "Az ellenzéktől válasz helyett csak támadások érkeztek – Gattyán György a Mandinernek",
+        "txtlength": 24295
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2022/02/12/amit-minden-eloleny-megtesz-magaert",
+        "h1": "AMIT MINDEN ÉLŐLÉNY MEGTESZ MAGÁÉRT",
+        "txtlength": 23797
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/tech/20220211/a-magyar-napelemek-mar-paksot-is-lepipaljak/",
+        "h1": "A magyar napelemek már Paksot is lepipálják",
+        "txtlength": 22882
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/penz/20220211/az-inflacio-elleni-harc-europaban-is-egyre-fontosabba-valik/",
+        "h1": "Az infláció elleni harc Európában is egyre fontosabbá válik",
+        "txtlength": 22637
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/uzlet/20220211/haborura-szamit-amerika-esnek-a-tozsdek-szarnyal-az-olaj-es-az-arany-526133",
+        "h1": "Háborúra számít Amerika, esnek a tőzsdék, szárnyal az olaj és az arany ",
+        "txtlength": 22404
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220209_magyar_ketfarku_kutya_part_kutyapart_valasztas_program_gazdasag_belfold_kovacs_gergely",
+        "h1": "Megszüntetik a pénzt, a betegségeket, befoltozzák az ózonlyukat – itt a Kutyapárt programja",
+        "txtlength": 21936
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/hitel/20220207/ketyeg-az-ora-aki-nem-siet-konnyen-lecsuszhat-az-ingyenmilliokrol-1121770",
+        "h1": "Ketyeg az óra: aki nem siet, könnyen lecsúszhat az ingyenmilliókról",
+        "txtlength": 18617
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/uzlet/20220211/eget-rengeto-csalas-jelent-meg-az-interneten-ne-dolj-be-neki-526181",
+        "h1": "Eget rengető csalás jelent meg az interneten, ne dőlj be neki!",
+        "txtlength": 17126
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/bank/20220211/lakas-es-hitellazban-eg-a-lakossag-az-mnb-fokozottan-figyel-525611",
+        "h1": "Lakás- és hitellázban ég a lakosság – az MNB fokozottan figyel",
+        "txtlength": 15199
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/karrier/20220211/oriasi-fegyvert-adott-a-magyar-dolgozok-kezebe-a-jarvany-ezzel-szorithatjak-sarokba-a-munkahelyeket-1121824",
+        "h1": "Óriási fegyvert adott a magyar dolgozók kezébe a járvány: ezzel szoríthatják sarokba a munkahelyeket",
+        "txtlength": 15109
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/utazas/magyarorszag-legjobb-helyei-tripadvisor-szerint/",
+        "h1": "Ezt a 10 dolgot imádják a turisták Magyarországon a Tripadvisor szerint: meglepő helyek is kerültek a listára",
+        "txtlength": 11885
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/szuloseg/gyerek-parkapcsolat-erzelem/",
+        "h1": "gyerek kapcsolat érzelem elhanyagoltság",
+        "txtlength": 10719
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://qubit.hu/2022/02/12/amit-minden-eloleny-megtesz-magaert",
+        "h1": "AMIT MINDEN ÉLŐLÉNY MEGTESZ MAGÁÉRT",
+        "txtlength": 23797
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/tech/2022/02/12/mi-ez-a-belter-mi-ez-a-fogyasztas",
+        "h1": "Mi ez a beltér, mi ez a fogyasztás?",
+        "txtlength": 18679
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/sport/2022/02/11/mtk-futball-sandor-karoly-akademia-utanpotlas",
+        "h1": "A magyar futballklubok nem mernek kockáztatni, ezért is látunk kevés fiatalt az NB I.-ben",
+        "txtlength": 18231
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/belfold/2022/02/11/otszemelyes-auto-havi-153-ezer-forintert-draga-vagy-olcso-a-tartos-berlet",
+        "h1": "Kinek érdemes elgondolkodnia a havidíjas autóbérlésen a saját autó helyett?",
+        "txtlength": 17152
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/tudomany/2022/02/11/metan-kornyezetvedelem-uveghazhatasu-gaz-globalis-felmelegedes-klimavaltozas-metanvallalas-olaj-gaz/",
+        "h1": "A szén-dioxidnál is veszélyesebb gáz szivárog Európában",
+        "txtlength": 16756
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/02/12/hetvegi-olvasnivalo-a-szavazatok-valtozo-erteketol-a-kinai-laborba-vezeto-rejtelyig",
+        "h1": "Hétvégi olvasnivaló a szavazatok változó értékétől a kínai laborba vezető rejtélyig",
+        "txtlength": 16575
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/kkv/20220211_tv2_iko_musorgyartas",
+        "h1": "Év eleje óta szerződés nélkül gyártatja mintegy 40 dolgozóval a TV2 hírműsorait a csatorna fő beszállítója",
+        "txtlength": 15963
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/tudomany/2022/02/12/koronavirus-hullam-halalozas-fertozes-jarvany/",
+        "h1": "Így halt meg 42 ezer ember Magyarországon",
+        "txtlength": 15910
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kulfold/2022/02/11/lengyelorszag-eu-bekules/",
+        "h1": "Most már inkább békülnének a lengyelek az unióval, de csak nem jön össze",
+        "txtlength": 13929
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/elet/20220211_Arulo_vagy_peldakep_Eileen_Gu_peking_teli_olimpia",
+        "h1": "Áruló vagy példakép? – Így került egy 18 éves lány az amerikai-kínai feszültség kereszttüzébe",
+        "txtlength": 13107
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/politika/kampanyindito-orban-viktor-marki-zay-peter-gyurcsany-ferenc-fidesz-osszefogas-jobbik/wqh5r4s?sl_ps=d_9",
+        "h1": "50 nap múlva választunk: így látják a közelgő kampányt olvasóink és a szakértő",
+        "txtlength": 11200
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/vilag/20220211_A_szemunk_lattara_esik_szet_a_Nyugat_egysege",
+        "h1": "A szemünk láttára esik szét a Nyugat egysége",
+        "txtlength": 11022
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/okay-csucstarto-kutya-pecel-elles/cjpfpye",
+        "h1": "Okay a magyar csúcstartó kutya: húsz kölyköt ellett a péceli kennelben",
+        "txtlength": 8749
+    },
+    {
+        "hostname": "nosalty.hu",
         "pagelink": "https://www.nosalty.hu/recept/turogomboc-3",
         "h1": "Túrógombóc 3.",
         "txtlength": 14996
