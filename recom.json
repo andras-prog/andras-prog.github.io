@@ -1,5 +1,197 @@
 [
     {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/sziv-alaku-mousse-torta-tukorglazurral.recept",
+        "h1": "SZÍV ALAKÚ MOUSSE TORTA TÜKÖRGLAZÚRRAL",
+        "txtlength": 14569
+    },
+    {
+        "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/edes-borsoleves-galuskaval",
+        "h1": "Édes borsóleves galuskával",
+        "txtlength": 13271
+    },
+    {
+        "hostname": "receptneked.hu",
+        "pagelink": "https://receptneked.hu/gyors/tojas-fasirt/",
+        "h1": "Tojásfasírt recept",
+        "txtlength": 3502
+    },
+    {
+        "hostname": "receptneked.hu",
+        "pagelink": "https://receptneked.hu/gyors/tokos-tocsni/",
+        "h1": "Tökös tócsni recept",
+        "txtlength": 3490
+    },
+    {
+        "hostname": "hataratkelo.blog.hu",
+        "pagelink": "https://hataratkelo.blog.hu/2022/01/30/amerikai_tukor_modern_gyermekneveles_es_a_titokzatos_olivia#c41209902",
+        "h1": "Amerikai tükör: modern gyermeknevelés és a titokzatos Olivia",
+        "txtlength": 53203
+    },
+    {
+        "hostname": "kulturpart.hu",
+        "pagelink": "https://kulturpart.blog.hu/2022/02/04/lojzi_lett_az_artisjus_elnoke",
+        "h1": "LOJZI LETT AZ ARTISJUS ELNÖKE",
+        "txtlength": 5951
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vallalat/20220213/gattyan-es-az-allam-milliardjai-egyutt-egnek-el-a-teqballban/",
+        "h1": "Gattyán és az állam milliárdjai együtt égnek el a teqballban",
+        "txtlength": 33093
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220209_szijjarto_peter_interju_ukrajna_oroszorszag_valasztas",
+        "h1": "Nem kell világcsendőrt játszani! – Szijjártó Péter a Mandinernek",
+        "txtlength": 29893
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220212_belfold_orban_viktor_evertekelo_video_elo_mandiner",
+        "h1": "Orbán Viktor: Gyurcsány és Bajnai készül vissza a hatalomba",
+        "txtlength": 28122
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/nyugdij/20220210/ez-az-igazi-nyugdijkatasztrofa-lesujto-adatok-lattak-napvilagot-a-magyar-idosekrol-1121783",
+        "h1": "Ez az igazi nyugdíjkatasztrófa: lesújtó adatok láttak napvilágot a magyar idősekről",
+        "txtlength": 22662
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220212_melyulo_drama_a_szemunk_elott_360_millio_keresztenyt_uldoznek_a_hite_miatt_vilagszerte",
+        "h1": "Mélyülő dráma a szemünk előtt: 360 millió keresztényt üldöznek a hite miatt világszerte",
+        "txtlength": 21683
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/hitel/20220210/elerkezett-amitol-a-bankok-ugyfelei-tartottak-brutalisan-megdragultak-ezek-a-hitelek-1121875",
+        "h1": "Elérkezett, amitől a bankok ügyfelei tartottak: brutálisan megdrágultak ezek a hitelek",
+        "txtlength": 20805
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/unios-forrasok/20220212/fejlodesi-csapdaban-vergodik-magyarorszag-es-a-regio-nagy-resze-de-latszik-kiut-526387",
+        "h1": "Fejlődési csapdában vergődik Magyarország és a régió nagy része, de látszik kiút",
+        "txtlength": 20232
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/penz/20220212/megy-tovabb-az-orulet-most-emojikert-fizetnek-tizmilliokat/",
+        "h1": "Megy tovább az őrület, most emojikért fizetnek tízmilliókat",
+        "txtlength": 18335
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20220212/menekulnek-a-magyar-egeszsegugybol-a-dolgozok-exkluziv-adatokat-kaptunk-525805",
+        "h1": "Menekülnek a magyar egészségügyből a dolgozók? Exkluzív adatokat kaptunk!",
+        "txtlength": 16546
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/uzlet/20220212/orulet-ugy-dragitjak-a-steaket-ahogy-akarjak-mi-megis-megvesszuk-525647",
+        "h1": "Őrület: úgy drágítják a steaket, ahogy akarják, mi mégis megvesszük",
+        "txtlength": 16004
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2022/02/13/piszoar-vagy-szokokut-marcel-duchamp-online-hagyatekabol-talan-meg-ez-is-kiderul",
+        "h1": "PISZOÁR VAGY SZÖKŐKÚT? MARCEL DUCHAMP ONLINE HAGYATÉKÁBÓL TALÁN MÉG EZ IS KIDERÜL",
+        "txtlength": 13066
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/egeszseg/rakos-betegnek-ne-mondd/",
+        "h1": "5 dolog, amit egy daganatos beteg soha nem akar hallani: mellrákos nők mondák el",
+        "txtlength": 12006
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/szuloseg/mergezo-szulo-gyerek-nevel/",
+        "h1": "mérgező szülő gyerek nevel",
+        "txtlength": 10792
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kultura/2022/02/13/v-kulcsar-ildiko-matine-konyvajanlo-ecet-es-mez/",
+        "h1": "Koktélokkal itatta le egymást három nő Füreden",
+        "txtlength": 26732
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kultura/2022/02/12/mozdulatlan-vadallatok-kozteri-szobrok-oroszlan-elefant-heti-fortepan/",
+        "h1": "Mozdulatlan vadállatok lesnek ránk, de mi is szemmel tartjuk őket",
+        "txtlength": 22003
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20220212_valasztas_kerdes_valasz",
+        "h1": "Megint jönnek, kopogtatnak: minden, amit a következő néhány hétről tudni kell",
+        "txtlength": 18359
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kulfold/2022/02/13/allison-fluke-ekren-iszlam-allam-terrorizmus-nok-khatiba-nusaybah/",
+        "h1": "Amerikai biológiatanárból lett az Iszlám Állam egyik első női brigádjának vezére",
+        "txtlength": 16888
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kulfold/2022/02/13/izrael-iran-nuklearis-megallapodas-atom-legicsapas",
+        "h1": "Miközben minden szem Ukrajnára tapad, Izrael már az iráni nukleáris létesítmények elleni csapásokat mérlegeli",
+        "txtlength": 16121
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/02/12/orban-tobbszor-mondta-ki-hogy-gyurcsany-es-bajnai-mint-valaha",
+        "h1": "Orbán többször mondta ki, hogy \"Gyurcsány\" és \"Bajnai\", mint valaha",
+        "txtlength": 15858
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/02/12/ukrajnai-valsag-putyin-a-nagyhatalmak-vezetoivel-egyeztet-egyre-tobb-orszag-szolitja-fel-allampolgarait-ukrajna-elhagyasara",
+        "h1": "Ukrajnai válság: Putyin a nagyhatalmak vezetőivel egyeztet, egyre több ország szólítja fel állampolgárait Ukrajna elhagyására",
+        "txtlength": 13379
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/gazdasag/20220213_Es_akkor_inflacio_penzosztas_vb_streaming_chip_mav_tv2",
+        "h1": "És akkor az egekben lévő infláció mellé érkezik minden idők legnagyobb pénzosztása",
+        "txtlength": 12626
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/sport/2022/02/13/ufc-mma-houston-adesanya-whittaker-cannonier-brunson-tuivasa-lewis-konyokutes-ko",
+        "h1": "Nemcsak a bosszú, a herevédőből való vedelés is elmaradt",
+        "txtlength": 11909
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/sport/2022/02/13/super-bowl-los-angeles-rams-sofi-stadium-5-milliard-dollar",
+        "h1": "1700 milliárd forintos stadionnal alkották meg az utánozhatatlant",
+        "txtlength": 11250
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20220212_Orban_evertekelo_osszefoglalo",
+        "h1": "Orbán évértékelője: \"Ha fegyver van a közelben, jobb, ha a mi kezünkben van\"",
+        "txtlength": 9002
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/ingatlanos-balhe-csalas-eloleg-ugyved/bxl4w9s?sl_ps=d_5",
+        "h1": "Újabb ingatlanos balhé: az előleges lehúzás – Az ügyvéd ügyfélként jelentkezett be náluk, nagyon furcsa dolgokat talált",
+        "txtlength": 8766
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/penz/mobilcsere-program-tamogatas/ve9pvh3",
+        "h1": "Mobilcsere állami pénzből! Így kaphatja meg hétfőtől a támogatást",
+        "txtlength": 8673
+    },
+    {
         "hostname": "nosalty.hu",
         "pagelink": "https://www.nosalty.hu/recept/paradicsomos-kaposzta",
         "h1": "Paradicsomos káposzta",
