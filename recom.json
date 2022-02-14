@@ -1,5 +1,191 @@
 [
     {
+        "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/rakott-karfiol",
+        "h1": "Rakott karfiol",
+        "txtlength": 12826
+    },
+    {
+        "hostname": "receptneked.hu",
+        "pagelink": "https://receptneked.hu/gyors/krumplispogacsa/",
+        "h1": "Krumplis pogácsa recept",
+        "txtlength": 3333
+    },
+    {
+        "hostname": "kiszamolo.hu",
+        "pagelink": "https://kiszamolo.hu/az-1929-es-valsag-es-a-tozsde/",
+        "h1": "Az 1929-es válság és a tőzsde",
+        "txtlength": 42395
+    },
+    {
+        "hostname": "efesasanisimasa.com",
+        "pagelink": "https://efesasanisimasa.com/2022/02/11/eltorolni-frankot-erasing-frank-2021/",
+        "h1": "Eltörölni Frankot (Erasing Frank, 2021)",
+        "txtlength": 11339
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220213_foldi_kovacs_andrea_keresztenyseg_vedett_tarsadalom_alapitvany_ngo_soros_gyorgy",
+        "h1": "„Akik szerint nincs keresztény Európa, azok a jelenkor júdásai!” – Földi-Kovács Andrea a Mandinernek",
+        "txtlength": 26329
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220213_konnyu_meccs_frank_walter_steinmeier_folytatja_nemetorszag_elnokekent",
+        "h1": "Könnyű meccs: Frank-Walter Steinmeier folytatja Németország elnökeként",
+        "txtlength": 25337
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/befektetes/20220213/millios-jegyarak-milliardos-reklamidok-ezermilliardos-stadion-itt-a-super-bowl-525271",
+        "h1": "Milliós jegyárak, milliárdos reklámidők, ezermilliárdos stadion - itt a Super Bowl!",
+        "txtlength": 24826
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://sport.mandiner.hu/cikk/20220213_a_liu_testverek_es_krueger_az_ermekert_hajt_vasarnap_500_meteren_elo_kozvetites",
+        "h1": "Liu Shaoang olimpiai bajnok 500 méteren – videó a történelmi döntőről",
+        "txtlength": 23604
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vallalat/20220214/a-meszaros-fele-alapokat-gazdagitja-a-magyar-cegek-profitjanak-6-szazaleka/",
+        "h1": "A Mészáros-féle alapokat gazdagítja a magyar cégek profitjának 6 százaléka",
+        "txtlength": 22976
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/vallalkozas/20220213/ehesek-maradtak-az-rtl-klub-capai-ilyen-sem-nagyon-volt-meg-a-capak-kozott-torteneteben-1121825",
+        "h1": "Éhesek maradtak az RTL Klub Cápái: ilyen sem nagyon volt még a Cápák között történetében",
+        "txtlength": 20629
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2022/02/14/kozossegi-koltsegvetes-mi-lenne-ha-maguk-a-budapestiek-mondanak-meg-mire-koltse-a-penzt-a-fovaros",
+        "h1": "KÖZÖSSÉGI KÖLTSÉGVETÉS: MI LENNE, HA MAGUK A BUDAPESTIEK MONDANÁK MEG, MIRE KÖLTSE A PÉNZT A FŐVÁROS?",
+        "txtlength": 20617
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vilag/20220213/elavult-torekeny-gazdasagra-tamaszkodva-nez-szembe-az-orosz-fenyegetessel-ukrajna/",
+        "h1": "Elavult, törékeny gazdaságra támaszkodva néz szembe az orosz fenyegetéssel Ukrajna",
+        "txtlength": 20262
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/otthon/20220210/kiderult-az-igazsag-a-budapesti-alberlet-horrorrol-a-legtobb-ember-ezzel-biztosan-nem-szamol-1121860",
+        "h1": "Kiderült az igazság a budapesti albérlet-horrorról: a legtöbb ember ezzel biztosan nem számol",
+        "txtlength": 19281
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/global/20220213/a-romba-dolt-paranyi-orszag-amelynek-szep-csendben-elon-musk-es-kina-is-a-megmentesere-sietett-526309",
+        "h1": "A romba dőlt parányi ország, amelynek szép csendben Elon Musk és Kína is a megmentésére sietett",
+        "txtlength": 17905
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20220214/a-legrosszabb-forgatokonyveket-is-atirja-a-megdobbento-inflacio-erre-az-mnb-nek-is-lepnie-kell-526337",
+        "h1": "A legrosszabb forgatókönyveket is átírja a megdöbbentő infláció, erre az MNB-nek is lépnie kell",
+        "txtlength": 13972
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/otthon/megeri-rossz-allapotu-ingatlant-venni/",
+        "h1": "Ráfarag, vagy nagyot nyer, aki lepukkant lakást vásárol magának? Az ingatlanszakértő őszinte véleménye",
+        "txtlength": 11173
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/szuloseg/poliamor-csalad-tobbszerelmuseg/",
+        "h1": "poliamor család többszerelműség",
+        "txtlength": 11008
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/testem/stressz-babavaras/",
+        "h1": "4 módszer, ami csökkenti a stresszt, ha nem jön a várva várt baba",
+        "txtlength": 10313
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/belfold/2022/02/14/jogallamisagi-mechanizmus-eu-birosag-dontes-level-ujabb-pereket-keszithet-elo-orban-viktor",
+        "h1": "Ha el is bukja a jogállamisági pert, Orbán már javában a következő ütközetre készül",
+        "txtlength": 40103
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/tldr/2022/02/14/tiz-nagyon-fontos-parharc",
+        "h1": "Tíz nagyon fontos párharc",
+        "txtlength": 24369
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/02/13/kim-stanley-robinson-nem-igaz-hogy-az-ember-barmihez-kepes-alkalmazkodni",
+        "h1": "Kim Stanley Robinson: Nem igaz, hogy az ember bármihez képes alkalmazkodni",
+        "txtlength": 23637
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/tudomany/20220214_horizon_forbidden_west_playstation_5_ps5_kritika_velemeny_teszt_jatekteszt_guerrilla_games",
+        "h1": "És akkor mindent elözönlött a gaz meg a robotok – itt az év egyik legjobban várt játéka, a Horizon Forbidden West",
+        "txtlength": 17328
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/tech/2022/02/13/mar-nepszerubbek-mint-a-dizelek-de-ugyanugy-csalnak-a-plug-in-hibridekkel-a-gyartok",
+        "h1": "Dömperek zöld rendszámmal, avagy miért átverés a plug-in hibrid autó",
+        "txtlength": 15586
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2022/02/14/belvaros-polgarmester-naphegy-lakas-vagyonnyilatkozat/",
+        "h1": "Rogán utódja budai lakást vett, amit gyorsan lepasszolt – több tízmillió forint viszont homályban maradt",
+        "txtlength": 15356
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2022/02/14/csatater-22-oroshaza-bekes-erdos-norbert-fidesz-jelolt-allamtitkar/",
+        "h1": "Erdős Norbert: Simonka büntetőügye miatt sokan elpártoltak a Fidesztől, ezen dolgozni kell",
+        "txtlength": 13940
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20220213_marki_zay_peter_partizan_interju",
+        "h1": "Az életét tenné arra Márki-Zay Péter, hogy az ellenzék megnyeri a választást",
+        "txtlength": 13483
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/tudomany/2022/02/13/halalos-virus-nipah-banglades-denever/",
+        "h1": "Halálos vírust állíthatnak meg magyar kutatók",
+        "txtlength": 12680
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/gazdasag/2022/02/13/koronavirus-oktatas-szegenyseg-hatranyos-helyzet",
+        "h1": "Évtizedekre visszavethetik a diákok várható fizetését a koronavírus miatti iskolabezárások",
+        "txtlength": 10782
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/vilag/20220213_Ukrajna_elemzok_Kijev_Oroszorszag_tamadas_haboru",
+        "h1": "Ukrán elemzők: nem érné meg Oroszországnak megszállni Kijevet",
+        "txtlength": 9341
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/mammut-2-lezuhant-asszony-szemtanuk-segitok/38py9qm?sl_ps=d_4",
+        "h1": "Döbbenetes részletek, megszólalt a szemtanú: így zuhant a halálba a Mammut 2 negyedik emeletéről az idős asszony – A vásárlók felváltva küzdöttek a az életéért",
+        "txtlength": 7868
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/blikk-tv/sztarvilag/vasary-andre-tandi-flora-duett-love-is-love-elhunyt-edesapjanak-ajanlja/bgrygxb",
+        "h1": "Elhunyt édesapjának ajánlja új albumát Tandi Flóra – Vásáry Andréval így duetteznek – videó",
+        "txtlength": 6968
+    },
+    {
         "hostname": "mindmegette.hu",
         "pagelink": "https://www.mindmegette.hu/sziv-alaku-mousse-torta-tukorglazurral.recept",
         "h1": "SZÍV ALAKÚ MOUSSE TORTA TÜKÖRGLAZÚRRAL",
