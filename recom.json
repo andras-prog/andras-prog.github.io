@@ -1,6 +1,192 @@
 [
     {
         "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/sult-oldalas-ahogy-nagyanyaink-keszitettek",
+        "h1": "Sült oldalas, ahogy nagyanyáink készítették",
+        "txtlength": 12504
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/szalagos-farsangi-fank-vegan-recept.recept",
+        "h1": "SZALAGOS FARSANGI FÁNK (VEGÁN RECEPT)",
+        "txtlength": 10975
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/kaposztas-pontyleves.recept",
+        "h1": "KÁPOSZTÁS PONTYLEVES",
+        "txtlength": 10576
+    },
+    {
+        "hostname": "kiszamolo.hu",
+        "pagelink": "https://kiszamolo.hu/amikor-mar-a-cipopucolo-fiu-is-reszvenytippeket-osztogatott/",
+        "h1": "Amikor már a cipőpucoló fiú is részvénytippeket osztogatott",
+        "txtlength": 40948
+    },
+    {
+        "hostname": "kulturpart.hu",
+        "pagelink": "https://kulturpart.blog.hu/2022/02/14/boldog_szuletesnapot_kurtag_gyorgy_177",
+        "h1": "BOLDOG SZÜLETÉSNAPOT KURTÁG GYÖRGY!",
+        "txtlength": 7665
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220103_ne_sarozzak_be_ezt_az_orvosszakmai_csodat_dr_pataki_gergely_plasztikai_sebesz_a_mandinernek",
+        "h1": "Ne sározzák be ezt az orvosszakmai csodát! – dr. Pataki Gergely plasztikai sebész a Mandinernek",
+        "txtlength": 28195
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/vasarlas/20220213/kokemeny-dragulas-var-a-magyar-nyugdijasokra-csaladokra-tavasszal-nem-lassit-az-inflacio-1121931",
+        "h1": "Kőkemény drágulás vár a magyar nyugdíjasokra, családokra tavasszal: nem lassít az infláció?",
+        "txtlength": 25633
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/kozelet/20220214/szaz-szazalekban-megujulo-energiat-hasznalni-nem-vagyalom-hanem-maga-az-ut/",
+        "h1": "Száz százalékban megújuló energiát használni nem vágyálom, hanem maga az út",
+        "txtlength": 25402
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://sport.mandiner.hu/cikk/20220214_liu_shaoang_ez_a_gyozelem_a_kozos_sikerunk_a_batyammal_sanyival",
+        "h1": "Liu Shaoang a Mandinernek: Ez a győzelem a közös sikerünk a bátyámmal, Sanyival",
+        "txtlength": 24691
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vallalat/20220215/veszelyes-iranyba-indult-el-az-utobbi-honapokban-a-magyar-gazdasag/",
+        "h1": "Veszélyes irányba indult el az utóbbi hónapokban a magyar gazdaság",
+        "txtlength": 24328
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220209_kulfold_amerika_usa_joe_rogan_portre",
+        "h1": "Amerika új hangja – Joe Rogan portréja",
+        "txtlength": 20712
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/bank/20220214/mit-muvel-a-magyar-lakaspiac-eu-s-figyelmeztetest-kapott-magyarorszag-526669",
+        "h1": "Mit művel a magyar lakáspiac? EU-s figyelmeztetést kapott Magyarország",
+        "txtlength": 19712
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/egeszseg/20220211/akar-felmilliot-is-kereshetsz-itthon-a-vereddel-teljesen-legalis-rengetegen-csinaljak-1121885",
+        "h1": "Akár félmilliót is kereshetsz itthon a véreddel: teljesen legális, rengetegen csinálják",
+        "txtlength": 15919
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/uzlet/20220214/kuszobon-az-orosz-ukran-haboru-megremegtek-a-tozsdek-526577",
+        "h1": "Küszöbön az orosz-ukrán háború, megremegtek a tőzsdék",
+        "txtlength": 15652
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/global/20220215/kirobban-holnap-a-haboru-itt-van-minden-amit-tudni-kell-a-lehetseges-orosz-tamadasrol-526751",
+        "h1": "Kirobban holnap a háború? Itt van minden, amit tudni kell a lehetséges orosz támadásról",
+        "txtlength": 15372
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/szuloseg/izland-vizelet-capa-magyar-no-zuhany/",
+        "h1": "Izland vizelet cápahús magyar nő zuhany",
+        "txtlength": 12366
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/utazas/budapesti-botlatokovek/",
+        "h1": "Szomorú sorsokról mesélnek az utcai botlatókövek: elhurcolt, meggyilkolt embereknek állítanak emléket",
+        "txtlength": 10863
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2022/02/15/az-adovisszaterites-draga-rosszul-celzott-es-nem-segiti-a-gazdasagi-stabilizaciot",
+        "h1": "AZ ADÓVISSZATÉRÍTÉS DRÁGA, ROSSZUL CÉLZOTT ÉS NEM SEGÍTI A GAZDASÁGI STABILIZÁCIÓT",
+        "txtlength": 9442
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/english/2022/02/15/orban-viktor-european-commission-court-decision",
+        "h1": "Orbán already preparing steps for after ECJ ruling",
+        "txtlength": 24275
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/02/14/bezarult-az-orosz-katonai-gyuru-ukrajna-korul-zelenszkij-haborus-szozatot-intezett-a-nemzethez",
+        "h1": "Bezárult az orosz katonai gyűrű Ukrajna körül, Zelenszkij háborús szózatot intézett a nemzethez",
+        "txtlength": 15927
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/02/14/az-allasom-elvesztesetol-nem-felek-mert-elmegyek-barmelyik-lidlbe-vagy-aldiba-es-haromszor-ennyit-keresek",
+        "h1": "„Az állásom elvesztésétől nem félek, mert elmegyek bármelyik Lidlbe vagy Aldiba, és háromszor ennyit keresek”",
+        "txtlength": 15600
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/szorakozas/2022/02/14/horizon-forbidden-west-kritika-ps5",
+        "h1": "Gépállatok, vademberek, de jó újra veletek",
+        "txtlength": 14603
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/gazdasag/20220215_gdp_2021_novekedes",
+        "h1": "7,1 százalékkal nőtt a GDP 2021-ben",
+        "txtlength": 12304
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/kultura/20220214_hobo_koncert_arena_77",
+        "h1": "Viccnek kicsit erős: Hobo megidézte Schmuck Andort, aki megjelent egy tortával",
+        "txtlength": 11915
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/vilag/20220214_ukrajna_usa_oroszorszag_feszultseg",
+        "h1": "Önbeteljesítő jóslat, vagy a béke kulcsa az agresszív amerikai háborús retorika?",
+        "txtlength": 11799
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/farkas-bukk-vadaszat-orvvadaszat-illegalis-nemzeti-park/5hvb090",
+        "h1": "Gímbikát marcangoltak szét farkasok a Mátrában, miközben védett példányok kilövése miatt nyomozás indult",
+        "txtlength": 11347
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2022/02/15/nagy-adam-budai-villa-rogan-antal-selley-zoltan/",
+        "h1": "Budai villája mellett Rogán volt jegyzőjétől vett plusz telket Rogán kabinetfőnökének családja",
+        "txtlength": 11337
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/valasztas-2022/2022/02/15/ha-a-facebookon-mulna-a-valasztokeruletek-ketharmadat-vinne-a-fidesz",
+        "h1": "Ha a Facebookon múlna, a választókerületek kétharmadát vinné a Fidesz",
+        "txtlength": 10975
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2022/02/14/szex-szerelem-idosek-nyugdij-tanc/",
+        "h1": "„Már csak háromhetente egyszer, de az gyönyörű!”",
+        "txtlength": 10108
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2022/02/14/zavecz-harom-szazalekponttal-vezet-a-fidesz-az-ellenzek-elott/",
+        "h1": "Závecz: Három százalékponttal vezet a Fidesz az ellenzék előtt",
+        "txtlength": 9619
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/muanyaghulladek-tamasi-feldolgozas-elmaradasa-nyomozas-kormanyhivatal/t5glq1h",
+        "h1": "Botrányos! Az adófizetők pénzén szállítják el azt a hulladékhegyet, amit egy cég halmozott fel Tamásiban: az olaszoktól hozták be a szemetet",
+        "txtlength": 8540
+    },
+    {
+        "hostname": "nosalty.hu",
         "pagelink": "https://www.nosalty.hu/recept/rakott-karfiol",
         "h1": "Rakott karfiol",
         "txtlength": 12826
