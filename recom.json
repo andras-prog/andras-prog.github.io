@@ -1,6 +1,180 @@
 [
     {
         "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/bogreben-sult-suti-5-perc-alatt",
+        "h1": "Bögrében sült süti 5 perc alatt",
+        "txtlength": 12373
+    },
+    {
+        "hostname": "kiszamolo.hu",
+        "pagelink": "https://kiszamolo.hu/heti-gazdasagi-hirek-roviden-4/",
+        "h1": "Heti gazdasági hírek röviden",
+        "txtlength": 36531
+    },
+    {
+        "hostname": "kulturpart.hu",
+        "pagelink": "https://kulturpart.blog.hu/2022/02/15/az_indian_aki_szavatol_a_lady_biztonsagaert",
+        "h1": "AZ INDIÁN, AKI SZAVATOL A LADY BIZTONSÁGÁÉRT",
+        "txtlength": 15896
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220212_ratoti_szfe_rektor",
+        "h1": "Az kételkedik a párbeszédben, akinek érdeke az ellenállás fenntartása – Rátóti Zoltán a Mandinernek",
+        "txtlength": 24603
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/kozelet/20220216/mi-az-amit-az-atom-tud-a-megujulok-nem/",
+        "h1": "Mi az, amit az atom tud, a megújulók nem?",
+        "txtlength": 24331
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220209_precedens_alaptorveny_alkotmany_baloldal",
+        "h1": "Idegenlégiósok a Donáti utcában – ellenzéki tervek az Alkotmánybírósággal",
+        "txtlength": 23293
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vilag/20220215/korai-meg-fellelegezni-az-oroszok-a-megtevesztes-mesterei-hatramenetbol-is-tamadtak-mar/",
+        "h1": "Korai még fellélegezni, az oroszok a megtévesztés mesterei, hátramenetből is támadtak már",
+        "txtlength": 19193
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/gazdasag/20220215/jogosult-vagy-de-nem-kaptal-szja-visszateritest-nincs-minden-veszve-igy-szol-pontosan-a-rendelet-1122017",
+        "h1": "Jogosult vagy, de nem kaptál szja-visszatérítést? Nincs minden veszve, így szól pontosan a rendelet",
+        "txtlength": 18892
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/gazdasag/20220213/atyaeg-ennyiert-arulja-birtokat-lagzi-lajcsi-miert-igy-adja-el-a-mulatoslegenda-1121894",
+        "h1": "Atyaég! Ennyiért árulja birtokát Lagzi Lajcsi: miért így adja el a mulatóslegenda?",
+        "txtlength": 18874
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2022/02/16/orosz-csapatok-az-ukran-hatarnal-putyin-szerint-a-nyugat-atvagta-moszkvat",
+        "h1": "OROSZ CSAPATOK AZ UKRÁN HATÁRNÁL: PUTYIN SZERINT A NYUGAT ÁTVÁGTA MOSZKVÁT",
+        "txtlength": 18863
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://precedens.mandiner.hu/cikk/20220216_europai_birosag_jogallamisagi_mechanizmus_eu_magyarorszag_lengyelorszag_itelet",
+        "h1": "Európai Bíróság: jogszerű a jogállamisági mechanizmus",
+        "txtlength": 18266
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/befektetes/20220215/ha-ez-bejon-nagyon-csunya-eses-johet-a-tozsdeken-526683",
+        "h1": "Ha ez bejön, nagyon csúnya esés jöhet a tőzsdéken",
+        "txtlength": 16522
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/global/20220216/vlagyimir-putyinnak-erdemes-ketszer-is-meggondolni-egy-ukrajna-elleni-tamadast-526961",
+        "h1": "Vlagyimir Putyinnak érdemes kétszer is meggondolni egy Ukrajna elleni támadást",
+        "txtlength": 16400
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/uzlet/20220216/mekkora-utest-kaphatnak-a-tozsdek-ha-megis-haboru-lesz-ukrajnaban-526817",
+        "h1": "Mekkora ütést kaphatnak a tőzsdék, ha mégis háború lesz Ukrajnában?",
+        "txtlength": 15584
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/lajfhekk/tobb-bongeszoful-karos/",
+        "h1": "Miért rossz az, ha egyszerre több böngészőfülben dolgozol?",
+        "txtlength": 13788
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/egeszseg/tippek-sobevitel-csokkentesere/",
+        "h1": "Kétszer annyit esznek belőle a magyarok, mint kellene: tippek a sóbevitel csökkentésére",
+        "txtlength": 13293
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/02/16/egyhazak-a-politika-fogsagaban-a-liberalis-demokracia-kereszteny-alapjai",
+        "h1": "Egyházak a politika fogságában: a liberális demokrácia keresztény alapjai",
+        "txtlength": 28813
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/02/16/elvesztette-a-magyar-kormany-az-eu-elleni-legfontosabb-peret",
+        "h1": "Elvesztette a magyar kormány az EU elleni legfontosabb perét",
+        "txtlength": 21737
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2022/02/16/oltas-oltatlanok-vakcina-koronavirus/",
+        "h1": "„Le vagyunk baszva, hogy mit kérdezősködünk” – oltatlanok mesélik el, miért utasítják el a vakcinát",
+        "txtlength": 20637
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kultura/2022/02/15/kirsten-dunst-a-kutya-karmai-kozt-film-pokember-interju-a-vampirral-oscar/",
+        "h1": "Itt az ideje felismerni, hogy Kirsten Dunst sokkal több egy szuperhős barátnőjénél",
+        "txtlength": 18971
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/belfold/2022/02/16/foglalkozasa-kommentelo",
+        "h1": "Foglalkozása: kommentelő",
+        "txtlength": 18423
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/velemeny/2022/02/16/ferto-to-toparti-ner-beruhazasok-vita-hazug-abrandok-a-ferto-tonal",
+        "h1": "Hazug ábrándok a Fertő tónál",
+        "txtlength": 16727
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20220215_Felmillional_tobb_szavazonak_nem_lesz_egyenlo_valasztojoga",
+        "h1": "Április 3-án félmilliónál több választónak kevesebbet ér a szavazata, mint a többieknek",
+        "txtlength": 16062
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/eszkombajn/2022/02/15/link-wray-indian-rock-and-roll-eszkombajn",
+        "h1": "Az indián Elvis Presley nélkül ma teljesen másként szólna a rockzene",
+        "txtlength": 15308
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kulfold/2022/02/15/putyin-oroszorszag-ukrajna-tamadas-haboru-forgatokonyvek/",
+        "h1": "Ha Putyin támadni akar, mielőbb támadnia is kell",
+        "txtlength": 13701
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/elet/20220215_Almok_almodoi_Millenaris",
+        "h1": "Karikó Katalinra kíváncsiak a leginkább a gyerekek, pedig a Marson is sétálhatnak",
+        "txtlength": 12177
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20220216_Kinek_az_erdeket_szolgaljak_a_kispartok",
+        "h1": "A régi kamupártok helyett új formációk támadnak új módszerekkel",
+        "txtlength": 10427
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/sztarvilag/filmklikk/monica-vitti-tvr-het-musor/he625b3",
+        "h1": "Éjfélkor indult útjára a gyönyör – Monica Vitti, az olasz film királynője",
+        "txtlength": 9441
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/csokay-andras-idegsebesz/zlws45g?sl_ps=d_6",
+        "h1": "Botrány a bangladesi ikrek műtétjén: kizárták Csókay doktor kulcsfontosságú emberét a műtétből",
+        "txtlength": 9074
+    },
+    {
+        "hostname": "nosalty.hu",
         "pagelink": "https://www.nosalty.hu/recept/sult-oldalas-ahogy-nagyanyaink-keszitettek",
         "h1": "Sült oldalas, ahogy nagyanyáink készítették",
         "txtlength": 12504
