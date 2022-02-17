@@ -1,6 +1,186 @@
 [
     {
         "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/hentes-tokany",
+        "h1": "Hentes tokány",
+        "txtlength": 11727
+    },
+    {
+        "hostname": "kiszamolo.hu",
+        "pagelink": "https://kiszamolo.hu/hogyan-keresnel-egy-masik-munkahelyen/",
+        "h1": "Hogyan keresnél egy másik munkahelyen?",
+        "txtlength": 41951
+    },
+    {
+        "hostname": "efesasanisimasa.com",
+        "pagelink": "https://efesasanisimasa.com/2022/02/14/az-a-nap-a-tengerparton-on-chesil-beach-2017/",
+        "h1": "Az a nap a tengerparton (On Chesil Beach, 2017)",
+        "txtlength": 9618
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/ingatlan/20220217/forrong-a-vilag-es-a-magyar-ingatlanpiac-is-nem-kell-aggodni-de-csodakat-se-varjunk-2022-tol-526991",
+        "h1": "Forrong a világ és a magyar ingatlanpiac is: „Nem kell aggódni, de csodákat se várjunk 2022-től”",
+        "txtlength": 24423
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2022/02/17/kerlek-fekudj-hasra-velem-szemben-kussz-felem-mint-egy-katona",
+        "h1": "KÉRLEK, FEKÜDJ HASRA VELEM SZEMBEN! KÚSSZ FELÉM, MINT EGY KATONA!",
+        "txtlength": 22256
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vallalat/20220217/a-kormany-is-tamogatja-hogy-azsiai-vendegmunkasok-enyhitsek-a-munkaerohianyt/",
+        "h1": "A kormány is támogatja, hogy ázsiai vendégmunkások enyhítsék a munkaerőhiányt",
+        "txtlength": 21133
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220215_soros_aktak_dalibor_rohac_kimagyaraz_es_erzelmesen_tamad",
+        "h1": "Soros-akták: Dalibor Rohac kimagyaráz és érzelmesen támad",
+        "txtlength": 19932
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/vasarlas/20220214/kokemeny-dragulas-sujtja-iden-az-idoseket-valsagos-helyzetben-a-magyar-nyugdijasok-1121969",
+        "h1": "Kökemény drágulás sújtja idén az időseket: válságos helyzetben a magyar nyugdíjasok",
+        "txtlength": 19901
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20220217/rado-peter-nagy-bajban-leszunk-ha-a-gyerekeinket-tulhajszolt-alulfizetett-tanarok-tanitjak-526857",
+        "h1": "Radó Péter: Nagy bajban leszünk, ha a gyerekeinket túlhajszolt, alulfizetett tanárok tanítják",
+        "txtlength": 19418
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/vasarlas/20220216/lelepleztuk-a-magyar-boltok-titkait-ezert-is-koltenek-rengetegen-tobbet-bevasarlaskor-1122051",
+        "h1": "Lelepleztük a magyar boltok titkait: ezért is költenek rengetegen többet bevásárláskor",
+        "txtlength": 18970
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vallalat/20220216/megkaptak-a-kegyelemdofest-a-magyar-benzinkutasok-tomeges-bezaras-johet/",
+        "h1": "Megkapták a kegyelemdöfést a magyar benzinkutasok, tömeges bezárás jöhet",
+        "txtlength": 17944
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220216_evertekelo_baloldal_jobboldal_elemzes_gyurcsany_ferenc_orban_viktor_tudositas",
+        "h1": "Évértékelők értékelője: Gyurcsány ripacs performansza, Orbán intellektuális beszéde",
+        "txtlength": 17830
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220216_woke_rasszizmus_kultura_haboru",
+        "h1": "Ellen kell állni az újmarxista ideológia térnyerésének",
+        "txtlength": 17760
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/global/20220217/leporolta-putyin-a-mestertervet-ami-het-eve-veget-vethetett-volna-a-verfurdonek-ukrajnaban-527063",
+        "h1": "Leporolta Putyin a mestertervet, ami hét éve véget vethetett volna a vérfürdőnek Ukrajnában",
+        "txtlength": 15469
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/szepseg/fenntarthato-ruhavasarlas/",
+        "h1": "Ezért mosd ki az új ruhát, mielőtt felvennéd: 6 dolog, amire figyelned kell a vásárlás során",
+        "txtlength": 12525
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/lajfhekk/tusszentes-egeszsegedre/",
+        "h1": "Mégis miért mondjuk azt, hogy egészségedre, amikor valaki tüsszent?",
+        "txtlength": 11631
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/testem/plus-size-pin-up-lanyok/",
+        "h1": "Gondoltad volna, hogy a pin-up címlaplányok korában is létezett plus size kategória?",
+        "txtlength": 10302
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://qubit.hu/2022/02/17/kerlek-fekudj-hasra-velem-szemben-kussz-felem-mint-egy-katona",
+        "h1": "KÉRLEK, FEKÜDJ HASRA VELEM SZEMBEN! KÚSSZ FELÉM, MINT EGY KATONA!",
+        "txtlength": 22256
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kulfold/2022/02/16/jeffrey-dahmer-sorozatgyilkos-elfogas-30-evfordulo",
+        "h1": "Aki bebizonyította, hogy a darabolós gyilkosságnál is van rosszabb",
+        "txtlength": 19931
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/politika/rendkivuli-kormanyinfo-bejelentesek-gulyas-gergely-varga-judit/5x9vbf9",
+        "h1": "Rendkívüli Kormányinfó – Varga Judit néhány perc után elhagyta a helyszínt, Gulyás Gergely az élelmiszerárstop meghosszabbításáról beszélt",
+        "txtlength": 19392
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/sport/20220217_kamila_valijeva_mukorcsolya_tiszeker_agnes_pekingi_teli_olimpia",
+        "h1": "Dilemma elé állította a sportvilágot Kamila Valijeva: versenyezhet-e valaki pozitív doppingteszttel?",
+        "txtlength": 17502
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/valasztas-2022/2022/02/17/rona-peter-ellenzeki-koztarsasagi-elnok-jelolt-ivanyi-gabor-parelnokok-jakab-peter",
+        "h1": "Államfőjelölés: nem Iványi Gáborról, hanem Márki-Zay Péterről szólt a Jobbik vétója",
+        "txtlength": 15988
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/szorakozas/2022/02/17/total-war-warhammer-3-videojatek-teszt",
+        "h1": "Sosem volt még ennyire kaotikus a Total War, de pont ez benne a jó",
+        "txtlength": 15214
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2022/02/16/jogallami-mechanizmus-birosagi-dontes-eu-birosag/",
+        "h1": "Magyarország elvesztette a jogállami mechanizmus elleni csatát, de folytathatja a „háborút” a szabályozás ellen",
+        "txtlength": 14756
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2022/02/16/valasztas-2022-kulfoldon-elo-allampolgarok-szavazas-ellenzek-tanulmany/",
+        "h1": "Akár kormányt is válthatnának a külföldön élő magyarok, ha könnyebben tudnának szavazni áprilisban",
+        "txtlength": 13690
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20220217_Jelentosen_befolyasolhatnak_a_valasztast_a_kivandorolt_magyarok_ha_nem_nehezitene_a_kormany_hogy_szavazhassanak",
+        "h1": "A kivándorolt magyarok is beleszólhatnak a választásba, de a kormány nehezíti, hogy szavazhassanak",
+        "txtlength": 13594
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/02/17/milyen-egy-lezeres-szemmutet-orarol-orara-dokumentaltam",
+        "h1": "Milyen egy lézeres szemműtét? Óráról órára dokumentáltam",
+        "txtlength": 12025
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2022/02/16/tanitom-a-polgari-engedetlenseget-etikaoran-most-meg-is-mutattuk-a-diakoknak/",
+        "h1": "„Tanítom a polgári engedetlenséget etikaórán, most meg is mutattuk a diákoknak”",
+        "txtlength": 11292
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/csokay-andras-idegsebesz/zlws45g",
+        "h1": "Botrány a bangladesi ikrek műtétjén: kizárták Csókay doktor kulcsfontosságú emberét a műtétből",
+        "txtlength": 11010
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20220217_Varga_Judit_kormanyinfo_hivatalos_teendo_MCC",
+        "h1": "Megnéztük, hova sietett Varga Judit a kormányinfóról „hivatalos teendői ellátására”",
+        "txtlength": 10880
+    },
+    {
+        "hostname": "nosalty.hu",
         "pagelink": "https://www.nosalty.hu/recept/bogreben-sult-suti-5-perc-alatt",
         "h1": "Bögrében sült süti 5 perc alatt",
         "txtlength": 12373
