@@ -1,6 +1,180 @@
 [
     {
         "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/bacskai-rizses-hus",
+        "h1": "Bácskai rizses hús",
+        "txtlength": 11038
+    },
+    {
+        "hostname": "hataratkelo.blog.hu",
+        "pagelink": "https://hataratkelo.blog.hu/2022/02/08/vig_idoutazas_itthon_es_kulfoldon",
+        "h1": "Víg időutazás itthon és külföldön",
+        "txtlength": 48146
+    },
+    {
+        "hostname": "kulturpart.hu",
+        "pagelink": "https://kulturpart.hu/2022/02/14/boldog_szuletesnapot_kurtag_gyorgy_177",
+        "h1": "BOLDOG SZÜLETÉSNAPOT KURTÁG GYÖRGY!",
+        "txtlength": 7659
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/gazdasag/20220217/elarulta-a-foxpost-ennyit-keres-naluk-egy-atlag-futar-2022-ben-magyarorszagon-1121844",
+        "h1": "Elárulta a FOXPOST: ennyit keres náluk egy átlag futár 2022-ben Magyarországon",
+        "txtlength": 27689
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/kozelet/20220217/a-hibas-valsagkezeles-es-a-valasztasi-koltekezes-zsakutcajaba-kerultunk/",
+        "h1": "A hibás válságkezelés és a választási költekezés zsákutcájába kerültünk",
+        "txtlength": 23535
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2022/02/18/50-eve-eloallt-ket-csapat-tudos-hogy-figyelmeztessen-a-modern-vilag-fenntarthatatlansagara-de-suket-fulekre-talaltak",
+        "h1": "50 ÉVE ELŐÁLLT KÉT CSAPAT TUDÓS, HOGY FIGYELMEZTESSEN A MODERN VILÁG FENNTARTHATATLANSÁGÁRA, DE SÜKET FÜLEKRE TALÁLTAK",
+        "txtlength": 23331
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/kozelet/20220218/az-el-nem-fustolt-energia-bonuszaibol-jutnia-kell-a-szegenyebbeknek-is/",
+        "h1": "Az el nem füstölt energia bónuszaiból jutnia kell a szegényebbeknek is",
+        "txtlength": 21252
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220217_marki_zay_peter_belfold_orszagertekelo_baloldal_ellenzek_valasztas_kampany_dobrev_klara_jakab_peter_kunhalmi_agnes_kanasz_nagy_mate_karacsony_gergely",
+        "h1": "Márki-Zay „megszabadítaná az országot a gonosztól”",
+        "txtlength": 20329
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220218_horn_gabor_belfold_klubradio_marki_zay_peter_orszagertekelo",
+        "h1": "Horn Gábor: Márki-Zay nagyon jól ellenpontozta Orbánt",
+        "txtlength": 18487
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/karrier/20220215/komoly-fordulat-a-magyar-munkahelyeken-ki-fogja-megfizetni-a-home-office-arat-1122006",
+        "h1": "Komoly fordulat a magyar munkahelyeken: ki fogja megfizetni a home office árát?",
+        "txtlength": 18437
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/global/20220218/orult-jo-uzlet-a-100-dollaros-olajar-vlagyimir-putyinnak-egy-puskaloves-nelkul-is-hatalmas-penzt-szakit-oroszorszag-527345",
+        "h1": "Őrült jó üzlet a 100 dolláros olajár Vlagyimir Putyinnak - Egy puskalövés nélkül is hatalmas pénzt szakít Oroszország",
+        "txtlength": 17593
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220217_ellenzek_mzp_allamfovalasztas",
+        "h1": "Kimaxolt amatörizmus: az ellenzék azt is elrontja, amit nem lehet",
+        "txtlength": 17566
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20220218/zoomokracia-vagy-az-irodak-kinyirasa-a-home-office-egyaltalan-nem-a-kanaan-527039",
+        "h1": "Zoomokrácia vagy az irodák kinyírása? - A home office egyáltalán nem a Kánaán",
+        "txtlength": 16187
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/uzlet/20220218/itt-az-uj-rekord-a-molnal-ezt-nyugodtan-ki-lehet-tenni-az-ablakba-527323",
+        "h1": "Itt az új rekord a Molnál, ezt nyugodtan ki lehet tenni az ablakba",
+        "txtlength": 15350
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/kapcsolat/fanny-blankers-koen-tortenete/",
+        "h1": "Mindenki azzal foglalkozott, hogy túl öreg és anya, de rekordot döntött az olimpián: Fanny Blankers-Koen története",
+        "txtlength": 11729
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/lajfhekk/bio-melyalmos-tojas/",
+        "h1": "Mitől lesz bio a tojás? Megéri többet költeni a mélyalmosra?",
+        "txtlength": 8796
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kulfold/2022/02/17/orosz-ukran-konfliktus-haboru-idovonal/",
+        "h1": "Idővonal az orosz-ukrán konfliktusról: így jutott Kelet-Európa a háború szélére",
+        "txtlength": 17751
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kulfold/2022/02/17/mianmar-puccs-katonai-diktatura-junta",
+        "h1": "Egy év alatt dzsungelben harcoló partizánok lettek a mianmari tüntetőkből",
+        "txtlength": 16303
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/elet/20220216_costes_downtown_ujranyitas_gerendai_karoly_molnar_mark_racz_jeno_fine_dining",
+        "h1": "Tartson két és fél óráig öt fogás feltálalása, csak mutasson jól az étel az Instagramon?",
+        "txtlength": 15191
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/gazdasag/2022/02/17/meta-netflix-facebook-profit-reszvenypiac-amazon-google-microsoft-egyesult-allamok",
+        "h1": "Ijesztőnek tűnik a techóriások részvényeinek mélyrepülése, de szó sincs összeomlásról",
+        "txtlength": 14644
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/gazdasag/2022/02/18/benzinarstop-ha-tudnank-hogy-meddig-tart-eldonthetnenk-hogy-feleljuk-e-a-csaladi-tartalekokat-vagy-feladjuk",
+        "h1": "Benzinárstop: „Ha tudnánk, hogy meddig tart, eldönthetnénk, hogy feléljük-e a családi tartalékokat, vagy feladjuk”",
+        "txtlength": 14300
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/fn/gazdasag/2022/02/18/benzinkut-arstop-benzin-gazolaj-veszteseg-bezaras/",
+        "h1": "Mostantól minden benzinkútnak veszteséges az üzemanyagok értékesítése, bezárási hullám jöhet",
+        "txtlength": 14201
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/gazdasag/20220217_inflacio_modszertan_statisztika_ksh",
+        "h1": "A hawaii pizza és az e-autó mostantól beleszámít az inflációba, a csirke far-hát és a lakásvásárlás továbbra sem",
+        "txtlength": 13948
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20220217_orszagertekelo_MarkiZay_Peter",
+        "h1": "\"Magyarországot szeretném megszabadítani a gonosztól\" - Márki-Zay Péter országértékelőt tartott",
+        "txtlength": 11973
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kultura/2022/02/17/halal-a-niluson-kritika-kenneth-branagh/",
+        "h1": "Mi rejlik Poirot bajsza mögött? – a Halál a Níluson választ ad a nagy kérdésre",
+        "txtlength": 11672
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/02/18/kormanytagok-kordonok-mogott-bujkalas-kozben-osszekapaszkodva",
+        "h1": "Kormánytagok kordonok mögött, bujkálás közben, összekapaszkodva",
+        "txtlength": 11508
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/kripto-befektetesi-lehetsegek-atveres-orban-viktor-csanyi-sandor-hodi-pamela/vm97x8e",
+        "h1": "Orbán Viktorra és Hódi Pamelára hivatkozva, újult erővel pörögnek kamu oldalakon a kamu kriptopénz-befektetési lehetőségek",
+        "txtlength": 11417
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/02/17/reszt-vehetnek-a-csatakban-a-kuvaiti-katonanok-de-fegyvert-nem-kapnak",
+        "h1": "Részt vehetnek a csatákban a kuvaiti katonanők, de fegyvert nem kapnak",
+        "txtlength": 10599
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/legidosebb-ikerpar-magyar-cegled/q8fwxyy?sl_ps=d_6",
+        "h1": "Testvérekhez ment férjhez a 101 éves korában elhunyt ceglédi ikerpár",
+        "txtlength": 7893
+    },
+    {
+        "hostname": "nosalty.hu",
         "pagelink": "https://www.nosalty.hu/recept/hentes-tokany",
         "h1": "Hentes tokány",
         "txtlength": 11727
