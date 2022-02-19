@@ -1,6 +1,180 @@
 [
     {
         "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/tartarmartas",
+        "h1": "Tartármártás",
+        "txtlength": 10836
+    },
+    {
+        "hostname": "hataratkelo.blog.hu",
+        "pagelink": "https://hataratkelo.blog.hu/2022/02/13/egy_kis_kinai_kiruccanas",
+        "h1": "Egy kis kínai kiruccanás",
+        "txtlength": 40429
+    },
+    {
+        "hostname": "kulturpart.hu",
+        "pagelink": "https://kulturpart.blog.hu/2022/02/16/csendes_titkok_szoros_fulek",
+        "h1": "CSENDES TITKOK, SZŐRÖS FÜLEK",
+        "txtlength": 6274
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220217_a_retrobol_a_xxi_szazadba_rozsa_david_az_orszagos_szechenyi_konyvtar_foigazgatoja_a_mandinernek",
+        "h1": "A retróból a XXI. századba – Rózsa Dávid, az Országos Széchényi Könyvtár főigazgatója a Mandinernek",
+        "txtlength": 29911
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220217_megfelemlitik_a_gyermekvedelmi_torvenyt_kritizalo_allasfoglalassal_egyet_nem_erto_pszichiatereket_banki_m_csaba_a_mandinernek",
+        "h1": "Megfélemlítik a gyermekvédelmi törvényt kritizáló állásfoglalással egyet nem értő pszichiátereket – Bánki M. Csaba a Mandinernek",
+        "txtlength": 25851
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220217_gyongyospata_iskolai_szegregacio_eselyegyenloseg_forgacs_istvan_mandiner",
+        "h1": "Gyöngyöspatán túl – az iskolai szegregáció és az esélyegyenlőség kérdése",
+        "txtlength": 24715
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/vallalkozas/20220218/itt-a-lesujto-igazsag-a-legtobb-magyarnak-csak-szenvedes-a-munkahelye-ide-menekulnek-inkabb-1122097",
+        "h1": "Itt a lesújtó igazság: a legtöbb magyarnak csak szenvedés a munkahelye, ide menekülnek inkább",
+        "txtlength": 21920
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/megtakaritas/20220218/errol-nem-szivesen-beszelnek-a-bankok-itt-ellenorizheted-mennyire-huznak-le-1122117",
+        "h1": "Erről nem szívesen beszélnek a bankok: itt ellenőrizheted, mennyire húznak le",
+        "txtlength": 20415
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/uzlet/20220218/megint-egyre-rosszabb-a-hangulat-a-tozsdeken-527407",
+        "h1": "Megint egyre rosszabb a hangulat a tőzsdéken ",
+        "txtlength": 20387
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/podcast/20220219/anyagilag-es-lelkileg-is-kizsigereli-a-munkavallalokat-a-szexkamera-iparag/",
+        "h1": "Anyagilag és lelkileg is kizsigereli a munkavállalókat a szexkamera-iparág",
+        "txtlength": 19770
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/ingatlan/20220218/mi-lesz-a-legjobb-ingatlanbefektetes-ha-elszabadul-az-inflacio-527133",
+        "h1": "Mi lesz a legjobb ingatlanbefektetés, ha elszabadul az infláció?",
+        "txtlength": 19724
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/egeszseg/lyme-kor-dualdur-teszt-interju/",
+        "h1": "Fejfájást, ideggyulladást és szívritmuszavart is okozhat a Lyme-kór - Magyar fejlesztésű teszt segít diagnosztizálni",
+        "txtlength": 18406
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2022/02/19/hogyan-segithet-a-filozofia-a-fake-news-elleni-harcban",
+        "h1": "HOGYAN SEGÍTHET A FILOZÓFIA A FAKE NEWS ELLENI HARCBAN?",
+        "txtlength": 17167
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/global/20220218/feszult-a-helyzet-az-orosz-ukran-fronton-mi-tortenik-penteken-527557",
+        "h1": "Feszült a helyzet az orosz-ukrán fronton - Mi történik pénteken? ",
+        "txtlength": 16831
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vallalat/20220217/van-aki-nagyot-nyer-az-uzemanyagarstopon-de-az-nem-a-magyar-lakossag/",
+        "h1": "Van, aki nagyot nyer az üzemanyagárstopon, de az nem a magyar lakosság",
+        "txtlength": 16534
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/lajfhekk/hasznalt-teafilter-felhasznalasa/",
+        "h1": "használt teafilter felhasználása",
+        "txtlength": 11399
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kulfold/2022/02/18/szonyegbombazza-kampanyuzeneteivel-a-fidesz-az-erdelyimagyarokat",
+        "h1": "Szőnyegbombázza kampányüzeneteivel a Fidesz az erdélyi magyarokat",
+        "txtlength": 24481
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2022/02/19/obh-obt-senyei-gyorgy-vasvari-csaba-birosagok-sandor-zsuzsa-velemeny/",
+        "h1": "Mikor térnek magukhoz a magyar bírák a sokkból?",
+        "txtlength": 17096
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/tudomany/2022/02/19/hangya-szuperorganizmus-termeszet-okologia/",
+        "h1": "Szuperorganizmusok ébredeznek a föld alatt",
+        "txtlength": 15426
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/kulfold/fidel-castro-diktator-lemondott-kommunizmus-kuba/kzqjzsy?sl_ps=d_5",
+        "h1": "„Azt hittem, hogy ez lesz a vég” – Több mint 600-szor akarták megölni, végül maga mondott le: 14 éve távozott a hatalomból a kommunista diktátor",
+        "txtlength": 14566
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/202207__hvgdokumentumfilm__orban_tegnap_es_ma__jellemrajz__kicsoda_orban_viktor__ez_azarc_lesz_avegso",
+        "h1": "Van-e még saját személyisége Orbán Viktornak? – egy dokusorozat kulisszái mögött",
+        "txtlength": 14554
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/gazdasag/20220218_lelmiszer_afa_ado_csokkentes",
+        "h1": "Tényleg abbamarad a drágulás, ha csökken az élelmiszerek áfája?",
+        "txtlength": 13430
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kulfold/2022/02/18/a-lakossag-evakualasat-jelentettek-be-a-kelet-ukrajnai-szakadarok",
+        "h1": "A lakosság evakuálását jelentették be a kelet-ukrajnai szakadárok, tartva az ukrán hadsereg támadásától",
+        "txtlength": 13237
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/eszkombajn/2022/02/19/dohanyfust-popo-ujraelesztes",
+        "h1": "A 19. század újraélesztési csodaszere: a fenékbe fújt dohányfüst",
+        "txtlength": 12982
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kultura/2022/02/18/ismeretlen-magyarorszag-gyori-keksz-kekszgyar-raktar-szechenyi-istvan-egyetem-atepites-innovacios-kozpont-benczik-lajos-modern-epiteszet/",
+        "h1": "Tiborcz korábbi üzlettársának és egy Mészáros-közeli cégnek a konzorciuma építi át a győri kekszgyár egykori raktárát",
+        "txtlength": 12551
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/02/18/eliteltek-az-minnesotai-rendort-aki-allitasa-szerint-veletlenul-lott-agyon-egy-20-eves-fekete-ferfit",
+        "h1": "Elítélték a minnesotai rendőrt, aki állítása szerint véletlenül lőtt agyon egy 20 éves fekete férfit",
+        "txtlength": 11860
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/02/18/egyenesen-a-torok-bortonbe-kuldtek-vissza-egy-francia-not-a-gorog-hatarnal",
+        "h1": "Egyenesen a török börtönbe küldtek vissza egy francia nőt a görög határnál",
+        "txtlength": 11654
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/pszichologiamagazin/20220217_A_szuloseg_mar_a_szulo_fogantatasakor_elkezdodik",
+        "h1": "A szülőség már a szülő fogantatásakor elkezdődik",
+        "txtlength": 11181
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/krimi/kecskemeti-maffiaper-nyomozas-elfogas-regi-bunugyek-exnyomozo/l1wpm7x?sl_ps=d_12",
+        "h1": "A kecskeméti olajmaffiaügy rettenetes titka: „Mindkét politikai oldalról voltak érintettek, és eltűnt egy jelentés, hogy megmentsenek egy politikust”",
+        "txtlength": 10116
+    },
+    {
+        "hostname": "nosalty.hu",
         "pagelink": "https://www.nosalty.hu/recept/bacskai-rizses-hus",
         "h1": "Bácskai rizses hús",
         "txtlength": 11038
