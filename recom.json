@@ -1,6 +1,180 @@
 [
     {
         "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/kelkaposzta-fozelek-regiesen",
+        "h1": "Kelkáposzta-főzelék régiesen",
+        "txtlength": 12177
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/csokis-keksztorta-sutes-nelkul-video.recept",
+        "h1": "CSOKIS KEKSZTORTA SÜTÉS NÉLKÜL",
+        "txtlength": 10983
+    },
+    {
+        "hostname": "kulturpart.hu",
+        "pagelink": "https://kulturpart.blog.hu/2022/02/20/spencer_film_kritika_kristen_stewart",
+        "h1": "ITT MINDENKI HALL MINDENT",
+        "txtlength": 6760
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/befektetes/20220219/egyszerre-lenyugozo-es-szegyenteljes-a-minden-idok-legnagyobb-tozsdecapajarol-keszult-dokumentumfilm-527439",
+        "h1": "Egyszerre lenyűgöző és szégyenteljes a minden idők legnagyobb tőzsdecápájáról készült dokumentumfilm",
+        "txtlength": 28561
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/elet/20220107/energiaszegenyseg-elesben-megneztuk-a-kalyhaepito-onkentesek-munkajat/",
+        "h1": "Energiaszegénység élesben: megnéztük a kályhaépítő önkéntesek munkáját",
+        "txtlength": 24761
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vilag/20220219/a-balkan-peldaja-nekunk-is-mutatja-miert-nem-megoldas-a-keleti-nyitas-politikaja/",
+        "h1": "A Balkán példája nekünk is mutatja, miért nem megoldás a keleti nyitás politikája",
+        "txtlength": 24454
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20220219/orban-viktor-tovabbi-adocsokkentest-lengetett-be-527645",
+        "h1": "Orbán Viktor további adócsökkentést lengetett be ",
+        "txtlength": 21696
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220218_trianon_1956_mohacs_honfoglalas_tortenelem_vitaest_mcc_gali_mate_pocza_kalman",
+        "h1": "Sorsfordító pillanatok hazánk történelmében – vitasorozat indul az MCC szervezésében",
+        "txtlength": 21445
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220219_regeszet_mongolia_hunok_gelegdorj_eregzen_magyar_ostortenet",
+        "h1": "Lehet kapcsolat a hunok, a magyarok és a mongolok között? – mongol régész a Mandinernek",
+        "txtlength": 21123
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/global/20220219/biden-szerint-barmikor-kitorhet-az-orosz-ukran-haboru-lovoldozes-miatt-vizsgalodik-oroszorszag-527631",
+        "h1": "Biden szerint bármikor kitörhet az orosz-ukrán háború, lövöldözés miatt vizsgálódik Oroszország ",
+        "txtlength": 21120
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220220_ukrajna_oroszorszag_nato_haboru_sztaray_peter_demko_attila",
+        "h1": "Meri vagy nem meri? – célkeresztben az orosz-ukrán konfliktus",
+        "txtlength": 19656
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/megtakaritas/20220219/rengeteg-pluszpenzt-hagy-a-csaladoknal-az-szja-visszaterites-ebbe-fektetik-az-elelmesek-1122089",
+        "h1": "Rengeteg pluszpénzt hagy a családoknál az SZJA-visszatérítés: ebbe fektetik az élelmesek",
+        "txtlength": 18285
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/gazdasag/20220218/idozitett-bomban-ul-europa-az-internet-es-a-bankok-is-leallhatnak-ha-ez-bekovetkezik-1122124",
+        "h1": "Időzített bombán ül Európa: az internet és a bankok is leállhatnak, ha ez bekövetkezik",
+        "txtlength": 16490
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/otthon/kis-lakas-eladasa/",
+        "h1": "Hogyan lehet eladni egy apró méretű lakást jó pénzért? Így találhatsz rá gyorsan vevőt a szakértő szerint",
+        "txtlength": 12336
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2022/02/20/az-ember-legmegbizhatobb-tarsa-a-kolbasz",
+        "h1": "AZ EMBER LEGMEGBÍZHATÓBB TÁRSA: A KOLBÁSZ",
+        "txtlength": 11922
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/szuloseg/kisgyermek-jarvany-koronavirus/",
+        "h1": "kisgyermek járvány koronavírus",
+        "txtlength": 11540
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/komplex/2022/02/20/nincs-ertelme-annak-a-kerdesnek-hogy-mikor-erjuk-utol-ausztriat",
+        "h1": "\n      Nincs értelme annak a kérdésnek, hogy mikor érjük utol Ausztriát\n    ",
+        "txtlength": 33522
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/02/19/annyi-keseruseg-gyult-mar-ossze-hogy-boritekolhato-volt-hogy-ez-egyszer-robbanni-fog",
+        "h1": "“Annyi keserűség gyűlt már össze, hogy borítékolható volt, hogy ez egyszer robbanni fog”",
+        "txtlength": 24608
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/tudomany/2022/02/20/kleopatra-egyiptom-roma-tortenelem/",
+        "h1": "Miért kellett meghalnia Kleopátrának?",
+        "txtlength": 21190
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://voxpopuli.444.hu/2022/02/20/valasztasi-meglepetes-keszul-1-resz",
+        "h1": "Választási meglepetés készül. 1. rész",
+        "txtlength": 19041
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/elet-stilus/2022/02/19/ket-nap-alatt-mentettek-ki-a-balatonba-szakadt-trabantot-jegzajlas-fekete-feherben/",
+        "h1": "Két nap alatt mentették ki a Balatonba szakadt Trabantot – jégzajlás fekete-fehérben",
+        "txtlength": 17012
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kulfold/2022/02/20/torok-gazdasag-valsag-inflacio-erdogan/",
+        "h1": "Mélyülő válságban a török gazdaság, de okozhatja-e ez Erdogan vesztét?",
+        "txtlength": 15959
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/gazdasag/20220220_Es_akkor_benzin_jogallamisag_gdp_gaz_szoba_afa_viz",
+        "h1": "És akkor a benzinárstop után jöhet a benzinkútstop",
+        "txtlength": 14135
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/tudomany/20220219_metaverzum_virtualis_valosag_bun_filozofia",
+        "h1": "Mit jelent az, hogy „megerőszakolnak” valakit a metaverzumban?",
+        "txtlength": 12810
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/robbanasszeruen-emelkedik-az-agglomeracio-lelekszama/sl02t44?sl_ps=d_3",
+        "h1": "„Alkalmazkodni kéne, több pénzt fordítani az utakra vagy éppen a helyi közlekedésre, ami katasztrófa” – Robbanás zajlik a budapesti agglomerációban",
+        "txtlength": 12411
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/tech/2022/02/19/autozas-hidrogennel-a-toyota-lazalma-vagy-a-kovetkezo-nagy-meglepetes",
+        "h1": "Autózás hidrogénnel: a Toyota lázálma vagy a következő nagy meglepetés?",
+        "txtlength": 12286
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/sport/2022/02/19/ku-aj-ling-kinai-amerikai-szabadstilusu-sizo-modell-olimpia-szenzacio-harom-erem-peking",
+        "h1": "Kína importált magának egy sztársportolót, aki az ujjai köré csavarja a világot",
+        "txtlength": 11191
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/tudomany/20220219_adathalaszat_csalok_banki_csalas_cib_szakertok",
+        "h1": "10 kérdés, 10 válasz: mit tegyek, hogy ne csalják ki a pénzem sem neten, sem telefonon?",
+        "txtlength": 10906
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/drogbanda-darknet-fbi-modszer-magyarorszag/4yd183q",
+        "h1": "Az FBI módszerével leplezték le a darkneten bizniszelő drogbandát a magyar rendőrök: itt vannak az akció részletei - videó",
+        "txtlength": 9735
+    },
+    {
+        "hostname": "nosalty.hu",
         "pagelink": "https://www.nosalty.hu/recept/tartarmartas",
         "h1": "Tartármártás",
         "txtlength": 10836
