@@ -1,6 +1,180 @@
 [
     {
         "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/tejfolos-gombaporkolt",
+        "h1": "Tejfölös gombapörkölt",
+        "txtlength": 11508
+    },
+    {
+        "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/hagyomanyos-tyukhusleves",
+        "h1": "Hagyományos tyúkhúsleves",
+        "txtlength": 10636
+    },
+    {
+        "hostname": "hataratkelo.blog.hu",
+        "pagelink": "https://hataratkelo.blog.hu/2022/02/16/mulhat-e_a_valasztas_sorsa_a_hataratkelokon#c41226140",
+        "h1": "Múlhat-e a választás sorsa a határátkelőkön?",
+        "txtlength": 43379
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/utazas/20220220/rekordmennyisegu-magyar-nyaralhat-iden-az-adrian-igy-csipheted-el-a-legolcsobb-utakat-1122023",
+        "h1": "Rekordmennyiségű magyar nyaralhat idén az Adrián: így csípheted el a legolcsóbb utakat",
+        "txtlength": 25476
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/penz/20220221/lesz-e-10-szazalek-felett-a-valasztasok-utan-az-inflacio/",
+        "h1": "Lesz-e 10 százalék felett a választások után az infláció?",
+        "txtlength": 22770
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/bank/20220221/mindent-egy-lapra-tesz-fel-a-szuperbank-valami-egeszen-ujat-epitenek-527517",
+        "h1": "Mindent egy lapra tesz fel a szuperbank: valami egészen újat építenek",
+        "txtlength": 20861
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/egeszseg/20220219/mi-folyik-a-magyar-rendelokben-korhazakban-sok-nyugdijasnak-fogalma-sincs-mi-var-ra-2022-ben-1122121",
+        "h1": "Mi folyik a magyar rendelőkben, kórházakban? Sok nyugdíjasnak fogalma sincs mi vár rá 2022-ben",
+        "txtlength": 20668
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220216_toth_viktor_szabolcs_szatmar_bereg_megye_3_sz_valasztokerulet_kisvarda_sesztak_miklos_fidesz_kdnp_jobbik",
+        "h1": "A kisvárdai ellenzéki jelölt régen zsidózott, cigányozott, buzizott, ma már másként látja a világot",
+        "txtlength": 20374
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220219_gallo_bela_2022_orszaggyulesi_valasztas_ebesz_nemzetkozi_baloldal_marki_zay_peter",
+        "h1": "„Az ellenzéki kígyó a saját farkába harap, s közben még büszkén sziszeg is” – Galló Béla a Mandinernek",
+        "txtlength": 19666
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vilag/20220220/cowboy-befektetok-kimeljenek-avagy-miert-epul-maskepp-egy-varosresz-hollandiaban-mint-magyarorszagon/",
+        "h1": "Cowboy befektetők kíméljenek, avagy miért épül másképp egy városrész Hollandiában, mint Magyarországon?",
+        "txtlength": 17603
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220215_a_virus_velunk_marad_de_megszelidul",
+        "h1": "A vírus velünk marad, de megszelídül – Müller Cecília a Mandinernek",
+        "txtlength": 16951
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20220220/orban-viktor-vadonatuj-igeretet-tett-ez-all-a-hatterben-527719",
+        "h1": "Orbán Viktor vadonatúj ígéretet tett - Ez áll a háttérben!",
+        "txtlength": 15032
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/uzlet/20220221/bizakodok-a-befektetok-felpattantak-a-tozsdek-527757",
+        "h1": "Bizakodók a befektetők, felpattantak a tőzsdék ",
+        "txtlength": 14262
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/gyerek/feltalalo-edesanyak/",
+        "h1": "Így nézett ki a mosogatógép őse - A kétgyerekes Josephine Cochrane találmánya örökre megváltoztatta a háztartásokat",
+        "txtlength": 11792
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2022/02/21/kariko-katalinnak-es-a-gombocnek-koszonheto-a-forradalmi-amerikai-talalmany-a-lenyelheto-vakcina",
+        "h1": "KARIKÓ KATALINNAK ÉS A GÖMBÖCNEK KÖSZÖNHETŐ A FORRADALMI AMERIKAI TALÁLMÁNY, A LENYELHETŐ VAKCINA",
+        "txtlength": 10806
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/szuloseg/menstruacio-kiskamasz-kepregeny/",
+        "h1": "menstruáció kiskamasz képregény",
+        "txtlength": 10635
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/02/21/tenyleg-tobbet-er-a-kutyapartra-adott-listas-szavazat",
+        "h1": "Tényleg többet ér a Kutyapártra adott listás szavazat?",
+        "txtlength": 22452
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kultura/2022/02/20/hollywood-felirat-superbowl-los-angeles/",
+        "h1": "Rohadó fagerendák hirdették az álomgyár csillogását, most a Super Bowl-győzelmet ünnepli a Hollywood-felirat",
+        "txtlength": 21778
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/tech/2022/02/20/huawei-p50-pro-telefon-teszt-kina",
+        "h1": "Ebben a telefonban tényleg a világ legjobb kamerája van, mégis nehéz jó szívvel ajánlani",
+        "txtlength": 21146
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/direkt36/2022/02/21/vadonatuj-porsche-kulonleges-ferrari-es-milliardos-uzletek-mutatjak-a-matolcsy-kor-felemelkedeset",
+        "h1": "Vadonatúj Porsche, különleges Ferrari és milliárdos üzletek mutatják a Matolcsy-kör felemelkedését",
+        "txtlength": 20096
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kulfold/2022/02/20/diktatorok-emberei-korrupt-politikusok-baratnojet-megoleto-milliardos-egy-svajci-bank-ugyfelei-kozott",
+        "h1": "Diktátorok emberei, korrupt politikusok, barátnőjét megölető milliárdos egy svájci bank ügyfelei között",
+        "txtlength": 17525
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/tudomany/2022/02/20/krumpli-burgonya-amerika-elelmiszer-tortenelem/",
+        "h1": "Hogyan hódította meg a krumpli a világot?",
+        "txtlength": 17245
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2022/02/21/balatonfoldvar-kikoto-uzletek-kisajatitasi-eljaras/",
+        "h1": "A bíróság nem engedte kisajátítani a földvári kikötő üzleteit, ám a polgármester szerint ez nem állítja meg a fejlődést",
+        "txtlength": 11702
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20220221_Stummer_Janos_Peterfalvi_nem_vitte_tulzasba_a_Pegasusugy_vizsgalatat",
+        "h1": "Stummer János: Péterfalvi nem vitte túlzásba a Pegasus-ügy vizsgálatát",
+        "txtlength": 11465
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/kultura/20220220_Eric_Vuillard_Szegenyek_haboruja",
+        "h1": "Miből lesz az éhséglázadás?",
+        "txtlength": 11325
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://qubit.hu/2022/02/21/kariko-katalinnak-es-a-gombocnek-koszonheto-a-forradalmi-amerikai-talalmany-a-lenyelheto-vakcina",
+        "h1": "KARIKÓ KATALINNAK ÉS A GÖMBÖCNEK KÖSZÖNHETŐ A FORRADALMI AMERIKAI TALÁLMÁNY, A LENYELHETŐ VAKCINA",
+        "txtlength": 10806
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/blikk-tv/aktualis/stilus-ruhak-tanacsok-varga-judit-dobrev-klara/7mvxxzd",
+        "h1": "Az NSZK-s viselettől a kislányos fazonig: stílustanácsadó elemezte Dobrev Klára és Varga Judit öltözékét – videó",
+        "txtlength": 10622
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/vilag/20220219_Minden_keszen_all_az_Ukrajna_elleni_orosz_invaziora",
+        "h1": "Minden készen áll az Ukrajna elleni orosz invázióra",
+        "txtlength": 10118
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/blikk-tv/aktualis/kampanyjaro-ketfarku-kutya-part-csirke-kutya-kampanyol/qgvmx22",
+        "h1": "Farhátat adtunk a Kutyapárt csirkejelöltjének: pusztító videóinterjú a viccpárt tagjaival",
+        "txtlength": 8930
+    },
+    {
+        "hostname": "nosalty.hu",
         "pagelink": "https://www.nosalty.hu/recept/kelkaposzta-fozelek-regiesen",
         "h1": "Kelkáposzta-főzelék régiesen",
         "txtlength": 12177
