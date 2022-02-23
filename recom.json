@@ -1,6 +1,180 @@
 [
     {
         "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/egyszeru-ciganypecsenye",
+        "h1": "Egyszerű cigánypecsenye",
+        "txtlength": 10690
+    },
+    {
+        "hostname": "kiszamolo.hu",
+        "pagelink": "https://kiszamolo.hu/ideje-arat-emelned/#more-117954",
+        "h1": "Ideje árat emelned",
+        "txtlength": 36356
+    },
+    {
+        "hostname": "kulturpart.hu",
+        "pagelink": "https://kulturpart.blog.hu/2022/02/19/meditalj_a_ferences_szerzetesekkel",
+        "h1": "MEDITÁLJ A FERENCES SZERZETESEKKEL!",
+        "txtlength": 6310
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/szorakozas/20220220/rendesen-felkaptak-a-vizet-az-rtl-klub-capai-folytatodott-a-koplalas-a-magyar-rizsbol-sem-kertek-1122068",
+        "h1": "Rendesen felkapták a vizet az RTL Klub Cápái: folytatódott a koplalás, a magyar rizsből sem kértek",
+        "txtlength": 23386
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/ingatlan/20220223/nagyon-sok-lakashasznalo-ki-fog-arazodni-az-ujlakas-piacrol-526869",
+        "h1": "Nagyon sok lakáshasználó ki fog árazódni az újlakás-piacról",
+        "txtlength": 23305
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/penz/20220223/a-klimasemlegesseg-megfizetheto-nem-csak-kifizetodo/",
+        "h1": "A klímasemlegesség megfizethető, nem csak kifizetődő",
+        "txtlength": 22381
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20220222/hiaba-a-nyugati-orias-fenyegetese-az-orosz-torpe-nem-ijedt-meg-de-akarmilyen-hihetetlen-nincs-is-neki-mitol-527931",
+        "h1": "Hiába a nyugati óriás fenyegetése, az orosz törpe nem ijedt meg - de akármilyen hihetetlen, nincs is neki mitől",
+        "txtlength": 21356
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/uzlet/20220223/a-legiipar-meg-tavol-van-a-fellendulestol-528257",
+        "h1": "A légiipar még távol van a fellendüléstől",
+        "txtlength": 21342
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220222_fovarosi_kozgyules_baloldal_jobboldal_szakpolitika_beharangozo",
+        "h1": "Karácsonyék ismét a kormánytól kérnek pénzt, nehogy rájuk zuhanjon egy brüsszeli büntetőcsomag",
+        "txtlength": 20820
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220222_meg_kell_erositeni_a_nato_keleti_szarnyat_a_lengyel_kulugyi_bizottsag_elnoke_a_mandinernek",
+        "h1": "Meg kell erősíteni a NATO keleti szárnyát – a lengyel külügyi bizottság elnöke a Mandinernek",
+        "txtlength": 20542
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/penz/20220223/allampapirt-venne-ezeket-a-kockazatokat-erdemes-szem-elott-tartani/",
+        "h1": "Állampapírt venne? Ezeket a kockázatokat érdemes szem előtt tartani",
+        "txtlength": 18261
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220223_soroshoz_kotheto_szakertok_is_vannak_a_budapestre_erkezo_ebesz_misszioban",
+        "h1": "Soros–hatás a Budapestre érkező EBESZ-misszióban",
+        "txtlength": 17673
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/egeszseg/20220222/ujabb-lappango-covid-szovodmenyre-bukkantak-magyarorszagon-is-sokan-szenvedhetnek-tole-1122192",
+        "h1": "Újabb lappangó covid-szövődményre bukkantak: Magyarországon is sokan szenvedhetnek tőle",
+        "txtlength": 15350
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/fogyokura/klaudia-fogyastortenet/",
+        "h1": "20 kilót fogyott Klaudia természetes módon: a magyar lány így evett és edzett a fogyásért",
+        "txtlength": 13810
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/szuloseg/tej-anyatej-allatvilag/",
+        "h1": "tej anyatej állatvilág",
+        "txtlength": 11507
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2022/02/23/a-diakok-sokszor-ugy-erzik-hogy-az-eletuk-mulik-egy-kozepiskolai-felveteli-vizsgan",
+        "h1": "A DIÁKOK SOKSZOR ÚGY ÉRZIK, HOGY AZ ÉLETÜK MÚLIK EGY KÖZÉPISKOLAI FELVÉTELI VIZSGÁN",
+        "txtlength": 11104
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kulfold/2022/02/22/ukrajna-oroszorszag-szankciok-eu-biden-usa-johnson-olaj-gaz-olajar-benzinar",
+        "h1": "Oroszország a nyakába kapta az első szankciókat, de a Nyugat még nem lőtte el az összes puskaport",
+        "txtlength": 21948
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kultura/2022/02/22/ismeretlen-budapest-blaha-lujza-ter-corvin-aruhaz-reiss-zoltan-orning-oliver-felujitas-iroda-kereskedelem/",
+        "h1": "Jövő tavasszal nyitja meg a kapuit a felújított Blaha Lujza téri Corvin Áruház",
+        "txtlength": 21795
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/valasztas-2022/2022/02/23/valasztasi-partok-ertelmes-magyarok-partja-bizniszpartok-kamupartok-ajanlasok-gyujtese-kampanytamogatasok",
+        "h1": "Idén is virágoznak a bizniszpártok, 43 párt gyűjtheti az ajánlásokat",
+        "txtlength": 19097
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/english/2022/02/23/all-they-wanted-for-christmas-was-for-mum-to-be-alive",
+        "h1": "All they wanted for Christmas was for Mum to be alive",
+        "txtlength": 16312
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20220222_magyar_oltatlanok_felmeres_tarsadalomtudomanyi_kutatokozpont",
+        "h1": "A magyar oltatlanok 57 százaléka egyetért azzal, hogy a vakcinával titkos anyagot juttatnak a szervezetükbe",
+        "txtlength": 13399
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/kultura/20220222_Ivanyi_Gabor_Lelkek_pasztora_film",
+        "h1": "„A szabadságot kivívni soha nem lehet egyszer s mindenkorra” – elkészült az Iványi Gáborról szóló dokumentumfilm",
+        "txtlength": 11555
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kulfold/2022/02/23/ukrajna-orosz-nemzetiseg-nyelvhasznalat-kelet-ukrajna-donyeck-luhanszk/",
+        "h1": "A Szovjetunió szelleme kísért az orosz-ukrán konfliktus hátterében",
+        "txtlength": 11553
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2022/02/22/polgari-engedetlenseg-bethlen-gabor-altalanos-iskola-gimnazium-pedagoussztrajk/",
+        "h1": "„Egyszer mindenhol eljöhet egy olyan pont, amikor már nincs tovább. Itt ez az a pont”",
+        "txtlength": 11469
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/02/22/vilagszerte-csak-a-muanyagok-9-szazalekat-hasznositjak-ujra",
+        "h1": "Világszerte csak a műanyagok 9 százalékát hasznosítják újra",
+        "txtlength": 11396
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/02/22/amire-ilyenkor-is-jut-ido-orban-azonnali-hatallyal-nemzetstrategiainak-minositette-jaszai-gellert-es-a-4ig-gigauzletet",
+        "h1": "Amire ilyenkor is jut idő: Orbán azonnali hatállyal nemzetstratégiainak minősítette a 4iG gigaüzletét",
+        "txtlength": 11268
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/vilag/20220223_oroszorszag_ukrajna_percrol_percre",
+        "h1": "Az amerikai külügyminiszter nem tárgyal az oroszokkal, még több szankció jöhet - Percről percre az orosz-ukrán konfliktusról",
+        "txtlength": 10593
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/kulfold/ukrajna-oroszoroszag-haboru-konfliktus-nepop-ljubov-lista/3pr8m71",
+        "h1": "Ukrajna listát küldött Magyarországnak: ezeket kéri tőlünk nagykövetén keresztül a nehéz helyzetben lévő szomszéd ország",
+        "txtlength": 8754
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/koronavirus-magyarorszag-halalos-aldozatok-fertozottek/92q7gnn?sl_ps=d_2",
+        "h1": "Koronavírus: újabb 132 áldozatot követelt itthon a vírus, hatezer felett az új fertőzöttek száma",
+        "txtlength": 8282
+    },
+    {
+        "hostname": "nosalty.hu",
         "pagelink": "https://www.nosalty.hu/recept/kinai-omlos-szezammagos-csirke-zoldseges-piritott-tesztaval",
         "h1": "Kínai omlós szezámmagos csirke, zöldséges pirított tésztával",
         "txtlength": 12402
