@@ -1,5 +1,173 @@
 [
     {
+        "hostname": "hataratkelo.blog.hu",
+        "pagelink": "https://hataratkelo.blog.hu/2022/02/03/szingapuri_iskola_a_mindennapokban",
+        "h1": "Szingapúri iskola a mindennapokban",
+        "txtlength": 32751
+    },
+    {
+        "hostname": "kulturpart.hu",
+        "pagelink": "https://kulturpart.hu/2022/02/19/meditalj_a_ferences_szerzetesekkel",
+        "h1": "MEDITÁLJ A FERENCES SZERZETESEKKEL!",
+        "txtlength": 6301
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220224_haboru_oroszorszag_megtamadta_ukrajnat",
+        "h1": "Élőben a háborúról: Az orosz elnök fegyverletételre és hazatérésre szólította fel az ukrán fegyveres erők tagjait",
+        "txtlength": 31211
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/penz/20220223/a-gyorsulo-inflaciot-egyedul-nem-kepes-megfekezni-a-jegybank/",
+        "h1": "A gyorsuló inflációt egyedül nem képes megfékezni a jegybank",
+        "txtlength": 21842
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/kozelet/20220224/hiaba-a-nemzeti-tokes-szoveg-nem-enyhult-a-magyar-gazdasag-fuggese-a-multiktol/",
+        "h1": "Hiába a nemzeti tőkés szöveg, nem enyhült a magyar gazdaság függése a multiktól",
+        "txtlength": 21199
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/vallalkozas/20220222/magyarok-millioit-kopasztja-meg-a-lathatatlan-rezsi-hiaba-az-arstop-errol-hallgatnak-1122204",
+        "h1": "Magyarok millióit kopasztja meg a láthatatlan rezsi: hiába az árstop, erről hallgatnak",
+        "txtlength": 20961
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/global/20220224/oroszorszag-megtamadta-ukrajnat-bevezettek-a-hadiallapotot-itt-vannak-a-legfontosabb-hirek-csutortokon-528617",
+        "h1": "Oroszország megtámadta Ukrajnát, bevezették a hadiállapotot - Itt vannak a legfontosabb hírek csütörtökön ",
+        "txtlength": 20651
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20220224/berkulonbsegek-vallalatok-kozott-es-cegen-belul-mi-a-helyzet-az-eu-ban-527357",
+        "h1": "Bérkülönbségek vállalatok között és cégen belül - Mi a helyzet az EU-ban?",
+        "txtlength": 18443
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/otthon/20220223/megvan-a-hosszu-elet-titka-itt-a-legmagasabb-a-varhato-elettartam-magyarorszagon-1122270",
+        "h1": "Megvan a hosszú élet titka? Itt a legmagasabb a várható élettartam Magyarországon",
+        "txtlength": 18357
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220223_a_nemetektol_tetvet_az_oroszoktol_poloskat_kaptunk",
+        "h1": "A németektől tetvet, az oroszoktól poloskát kaptunk",
+        "txtlength": 17297
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220223_tucker_carlson_azon_topreng_hogy_az_amerikai_elit_miert_gyuloli_putyint",
+        "h1": "Tucker Carlson azon töpreng, hogy az amerikai elit miért gyűlöli Putyint",
+        "txtlength": 14399
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/otthon/lassan-lebomlo-termekek-kornyezettudatos-vasarlas/",
+        "h1": "5 mindennap használt dolog, ami évszázadok alatt sem bomlik le: fontos, hova dobjuk ki őket",
+        "txtlength": 13084
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/uzlet/20220224/elindult-a-haboru-ukrajna-ellen-menekulnek-a-befektetok-a-tozsdekrol-528599",
+        "h1": "Elindult a háború Ukrajna ellen, menekülnek a befektetők a tőzsdékről ",
+        "txtlength": 11371
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2022/02/23/tavasz-volt-a-fold-eszaki-felteken-amikor-kihaltak-a-dinoszauruszok",
+        "h1": "TAVASZ VOLT A FÖLD ÉSZAKI FÉLTEKÉN, AMIKOR KIHALTAK A DINOSZAURUSZOK",
+        "txtlength": 10519
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/lajfhekk/kenyszerleszallas-vizre-szallas/",
+        "h1": "kényszerleszállás vízre szállás",
+        "txtlength": 9828
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/kulfold/putyin-orosz-ukran-haboru-tamadas/jy035ys",
+        "h1": "Ez már háború: Putyin kiadta a parancsot, megkezdődött az orosz invázió Ukrajna ellen - Az események percről percre",
+        "txtlength": 41173
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kulfold/2022/02/23/oroszorszag-ukrajna-nato-katonai-ero",
+        "h1": "Milyen katonai erők feszülnek egymásnak Ukrajna körül?",
+        "txtlength": 20247
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kulfold/2022/02/24/oroszorszag-ukrajna-haboru-2/",
+        "h1": "Oroszország megtámadta Ukrajnát",
+        "txtlength": 19979
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/sport/2022/02/23/liu-shaoang-peking-aranyerem-banhidi-akos-kosa-lajos",
+        "h1": "Liu Shaoang: Próbáltam tartani magam, de az utolsó pillanatban kicsordult a könnyem",
+        "txtlength": 19595
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/sport/2022/02/23/forma-1-f1-2022-teszt-barcelona-fejlesztesek",
+        "h1": "Beköszöntött az F1 új korszaka, és nem is lehetne izgalmasabb",
+        "txtlength": 16173
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kulfold/2022/02/23/ukrajna-oroszorszag-krizis-szankcio-eu-usa-timcsenko-rotenberg/",
+        "h1": "Ukrán válság: Putyin régi barátai kapták meg az első szankciókat a britektől",
+        "txtlength": 15085
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2022/02/24/rogan-antal-schadl-gyorgy-belvaros-ingatlan/",
+        "h1": "Schadl bombaüzlete: már Rogán alatt megvolt a technika, amellyel olcsóvá varázsolták a belvárosi ingatlanokat",
+        "txtlength": 13886
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/vilag/20220224_vlagyimir_putyin_katonai_muvelet_ukrajna_donyec_medence",
+        "h1": "Kijevet is lövik az oroszok, hadiállapotot vezettek be Ukrajnában – percről percre az orosz-ukrán háborúról",
+        "txtlength": 12594
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20220223_korrupcio_horvath_csaba_kozponti_nyomozo_fougyeszseg",
+        "h1": "Korrupcióval gyanúsítja Horváth Csaba zuglói polgármestert a Központi Nyomozó Főügyészség",
+        "txtlength": 12580
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/02/23/vagyonnyilatkozati-eljarast-inditott-a-fovaros-az-v-kerulet-fideszes-polgarmestere-ellen-a-bakonyi-foldjei-miatt",
+        "h1": "Vagyonnyilatkozati eljárást indított a főváros az V. kerület fideszes polgármestere ellen, a bakonyi földjei miatt",
+        "txtlength": 10160
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/02/23/biden-elnok-szankciokkal-sujtotta-az-eszaki-aramlat-2-mogott-allo-ceget-es-annak-vezetoit",
+        "h1": "Biden elnök szankciókkal sújtotta az Északi Áramlat 2 mögött álló céget és annak vezetőit",
+        "txtlength": 10077
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/sztarvilag/kultura/kozep-europa-tancszinhaz-hangok-tanc-video/4rqtk6c",
+        "h1": "Eltáncolják a hangokat a fiatal, szexi táncosok – videó",
+        "txtlength": 9476
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20220223_pedagogussztrajk_videoriport_Budapest_ELTE_Radnoti",
+        "h1": "„Ennek semmi súlya nincs, de mégis nagyon fontos” – tanárok és diákok a sztrájkról",
+        "txtlength": 8328
+    },
+    {
         "hostname": "nosalty.hu",
         "pagelink": "https://www.nosalty.hu/recept/egyszeru-ciganypecsenye",
         "h1": "Egyszerű cigánypecsenye",
