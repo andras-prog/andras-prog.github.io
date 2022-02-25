@@ -1,85 +1,6 @@
 [
     {
-        "timestamp": 1645196434218,
-        "name": "Kínai egytálétel",
-        "lead": "A jó minőségű élelmiszer nem más, mint olcsó egészségbiztosítás.",
-        "phrase": "egytál",
-        "link": "https://www.nosalty.hu/recept/kinai-egytaletel",
-        "ingred": [
-            "sárgarépa",
-            "hagyma",
-            "fokhagyma",
-            "gyömbér",
-            "gomba",
-            "tofu",
-            "csirkemell",
-            "zöldbab",
-            "kápia paprika",
-            "kaliforniai paprika",
-            "ananász",
-            "rizstészta",
-            "olaj",
-            "szójaszósz",
-            "chiliszósz",
-            "worcestershire-szósz",
-            "halszósz",
-            "tabasco szósz",
-            "barna cukor",
-            "szezámolaj"
-        ]
-    },
-    {
-        "timestamp": 1645196434218,
-        "name": "Habos túrós pite (Túrós pite 3.)",
-        "lead": "Bármily egyszerű is az étel, a született szakácsot tévedhetetlenül föl lehet ismerni.",
-        "phrase": "pite",
-        "link": "https://www.nosalty.hu/recept/habos-turos-pite-turos-pite-3",
-        "ingred": [
-            "mangalica zsír",
-            "liszt",
-            "tojás",
-            "lekvár",
-            "túró",
-            "cukor",
-            "vaníliaaroma",
-            "tejföl",
-            "citrom"
-        ]
-    },
-    {
-        "timestamp": 1645196434218,
-        "name": "Gulyásleves 4. -sertéshúsból",
-        "lead": "Az ember nem gondolkodhat, nem szerethet, nem alhat jól, ha nem evett jól.",
-        "phrase": "leves",
-        "link": "https://www.nosalty.hu/recept/gulyasleves-4-serteshusbol",
-        "ingred": [
-            "sertéscomb",
-            "hagyma",
-            "zsír",
-            "paprika",
-            "paradicsom",
-            "petrezselyem",
-            "sárgarépa",
-            "burgonya",
-            "csípős paprikakrém"
-        ]
-    },
-    {
-        "timestamp": 1645196434218,
-        "name": "Grízes tészta",
-        "lead": "Minden étkezésben ott lakozhat a lélek, egy különös varázs; elég hozzá egy csöppnyi odafigyelés, képzelet és figyelmes gondoskodás.",
-        "phrase": "tészta",
-        "link": "https://www.nosalty.hu/recept/grizes-teszta",
-        "ingred": [
-            "tészta",
-            "olívaolaj",
-            "búzadara",
-            "porcukor",
-            "lekvár"
-        ]
-    },
-    {
-        "timestamp": 1616756449423,
+        "timestamp": 1645801227457,
         "name": "Mediterrán csicseriborsós egytál",
         "lead": "Tudod, miért fontos a finom étel? Összehozza az embereket, bárhonnan származnak is. Mindenkit barátságossá tesz és mosolyt csal az arcára.",
         "phrase": "egytál",
@@ -99,7 +20,7 @@
         ]
     },
     {
-        "timestamp": 1616756449423,
+        "timestamp": 1645801227457,
         "name": "Tejfölös-kolbászos krumplileves",
         "lead": "Elképesztően finom",
         "phrase": "krumpli",
@@ -120,7 +41,7 @@
         ]
     },
     {
-        "timestamp": 1616756449423,
+        "timestamp": 1645801227457,
         "name": "Virslis saláta",
         "lead": "Amit a tányérra teszek az nem étel, hanem a lelkem és a szenvedélyem.",
         "phrase": "saláta",
@@ -133,7 +54,7 @@
         ]
     },
     {
-        "timestamp": 1617361294106,
+        "timestamp": 1645801227457,
         "name": "Sertés szelet sajtmártással",
         "lead": "A filozófiám alapja, hogy cogito ergo sum - gondolkodni és létezni viszont csak akkor tudok, ha jóllakott vagyok.",
         "phrase": "sertés",
@@ -3197,6 +3118,85 @@
             "tojás",
             "kefir",
             "olaj"
+        ]
+    },
+    {
+        "timestamp": 1645196434218,
+        "name": "Kínai egytálétel",
+        "lead": "A jó minőségű élelmiszer nem más, mint olcsó egészségbiztosítás.",
+        "phrase": "egytál",
+        "link": "https://www.nosalty.hu/recept/kinai-egytaletel",
+        "ingred": [
+            "sárgarépa",
+            "hagyma",
+            "fokhagyma",
+            "gyömbér",
+            "gomba",
+            "tofu",
+            "csirkemell",
+            "zöldbab",
+            "kápia paprika",
+            "kaliforniai paprika",
+            "ananász",
+            "rizstészta",
+            "olaj",
+            "szójaszósz",
+            "chiliszósz",
+            "worcestershire-szósz",
+            "halszósz",
+            "tabasco szósz",
+            "barna cukor",
+            "szezámolaj"
+        ]
+    },
+    {
+        "timestamp": 1645196434218,
+        "name": "Habos túrós pite (Túrós pite 3.)",
+        "lead": "Bármily egyszerű is az étel, a született szakácsot tévedhetetlenül föl lehet ismerni.",
+        "phrase": "pite",
+        "link": "https://www.nosalty.hu/recept/habos-turos-pite-turos-pite-3",
+        "ingred": [
+            "mangalica zsír",
+            "liszt",
+            "tojás",
+            "lekvár",
+            "túró",
+            "cukor",
+            "vaníliaaroma",
+            "tejföl",
+            "citrom"
+        ]
+    },
+    {
+        "timestamp": 1645196434218,
+        "name": "Gulyásleves 4. -sertéshúsból",
+        "lead": "Az ember nem gondolkodhat, nem szerethet, nem alhat jól, ha nem evett jól.",
+        "phrase": "leves",
+        "link": "https://www.nosalty.hu/recept/gulyasleves-4-serteshusbol",
+        "ingred": [
+            "sertéscomb",
+            "hagyma",
+            "zsír",
+            "paprika",
+            "paradicsom",
+            "petrezselyem",
+            "sárgarépa",
+            "burgonya",
+            "csípős paprikakrém"
+        ]
+    },
+    {
+        "timestamp": 1645196434218,
+        "name": "Grízes tészta",
+        "lead": "Minden étkezésben ott lakozhat a lélek, egy különös varázs; elég hozzá egy csöppnyi odafigyelés, képzelet és figyelmes gondoskodás.",
+        "phrase": "tészta",
+        "link": "https://www.nosalty.hu/recept/grizes-teszta",
+        "ingred": [
+            "tészta",
+            "olívaolaj",
+            "búzadara",
+            "porcukor",
+            "lekvár"
         ]
     }
 ]
