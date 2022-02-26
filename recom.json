@@ -1,6 +1,186 @@
 [
     {
         "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/egyszeru-borsos-tokany",
+        "h1": "Egyszerű borsos tokány",
+        "txtlength": 10823
+    },
+    {
+        "hostname": "hataratkelo.blog.hu",
+        "pagelink": "https://hataratkelo.blog.hu/2022/02/20/ket_magyar_egy_eskuvo_skociaban#c41238946",
+        "h1": "Két magyar, egy esküvő Skóciában",
+        "txtlength": 31186
+    },
+    {
+        "hostname": "kulturpart.hu",
+        "pagelink": "https://kulturpart.hu/2022/02/20/nyerj_jegyet_a_pesti_vigadoba",
+        "h1": "NYERJ JEGYET A PESTI VIGADÓBA!",
+        "txtlength": 5402
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vilag/20220225/serulekeny-az-orosz-gazdasag-de-csak-a-foldgaz-bojkottjaval-lehetne-foldre-kenyszeriteni/",
+        "h1": "Sérülékeny az orosz gazdaság, de csak a földgáz bojkottjával lehetne földre kényszeríteni",
+        "txtlength": 23652
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/global/20220226/heves-harcok-kijev-korul-ostrom-alatt-a-fovaros-itt-vannak-a-legfontosabb-hirek-szombaton-529271",
+        "h1": "Heves harcok Kijev körül, ostrom alatt a főváros - Itt vannak a legfontosabb hírek szombaton ",
+        "txtlength": 20852
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vilag/20220225/meg-ma-eldolhet-sikerul-e-az-orosz-villamhaboru/",
+        "h1": "Még ma eldőlhet, sikerül-e az orosz villámháború",
+        "txtlength": 19029
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/global/20220225/orosz-ukran-haboru-tenyleg-rosszul-teljesitenek-az-oroszok-529145",
+        "h1": "Orosz-ukrán háború: Tényleg rosszul teljesítenek az oroszok?",
+        "txtlength": 16616
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://sport.mandiner.hu/cikk/20220225_az_uefa_elvette_a_bajnokok_ligaja_dontot_szentpetervartol_parizs_kapta_meg_a_rendezesi_jogot",
+        "h1": "Az UEFA elvette a Bajnokok Ligája-döntőt Szentpétervártól, Párizs kapta meg a rendezési jogot",
+        "txtlength": 16268
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/gazdasag/20220225/elore-lathato-volt-a-devizakatasztrofa-megszolalt-az-otp-korabbi-vezerhelyettese-1122329",
+        "h1": "Előre látható volt a devizakatasztrófa: megszólalt az OTP korábbi vezérhelyettese",
+        "txtlength": 15579
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/egeszseg/20220225/rengeteg-magyar-retteg-most-az-ukran-haboru-miatt-igy-elozheto-meg-a-totalis-lelki-osszeomlas-1122374",
+        "h1": "Rengeteg magyar retteg most az ukrán háború miatt: így előzhető meg a totális lelki összeomlás",
+        "txtlength": 15023
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220226_haboru_kijevet_tobb_iranybol_tamadjak_heves_utcai_harcok_mindenutt_elo",
+        "h1": "Háború: Kijevet több irányból támadják, heves utcai harcok mindenütt – ÉLŐ",
+        "txtlength": 14714
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220225_alfoldi_robert_kulfold_ukrajna",
+        "h1": "Alföldi Róbert: Most tökös férfiként kell viselkedni",
+        "txtlength": 13057
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/utazas/kutya-setaltatas-szabalyai-erdoben/",
+        "h1": "Ezért ne engedd el a kutyát az erdőben akkor sem, ha behívhatónak ismered: prédává válhat, vagy a vadász is kilőheti",
+        "txtlength": 12552
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/global/20220225/videokon-az-orosz-pancelosok-benyomulasa-kijevbe-ugy-nez-ki-egy-haborus-bunt-is-rogzitettek-529047",
+        "h1": "Videókon az orosz páncélosok benyomulása Kijevbe, úgy néz ki, egy háborús bűnt is rögzítettek",
+        "txtlength": 11200
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/testem/ritka-betegsegek-vilagnapja/",
+        "h1": "Évekig nem jönnek rá, mitől szenvednek a ritka betegségek áldozatai: ez a hét róluk szól",
+        "txtlength": 10873
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/lajfhekk/mit-nem-szabad-mosogatogeppel-tisztitani/",
+        "h1": "mit nem szabad mosogatógéppel tisztítani",
+        "txtlength": 8960
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2022/02/26/olexij-haran-kijevbol-a-nyugatnak-az-egesz-orosz-nepet-kellene-buntetnie-nem-csak-nehany-oligarchat",
+        "h1": "OLEXIJ HARAN KIJEVBŐL: A NYUGATNAK EGÉSZ OROSZORSZÁGOT KELLENE BÜNTETNIE, NEM CSAK NÉHÁNY OLIGARCHÁT",
+        "txtlength": 7442
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/tudomany/2022/02/25/kommunizmus-aldozat-emleknap-kovacs-bela-tortenelem/",
+        "h1": "A szovjetek rabolták el, a magyarok alázták meg és törték össze",
+        "txtlength": 21492
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kulfold/2022/02/26/orosz-ukran-valsag-kijev-volodimir-zelenszkij-percrol-percre-szombat",
+        "h1": "Fegyverropogástól és robbanásoktól hangos éjszaka után szombat reggel utcai harcokra figyelmeztetnek Kijevben",
+        "txtlength": 20562
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kulfold/2022/02/26/racz-andras-ukrajna-oroszorszag-haboru-hosok-tere-alapitvany-elemzok/",
+        "h1": "Putyin tönkreverné az ukrán sereget, bevenné Kijevet és kiiktatná az elnököt az elemző szerint",
+        "txtlength": 18121
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kulfold/2022/02/25/kina-ukrajna-ukran-valsag-haboru-oroszorszag-putyin-peking-tajvan",
+        "h1": "Az orosz támadás óta Kína terel, és élénken figyeli, mit reagál a nyugati világ",
+        "txtlength": 17474
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/gazdasag/20220225_ukrajna_magyarorszag_kormany_kerdesek",
+        "h1": "Tíz kérdés, amelyet a kormánynak sürgősen tisztáznia kellene az ukrán krízis kapcsán",
+        "txtlength": 15325
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kulfold/2022/02/26/orosz-ukran-haboru-invazio-kijev-percrol-percre/",
+        "h1": "Elkezdődött Kijev ostroma",
+        "txtlength": 15239
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/belfold/2022/02/25/ukrajna-karpatalja-menekultek-segitseg-adomany-hasznos-informaciok-kozszolgalat",
+        "h1": "Ukrajnából menekülök Magyarországra, mit kell tudnom?",
+        "txtlength": 12723
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20220225_civil_szervezetek_segitseg_ukran_konfliktus",
+        "h1": "Segítene az Ukrajnából menekülőknek? Ezekkel a szervezetekkel teheti meg",
+        "txtlength": 12618
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/vilag/20220226_kijev_ostrom_szombat",
+        "h1": "Kijev ostrom alatt – utcai harcok dúlnak, lelőttek egy orosz szállítógépet",
+        "txtlength": 12158
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/02/26/hetvegi-olvasnivalok-haborurol-es-bekerol",
+        "h1": "Hétvégi olvasnivalók háborúról és békéről",
+        "txtlength": 10918
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/02/25/a-tanarok-penteken-is-folytattak-a-polgari-engedetlensegi-akciojukat",
+        "h1": "A tanárok pénteken is folytatták a polgári engedetlenségi akciójukat",
+        "txtlength": 10385
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/krimi/gyilkossag-amokfutas-richter-richard-halalbuntetes-kivegzes-csillag-borton/ncj0v9y",
+        "h1": "Három őrt gyilkolt meg a Csillag börtön késes ámokfutója, többeket megsebesített",
+        "txtlength": 10156
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/kulfold/orosz-ukran-haboru-kijev-ostrom/rxwdym5",
+        "h1": "Kijev ostrom alatt: megrázó felvételek a háborús övezetből – fotók, videók",
+        "txtlength": 7423
+    },
+    {
+        "hostname": "nosalty.hu",
         "pagelink": "https://www.nosalty.hu/recept/tejfolos-karfiolleves",
         "h1": "Tejfölös karfiolleves",
         "txtlength": 10861
