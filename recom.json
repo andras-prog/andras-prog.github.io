@@ -1,6 +1,186 @@
 [
     {
         "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/nagyon-omlos-pite",
+        "h1": "Nagyon omlós pite",
+        "txtlength": 12728
+    },
+    {
+        "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/klasszikus-csaszarmorzsa",
+        "h1": "Klasszikus császármorzsa",
+        "txtlength": 10956
+    },
+    {
+        "hostname": "kiszamolo.hu",
+        "pagelink": "https://kiszamolo.hu/az-ukran-helyzet/#more-118012",
+        "h1": "Az ukrán helyzet",
+        "txtlength": 43802
+    },
+    {
+        "hostname": "efesasanisimasa.com",
+        "pagelink": "https://efesasanisimasa.com/2022/01/22/sajat-szoba-letoltendo-ido-time-2021-minisorozat/",
+        "h1": "Saját szoba – Letöltendő idő (Time, 2021), minisorozat",
+        "txtlength": 9420
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/gazdasag/20220225/orosz-ukran-haboru-megszolalt-ader-ezt-nem-teszik-zsebre-az-oroszok-1122387",
+        "h1": "Orosz-ukrán háború: megszólalt Áder, ezt nem teszik zsebre az oroszok",
+        "txtlength": 36151
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/kozelet/20220226/hogyan-vedjuk-meg-a-szegenyeket-a-klimaharc-hatasaitol/",
+        "h1": "Hogyan védjük meg a szegényeket a klímaharc hatásaitól?",
+        "txtlength": 23652
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/megtakaritas/20220226/ide-menekitik-most-a-penzuket-az-elelmes-magyarok-vajon-mire-keszulnek-1122372",
+        "h1": "Ide menekítik most a pénzüket az élelmes magyarok: vajon mire készülnek?",
+        "txtlength": 22293
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20220227/magyarorszagon-halalosabb-volt-a-koronavirus-jarvany-mint-a-spanyolnatha-es-ez-nagyon-meglepo-528237",
+        "h1": "Magyarországon halálosabb volt a koronavírus-járvány, mint a spanyolnátha - és ez nagyon meglepő",
+        "txtlength": 19994
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/penz/20220226/europaban-vagy-imadjak-a-keszpenzt-az-emberek-vagy-alig-varjak-hogy-vegre-megszabaduljanak-tole/",
+        "h1": "Európában vagy imádják a készpénzt az emberek, vagy alig várják, hogy végre megszabaduljanak tőle",
+        "txtlength": 19570
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/global/20220227/mar-csak-ez-hianyzott-az-atomfegyver-mentesseg-felmondasarol-tartanak-nepszavazast-ukrajna-szomszedjaban-529409",
+        "h1": "Már csak ez hiányzott: az atomfegyver-mentesség felmondásáról tartanak népszavazást Ukrajna szomszédjában",
+        "txtlength": 19097
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/global/20220227/sulyos-harcok-folynak-ukrajnaban-lecsaptak-oroszorszagra-a-nyugati-orszagok-itt-vannak-a-legfontosabb-hirek-vasarnap-529417",
+        "h1": "Súlyos harcok folynak Ukrajnában, lecsaptak Oroszországra a nyugati országok – Itt vannak a legfontosabb hírek vasárnap ",
+        "txtlength": 18959
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220227_heves_harcok_ukrajna_robbanasok_olajletesitmenyek_kijev_haboru_kulfold",
+        "h1": "Háború: Heves harcok Ukrajnában, robbanások olajlétesítményeknél – ÉLŐ",
+        "txtlength": 15779
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220226_antall_jozsef_naiv_aki_azt_hiszi_oroszorszag_lemondott_kozep_europarol",
+        "h1": "Antall József: Naiv, aki azt hiszi, Oroszország lemondott Közép-Európáról",
+        "txtlength": 15051
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/egeszseg/richter-anna-dij-szavazas-2022/",
+        "h1": "Te döntheted el, ki kapja a 4 millió forinttal járó díjat: fontos magyar egészségügyi projektek indultak a pályázaton",
+        "txtlength": 13865
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220226_igy_csapodott_be_egy_orosz_raketa_a_24_emeletes_kijevi_panelba",
+        "h1": "Így csapódott be egy orosz rakéta a 24 emeletes kijevi panelba",
+        "txtlength": 13379
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/lajfhekk/test-sport-korcsolya/",
+        "h1": "jégtánc sport egyensúly szédülés trükk korcsolya test",
+        "txtlength": 8931
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2022/02/27/hiaba-sok-az-egyetemista-olimpikon-csak-a-hallgatok-negyede-mozog-rendszeresen",
+        "h1": "HIÁBA SOK AZ EGYETEMISTA OLIMPIKON, CSAK A HALLGATÓK NEGYEDE MOZOG RENDSZERESEN",
+        "txtlength": 7988
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://rangado.24.hu/magyar_foci/2022/02/26/adam-martin-paksi-fc-labdarugas-foci-nb-1-otp-bank-liga-interju/",
+        "h1": "Ádám Martin: Lehet utánam csinálni",
+        "txtlength": 27293
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kulfold/2022/02/27/orosz-ukran-haboru-negyedik-nap-percrol-percre-kozvetites/",
+        "h1": "Kijev tartja magát, Harkivba viszont bejutottak az orosz csapatok",
+        "txtlength": 25405
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kozelet/2022/02/26/gyurko-szilvia-interju-hintalovon-alapitvany-fiuk-szexualis-bantalmazas-kizsakmanyolas/",
+        "h1": "Lehet, hogy a fiúk nem sírnak, de attól még bánthatják őket",
+        "txtlength": 24815
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kulfold/2022/02/27/orosz-ukran-valsag-haboru-vasarnap-percrol-percre",
+        "h1": "Zelenszkij akár Budapesten is tárgyalna, az orosz erők betörtek Harkivba, a második legnagyobb ukrán városba",
+        "txtlength": 20767
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/eszkombajn/2022/02/26/nemvalto-mutet-lili-elben-dan-lany",
+        "h1": "Száz éve is voltak nemváltó műtétek, és nemcsak nyugaton, de nálunk is",
+        "txtlength": 16869
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/02/26/a-magyar-kormany-egyedul-nem-vetoz-szankciot",
+        "h1": "A magyar kormány egyedül nem vétóz szankciót",
+        "txtlength": 15172
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/02/26/a-nagy-nevetteto-aki-a-vilagtortenelem-szinpadan-talalta-magat",
+        "h1": "A nagy nevettető, aki a világtörténelem színpadán találta magát",
+        "txtlength": 14039
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/vilag/20220227_Kitart_a_teljes_kijarasi_tilalom_alatt_levo_Kijev_talalat_ert_egy_radioaktivhulladektarolot",
+        "h1": "Kitart a teljes kijárási tilalom alatt lévő Kijev, találat ért egy radioaktívhulladék-tárolót - helyszíni beszámoló",
+        "txtlength": 13311
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/gazdasag/20220227_Es_akkor_orosz_ukran_benzin_olaj_dragulas_forint",
+        "h1": "És akkor kiderült, az amerikaiak nem blöfföltek, amikor orosz támadásról beszéltek",
+        "txtlength": 12820
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/eszkombajn/2022/02/27/a-nagy-hanoi-patkanymeszarlas-francia-indokina-gyarmatositas-jarvany-pestis-kobrahatas-perverz-osztonzo",
+        "h1": "A nagy hanoi patkánymészárlás után csak még több lett a bubópestist terjesztő rágcsálóból a városban",
+        "txtlength": 12556
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/gazdasag/20220226_swift_oroszorszag_szankciok_ukran_haboru",
+        "h1": "Magyarország is támogatja, napokon belül bevethetik a nyugati országok a legsúlyosabb szankciót Oroszország ellen",
+        "txtlength": 10231
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/sztarvilag/filmklikk/a-tvr-het-ajanlja-szerelem-a-nilus-partjan/br3dtz3",
+        "h1": "Szerelem a Nílus partján",
+        "txtlength": 9851
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/blikk-tv/aktualis/jakab-peter-kampanyjaro-jobbik-feleseg-furcsa-kerdesek-video/30tghem",
+        "h1": "„Sóher vagyok!” – Jegygyűrű nélkül válaszolt pimasz kérdéseinkre Jakab Péter – videó",
+        "txtlength": 8730
+    },
+    {
+        "hostname": "nosalty.hu",
         "pagelink": "https://www.nosalty.hu/recept/egyszeru-borsos-tokany",
         "h1": "Egyszerű borsos tokány",
         "txtlength": 10823
