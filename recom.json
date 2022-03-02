@@ -1,6 +1,192 @@
 [
     {
         "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/randi-falatok-fehercsokis-buboreksuti.recept",
+        "h1": "RANDI FALATOK (FEHÉRCSOKIS BUBORÉKSÜTI)",
+        "txtlength": 11375
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/szivarvanyos-palacsintatorta-video.recept",
+        "h1": "SZIVÁRVÁNYOS PALACSINTATORTA",
+        "txtlength": 10918
+    },
+    {
+        "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/egyszeru-tokfozelek",
+        "h1": "Egyszerű tökfőzelék",
+        "txtlength": 10247
+    },
+    {
+        "hostname": "kiszamolo.hu",
+        "pagelink": "https://kiszamolo.hu/olaszorszagi-ingatlanvasarlas/",
+        "h1": "Olaszországi ingatlanvásárlás",
+        "txtlength": 32959
+    },
+    {
+        "hostname": "kulturpart.hu",
+        "pagelink": "https://kulturpart.blog.hu/2022/02/27/megerkezett_a_segitseg_az_ukran-magyar_hatarra",
+        "h1": "MEGÉRKEZETT A SEGÍTSÉG AZ UKRÁN-MAGYAR HATÁRRA",
+        "txtlength": 6550
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220226_banffy#comments",
+        "h1": "Rock and roll érzés erdélyi bárónak lenni – Bánffy Farkas a Mandinernek",
+        "txtlength": 25085
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/global/20220302/a-legnagyobb-varosokert-folyik-a-harc-sorsdonto-orak-elott-ukrajna-itt-vannak-a-legfontosabb-hirek-szerdan-530237",
+        "h1": "A legnagyobb városokért folyik a harc, sorsdöntő órák előtt Ukrajna – Itt vannak a legfontosabb hírek szerdán ",
+        "txtlength": 25031
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vilag/20220302/mi-lesz-ukrajnabol-a-haboru-utan-finnorszag-vagy-sziria/",
+        "h1": "Mi lesz Ukrajnából a háború után, Finnország vagy Szíria?",
+        "txtlength": 22484
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220220_programok_harca_interju_orban_balazs_balazs_peter",
+        "h1": "Szuverenista sikerdiplomácia vagy negatív modell?",
+        "txtlength": 19698
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220219_visszatekinto_fidesz",
+        "h1": "Választásról választásra küzdötte fel magát a Fidesz oda, ahol most van",
+        "txtlength": 19174
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vallalat/20220227/nem-veletlenul-a-rezsicsokkentes-jutott-rogton-orban-viktor-eszebe-a-haborurol/",
+        "h1": "Nem véletlenül a rezsicsökkentés jutott rögtön Orbán Viktor eszébe a háborúról",
+        "txtlength": 17727
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/egeszseg/20220301/rengeteg-magyar-szenved-a-modern-nepbetegsegtol-vagyonokba-kerulhet-hogy-szabaduljanak-tole-1122384",
+        "h1": "Rengeteg magyar szenved a modern népbetegségtől: vagyonokba kerülhet, hogy szabaduljanak tőle",
+        "txtlength": 17669
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/uzlet/20220302/nincs-megallas-a-tegnapi-zuhanas-utan-tovabb-utik-az-otp-t-530253",
+        "h1": "Nincs megállás, a tegnapi zuhanás után tovább ütik az OTP-t ",
+        "txtlength": 16998
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2022/03/02/a-valasztok-18-szazalekaert-kell-megkuzdenie-a-kormanypartnak-es-az-ellenzeknek",
+        "h1": "A VÁLASZTÓK 18 SZÁZALÉKÁÉRT KELL MEGKÜZDENIE A KORMÁNYPÁRTNAK ÉS AZ ELLENZÉKNEK",
+        "txtlength": 16105
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/bank/20220302/vege-a-magyar-sberbanknak-megjelentek-a-tudnivalok-530257",
+        "h1": "Vége a magyar Sberbanknak, megjelentek a tudnivalók ",
+        "txtlength": 15773
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/megtakaritas/20220302/itt-az-elso-fecske-ujra-van-ertekelheto-beteti-kamat-1122471",
+        "h1": "Itt az első fecske: újra van értékelhető betéti kamat",
+        "txtlength": 15491
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/szuloseg/bator-gyerek-neveles/",
+        "h1": "Így nevelj bátor gyereket: nem segít, ha a széltől is óvod",
+        "txtlength": 14435
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/egeszseg/aranygyoker-rhodiola-rosea-hatasa/",
+        "h1": "Serkenti az agyi funkciókat, csökkenti a szorongást: az aranygyökér 5 áldásos hatása a szervezetre",
+        "txtlength": 10181
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kulfold/2022/03/01/lindbergh-bebi-elrablasa-hires-bunugy-90-evfordulo",
+        "h1": "A nap, amikor Amerika hőséből az egyik leghíresebb amerikai bűnügyi tragédia főszereplője lett",
+        "txtlength": 24052
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kulfold/2022/03/02/orosz-ukran-haboru-percrol-percre-tudositas-szerda",
+        "h1": "Huszonegy halott Harkivban, az oroszok állítják, elfoglaltak egy 300 ezres kikötővárost, a Sberbank kivonul Európából",
+        "txtlength": 21606
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/03/02/nem-lehet-kimaradni",
+        "h1": "Nem lehet kimaradni",
+        "txtlength": 19468
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kulfold/2022/03/02/nemetorszag-kulpolitika-vedelmi-politika-olaf-scholz-tortenelmi-forradalmi-fordulat-szingapur-svajc-banktitok-penzugyi-szankcio-ukrajna-ukran-valsag-oroszorszag",
+        "h1": "Németországtól Szingapúrig tabukat dönt az orosz invázió",
+        "txtlength": 16856
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/fn/gazdasag/2022/03/02/putyin-oroszorszag-magyarorszag-uzlet-orban-viktor-paks-gazszerzodes-beruhazasi-bank/",
+        "h1": "Eurómilliárdos üzletekkel vonta egyre szorosabbra az orosz kapcsolatokat az Orbán-kormány",
+        "txtlength": 16288
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/tudomany/20220302_deloitte_tech_trends_elemzes_kvantumtechnologia_forradalma_exponencialis_intelligencia_ambient_szamitastechnika",
+        "h1": "Deloitte: Küszöbön az exponenciális intelligencia forradalma, és jönnek az érzelmes gépek",
+        "txtlength": 15602
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/03/01/orbani-kulpolitika-uzletelunk-barmilyen-diktatorral-csak-penz-legyen-belole",
+        "h1": "Orbáni külpolitika: üzletelünk bármilyen diktátorral, csak pénz legyen belőle",
+        "txtlength": 15405
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kulfold/2022/03/02/joe-biden-az-orosz-ukran-haborurol-putyin-csunyan-elszamolta-magat-2/",
+        "h1": "Joe Biden az orosz-ukrán háborúról: Putyin csúnyán elszámolta magát",
+        "txtlength": 15224
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20220301_nemzetkozi_beruhazasi_bank_Putyin_tuntetes_ellenzek_Budapest_elo",
+        "h1": "Márki-Zay Péter: Magyarországot nem Orbán Viktor, hanem kizárólag az EU- és a NATO-tagság védi",
+        "txtlength": 13155
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kultura/2022/03/01/podcast-bukso-zajacz-d-zoltan-nyary-krisztian-krimi/",
+        "h1": "Zajácz D. Zoltán: Igazából nem retro krimit akartam írni",
+        "txtlength": 12717
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/penz/sberbank-online-hirek-hogyan-kapom-vissza-a-penzem/gqqfz4e",
+        "h1": "Vége a magyar Sberbanknak: mutatjuk, hogyan kapja vissza a beragadt pénzét – Íme, a legfontosabb válaszok",
+        "txtlength": 12474
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/eurologus/20220301_Az_Europai_Parlament_tamogatja_Ukrajna_tagjelolti_statuszat",
+        "h1": "Az Európai Parlament támogatja Ukrajna tagjelölti státuszát",
+        "txtlength": 11582
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/politika/orosz-ukran-haboru-fiatal-nok-kernek-segitseget-ukran-pokolbol-putyin/td68j8p",
+        "h1": "„Itt állíthatjuk meg Putyint, hogy ne menjen tovább Európába” – Fiatal nők segélykiáltása az ukrán pokolból: ilyen az élet Kijevben és egy elesett kisvárosban",
+        "txtlength": 9251
+    },
+    {
+        "hostname": "mindmegette.hu",
         "pagelink": "https://www.mindmegette.hu/glutenmentes-fankok.recept",
         "h1": "GLUTÉNMENTES FÁNKOK",
         "txtlength": 11345
