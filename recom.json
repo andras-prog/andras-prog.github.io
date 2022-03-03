@@ -1,6 +1,186 @@
 [
     {
         "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/parajos-rukkolas-lasagne.recept",
+        "h1": "PARAJOS-RUKKOLÁS LASAGNE",
+        "txtlength": 11318
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/fasirt-video.recept",
+        "h1": "FASÍRT",
+        "txtlength": 11236
+    },
+    {
+        "hostname": "kiszamolo.hu",
+        "pagelink": "https://kiszamolo.hu/nem-veszem-ki-a-cegbol-a-penzt/",
+        "h1": "Nem veszem ki a cégből a pénzt",
+        "txtlength": 35616
+    },
+    {
+        "hostname": "kulturpart.hu",
+        "pagelink": "https://kulturpart.blog.hu/2022/03/02/emlekek_a_hazbol_nyelvleckek",
+        "h1": "EMLÉKEK A HÁZBÓL – NYELVLECKÉK",
+        "txtlength": 15321
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220302_kozelet_orban_viktor_interju_orosz_ukran_haboru",
+        "h1": "Magyarország békepárti – Orbán Viktor a Mandinernek",
+        "txtlength": 46703
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/karrier/20220302/felmondasi-hullam-soport-vegig-a-kontinensen-tomegek-forditottak-hatat-korabbi-karrierjuknek-1122555",
+        "h1": "Felmondási hullám söpört végig a kontinensen: tömegek fordítottak hátat korábbi karrierjüknek",
+        "txtlength": 21934
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/gazdasag/20220302/europa-gazellatasa-forog-kockan-az-orosz-ukran-haborun-brutalis-kovetkezmenyre-is-keszulhetunk-1122557",
+        "h1": "Európa gázellátása forog kockán az orosz-ukrán háborún: brutális következményre is készülhetünk",
+        "txtlength": 19369
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vilag/20220302/sarba-ragad-az-orosz-tamadas-ukrajnaban/",
+        "h1": "Sárba ragad az orosz támadás Ukrajnában",
+        "txtlength": 18713
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/penz/20220302/europa-tulelne-az-orosz-gaz-hianyat-oroszorszag-kevesbe/",
+        "h1": "Európa túlélné az orosz gáz hiányát, Oroszország kevésbé",
+        "txtlength": 18264
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/uzlet/20220303/kis-megnyugvas-a-tozsdeken-nagyot-megy-ma-az-otp-530597",
+        "h1": "Kis megnyugvás a tőzsdéken, nagyot megy ma az OTP ",
+        "txtlength": 17667
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220302_ocskay_laszlo_tortenete",
+        "h1": "A magyar Schindler: az embermentő Ocskay László története",
+        "txtlength": 16941
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220302_maria_keffler_konyvajanlo",
+        "h1": "A könyv, ami végképp lezárja a vitát, létezik-e lmbtq-lobbi",
+        "txtlength": 16577
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/global/20220303/mar-egy-hete-tombol-a-haboru-ukrajnaban-de-egy-szuperhatalom-meg-mindig-nem-fedte-fel-lapjait-530583",
+        "h1": "Már egy hete tombol a háború Ukrajnában, de egy szuperhatalom még mindig nem fedte fel lapjait",
+        "txtlength": 16318
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/global/20220303/egy-hete-tart-az-ukrajnai-haboru-elesett-az-elso-nagyvaros-itt-vannak-a-legfontosabb-hirek-csutortokon-530585",
+        "h1": "Egy hete tart az ukrajnai háború, elesett az első nagyváros - Itt vannak a legfontosabb hírek csütörtökön ",
+        "txtlength": 14198
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/gyerek/ejszakai-bepisiles-5-evesen/",
+        "h1": "Éjszakai bepisilés 5 évesen - Ezek a vizsgálatok szükségesek a gyereknefrológus szerint",
+        "txtlength": 13465
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/szuloseg/csaladfakutatas-felmenok-csaladfa/",
+        "h1": "családfakutatás felmenők családfa törvénytelen",
+        "txtlength": 12627
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2022/03/02/hosszabb-ideig-elunk-magasabbak-leszunk-es-tovabb-zsugorodik-az-agyunk-ide-vezethet-az-evolucio-a-kovetkezo-tizezer-evben",
+        "h1": "HOSSZABB IDEIG ÉLÜNK, MAGASABBAK LESZÜNK, ÉS TOVÁBB ZSUGORODIK AZ AGYUNK – IDE VEZETHET AZ EVOLÚCIÓ A KÖVETKEZŐ TÍZEZER ÉVBEN",
+        "txtlength": 12568
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kulfold/2022/03/03/percrol-percre-csutortok-orosz-ukran-valsag",
+        "h1": "Totális ellenállásra szólít fel az ukrán fegyveres erők vezérkara, csütörtökön újabb béketárgyalás jöhet",
+        "txtlength": 33690
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/kulfold/orosz/81y1tek",
+        "h1": "Robbanások Kijevben, hamarosan újra a békéről tárgyalhatnak a felek – Az orosz–ukrán háború nyolcadik napja, percről percre",
+        "txtlength": 25761
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kulfold/2022/03/03/orosz-ukran-haboru-nyolcadik-nap-elo-percrol-percre/",
+        "h1": "Úton vannak az ukránok a tárgyalás második fordulójára, behatoltak Herszonba az orosz csapatok",
+        "txtlength": 20796
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/gazdasag/2022/03/02/oroszorszag-es-a-szankciok-moszkva-putyin-haboru-gazdasag-allamcsod-rubel",
+        "h1": "Oroszország és a szankciók: mennyit ér a Nyugat gazdasági háborúja Putyin ellen?",
+        "txtlength": 19200
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/sport/2022/03/02/ukran-sportolok-hadsereg-tamogatas-beallas-klicsko",
+        "h1": "Sorra állnak be az ukrán profi sportolók katonának",
+        "txtlength": 14930
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/03/02/amirol-a-fidesz-szerint-beszelni-sem-szabad-azt-a-kormany-brusszelben-megszavazta",
+        "h1": "Amiről a Fidesz szerint beszélni sem szabad, azt a kormány Brüsszelben megszavazta",
+        "txtlength": 14215
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kulfold/2022/03/02/orosz-ukran-habori-kijev-jaszberenyi-sandor-riport/",
+        "h1": "Jászberényi Sándor jelenti Ukrajnából: Úton a háború szíve felé",
+        "txtlength": 14018
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2022/03/03/orosz-ukran-haboru-orban-viktor-interju/",
+        "h1": "Orbán Viktor: Egy biztos, Oroszország a háború után is létezni fog",
+        "txtlength": 13998
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://amnesty.444.hu/2022/03/03/vissza-akarom-szerezni-azt-a-normalis-eletet-amit-egy-orult-ellopott-tolunk",
+        "h1": "Vissza akarom szerezni azt a normális életet, amit egy őrült ellopott tőlünk",
+        "txtlength": 13677
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20220302_A_haborus_helyzet_talan_a_Fidesznek_kedvez_de_igy_is_gyengebb_mint_4_eve_volt",
+        "h1": "A háborús helyzet talán a Fidesznek kedvez, de így is gyengébb, mint 4 éve volt",
+        "txtlength": 10197
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/vilag/20220303_orosz_ukran_haboru_nyolcadik_nap",
+        "h1": "Egymilliónál is többen menekültek el Ukrajnából, leminősítették Oroszországot – percről percre a háborúról",
+        "txtlength": 9000
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/tudomany/20220301_oroszorszag_vpn_telepites_google_play_aruhaz_apple_app_store_atlasvpn",
+        "h1": "Soha nem látott mértékben kezdték el használni az oroszok a VPN-t, hogy eltűnjenek az internetről",
+        "txtlength": 8995
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/kulfold/kijev-haboru-oroszok-ukranok-bejelentkezes-magyar-ferfi/v45h4k3",
+        "h1": "„Itt vannak az oroszok, félünk, de nem adjuk meg magunkat” – mondta a Blikknek Gyula az ostromlott Kijevből: pokoli napok vannak mögötte",
+        "txtlength": 8949
+    },
+    {
+        "hostname": "mindmegette.hu",
         "pagelink": "https://www.mindmegette.hu/randi-falatok-fehercsokis-buboreksuti.recept",
         "h1": "RANDI FALATOK (FEHÉRCSOKIS BUBORÉKSÜTI)",
         "txtlength": 11375
