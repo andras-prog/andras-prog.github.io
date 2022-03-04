@@ -1,79 +1,6 @@
 [
     {
-        "timestamp": 1645801227457,
-        "name": "Mediterrán csicseriborsós egytál",
-        "lead": "Tudod, miért fontos a finom étel? Összehozza az embereket, bárhonnan származnak is. Mindenkit barátságossá tesz és mosolyt csal az arcára.",
-        "phrase": "egytál",
-        "link": "https://www.nosalty.hu/recept/mediterran-csicseriborsos-egytal",
-        "ingred": [
-            "csicseriborsó",
-            "paradicsom",
-            "zöldpaprika",
-            "olívaolaj",
-            "hagyma",
-            "fokhagyma",
-            "sárgarépa",
-            "zeller",
-            "oregánó",
-            "majoranna",
-            "petrezselyem"
-        ]
-    },
-    {
-        "timestamp": 1645801227457,
-        "name": "Tejfölös-kolbászos krumplileves",
-        "lead": "Elképesztően finom",
-        "phrase": "krumpli",
-        "link": "https://www.nosalty.hu/recept/tejfolos-kolbaszos-krumplileves",
-        "ingred": [
-            "burgonya",
-            "szalonna",
-            "sárgarépa",
-            "petrezselyem",
-            "hagyma",
-            "kolbász",
-            "tejföl",
-            "tej",
-            "liszt",
-            "ételízesítő",
-            "fokhagyma",
-            "babérlevél"
-        ]
-    },
-    {
-        "timestamp": 1645801227457,
-        "name": "Virslis saláta",
-        "lead": "Amit a tányérra teszek az nem étel, hanem a lelkem és a szenvedélyem.",
-        "phrase": "saláta",
-        "link": "https://www.nosalty.hu/recept/virslis-salata",
-        "ingred": [
-            "virsli",
-            "lila hagyma",
-            "csemegekukorica",
-            "majonéz"
-        ]
-    },
-    {
-        "timestamp": 1645801227457,
-        "name": "Sertés szelet sajtmártással",
-        "lead": "A filozófiám alapja, hogy cogito ergo sum - gondolkodni és létezni viszont csak akkor tudok, ha jóllakott vagyok.",
-        "phrase": "sertés",
-        "link": "https://www.nosalty.hu/recept/sertes-szelet-sajtmartassal",
-        "ingred": [
-            "rövidkaraj",
-            "olaj",
-            "hagyma",
-            "paprika",
-            "olajbogyó",
-            "leveskocka",
-            "fehérbor",
-            "krémsajt",
-            "tejszín",
-            "liszt"
-        ]
-    },
-    {
-        "timestamp": 1617361294106,
+        "timestamp": 1646406037510,
         "name": "Frankfurti leves Évi néni konyhájából",
         "lead": "Próbáld ki, nagyon finom!",
         "phrase": "leves",
@@ -91,7 +18,7 @@
         ]
     },
     {
-        "timestamp": 1617361294106,
+        "timestamp": 1646406037510,
         "name": "Fokhagymakrémleves 9.- avagy Vámpírűző leves",
         "lead": "Bármily egyszerű is az étel, a született szakácsot tévedhetetlenül föl lehet ismerni.",
         "phrase": "leves",
@@ -108,7 +35,7 @@
         ]
     },
     {
-        "timestamp": 1617361294106,
+        "timestamp": 1646406037510,
         "name": "Mézes-mustáros csirke",
         "lead": "Minden egyes étel és élmény, amit egyedül élünk meg, kevésbé értékes, mint ha azokkal osztjuk meg, akiket szeretünk.",
         "phrase": "csirke",
@@ -124,7 +51,7 @@
         ]
     },
     {
-        "timestamp": 1617966038200,
+        "timestamp": 1646406037510,
         "name": "Lilahagymás krumplisaláta",
         "lead": "A jó minőségű élelmiszer nem más, mint olcsó egészségbiztosítás.",
         "phrase": "krumpli",
@@ -3197,6 +3124,79 @@
             "búzadara",
             "porcukor",
             "lekvár"
+        ]
+    },
+    {
+        "timestamp": 1645801227457,
+        "name": "Mediterrán csicseriborsós egytál",
+        "lead": "Tudod, miért fontos a finom étel? Összehozza az embereket, bárhonnan származnak is. Mindenkit barátságossá tesz és mosolyt csal az arcára.",
+        "phrase": "egytál",
+        "link": "https://www.nosalty.hu/recept/mediterran-csicseriborsos-egytal",
+        "ingred": [
+            "csicseriborsó",
+            "paradicsom",
+            "zöldpaprika",
+            "olívaolaj",
+            "hagyma",
+            "fokhagyma",
+            "sárgarépa",
+            "zeller",
+            "oregánó",
+            "majoranna",
+            "petrezselyem"
+        ]
+    },
+    {
+        "timestamp": 1645801227457,
+        "name": "Tejfölös-kolbászos krumplileves",
+        "lead": "Elképesztően finom",
+        "phrase": "krumpli",
+        "link": "https://www.nosalty.hu/recept/tejfolos-kolbaszos-krumplileves",
+        "ingred": [
+            "burgonya",
+            "szalonna",
+            "sárgarépa",
+            "petrezselyem",
+            "hagyma",
+            "kolbász",
+            "tejföl",
+            "tej",
+            "liszt",
+            "ételízesítő",
+            "fokhagyma",
+            "babérlevél"
+        ]
+    },
+    {
+        "timestamp": 1645801227457,
+        "name": "Virslis saláta",
+        "lead": "Amit a tányérra teszek az nem étel, hanem a lelkem és a szenvedélyem.",
+        "phrase": "saláta",
+        "link": "https://www.nosalty.hu/recept/virslis-salata",
+        "ingred": [
+            "virsli",
+            "lila hagyma",
+            "csemegekukorica",
+            "majonéz"
+        ]
+    },
+    {
+        "timestamp": 1645801227457,
+        "name": "Sertés szelet sajtmártással",
+        "lead": "A filozófiám alapja, hogy cogito ergo sum - gondolkodni és létezni viszont csak akkor tudok, ha jóllakott vagyok.",
+        "phrase": "sertés",
+        "link": "https://www.nosalty.hu/recept/sertes-szelet-sajtmartassal",
+        "ingred": [
+            "rövidkaraj",
+            "olaj",
+            "hagyma",
+            "paprika",
+            "olajbogyó",
+            "leveskocka",
+            "fehérbor",
+            "krémsajt",
+            "tejszín",
+            "liszt"
         ]
     }
 ]
