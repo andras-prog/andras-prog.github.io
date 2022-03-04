@@ -1,6 +1,192 @@
 [
     {
         "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/tejfolos-karaj-romai-talban.recept",
+        "h1": "TEJFÖLÖS KARAJ RÓMAI TÁLBAN",
+        "txtlength": 11190
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/brokkolikremleves-ahogyan-mi-szeretjuk.recept",
+        "h1": "BROKKOLIKRÉMLEVES, AHOGYAN MI SZERETJÜK",
+        "txtlength": 11025
+    },
+    {
+        "hostname": "kiszamolo.hu",
+        "pagelink": "https://kiszamolo.hu/nem-jott-meg-el-a-vilagvege/",
+        "h1": "Nem jött még el a világvége",
+        "txtlength": 32967
+    },
+    {
+        "hostname": "efesasanisimasa.com",
+        "pagelink": "https://efesasanisimasa.com/2022/02/03/a-professzor-es-az-orult-the-professor-and-the-madman-2019/",
+        "h1": "A professzor és az őrült (The Professor and the Madman, 2019)",
+        "txtlength": 9172
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220303_interview_with_prime_minister_viktor_orban",
+        "h1": "Hungary is pro-peace – interview with Hungarian prime minister Viktor Orbán",
+        "txtlength": 45212
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20220304/igy-vagjak-ki-a-vilagbol-az-orosz-gazdasagot-530989",
+        "h1": "Így vágják ki a világból az orosz gazdaságot",
+        "txtlength": 21764
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vilag/20220304/ebben-a-twitter-haboruban-a-civilek-is-kinyomozzak-honnan-lottek-ki-a-raketakat/",
+        "h1": "Ebben a Twitter háborúban a civilek is kinyomozzák, honnan lőtték ki a rakétákat",
+        "txtlength": 21707
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/global/20220304/evszazados-tabuk-dolnek-meg-europaban-putyin-agresszioja-miatt-latvanyos-a-fordulat-a-semlegessegukre-eddig-buszke-orszagokban-530775",
+        "h1": "Évszázados tabuk dőlnek meg Európában Putyin agressziója miatt – Látványos a fordulat a semlegességükre eddig büszke országokban",
+        "txtlength": 20770
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220304_belfold_orban_viktor_interju",
+        "h1": "Orbán Viktor: A legfontosabb a magyarok békéje és biztonsága",
+        "txtlength": 20645
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/kozelet/20220303/hogyan-elnek-tul-az-energiastrategiak-egy-haborut/",
+        "h1": "Hogyan élnek túl az energiastratégiák egy háborút?",
+        "txtlength": 19663
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/global/20220303/tragikus-az-ukrajnai-haboru-rengeteg-az-aldozat-ilyen-szamokat-a-masodik-vilaghaboru-ota-nem-lattunk-530809",
+        "h1": "Tragikus az ukrajnai háború, rengeteg az áldozat – Ilyen számokat a második világháború óta nem láttunk",
+        "txtlength": 19072
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220224_a_baloldal_es_arato_gergely_lenezi_a_valasztokat_pap_sandor_kobanya_fidesz",
+        "h1": "A baloldal és Arató Gergely lenézi a választókat – Pap Sándor a Mandinernek",
+        "txtlength": 18059
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/hitel/20220303/kell-fizetnie-akinek-a-sberbanknal-volt-hitele-fontos-megvaltoztak-a-sberbank-szamlaszamai-1122627",
+        "h1": "Kell fizetnie, akinek a Sberbanknál volt hitele? Fontos: megváltoztak a Sberbank számlaszámai!",
+        "txtlength": 16758
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/biztositas/20220302/ujra-akcioban-a-kabeltolvajok-magyarorszagon-ezekben-a-megyekben-a-legrosszabb-a-helyzet-1122515",
+        "h1": "Újra akcióban a kábeltolvajok Magyarországon: ezekben a megyékben a legrosszabb a helyzet",
+        "txtlength": 15484
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2022/03/03/algoritmusok-ide-szenzorok-oda-az-allatok-meg-mindig-jobbak-a-termeszeti-katasztrofak-elorejelzeseben-mint-a-modern-technika",
+        "h1": "ALGORITMUSOK IDE, SZENZOROK ODA, AZ ÁLLATOK MÉG MINDIG JOBBAK A TERMÉSZETI KATASZTRÓFÁK ELŐREJELZÉSÉBEN, MINT A MODERN TECHNIKA",
+        "txtlength": 12415
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/szuloseg/jo-tanar-pedagogus/",
+        "h1": "jó tanár idézet pedagógus",
+        "txtlength": 11750
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/kapcsolat/piast-erzsebet/",
+        "h1": "Testével védte fiait a magyar királyné a merénylő ellen: Piast Erzsébet férfiakat megszégyenítő akaraterővel bírt",
+        "txtlength": 11499
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/testem/mioma-kezeles-terhesseg/",
+        "h1": "mióma kezelés terhesség",
+        "txtlength": 10232
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kulfold/2022/03/04/percrol-percre-tudositas-orosz-ukran-haboru-pentek",
+        "h1": "Elfoglalták az oroszok azt az atomerőművet, amelyet az éjszaka lőttek, a létesítmény biztonságosan üzemel",
+        "txtlength": 19617
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/direkt36/2022/03/04/kiszivargott-iratok-mutatjak-hogyan-diktalnak-orbanek-mti-hirugynokseg",
+        "h1": "Kiszivárgott iratok mutatják, hogyan diktálnak Orbánék a nemzeti hírügynökségnek",
+        "txtlength": 19549
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2022/03/03/orosz-ukran-haboru-kormanyinfo-kormany-bejelentesek-gulyas-gergely/",
+        "h1": "Kivezeti a kormány a járványügyi korlátozások többségét, hétfőtől megszűnik a kötelező maszkviselés",
+        "txtlength": 17903
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/nevertek/2022/03/04/orosz-ukran-haboru-katonai-segelyszallitmanyok-foszereploi-es-azok-gyartoi",
+        "h1": "A Javelin rakétától az AT4 gránátvetőig: kik gyártják a fegyvereket, amelyeket Ukrajna nyugatról kapott?",
+        "txtlength": 17677
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kulfold/2022/03/03/ukrajna-menekultek-lengyelorszag-szlovakia-romania-segitseg-fegyverek-humanitarius-segely/",
+        "h1": "Térképre tettük, melyik ország hogyan segít Ukrajnának",
+        "txtlength": 14936
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kulfold/2022/03/04/orosz-ukran-haboru-kilencedik-nap-percrol-percre/",
+        "h1": "Az oroszok hajnalban tűz alá vették Európa legnagyobb atomerőművét, majd reggelre elfoglalták",
+        "txtlength": 14356
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/gazdasag/20220303_forint_gyengules_gazdasag",
+        "h1": "A teljes bizonytalanság a forintot se kíméli, a jövő pedig még inkább a ködbe veszik",
+        "txtlength": 14198
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/03/03/ket-es-fel-hete-kitartoan-tiltakoznak-a-sztarjkjoguktol-megfosztott-tanarok",
+        "h1": "Két és fél hete kitartóan tiltakoznak a sztrájkjoguktól megfosztott tanárok",
+        "txtlength": 14075
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20220304_orban_viktor_kossuth_radio",
+        "h1": "Orbán Viktor: Aki azt mondja, hogy a NATO megvéd minket, az téved",
+        "txtlength": 13248
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://insighthungary.444.hu/2022/03/03/government-condemns-russia-opposition-turns-to-osce-over-false-media-coverage-hungarians-welcome-refugees-hungary-supports-ukraines-eu-accession",
+        "h1": "Government condemns Russia, opposition turns to OSCE over false media coverage, Hungarians welcome refugees, Hungary supports Ukraine's EU accession",
+        "txtlength": 12020
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/veszhelyzet/orosz-ukran-haboru-donyeck-bunker-exkatona-csaladja/h388trn",
+        "h1": "Szijjártóhoz könyörög az ukrán fronton felejtett exkatona: „Nem akarok meghalni, szeretném látni felnőni a fiaimat!”",
+        "txtlength": 10523
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/elet/20220303_lengyel_ukran_hatar_riport",
+        "h1": "„Az én lányom is lehetne” – akik belecsöppentek a háborúba a lengyel–ukrán határon",
+        "txtlength": 10018
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/blikk-tv/aktualis/orosz-ukran-haboru-beregszaszi-szineszek/r6pypm8",
+        "h1": "Családjuk nélkül Magyarországon ragadtak a kárpátaljai színészek, amikor kitört a háború – videó",
+        "txtlength": 8907
+    },
+    {
+        "hostname": "mindmegette.hu",
         "pagelink": "https://www.mindmegette.hu/parajos-rukkolas-lasagne.recept",
         "h1": "PARAJOS-RUKKOLÁS LASAGNE",
         "txtlength": 11318
