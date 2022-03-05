@@ -1,5 +1,185 @@
 [
     {
+        "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/nagyon-csokis-muffin",
+        "h1": "Nagyon csokis muffin",
+        "txtlength": 13040
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/egyszeru-csilis-bab-video.recept",
+        "h1": "EGYSZERŰ CSILIS BAB",
+        "txtlength": 10864
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/update-tiramisu.recept",
+        "h1": "UPDATE TIRAMISU",
+        "txtlength": 10841
+    },
+    {
+        "hostname": "hataratkelo.blog.hu",
+        "pagelink": "https://hataratkelo.blog.hu/2022/03/02/parok_nem_mindig_tokeletes_osszhangban#c41256794",
+        "h1": "Párok (nem mindig) tökéletes összhangban",
+        "txtlength": 42123
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/gazdasag/20220302/mar-ketezer-civil-aldozata-van-a-bombazasnak-oroszorszag-ellenszankciokra-keszul-a-nap-legfontosabb-hirei-1122583",
+        "h1": "Már kétezer civil áldozata van a bombázásnak, Oroszország ellenszankciókra készül - a nap legfontosabb hírei",
+        "txtlength": 29486
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220301_media_fuggetlensege_sajtoszabadsag_kozossegi_platformok_koltay_andras_nmhh",
+        "h1": "Nem az államtól kell félteni a sajtószabadságot – Koltay András NMHH-elnök a Mandinernek",
+        "txtlength": 27706
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220305_karpataljai_menekultek_riport_elte",
+        "h1": "„Nem is gondoltuk, hogy a magyarok ilyen segítőkészek” – kárpátaljai menekültek a Mandinernek",
+        "txtlength": 25272
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220305_lengyelek_oroszok_kovacs_istvan",
+        "h1": "Ezért irtóznak a lengyelek az orosz hatalomtól – Kovács István polonista a Mandinernek",
+        "txtlength": 24439
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vilag/20220304/ezt-kellene-gyorsan-vegiggondolni-ukrajna-eu-csatlakozasi-kerelmerol/",
+        "h1": "Ezt kellene gyorsan végiggondolni Ukrajna EU-csatlakozási kérelméről",
+        "txtlength": 19887
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/penz/20220303/ukrajna-tonkretetele-jobban-fog-fajni-a-magyar-gazdasagnak-mint-az-oroszorszag-elleni-szankciok-hada/",
+        "h1": "Ukrajna tönkretétele jobban fog fájni a magyar gazdaságnak, mint az Oroszország elleni szankciók hada",
+        "txtlength": 17929
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/utazas/20220303/ezek-lennenek-a-pesti-bulinegyed-vegnapjai-megpecsetelodott-a-lukteto-varosresz-sorsa-1122578",
+        "h1": "Ezek lennének a pesti bulinegyed végnapjai: megpecsételődött a lüktető városrész sorsa?",
+        "txtlength": 16378
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/global/20220305/ez-az-orosz-ukran-haboru-10-napja-itt-vannak-a-legfontosabb-hirek-szombaton-531191",
+        "h1": "Ez az orosz-ukrán háború 10. napja – Itt vannak a legfontosabb hírek szombaton ",
+        "txtlength": 16234
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/deviza/20220304/itt-az-ujabb-tortenelmi-melypont-a-forintnal-530921",
+        "h1": "Itt az újabb történelmi mélypont a forintnál ",
+        "txtlength": 16232
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/global/20220305/a-feje-tetejere-allt-a-vilag-a-haboru-miatt-mekkora-esely-van-a-recessziora-530855",
+        "h1": "A feje tetejére állt a világ a háború miatt - Mekkora esély van a recesszióra?",
+        "txtlength": 15880
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/utazas/radioaktiv-hulladek-tarolasa/",
+        "h1": "A szemét, ami túléli az emberiséget: hol tárolják a radioaktív hulladékot a világban?",
+        "txtlength": 13643
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2022/03/05/a-szociografia-az-utcan-hever-akarcsak-az-otthontalanok",
+        "h1": "A SZOCIOGRÁFIA AZ UTCÁN HEVER, AKÁRCSAK AZ OTTHONTALANOK",
+        "txtlength": 13136
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/lajfhekk/koffeinmentes-kave/",
+        "h1": "Koffeinmentes kávé",
+        "txtlength": 8704
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kulfold/2022/03/05/percrol-percre-tudositas-orosz-ukran-haboru-szombat",
+        "h1": "Humanitárius folyosót nyitnak az oroszok két városban, háborús cenzúra, tüntetések világszerte, bombázás behódolásig, és újságírókat lövő diverzánsok",
+        "txtlength": 29354
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/tech/2022/03/04/orosz-ukran-haboru-kiberhaboru-kibertamadasok-hackerek-kozossegi-media-manipulacio-propaganda-tiktok-twitter/",
+        "h1": "Van egy olyan szelete a háborúnak, amelyben Ukrajna áll nyerésre",
+        "txtlength": 23923
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kulfold/2022/03/05/orosz-ukran-haboru-tizedik-nap-percrol-percre/",
+        "h1": "Ideiglenes tűzszünetet rendeltek el két ukrán városban, a civileknek öt órájuk van távozni",
+        "txtlength": 20724
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/szorakozas/2022/03/04/orosz-ukran-konfliktus-haboru-kozossegi-oldalak-influenszerek-trend/",
+        "h1": "„Ebben a háborúban az önök fiai, férjei, apái halnak meg” – orosz és ukrán influenszerek is sürgetik a háború befejezését",
+        "txtlength": 18701
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kulfold/2022/03/04/ukrajna-kulfoldi-onkentesek",
+        "h1": "Mit lehet várni az Ukrajna megmentésére induló külföldi légiótól?",
+        "txtlength": 18297
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kulfold/2022/03/05/van-aki-nem-ker-semmit-megis-koszoni-hogy-itt-vagyunk-romaniaiak-segitik-az-ukran-menekulteket-a-halmi-hataratkelonel",
+        "h1": "„Van, aki nem kér semmit, mégis köszöni, hogy itt vagyunk” – így segítik a menekülteket az ukrán-román határon",
+        "txtlength": 17907
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/tudomany/20220304_javelin_bayraktar_dron_raketa_stinger",
+        "h1": "Legendás fegyvereket adnak az ukránok kezébe az oroszok elleni harchoz",
+        "txtlength": 13282
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20220304_Europai_Bizottsag_Orban_Viktor_Margaritisz_Szkinasz_menekultvalsag_Ukrajna",
+        "h1": "Az Európai Bizottság alelnöke: Kicsit elhamarkodottan mondta Orbán Viktor, hogy nem cselekszik Brüsszel",
+        "txtlength": 12872
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20220305_Aszodi_Attila_Mindenkinek_osszeszorul_a_gyomra_ha_arra_ebred_hogy_egy_atomeromu_erintett_a_harcokan",
+        "h1": "Aszódi Attila: Mindenkinek összeszorul a gyomra, ha arra ébred, hogy egy atomerőmű érintett a harcokban",
+        "txtlength": 12729
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/03/04/az-orosz-kormany-leallitotta-a-mutragya-exportjat",
+        "h1": "Az orosz kormány leállította a műtrágya exportját",
+        "txtlength": 11365
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/03/04/tobb-ezer-ember-nem-tud-elmenekulni-zaporizzsjabol-az-oroszok-folyamatos-agyuzasa-miatt",
+        "h1": "Több ezer ember nem tud elmenekülni Zaporizzsjából az oroszok folyamatos ágyúzása miatt",
+        "txtlength": 11207
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/politika/vlagyimir-putyin-olaf-scholz-celok-moszkva/lphbtet",
+        "h1": "Putyin részletesen elmagyarázta a céljait Scholznak: az elnök szerint hírhamisítás, hogy az oroszok tűz alá vették az ukrán városokat",
+        "txtlength": 9058
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/penz/csanyi-sandor-otp-orosz-ukran-haboru/ycv8dnm",
+        "h1": "Csányi Sándor megszólalt az OTP helyzetéről",
+        "txtlength": 8610
+    },
+    {
         "hostname": "mindmegette.hu",
         "pagelink": "https://www.mindmegette.hu/tejfolos-karaj-romai-talban.recept",
         "h1": "TEJFÖLÖS KARAJ RÓMAI TÁLBAN",
