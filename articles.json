@@ -1433,26 +1433,22 @@
         "topic": "konyv",
         "picarr": [
             {
-                "picture": "https://kisgomboc.files.wordpress.com/2021/01/golden-791072_1920.jpg?w=723",
-                "timestamp": 1645974025016
-            },
-            {
                 "picture": "https://kisgomboc.files.wordpress.com/2021/01/girl-3528292_1920.jpg?w=723",
-                "timestamp": 1644764425849
+                "timestamp": 1646578831441
             },
             {
                 "picture": "https://kisgomboc.files.wordpress.com/2021/01/blond-1866951_1920.jpg?w=723",
                 "timestamp": 1645369225369
+            },
+            {
+                "picture": "https://kisgomboc.files.wordpress.com/2021/01/golden-791072_1920.jpg?w=723",
+                "timestamp": 1645974025016
             }
         ],
         "titlearr": [
             {
-                "title": "https://bookline.hu/product/home.action?_v=Orvos_Toth_Noemi_Orokolt_sors&type=22&id=308513",
-                "timestamp": 1645974025016
-            },
-            {
                 "title": "https://bookline.hu/product/home.action?_v=Edith_Eva_Eger_A_dontes&type=250&id=42489",
-                "timestamp": 1636887629508
+                "timestamp": 1646578831441
             },
             {
                 "title": "https://bookline.hu/product/home.action?_v=Delia_Owens_Ahol_a_folyami_rakok_enekel&type=22&id=319053",
@@ -1497,6 +1493,10 @@
             {
                 "title": "https://bookline.hu/product/home.action?_v=Paula_Hawkins_A_lany_a_vonaton&type=22&id=276830",
                 "timestamp": 1645369225369
+            },
+            {
+                "title": "https://bookline.hu/product/home.action?_v=Orvos_Toth_Noemi_Orokolt_sors&type=22&id=308513",
+                "timestamp": 1645974025016
             }
         ],
         "leadarr": [
