@@ -1,5 +1,179 @@
 [
     {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/rakoczi-turos-video.recept",
+        "h1": "RÁKÓCZI TÚRÓS",
+        "txtlength": 12814
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/hideg-kefires-uborkaleves.recept",
+        "h1": "HIDEG KEFIRES UBORKALEVES",
+        "txtlength": 11032
+    },
+    {
+        "hostname": "hataratkelo.blog.hu",
+        "pagelink": "https://hataratkelo.blog.hu/2022/03/02/parok_nem_mindig_tokeletes_osszhangban#c41259480",
+        "h1": "Párok (nem mindig) tökéletes összhangban",
+        "txtlength": 45325
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/global/20220305/mindent-lonek-az-oroszok-megserthettek-a-tuzszunetet-itt-vannak-a-legfontosabb-hirek-szombaton-531191",
+        "h1": "Mindent lőnek az oroszok, megsérthették a tűzszünetet – Itt vannak a legfontosabb hírek szombaton ",
+        "txtlength": 35316
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/tech/20220305/magyarorszagon-az-orosz-gaz-helyett-a-talaj-hojevel-konnyen-lehetne-futeni/",
+        "h1": "Magyarországon az orosz gáz helyett a talaj hőjével könnyen lehetne fűteni",
+        "txtlength": 25730
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/hitel/20220305/kamatpara-a-magyar-bankokban-vajon-mit-muvel-a-torlesztokkel-az-orosz-ukran-haboru-1122617",
+        "h1": "Kamatpara a magyar bankokban: vajon mit művel a törlesztőkkel az orosz-ukrán háború?",
+        "txtlength": 21581
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/utazas/20220303/a-jarvany-utan-a-haboru-is-kiuti-a-magyar-turizmust-sok-helyen-fajhat-az-orosz-utazok-hianya-1122574",
+        "h1": "A járvány után a háború is kiüti a magyar turizmust? Sok helyen fájhat az orosz utazók hiánya",
+        "txtlength": 20240
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/ingatlan/20220305/mi-lesz-magyarorszag-turizmusaval-a-szomszedos-haboru-arnyekaban-531039",
+        "h1": "Mi lesz Magyarország turizmusával a szomszédos háború árnyékában?",
+        "txtlength": 18209
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20220305/ezeknek-a-nyugdijasoknak-nem-jar-13-havi-magyarorszagon-a-magyar-arnyek-nyugdijrendszer-problemai-530531",
+        "h1": "Ezeknek a nyugdíjasoknak nem jár 13. havi Magyarországon - A magyar árnyék-nyugdíjrendszer problémái",
+        "txtlength": 18076
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vallalat/20220306/miert-penzeli-nagyobb-gazvasarlasokkal-europa-a-haborut/",
+        "h1": "Miért pénzeli nagyobb gázvásárlásokkal Európa a háborút?",
+        "txtlength": 17663
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220305_jobboldal_kornyezetvedelem_giubilei",
+        "h1": "Mit tehet a jobboldal a környezet védelméért?",
+        "txtlength": 15345
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220306_oroszorszag_ukrajna_haboru_putyin_zelenszkij_kijev_mariupol_harkiv_csernyihiv",
+        "h1": "HÁBORÚ: Zelenszkij minden ukránt harca buzdít, fellángoltak a harcok Donbaszban",
+        "txtlength": 14842
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220304_till_attila_putyin_uzenet",
+        "h1": "Till Attila üzent Putyinnak: Nem ölhetsz meg másokat!",
+        "txtlength": 14473
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/szuloseg/parkapcsolati-teszt-8-kerdes-a-partneredrol/",
+        "h1": "párkapcsolat partner teszt kritikus kérdések",
+        "txtlength": 12132
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/egeszseg/belflora-autoimmun-betegsegek/",
+        "h1": "Súlyosan károsíthatja a mikrobiomot, ha így étkezel: az autoimmun betegségek kialakulását is elősegíti",
+        "txtlength": 10807
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2022/03/06/ha-nyuszit-vagy-cicat-tartani-tul-snassz-itt-az-uj-hazikedvenc-a-pioca",
+        "h1": "HA NYUSZIT VAGY CICÁT TARTANI TÚL SNASSZ, ITT AZ ÚJ HÁZIKEDVENC: A PIÓCA",
+        "txtlength": 9188
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kultura/2022/03/05/oroszorszag-ukrajna-kultura-bojkott-film-fesztival-zene-irodalom/",
+        "h1": "Már javában zajlik az oroszok elleni kulturális hidegháború",
+        "txtlength": 19317
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kozelet/2022/03/05/ukrajna-masodik-vilaghaboru-haditudosito-konok-tamas-heti-fortepan/",
+        "h1": "Pusztításfotók az ukrán frontról – így látta a harcokat egy II. világháborús magyar haditudósító",
+        "txtlength": 19223
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kulfold/2022/03/06/percrol-percre-tudositas-orosz-ukran-haboru-vasarnap",
+        "h1": "Mariupolban újabb helyi tűzszünet lépett életbe, hogy evakuálhassák a várost, az oroszok tankgyárat romboltak porig Zsitomirban",
+        "txtlength": 18240
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kozelet/2022/03/05/beranyasag-ukrajna-orosz-ukran-konfliktus-haboru/",
+        "h1": "„Ha a gyereked égő épületben ragad, berohansz, hogy kimentsd a véredet” – csapdába estek az ukrán béranyák",
+        "txtlength": 18143
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/eszkombajn/2022/03/06/zaporizzsjei-kozakok-levele-iv-mehmed-oszman-szultannak-ukrajna-repin-festmeny",
+        "h1": "Te disznópofa, te kancasegg, te hentes kutyája, te kereszteletlen tökfej",
+        "txtlength": 16428
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/foto/2022/03/05/ukrajna-ii-vilaghaboru-foto-tudositas-kijev-katona-ostrom-fortepan",
+        "h1": "Ukrajna romjai: egy második világháborús magyar haditudósító képei a keleti frontról",
+        "txtlength": 16317
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/vilag/20220305_helyzetjelentes_az_ukranroman_hatarrol",
+        "h1": "„Putyin álljon meg, és mentse a lelkét, ha még lehetséges” – helyzetjelentés az ukrán-román határról",
+        "txtlength": 14550
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/03/05/a-veletlenen-mulik-hogy-modern-szallodaban-kozossegi-szallon-vagy-muvelodesi-hazban-kotnek-ki-a-menekulok",
+        "h1": "A véletlenen múlik, hogy modern szállodában, közösségi szállón vagy művelődési házban kötnek ki a menekülők",
+        "txtlength": 13641
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/03/05/rogan-miniszteriuma-megsertette-a-valasztasi-torvenyt-amikor-covid-hirlevelen-kampanyolt-az-ellenzek-ellen",
+        "h1": "Rogán minisztériuma megsértette a választási törvényt, amikor COVID-hírlevélen kampányolt az ellenzék ellen",
+        "txtlength": 13466
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/elet/20220305_recirquel_my_land_ukran_artistak_oroszorszag_ukrajna_haboru_ujcirkusz_interju",
+        "h1": "„A feleségem felhívott, én pedig a telefonban hallottam, ahogy felrobban egy bomba”",
+        "txtlength": 13403
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/gazdasag/20220306_Es_akkor_orosz_ukran_haboru_forint_szankcio_paks_energia",
+        "h1": "És akkor nosztalgiával emlékezhetünk a régi szép időkre, amikor csak 355 forint volt egy euró",
+        "txtlength": 12869
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/kulfold/orban-viktor-agrarkamara-orosz-ukran-haboru-gazdasag/tm0g7jy",
+        "h1": "Milyen hatása lesz Magyarországra a háborúnak? Orbán Viktor bejelentései",
+        "txtlength": 12214
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/krimi/darabolos-gyilkossag-brfk-nyomozas-elfogas-pityke-exnyomozo/7ej42vr",
+        "h1": "Felfoghatatlan, kegyetlen gyilkosságot követett el egy kamasz Pesterzsébeten (18+)",
+        "txtlength": 9409
+    },
+    {
         "hostname": "nosalty.hu",
         "pagelink": "https://www.nosalty.hu/recept/nagyon-csokis-muffin",
         "h1": "Nagyon csokis muffin",
