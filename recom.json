@@ -1,6 +1,180 @@
 [
     {
         "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/update-gofri.recept",
+        "h1": "UPDATE GOFRI",
+        "txtlength": 10080
+    },
+    {
+        "hostname": "hataratkelo.blog.hu",
+        "pagelink": "https://hataratkelo.blog.hu/2022/03/02/parok_nem_mindig_tokeletes_osszhangban#c41263354",
+        "h1": "Párok (nem mindig) tökéletes összhangban",
+        "txtlength": 55887
+    },
+    {
+        "hostname": "kulturpart.hu",
+        "pagelink": "https://kulturpart.blog.hu/2022/03/06/szinpadon_a_legendas_gyujtemeny",
+        "h1": "SZÍNPADON A LEGENDÁS GYŰJTEMÉNY",
+        "txtlength": 4622
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/szorakozas/20220306/magyar-milliardos-jott-penzt-kerni-az-rtl-capaitol-nem-szegyelli-nagyon-mellenyult-1122642",
+        "h1": "Magyar milliárdos jött pénzt kérni az RTL Cápáitól: nem szégyelli, nagyon mellényúlt",
+        "txtlength": 27120
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20220307/bod-peter-akos-amikor-a-haboru-a-masodik-dekadba-lep-531303",
+        "h1": "Bod Péter Ákos: amikor a háború a második dekádba lép",
+        "txtlength": 24020
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vilag/20220307/unios-befektetesek-hijan-tokehez-es-technologiahoz-sem-jut-az-elszegenyedo-orosz-gazdasag/",
+        "h1": "Uniós befektetések híján tőkéhez és technológiához sem jut az elszegényedő orosz gazdaság",
+        "txtlength": 22561
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/global/20220307/hiaba-kerleli-a-vilag-vlagyimir-putyint-egyre-hevesebbek-a-harcok-ukrajnaban-itt-vannak-a-legfontosabb-hirek-hetfon-531417",
+        "h1": "Hiába kérleli a világ Vlagyimir Putyint, egyre hevesebbek a harcok Ukrajnában - Itt vannak a legfontosabb hírek hétfőn ",
+        "txtlength": 21110
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20220302/leallnak-az-oroszok-europai-gazszallitasai-tortenelmi-csucsra-szarnyalt-a-gazar-530331",
+        "h1": "Leállnak az oroszok európai gázszállításai? - Történelmi csúcsra szárnyalt a gázár ",
+        "txtlength": 19013
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220307_beregsurany_nski_adomany_riport",
+        "h1": "Az egész Kárpát-medencei magyarság megmozdult – a beregsurányi határon jártunk",
+        "txtlength": 18550
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/karrier/20220304/lappango-nepbetegseg-gyotri-a-magyar-dolgozokat-csak-keveseknek-elerheto-a-valodi-segitseg-1122620",
+        "h1": "Lappangó népbetegség gyötri a magyar dolgozókat: csak keveseknek elérhető a valódi segítség",
+        "txtlength": 18396
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/uzlet/20220307/megint-csunya-esessel-indulhat-a-het-a-tozsdeken-531433",
+        "h1": "10 000 forint alá ütötték az OTP-t ",
+        "txtlength": 17348
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://makronom.mandiner.hu/cikk/20220223_annyira_hasit_a_hazai_csirkehus_hogy_a_kulfoldi_import_a_fasorban_sincs",
+        "h1": "A magyar piacon manapság döntően magyar baromfi van",
+        "txtlength": 16482
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://sport.mandiner.hu/cikk/20220307_ilyen_nem_tortent_a_haboru_kitorese_ota_orosz_vezetoedzo_ukran_jatekost_cserelt_be",
+        "h1": "Történelmi jelenet a Fradi-meccsen: az orosz vezetőedző ukrán játékost cserélt be!",
+        "txtlength": 14654
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2022/03/07/a-hatalom-szarnyakat-ad-csak-az-a-baj-hogy-a-birtokosa-konnyen-elszallhat",
+        "h1": "A HATALOM SZÁRNYAKAT AD, CSAK AZ A BAJ, HOGY A BIRTOKOSA KÖNNYEN ELSZÁLLHAT",
+        "txtlength": 13749
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/ezo/heti_horoszkop/202210/",
+        "h1": "Heti horoszkóp március 7-től 13-ig: a Nyilas jó hírt kap, a Halak anyagi helyzete javul",
+        "txtlength": 10448
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/lajfhekk/tokeletes-csirkemell/",
+        "h1": "Tökéletes csirkemell",
+        "txtlength": 8257
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/direkt36/2022/03/07/ne-ird-meg-semmilyen-formaban-koszi-igy-hallgatja-el-a-kormanynak-kinos-hireket-az-allami-hirugynokseg",
+        "h1": "„Ne írd meg semmilyen formában, köszi” – Így hallgatja el a kormánynak kínos híreket az állami hírügynökség",
+        "txtlength": 25324
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20220306_propaganda_tuntetes_kozmedia_ellenzek_Hadhazy_MarkiZay",
+        "h1": "„A Fidesz propagandatévéje csatlósként közvetíti az orosz propagandát” – a közmédia előtt tüntetett az ellenzék",
+        "txtlength": 19834
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/valasztas-2022/2022/03/06/tuntetes-ellenzek-mtva-kunigunda-utca-szekhaza-prpgananda-es-putyin-ellenes",
+        "h1": "„A Fidesz tévéje Putyin hű csatlósaként terjeszti az orosz propagandát” – közös tüntetést tartott az ellenzék az MTVA székháza előtt",
+        "txtlength": 18578
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kulfold/2022/03/07/orosz-ukran-haboru-valsag-tizenkettedik-nap-hetfo-percrol-percre",
+        "h1": "Orosz feketehumor: humanitárius folyosót nyitnának Oroszországba és Belaruszba; veszélyben az internet Ukrajnában",
+        "txtlength": 18165
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kultura/2022/03/06/csata-a-csangdzsin-tonal-haborus-film-kina-the-battle-of-lake-changjin/",
+        "h1": "Kína Amerikával háborúzik minden idők legnézettebb, nem angol nyelvű filmjében",
+        "txtlength": 15545
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kozelet/2022/03/06/francia-elnokvalasztas-2022-emmanuel-macron-eric-zemmour-marine-le-pen-valerie-pecresse/",
+        "h1": "Egyelőre az a kérdés, hogy ki lesz a második a francia elnökválasztáson",
+        "txtlength": 12857
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/vilag/20220306_Karpatalja_Ungvar_csehorszag_szlovakiai_menekultek_hatar",
+        "h1": "Kárpátalján azt kérdezik: „Csehek, miért nem jöttök megvédeni minket?",
+        "txtlength": 12782
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/03/07/menekulofolyosok-es-a-penzpiacok-haboruja",
+        "h1": "Menekülőfolyosók és a pénzpiacok háborúja",
+        "txtlength": 12265
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/vilag/20220307_Mit_akarhat_Putyin",
+        "h1": "Mit akarhat Putyin? - hat szakértő próbálta megfejteni",
+        "txtlength": 12116
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/03/06/kijevi-allatkert-egy-ember-mindig-egyutt-alszik-a-robbanasok-hangjatol-lesokkolt-elefantal",
+        "h1": "Kijevi állatkert: egy ember mindig együtt alszik a robbanások hangjától lesokkolt elefánttal",
+        "txtlength": 11209
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kulfold/2022/03/07/orosz-ukran-haboru-kijev-jaszberenyi-holvenyi-mentos-riport-temetes/",
+        "h1": "Jászberényi Sándor jelenti Kijevből: A mentős, aki látta a háború végét",
+        "txtlength": 10516
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/penz/sberbank-szamlanyitas-nyereseg/n1ecsny?sl_ps=d_10",
+        "h1": "A sberbankosok akár 80 ezer forintot is kaphatnak új számla nyitásánál, és még az ismerősök is jól járhatnak",
+        "txtlength": 9781
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/kulfold/orosz-ukran-haboru-anatolii-shara-kijev/52lfgsn?sl_ps=d_1",
+        "h1": "\"Évszázadokon át fogják őket átkozni mindazért, amit Ukrajnában tettek\" - egy ukrán újságíró levele Kijevből",
+        "txtlength": 8535
+    },
+    {
+        "hostname": "mindmegette.hu",
         "pagelink": "https://www.mindmegette.hu/rakoczi-turos-video.recept",
         "h1": "RÁKÓCZI TÚRÓS",
         "txtlength": 12814
