@@ -1,5 +1,179 @@
 [
     {
+        "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/sertesporkolt",
+        "h1": "Sertéspörkölt",
+        "txtlength": 10035
+    },
+    {
+        "hostname": "hataratkelo.blog.hu",
+        "pagelink": "https://hataratkelo.blog.hu/2022/03/02/parok_nem_mindig_tokeletes_osszhangban",
+        "h1": "Párok (nem mindig) tökéletes összhangban",
+        "txtlength": 63341
+    },
+    {
+        "hostname": "kulturpart.hu",
+        "pagelink": "https://kulturpart.hu/2022/03/06/szinpadon_a_legendas_gyujtemeny",
+        "h1": "SZÍNPADON A LEGENDÁS GYŰJTEMÉNY",
+        "txtlength": 4623
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vilag/20220308/az-ukrajnai-konfliktus-megmutatta-hogy-a-haborut-nem-csak-tankokkal-vivjak/",
+        "h1": "Az ukrajnai konfliktus megmutatta, hogy a háborút nem csak harckocsikkal vívják",
+        "txtlength": 29446
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220302_kulfold_oroszorszag_birodalom",
+        "h1": "A birodalom visszavág – mérlegen az orosz politika húsz éve",
+        "txtlength": 23860
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220307_az_oroszok_kijev_lerohanasara_keszulnek_az_ukran_vezetes_szerint",
+        "h1": "HÁBORÚ: Putyin szerint az EU-nak nyomást kell gyakorolnia Kijevre, de közben elkezdik megvitatni Ukrajna tagjelölt státuszát",
+        "txtlength": 22798
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/elet/20220307/logikus-lenne-folytatni-a-magyar-nyugdijkorhatar-emeleset/",
+        "h1": "Logikus lenne folytatni a magyar nyugdíjkorhatár emelését",
+        "txtlength": 21227
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220304_mszp_belfold_miniszterelnok_jelolt_valasztas_botka_laszlo_mesterhazy_attila_baja_ferenc_molnar_zsolt_horvath_csaba_toth_csaba",
+        "h1": "A legújabb szocialista korrupciós ügyek az utolsó szögek az MSZP koporsójába",
+        "txtlength": 20084
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/vasarlas/20220307/meg-durvabb-dragulast-hozhat-a-boltokban-a-rekord-gyenge-forint-vannak-akik-megis-jol-jarnanak-ezzel-1122749",
+        "h1": "Még durvább drágulást hozhat a boltokban a rekord-gyenge forint: vannak, akik mégis jól járnának ezzel",
+        "txtlength": 19985
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/uzlet/20220308/jonnek-a-tavaszi-portfolio-konferenciak-ujra-szabadon-korlatozasok-nelkul-531645",
+        "h1": "Jönnek a tavaszi Portfolio Konferenciák: újra szabadon, korlátozások nélkül!",
+        "txtlength": 18898
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/global/20220308/a-szinfalak-mogott-adaz-kibercsata-dul-az-oroszok-es-az-ukranok-kozott-531599",
+        "h1": "A színfalak mögött ádáz kibercsata dúl az oroszok és az ukránok között",
+        "txtlength": 17386
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/uzlet/20220308/tepik-az-otp-t-komoly-pluszban-a-magyar-tozsde-531737",
+        "h1": "Tépik az OTP-t, komoly pluszban a magyar tőzsde ",
+        "txtlength": 16440
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/szorakozas/20220307/elkepeszto-kulisszatitkot-arult-el-balogh-levente-felultettek-az-rtl-capait-erre-ok-sem-szamitottak-1122661",
+        "h1": "Elképesztő kulisszatitkot árult el Balogh Levente: felültették az RTL Cápáit, erre ők sem számítottak",
+        "txtlength": 14548
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2022/03/08/amiota-vilag-a-vilag-halomra-eroszakoljak-a-noket-a-haborukban-de-a-tettesek-es-az-aldozatok-egyarant-hallgatnak",
+        "h1": "AMIÓTA VILÁG A VILÁG, HALOMRA ERŐSZAKOLJÁK A NŐKET A HÁBORÚKBAN, DE A TETTESEK ÉS AZ ÁLDOZATOK EGYARÁNT HALLGATNAK",
+        "txtlength": 12406
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/utazas/nokrol-elnevezett-kozterek-budapesten/",
+        "h1": "A bátor magyar nő, akit a nácik ellen képeztek ki: Szenes Hannáról Budapesten teret neveztek el",
+        "txtlength": 12000
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/lajfhekk/mikro-olvasztas-hus/",
+        "h1": "Mikró olvasztás fagyasztott hús",
+        "txtlength": 8951
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/sport/2022/03/07/banhidi-akos-liu-shaolin-sandor-liu-shaoang-csang-csing-lina-rovidpalyas-gyorskorcsolya-short-track/",
+        "h1": "Bánhidi Ákos: Ebben a játékban, aki úgy gondolja, hogy mindent tud, az már veszített",
+        "txtlength": 31512
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kulfold/2022/03/08/orosz-ukran-haboru-percrol-percre-tudositas-kozvetites-kedd",
+        "h1": "Újabb próbálkozások jöhetnek a civilek kimenekítésére",
+        "txtlength": 22661
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2022/03/07/orosz-ukrn-haboru-ner-orban-viktor-elllentmondas/",
+        "h1": "Tíz ellentmondás, amivel Orbánt és a NER-t megcsapta az orosz-ukrán háború",
+        "txtlength": 22122
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kulfold/2022/03/08/orosz-ukran-haboru-volodimir-zelenszkij-ukrajna-percrol-percre-elo-kovetites/",
+        "h1": "Zelenszkij szerint Biden tudna többet tenni a háború megállításáért, Putyin nőnapi videót tett közzé",
+        "txtlength": 20026
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/gazdasag/2022/03/08/az-oroszok-konnyen-megbenithatjak-az-ukran-aramrendszert-es-ezt-alighanem-meg-is-teszik",
+        "h1": "Az oroszok könnyen megbéníthatják az ukrán áramrendszert, és ezt alighanem meg is teszik",
+        "txtlength": 18843
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/gazdasag/20220307_forint_arfolyam_zuhanas_euro",
+        "h1": "Így esett a forint az euróval szemben 229-ről közel 400-ig",
+        "txtlength": 17634
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/03/08/arra-kerem-a-magyarokat-hogy-ne-essenek-orban-csapdajaba",
+        "h1": "\"Arra kérem a magyarokat, hogy ne essenek Orbán csapdájába\"",
+        "txtlength": 16589
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/eszkombajn/2022/03/08/a-repulogep-szimulator-ami-segitett-megnyerni-a-masodik-vilaghaborut",
+        "h1": "A repülőgép-szimulátor, ami segített megnyerni a második világháborút",
+        "txtlength": 14532
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/03/07/vegignezte-a-csaladja-ahogy-meghal-a-62-eves-ukran-nagymama-aranyosapatiban",
+        "h1": "Figyelem, felnőtt tartalom!",
+        "txtlength": 14106
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20220307_oroszorszag_haboru_kulugyi_es_kulgazdasagi_intezet",
+        "h1": "Oroszország olyan kitaszítottá válhat, mint Észak-Korea",
+        "txtlength": 13129
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20220307_Orban_nem_enged_at_Magyarorszagon_fegyvert_Ukrajnaba_de_kerulovel_barmikor",
+        "h1": "Magyarország érintésével mégis eljuthatnak fegyverek Ukrajnába",
+        "txtlength": 10687
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/penz/orosz-ukran-haboru-1-euro-to-huf-forint-dragulas/7rzf7v9",
+        "h1": "Forintsokk: háború a pénzpiacon, 400 felett az euró – Vegyük végig, mi minden drágul az életünkben, ha ez tartósan így marad",
+        "txtlength": 10410
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/kulfold/haboru-kijev-bombazas-pince/e2mxy9l",
+        "h1": "„Csernobil és a koronavírus után az orosz pusztítást is túl akarom élni” – Búvóhelyen tölti az éjszakákat a Kijevben élő Irén, aki saját szemével látja a bombázásokat",
+        "txtlength": 9119
+    },
+    {
         "hostname": "mindmegette.hu",
         "pagelink": "https://www.mindmegette.hu/update-gofri.recept",
         "h1": "UPDATE GOFRI",
