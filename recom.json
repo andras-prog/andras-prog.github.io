@@ -1,6 +1,192 @@
 [
     {
         "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/egyszeru-piskotatekercs",
+        "h1": "Egyszerű piskótatekercs",
+        "txtlength": 12115
+    },
+    {
+        "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/egyszeru-tejfolos-zoldbableves",
+        "h1": "Egyszerű tejfölös zöldbableves",
+        "txtlength": 9980
+    },
+    {
+        "hostname": "kiszamolo.hu",
+        "pagelink": "https://kiszamolo.hu/az-orosz-gazdasag-szamokban/",
+        "h1": "Az orosz gazdaság számokban",
+        "txtlength": 40866
+    },
+    {
+        "hostname": "kulturpart.hu",
+        "pagelink": "https://kulturpart.blog.hu/2022/03/08/az_unoka_film_kritika_deak_kristof",
+        "h1": "MEGBOCSÁTHATÓ CSALÁS",
+        "txtlength": 7216
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220307_az_unios_tamogatas_nem_lehet_politikai_nyomasgyakorlas_eszkoze_vitalyos_eszter_a_mandinernek",
+        "h1": "Az uniós támogatás nem lehet politikai nyomásgyakorlás eszköze – Vitályos Eszter a Mandinernek",
+        "txtlength": 24551
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220309_finlandizacio_ukrajna",
+        "h1": "Finlandizáció – a finn út lehet Ukrajna jövője?",
+        "txtlength": 21053
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vilag/20220309/kinek-kedvez-ha-elhuzodik-a-haboru-ukrajnaban/",
+        "h1": "Kinek kedvez, ha elhúzódik a háború Ukrajnában?",
+        "txtlength": 20949
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/gazdasag/20220309/aruhiany-csucsdragulas-igy-gyuruzik-be-a-szallitasi-valsag-minden-magyar-otthonaba-1122674",
+        "h1": "Áruhiány, csúcsdrágulás: így gyűrűzik be a szállítási válság minden magyar otthonába",
+        "txtlength": 20638
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/hitel/20220307/sorra-mondanak-le-a-magyar-parok-az-ajandekmilliokrol-mitol-ijedtek-meg-ennyire-1122665",
+        "h1": "Sorra mondanak le a magyar párok az ajándékmilliókról: mitől ijedtek meg ennyire?",
+        "txtlength": 20093
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vallalat/20220310/buszok-fokozhatjak-a-benzinkuti-kaoszt/",
+        "h1": "Buszok fokozhatják a benzinkúti káoszt",
+        "txtlength": 20092
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/global/20220310/fontos-targyalason-a-vilag-szeme-mikozben-haborus-bun-merult-fel-itt-vannak-a-legfontosabb-hirek-csutortokon-532335",
+        "h1": "Fontos tárgyaláson a világ szeme, miközben háborús bűn merült fel – Itt vannak a legfontosabb hírek csütörtökön ",
+        "txtlength": 17772
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220309_haborus_naplo_juhasz_eszter",
+        "h1": "„Hagyjál engem, csúnya repülő!” – családi napló a háború mélyéről",
+        "txtlength": 16512
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/bank/20220310/tokeletes-penzugyi-vihar-keszulodik-oroszorszagban-nincs-igazi-alternativa-a-globalis-kartyarendszerekre-532373",
+        "h1": "Tökéletes pénzügyi vihar készülődik Oroszországban, nincs igazi alternatíva a globális kártyarendszerekre",
+        "txtlength": 16321
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2022/03/09/vlagyimir-putyin-hosszu-evek-ota-fenyegeti-a-vilagot-a-nuklearis-haboru-remevel",
+        "h1": "VLAGYIMIR PUTYIN HOSSZÚ ÉVEK ÓTA FENYEGETI A VILÁGOT A NUKLEÁRIS HÁBORÚ RÉMÉVEL",
+        "txtlength": 16057
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/global/20220309/mi-var-oroszorszagra-az-ukrajnai-haboru-utan-itt-van-az-5-legvaloszinubb-forgatokonyv-532223",
+        "h1": "Mi vár Oroszországra az ukrajnai háború után? Itt van az 5 legvalószínűbb forgatókönyv",
+        "txtlength": 15837
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/szuloseg/popkultura-ertek-gyerekek/",
+        "h1": "Mit tanultunk Xenától vagy Hannah Montanától? Ezt a 16 értéket közvetítette a popkultúra az elmúlt 50 évben",
+        "txtlength": 11150
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/kapcsolat/pszichopata-jellemzoi/",
+        "h1": "A pszichopaták is képesek érezni: 5 dolog a személyiségzavarról, amit kevesen tudnak",
+        "txtlength": 10578
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/testem/kevesebb-fogaszati-panasz-napi-fogselyem-hasznalat/",
+        "h1": "fogászati panasz fogselyem",
+        "txtlength": 10058
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kozelet/2022/03/09/peto-peter-putyin-haboruja-es-mi-akik-mar-leszunk-mindig/",
+        "h1": "Pető Péter: Putyin háborúja és mi, akik már leszünk mindig ",
+        "txtlength": 36623
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/valasztas-2022/2022/03/10/parlament-koztarsasagi-elnok-valasztas-novak-katalin-rona-peter-tavaszi-ulesszak-valasztas",
+        "h1": "Megkezdődött az államfő-választás: köztársasági elnökké teszi Novák Katalint a Fidesz-KDNP",
+        "txtlength": 32300
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kulfold/2022/03/10/orosz-ukran-haboru-oroszorszag-ukrajna-percrol-percre/",
+        "h1": "Három ember meghalt a lebombázott mariupoli kórházban, Törökországban tárgyal az orosz és az ukrán külügyminiszter",
+        "txtlength": 26631
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kulfold/2022/03/09/ukrajna-europai-unio-csatlakozas-folyamat-gyorsitott-eljaras",
+        "h1": "Meleg szavakkal tolmácsolhatják Ukrajnának: ne reménykedjen azonnali EU-tagságban",
+        "txtlength": 26378
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/03/10/ukran-nagykovet-az-idot-most-percekben-es-embereletekben-merjuk",
+        "h1": "Ukrán nagykövet: Az időt most percekben és emberéletekben mérjük",
+        "txtlength": 24785
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kulfold/2022/03/10/orosz-ukran-haboru-percrol-percre-tudositas-15-nap-csutortok",
+        "h1": "Egy hatéves gyerek is meghalt a lebombázott mariupoli kórházban, megkezdődött az orosz–ukrán külügyminiszteri találkozó, több mint négyezer menekült érkezett Budapestre szerdán",
+        "txtlength": 20256
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/03/10/novak-katalin-orosz-szovetsegesei-epp-a-csaladvedelem-ugyet-hasznalhattak-a-kreml-befolyasanak-erositesehez",
+        "h1": "Novák Katalin orosz szövetségesei épp a „családvédelem” ügyét használhatták a Kreml befolyásának erősítéséhez",
+        "txtlength": 17381
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20220309_Ezt_valositana_meg_kormanyon_az_egyesult_ellenzek__programbemutato_percrol_percre_MarkiZay_Peterrel",
+        "h1": "Ezt valósítaná meg kormányon az ellenzék – programbemutató Márki-Zay Péterrel",
+        "txtlength": 13392
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/fn/gazdasag/2022/03/10/inflacio-2022-februar-elelmiszer-arak/",
+        "h1": "Akár 20 százalékos inflációt is érzékelhetünk",
+        "txtlength": 12898
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20220310_ljubov_nepop_nagykovet_orosz_ukran_haboru",
+        "h1": "Ukrán nagykövet: Itt az ideje az ukránokban az európai erőd védelmezőit meglátni, mint egykor az egriekben",
+        "txtlength": 11124
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/vilag/20220310_orosz_ukran_haboru_zelenszkij_putyin_harmadik_het",
+        "h1": "Szumi környékét bombázták az éjjel, Harris Varsóban tárgyal – percről percre az orosz–ukrán háborúról",
+        "txtlength": 10823
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/penz/inflacio-penz-euro-forint-bank360/w407fkh",
+        "h1": "Kinek rossz és kinek jó a nyolc százalék feletti infláció?",
+        "txtlength": 8906
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/politika/partlament-koztarsasagi-elnok-valasztas-novak-katalin-rona-peter/q3q6n2f",
+        "h1": "Most dől el, ki lesz Magyarország új köztársasági elnöke",
+        "txtlength": 8886
+    },
+    {
+        "hostname": "nosalty.hu",
         "pagelink": "https://www.nosalty.hu/recept/sertesporkolt",
         "h1": "Sertéspörkölt",
         "txtlength": 10035
