@@ -1,5 +1,191 @@
 [
     {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/finomfozelek-fasirtgolyokkal.recept",
+        "h1": "FINOMFŐZELÉK FASÍRTGOLYÓKKAL",
+        "txtlength": 12357
+    },
+    {
+        "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/sport-szelet",
+        "h1": "Sport szelet",
+        "txtlength": 11882
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/gofriszendvics.recept",
+        "h1": "GOFRISZENDVICS",
+        "txtlength": 11491
+    },
+    {
+        "hostname": "kiszamolo.hu",
+        "pagelink": "https://kiszamolo.hu/hogyan-tarts-sok-penzt-a-bankszamladon/",
+        "h1": "Hogyan tarts sok pénzt a (céges) bankszámládon?",
+        "txtlength": 28030
+    },
+    {
+        "hostname": "efesasanisimasa.com",
+        "pagelink": "https://efesasanisimasa.com/2022/03/04/kedves-elvtarsak-%d0%b4%d0%be%d1%80%d0%be%d0%b3%d0%b8%d0%b5-%d1%82%d0%be%d0%b2%d0%b0%d1%80%d0%b8%d1%89%d0%b8-dear-comrades-2020/",
+        "h1": "Kedves elvtársak! (Дорогие товарищи / Dear Comrades!, 2020)",
+        "txtlength": 11795
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220219_ficzere_andrea_nagyinterju",
+        "h1": "Már a közeljövőben rövidülhet a várakozási idő – a Magyar Kórházszövetség elnöke a Mandinernek",
+        "txtlength": 28902
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/vasarlas/20220311/ez-az-igazi-nyugdijkatasztrofa-hiaba-az-arstop-az-idoseknek-zsemlere-is-egyre-kevesebb-jut-1122841",
+        "h1": "Ez az igazi nyugdíjkatasztrófa: hiába az árstop, az időseknek zsemlére is egyre kevesebb jut",
+        "txtlength": 22653
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vilag/20220311/a-putyini-autokraciat-es-az-ukrajnai-invaziot-is-az-olaj-futi/",
+        "h1": "Az ukrajnai inváziót is az olaj fűti",
+        "txtlength": 21577
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220311_budapest_fejlesztes_lanchid_szechenyi_ter_karacsony_tarlos",
+        "h1": "Lehet, Karácsony sem tudja, de még mindig Tarlós „rajzolja” Budapestet",
+        "txtlength": 20750
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vilag/20220310/rengeteg-fegyvert-zsakmanyolnak-az-ukranok-de-mire-mennek-vele/",
+        "h1": "Rengeteg fegyvert zsákmányolnak az ukránok, de mire mennek vele?",
+        "txtlength": 19668
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20220311/zsiday-viktor-a-rezsicsokkentes-a-valasztasok-utan-nem-fenntarthato-532425",
+        "h1": "Zsiday Viktor: a rezsicsökkentés a választások után nem fenntartható",
+        "txtlength": 19546
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220312_oroszorszag_ukrajna_esztorszag_raul_rebane",
+        "h1": "Az észtek támogatják Ukrajna harcát – Raul Rebane észt újságíró a Mandinernek",
+        "txtlength": 19315
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/global/20220311/forro-haboruban-kell-a-leghidegebb-fej-532579",
+        "h1": "Forró háborúban kell a leghidegebb fej",
+        "txtlength": 17850
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/global/20220312/megszolaltak-a-legvedelmi-szirenak-heves-ostrom-varhat-kijevre-itt-vannak-a-legfontosabb-hirek-szombaton-532959",
+        "h1": "Megszólaltak a légvédelmi szirénák, heves ostrom várhat Kijevre - Itt vannak a legfontosabb hírek szombaton ",
+        "txtlength": 17559
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/utazas/20220311/konnyen-pokolla-valhat-a-hosszu-hetvege-ha-nem-figyelsz-igy-nem-no-a-fejedre-a-fonokod-1122929",
+        "h1": "Könnyen pokollá válhat a hosszú hétvége, ha nem figyelsz: így nem nő a fejedre a főnököd",
+        "txtlength": 16962
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/bcs/2022/03/11/adovisszaterites-nav-befektetes-allianz/",
+        "h1": "Hasznos tipp az szja-visszatérítés felhasználására: a gyermeked jövőjét alapozhatod meg vele",
+        "txtlength": 13350
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/szuloseg/szules-tortenelem-hiedelmek-szokasok/",
+        "h1": "szülés történelem hiedelmek szokások",
+        "txtlength": 11953
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2022/03/12/hallgasd-meg-a-kihalt-allatok-hangjat",
+        "h1": "HALLGASD MEG A KIHALT ÁLLATOK HANGJÁT!",
+        "txtlength": 11870
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/tech/2022/03/12/oroszorszag-ukrajna-haboru-orosz-internet-levalas-lekapcsolodas-szankciok-bojkott-kiberbiztonsag-cenzura-icann-dns-domainnev",
+        "h1": "A háború egyre közelebb sodorja Oroszországot ahhoz, hogy leszakadjon a globális internetről",
+        "txtlength": 37613
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kultura/2022/03/11/kira-jarmis-interju-alekszej-navalnij-putyin-oroszorszag-borton-orosz-ukran-haboru-zarka-regeny/",
+        "h1": "Navalnij szóvivője: Oroszország nem egyenlő Putyinnal, a fájdalmas igazságot pedig már a propaganda sem tudja elfedni",
+        "txtlength": 32380
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/elet/20220311_Putyin_bele_fog_bukni_a_haboruba__igeri_Alekszej_Navalnij_sajtotitkara",
+        "h1": "Putyin bele fog bukni a háborúba – ígéri Alekszej Navalnij sajtótitkára",
+        "txtlength": 18574
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/belfold/2022/03/11/orosz-ukran-haboru-menekultek-magyarorszag-befogadas",
+        "h1": "Ha véget érne a háború, már másnap mennének vissza Ukrajnába",
+        "txtlength": 16836
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20220312_kerdoiv_haboru_megiteles",
+        "h1": "Együtt szorongunk a háború miatt, ám abban már nem értünk egyet, ki is okolható miatta",
+        "txtlength": 15954
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/belfold/2022/03/11/nagyrede-siposne-fodor-judit-lejaratas-szorolap-alprofil-facebook-balazs-jozsef",
+        "h1": "Döbbenetes, amikor megérkezik a faluba a gyűlöletkampány",
+        "txtlength": 15909
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kulfold/2022/03/11/mariupol-gyermekkorhaz-bombazas-nemzetkozi-jog-orosz-ukran-haboru/",
+        "h1": "Semmilyen okból nem engedi meg a hadijog a kórházbombázást",
+        "txtlength": 15829
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/zhvg/20220310_eu_energia_zhvg",
+        "h1": "Az évtized végére tudna csak függetlenedni Európa az orosz energiától",
+        "txtlength": 15235
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/fn/gazdasag/2022/03/12/tankolas-uj-szabaly-tranzitforgalom-dragabb-fuvarozas-inflacio/",
+        "h1": "Nem ezt várták a magyar fuvarozók a kormánytól, de a tranzitforgalom nagyját kisöpörheti a kutakról az új tankolási rend",
+        "txtlength": 14860
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/03/12/hatosagi-aras-buheralas-helyett-beremelessel-es-afacsokkentessel-torne-le-az-inflaciot-az-ellenzek",
+        "h1": "Hatósági áras buherálás helyett béremeléssel és áfacsökkentéssel törné le az inflációt az ellenzék",
+        "txtlength": 13973
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/politika/benzinkut-kamion-dizel-aremeles-sorbanallas-m0-as/gtk8mkq?sl_ps=d_7",
+        "h1": "Megnéztük, hogyan reagálnak a kamionosok a benzinkutakon a rendkívüli szabályokra, az áremelkedésre",
+        "txtlength": 12112
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/03/11/ujabb-orosz-oligarchakra-bankarokra-es-politikusokra-vetett-ki-szankciokat-az-egyesult-allamok-egy-utasszallitot-is-lefoglalnak",
+        "h1": "Újabb orosz oligarchákra, bankárokra és politikusokra vetett ki szankciókat az Egyesült Államok, egy utasszállítót is lefoglalnak",
+        "txtlength": 11383
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/krimi/regi-bunugyek-szerelemfeltes-kofferes-gyilkossag-schreiber-fegyhaz/2thkd02",
+        "h1": "Borzalmas dolgot rejtett a vonaton hagyott hatalmas koffer Szolnokon",
+        "txtlength": 9955
+    },
+    {
         "hostname": "nosalty.hu",
         "pagelink": "https://www.nosalty.hu/recept/egyszeru-piskotatekercs",
         "h1": "Egyszerű piskótatekercs",
