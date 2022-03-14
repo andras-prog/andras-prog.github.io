@@ -1,6 +1,186 @@
 [
     {
         "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/csilis-csirkes-spagetti.recept",
+        "h1": "CSILIS-CSIRKÉS SPAGETTI",
+        "txtlength": 10780
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/mentas-afonyas-shake.recept",
+        "h1": "MENTÁS-ÁFONYÁS SHAKE",
+        "txtlength": 10176
+    },
+    {
+        "hostname": "kiszamolo.hu",
+        "pagelink": "https://kiszamolo.hu/ukran-menekultek-te-is-tudsz-segiteni/",
+        "h1": "Ukrán menekültek: te is tudsz segíteni",
+        "txtlength": 32331
+    },
+    {
+        "hostname": "kulturpart.hu",
+        "pagelink": "https://kulturpart.blog.hu/2022/03/10/megdobbento_fotok_ukrajnabol",
+        "h1": "MEGDÖBBENTŐ FOTÓK UKRAJNÁBÓL",
+        "txtlength": 6377
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220314_kulfold_ljubov_nepop_ukrajna_nagykovet_interju",
+        "h1": "„Ma Ukrajna az egri vár, Zelenszkij pedig Dobó István” – Ukrajna nagykövete a Mandinernek",
+        "txtlength": 29830
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20220313/tenyleg-emelni-kell-magyarorszagon-a-nyugdijkorhatart-ontsunk-tiszta-vizet-a-poharba-532537",
+        "h1": "Tényleg emelni kell Magyarországon a nyugdíjkorhatárt? Öntsünk tiszta vizet a pohárba!",
+        "txtlength": 24863
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vilag/20220312/vegignezi-e-a-vilag-ahogy-ehen-hal-tobb-szazezer-ember-ukrajnaban/",
+        "h1": "Végignézi-e a világ, ahogy éhen hal több százezer ember Ukrajnában?",
+        "txtlength": 23574
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://makronom.mandiner.hu/cikk/20220310_energiavalsag_ukraja_oroszorszag_rezsicsokkentes_gaz_szankcio_pletser_tamas_olaj_foldgaz_gazar",
+        "h1": "Nem fogunk megfagyni télen: a kérdés csak az, mennyit fizetünk ezért – olaj- és gázipari szakértő a Makronómnak",
+        "txtlength": 22461
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220312_adaz_viadal_varhato_a_nagykanizsai_korzetben",
+        "h1": "Gyurcsány-bizalmas és államtitkár csap össze, szoros meccs várható a nagykanizsai körzetben",
+        "txtlength": 22351
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vilag/20220314/hihetetlen-vagyonokat-loptak-ki-oroszorszagbol-de-a-haboru-elott-ez-nem-zavarta-a-penzeket-fogado-nyugatot/",
+        "h1": "Hihetetlen vagyonokat loptak ki Oroszországból, de a háború előtt ez nem zavarta a pénzeket fogadó Nyugatot",
+        "txtlength": 21972
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/gazdasag/20220310/ujabb-gigacegek-hagytak-el-oroszorszagot-hazankban-ingyenes-orvosi-ellatas-varja-a-menekuloket-hirosszefoglalo-1122893",
+        "h1": "Újabb gigacégek hagyták el Oroszországot, hazánkban ingyenes orvosi ellátás várja a menekülőket - hírösszefoglaló",
+        "txtlength": 19950
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2022/03/13/ki-a-legnagyobb-kiraly-a-9-helyen-luxemburgi-zsigmond",
+        "h1": "KI A LEGNAGYOBB KIRÁLY? A 9. HELYEN: LUXEMBURGI ZSIGMOND",
+        "txtlength": 18589
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/auto/20220311/durvan-rafizethet-aki-most-venne-autot-viszlat-fix-ar-hello-tobb-eves-varolista-1122918",
+        "h1": "Durván ráfizethet, aki most venne autót: Viszlát, fix ár! Hello, több éves várólista!",
+        "txtlength": 17485
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/uzlet/20220314/a-magyar-tozsde-zarva-de-mi-zajlik-a-kulfoldi-reszvenypiacokon-533149",
+        "h1": "A magyar tőzsde zárva, de mi zajlik a külföldi részvénypiacokon? ",
+        "txtlength": 14777
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/global/20220312/egyre-durvabb-fegyvereket-visznek-ukrajnaba-az-oroszok-de-vajon-hol-marad-az-igazi-csucstechnika-532567",
+        "h1": "Egyre durvább fegyvereket visznek Ukrajnába az oroszok, de vajon hol marad az igazi csúcstechnika?",
+        "txtlength": 13617
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/otthon/alapanyagok-eltarthatosaga/",
+        "h1": "Meddig áll el az étolaj, a liszt vagy a cukor? Érdemes az árstop miatt betárazni belőlük?",
+        "txtlength": 11293
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/lajfhekk/takaritasi-hibak/",
+        "h1": "takarítási hibák portörlés",
+        "txtlength": 9973
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kozelet/2022/03/13/orosz-ukran-haboru-menekultek-maltai-szeretetszolgalat-gyori-dani-lajos-interju/",
+        "h1": "„El kell kerülnünk, hogy ukrajnai menekültek sátorozzanak a játszótereken”",
+        "txtlength": 25952
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/interju/2022/03/14/kira-jarmis-alekszej-navalnij-oroszorszag-ukrajna-putyin",
+        "h1": "Putyinra kétféle nyomással lehet hatni: kívülről szankciókkal a barátai ellen, belülről pedig hatalmas tüntetésekkel",
+        "txtlength": 25728
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2022/03/13/algyo-csatater-csongrad-csanad-riport/",
+        "h1": "A község, ami alól kiszivattyúzták az olajat, mégsem nyelte el a föld",
+        "txtlength": 24506
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kulfold/2022/03/14/orosz-ukran-haboru-19-nap-elo-kozvetites/",
+        "h1": "Zelenszkij: Csak idő kérdése, mikor csapódik egy orosz rakéta NATO-területre",
+        "txtlength": 23508
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kulfold/2022/03/14/percrol-percre-tudositas-hetfon-orosz-ukran-haboru-19-napja",
+        "h1": "Attól tart az USA, hogy Kína beszáll az oroszok oldalán, betiltották Oroszországban az Instagramot, újabb orosz-ukrán tárgyalás lesz hétfőn",
+        "txtlength": 21823
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kulfold/2022/03/13/mi-itt-maradok-kitartunk-es-meg-nagyobb-kozosseget-probalunk-majd-epiteni-ukranokkal-magyarokkal-mindenkivel",
+        "h1": "Mi, itt maradók, kitartunk, és még nagyobb közösséget próbálunk majd építeni ukránokkal, magyarokkal, mindenkivel",
+        "txtlength": 15789
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/elet/20220313_ukran_menekultek_magyar_spanyol_mentoakcio",
+        "h1": "Egy hét alatt oda lett az otthonuk, az egész életük. Hogy lehet mindent elölről kezdeni?",
+        "txtlength": 15247
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/vilag/20220313_Orosz_fiatalok_Putyin_parti_szulok",
+        "h1": "Orosz fiatalok és Putyin-párti szülők: „Apám rosszul lett, amikor szembesítettük az igazsággal”",
+        "txtlength": 14628
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/03/13/marcius-15-en-17-fok-is-lehet",
+        "h1": "Március 15-én 17 fok is lehet",
+        "txtlength": 10320
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/03/13/karacsony-gergely-gratulalt-a-operahaz-kivitelezojenek",
+        "h1": "Karácsony Gergely gratulált a Operaház kivitelezőjének",
+        "txtlength": 10070
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/vilag/20220313_francis_fukuyama_oroszukran_konfliktus_12_pont",
+        "h1": "Vereségre készülve – Fukuyama 12 pontban értékelte az orosz-ukrán háborút, Orbánt is megemlíti",
+        "txtlength": 9476
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/kulfold/orosz-ukran-konfliktus-orosz-ukran-haboru-osszefoglalo-beketargyalas-bombazas/mdr6sbg?sl_ps=d_2",
+        "h1": "Kijevi repülőgyárat bombáztak le az oroszok, folytatódnak a béketárgyalások – Napi összefoglalónk az ukrajnai háborúról",
+        "txtlength": 7784
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/tartozas-behajtas-koveteleskezelo-ceg-felszolitas/dzrw25k?sl_ps=d_7",
+        "h1": "Két éve elévült, de behajtották az állítólag be nem fizetett kétezer forintos kéményseprési díjat – 24 ezret húztak le Katalinékról: úgy érzi, átverték",
+        "txtlength": 7296
+    },
+    {
+        "hostname": "mindmegette.hu",
         "pagelink": "https://www.mindmegette.hu/finomfozelek-fasirtgolyokkal.recept",
         "h1": "FINOMFŐZELÉK FASÍRTGOLYÓKKAL",
         "txtlength": 12357
