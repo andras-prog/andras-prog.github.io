@@ -1,6 +1,192 @@
 [
     {
         "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/marlenka-video.recept",
+        "h1": "MARLENKA",
+        "txtlength": 13585
+    },
+    {
+        "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/husveti-vendegvaro-ozgerinc",
+        "h1": "Húsvéti vendégváró őzgerinc",
+        "txtlength": 13554
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/boci-gofri.recept",
+        "h1": "BOCI GOFRI, AMINEK NEM LEHET ELLENÁLLNI",
+        "txtlength": 10659
+    },
+    {
+        "hostname": "hataratkelo.blog.hu",
+        "pagelink": "https://hataratkelo.blog.hu/2022/03/08/56_68#c41283910",
+        "h1": "56, 68, 22",
+        "txtlength": 38855
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20220316/pozsar-zoltan-csunyan-labon-lotte-magat-a-nyugat-az-orosz-szankciokkal-es-fel-nem-fogom-ezt-hogy-nem-lattak-elore-533009",
+        "h1": "Pozsár Zoltán: Csúnyán lábon lőtte magát a Nyugat az orosz szankciókkal, és fel nem fogom, ezt hogy nem látták előre",
+        "txtlength": 27383
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/vasarlas/20220313/nesze-neked-arstop-igy-fosztotta-ki-a-februar-a-magyar-nyugdijasokat-nagycsaladosokat-1122807",
+        "h1": "Nesze neked árstop: így fosztotta ki a február a magyar nyugdíjasokat, nagycsaládosokat",
+        "txtlength": 26819
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/tech/20220314/fizetesi-szuperappokka-valhatnak-e-a-hazai-banki-mobilapplikaciok/",
+        "h1": "Fizetési szuperappokká válhatnak-e a hazai banki mobilapplikációk?",
+        "txtlength": 23805
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vilag/20220313/putyintol-minden-kitelik/",
+        "h1": "Putyintól minden kitelik?",
+        "txtlength": 20720
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220309_pityinger_laszlo_dopeman_molnar_aron_noar_vita_kozelet",
+        "h1": "Frontvonalak – Pityinger László Dopeman kontra Molnár Áron noÁr",
+        "txtlength": 18566
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/global/20220315/a-legendas-magyar-fegyver-amely-megfordithatta-volna-a-szabadsagharcot-533297",
+        "h1": "A legendás magyar fegyver, amely megfordíthatta volna a szabadságharcot",
+        "txtlength": 18550
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220315_ellenzek_tuntetes_marcius_15_marki_zay_peter_donald_tusk_dobrev_klara_orban_viktor_jakab_peter_muegyetem_rakpart_belfold",
+        "h1": "Sokan beszéltek, nem túl érdekeseket, kevés embernek: ilyen volt az ellenzék nagygyűlése",
+        "txtlength": 18383
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/utazas/20220314/horror-arak-a-balatonnal-meg-igy-is-lecsuszhat-a-nyaralasrol-aki-nem-foglal-hamar-szallast-1122324",
+        "h1": "Horror árak a Balatonnál: még így is lecsúszhat a nyaralásról, aki nem foglal hamar szállást",
+        "txtlength": 17709
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/ezo/szendrey-julia-felesegek-felesege/",
+        "h1": "Nem sok boldogság jutott Szendrey Júliának - Petőfi a feleségek feleségének nevezte az asszonyt",
+        "txtlength": 17374
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20220316/rado-peter-pedagogus-ellenallas-ujratoltve-533183",
+        "h1": "Radó Péter: Pedagógus ellenállás újratöltve",
+        "txtlength": 17047
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220315_orban_viktor_beszed_bekemenet_1848_marcius_15_belfold",
+        "h1": "Orbán Viktor: Nem hagyjuk, hogy a baloldal belerángassa Magyarországot a háborúba",
+        "txtlength": 17041
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2022/03/16/haboru-ukrajnaban-igy-segithetsz",
+        "h1": "HÁBORÚ UKRAJNÁBAN: ÍGY SEGÍTHETSZ",
+        "txtlength": 16971
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/testem/jod-sugarfertozes-gomba-atomkatasztrofa/",
+        "h1": "gomba sugárfertőzés jód atomkatasztrófa",
+        "txtlength": 12086
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/lajfhekk/fogkrem-lenyelese/",
+        "h1": "Fogkrém lenyelése",
+        "txtlength": 9501
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2022/03/16/sztrajk-pedagogussztrajk-tanarsztrajk-marcius-16/",
+        "h1": "„Elég volt, hogy senkiként kezelnek minket!” – országszerte sztrájkolnak a pedagógusok",
+        "txtlength": 31431
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kulfold/2022/03/16/orosz-ukran-valsag-haboru-menekultek-karpatalja-ungvar",
+        "h1": "„Egyetlen vágyunk, hogy Putyin tűnjön el az országunkból a katonáival együtt, hogy hazamehessünk”",
+        "txtlength": 24889
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kulfold/2022/03/15/lengyelorszag-orban-kaczynski-tusk-marcius-15-marki-zay-ukrajna-oroszorszag-haboru-szovetseg",
+        "h1": "Ezek már nem azok a lengyelek: meginoghat Orbán legfontosabb európai szövetsége az oroszbarátság miatt",
+        "txtlength": 22813
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/belfold/2022/03/16/pedagogus-sztrajk-tanarok-iskola-emmi-pdsz-psz-szakszervezet-sztrajkjog-percrol-percre",
+        "h1": "Budapesten és vidéken is zajlik a tanársztrájk, szülők és diákok is támogatják a pedagógusokat",
+        "txtlength": 22389
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20220315_Ellenzeki_nagygyules_A_hatalom_a_nepe",
+        "h1": "12 pontban szedte össze az ellenzék a követeléseit",
+        "txtlength": 17201
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kulfold/2022/03/16/orosz-ukran-haboru-ukrajna-elo-kozvetites-21-nap-marcius-16/",
+        "h1": "Az amerikai szenátus háborús bűnösnek nyilvánította Putyint; másfél millió ukrán gyerek vált menekültté",
+        "txtlength": 16940
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/elet-stilus/2022/03/15/diszlexia-olvasas-kutatas-zenei-fejlesztes-entrainment-interju/",
+        "h1": "Olvasási nehézséget jelezhet elő a gyengébb ritmusérzék",
+        "txtlength": 16639
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/03/16/akarjatok-e-a-totalis-beket",
+        "h1": "Akarjátok-e a totális békét?",
+        "txtlength": 13710
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/03/16/sikerdijbol-gazdagodhat-tiborcz-istvan-uj-alapkezeloje",
+        "h1": "Sikerdíjból gazdagodhat Tiborcz István új alapkezelője",
+        "txtlength": 12094
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20220315_Bekemenet_Orban_Viktor",
+        "h1": "Orbán Viktor: Ebben a háborúban semmit nem nyerhetünk, de mindent elveszíthetünk",
+        "txtlength": 10958
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/elet/20220316_Tanarsztrajk_pedagogusok_iskolak_oktatas",
+        "h1": "És holnap ki fog tanítani? Élőben a pedagógusok határozatlan idejű sztrájkja",
+        "txtlength": 9594
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/segitokutya-budapest-bkv-bkk-busz-sofor-szivbeteg/be44y7m",
+        "h1": "Hiába segítőkutya, nem engedte felszállni Rustyt és szívbeteg gazdáját a budapesti buszsofőr – felkavaró videó",
+        "txtlength": 7569
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/sztarvilag/zene/red-bull-pilvaker/91zn3q6",
+        "h1": "Dupla Arénával búcsúzott a Red Bull Pilvaker – fotók",
+        "txtlength": 7113
+    },
+    {
+        "hostname": "mindmegette.hu",
         "pagelink": "https://www.mindmegette.hu/csilis-csirkes-spagetti.recept",
         "h1": "CSILIS-CSIRKÉS SPAGETTI",
         "txtlength": 10780
