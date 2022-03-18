@@ -1,5 +1,185 @@
 [
     {
+        "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/meggyes-tejfolos-piskota",
+        "h1": "Meggyes tejfölös piskóta",
+        "txtlength": 11541
+    },
+    {
+        "hostname": "kiszamolo.hu",
+        "pagelink": "https://kiszamolo.hu/lakashitel-piaci-korkep/",
+        "h1": "Lakáshitel-piaci körkép",
+        "txtlength": 44172
+    },
+    {
+        "hostname": "efesasanisimasa.com",
+        "pagelink": "https://efesasanisimasa.com/2022/03/16/nagy-katalin-a-kezdetek-the-great-season-1-2020/",
+        "h1": "Nagy Katalin – A kezdetek (The Great, Season 1-2., 2020-21)",
+        "txtlength": 10662
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/gazdasag/20220317/orosz-ukran-haboru-zelenszkij-szerint-uj-fal-emelkedik-europaban-a-szabad-es-rabsagban-elo-orszagok-kozott-esti-osszefoglalo-1123080",
+        "h1": "Orosz-ukrán háború: Zelenszkij szerint új fal emelkedik Európában a szabad és rabságban élő országok között - esti összefoglaló",
+        "txtlength": 40279
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vilag/20220317/mikor-kezdodott-az-orosz-kapitalizmus-valsaga/",
+        "h1": "Mikor kezdődött az orosz kapitalizmus válsága?",
+        "txtlength": 29645
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vilag/20220318/megfordithatja-ukrajna-a-haborut-de-ehhez-uj-fegyverek-kellenek/",
+        "h1": "Megfordíthatja Ukrajna a háborút, de ehhez új fegyverek kellenek",
+        "txtlength": 24501
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/gazdasag/20220318/friss-orosz-ukran-haboru-feheroroszorszagot-es-meg-kinat-is-uj-szankciokkal-sujthatjak-reggeli-osszefoglalo-1123086",
+        "h1": "Friss! Orosz-ukrán háború: Fehéroroszországot, és még Kínát is új szankciókkal sújthatják - reggeli összefoglaló",
+        "txtlength": 23760
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220317_vargha_tamas_cser_palkovics_andras_kiralyok_es_szentek_szekesfehervar_valasztas_interju",
+        "h1": "„Több mint ezer éve itt vagyunk, tudjuk, egy háborúnak nincsenek győztesei, csak áldozatai”",
+        "txtlength": 23335
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/szuloseg/gyereket-akarok-nem/",
+        "h1": "gyereket akarok nem",
+        "txtlength": 18931
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220318_putyin_korabban_a_nyugat_kedvence_volt_most_az_ellensege_az_euronews_portreja",
+        "h1": "Putyin korábban a Nyugat kedvence volt, most az ellensége – az Euronews portréja",
+        "txtlength": 17724
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220316_nem_szabad_elbizonytalanitani_a_gyerekeket_perczel_forintos_dora_a_mandinernek",
+        "h1": "Nem szabad elbizonytalanítani a gyerekeket – Perczel-Forintos Dóra a Mandinernek",
+        "txtlength": 17475
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20220318/evtizedek-ota-nem-latott-kiserlet-zajlik-magyarorszagon-csikorognak-a-fogaskerekek-533765",
+        "h1": "Évtizedek óta nem látott kísérlet zajlik Magyarországon – Csikorognak a fogaskerekek?",
+        "txtlength": 15488
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2022/03/18/a-kozep-kelet-europai-allamok-csunyan-porul-jarhatnak-az-oroszorszag-elleni-szankciok-miatt",
+        "h1": "A KÖZÉP-KELET-EURÓPAI ÁLLAMOK CSÚNYÁN PÓRUL JÁRHATNAK AZ OROSZORSZÁG ELLENI SZANKCIÓK MIATT",
+        "txtlength": 14687
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/uzlet/20220318/waberers-elerheto-lehet-iden-a-tavalyi-bevetel-es-eredmeny-533987",
+        "h1": "Waberer's: elérhető lehet idén a tavalyi bevétel és eredmény",
+        "txtlength": 14174
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/uzlet/20220318/megakadtak-az-orosz-ukran-beketargyalasok-elbizonytalanodas-a-tozsdeken-534003",
+        "h1": "Megakadtak az orosz-ukrán béketárgyalások - Elbizonytalanodás a tőzsdéken ",
+        "txtlength": 12928
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/szepseg/ajak-betegseg-es-tunet/",
+        "h1": "12 tünet az ajkakon, ami betegséget jelezhet - Mire fontos odafigyelni a bőrgyógyász szerint?",
+        "txtlength": 12035
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/testem/parkapcsolat-szerelem-megcsalas/",
+        "h1": "megcsalás hűtlenség okok szerelem párkapcsolat",
+        "txtlength": 11135
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/tudomany/2022/03/17/alvas-vilagnapja-magyarok-alvas-kepe-cirkadian-ritmus-megoldasok",
+        "h1": "Mint amikor egy autó rossz sebességben van, és folyamatosan pörög a motor",
+        "txtlength": 24928
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kultura/2022/03/17/bollywood-nollywood-filmgyartas-hollywood-nigeria-mozi-afrika/",
+        "h1": "Volt egyszer egy Bollywood? – már nem Indiában, hanem Nigériában készül a legtöbb film",
+        "txtlength": 19987
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kulfold/2022/03/18/ukran-orosz-haboru-oroszorszag-ukrajna-percrol-percre-elo-tudositas/",
+        "h1": "Putyin elmondta Erdogannak a követeléseit, hat rakétát lőttek ki az oroszok Lvivre, lakóházat találtak el egy rakéta maradványai Kijevben",
+        "txtlength": 18986
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kulfold/2022/03/17/ukrajna-lviv-menekultek-ovohely-haboru-oroszorszag-javoriv-legi-riado-ovohely",
+        "h1": "Lvivben már hozzászoktak a háború gondolatához, mert az élet nem állhat meg",
+        "txtlength": 17431
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/sport/2022/03/17/orosz-ukran-haboru-vlagyimir-putyin-alina-kabajeva-portre/",
+        "h1": "Kiutasítanák Svájcból Putyin állítólagos szeretőjét, az athéni olimpiai bajnokot",
+        "txtlength": 16233
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/03/18/ujabb-kiserletet-tett-a-magyar-kormany-hogy-hozzaferjen-az-elzart-eu-s-penzekhez",
+        "h1": "Újabb kísérletet tett a magyar kormány, hogy hozzáférjen az elzárt EU-s pénzekhez",
+        "txtlength": 15995
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/03/17/torolmetszett-osszeeskuveselmelet-terjesztot-tuntetett-ki-sajtodijjal-kasler-miklos",
+        "h1": "Tőrőlmetszett összeesküvéselmélet-terjesztőt tüntetett ki sajtódíjjal Kásler Miklós",
+        "txtlength": 15675
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kulfold/2022/03/18/percrol-percre-tudositas-orosz-ukran-haboru-23-nap",
+        "h1": "Rakétatámadás ért egy üzemet a lvivi reptérnél, Putyin tárgyalna Zelenszkijjel, már 320 ezren tértek vissza Ukrajnába harcolni",
+        "txtlength": 14757
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/kkv/20220318_benzin_dizel_uzemanyag_arstop_kamionstop_kozuti_fuvarozas",
+        "h1": "A kamionosok már tudják, hogy ez még nem a gödör alja",
+        "txtlength": 14288
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/elet/20220317_kerekes_vica_interju_orban_viktor_oroszorszag_ukrajna_putyin_magyar_kormany",
+        "h1": "Kerekes Vica: Orbán miért nem mondja ki, hogy tévedett?",
+        "txtlength": 14217
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20220317_civil_szervezetek_ukrajnai_menekultek_budapest",
+        "h1": "„Harkivból jött, nem volt pénze, kifizettem a vonatjegyét” – lenyűgöző civil akció folyik a budapesti pályaudvaroknál",
+        "txtlength": 12757
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/orosz-kemek-heviz-nato-ugynokok-hirszerzes/70kx2cy",
+        "h1": "Orosz kémközpont Hévízen: a fürdőváros évek óta a keleti és nyugati hírszerzési nagyüzem jelentős bázisa",
+        "txtlength": 8858
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/blikk-tv/aktualis/kampanyjaro-detari-lajos/783tvjl",
+        "h1": "Kampányjáró – Détári Lajos programja: harc a túlsúly és az alkoholizmus ellen",
+        "txtlength": 8204
+    },
+    {
         "hostname": "mindmegette.hu",
         "pagelink": "https://www.mindmegette.hu/marlenka-video.recept",
         "h1": "MARLENKA",
