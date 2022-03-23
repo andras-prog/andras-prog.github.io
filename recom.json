@@ -1,5 +1,197 @@
 [
     {
+        "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/konyakmeggyes-szelet-babapiskotaval",
+        "h1": "Konyakmeggyes szelet babapiskótával",
+        "txtlength": 16261
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/paleo-gofri-gyumolccsel-es-csokiontettel.recept",
+        "h1": "PALEO GOFRI GYÜMÖLCCSEL ÉS CSOKIÖNTETTEL",
+        "txtlength": 11429
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/forditott-almatorta-liszt-es-tejmentesen.recept",
+        "h1": "FORDÍTOTT ALMATORTA (LISZT-ÉS TEJMENTESEN)",
+        "txtlength": 11217
+    },
+    {
+        "hostname": "kiszamolo.hu",
+        "pagelink": "https://kiszamolo.hu/mi-az-a-kozeposztaly-ki-a-szegeny-es-hol-kezdodik-a-gazdag/",
+        "h1": "Mi az a középosztály, ki a szegény és hol kezdődik a gazdag?",
+        "txtlength": 41268
+    },
+    {
+        "hostname": "efesasanisimasa.com",
+        "pagelink": "https://efesasanisimasa.com/2022/03/09/atlantis-%d0%b0%d1%82%d0%bb%d0%b0%d0%bd%d1%82%d0%b8%d0%b4%d0%b0-2019/",
+        "h1": "Atlantis (Атлантида, 2019)",
+        "txtlength": 8807
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2022/03/22/a-fasiszta-ukrajna-mitosza",
+        "h1": "A „FASISZTA UKRAJNA” MÍTOSZA",
+        "txtlength": 32517
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vilag/20220322/hianygazdasag-inflacio-megrengeti-a-haboru-az-orosz-gazdasagot/",
+        "h1": "Hiánygazdaság, infláció – megrengeti a háború az orosz gazdaságot",
+        "txtlength": 25740
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220316_magyarorszag_egeszseges_demokracia_george_pataki_a_mandinernek",
+        "h1": "Magyarország egészséges demokrácia – George Pataki a Mandinernek",
+        "txtlength": 21537
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vilag/20220320/miert-veszit-ilyen-sok-tabornokot-az-orosz-hadsereg/",
+        "h1": "Miért veszít ilyen sok tábornokot az orosz hadsereg?",
+        "txtlength": 20837
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/karrier/20220322/itt-a-leginkabb-tulfizetett-magyar-szakmak-ranglistaja-nem-ritka-a-millios-fizetes-1123211",
+        "h1": "Itt a leginkább túlfizetett magyar szakmák ranglistája: nem ritka a milliós fizetés",
+        "txtlength": 19523
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220322_gaz_leallas_europa",
+        "h1": "Mi történne velünk, ha egyszer csak leállna a gáz?",
+        "txtlength": 19238
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/oktatas/20220322/tobb-sebbol-verzik-a-hazai-oktatasi-rendszer-a-tanarok-fizetese-csak-a-jeghegy-csucsa-1123197",
+        "h1": "Több sebből vérzik a hazai oktatási rendszer: a tanárok fizetése csak a jéghegy csúcsa",
+        "txtlength": 18627
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220323_javor_benedek_karacsony_gergely_brusszel_gaz_belfold_baloldali_politikus",
+        "h1": "Karácsony brüsszeli embere elzárná a gázcsapot és a magyarokkal fizettetné meg a szankciók árát",
+        "txtlength": 17768
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/uzlet/20220323/tovabb-dul-a-haboru-a-tozsdeken-megis-egyre-jobb-a-hangulat-534899",
+        "h1": "Tovább dúl a háború, a tőzsdéken mégis egyre jobb a hangulat ",
+        "txtlength": 14370
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20220323/kilenc-ok-amiert-nehez-helyzetbe-kerult-a-magyar-gazdasag-534825",
+        "h1": "Kilenc ok, amiért nehéz helyzetbe került a magyar gazdaság",
+        "txtlength": 14314
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/ingatlan/20220323/jon-az-onero-nelkuli-lakasvasarlas-meglepik-a-lengyeleknel-534917",
+        "h1": "Jön az önerő nélküli lakásvásárlás - Meglépik a lengyeleknél",
+        "txtlength": 13611
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/bcs/2022/03/22/adovisszaterites-nav-befektetes-allianz/",
+        "h1": "Hasznos tipp az szja-visszatérítés felhasználására: a gyermeked jövőjét alapozhatod meg vele",
+        "txtlength": 13136
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/testem/migren-fejfajas-jelek-kulonbseg/",
+        "h1": "fejfájás migrén fájdalom egészség különbség fej",
+        "txtlength": 12757
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/lajfhekk/etelek-tevhitek/",
+        "h1": "Ételek tévhitek",
+        "txtlength": 10169
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/komplex/2022/03/23/tankotelezettseg-korhatar-csokkentes-noveles-16-ev-18-ev-ellenzek-torveny-pedagogus-diak-oktatasugy-szakerto-tanarok-1",
+        "h1": "\n      Legszívesebben visszafordítanám az időt oda, mikor még csak iskolába kellett járnom\n    ",
+        "txtlength": 29759
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kulfold/2022/03/23/percrol-percre-tudositas-szerdan-orosz-ukran-haboru-28-napjan",
+        "h1": "Oroszország nem zárta ki az atomfegyver bevetését, a belarusz ellenzék állítólag vasúti síneket szed fel",
+        "txtlength": 20031
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kultura/2022/03/22/ismeretlen-budapest-masodik-vilaghaboru-hilton-budai-var-varnegyed-hess-andras-ince-papa-ter-iskola-hotel/",
+        "h1": "Ilyen tervek születtek eredetileg a budavári Hilton helyére",
+        "txtlength": 17470
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/03/23/europa-eros-embere-megis-keri-a-penzt-amit-mar-elutasitott",
+        "h1": "Európa erős embere mégis kéri a pénzt, amit már elutasított",
+        "txtlength": 15550
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kulfold/2022/03/23/orosz-ukran-haboru-vlagyimir-putyin-percrol-percre-elo-zelenszkij/",
+        "h1": "100 ezer ember esett csapdába Mariupolban, az oroszok egy laboratóriumra támadtak Csernobilban",
+        "txtlength": 14871
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/pszichologiamagazin/20220322_A_haboru_fellobbanthatja_bennunk_a_csaladilag_hordozott_felelmeket",
+        "h1": "A háború fellobbanthatja bennünk a családilag hordozott félelmeket",
+        "txtlength": 14693
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/gazdasag/20220321_stagflacio_veszely_recesszio_inflacio",
+        "h1": "Először el sem hitték, hogy létezhet, most újra ez fenyegeti a világot: mi az a stagfláció?",
+        "txtlength": 14065
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/fn/gazdasag/2022/03/22/uzemanyag-arsapka-veszteseg-csaladi-benzinkutak-mol/",
+        "h1": "Ellátási és megélhetési gondjaik miatt tiltakoznak a Molnál a veszteségbe kényszerített családi benzinkutak",
+        "txtlength": 13152
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/03/22/akkor-is-szeretunk-titeket-ha-nem-rank-szavaztok-mondta-marki-zay-peter-kolozsvaron",
+        "h1": "„Akkor is szeretünk titeket, ha nem ránk szavaztok” – mondta Márki-Zay Péter Kolozsváron",
+        "txtlength": 12954
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kulfold/2022/03/22/oroszorszag-ukran-valsag-haboru-arany-aranytartalek-szankciok",
+        "h1": "Az oroszoknak van kétezer tonna aranyuk, amivel most nem mennek semmire",
+        "txtlength": 12722
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20220322_ukrajna_magyarorszag_oroszorszag_kritika_irina_verescsuk",
+        "h1": "Kreml-szóvivő: Vlagyimir Putyin nem haragszik az ukrán népre",
+        "txtlength": 9865
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/balaton-szarazsag-vizhiany-szakerto/c6j1jb5?sl_ps=d_11",
+        "h1": "Már a Balatonnál is esőért könyörögnek: alacsony a vízállás, a helyiek aggódnak, hogy a Velencei tó sorsára jut a magyar tenger – Ezt mondják a szakértők",
+        "txtlength": 8431
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/politika/ukran-kulugy-oleg-nyikolajenko-szijjarto-peter-haboru/50dm7lg",
+        "h1": "Az ukrán külügy üzenete Magyarországnak: Oroszország nem áll meg Ukrajnánál, a szomszédok következnek majd",
+        "txtlength": 8152
+    },
+    {
         "hostname": "mindmegette.hu",
         "pagelink": "https://www.mindmegette.hu/aranygaluska-vaniliasodoval-video.recept",
         "h1": "ARANYGALUSKA VANÍLIASODÓVAL",
