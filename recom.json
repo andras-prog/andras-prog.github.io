@@ -1,5 +1,179 @@
 [
     {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/garnelas-teszta.recept",
+        "h1": "GARNÉLÁS TÉSZTA",
+        "txtlength": 10832
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/gombaporkolt-hagyomanyosan.recept",
+        "h1": "GOMBAPÖRKÖLT HAGYOMÁNYOSAN",
+        "txtlength": 10783
+    },
+    {
+        "hostname": "kulturpart.hu",
+        "pagelink": "https://kulturpart.blog.hu/2022/03/22/125_eve_szuletett_hamvas_bela",
+        "h1": "125 ÉVE SZÜLETETT HAMVAS BÉLA",
+        "txtlength": 7596
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/kozelet/20220324/erosodott-a-magyar-kozeposztaly-megis-elmaradt-a-rendszervaltas-nagy-igerete/",
+        "h1": "Erősödött a magyar középosztály, mégis elmaradt a rendszerváltás nagy ígérete",
+        "txtlength": 28490
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/utazas/20220321/durva-dolgok-tortenhetnek-a-nyaralas-alatt-rengeteget-bukhatnak-a-magyar-utazok-haboru-miatt-1123055",
+        "h1": "Durva dolgok történhetnek a nyaralás alatt: rengeteget bukhatnak a magyar utazók a háború miatt",
+        "txtlength": 26279
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20220325/a-valasztasok-utan-nyugdijreformra-lehet-szukseg-nem-mindegy-melyik-orszag-peldajat-kovetjuk-535007",
+        "h1": "A választások után nyugdíjreformra lehet szükség - Nem mindegy, melyik ország példáját követjük",
+        "txtlength": 25448
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220324_vegre_jo_iranyba_halad_az_orszag_papai_joci_a_mandinernek",
+        "h1": "„Öröm látni azt, hogy végre jó irányba halad az ország” – Pápai Joci a Mandinernek",
+        "txtlength": 24004
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vilag/20220323/hogyan-lehet-csokkenteni-magyarorszag-orosz-energiafuggoseget/",
+        "h1": "Hogyan lehet csökkenteni Magyarország orosz energiafüggőségét?",
+        "txtlength": 23583
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220219_kontextus_valasztasi_rendszer",
+        "h1": "A politikai stabilitást segíti elő a választási rendszer",
+        "txtlength": 21179
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220324_klimavaltozas_bjorn_lomborg",
+        "h1": "Rossz válaszokat adunk a klímaváltozásra – Bjørn Lomborg klímaszakértő a Mandinernek",
+        "txtlength": 21158
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/gazdasag/20220324/igy-tarolja-le-europat-az-inflacio-a-magyarokra-durva-bojt-var-a-franciak-svedek-dozsolhetnek-1123238",
+        "h1": "Így tarolja le Európát az infláció: a magyarokra durva böjt vár, a franciák, svédek dőzsölhetnek",
+        "txtlength": 20009
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/global/20220325/orosz-ukran-haboru-itt-vannak-a-legfontosabb-hirek-pentek-reggel-535411",
+        "h1": "Orosz-ukrán háború: itt vannak a legfontosabb hírek péntek reggel ",
+        "txtlength": 15846
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/uzlet/20220325/szintet-lepett-a-tozsden-a-dm-ker-johetnek-a-cegfelvasarlasok-535193",
+        "h1": "Szintet lépett a tőzsdén a DM-KER, jöhetnek a cégfelvásárlások",
+        "txtlength": 14931
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2022/03/23/putyin-eloretolt-helyorsege-europa-fekete-lyuka-kalinyingrad",
+        "h1": "PUTYIN ELŐRETOLT HELYŐRSÉGE, EURÓPA FEKETE LYUKA: KALINYINGRÁD",
+        "txtlength": 14679
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/otthon/okosotthon-haztartasi-munka/",
+        "h1": "Kevesebb lesz a házimunkád ezekkel az eszközökkel: időt és energiát spórolhatsz a digitális lakásfelújítással",
+        "txtlength": 13702
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/szuloseg/moshato-betet-moshato-pelenka/",
+        "h1": "mosható betét mosható pelenka",
+        "txtlength": 13621
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kulfold/2022/03/24/bulgaria-bojko-boriszov-fougyesz-petkov-orban-polt/",
+        "h1": "Tanpélda magyaroknak: a „bolgár Orbán Viktor” elfogásakor közbelépett a „szófiai Polt Péter”",
+        "txtlength": 22879
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kulfold/2022/03/25/ukran-hadsereg-foparancsnok-valerij-zaluzsnij-raktika-reform-megolt-orosz-tabornokok",
+        "h1": "„Üdv a pokolban!” – üzente az oroszoknak az ukrán ellenállás kulcsfigurája a háború előtt",
+        "txtlength": 22283
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kulfold/2022/03/25/percrol-percre-tudositas-penteken-orosz-ukran-haboru-30-nap",
+        "h1": "Zelenszkij szerint az EU elkésett a szankciókkal, és Orbánnak egyértelműen ki kellene nyilvánítania, kivel van Magyarország",
+        "txtlength": 18797
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kulfold/2022/03/25/orosz-ukran-haboru-vlagyimir-putyin-percrol-percre-elo-zelenszkij-3/",
+        "h1": "Az ukránok visszaverték az oroszokat a Kijev környéki településekről; nagy bejelentésre készül az USA és az EU",
+        "txtlength": 18186
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kulfold/2022/03/24/az-orosz-ukran-haboru-elso-honapja-osszefoglalo",
+        "h1": "Rommá lőtt városok, tízmillió menekülő, gazdasági válság – ezt hozta a háború első hónapja",
+        "txtlength": 15369
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/03/25/orjonges-a-beke-szigeten",
+        "h1": "Őrjöngés a béke szigetén",
+        "txtlength": 14558
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/vilag/20220324_Szegyenerzet_es_haszontalansag__orosz_fiatalok_meseltek_a_haborurol",
+        "h1": "Szégyenérzet és haszontalanság – orosz és oroszországi fiatalok meséltek a hvg.hu-nak a háborúról",
+        "txtlength": 13709
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/gazdasag/20220324_Oroszorszag_gazszallitas_rubel",
+        "h1": "Putyin új terve a Nyugattal, köztük a magyarokkal fizettetné meg a háború árát",
+        "txtlength": 12703
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/03/24/a-tervezett-19-szazaleknal-is-nagyobb-taxitarifa-emeles-johet-budapesten",
+        "h1": "A tervezett 19 százaléknál is nagyobb taxitarifa-emelés jöhet Budapesten",
+        "txtlength": 12112
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kultura/2022/03/24/licorice-pizza-kritika-paul-thomas-anderson/",
+        "h1": "Akciós vízágy ringatja el az első szerelmeseket az idei Oscar-mezőny egyik legjobb filmjében",
+        "txtlength": 11734
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/sport/20220324_magyar_szerb_meccs",
+        "h1": "Gyenge meccsen gyenge eredmény: Magyarország-Szerbia: 0-1",
+        "txtlength": 10108
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/oroszorszag-gaz-azerbajdzsan-europa/v66vrvl",
+        "h1": "Nekünk is juthat az amerikai gázból, de még hosszú évekig orosszal fűtünk majd",
+        "txtlength": 9105
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/politika/lavrov-mostohalanya-oligarcha-luxus-nyugati-szankciok-orosz-ukran-haboru/w0q2ens",
+        "h1": "Rémálommá változott Lavrov mostohalányának luxusélete",
+        "txtlength": 8399
+    },
+    {
         "hostname": "nosalty.hu",
         "pagelink": "https://www.nosalty.hu/recept/konyakmeggyes-szelet-babapiskotaval",
         "h1": "Konyakmeggyes szelet babapiskótával",
