@@ -1,5 +1,191 @@
 [
     {
+        "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/brownie-gyorsan-kakaosan",
+        "h1": "Brownie gyorsan kakaósan",
+        "txtlength": 14731
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/puncstorta-video.recept",
+        "h1": "PUNCSTORTA",
+        "txtlength": 13682
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/update-palacsinta.recept",
+        "h1": "UPDATE PALACSINTA",
+        "txtlength": 10757
+    },
+    {
+        "hostname": "kiszamolo.hu",
+        "pagelink": "https://kiszamolo.hu/amikor-minden-sotetnek-latszik/",
+        "h1": "Amikor minden sötétnek látszik",
+        "txtlength": 39794
+    },
+    {
+        "hostname": "efesasanisimasa.com",
+        "pagelink": "https://efesasanisimasa.com/2022/03/07/megbocsathatatlan-the-unforgivable-2021/",
+        "h1": "Megbocsáthatatlan (The Unforgivable, 2021)",
+        "txtlength": 8716
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220326_kulfold_haboru_oroszorszag_ukrajna",
+        "h1": "Szombati híreink a háborúról",
+        "txtlength": 30331
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vilag/20220327/egyertelmuek-az-orosz-haborus-bunok-de-nehez-lesz-igazsagot-szolgaltatni/",
+        "h1": "Egyértelműek az orosz háborús bűnök, de nehéz lesz igazságot szolgáltatni",
+        "txtlength": 28584
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vallalat/20220326/a-korlatlan-hatalom-korlatlanul-korrumpal/",
+        "h1": "A korlátlan hatalom korlátlanul korrumpál",
+        "txtlength": 27985
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220219_visszatekinto_valasztastortenet",
+        "h1": "A rendiségtől a tömegdemokráciáig – Kis magyar választástörténet",
+        "txtlength": 25170
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220324_mi_lesz_veled_oscar_mi_lesz_veled_filmmuveszet",
+        "h1": "Mi lesz veled, Oscar? Mi lesz veled, filmművészet?",
+        "txtlength": 24375
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/karrier/20220324/igy-kinlodnak-a-magyar-csaladok-itt-a-bizonyitek-a-tobbseg-nem-jon-ki-a-havi-jovedelmebol-1123281",
+        "h1": "Így kínlódnak a magyar családok: itt a bizonyíték, a többség nem jön ki a havi jövedelméből",
+        "txtlength": 22390
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/otthon/20220326/aremelessel-indul-a-tavasz-ez-fajni-fog-annak-akinek-kertes-haza-van-1123276",
+        "h1": "Áremeléssel indul a tavasz: ez fájni fog annak, akinek kertes háza van",
+        "txtlength": 20704
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2022/03/27/ki-a-legnagyobb-kiraly-a-7-helyen-maria-terezia",
+        "h1": "KI A LEGNAGYOBB KIRÁLY? A 7. HELYEN: MÁRIA TERÉZIA",
+        "txtlength": 19458
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/kapcsolat/elso-noi-urhajos-valentyina-tyereskova/",
+        "h1": "Szövőgyári munkás volt, az első női űrhajós lett: nagyon megviselte Valentyina Tyereskovát az űrben töltött 3 nap",
+        "txtlength": 15661
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/global/20220327/oroszorszag-tovabbra-is-bombazza-ukrajnat-eltuntetnek-a-fold-szinerol-egy-varost-itt-vannak-a-legfrissebb-hirek-vasarnap-535791",
+        "h1": "Oroszország továbbra is bombázza Ukrajnát, eltüntetnek a Föld színéről egy várost - Itt vannak a legfrissebb hírek vasárnap ",
+        "txtlength": 14424
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.penzcentrum.hu/gazdasag/20220327/donto-het-lesz-az-elottunk-allo-rengeteg-dolog-kiderul-majd-a-magyar-gazdasag-allapotarol-1123387",
+        "h1": "Döntő hét lesz az előttünk álló: rengeteg dolog kiderül majd a magyar gazdaság állapotáról",
+        "txtlength": 14393
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/uzlet/20220326/hogyan-veszitsuk-el-az-osszes-bitcoinunkat-535571",
+        "h1": "Hogyan veszítsük el az összes bitcoinunkat?",
+        "txtlength": 13379
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/szuloseg/narcisztikus-ex-gyerekneveles/",
+        "h1": "narcisztikus ex gyereknevelés",
+        "txtlength": 13304
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/szorakozas/2022/03/26/oscar-dij-jeloltek-film-dune-ne-nezz-fel-a-kutya-karmai-kozt-west-side-story-drive-my-car",
+        "h1": "Ezek az idei Oscar-jelölt filmek – mit érdemes tudni róluk?",
+        "txtlength": 33194
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kulfold/2022/03/26/tajvan-egyesult-allamok-kina-konfliktus-invazio-matura-tamas-interju/",
+        "h1": "Sürgeti az idő Kínát, hogy Tajvan bekebelezésével lezárja a „nemzeti szégyen évszázadát”",
+        "txtlength": 30500
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/tudomany/2022/03/26/bjorn-lomborg-teves-riasztas-klimavaltozas-globalis-felmelegedes-klimaszkeptikus/",
+        "h1": "Téves riasztás lenne a klímavészhelyzet?",
+        "txtlength": 26041
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kultura/2022/03/26/gerocs-tamas-interju-magyarorszag-fuggo-fejlodese-gazdasag-politika/",
+        "h1": "„Ha egy új kormány tartósan hatalmon akar maradni, ki kell egyeznie a nemzeti tőkével”",
+        "txtlength": 25912
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kulfold/2022/03/26/orosz-ukran-haboru-orosz-legiero-vadaszgep-ukran-legvedelem",
+        "h1": "A veszteségek ellenére fokozza a bevetéseket az orosz légierő, de a hatalmas erejük mítosza már megdőlt",
+        "txtlength": 25428
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kulfold/2022/03/25/russia-today-orosz-propaganda-kozmedia",
+        "h1": "Egy napon át orosz propagandát néztem, de ennél a magyar közmédia is könnyebben emészthető",
+        "txtlength": 22193
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/03/27/mindig-kellenek-bajkeverok-akikre-ramutathatunk-es-azt-mondhatjuk-hogy-mi-nem-ilyenek-vagyunk",
+        "h1": "„Mindig kellenek bajkeverők, akikre rámutathatunk és azt mondhatjuk, hogy mi nem ilyenek vagyunk”",
+        "txtlength": 19155
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/tudomany/20220326_oroszorszag_kindzsal_raketa_kazettas_bomba",
+        "h1": "Tiltott fegyverekkel és hiperszonikus rakétával próbálják demoralizálni Ukrajnát",
+        "txtlength": 15643
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/03/26/orban-szerint-kell-erteni-zelenszkijt",
+        "h1": "Orbán szerint meg kell érteni Zelenszkijt",
+        "txtlength": 13744
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20220327_Orban_Az_ukranok_azt_kerik_hogy_allitsuk_le_a_magyar_gazdasagot",
+        "h1": "Orbán: Segítjük az ukránokat, de nem kérhetik, hogy állítsuk le a magyar gazdaságot",
+        "txtlength": 12385
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/nyugati-palyaudvar-megujulas-2022-tervek/bv6tfxt",
+        "h1": "Így néz ki majd évek múlva a Nyugati pályaudvar és környéke: kijöttek a látványtervek",
+        "txtlength": 9799
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/penz/mkb-budapest-bank-fuzio-leallas-adathalasz/9myq3z0",
+        "h1": "Közeleg a nagy bankfúzió: többnapos leállás és adathalász támadások várnak milliónyi ügyfélre ",
+        "txtlength": 9476
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20220326_vajda_zoltan_valasztasi_csalas_bejelentes",
+        "h1": "Beszólt az önkormányzati lapnak, ezért kihagyták az ellenzéki jelölt bemutatkozását a legújabb számból",
+        "txtlength": 9165
+    },
+    {
         "hostname": "mindmegette.hu",
         "pagelink": "https://www.mindmegette.hu/garnelas-teszta.recept",
         "h1": "GARNÉLÁS TÉSZTA",
