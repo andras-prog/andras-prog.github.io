@@ -1433,26 +1433,22 @@
         "topic": "konyv",
         "picarr": [
             {
-                "picture": "https://kisgomboc.files.wordpress.com/2021/01/blond-1866951_1920.jpg?w=723",
-                "timestamp": 1647788428404
-            },
-            {
                 "picture": "https://kisgomboc.files.wordpress.com/2021/01/golden-791072_1920.jpg?w=723",
-                "timestamp": 1645974025016
+                "timestamp": 1648393232247
             },
             {
                 "picture": "https://kisgomboc.files.wordpress.com/2021/01/girl-3528292_1920.jpg?w=723",
                 "timestamp": 1646578831441
+            },
+            {
+                "picture": "https://kisgomboc.files.wordpress.com/2021/01/blond-1866951_1920.jpg?w=723",
+                "timestamp": 1647788428404
             }
         ],
         "titlearr": [
             {
-                "title": "https://bookline.hu/product/home.action?_v=Delia_Owens_Ahol_a_folyami_rakok_enekel&type=22&id=319053",
-                "timestamp": 1647788428404
-            },
-            {
                 "title": "https://bookline.hu/product/home.action?_v=Hyeonseo_Lee_A_lany_het_nevvel&type=22&id=280591",
-                "timestamp": 1638097245846
+                "timestamp": 1648393232247
             },
             {
                 "title": "https://bookline.hu/product/home.action?_v=Torok_Szabo_Balazs_A_teoretika&type=22&id=294560",
@@ -1497,6 +1493,10 @@
             {
                 "title": "https://bookline.hu/product/home.action?_v=Edith_Eva_Eger_A_dontes&type=250&id=42489",
                 "timestamp": 1646578831441
+            },
+            {
+                "title": "https://bookline.hu/product/home.action?_v=Delia_Owens_Ahol_a_folyami_rakok_enekel&type=22&id=319053",
+                "timestamp": 1647788428404
             }
         ],
         "leadarr": [
