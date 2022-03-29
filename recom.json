@@ -1,5 +1,167 @@
 [
     {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/villamgyors-babfozelek-konzervbol.recept",
+        "h1": "VILLÁMGYORS BABFŐZELÉK KONZERVBŐL",
+        "txtlength": 10721
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220328_belfold_interju_hirtv_orban_viktor_valasztas_tet_haboru",
+        "h1": "A választás tétje az, hogy Magyarország belesodródik-e a háborúba – Orbán Viktor a Hír Tv-nek",
+        "txtlength": 30383
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220331_aguilar_libe_elnok_mandiner_transzparens_ujsagirasert_alapitvany",
+        "h1": "Nem kér a LIBE-elnök a Transzparens javaslataiból",
+        "txtlength": 25713
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220328_nemetorszag_saar_videk_valasztas",
+        "h1": "Hatalmasat nyertek a német szocdemek a Saar-vidéken",
+        "txtlength": 25148
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/ingatlan/20220329/van-meg-remeny-megmentheto-az-epitoipar-az-arak-durva-elszallasatol-535923",
+        "h1": "Van még remény: megmenthető az építőipar az árak durva elszállásától",
+        "txtlength": 23605
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vilag/20220324/a-dronhaborut-megforditottak-az-oroszok-ukrajnaban/",
+        "h1": "A drónháborút megfordították az oroszok Ukrajnában",
+        "txtlength": 23572
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vilag/20220329/melyik-a-jobb-a-klimaharcban-a-demokracia-vagy-az-autokratikus-vezetes/",
+        "h1": "Melyik a jobb a klímaharcban, a demokrácia vagy az autokratikus vezetés?",
+        "txtlength": 23019
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20220329/oriasi-valtozasokra-keszulhetnek-a-gazdak-2023-tol-uj-tamogatasi-rendszer-jon-535577",
+        "h1": "Óriási változásokra készülhetnek a gazdák: 2023-tól új támogatási rendszer jön",
+        "txtlength": 21155
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2022/03/29/vlagyimir-a-varazshalnak-rendben-akkor-vajd-ki-az-egyik-szemem",
+        "h1": "VLAGYIMIR A VARÁZSHALNAK: „RENDBEN, AKKOR VÁJD KI AZ EGYIK SZEMEM!”",
+        "txtlength": 21054
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/karrier/20220328/ezek-a-legjobban-fizetett-diploma-nelkuli-szakmak-2022-ben-millios-fizetes-is-akad-1123404",
+        "h1": "Ezek a legjobban fizetett, diploma nélküli szakmák 2022-ben: milliós fizetés is akad",
+        "txtlength": 18893
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/egeszseg/20220326/sulyos-a-helyzet-a-magyar-patikakban-ezert-nem-jut-most-gyogyszerhez-rengeteg-beteg-1123347",
+        "h1": "Súlyos a helyzet a magyar patikákban: ezért nem jut most gyógyszerhez rengeteg beteg",
+        "txtlength": 18311
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/uzlet/20220329/fontos-targyalas-zajlik-a-haboru-kapcsan-emelkednek-a-tozsdek-536123",
+        "h1": "Fontos tárgyalás jön a háború kapcsán, emelkednek a tőzsdék ",
+        "txtlength": 17366
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/otthon/hitelkivaltas-kalkulacio/",
+        "h1": "Nem tudsz törleszteni, és hitelkiváltásban gondolkodsz? Erre készülj fel a pénzügyi szakértő szerint",
+        "txtlength": 14926
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/lajfhekk/takaritas-napi-rutin/",
+        "h1": "takarítás napi rutin",
+        "txtlength": 10166
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/direkt36/2022/03/29/putyin-hackerei-is-latjak-a-magyar-kulugy-titkait-az-orban-kormany-evek-ota-nem-birja-elharitani-oket",
+        "h1": "Putyin hekkerei is látják a magyar külügy titkait, az Orbán-kormány évek óta nem bírja elhárítani őket",
+        "txtlength": 44560
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kulfold/2022/03/29/orosz-ukran-haboru-percrol-percre-kedd-34-nap",
+        "h1": "Rakétatalálat érte Mikolajiv kormányépületét, Abramovics személyesen vesz részt az isztambuli orosz–ukrán tűzszüneti tárgyaláson",
+        "txtlength": 31255
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2022/03/28/csatater-tapolca-veszprem-megye-3-ajka-rig-navracsics-kampany/",
+        "h1": "Kampányhajrá: Karácsony sima libája, Navracsics földje és kavarása, és a titokban érkező Orbán",
+        "txtlength": 19758
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20220328_Mire_szamithatnak_az_orosz_kemek",
+        "h1": "Mire számíthatnak most a velünk élő orosz kémek?",
+        "txtlength": 16436
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/velemeny/2022/03/29/ferto-to-egyuttmukodes-vagy-eropolitika-ramsari-egyezmeny-vizes-teruletek-vedelme",
+        "h1": "Gigaberuházás a Fertő tónál: együttműködés vagy erőpolitika?",
+        "txtlength": 15277
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/fn/gazdasag/2022/03/28/paksi-atomeromu-vis-maior-szerzodes-felmondas-haboru/",
+        "h1": "Mi van, ha az oroszok már nem is akarják megépíteni a Paksi Atomerőmű új blokkjait?",
+        "txtlength": 14705
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kulfold/2022/03/29/orosz-ukran-haboru-oroszorszag-ukrajna-elo-kozvetites-percrol-percre-marcius-29/",
+        "h1": "Tűzszünetről tárgyal Ukrajna és Oroszország, a Kreml megint közölte, mikor vetnének be atomfegyvert",
+        "txtlength": 14365
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20220329_templom_egyhaz_kampany",
+        "h1": "A templomokban is felpörgött a kampány, van, aki leplezetlenül tolja a Fidesz-propagandát",
+        "txtlength": 12731
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/03/29/szijjarto-a-jachton-az-oroszok-a-miniszteriumaban",
+        "h1": "Szijjártó a jachton, az oroszok a minisztériumában",
+        "txtlength": 12547
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/03/28/orban-nem-tart-a-valasztastol-mert-okos-nep-a-mienk-atlat-a-szitan",
+        "h1": "Orbán nem tart a választástól, mert „okos nép a miénk, átlát a szitán”",
+        "txtlength": 12370
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/politika/mindszenty-jozsef-biboros-hercegprimas-szuletesnap/lb3edf3",
+        "h1": "Titkosügynökök kísérték utolsó útjára Mindszenty Józsefet, a kommunizmus ellenségét, aki két betűvel verte át az ÁVH-t",
+        "txtlength": 11614
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/vilag/20220329_Percrol_percre_orosz_ukran_haboru",
+        "h1": "Kezdődik az újabb tárgyalás a tűzszünetről, az oroszok kizárták az atomfegyver használatát – percről percre az orosz–ukrán háborúról",
+        "txtlength": 10592
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/inflacio-dragulas-elszabadulo-arak-valsag/t9cp67j?sl_ps=d_10",
+        "h1": "Hogy fogunk így megélni májustól?! Felzabálja a pénzünket az infláció – Blikk-összeállítás az árakról: mi és mennyivel drágul",
+        "txtlength": 9919
+    },
+    {
         "hostname": "nosalty.hu",
         "pagelink": "https://www.nosalty.hu/recept/brownie-gyorsan-kakaosan",
         "h1": "Brownie gyorsan kakaósan",
