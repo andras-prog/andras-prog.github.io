@@ -1,5 +1,155 @@
 [
     {
+        "hostname": "hataratkelo.blog.hu",
+        "pagelink": "https://hataratkelo.blog.hu/2022/03/23/elet_majdnem_internet_nelkul",
+        "h1": "Élet (majdnem) internet nélkül",
+        "txtlength": 58521
+    },
+    {
+        "hostname": "kulturpart.hu",
+        "pagelink": "https://kulturpart.blog.hu/2022/03/28/uj_magyar_oscart_hozott_a_dune",
+        "h1": "ÚJ MAGYAR OSCART HOZOTT A DÜNE",
+        "txtlength": 6272
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/befektetes/20220331/esg-az-elteritett-jo-szandek-535995",
+        "h1": "ESG: az eltérített jó szándék",
+        "txtlength": 29026
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vilag/20220330/miert-egnek-ki-tomegevel-az-orosz-tankok/",
+        "h1": "Miért égnek ki tömegével az orosz tankok?",
+        "txtlength": 28333
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/elet/20220329/illuzio-volt-azt-hinni-hogy-egy-europai-haboru-orultseg-ezert-nem-torhet-ki/",
+        "h1": "Illúzió volt azt hinni, hogy egy európai háború őrültség, ezért nem törhet ki",
+        "txtlength": 23719
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220330_orban_viktor_a_tobbseg_marki_zay_peter_a_kisebbseg_velemenyet_artikulalja_mire_szamitsunk_vasarnap",
+        "h1": "Orbán Viktor a többség, Márki-Zay Péter a kisebbség véleményét artikulálja – Mire számítsunk vasárnap? (videó)",
+        "txtlength": 23251
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2022/03/29/magyar-urmernok-meseli-el-hogyan-keszulnek-a-foldet-figyelo-muholdak-es-az-univerzum-titkaira-vadaszo-urtavcsovek",
+        "h1": "MAGYAR ŰRMÉRNÖK MESÉLI EL, HOGYAN KÉSZÜLNEK A FÖLDET FIGYELŐ MŰHOLDAK ÉS AZ UNIVERZUM TITKAIRA VADÁSZÓ ŰRTÁVCSÖVEK",
+        "txtlength": 21825
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20220331/valasztas-2022-mutatjuk-mit-jelent-a-kezedben-levo-ket-szavazat-536653",
+        "h1": "Választás 2022: mutatjuk, mit jelent a kezedben lévő két szavazat",
+        "txtlength": 21820
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/uzlet/20220331/elszallo-informatikusberek-es-munkaerohiany-tokeletes-vihar-a-magyar-it-piacon-536045",
+        "h1": "Elszálló informatikusbérek és munkaerőhiány: tökéletes vihar a magyar IT-piacon",
+        "txtlength": 20786
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220331_torok_dronok_ukrajna_haboru_bayraktar",
+        "h1": "Török drónok pusztítanak az ukrajnai háborúban – egy új korszak kezdete?",
+        "txtlength": 20128
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/gazdasag/20220326/vegre-kiderult-az-igazsag-a-magyar-oraatallitasrol-erre-senki-nem-szamitott-2022-ben-1123371",
+        "h1": "Végre kiderült az igazság a magyar óraátállításról: erre senki nem számított 2022-ben",
+        "txtlength": 19522
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220219_kilatasok_heves_megye_2",
+        "h1": "Vona volt jobbkeze a régi motoros ellen – szoros meccs Gyöngyösön",
+        "txtlength": 18329
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/otthon/20220326/tisza-duna-balaton-zala-ki-nem-talalod-melyik-szerepel-legtobbszor-magyar-telepules-neveben-1123320",
+        "h1": "Tisza, Duna, Balaton, Zala: ki nem találod, melyik szerepel legtöbbször magyar település nevében",
+        "txtlength": 17775
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/kapcsolat/legsikeresebb-emberek-szokasai/",
+        "h1": "10 szokás, ami csak a legsikeresebb emberekre jellemző – Érdemes alkalmazni őket",
+        "txtlength": 12066
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/lajfhekk/szobanovenyek-megmentese/",
+        "h1": "szobanövények megmentése",
+        "txtlength": 11157
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2022/03/31/marki-zay-peter-csatater-hodmezovasarhely-ellenzek-nagyinterju-valasztas-2022/",
+        "h1": "Márki-Zay Péter: Próbálnám meggyőzni Orbánt, hogy ő bizony csak egy hatalommániás, piti tolvaj",
+        "txtlength": 65809
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kulfold/2022/03/31/orosz-ukran-haboru-marcius-31-percrol-percre/",
+        "h1": "Amerika biztos benne, hogy Putyint félretájékoztatták, a brit hírszerzés szerint a demoralizált orosz katonák parancsokat tagadnak meg",
+        "txtlength": 20438
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/kkv/20220331_orosz_energia_olaj_gaz_LNG_haboru",
+        "h1": "Tényleg belerokkannánk, ha nem jönne több orosz olaj és gáz?",
+        "txtlength": 18534
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2022/03/30/bizonytalanok-valasztas-szabo-andrea-2022-vokskabin-fiatalok/",
+        "h1": "„Harminc évnyi demokrácia sem volt elég, hogy egy választásnál az észszerűség kerüljön előtérbe”",
+        "txtlength": 17103
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20220330_ukran_menekult_bokcsarnok",
+        "h1": "„Nézz körül, itt nincs semmi. Még a vécé is 200 forintba kerül”",
+        "txtlength": 16857
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/03/31/a-tet-hogy-megorizzuk-e-a-jozan-eszunket",
+        "h1": "A tét az, hogy megőrizzük-e a józan eszünket",
+        "txtlength": 14673
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/vilag/20220331_orosz_ukran_haboru_hatodik_het",
+        "h1": "Pénteken folytatódnak a tárgyalások, humanitárius folyosó nyílhat Mariupolnál – percről percre az orosz–ukrán háborúról",
+        "txtlength": 12783
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/pedagogus-tanar-dulakodas-iskola-pecs-kegyelem-ader-allamfo-diakok/xez8gn3?sl_ps=d_10",
+        "h1": "Dezső bácsi újra lecsapna a balhés diákokra – Interjú az elítélt tanárral, aki kegyelmet kapott Áder Jánostól",
+        "txtlength": 12653
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/03/31/ebrd-a-hetvenes-evek-ota-nem-tapasztalt-ellatasi-sokkot-okozott-a-vilaggazdasagban-a-haboru",
+        "h1": "EBRD: A hetvenes évek óta nem tapasztalt ellátási sokkot okozott a világgazdaságban a háború",
+        "txtlength": 12357
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/belugyminiszter-fenyo-gyilkossag-targyalas-torvenyszek-tanuk-kuncze-friderikusz/lbjbh1x",
+        "h1": "Exkluzív fotók a showmanről: rejtőzködve érkezett Friderikusz a Gyárfás-perre",
+        "txtlength": 8421
+    },
+    {
         "hostname": "mindmegette.hu",
         "pagelink": "https://www.mindmegette.hu/villamgyors-babfozelek-konzervbol.recept",
         "h1": "VILLÁMGYORS BABFŐZELÉK KONZERVBŐL",
