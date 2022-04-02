@@ -1,5 +1,191 @@
 [
     {
+        "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/hajtogatott-tepertos-pogacsa-anditol",
+        "h1": "Hajtogatott tepertős pogácsa Anditól",
+        "txtlength": 16935
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/paprikas-csirke-video.recept",
+        "h1": "PAPRIKÁS CSIRKE",
+        "txtlength": 10852
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/paradicsomos-sonkas-metelt.recept",
+        "h1": "PARADICSOMOS-SONKÁS METÉLT",
+        "txtlength": 10768
+    },
+    {
+        "hostname": "kiszamolo.hu",
+        "pagelink": "https://kiszamolo.hu/egy-bankos-atveres-tortenete-ezekre-vigyazz/",
+        "h1": "Egy bankos átverés története: ezekre vigyázz",
+        "txtlength": 40391
+    },
+    {
+        "hostname": "kulturpart.hu",
+        "pagelink": "https://kulturpart.blog.hu/2022/04/01/metszet_az_elengedesrol",
+        "h1": "METSZET AZ ELENGEDÉSRŐL",
+        "txtlength": 7264
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://sport.mandiner.hu/cikk/20220402_csisztu_zsuzsa_sport_politika",
+        "h1": "A SPORT szitokszó, vagy évtizednyi befektetés a jövőnkbe?",
+        "txtlength": 30639
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220330_bekes_marton_2022_es_valasztas_ner_orban_viktor_fidesz_orosz_ukran_haboru_kulturharc_migracio",
+        "h1": "„Életveszély lenne az ellenzékre bízni a magyarság sorsát” – Békés Márton a Mandinernek",
+        "txtlength": 27829
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220330_mohacsi_csata_ii_lajos_szulejman_mcc_scruton",
+        "h1": "„Nagyjából mindegy, ki mit csinál a valóságban, ha rossz a sajtója” – Mohácsról vitáztak",
+        "txtlength": 25506
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/kozelet/20220331/mintha-lassitott-felvetelben-neznenk-husz-eve-ahogy-a-magyar-oktatas-minosege-romlik/",
+        "h1": "Mintha lassított felvételben néznénk húsz éve, ahogy a magyar oktatás minősége romlik",
+        "txtlength": 23884
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/uzlet/20220401/mi-tortenne-a-mollal-ha-egyik-naprol-a-masikra-nem-jutna-orosz-olajhoz-537055",
+        "h1": "Mi történne a Mollal, ha egyik napról a másikra nem jutna orosz olajhoz?",
+        "txtlength": 22450
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/elet/20220402/a-magyar-egeszsegugy-nem-doglodo-lo-mar-megdoglott/",
+        "h1": "„A magyar egészségügy nem döglődő ló, már megdöglött”",
+        "txtlength": 22346
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/tech/20220330/aljas-csalok-vadasznak-a-magyarok-banki-adataira-jol-vigyazz-teged-is-siman-kifoszthatnak-1123491",
+        "h1": "Aljas csalók vadásznak a magyarok banki adataira: jól vigyázz, téged is simán kifoszthatnak",
+        "txtlength": 19741
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/global/20220402/rejtely-ki-tamadt-oroszorszagra-ujabb-sulyos-csapasoktol-tart-ukrajna-itt-vannak-a-legfontosabb-hireink-szombaton-537163",
+        "h1": "Rejtély, ki támadt Oroszországra, újabb súlyos csapásoktól tart Ukrajna - Itt vannak a legfontosabb híreink szombaton ",
+        "txtlength": 17801
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/gazdasag/20220330/budapest-bank-mkb-ennyi-minden-valtozik-aprilistol-1123415",
+        "h1": "Budapest Bank, MKB: ennyi minden változik áprilistól",
+        "txtlength": 17505
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/global/20220402/peldatlan-helyzetbe-kerultek-putyin-elitkommandosai-hogy-teljesitenek-ukrajnaban-oroszorszag-legjobb-katonai-536801",
+        "h1": "Példátlan helyzetbe kerültek Putyin elitkommandósai - Hogy teljesítenek Ukrajnában Oroszország legjobb katonái?",
+        "txtlength": 16615
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2022/04/02/ki-a-legnagyobb-kiraly-a-6-helyen-iv-bela",
+        "h1": "KI A LEGNAGYOBB KIRÁLY? A 6. HELYEN: IV. BÉLA",
+        "txtlength": 16201
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/szuloseg/sport-gyermekbantalmazas-kamila-valijeva/",
+        "h1": "sport gyermekbántalmazás kamila valijeva",
+        "txtlength": 13297
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/egeszseg/almatlansag-stroke/",
+        "h1": "Gyulladást okoz a szervezetben és stroke-hoz vezethet az álmatlanság - Ez a korosztály a legveszélyeztetettebb",
+        "txtlength": 11634
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2022/04/01/lazar-janos-csatater-valasztas-2022-csongrad-csanad-hodmezovasarhely-nagyinterju/",
+        "h1": "Lázár János: Lázár János előre megy, nem hátra",
+        "txtlength": 49125
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2022/04/01/faj-valasztas-2022-falu-fidesz-ellenzek-orban-viktor-riport/",
+        "h1": "„Orbán Viktor most nem 99, hanem 120 százalékkal fog itt győzni”",
+        "txtlength": 23730
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2022/04/02/orszaggyulesi-valasztasok-allamszocializmus-rakosi-kadar-heti-fortepan/",
+        "h1": "Baj van, elvtársak, véletlenül 102 százalékot kaptunk!",
+        "txtlength": 20961
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kulfold/2022/04/02/orosz-ukran-haboru-percrol-percre-38-nap",
+        "h1": "Kivonultak az oroszok a hosztomeli reptérről, a Vöröskereszt ma újra megpróbálkozik egy mentőakcióval Mariupolban",
+        "txtlength": 20152
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kult/2022/04/01/zavada-pal-rossz-latni-hogy-a-soraim-aktualisabbak-mint-gondoltam",
+        "h1": "Závada Pál: Rossz látni, hogy a soraim aktuálisabbak, mint gondoltam",
+        "txtlength": 19216
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/gazdasag/2022/04/01/ukran-magyar-aramszinkron-hatalmas-reform-haborus-viszonyok-kozepette",
+        "h1": "Ukrán–magyar áramszinkron: hatalmas reform, háborús viszonyok közepette",
+        "txtlength": 19143
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20220402_ukran_menekultek_Magyarorszagon_munkavallalas",
+        "h1": "Kevés ukrán menekült marad Magyarországon, de munkájuk még nekik sincs",
+        "txtlength": 17728
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20220402_10_mondat_amely_miatt_emlekezetes_marad_a_valasztasi_kampany",
+        "h1": "10 mondat, amely miatt emlékezetes marad a választási kampány",
+        "txtlength": 15427
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20220402_Ervenytelen_voksra_buzditanak_a_civilek_Orbanek_genderreferenduman",
+        "h1": "Értelme nincs, haszna is csak a Fidesz számára - a gender-népszavazáson érvénytelen voksra buzdítanak a civilek",
+        "txtlength": 15265
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/penz/allami-csaladtamogatasok-valasztasok-penz-csok-babavaro/124d4c4?sl_ps=d_4",
+        "h1": "Állami családtámogatások a választások után: maradnak, mennek vagy átalakulnak?",
+        "txtlength": 13992
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/04/02/30-ember-ellen-emelhetnek-vadat-az-erdi-leszamolas-ugyeben",
+        "h1": "30 ember ellen emelhetnek vádat az érdi leszámolás ügyében",
+        "txtlength": 12254
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/04/02/zelenszkij-a-besorozott-orosz-katonak-szuleinek-uzent",
+        "h1": "Zelenszkij a besorozott orosz katonák szüleinek üzent",
+        "txtlength": 11931
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/politika/orban-viktor-kossuth-radio-jo-reggelt-magyarorszag-friss-bejelnetesek-aprilis-1/w5fml7d",
+        "h1": "Orbán Viktor: „Ilyen csalást 30 év alatt még nem láttam”",
+        "txtlength": 8632
+    },
+    {
         "hostname": "hataratkelo.blog.hu",
         "pagelink": "https://hataratkelo.blog.hu/2022/03/23/elet_majdnem_internet_nelkul",
         "h1": "Élet (majdnem) internet nélkül",
