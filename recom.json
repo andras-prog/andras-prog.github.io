@@ -1,5 +1,179 @@
 [
     {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/ananaszos-csirkemell-sajttal.recept",
+        "h1": "ANANÁSZOS CSIRKEMELL SAJTTAL",
+        "txtlength": 10419
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/hagymakremleves-video.recept",
+        "h1": "HAGYMAKRÉMLEVES",
+        "txtlength": 10361
+    },
+    {
+        "hostname": "kulturpart.hu",
+        "pagelink": "https://kulturpart.blog.hu/2022/03/30/kincsekkel_koszonti_a_tavaszt_a_benyi",
+        "h1": "KINCSEKKEL KÖSZÖNTI A TAVASZT A BÉNYI",
+        "txtlength": 5640
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220402_sarosi_peter_belfold_transzparens_ujsagirasert_alapitvany_valasztas_2022",
+        "h1": "Transzparens-portré: az újságíró, akinek drogpropagandáját egy egész hálózat támogatja",
+        "txtlength": 26554
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220330_orban_balazs_interju_kozelet_valasztas",
+        "h1": "Minden, ami magyar érdek, és semmi, ami nem az – Orbán Balázs a Mandinernek",
+        "txtlength": 26380
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220402_ezert_fontos_a_gyermekvedelmi_nepszavazas_teteles_bizonyitekok_a_kampanyhajraban",
+        "h1": "Ezért fontos a gyermekvédelmi népszavazás – tételes bizonyítékok a kampányhajrában",
+        "txtlength": 22871
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/kozelet/20220402/osszegyujtottunk-nehany-utcat-teret-es-kozseget-ahol-eldolhet-a-valasztas/",
+        "h1": "Összegyűjtöttünk néhány utcát, teret és községet, ahol eldőlhet a választás",
+        "txtlength": 22489
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20220403/valasztas-2022-itt-vannak-a-11-oras-reszveteli-adatok-537209",
+        "h1": "Választás 2022: itt vannak a 11 órás részvételi adatok ",
+        "txtlength": 22342
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20220403/elkezdodott-a-2022-es-valasztas-milyen-adatokra-figyeljunk-537197",
+        "h1": "Elkezdődött a 2022-es választás: milyen adatokra figyeljünk?",
+        "txtlength": 21188
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vilag/20220331/az-oroszok-a-sajat-hadiiparuk-hirnevet-is-elkezdtek-szetloni-ukrajnaban/",
+        "h1": "Az oroszok a saját hadiiparuk hírnevét is elkezdték szétlőni Ukrajnában",
+        "txtlength": 20795
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20220402/valasztas-2022-milyen-eselyekkel-futnak-neki-a-partok-537175",
+        "h1": "Választás 2022: milyen esélyekkel futnak neki a pártok?",
+        "txtlength": 19637
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/otthon/20220331/cudar-vilag-jon-ezek-a-magyar-fiatalok-lesznek-a-mostani-valsag-legnagyobb-vesztesei-1123524",
+        "h1": "Cudar világ jön: ezek a magyar fiatalok lesznek a mostani válság legnagyobb vesztesei",
+        "txtlength": 19545
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/auto/20220402/dragulasra-hosszu-varakozasra-szamithatnak-a-magyar-autosok-csunya-honap-jon-1123590",
+        "h1": "Drágulásra, hosszú várakozásra számíthatnak a magyar autósok: csúnya hónap jön",
+        "txtlength": 19150
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/kapcsolat/elso-magyar-kiralyne-gizella/",
+        "h1": "Az első magyar királyné mindenhová elkísérte férjét - István király sokszor kikérte Gizella tanácsát",
+        "txtlength": 16806
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/szuloseg/down-szindroma-vilagnap/",
+        "h1": "down szindróma világnap",
+        "txtlength": 12285
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2022/04/01/husz-eve-vart-attores-a-genetikaban-eloszor-sikerult-hianytalanul-szekvenalni-a-teljes-emberi-genomot",
+        "h1": "HÚSZ ÉVE VÁRT ÁTTÖRÉS A GENETIKÁBAN: ELŐSZÖR SIKERÜLT HIÁNYTALANUL SZEKVENÁLNI A TELJES EMBERI GENOMOT",
+        "txtlength": 7554
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2022/04/02/tanya-csatater-csongrad-csanad-hodmezovasarhely-riport/",
+        "h1": "Világít a sarok, berágta magát a pocok",
+        "txtlength": 30393
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2022/04/03/szerencs-koncz-ferenc-koncz-zsofia-baz06oevk-csatater-portre/",
+        "h1": "Felavat, átad, mosolyog, integet, az ellenzékről tudomást sem vesz – Koncz Zsófia nyomában jártunk",
+        "txtlength": 26244
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kulfold/2022/04/02/orban-viktor-rrf-helyreallitasi-alap-hitelkeret",
+        "h1": "Két éve még a második Soros-tervnek nevezte Orbán az uniós hitel tervét, most bejelentkezett rá",
+        "txtlength": 25335
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/valasztas-2022/2022/04/03/valasztas-2022-percrol-percre-tudositunk-a-voksolas-esemenyeirol",
+        "h1": "Délelőtt tizenegyig a választópolgárok 25,77 százaléka ment el szavazni, ez alacsonyabb arány, mint négy éve",
+        "txtlength": 24491
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kulfold/2022/04/03/orosz-ukran-haboru-percrol-percre-39-nap",
+        "h1": "Litván dokumentumfilmes vesztette életét Mariupolnál",
+        "txtlength": 23281
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/04/02/a-keresztenyeknek-a-fiataloknak-es-a-ciganyoknak-probalt-uzenni-az-ellenzek-kampanyzaroja",
+        "h1": "A keresztényeknek, a fiataloknak és a cigányoknak próbált üzenni az ellenzék kampányzárója",
+        "txtlength": 22597
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kultura/2022/04/02/almasi-tamas-interju-dokumentumfilm-sejtjeink-ozd-sorozat-covid/",
+        "h1": "Almási Tamás: Nem mentem Covid-osztályra forgatni, mert mi lesz utána, kirúgják a kórházigazgatót?",
+        "txtlength": 22072
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/04/02/jon-a-havazas-es-a-szavazas",
+        "h1": " Orbán Viktor már egyszerűen csak kommunistázza azokat, akik nem a Fideszre szavaznak",
+        "txtlength": 20907
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20220403_orszaggyulesi_valasztas_nepszavazas_kisokos",
+        "h1": "Hova kell menni szavazni? Mi a választási csalás? Hogyan számolják ki a mandátumokat? Tudnivalók a mai voksolásról",
+        "txtlength": 15970
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/gazdasag/20220402_Allami_csaladtamogatasok_valasztasok",
+        "h1": "Állami családtámogatások a választások után: maradnak, mennek vagy átalakulnak?",
+        "txtlength": 15568
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/vilag/20220402_szerbia_elnokvalasztas_Vucic",
+        "h1": "Ellenőrzés alatt tartja a médiát, nem nevezi agresszornak Putyint, vasárnap pedig újraválasztására készül Vucic",
+        "txtlength": 14782
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/czeizel-endre-kutato-szuletesnap-erdekessegek-genetika/db1spdq",
+        "h1": "Hiába volt zseni, mégis meghurcolták: Czeizel Endre ma lenne 87 éves",
+        "txtlength": 11079
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/penz/nav-adobevallasat-penz/8zre3xw",
+        "h1": "Megnézte már a NAV-tól kapott adóbevallását? Pénzt csinálhat belőle!",
+        "txtlength": 8282
+    },
+    {
         "hostname": "nosalty.hu",
         "pagelink": "https://www.nosalty.hu/recept/hajtogatott-tepertos-pogacsa-anditol",
         "h1": "Hajtogatott tepertős pogácsa Anditól",
