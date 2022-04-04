@@ -1,5 +1,185 @@
 [
     {
+        "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/szaftos-brassoi-apropecsenye",
+        "h1": "Szaftos brassói aprópecsenye",
+        "txtlength": 13548
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/tojassalatas-szendvics-avokadoval.recept",
+        "h1": "TOJÁSSALÁTÁS SZENDVICS AVOKÁDÓVAL",
+        "txtlength": 10236
+    },
+    {
+        "hostname": "hataratkelo.blog.hu",
+        "pagelink": "https://hataratkelo.blog.hu/2022/03/17/anglia_legboldogabb_es_legolcsobb_eskuvoje",
+        "h1": "Anglia legboldogabb (és legolcsóbb) esküvője",
+        "txtlength": 45986
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20220404/valasztas-2022-tarolt-a-fidesz-ujra-ketharmados-kormanyzas-jon-537209",
+        "h1": "Választás 2022: tarolt a Fidesz, újra kétharmados kormányzás jön ",
+        "txtlength": 68958
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220403_valasztas_2022_elo_a_veszelyhelyzet_idejen_lejart_okmanyokat_is_elfogadjak",
+        "h1": "VÁLASZTÁS 2022 (ÉLŐ): 98,96 százalékos feldolgozottságnál bőven kétharmadon áll a Fidesz",
+        "txtlength": 24928
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20220404/bod-peter-akos-magyarorszag-a-valasztasok-masnapjan-ami-eddig-tortent-nem-folytathato-537297",
+        "h1": "Bod Péter Ákos: Magyarország a választások másnapján - Ami eddig történt, nem folytatható",
+        "txtlength": 22963
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/podcast/20220403/barki-is-nyeri-a-valasztasokat-kellemetlen-gazdasagpolitikai-dilemmak-varnak-ra/",
+        "h1": "Bárki is nyeri a választásokat, kellemetlen gazdaságpolitikai dilemmák várnak rá",
+        "txtlength": 18669
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20220404/a-tiz-legnagyobb-gazdasagi-kihivas-amivel-az-uj-orban-kormany-a-valasztas-utan-szembesul-537041",
+        "h1": "A tíz legnagyobb gazdasági kihívás, amivel az új Orbán-kormány a választás után szembesül",
+        "txtlength": 18666
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/egeszseg/20220403/ezt-rontja-el-most-rengeteg-magyar-a-patikakban-igy-fel-aron-is-kivalthatod-a-gyogyszereidet-1123544",
+        "h1": "Ezt rontja el most rengeteg magyar a patikákban: így fél áron is kiválthatod a gyógyszereidet",
+        "txtlength": 18595
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/kozelet/20220404/kozel-egymillio-szavazatot-vesztett-az-osszefogo-ellenzek-a-fidesz-az-egesz-orszagban-javitott/",
+        "h1": "Közel egymillió szavazatot vesztett az összefogó ellenzék, a Fidesz az egész országban javított",
+        "txtlength": 17594
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/auto/20220403/itt-a-matek-igy-sporolhat-barmelyik-magyar-tizezreket-a-benzinen-arstopos-arakkal-is-mukodik-1123586",
+        "h1": "Itt a matek: így spórolhat bármelyik magyar tízezreket a benzinen, árstopos árakkal is működik",
+        "txtlength": 17490
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220404_itt_vannak_a_gyermekvedelmi_nepszavazas_vegleges_eredmenyei",
+        "h1": "Itt vannak a gyermekvédelmi népszavazás végleges eredményei",
+        "txtlength": 15830
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220404_maximalisan_elegedett_vagyok_navracsics_tibor_a_mandinernek",
+        "h1": "Maximálisan elégedett vagyok – Navracsics Tibor a Mandinernek",
+        "txtlength": 15568
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/testem/rejtelyes-havanna-szindroma/",
+        "h1": "rejtélyes Havanna szindróma",
+        "txtlength": 12632
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/egeszseg/gyakori-nogyogyaszati-daganatok-tunetei/",
+        "h1": "3 gyakori nőgyógyászati daganat tünetei - Életmentő lehet a korai felismerésük",
+        "txtlength": 11502
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/lajfhekk/huto-etel-tippek/",
+        "h1": "hűtő tárolás ételek vaj élelmiszer tippek",
+        "txtlength": 11103
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2022/04/04/orbo-magyar-birodalom-igy-latja-a-vilag-orban-viktor-gyozelmet",
+        "h1": "ORBO-MAGYAR BIRODALOM: ÍGY LÁTJA A VILÁG ORBÁN VIKTOR GYŐZELMÉT",
+        "txtlength": 8879
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/04/04/az-ellenzek-brutalis-bukasanak-legfontosabb-okai",
+        "h1": "Az ellenzék brutális bukásának legfontosabb okai",
+        "txtlength": 34598
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2022/04/03/orszaggyulesi-valasztas-2022-szavazas-esemenyek-reszveteli-adatok-elo-kozvetites/",
+        "h1": "A Fidesz a 2018-asnál is nagyobb győzelmet aratott, Márki-Zay elismerte a vereséget, a Mi Hazánk bejutott a parlamentbe",
+        "txtlength": 30517
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/04/04/a-sotetseg-ejszakaja-akikben-annyi-gerinc-sem-volt-hogy-kialljanak-marki-zay-melle-a-szinpadra",
+        "h1": "A sötétség éjszakája: akikben annyi gerinc sem volt, hogy kiálljanak Márki-Zay mellé a színpadra",
+        "txtlength": 30262
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2022/04/04/orszaggyulesi-valasztas-2022-szavazas-esemenyek-eredmenyek-terkep-mandatumok-kepviselok-elo-kozvetites/",
+        "h1": "Tarolt a Fidesz a legszegényebb településeken, Putyin is gratulált Orbánnak",
+        "txtlength": 25378
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kulfold/2022/04/04/orosz-ukran-haboru-percrol-percre-40-nap",
+        "h1": "Zelenszkij: Az orosz katonák gyilkosok, hóhérok, erőszaktevők, akik hadseregnek nevezik magukat",
+        "txtlength": 21573
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2022/04/03/orban-viktor-volodimir-zelejnszkij-szinesz-kritika-orosz-ukran-haboru-szineszbol-lett-politikusok-arnold-schwarzenegger-ronald-reagan-motivacio-beszed-peldakep-hos/",
+        "h1": "Orbán kritizálta Zelenszkijt, de nagyon is kedveli a színészből lett politikusokat",
+        "txtlength": 20324
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/velemeny/2022/04/04/a-kovetkezo-kormany-5-legfontosabb-feladata-gazdagabb-orszag-oktatas-egeszsegugy-pedagogusok",
+        "h1": "A következő kormány legfontosabb öt feladata",
+        "txtlength": 16914
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20220404_Makoi_romak_Hus_nelkul_is_a_Fideszre_szavaztunk_volna",
+        "h1": "A makói disznótoros ház szomszédai azt mondják: \"Hús nélkül is a Fideszre szavazunk\"",
+        "txtlength": 10295
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/eszkombajn/2022/04/04/ravensbruck-nemet-nok-ss-katonak-kinzok-koncentracios-tabor-nacik",
+        "h1": "A női koncentrációs tábor, ahol brutális SS-felügyelőnőket neveltek",
+        "txtlength": 10169
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20220404_gyurcsany_ferenc_valasztas_ertekeles_marki_zay_peter",
+        "h1": "Gyurcsány Ferenc: „Kapitány nem attól lesz valaki, hogy megválasztják”",
+        "txtlength": 9227
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/vilag/20220404_lengyel_sajtovisszhang_valasztas_2022_haboru_Orban",
+        "h1": "Lengyel oktatási miniszter: Kívánom, hogy Orbán változtassa meg a gondolkodását Putyinról",
+        "txtlength": 9080
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/lattasserult-dobos-kisfiu-red-hot-chili-peppers/l501w6r",
+        "h1": "Csodadobos lett Milán, a láttássérült kisfiú: már 7 évesen tökéletesen játssza a Red Hot Chili Peppers-számot",
+        "txtlength": 7379
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/blikk-tv/aktualis/kampanyjaro-zuglo-hadhazy-akos-borbely-adam-maffia-politika-parkolas-fidesz-ellenzek/n6ekl65",
+        "h1": "„Maffiaviszonyok Zuglóban” – Hadházy Ákos és a fideszes Borbély Ádám csapott össze a Kampányjáróban – videó",
+        "txtlength": 6809
+    },
+    {
         "hostname": "mindmegette.hu",
         "pagelink": "https://www.mindmegette.hu/ananaszos-csirkemell-sajttal.recept",
         "h1": "ANANÁSZOS CSIRKEMELL SAJTTAL",
