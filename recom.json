@@ -1,5 +1,179 @@
 [
     {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/tonhalas-teszta-paradicsomosan.recept",
+        "h1": "TONHALAS TÉSZTA PARADICSOMOSAN",
+        "txtlength": 10594
+    },
+    {
+        "hostname": "kiszamolo.hu",
+        "pagelink": "https://kiszamolo.hu/egy-masik-bankos-lehuzas/",
+        "h1": "Egy másik bankos lehúzás",
+        "txtlength": 37500
+    },
+    {
+        "hostname": "efesasanisimasa.com",
+        "pagelink": "https://efesasanisimasa.com/2022/04/03/sajat-szoba-nosferatu-a-borzalom-szimfoniaja-nosferatu-eine-symphonie-des-grauens1922/",
+        "h1": "Saját szoba – Nosferatu, a borzalom szimfóniája (Nosferatu, eine Symphonie des Grauens,1922)",
+        "txtlength": 12700
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/global/20220405/omlenek-az-orosz-tankok-ukrajnaba-tobb-szaz-ukran-katona-tette-le-a-fegyvert-itt-vannak-a-legfontosabb-hirek-kedden-537571",
+        "h1": "Ömlenek az orosz tankok Ukrajnába, több száz ukrán katona tette le a fegyvert - Itt vannak a legfontosabb hírek kedden ",
+        "txtlength": 20493
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220402_kazettas_bombak_termobarikus_fegyverek_ukrajna_haboru",
+        "h1": "Embertelen, de nem betiltott: mik a kazettás bombák és a termobarikus fegyverek?",
+        "txtlength": 18652
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/vallalkozas/20220404/ez-lesz-a-magyar-boltok-sorsa-2022-ben-nem-lesz-egyszeru-sora-a-vasarlok-kedvenceinek-1123646",
+        "h1": "Ez lesz a magyar boltok sorsa 2022-ben: nem lesz egyszerű sora a vásárlók kedvenceinek",
+        "txtlength": 18637
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220404_kulfold_ukrajna_kulugy_reakcio_orban_viktor_valasztas",
+        "h1": "Reagált Orbán Viktor vasárnap esti megjegyzésére az ukrán külügy",
+        "txtlength": 18497
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/kozelet/20220405/nem-volt-szisztematikus-csalas-a-valasztasokon-de-furcsa-a-sok-extremen-fideszes-telepules/",
+        "h1": "Nem volt szisztematikus csalás a választásokon, de furcsa a sok extrémen fideszes település",
+        "txtlength": 17984
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220404_jakab_belfold_valasztas_marki_zay",
+        "h1": "Jakab: Épp eleget mostam a miniszterelnök-jelölt úr szennyesét, hogy én ezt már ne akarjam tovább megtenni",
+        "txtlength": 17927
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/karrier/20220404/aggaszto-ami-a-magyar-munkahelyeken-tortenik-igy-szipolyozzak-ki-a-dolgozokat-eszrevetlenul-1123560",
+        "h1": "Aggasztó, ami a magyar munkahelyeken történik: így szipolyozzák ki a dolgozókat észrevétlenül",
+        "txtlength": 17485
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/kozelet/20220403/ugy-tunik-nincs-tomeges-voksturizmus-a-valasztasokon/",
+        "h1": "Úgy tűnik, nincs tömeges voksturizmus a választásokon",
+        "txtlength": 16199
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/uzlet/20220405/johetnek-az-ujabb-szankciok-az-oroszok-ellen-feszulten-figyelnek-a-befektetok-537573",
+        "h1": "Jöhetnek az újabb szankciók az oroszok ellen, feszülten figyelnek a befektetők ",
+        "txtlength": 16171
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/uzlet/20220405/pkn-vezer-a-mol-nem-orosz-vallalat-miert-a-magyaroktol-kellene-felnunk-es-miert-nem-peldaul-a-nemetektol-537565",
+        "h1": "PKN-vezér: a Mol nem orosz vállalat, miért a magyaroktól kellene félnünk, és miért nem például a németektől?",
+        "txtlength": 15793
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2022/04/05/minden-eszkozunk-megvan-ahhoz-hogy-elkeruljuk-a-klimaapokalipszist-mar-csak-a-politikai-akarat-hianyzik",
+        "h1": "MINDEN ESZKÖZÜNK MEGVAN AHHOZ, HOGY ELKERÜLJÜK A KLÍMAAPOKALIPSZIST, MÁR CSAK A POLITIKAI AKARAT HIÁNYZIK",
+        "txtlength": 13018
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/utazas/velemeri-szentharomsag-templom/",
+        "h1": "Az Őrség legszebb templomát imádják a turisták: a Veleméri Szentháromság-templom egyedülálló kincs",
+        "txtlength": 11936
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/lajfhekk/alkoholmentes-sor-hogyan-keszul/",
+        "h1": "alkoholmentes sör hogyan készül",
+        "txtlength": 10545
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/04/05/vadat-emelt-az-ugyeszseg-a-2009-es-katzenbach-gyilkossag-ugyeben",
+        "h1": "Vádat emelt az ügyészség a 2009-es Katzenbach-gyilkosság ügyében",
+        "txtlength": 22432
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/04/04/elhalasztjak-a-jodtablettak-kiosztasat-romaniaban",
+        "h1": "Elhalasztják a jódtabletták kiosztását Romániában",
+        "txtlength": 22407
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2022/04/04/valasztas-2022-ellenzek-fidesz-rona-daniel-a-populizmus-hianya/",
+        "h1": "Róna Dániel: A populizmus hiánya",
+        "txtlength": 19349
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/gazdasag/2022/04/05/a-valasztasok-utan-talan-vegre-lehet-ertelmesen-is-beszelni-az-orosz-energiafugges-elleni-harcrol",
+        "h1": "A választások után talán végre lehet értelmesen is beszélni az orosz energiafüggés elleni harcról",
+        "txtlength": 19235
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kulfold/2022/04/05/orosz-ukran-haboru-oroszorszag-ukrajna-putyin-zelenszkij-elo-hirfolyam/",
+        "h1": "Szerdán jöhetnek az újabb EU-s szankciók Oroszország ellen, megkínzott civilek holttesteire bukkantak Szumi megyében",
+        "txtlength": 19229
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20220404_Sokk_az_ellenzekben_valasztas",
+        "h1": "Sokk az ellenzékben: “Már decemberben elvesztettük a választást, de hogy ekkora zakó lesz, az nem volt opció”",
+        "txtlength": 19164
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2022/04/04/orszaggyulesi-valasztas-2022-parlament-uj-tagok-arcok-kepviselok/",
+        "h1": "Tele lesz a parlament új arcokkal",
+        "txtlength": 18987
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kulfold/2022/04/05/oroszorszag-ukrajna-nepirtas-haborus-buncselekmenyek-civilek-kivegzes-tomegsir-szankciok",
+        "h1": "A Kijev környéki mészárlások megmutatják, Európa mekkora árat hajlandó fizetni az elvekért",
+        "txtlength": 18973
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/politika/orban-viktor-felesege-levai-aniko-legfobb-tamassz-negy-evtizede-hazassag/ltxj512?sl_ps=d_12",
+        "h1": "Különös esküvővel indult a házasságuk: Lévai Anikó négy évtizede Orbán Viktor legfőbb támasza",
+        "txtlength": 12730
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20220404_ebesz_jelentes_valasztasi_megfigyelok",
+        "h1": "EBESZ: Nem voltak egyenlőek a feltételek a magyar választáson",
+        "txtlength": 12616
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kozelet/2022/04/04/lapszemle-romania-valasztas-orban-viktor-fidesz-rmdsz-g4media-ro-hotnews-ro-spotmedia-ro-alephnews-ro",
+        "h1": "Román lapok: Magyarország egyre inkább elszigetelődik nemzetközi téren",
+        "txtlength": 12165
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/elet/20220404_Szel_David_Gyerekbantalmazas_hogy_politikai_hirdeteseket_kellett_nezni_a_Bogyo_es_Baboca_elott",
+        "h1": "Szél Dávid: Gyerekbántalmazás, hogy politikai hirdetéseket kellett nézni a Bogyó és Babóca előtt",
+        "txtlength": 11438
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/krimi/curtis-testvere-vademeles-eletfogytiglan-katzenbach-gyilkossag/826bs7d?sl_ps=d_6",
+        "h1": "Katzenbach-gyilkosság: életfogytiglant kértek Curtis testvérére és társaira",
+        "txtlength": 8443
+    },
+    {
         "hostname": "nosalty.hu",
         "pagelink": "https://www.nosalty.hu/recept/szaftos-brassoi-apropecsenye",
         "h1": "Szaftos brassói aprópecsenye",
