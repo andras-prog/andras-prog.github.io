@@ -1,5 +1,167 @@
 [
     {
+        "hostname": "hataratkelo.blog.hu",
+        "pagelink": "https://hataratkelo.blog.hu/2022/04/02/edes_hazam_szerettelek#c41332957",
+        "h1": "Édes hazám, szerettelek",
+        "txtlength": 43495
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/uzlet/20220406/varadi-jozsef-terdre-kenyszeritheti-a-gyengeket-az-elszallo-olajar-537615",
+        "h1": "Váradi József: térdre kényszerítheti a gyengéket az elszálló olajár",
+        "txtlength": 27468
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/global/20220406/ujabb-szankciokra-keszul-a-nyugat-oroszorszag-ellen-amely-atcsoportositja-es-megerositi-csapatait-itt-vannak-a-legfontosabb-hirek-szerdan-537793",
+        "h1": "Újabb szankciókra készül a Nyugat Oroszország ellen, amely átcsoportosítja és megerősíti csapatait – Itt vannak a legfontosabb hírek szerdán ",
+        "txtlength": 27065
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/penz/20220405/elkerulhetetlen-a-recesszio/",
+        "h1": "Elkerülhetetlen a recesszió?",
+        "txtlength": 22971
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220405_brusszelnek_nem_a_kormannyal_hanem_a_magyar_emberekkel_van_vitaja_kovacs_zoltan_a_mandinernek",
+        "h1": "Brüsszelnek nem a kormánnyal, hanem a magyar emberekkel van vitája – Kovács Zoltán a Mandinernek",
+        "txtlength": 21807
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220404_megszolalnak_a_videki_billego_korzetek_gyoztesei",
+        "h1": "„Ez erős kritika a baloldalnak” – megszólalnak a vidéki billegő körzetek győztesei",
+        "txtlength": 20362
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/hitel/20220404/megtort-a-lendulet-sorra-forditanak-hatot-a-bankoknak-a-magyar-csaladok-1123558",
+        "h1": "Megtört a lendület: sorra fordítanak hátat a bankoknak a magyar családok",
+        "txtlength": 20231
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220406_bucsa_es_a_haborus_buntettek",
+        "h1": "Bucsa és a háborús bűntettek",
+        "txtlength": 19146
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/uzlet/20220406/nagy-a-bizonytalansag-egyre-rosszabb-a-hangulat-a-tozsdeken-537805",
+        "h1": "Nagy a bizonytalanság, egyre rosszabb a hangulat a tőzsdéken ",
+        "txtlength": 18959
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/kozelet/20220406/romak-covid-penz-jobbik-mi-befolyasolta-a-mi-hazank-teljesitmenyet/",
+        "h1": "Romák, Covid, pénz, Jobbik – mi befolyásolta a Mi Hazánk teljesítményét?",
+        "txtlength": 18162
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/hitel/20220405/rengeteg-gyermekes-csap-le-az-ingyenmilliokra-ha-nem-sietnek-lecsusznak-a-lehetosegrol-1123656",
+        "h1": "Rengeteg gyermekes csap le az ingyenmilliókra: ha nem sietnek lecsúsznak a lehetőségről",
+        "txtlength": 18002
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2022/04/06/ocsem-milyen-doktor-vagy-te-hogy-ilyen-autoval-jarsz",
+        "h1": "ÖCSÉM, MILYEN DOKTOR VAGY TE, HOGY ILYEN AUTÓVAL JÁRSZ?",
+        "txtlength": 17597
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/kapcsolat/budai-lotti-femina-podcast/",
+        "h1": "„Ha egy lány elvesztette a szüzességét, az apja megverhette, elüldözhette” - Budai Lottival Soós Andrea beszélgetett",
+        "txtlength": 11257
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/lajfhekk/beepitheto-suto-teszt/",
+        "h1": "Beépíthető sütő teszt",
+        "txtlength": 9996
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/04/06/fustszurohegyek-uvegtenger",
+        "h1": "Füstszűrőhegyek, üvegtenger",
+        "txtlength": 26697
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/belfold/2022/04/06/borton-buntetes-vegrehajtas-elitelt-koronavirus-jarvany-szabalyok-latogatas-szakerto-fogvatartott-hozzatartozo",
+        "h1": "Egészségvédelem vagy eltúlzott korlátozás? – A Covid két éve a börtönökben",
+        "txtlength": 26071
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kulfold/2022/04/06/orosz-ukran-haboru-percrol-percre-42-nap",
+        "h1": "Ukrán adatgyűjtők megnevezték a bucsai mészárlás lehetséges felelősét, az oroszok pedig azt állítják, hogy ukránok a határőreiket lövik",
+        "txtlength": 25051
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2022/04/05/valasztas-2022-velemeny-bocskei-balazs-marki-zay-peter-ellenzek/",
+        "h1": "Böcskei Balázs: Április 3. és a politikai nárcizmus identitásnélkülisége ",
+        "txtlength": 22955
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/04/05/beult-meszaros-lorinc-bankjanak-felugyelobizottsagaba-az-index-tulajdonosa",
+        "h1": "Beült Mészáros Lőrinc bankjának felügyelőbizottságába az Index tulajdonosa",
+        "txtlength": 22693
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kulfold/2022/04/05/timothy-garton-ash-interju-valasztasok-orban-viktor-haboru-ukrajna-oroszorszag-europai-unio/",
+        "h1": "Timothy Garton Ash: A háborúval az EU-nak lett egy sokkal nagyobb problémája Orbánnál",
+        "txtlength": 21566
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/gazdasag/20220406_Vegleg_bucsut_mondatunk_az_EUpenzeknek_Minden_amit_a_jogallamisagi_eljarasrol_tudni_lehet",
+        "h1": "Végleg búcsút mondhatunk az EU-pénzeknek? És miért éppen mi? Minden a jogállamisági eljárásról",
+        "txtlength": 19187
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/belfold/2022/04/06/ket-nehez-covid-ev-utan-elmaradnak-az-orosz-vendegek-hevizrol",
+        "h1": "Mit kezd magával Hévíz az oroszok nélkül?",
+        "txtlength": 19001
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2022/04/05/toroczkai-laszlo-valasztas-mi-hazank-interju-jobbik/",
+        "h1": "Toroczkai László: Nem örülök a Fidesz-kétharmadnak, mert ez nem tesz jót az országnak",
+        "txtlength": 18420
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/politika/orban-viktor-felesege-levai-aniko-legfobb-tamassz-negy-evtizede-hazassag/ltxj512",
+        "h1": "Különös esküvővel indult a házasságuk: Lévai Anikó négy évtizede Orbán Viktor legfőbb támasza",
+        "txtlength": 12682
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/vilag/20220406_orosz_ukran_haboru_percrol_percre",
+        "h1": "Szijjártó bekérette az ukrán nagykövetet, Szlovjanszk lehet az oroszok következő célpontja – percről percre az orosz-ukrán háborúról",
+        "txtlength": 11943
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/vilag/20220406_Meghalt_Vlagyimir_Zsirinovszkij",
+        "h1": "Meghalt Vlagyimir Zsirinovszkij, az orosz nacionalizmus rossz szelleme",
+        "txtlength": 9937
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/kulfold/orosz-ukran-haboru-orosz-ukran-konfliktus-gazellatas-nemetorszag-gazprom/f35dzne?sl_ps=d_2",
+        "h1": "Radikális döntést hozott a Gazprom: elzárta a csapot – Itt vannak a részletek",
+        "txtlength": 8718
+    },
+    {
         "hostname": "mindmegette.hu",
         "pagelink": "https://www.mindmegette.hu/tonhalas-teszta-paradicsomosan.recept",
         "h1": "TONHALAS TÉSZTA PARADICSOMOSAN",
