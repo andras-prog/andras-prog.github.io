@@ -1,5 +1,179 @@
 [
     {
+        "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/egyszeru-vajbabfozelek",
+        "h1": "Egyszerű vajbabfőzelék",
+        "txtlength": 11983
+    },
+    {
+        "hostname": "kulturpart.hu",
+        "pagelink": "https://kulturpart.blog.hu/2022/04/06/a_pannon_filharmonikusokkal_lep_fel_a_grammy-dijas_vilagsztar",
+        "h1": "A PANNON FILHARMONIKUSOKKAL LÉP FEL A GRAMMY-DÍJAS VILÁGSZTÁR",
+        "txtlength": 6062
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/kozelet/20220407/leszavaztak-a-fideszre-de-kozben-mindenki-panaszkodott-porognek-a-szavazatszamlalok-beszamoloi/",
+        "h1": "„Leszavaztak a Fideszre, de közben mindenki panaszkodott” – pörögnek a szavazatszámlálók beszámolói",
+        "txtlength": 27397
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220407_kina_oroszorszag_hideghaboru",
+        "h1": "Itt az új hidegháború: odaállhat Kína Oroszország mellé?",
+        "txtlength": 23808
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/kozelet/20220406/az-ellenzek-akar-harom-korzetben-is-fordithat-de-a-fideszes-ketharmad-igy-is-biztosnak-latszik/",
+        "h1": "Az ellenzék akár három körzetben is fordíthat, de a fideszes kétharmad így is biztosnak látszik",
+        "txtlength": 22180
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20220407/kiderult-melyik-megyeket-viselte-meg-legjobban-a-koronavirus-valsag-537677",
+        "h1": "Kiderült, melyik megyéket viselte meg legjobban a koronavírus-válság",
+        "txtlength": 20702
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/uzlet/20220407/bizonytalankodas-az-europai-tozsdeken-de-a-bux-emelkedik-538071",
+        "h1": "Bizonytalankodás az európai tőzsdéken, de a BUX emelkedik ",
+        "txtlength": 20133
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220406_elemzok#comments",
+        "h1": "Még az elemzők sem hitték el, hogy ekkora előnyben van a Fidesz",
+        "txtlength": 20064
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220407_migransok_europa_tetejen_riport_az_alpokbol",
+        "h1": "Migránsok Európa tetején – riport az Alpokból",
+        "txtlength": 19456
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/uzlet/20220407/nekimegy-a-kulfoldi-kiskerlancoknak-a-kormany-megis-mi-lesz-ebbol-538061",
+        "h1": "Nekimegy a külföldi kiskerláncoknak a kormány - Mégis mi lesz ebből?",
+        "txtlength": 19111
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/egeszseg/20220404/kiderult-a-nagy-vitamin-titok-ezt-jobb-ha-tudod-a-meregdraga-patikai-pirulakrol-1123589",
+        "h1": "Kiderült a nagy vitamin-titok: ezt jobb, ha tudod a méregdrága patikai pirulákról",
+        "txtlength": 16033
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/gazdasag/20220407/kozeledik-az-uj-vilagrend-az-orosz-ukran-haboru-utan-semmi-nem-marad-olyan-mint-korabban-1123763",
+        "h1": "Közeledik az új világrend: az orosz-ukrán háború után semmi nem marad olyan, mint korábban",
+        "txtlength": 14517
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/ezo/tiszazugi-meregkeverok/",
+        "h1": "Magyarország híres gyilkosságsorozatát asszonyok követték el: a tiszazugi méregkeverők 300 embert öltek meg",
+        "txtlength": 12771
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2022/04/07/mitol-alfa-egy-him-es-egy-tyuk",
+        "h1": "MITŐL ALFA EGY HÍM? ÉS EGY TYÚK?",
+        "txtlength": 12575
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/testem/demencia-tunetei/",
+        "h1": "demencia tünetei",
+        "txtlength": 11012
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/lajfhekk/mikor-tankoljak/",
+        "h1": "mikor tankoljak",
+        "txtlength": 8737
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/tech/2022/04/07/orosz-ukran-haboru-ukrajna-21-szazadi-haboru-internet-hekkerek-kriptovaluta-telegram-starlink-tiktok-twitter-osint",
+        "h1": "Fotelhírszerzők, Twitter-diplomaták, maszek hekkerek és sok-sok kütyü – Ízig-vérig 21. századi háború zajlik Ukrajnában",
+        "txtlength": 27915
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kulfold/2022/04/07/kitehetik-az-oroszokat-az-ensz-emberi-jogi-bizottsagabol-zelenszkij-tobb-szankciot-akar",
+        "h1": "Kitehetik az oroszokat az ENSZ emberi jogi bizottságából, Zelenszkij több szankciót akar",
+        "txtlength": 25959
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/04/07/minden-hataron-tulmenni",
+        "h1": "Minden határon túlmenni",
+        "txtlength": 25279
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kulfold/2022/04/06/orosz-ukran-haboru-oroszorszag-ukrajna-putyin-zelenszkij-elo-hirfolyam-percrol-percre/#az-ukranok-reagaltak-orban-javaslatara-megvannak-a-hivatalos-targyalasi-csatornak-minden-mas-mediafelhajtas",
+        "h1": "Nem állnak messze a népirtástól a Bucsában történtek Boris Johnson szerint, a NATO-nak hosszan tartó szembenállásra kell felkészülni",
+        "txtlength": 25186
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/04/07/eloszor-torlesztett-kulfoldi-tartozast-rubelben-moszkva",
+        "h1": "Először törlesztett külföldi tartozást rubelben Moszkva",
+        "txtlength": 23955
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kozelet/2022/04/07/kiss-tamas-szociologus-szamlalobiztos-somogy-megye-nemesded",
+        "h1": "Kiss Tamás: Az ellenzék számlálóbiztosaként mutattam meg, hova kell tenni a szavazólapon a keresztet a Fideszhez",
+        "txtlength": 17698
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kultura/2022/04/06/oroszorszag-filmek-sorozatok-abrazolas-fogonoszok-ellensegkep-haboru-putyin/",
+        "h1": "Nem kell visszatérniük az orosz főgonoszoknak a filmekbe, hiszen el sem tűntek Hollywoodból",
+        "txtlength": 16383
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/gazdasag/20220407_rezsicsokkentes_foldgaz_oroszorszag_szankciok_gazar",
+        "h1": "Orbán Viktor győzött, de a rezsicsökkentés vesztésre áll",
+        "txtlength": 16018
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20220407_ellenzek_valasztas_jobbik",
+        "h1": "„A térkép nélkül nem lehet megérteni, hová tűntek az ellenzéki szavazók”",
+        "txtlength": 13489
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/inflacio-arstop-aremelkedes-rantott-hus/gtcxmzb",
+        "h1": "1800 forint egy adag rántott hús a kifőzdében! Mit fogunk enni ilyen árakon?",
+        "txtlength": 12372
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kulfold/2022/04/07/orosz-ukran-haboru-beketargyalasok-tarasz-fedirko-interju/",
+        "h1": "„Minden európai krízis mélyülni fog”",
+        "txtlength": 11977
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20220407_kolozsvar_szavazas_valasztasi_megfigyelok_levelszavazas",
+        "h1": "Kartondobozokban tárolt szavazólapok, egyszerre több voksot leadó emberek – ilyennek látták dán megfigyelők a kolozsvári szavazást",
+        "txtlength": 9550
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/kulfold/orosz-ukran-haboru-orosz-ukran-konfliktus-gazellatas-nemetorszag-gazprom/f35dzne",
+        "h1": "Radikális döntést hozott a Gazprom: elzárta a csapot – Itt vannak a részletek",
+        "txtlength": 8669
+    },
+    {
         "hostname": "hataratkelo.blog.hu",
         "pagelink": "https://hataratkelo.blog.hu/2022/04/02/edes_hazam_szerettelek#c41332957",
         "h1": "Édes hazám, szerettelek",
