@@ -1,6 +1,186 @@
 [
     {
         "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/narancsos-csokis-isler.recept",
+        "h1": "NARANCSOS-CSOKIS ISLER",
+        "txtlength": 12197
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/hagyomanyos-becsi-burgonyasalata.recept",
+        "h1": "HAGYOMÁNYOS BÉCSI BURGONYASALÁTA",
+        "txtlength": 11087
+    },
+    {
+        "hostname": "kiszamolo.hu",
+        "pagelink": "https://kiszamolo.hu/nem-csak-a-bankok-szeretik-a-kispalyas-lehuzasokat/",
+        "h1": "Nem csak a bankok szeretik a kispályás lehúzásokat",
+        "txtlength": 40575
+    },
+    {
+        "hostname": "kulturpart.hu",
+        "pagelink": "https://kulturpart.hu/2022/04/06/a_pannon_filharmonikusokkal_lep_fel_a_grammy-dijas_vilagsztar",
+        "h1": "A PANNON FILHARMONIKUSOKKAL LÉP FEL A GRAMMY-DÍJAS VILÁGSZTÁR",
+        "txtlength": 6062
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/tech/20220407/ilyen-amikor-a-netre-koltozik-a-capak-kozott-heteken-belul-indul-a-magyar-kickstarter-1123592",
+        "h1": "Ilyen, amikor a netre költözik a Cápák között: heteken belül indul a magyar Kickstarter",
+        "txtlength": 25441
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220331_menekultek_bok_csarnok_ukrajna",
+        "h1": "„Van, aki olyan címet ad meg, ami nem létezik, mert már szét van lőve”",
+        "txtlength": 24149
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220409_ukrajna_oroszorszag_haboru",
+        "h1": "HÁBORÚ: Heves harcok zajlanak Ukrajna keleti részein",
+        "txtlength": 21724
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220408_kukorelly_endre_parlamenti_valasztas_belfold_irapuato_pozsonyi_csata",
+        "h1": "Kukorelly: Ez a választás pontosan tükrözi, milyen a társadalom állapota",
+        "txtlength": 20048
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/krtk/20220409/franciaorszag-elnokot-valaszt-oriasi-problemakkal-kell-szembeneznie-a-gyoztesnek-538249",
+        "h1": "Franciaország elnököt választ: óriási problémákkal kell szembenéznie a győztesnek",
+        "txtlength": 18847
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vallalat/20220408/olyan-draga-lett-sajat-autot-venni-hogy-erdemes-lenne-masban-gondolkodni/",
+        "h1": "Olyan drága lett saját autót venni, hogy érdemes lenne másban gondolkodni",
+        "txtlength": 18797
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20220408/elektromobilitas-toltohalozatok-akkumulatorok-trendek-es-jovokep-a-jarmugyartasban-538205",
+        "h1": "Elektromobilitás, töltőhálózatok, akkumulátorok - Trendek és jövőkép a járműgyártásban",
+        "txtlength": 18013
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/podcast/20220409/900-ezer-eltunt-ellenzeki-szavazo-totalis-fidesz-dominancia-a-valasztasok-eredmenyeit-ertekeltuk/",
+        "h1": "900 ezer eltűnt ellenzéki szavazó, totális Fidesz-dominancia – a választások eredményeit értékeltük",
+        "txtlength": 17718
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/vasarlas/20220406/sajatmarkas-termekek-meglepo-ami-kiderult-ez-var-rad-az-aldiban-sparban-tescoban-auchanban-1123701",
+        "h1": "Sajátmárkás termékek: meglepő, ami kiderült - ez vár rád az Aldiban, Sparban, Tescóban, Auchanban",
+        "txtlength": 16898
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/global/20220408/vilagszerte-hevulnek-az-indulatok-5-konfliktus-amely-fenyegetoen-forrova-valhat-537927",
+        "h1": "Világszerte hevülnek az indulatok: 5 konfliktus, amely fenyegetően forróvá válhat",
+        "txtlength": 16688
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/szepseg/martha-matilda-harper/",
+        "h1": "Szegénységből küzdötte fel magát, milliomos lett - A zseniális üzletasszony, Martha Matilda Harper története",
+        "txtlength": 12399
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/lajfhekk/ekszerek-tisztitasa/",
+        "h1": "Ékszerek tisztítása",
+        "txtlength": 8678
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2022/04/08/az-emlosok-elobb-lettek-nagyobbak-es-csak-utana-okosabbak",
+        "h1": "AZ EMLŐSÖK ELŐBB LETTEK NAGYOBBAK, ÉS CSAK UTÁNA OKOSABBAK",
+        "txtlength": 7233
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kozelet/2022/04/08/stefano-bottoni-fidesz-valasztasok-ketharmad-erdelyimagyarok-rmdsz",
+        "h1": "Stefano Bottoni: a Fidesz céljai között az erdélyi magyarok szolgálata az utolsó",
+        "txtlength": 28598
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/vilag/20220409_hol_tart_Putyin_ukrajnai_haboruja_kerdesek_es_valaszok",
+        "h1": "Hol tart most Putyin ukrajnai háborúja? – kérdések és válaszok",
+        "txtlength": 27823
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kulfold/2022/04/09/orosz-ukran-haboru-percrol-percre-45-nap",
+        "h1": "Egy ukrán nő elmesélte, hogyan ölték meg a szeme láttára a lányát és a férjét. A barátaiktól kérnek kölcsön az orosz oligarchák, hogy ki tudják fizetni a személyzetüket",
+        "txtlength": 24933
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2022/04/09/biro-laszlo-jezso-gabor-valasztasi-vereseg-baz06oevk-csatater22-riport/",
+        "h1": "„Jöjjön csak ide ez a Márki-Zay a szőlőbe, próbáljon csinálni valamit, aztán majd megnézem, hogy boldogul!”",
+        "txtlength": 19982
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/szorakozas/2022/04/09/atmozgato-kirandulas-a-bakonyi-medvehagyma-mennyorszagba",
+        "h1": "Kirándulás a bakonyi medvehagyma-mennyországba",
+        "txtlength": 17476
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kulfold/2022/04/09/orosz-ukran-haboru-bucsa-borodjanka-meszarlas-ensz-bt-szankciok/",
+        "h1": "Halott és eltűnt civilek százai a donbaszi ütközetre készülő oroszok nyomában",
+        "txtlength": 16901
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/elet/20220408_NER_humor_Bodocs_Tibor_Hircsarda_MKKP_Krubi_DeNash_drMarias_Ricsardgir",
+        "h1": "Miért kell humor a NER-hez?",
+        "txtlength": 16896
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kulfold/2022/04/08/jogallami-mechanizmus-hogyan-mukodik/",
+        "h1": "Így veheti el a pénzt Orbántól az Európai Unió",
+        "txtlength": 15864
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20220409_valasztas_2022_gyurcsany_ferenc_beszede_ertekelo",
+        "h1": "Gyurcsány Ferenc: Akarjatok Gyurcsányok lenni!",
+        "txtlength": 13261
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/04/08/a-birosag-iteletet-hirdetett-hajnal-miklos-es-a-gvh-pereben-de-mindket-fel-sajat-magat-tartja-nyertesnek",
+        "h1": "A bíróság ítéletet hirdetett Hajnal Miklós és a GVH perében, de mindkét fél saját magát tartja nyertesnek",
+        "txtlength": 12185
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/04/08/egy-falu-haromszaz-lakoja-heteken-at-volt-az-orosz-hadsereg-csapdajaban-az-iskola-pincejeben",
+        "h1": "Egy falu háromszáz lakója heteken át volt az orosz hadsereg csapdájában az iskola pincéjében",
+        "txtlength": 12135
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/politika/eu-orosz-gaz-embargo-paks2/dfjsj5f",
+        "h1": "Mégis megszavazták a fideszesek az orosz gázembargót és Paks 2 leállítását az Európai Parlamentben",
+        "txtlength": 10529
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/politika/borsod-megye-orszaggyulesi-valasztas-szavazas-zsakfalu/cgy7yng",
+        "h1": "Szavazók a „világ végén”: a borsodi zsákfalu, ahol a legtöbben szavaztak – Beszéltünk a helyiekkel, óriási élmény volt, nézze!",
+        "txtlength": 10183
+    },
+    {
+        "hostname": "mindmegette.hu",
         "pagelink": "https://www.mindmegette.hu/csokolades-mille-feuille.recept",
         "h1": "CSOKOLÁDÉS MILLE-FEUILLE",
         "txtlength": 11157
