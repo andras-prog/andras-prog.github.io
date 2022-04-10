@@ -1,5 +1,185 @@
 [
     {
+        "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/tejszines-zellerkremleves",
+        "h1": "Tejszínes zellerkrémleves",
+        "txtlength": 11192
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/villamgyors-uzsonna.recept",
+        "h1": "VILLÁMGYORS UZSONNA",
+        "txtlength": 10587
+    },
+    {
+        "hostname": "hataratkelo.blog.hu",
+        "pagelink": "https://hataratkelo.blog.hu/2022/04/06/viszlat_magyarorszag",
+        "h1": "Viszlát, Magyarország!",
+        "txtlength": 76581
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/tech/20220409/hogy-lehetnek-ilyen-szedett-vedettek-az-orosz-csapatok-ukrajnaban/",
+        "h1": "Hogy lehetnek ilyen szedett-vedettek az orosz csapatok Ukrajnában?",
+        "txtlength": 22384
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/uzlet/20220410/egy-csodalatos-filmes-mufaj-amely-nem-volt-kepes-meghoditani-a-mozi-nezoket-de-otthonra-lelhet-a-streaming-szolgaltatoknal-538223",
+        "h1": "Egy csodálatos filmes műfaj, amely nem volt képes meghódítani a mozi nézőket, de otthonra lelhet a streaming szolgáltatóknál",
+        "txtlength": 22346
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220408_a_jobbik_gyurcsany_ferenccel_karoltve_fog_politizalni_varga_damm_andrea_a_mandinernek",
+        "h1": "„A Jobbik Gyurcsánnyal karöltve fog politizálni” – Varga-Damm Andrea a Mandinernek",
+        "txtlength": 22032
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.penzcentrum.hu/egeszseg/20220410/a-pszichopata-jelentese-hogyan-ismerheto-fel-a-pszichopata-ember-1123725",
+        "h1": "A pszichopata jelentése: hogyan ismerhető fel a pszichopata ember?",
+        "txtlength": 21351
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220406_hatalmas_seb_franciaorszag_tortenelem_interju_helene_de_lauzun",
+        "h1": "Hatalmas seb tátong Franciaország történelmében",
+        "txtlength": 21230
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220406_kulfold_macron_franciaorszag",
+        "h1": "Áll-e végül Macronnak a zászló?",
+        "txtlength": 20744
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/global/20220410/sulyos-lepesre-keszul-az-egyik-gruz-szakadar-koztarsasag-itt-az-ujabb-konfliktus-moszkva-es-a-nyugat-kozott-538603",
+        "h1": "Súlyos lépésre készül az egyik grúz szakadár köztársaság – Itt az újabb konfliktus Moszkva és a Nyugat között?",
+        "txtlength": 19925
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vallalat/20220410/mar-az-akkumulatorhoz-vesszuk-a-kezi-szerszamokat-es-nem-forditva/",
+        "h1": "Már az akkumulátorhoz vesszük a kézi szerszámokat, és nem fordítva",
+        "txtlength": 17536
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2022/04/10/ki-a-legnagyobb-kiraly-az-5-helyen-iii-bela",
+        "h1": "KI A LEGNAGYOBB KIRÁLY? AZ 5. HELYEN: III. BÉLA",
+        "txtlength": 15925
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/egeszseg/20220406/nem-is-sejtik-a-magyarok-mennyire-veszelyes-igy-aludni-sulyos-betegseg-alakulhat-ki-1123659",
+        "h1": "Nem is sejtik a magyarok, mennyire veszélyes így aludni: súlyos betegség alakulhat ki",
+        "txtlength": 14657
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/gazdasag/20220408/orosz-ukran-konfliktus-belathato-idon-belul-vege-lehet-a-haborunak-1123783",
+        "h1": "Orosz-ukrán konfliktus: belátható időn belül vége lehet a háborúnak?",
+        "txtlength": 14272
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/szuloseg/mostohaanya-csalad/",
+        "h1": "mostohaanya család",
+        "txtlength": 11395
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/egeszseg/rak-kockazatat-novelo-tenyezok/",
+        "h1": "4 dolog, ami bizonyítottan növeli a rák kockázatát: nem csak a dohányzás veszélyes",
+        "txtlength": 10986
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/testem/reumatologus-frontok/",
+        "h1": "reumatológus frontok",
+        "txtlength": 10892
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kultura/2022/04/10/orosz-ukran-haboru-menekultek-migration-aid-lengyel-nagy-anna-iro-elmenyei/",
+        "h1": "„Ugye, nem mondja el a lányomnak, hogy megölték a férjét”",
+        "txtlength": 26719
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kulfold/2022/04/10/orosz-ukran-haboru-irregularis-profi-hadero-fabian-sandor-interju/",
+        "h1": "„Az irreguláris hadviselés működik egy hagyományos haderővel szemben”",
+        "txtlength": 21893
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/tech/2022/04/09/magyarorszag-nem-erett-meg-a-villanyautozasra",
+        "h1": "Miért kullog Magyarország Európa mögött a villanyautózásban?",
+        "txtlength": 18594
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kulfold/2022/04/10/macron-le-pen-valasztas-elnokvalasztas-franciaorszag-nato-eu-mkb-ukran-valsag-oroszorszag",
+        "h1": "Sokáig lefutottnak tűnt, de a hajrára már a szélsőjobbos áttörés sem elképzelhetetlen a francia elnökválasztáson",
+        "txtlength": 17525
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kult/2022/04/10/mitol-megy-mennybe-a-malac-ami-egesz-ejjel-sul-a-parazson",
+        "h1": "Mitől megy mennybe a malac, ami egész éjjel sül a parázson?",
+        "txtlength": 15987
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/vilag/20220410_A_haborus_buncselekmenyek_buntetese",
+        "h1": "Nem túl valószínű, hogy valaha elítélik Putyint az ukrajnai háború miatt",
+        "txtlength": 15047
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/04/10/megbuktatta-az-ellenzek-a-pakisztani-miniszterelnokot",
+        "h1": "Megbuktatta az ellenzék a pakisztáni miniszterelnököt",
+        "txtlength": 12335
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kultura/2022/04/09/podcast-filezo-ihaszi-daniel-gay-hussar-gin-gin-tonik/",
+        "h1": "Ki mondta, hogy a gin csak tonikkal iható?",
+        "txtlength": 11980
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/04/09/oroszorszag-reszleges-allamcsodben-van",
+        "h1": "Oroszország részleges államcsődben van",
+        "txtlength": 11499
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/sztarvilag/kultura/festmenyhamisitas/2drqrb2?sl_ps=d_6",
+        "h1": "Elveszett magyar alkotások után kutat a festménydetektív, Kelen Anna",
+        "txtlength": 9993
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/vilag/20220410_percrol_percre_az_ukrajnai_haborurol",
+        "h1": "Újranyitott az EU kijevi nagykövetsége, Zelenszkij szerint az oroszok célpontja egész Európa - percről percre az ukrajnai háborúról",
+        "txtlength": 9607
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20220410_A_Kuria_helybenhagyta_az_NVB_hatarozatat_erdelyi_szavazolapok",
+        "h1": "A Kúria helybenhagyta az NVB határozatát, nincs lehetőség az elégetett erdélyi szavazólapok ügyét kivizsgálni",
+        "txtlength": 8697
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/kulfold/kezd-visszaterni-az-elet-kijevbe/pvyfqne",
+        "h1": "Kezd visszatérni az élet Kijevbe: nyitnak az üzletek, a kávézók, az éttermek és a fodrászatok is, egyre több az ember az utcákon",
+        "txtlength": 8050
+    },
+    {
         "hostname": "mindmegette.hu",
         "pagelink": "https://www.mindmegette.hu/narancsos-csokis-isler.recept",
         "h1": "NARANCSOS-CSOKIS ISLER",
