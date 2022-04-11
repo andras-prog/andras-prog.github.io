@@ -1,6 +1,180 @@
 [
     {
         "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/husveti-pastetom",
+        "h1": "Húsvéti pástétom",
+        "txtlength": 12754
+    },
+    {
+        "hostname": "kiszamolo.hu",
+        "pagelink": "https://kiszamolo.hu/mi-kell-az-uj-zold-hitelhez/",
+        "h1": "Mi kell az új Zöld Hitelhez?",
+        "txtlength": 51613
+    },
+    {
+        "hostname": "kulturpart.hu",
+        "pagelink": "https://kulturpart.blog.hu/2022/04/09/a_fiatal_sztaroke_a_matyas_utca",
+        "h1": "A FIATAL SZTÁROKÉ A MÁTYÁS UTCA",
+        "txtlength": 5203
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/nyugdij/20220411/fajni-fog-a-magyar-nyugdijasoknak-a-husveti-arhorror-egyre-nehezebb-helyzetben-a-kispenzu-idosek-1123842",
+        "h1": "Fájni fog a magyar nyugdíjasoknak a húsvéti árhorror: egyre nehezebb helyzetben a kispénzű idősek",
+        "txtlength": 22469
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/kozelet/20220410/tenyleg-a-kis-partokon-mult-a-fidesz-ketharmad/",
+        "h1": "Tényleg a kis pártokon múlt a Fidesz-kétharmad?",
+        "txtlength": 22271
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vallalat/20220411/az-olcso-orosz-olaj-menti-meg-orbanek-benzinarstopjat/",
+        "h1": "Az olcsó orosz olaj menti meg Orbánék benzinárstopját",
+        "txtlength": 22101
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/vasarlas/20220410/embertelen-dragulas-csap-le-a-magyar-csaladokra-nyugdijasokra-az-igazi-bojt-csak-most-kezdodik-1123810",
+        "h1": "Embertelen drágulás csap le a magyar családokra, nyugdíjasokra: az igazi böjt csak most kezdődik?",
+        "txtlength": 21869
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220409_dk_momentum_gyurcsany_ferenc_donath_anna_parlamenti_valasztas_belfold",
+        "h1": "Kíméletlenül küzd a DK és a Momentum az ellenzék vezető szerepéért",
+        "txtlength": 21684
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220330_sport_interju_stephen_roche_giro_ditalia",
+        "h1": "Történelmi lehetőség nekünk a Giro d’Italia",
+        "txtlength": 18738
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220411_sneider_tamas_jobbik",
+        "h1": "„A Jobbiknak nincs jövője, és már sorsa sincsen” – Sneider Tamás a Mandinernek",
+        "txtlength": 18388
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2022/04/11/csaba-laszlo-a-presztizsberuhazasok-helyett-jon-a-fidesz-kontosbe-bujtatott-bokros-csomag",
+        "h1": "CSABA LÁSZLÓ: A PRESZTÍZSBERUHÁZÁSOK HELYETT JÖN A FIDESZ-KÖNTÖSBE BÚJTATOTT BOKROS-CSOMAG",
+        "txtlength": 18384
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20220411/az-eu-fo-klimafegyveret-is-hatastalanitana-orban-viktor-a-rezsicsokkentes-erdekeben-538771",
+        "h1": "Az EU fő klímafegyverét is hatástalanítaná Orbán Viktor a rezsicsökkentés érdekében",
+        "txtlength": 17456
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/uzlet/20220411/ovatos-mozgasok-a-tozsdeken-szarazon-tartjak-a-puskaport-a-befektetok-538721",
+        "h1": "Óvatos mozgások a tőzsdéken, szárazon tartják a puskaport a befektetők ",
+        "txtlength": 17077
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/global/20220411/eloszor-latogat-europai-vezeto-putyinhoz-az-invazio-kezdete-ota-itt-vannak-a-legfontosabb-hirek-hetfon-538705",
+        "h1": "Először látogat európai vezető Putyinhoz az invázió kezdete óta - Itt vannak a legfontosabb hírek hétfőn ",
+        "txtlength": 16117
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/husvet/husveti-hagyomanyok-europaban/",
+        "h1": "Európa legérdekesebb húsvéti szokásai: van, ahol több tonnányi omlettet sütnek",
+        "txtlength": 12210
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/szuloseg/gyermekagy-anyasag-szoptatas-tortenelem/",
+        "h1": "anyaság gyermekágy szoptatás történelem",
+        "txtlength": 11668
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/gazdasag/20220411_Nem_az_uj_szabalycsavaras_viszi_sirba_a_menzas_cegeket_de_mar_eleve_alig_allnak_a_labukon",
+        "h1": "Nem az új szabálycsavarás viszi sírba a menzás cégeket, de már alig állnak a lábukon",
+        "txtlength": 25387
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/valasztas-2022/2022/04/11/valasztas-2022-marki-zay-peter-dk-mszp-momentum-parbeszed-jobbik-reakcio",
+        "h1": "Csak abban van egyetértés, hogy senki nem mond le",
+        "txtlength": 24882
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/sport/2022/04/10/borics-adam-a-kolyok-the-kid-mma-bellator/",
+        "h1": "„Amikor kiütöm az ellenfelemet, az olyan, mintha a világ tetején állnék”",
+        "txtlength": 24105
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kulfold/2022/04/11/orosz-ukran-haboru-percrol-percre-47-nap",
+        "h1": "Kelet-Ukrajnában vehet újabb lendületet az orosz megszállás, Kijev kemény ellenállást ígér",
+        "txtlength": 21807
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/04/11/putyin-es-a-titokzatos-csaladtagok",
+        "h1": "Putyin és a titokzatos családtagok",
+        "txtlength": 17056
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2022/04/11/valasztas-2022-eredmenyek-videk-budapest-fidesz-egyeni-valasztokeruletek-gyozelem/",
+        "h1": "102 körzetben erősödött a kormányoldal, Budapest nagy részén is, sosem volt még ennyi fideszes az országban",
+        "txtlength": 15727
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/gazdasag/2022/04/11/sokan-varjak-toluk-de-az-ukran-menekultek-nem-fogjak-megoldani-a-hazai-munkaerohianyt",
+        "h1": "Sokan várják tőlük, de az ukrán menekültek nem fogják megoldani a hazai munkaerőhiányt",
+        "txtlength": 15644
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/04/11/latod-hogy-ilyet-sosem-lattal",
+        "h1": "Látod, hogy ilyet sosem láttál?",
+        "txtlength": 12546
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/fn/gazdasag/2022/04/11/nyes-nyugdij-elotti-allaskeresesi-segely-emeles-minimalber-megszuntetes-ujraigenyles/",
+        "h1": "Növelhető-e a nyugdíj előtti álláskeresési segély, ha az év elején megszüntetik, majd rögtön újraigénylik?",
+        "txtlength": 12104
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/vilag/20220411_orosz_ukran_haboru_percrol_percre",
+        "h1": "Újabb offenzíva jöhet Kelet-Ukrajnában, drámai gazdasági visszaesést jósol a Világbank – percről percre a háborúról",
+        "txtlength": 11054
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20220411_Valasztasi_kakukktojas_Mezohegyesen_nyert_az_ellenzek",
+        "h1": "Választási kakukktojás: Mezőhegyesen nyert az ellenzék",
+        "txtlength": 10918
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/meghalt-gorgey-gabor-kossuth-dij-iro-kulturalis-miniszter/fly7fh0?sl_ps=d_5",
+        "h1": "Gyász: meghalt Görgey Gábor, Kossuth-díjas író, egykori kulturális miniszter",
+        "txtlength": 8162
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/segito-sma-jaras-gyogyulas/s7w0p1g?sl_ps=d_9",
+        "h1": "Megható történet: sosem tudott járni, most másnak segít talpra állni az SMA-s Sándor",
+        "txtlength": 6876
+    },
+    {
+        "hostname": "nosalty.hu",
         "pagelink": "https://www.nosalty.hu/recept/tejszines-zellerkremleves",
         "h1": "Tejszínes zellerkrémleves",
         "txtlength": 11192
