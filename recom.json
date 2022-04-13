@@ -1,5 +1,185 @@
 [
     {
+        "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/husveti-sargaturo",
+        "h1": "Húsvéti sárgatúró",
+        "txtlength": 16193
+    },
+    {
+        "hostname": "kiszamolo.hu",
+        "pagelink": "https://kiszamolo.hu/futes-klimaval-velemeny/",
+        "h1": "Fűtés klímával-vélemény",
+        "txtlength": 41788
+    },
+    {
+        "hostname": "kulturpart.hu",
+        "pagelink": "https://kulturpart.blog.hu/2022/04/12/ut_az_iskolaba_i",
+        "h1": "EMLÉKEK A HÁZBÓL – ÚT AZ ISKOLÁBA – I.",
+        "txtlength": 15699
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220412_valasztasi_ertekelo_bla_orban_balazs_halko_petra_mraz_agoston_samuel_dezso_tamas_pocza_istvan",
+        "h1": "Orbán Balázs: Magyarország megvédése fontos csatatere a világban zajló kulturális háborúnak",
+        "txtlength": 25123
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220409_mellar_tamas_parlamenti_kepviselo_parbeszed_jobbik_momentum_mszp_dk_fidesz_lmp_belfold_gazdasag",
+        "h1": "Mellár: Csökkent a kormányellenes hangulat, hiba volt bevenni a Jobbikot a szövetségbe",
+        "txtlength": 23773
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/tech/20220412/egeszsegugyi-applikaciok-receptre-a-nemeteknel-mar-mukodik/",
+        "h1": "Egészségügyi applikációk receptre? A németeknél már működik!",
+        "txtlength": 22155
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/global/20220413/ukran-nagykovet-a-haboru-lenullazott-mindent-de-az-orszagunkat-meg-jobba-tesszuk-539143",
+        "h1": "Ukrán nagykövet: a háború lenullázott mindent, de az országunkat még jobbá tesszük",
+        "txtlength": 19883
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/global/20220413/vegorait-eli-mariupol-pokoli-kuzdelem-zajlik-a-varosert-itt-vannak-a-legfontosabb-hirek-szerdan-539221",
+        "h1": "Végóráit éli Mariupol, pokoli küzdelem zajlik a városért – Itt vannak a legfontosabb hírek szerdán ",
+        "txtlength": 19666
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/bank/20220413/csanyi-sandor-nem-gondolok-egy-nagyon-gyors-visszavonulasra-539287",
+        "h1": "Csányi Sándor: nem gondolok egy nagyon gyors visszavonulásra ",
+        "txtlength": 19645
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://makronom.mandiner.hu/cikk/20220412_a_kinaiak_mar_a_jarvany_alatt_megjosoltak_egy_evtizede_maradt_a_dollarnak",
+        "h1": "A kínaiak már a járvány alatt megjósolták: egy évtizede maradt a dollárnak",
+        "txtlength": 18962
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/gazdasag/20220411/durvan-bezuhanhat-az-ukran-gdp-ujabb-szankcios-csomag-keszul-az-oroszok-ellen-1123884",
+        "h1": "Durván bezuhanhat az ukrán GDP: újabb szankciós csomag készül az oroszok ellen",
+        "txtlength": 17908
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/vasarlas/20220412/fajdalmasan-megdragultak-a-husvet-kedvencei-orult-akciokat-durrantott-az-aldi-lidl-tesco-spar-1123914",
+        "h1": "Fájdalmasan megdrágultak a húsvét kedvencei: őrült akciókat durrantott az Aldi, Lidl, Tesco, Spar",
+        "txtlength": 17180
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/kozelet/20220413/a-fidesz-tarolt-a-magyar-telepuleseken-de-van-par-erdekes-kivetel/",
+        "h1": "A Fidesz tarolt a magyar településeken, de van pár érdekes kivétel ",
+        "txtlength": 15497
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/szuloseg/gyerek-duh-szorongas-hisztiroham/",
+        "h1": "gyereknevelés düh szorongás pszichológia",
+        "txtlength": 11345
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2022/04/13/uj-uzenettel-mutatkozik-be-az-emberiseg-a-foldonkivulieknek-mar-ha-leteznek-foldonkivuliek",
+        "h1": "ÚJ ÜZENETTEL MUTATKOZIK BE AZ EMBERISÉG A FÖLDÖNKÍVÜLIEKNEK, MÁR HA LÉTEZNEK FÖLDÖNKÍVÜLIEK",
+        "txtlength": 11310
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/kapcsolat/etikett-szomszedok-kozott/",
+        "h1": "8 apróság, amire figyelj, ha jó kapcsolatot akarsz a szomszéddal - Alapvető etikett, amit be kell tartani",
+        "txtlength": 11238
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/testem/drogok-kokain-gyogyitas-tortenelem/",
+        "h1": "drog kokain gyógyszerek történelem ópium",
+        "txtlength": 10539
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/tudomany/2022/04/12/magyar-tomegyilkossag-egyenruhaban",
+        "h1": "Magyar tömeggyilkosság egyenruhában",
+        "txtlength": 23450
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/elet-stilus/2022/04/12/route-66-utikonyv-interju/",
+        "h1": "„A tanúhegyeknél beraktam a Volt egyszer egy Vadnyugat zenéjét, és mind a heten bőgtünk”",
+        "txtlength": 22408
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kozelet/2022/04/12/ukran-menekultek-szekelyfoldon",
+        "h1": "Orosz anyanyelvűek, magyarul tanulnak: ukrán menekültek várják a háború végét Románia szívében",
+        "txtlength": 18175
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kulfold/2022/04/12/orban-eu-magany-egyedul-elszigetelt-lengyelorszag-franciaorszag/",
+        "h1": "Orbán erősebb, mint valaha, de mihez kezd az iszonyú magánnyal?",
+        "txtlength": 17742
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kulfold/2022/04/13/ellenzek-kulpolitika-ujragondolasa-szalai-mate/",
+        "h1": "Öt kérdés, amiben az ellenzéknek újra kell értékelnie külpolitikáját",
+        "txtlength": 17562
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/kultura/20220413_Brody_Janos_interju",
+        "h1": "Bródy János: 1956 emléke nem halványulhat el annyira, hogy egy orosz tankok által lerohant állam mellett ne álljunk ki",
+        "txtlength": 17547
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/gazdasag/2022/04/13/kulonos-helyzet-a-hazai-lakaspiacon-most-az-eladoknak-es-a-vevoknek-is-sietnie-kell",
+        "h1": "Különös helyzet a hazai lakáspiacon: most az eladóknak és a vevőknek is sietniük kell",
+        "txtlength": 15105
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/04/12/dobbentesen-aprolekos-vallomasos-prozaban-irta-meg-a-kismarosi-szavazatszamlalo-hogy-milyen-erzes-volt-kakat-talalni-a-boritekban",
+        "h1": "Döbbenetesen aprólékos, vallomásos prózában írta meg a kismarosi szavazatszámláló, hogy milyen érzés volt kakát találni a borítékban",
+        "txtlength": 14790
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/04/13/hatalmas-tatongo-ur",
+        "h1": "Hatalmas tátongó űr",
+        "txtlength": 11957
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/vilag/20220413_oroszorszag_ukrajna_haboru_volodomir_zelenszkij_nepirtas_joe_biden",
+        "h1": "Biden népirtásnak tartja az ukrán civilek elleni támadásokat, Zelenszkij kérdésekkel bombáz – percről percre a háborúról",
+        "txtlength": 9754
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20220413_marki_zay_peter_ellenzek_miniszterelnok_jelolt_valasztas_2022_fidesz_orban_viktor",
+        "h1": "Márki-Zay: A kezdetektől fogva azt mértük, hogy a háború nagyon kedvez Orbánnak",
+        "txtlength": 9403
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/politika/frakciopenzek-dk-gyurcsany-ferenc/70d8eps?sl_ps=d_6",
+        "h1": "Gyurcsány a választás igazi nyertese: nagyobbat kaszált, mint a Fidesz",
+        "txtlength": 7513
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/vegrehajtas-alatti-ingatlanok-kar-feljelentes-nyomozas-gyanusitas/34jvq0r",
+        "h1": "Bedőlt hiteles ingatlannal húzták csőbe Zoltánékat – Bukta a lakást és az előleg felét",
+        "txtlength": 7411
+    },
+    {
         "hostname": "mindmegette.hu",
         "pagelink": "https://www.mindmegette.hu/klasszikus-majonezes-kukoricasalata.recept",
         "h1": "MAJONÉZES KUKORICASALÁTA",
