@@ -1,6 +1,186 @@
 [
     {
         "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/franciasalata",
+        "h1": "Franciasaláta",
+        "txtlength": 17122
+    },
+    {
+        "hostname": "hataratkelo.blog.hu",
+        "pagelink": "https://hataratkelo.blog.hu/2022/04/09/tippek_nemetorszagi_allaskereseshez#c41348291",
+        "h1": "Tippek németországi álláskereséshez",
+        "txtlength": 49881
+    },
+    {
+        "hostname": "kulturpart.hu",
+        "pagelink": "https://kulturpart.blog.hu/2022/04/06/vesztegzar_a_millenarison",
+        "h1": "VESZTEGZÁR A MILLENÁRISON",
+        "txtlength": 4750
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/kozelet/20220414/egy-lassu-ki-nem-mondott-de-visszafordithatatlan-ontudatosulas-jatszodik-le-videken/",
+        "h1": "Kovách Imre: Nagy hibába esik, aki a politikában város és a vidék sorsszerű ellentétét látja",
+        "txtlength": 27516
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220413_hibrid_hadviseles_somkuti_balint",
+        "h1": "Az önbecsapás művészete – a hibrid hadviselés félrevezető elméletéről",
+        "txtlength": 22729
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220330_kulfold_romania_oroszorszag",
+        "h1": "Román, orosz nem jó barát",
+        "txtlength": 22357
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220406_del_gazmezok_europa",
+        "h1": "Déli gázmezők menthetik meg Európát",
+        "txtlength": 21306
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2022/04/14/csak-akkor-emigralj-a-fidesz-gyozelme-miatt-ha-mar-sirtal",
+        "h1": "CSAK AKKOR EMIGRÁLJ A FIDESZ GYŐZELME MIATT, HA MÁR SÍRTÁL",
+        "txtlength": 20517
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/global/20220414/a-nagyhatalom-amelynek-meg-amerika-is-elnezi-az-oroszbaratsagot-538989",
+        "h1": "A nagyhatalom, amelynek még Amerika is elnézi az oroszbarátságot",
+        "txtlength": 18197
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/penz/20220413/sajat-jovoje-miatt-nem-nyitja-ki-az-olajcsapokat-szaud-arabia/",
+        "h1": "Saját jövője miatt nem nyitja ki az olajcsapokat Szaúd-Arábia",
+        "txtlength": 17988
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/uzlet/20220414/folytatodnak-a-harcok-ukrajnaban-ovatos-emelkedes-a-kontinens-tozsdein-539471",
+        "h1": "Folytatódnak a harcok Ukrajnában, óvatos emelkedés a kontinens tőzsdéin ",
+        "txtlength": 16817
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/gazdasag/20220414/meghozta-az-ongondoskodasi-kedvunket-a-jarvany-es-az-szja-visszaterites-1123865",
+        "h1": "Meghozta az öngondoskodási kedvünket a járvány és az szja-visszatérítés",
+        "txtlength": 16804
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/auto/20220414/teszten-a-volvo-nagy-dobasa-tenyleg-elmegy-400-kilometert-a-szaguldo-pancelszekreny-1123966",
+        "h1": "Teszten a Volvo nagy dobása: tényleg elmegy 400 kilométert a száguldó páncélszekrény?",
+        "txtlength": 16383
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20220414/tenyleg-hatalmas-megszoritas-kell-hogyan-tudjuk-meguszni-az-allamadossag-emelkedeset-539305",
+        "h1": "Tényleg hatalmas megszorítás kell? Hogyan tudjuk megúszni az államadósság emelkedését?",
+        "txtlength": 16357
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/egeszseg/zoldhalyog-tipus/",
+        "h1": "A zöld hályog 5 típusa és korai tünetei: fájdalommentesen is kialakulhat",
+        "txtlength": 15985
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/szuloseg/koraszulott-korip-polip/",
+        "h1": "koraszülött korip polip",
+        "txtlength": 10695
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/testem/olcso-szemuveg-drogeria-szemeszorvos-tanacs/",
+        "h1": "drogéria olvasószemüveg napszemüveg szemészorvos",
+        "txtlength": 9946
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/belfold/2022/04/14/stummer-janos-jobbik-bekescsaba-valasztas-kepviselo-jakab-peter-nemzetbiztonsagi-bizottsag",
+        "h1": "Stummer János: A csicskaellenzéket most Mi Hazánk Mozgalomnak nevezik",
+        "txtlength": 20722
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kulfold/2022/04/14/oroszorszag-ukrajna-haboru-percrol-percre-kozvetites-aprilis-14/",
+        "h1": "Az ukrán csapatok egy híddal együtt robbantottak fel egy orosz katonai konvojt",
+        "txtlength": 20116
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kulfold/2022/04/14/orosz-ukran-haboru-percrol-percre-50-nap",
+        "h1": "Amerikai képviselőket szankcionált Oroszország, és a NATO-csatlakozáson gondolkodó finneket és svédeket fenyegeti",
+        "txtlength": 19142
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kulfold/2022/04/14/svedorszag-finnorszag-nato-csatlakozas-orosz-ukran-haboru/",
+        "h1": "Beléphetnek a NATO-ba a finnek és a svédek, az oroszok máris fenyegetőznek",
+        "txtlength": 18765
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20220414_Hosszu_tavon_a_magyarsagnak_Karpataljan_reszeltek",
+        "h1": "„Hosszú távon a magyarságnak Kárpátalján reszeltek”",
+        "txtlength": 18445
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/gazdasag/2022/04/14/az-mkb-komoly-reputacios-kockazatot-vallalt-marine-le-pen-hitelezesevel-de-a-penze-aligha-lesz-veszelyben",
+        "h1": "Az MKB komoly reputációs kockázatot vállalt Marine Le Pen hitelezésével, de a pénze aligha lesz veszélyben",
+        "txtlength": 17106
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20220412_Elegetett_levelszavazatok_NVB_Kuria_jog",
+        "h1": "Ha igazán akarna, léphetne az NVB az elégetett levélszavazatok ügyében",
+        "txtlength": 16110
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kulfold/2022/04/13/kina-sanghaj-lezaras-fertozottek-halalozasok-koronavirus/",
+        "h1": "Bezártak 26 millió embert, miközben senki nem halt meg koronavírusban",
+        "txtlength": 12853
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/vilag/20220414_moszkva_hajo_szankcio_percrol_percre__haboru",
+        "h1": "Kigyulladt az orosz flotta büszkesége, Ausztrália is szankciókat jelentett be – percről percre a háborúról",
+        "txtlength": 12071
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/04/14/a-parizsi-terrortamadas-merenyloje-bevallotta-hogy-egy-kavehazban-kellett-volna-felrobbantania-magat",
+        "h1": "A párizsi terrortámadás merénylője bevallotta, hogy egy kávéházban kellett volna felrobbantania magát",
+        "txtlength": 11341
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/penz/tamogatott-hitelek/2264b6p",
+        "h1": "Már sok millió forintot lehet nyerni a támogatott hitelekkel",
+        "txtlength": 10817
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/04/13/elfogtak-a-brooklyni-metros-lovoldozes-gyanusitottjat",
+        "h1": "Elfogták a brooklyni metrós lövöldözés gyanúsítottját",
+        "txtlength": 10140
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/penz/eros-husveti-forgalom-boltok/7hbeb2g?sl_ps=d_11",
+        "h1": "Húsvéti roham a boltokban – Itt vannak az első tapasztalatok: a válság már érződik az ünnepi bevásárlásnál is, mutatjuk",
+        "txtlength": 9311
+    },
+    {
+        "hostname": "nosalty.hu",
         "pagelink": "https://www.nosalty.hu/recept/husveti-sargaturo",
         "h1": "Húsvéti sárgatúró",
         "txtlength": 16193
