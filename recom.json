@@ -1,6 +1,180 @@
 [
     {
         "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/hagyomanyos-zserbo-viciko-konyhajabol",
+        "h1": "Hagyományos zserbó Vicikó konyhájából",
+        "txtlength": 18665
+    },
+    {
+        "hostname": "hataratkelo.blog.hu",
+        "pagelink": "https://hataratkelo.blog.hu/2022/04/09/tippek_nemetorszagi_allaskereseshez#c41349471",
+        "h1": "Tippek németországi álláskereséshez",
+        "txtlength": 52108
+    },
+    {
+        "hostname": "kulturpart.hu",
+        "pagelink": "https://kulturpart.blog.hu/2022/04/14/jon_a_budapest_tancfesztival",
+        "h1": "JÖN A BUDAPEST TÁNCFESZTIVÁL!",
+        "txtlength": 6575
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20220414/christine-lagarde-majd-akkor-dontunk-a-kamatokrol-ha-itt-lesz-az-ideje-539585",
+        "h1": "Christine Lagarde: Majd akkor döntünk a kamatokról, ha itt lesz az ideje ",
+        "txtlength": 28959
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220413_a_nemzeti_ugyek_beemelesevel_tarolt_a_fidesz",
+        "h1": "A nemzeti ügyek beemelésével tarolt a Fidesz",
+        "txtlength": 24735
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/bank/20220415/sokan-mar-elesitettek-a-csodafegyvert-amely-teljesen-atirhatja-a-penzugyi-vilag-szabalyait-538839",
+        "h1": "Sokan már élesítették a csodafegyvert, amely teljesen átírhatja a pénzügyi világ szabályait",
+        "txtlength": 21781
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220415_jarvany_haboru_miert_engedi_meg_isten",
+        "h1": "Járvány és háború: miért engedi meg Isten?",
+        "txtlength": 21727
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vilag/20220415/rosszul-jarunk-ha-az-azonnali-embargot-vezetunk-be-az-orosz-szendidrogenekkel-szemben/",
+        "h1": "Rosszul járunk, ha azonnali embargót vezetünk be az orosz szénhidrogénekkel szemben",
+        "txtlength": 21062
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220414_valasztas_videk_balogh_gabor",
+        "h1": "„Le kell menni vidékre”, na épp ez volt a baj – Balogh Gábor a Mandinernek",
+        "txtlength": 18386
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/karrier/20220413/tobb-tizezer-magyart-iteltek-szegenysegre-nekik-nem-igazan-van-kiut-a-kozmunkabol-1123920",
+        "h1": "Több tízezer magyart ítéltek szegénységre: nekik nem igazán van kiút a közmunkából",
+        "txtlength": 17507
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/otthon/20220415/draga-tavasz-var-a-csaladi-haz-tulajokra-rendesen-fizethetnek-ha-ilyen-fa-all-a-kertjukben-1123922",
+        "h1": "Drága tavasz vár a családi ház tulajokra: rendesen fizethetnek, ha ilyen fa áll a kertjükben",
+        "txtlength": 17309
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.penzcentrum.hu/otthon/20220415/draga-tavasz-var-a-csaladi-haz-tulajokra-rendesen-fizethetnek-ha-ilyen-fa-all-a-kertjukben-1123922",
+        "h1": "Drága tavasz vár a családi ház tulajokra: rendesen fizethetnek, ha ilyen fa áll a kertjükben",
+        "txtlength": 16817
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/penz/20220413/eljon-az-ido-hogy-nalunk-sem-lehet-majd-lakast-venni/",
+        "h1": "Eljön az idő, hogy nálunk sem lehet majd lakást venni?",
+        "txtlength": 16382
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2022/04/15/nagybojti-maglyan-hamvadtak-el-a-mezokovesdi-matyok-bunos-divatkellekei",
+        "h1": "NAGYBÖJTI MÁGLYÁN HAMVADTAK EL A MEZŐKÖVESDI MATYÓK BŰNÖS DIVATKELLÉKEI",
+        "txtlength": 14966
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/szepseg/divathazak-noi-vezetoi/",
+        "h1": "Mutatjuk a nagy divatházak női vezetőit: igazi luxusmárkává vált az álmuk",
+        "txtlength": 14497
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/lajfhekk/nagymosas-retro-mosonok/",
+        "h1": "nagymosás retró mosónők háztartás",
+        "txtlength": 10325
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kultura/2022/04/14/oroszorszag-fegyverrel-akar-hoditani-pedig-megtehetne-ezt-sorozatokkal-es-zenekkel-is/",
+        "h1": "Oroszország fegyverrel akar hódítani, pedig megtehetné ezt sorozatokkal és zenékkel is",
+        "txtlength": 22834
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kulfold/2022/04/15/az-orosz-ukran-haboru-51-napja-percrol-percre-aprilis-15",
+        "h1": "Mariupolban háborús bűnök eltűntetése miatt áshatják ki a holttesteket az oroszok, Kijeven torolnák meg az orosz területek elleni támadásokat",
+        "txtlength": 18474
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/penzcsinalok/2022/04/15/munkaberek-berterkep-fizetesek-romania-magyarorszag-minimalber-median-ber",
+        "h1": "Kolozs megye már a nyugat-magyarországi megyéket is lehagyta nettó átlagbérben",
+        "txtlength": 17399
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kultura/2022/04/15/rahaf-mohammed-a-lazado-konyvkritika/",
+        "h1": "Filmbe illő szökés az országból, ahol a nők elleni erőszak nemzeti sport",
+        "txtlength": 16500
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/sport/forma-1/2022/04/14/szezonkezdes-ferrari-charles-leclerc/",
+        "h1": "Kért egy gyorsabb kocsit, megkapta, tönkre is veri vele a Forma-1-es mezőnyt",
+        "txtlength": 15624
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kulfold/2022/04/14/nancy-brophy-gyilkossagi-ugy-az-irono-es-a-megolt-ferj",
+        "h1": "A férjgyilkosság módszertanáról értekezett a ponyvaírónő, most a vádlottak padján ül a férje meggyilkolásáért",
+        "txtlength": 14637
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20220415_A_valasztas_legnagyobb_vesztesei",
+        "h1": "Íme a választás legnagyobb vesztesei, akik még a vigaszághoz is kevesek voltak",
+        "txtlength": 14426
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/gazdasag/20220415_sanghaj_covid",
+        "h1": "Már rég nem a Covid a legnagyobb ellenség a 25 milliós lezárt Sanghajban",
+        "txtlength": 14247
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/vilag/20220414_Moszkva_cserbenhagyja_az_ukran_politika_sotet_herceget",
+        "h1": "Lehet, hogy Moszkva cserben hagyja az ukrán politika sötét hercegét",
+        "txtlength": 13779
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/04/15/a-moodys-szerint-csodbe-mehet-oroszorszag",
+        "h1": "A Moody's szerint csődbe mehet Oroszország",
+        "txtlength": 12153
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/04/15/osszecsapasok-tortek-ki-az-al-aksza-mecsetnel-jeruzsalemben-a-palesztinok-es-az-izraeli-biztonsagi-erok-kozott",
+        "h1": "Összecsapások törtek ki az Al-Aksza mecsetnél Jeruzsálemben a palesztinok és az izraeli biztonsági erők között",
+        "txtlength": 11959
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/sztarvilag/kultura/mcdonalds-meki-evfordulo-magyaroroszag-gyorsetterem-burger/dmvvs6t?sl_ps=d_10",
+        "h1": "Hamburger akkor és most: 67 éve, hogy a McDonald's elindult világhódító útján – A legszebb Meki Budapesten van, azt tudta?",
+        "txtlength": 9918
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/kulfold/magyarok-ukrajna/0hmxq5s?sl_ps=d_1",
+        "h1": "Így látják a magyarokat Kijevben - meneküléséről és a megítélésünkről is mesélt az ukrán fővárosban élő kárpátaljai magyar, Tompa Tibor",
+        "txtlength": 8978
+    },
+    {
+        "hostname": "nosalty.hu",
         "pagelink": "https://www.nosalty.hu/recept/franciasalata",
         "h1": "Franciasaláta",
         "txtlength": 17122
