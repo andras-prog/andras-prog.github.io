@@ -1,6 +1,186 @@
 [
     {
         "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/kinai-szezammagos-csirke",
+        "h1": "Kínai szezámmagos csirke",
+        "txtlength": 14558
+    },
+    {
+        "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/foszlos-kalacs-husveti-sonkahoz",
+        "h1": "Foszlós kalács húsvéti sonkához",
+        "txtlength": 13920
+    },
+    {
+        "hostname": "kiszamolo.hu",
+        "pagelink": "https://kiszamolo.hu/tag/portfolioblogger/",
+        "h1": "Címke: portfolioblogger",
+        "txtlength": 38415
+    },
+    {
+        "hostname": "efesasanisimasa.com",
+        "pagelink": "https://efesasanisimasa.com/2022/04/04/a-tettes-the-sinner-tv-series-2017-2021/",
+        "h1": "A tettes (The Sinner, TV-Series, 2017-2021)",
+        "txtlength": 9687
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220414_valasztas_orban_viktor_bencsik_janos_polgari_valasz",
+        "h1": "„Jakab Péter megágyazott a kétharmadnak” – Bencsik János a Mandinernek",
+        "txtlength": 31316
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220413_krisztus_a_haboru_poklaban_is_feltamad",
+        "h1": "Krisztus a háború poklában is feltámad! – Kocsis Fülöp görögkatolikus érsek-metropolita a Mandinernek",
+        "txtlength": 26081
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/otthon/20220412/nyaralot-fillerekert-a-balatonnal-nincs-jo-hirunk-itt-a-legolcsobb-toparti-telepulesek-listaja-1123867",
+        "h1": "Nyaralót fillérekért a Balatonnál? Nincs jó hírünk, itt a legolcsóbb tóparti települések listája",
+        "txtlength": 25416
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220413_lattmann_tamas_valasztas_jobbik_karacsony_gergely",
+        "h1": "Plusz szavazót nem hozott a Jobbik, csak sok plusz problémát – Lattmann Tamás a Mandinernek",
+        "txtlength": 22855
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20220415/elhozta-a-pandemia-a-digitalis-kanaant-539095",
+        "h1": "Elhozta a pandémia a digitális Kánaánt?",
+        "txtlength": 17253
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/karrier/20220414/ez-kemeny-ennyit-keres-egy-foodpandas-etelfutar-2022-tavaszan-budapesten-1123979",
+        "h1": "Ez kemény: ennyit keres egy FoodPandás ételfutár 2022 tavaszán Budapesten",
+        "txtlength": 17125
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/podcast/20220416/mit-latunk-a-tortenelembol-ha-a-magyar-cseppen-keresztul-nezzuk-a-vilag-tengeret/",
+        "h1": "Mit látunk a történelemből, ha a magyar cseppen keresztül nézzük a világ tengerét?",
+        "txtlength": 17085
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/uzlet/20220415/latvanyos-abrakon-a-klimaharc-meg-nem-keso-cselekedni-538969",
+        "h1": "Látványos ábrákon a klímaharc: még nem késő cselekedni",
+        "txtlength": 16610
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/adat/20220408/egyetlen-tenyezo-befolyasolja-igazan-hogy-hol-mennyien-szavaztak-a-fideszre/",
+        "h1": "Egyetlen tényező befolyásolja igazán, hogy hol mennyien szavaztak a Fideszre",
+        "txtlength": 16381
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/global/20220416/robbanasok-tortentek-kijevnel-es-lvivnel-husvetkor-is-dul-a-haboru-a-szomszedunkban-539775",
+        "h1": "Robbanások történtek Kijevnél és Lvivnél, Húsvétkor is dúl a háború a szomszédunkban ",
+        "txtlength": 16015
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2022/04/16/ki-a-legnagyobb-kiraly-a-4-helyen-szent-laszlo",
+        "h1": "KI A LEGNAGYOBB KIRÁLY? A 4. HELYEN: SZENT LÁSZLÓ",
+        "txtlength": 14324
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/lajfhekk/takaritas-kornyezettudatossag-zold/",
+        "h1": "zöld takarítás környezettudatosság",
+        "txtlength": 12182
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/husvet/husvet-szentfoldon/",
+        "h1": "Így telik a húsvét ma a Szentföldön: a töviskorona ihlette a hagyományos ünnepi süteményüket",
+        "txtlength": 10757
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kulfold/2022/04/15/orosz-ukran-haboru-donbasz-haboru-csata-ukrajna-oroszorszag-tulelok-beszamolo-interju/",
+        "h1": "„Bucsa után nincs félnivalónk. Csak a tömény gyűlölet maradt, és a tudat, hogy az oroszok velünk is ugyanezt fogják tenni, ha lehetőségük lesz rá”",
+        "txtlength": 24148
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kulfold/2022/04/15/orosz-ukran-haboru-donbasz-csata-mariupol-dvornyikov-racz-andras",
+        "h1": "Minél hamarabb, minél látványosabb győzelmet akarnak elérni az oroszok a Donbaszban",
+        "txtlength": 22962
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kultura/2022/04/15/forsyte-saga-sorozat-csaladregeny-john-galsworthy-bbc-soames-irene/",
+        "h1": "Még a miséket és a focimeccseket is halasztani kellett a korszakalkotó kosztümös szappanopera miatt",
+        "txtlength": 19330
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/gazdasag/2022/04/15/ha-nem-jon-az-orosz-olaj-es-dizel-magyarorszagon-csak-6-10-honapig-lesz-uzemanyag",
+        "h1": "Ha nem jön az orosz olaj, csak 6-10 hónapig lesz üzemanyagunk. De ha jön, akkor is van gond",
+        "txtlength": 18297
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kulfold/2022/04/16/az-orosz-ukran-haboru-52-napja-percrol-percre-aprilis-16",
+        "h1": "Az orosz védelmi minisztérium szerint egy kijevi hadiüzemet ért találat szombat reggel",
+        "txtlength": 17316
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/tudomany/2022/04/16/tatarjaras-strategis-szokoar-korvadaszat-kozepkor-tortenelem/",
+        "h1": "A világ urával kerültek szembe a magyarok",
+        "txtlength": 16067
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/04/16/hetvegi-olvasnivalok-a-kozmedia-furcsa-napjaitol-putyin-titokzatos-csaladtagjaiig",
+        "h1": "Hétvégi olvasnivalók a közmédia furcsa napjaitól Putyin titokzatos családtagjaiig",
+        "txtlength": 11985
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/04/15/musk-maga-sem-biztos-benne-hogy-meg-tudja-venni-a-twittert",
+        "h1": "Musk maga sem biztos benne, hogy meg tudja venni a Twittert",
+        "txtlength": 11406
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/pinter-gyula-gyilkossag-eltunes-rejtely/2p864cf?sl_ps=d_12",
+        "h1": "Vádat emeltek az eltüntetett Pintér Gyula ismerőse ellen: újabb részleteket tudtunk meg a rejtélyes gyilkosságról",
+        "txtlength": 8968
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/ujpest-szellemhaz-lakotelep-kisertetek/v1te79r",
+        "h1": "A mai napig kísértenek az újpesti szellemház alá temetett lelkek",
+        "txtlength": 8538
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20220415_civilek_ervenytelen_nepszavazas_nvb_kuria",
+        "h1": "Reagáltak az érvénytelen szavazásra buzdító civilek a Kúria döntésére",
+        "txtlength": 8121
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/tudomany/20220416_surgossegiinfo_weboldal_orvosi_tudnivalok_segitseg_surgossegi_ellatas_elsosegely",
+        "h1": "Melyik ügyeletre kell menni? Melyik gyógyszertár van most nyitva? Elindult a surgossegi.info",
+        "txtlength": 7994
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/vilag/20220415_ukrajna_orosz_hadsereg_bucsa_civil_holttestek",
+        "h1": "Már több mint 900 civil holttestét találták meg az oroszok által feladott területeken",
+        "txtlength": 7488
+    },
+    {
+        "hostname": "nosalty.hu",
         "pagelink": "https://www.nosalty.hu/recept/hagyomanyos-zserbo-viciko-konyhajabol",
         "h1": "Hagyományos zserbó Vicikó konyhájából",
         "txtlength": 18665
