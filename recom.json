@@ -1,6 +1,186 @@
 [
     {
         "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/bableves-fustolt-csulokkel",
+        "h1": "Bableves füstölt csülökkel",
+        "txtlength": 12329
+    },
+    {
+        "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/husveti-sonka-ahogy-dedmamam-keszitette",
+        "h1": "Húsvéti sonka, ahogy dédmamám készítette",
+        "txtlength": 10805
+    },
+    {
+        "hostname": "hataratkelo.blog.hu",
+        "pagelink": "https://hataratkelo.blog.hu/2022/04/09/tippek_nemetorszagi_allaskereseshez#c41353167",
+        "h1": "Tippek németországi álláskereséshez",
+        "txtlength": 53827
+    },
+    {
+        "hostname": "kulturpart.hu",
+        "pagelink": "https://kulturpart.hu/2022/04/14/jon_a_budapest_tancfesztival",
+        "h1": "JÖN A BUDAPEST TÁNCFESZTIVÁL!",
+        "txtlength": 6566
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220406_macskafogo_interju_ternovszky_bela",
+        "h1": "Most milyen boldog lenne az édesanyám! – Ternovszky Béla a Mandinernek",
+        "txtlength": 23512
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220416_jezus_garanciaja_az_egesz_szemelyiseg_helyreall_vegul",
+        "h1": "Jézus garanciája: az egész személyiség helyreáll végül",
+        "txtlength": 23207
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220316_megroppano_vilagrend_mi_varhato_a_haboru_utan",
+        "h1": "Megroppanó világrend – mi várható a háború után?",
+        "txtlength": 22467
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20220417/igy-lett-europa-rekordere-a-magyar-aremelkedes-539581",
+        "h1": "Így lett Európa rekordere a magyar áremelkedés",
+        "txtlength": 21476
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/hitel/20220414/sulyos-tizezreket-huzhatsz-le-a-bankodrol-ha-igy-vasarolsz-orulet-milyen-keves-magyar-el-vele-1123952",
+        "h1": "Súlyos tízezreket húzhatsz le a bankodról, ha így vásárolsz: őrület, milyen kevés magyar él vele",
+        "txtlength": 21107
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/utazas/20220416/tenyleg-lottek-az-olcso-csaladi-nyaralasnak-mar-nem-is-olyan-filleres-a-balatonon-kempingezni-1123762",
+        "h1": "Tényleg lőttek az olcsó családi nyaralásnak? Már nem is olyan filléres a Balatonon kempingezni",
+        "txtlength": 17856
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/global/20220417/a-kinai-allami-mediaban-az-ukrajnai-haborunak-egyetlen-felelose-van-amerika-539145",
+        "h1": "A kínai állami médiában az ukrajnai háborúnak egyetlen felelőse van: Amerika",
+        "txtlength": 17470
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/podcast/20220417/mar-az-ovodakban-frontalis-oktatassal-veszik-el-a-gyerekek-kedvet-a-termeszettudomanyoktol/",
+        "h1": "Már az óvodákban frontális oktatással veszik el a gyerekek kedvét a természettudományoktól",
+        "txtlength": 17174
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/kozelet/20220415/megosztjak-a-magyarokat-az-oroszorszag-elleni-szankciok/",
+        "h1": "Megosztják a magyarokat az Oroszország elleni szankciók",
+        "txtlength": 15851
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.penzcentrum.hu/auto/20220417/kiprobaltuk-a-legdurvabb-skodat-er-15-millional-is-tobbet-az-uj-octavia-rs-1123998",
+        "h1": "Kipróbáltuk a legdurvább Skodát: ér 15 milliónál is többet az új Octavia RS?",
+        "txtlength": 14621
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/kapcsolat/flortoles-trukkok/",
+        "h1": "Így lesz hatásos, mégis természetes a flörtölés - 6 trükk, amit érdemes bevetni a szakértők szerint",
+        "txtlength": 11729
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/szuloseg/testver-testveri-szeretet-vita/",
+        "h1": "testvér testvéri szeretet vita",
+        "txtlength": 10478
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2022/04/17/a-tavasz-sztarja-a-husveti-sonka-melto-parja-a-hazassagtorok-buntetese-a-csodalatos-retek",
+        "h1": "A TAVASZ SZTÁRJA, A HÚSVÉTI SONKA MÉLTÓ PÁRJA, A HÁZASSÁGTÖRŐK BÜNTETÉSE: A CSODÁLATOS RETEK",
+        "txtlength": 9087
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kulfold/2022/04/16/sorozatgyilkosok-szakerto-hazugsag-stephane-bourgoin-leleplezes/",
+        "h1": "A sorozatgyilkos-szakértő, akinek hazugságait a saját rajongói leplezték le",
+        "txtlength": 23276
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/tudomany/2022/04/16/amerika-oroszorszag-elso-masodik-vilaghaboru-hideghaboru-ukrajna-borhi-laszlo/",
+        "h1": "Ukrajna ugyanolyan túsz, mint amilyen Magyarország volt 1956-ban",
+        "txtlength": 22272
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kulfold/2022/04/17/az-oroszok-megadasra-szolitottak-fel-mariupol-vedoit-vasarnap-reggel-is-robbanasok-hallatszottak-kijevnel",
+        "h1": "Az oroszok megadásra szólították fel Mariupol védőit, a Kijevhez közeli Brovarit rakétacsapás érte",
+        "txtlength": 22213
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kulfold/2022/04/17/finnorszag-svedorszag-semlegesseg-nato-putyin-invazio-ukrajna-eu-oroszorszag",
+        "h1": "Több generációnyi semlegesség után Finnország és Svédország is a NATO kapujában Putyin ukrajnai háborúja miatt",
+        "txtlength": 18883
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kultura/2022/04/16/ismeretlen-budapest-bontas-csikago-garay-utca-36-betoro-embercsempesz-sagvari-nyomda-csukamajolaj-garazs/",
+        "h1": "Lebontják a pesti Csikágó betörő-költőt, bukott embercsempészt és rengeteg hamis tejfölt is látott bérházát",
+        "txtlength": 18309
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/valasztas-2022/2022/04/16/parlament-mandatumok-marki-zay-peter-dobrev-klara-karacsony-gergely-gal-kinga",
+        "h1": "A Párbeszéd és a Jobbik is magának szeretné Márki-Zay Péter mandátumát",
+        "txtlength": 15145
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/kultura/20220416_Gitta_konyve_Auschwitz_holokauszt_magyarorszagi_aldozatok_emleknapja",
+        "h1": "Auschwitzból is kivirágzik az élet – Gitta története",
+        "txtlength": 14144
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/04/16/ensz-serti-a-nemzetkozi-jogot-hogy-a-brit-kormany-ruandaba-kuldene-az-illegalis-hataratlepoket",
+        "h1": "ENSZ: Sérti a nemzetközi jogot, hogy a brit kormány Ruandába küldené az illegális határátlépőket",
+        "txtlength": 10344
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/04/17/ujabb-osszecsapasok-voltak-a-templom-hegyen",
+        "h1": "Újabb összecsapások voltak a Templom-hegyen",
+        "txtlength": 10279
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/koronavirus-valsag-bezart-ettermek/eylyhbk",
+        "h1": "Rajongtak értük a budapestiek, aztán beütött a Covid: ezeket az éttermeket terítette le a válság",
+        "txtlength": 10212
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/tudomany/20220416_huawei_felmeres_okoseszkozok_egeszsegugyi_informaciok",
+        "h1": "Tízből hat magyar orvoshoz fordul, ha baljós eredményt mutat az okosórája",
+        "txtlength": 9519
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/tudomany/20220415_raspberry_pi_hackerek_brute_force_tamadas",
+        "h1": "Fokozzák a biztonságot a pár ezer forintos számítógépeken",
+        "txtlength": 8277
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/krimi/bullterrier-kiskutya-nyugdijas-tamadas-kobanya-rendorseg-felelosseg/hm2m7y3",
+        "h1": "Széttépte a bullterrier a nyugdíjas asszony kiskutyáját, a támadó eb és a gazdája elsétáltak – Ki lesz a következő áldozat?",
+        "txtlength": 8187
+    },
+    {
+        "hostname": "nosalty.hu",
         "pagelink": "https://www.nosalty.hu/recept/kinai-szezammagos-csirke",
         "h1": "Kínai szezámmagos csirke",
         "txtlength": 14558
