@@ -1,6 +1,186 @@
 [
     {
         "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/fonott-kalacs",
+        "h1": "Fonott kalács",
+        "txtlength": 15004
+    },
+    {
+        "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/spenot-fozelek-egyszeruen",
+        "h1": "Spenót főzelék egyszerűen",
+        "txtlength": 11586
+    },
+    {
+        "hostname": "hataratkelo.blog.hu",
+        "pagelink": "https://hataratkelo.blog.hu/2022/04/09/tippek_nemetorszagi_allaskereseshez",
+        "h1": "Tippek németországi álláskereséshez",
+        "txtlength": 53814
+    },
+    {
+        "hostname": "kulturpart.hu",
+        "pagelink": "https://kulturpart.blog.hu/2022/04/12/nyerj_jegyet_az_oroknyar_c_eloadasra",
+        "h1": "NYERJ JEGYET AZ ÖRÖKNYÁR C. ELŐADÁSRA!",
+        "txtlength": 4599
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220316_ami_allando_a_magyar_videk_es_benne_az_ember_bukta_imre_a_mandinernek",
+        "h1": "Ami állandó: a magyar vidék és benne az ember – Bukta Imre a Mandinernek",
+        "txtlength": 28672
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/global/20220417/ha-aggodsz-a-vilag-sorsa-miatt-akkor-ennek-az-embernek-a-konyveit-erdemes-olvasnod-539431",
+        "h1": "Ha aggódsz a világ sorsa miatt, akkor ennek az embernek a könyveit érdemes olvasnod",
+        "txtlength": 25473
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vilag/20220418/a-vilagrend-egyik-alapveto-normaja-is-megdolhet-ukrajnaban/",
+        "h1": "A világrend egyik alapvető normája is megdőlhet Ukrajnában",
+        "txtlength": 20606
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/vasarlas/20220417/elkerulhetetlen-dragulas-eri-el-a-magyarok-egyik-kedvenc-ajandekat-is-vege-a-nagy-olcsosagnak-1123886",
+        "h1": "Elkerülhetetlen drágulás éri el a magyarok egyik kedvenc ajándékát is: vége a nagy olcsóságnak",
+        "txtlength": 19974
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vilag/20220417/en-biztonsagban-vagyok-de-a-barataimon-es-a-csaladtagjaimon-segitenem-kell/",
+        "h1": "„Én biztonságban vagyok, de a barátaimon és a családtagjaimon segítenem kell”",
+        "txtlength": 19634
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.penzcentrum.hu/megtakaritas/20220418/oriasi-veszely-leselkedik-a-magyarok-megtakaritasaira-igy-biztositsd-be-magad-ellene-1124012",
+        "h1": "Óriasi veszély leselkedik a magyarok megtakarításaira: így biztosítsd be magad ellene",
+        "txtlength": 18456
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/megtakaritas/20220418/oriasi-veszely-leselkedik-a-magyarok-megtakaritasaira-igy-biztositsd-be-magad-ellene-1124012",
+        "h1": "Óriasi veszély leselkedik a magyarok megtakarításaira: így biztosítsd be magad ellene",
+        "txtlength": 18216
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220406_rend_helyreallitas_tarca",
+        "h1": "A rend helyreállítása",
+        "txtlength": 17548
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220418_alapjogokert_kozpont_belfold_gyurcsany_ferenc_ellenzek",
+        "h1": "Alapjogokért Központ: Gyurcsány lehet az ellenzék jövőbeni stratégiájának alakítója",
+        "txtlength": 17041
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20220417/nincs-vege-az-eszeveszett-dragulasnak-raketakent-lonek-ki-az-arak-a-haboru-miatt-539555",
+        "h1": "Nincs vége az eszeveszett drágulásnak - Rakétaként lőnek ki az árak a háború miatt",
+        "txtlength": 14578
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/gyerek/csontok-erositese-gyerekkorban/",
+        "h1": "5 tipp, amivel támogathatod a gyermek egészséges csontfejlődését: segítenek a felnőttkori csontritkulás megelőzésében",
+        "txtlength": 11478
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/szuloseg/nyari-tabor-draga/",
+        "h1": "nyári tábor drága",
+        "txtlength": 10283
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2022/04/18/a-nyul-aki-egy-szep-napon-utnak-indult-es-tobb-szaz-kilometeren-at-ment-mendegelt-mig-a-hazen-tohoz-nem-ert",
+        "h1": "A NYÚL, AKI EGY SZÉP NAPON ÚTNAK INDULT, ÉS TÖBB SZÁZ KILOMÉTEREN ÁT MENT, MENDEGÉLT, MÍG A HAZEN-TÓHOZ NEM ÉRT",
+        "txtlength": 9451
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2022/04/18/via-carpatia-ziemont-szczerek-csavargasok-magyarorszagon-orba-gyurcsany-matine-konyvajanlo/",
+        "h1": "A csavargó lengyel még egy miniszterelnökhöz is bejutott Budapesten, aztán könyvet írt a magyar politikáról",
+        "txtlength": 24574
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2022/04/18/szabadsagot-ad-a-raboknak-magyarorszag-egyetlen-bortonujsagja/",
+        "h1": "Szabadságot ad a raboknak Magyarország egyetlen börtönújságja",
+        "txtlength": 23896
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/belfold/2022/04/18/budapesti-parkolas-egymas-hegyen-hatan-de-mi-lehet-a-megoldas-es-hogyan-csinaljak-nyugat-europaban",
+        "h1": "Egyre égetőbb a parkolóhelyhiány, és úgy tűnik, csak az autómentes életmód hozhat enyhülést",
+        "txtlength": 22756
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kultura/2022/04/18/dinoszaurusz-a-nappaliban-mattik-dora-konyv-alkoholizmus-interju/",
+        "h1": "Ha egy értelmiségi mértéktelenül iszik, az ugyanúgy alkoholizmus, mint amikor a hajléktalan teszi ezt az aluljáróban",
+        "txtlength": 20766
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kulfold/2022/04/18/orosz-ukran-haboru-percrol-percre-54-nap",
+        "h1": "Rakétatámadás érte Lvivet, heten meghaltak, a kelet-ukrajnai Kreminnában utcai harcok folynak",
+        "txtlength": 19772
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/eurologus/20220417_No_a_szakadek_Orban_szelsojobboldali_szovetsegeben",
+        "h1": "Nő a szakadék az Orbán által megálmodott szélsőjobboldali szövetségen belül",
+        "txtlength": 16131
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/vilag/20220418_Az_oroszok_elfoglalhatjak_egesz_Donyecmedencet__hirek_a_haborurol_percrol_percre",
+        "h1": "Az oroszok elfoglalhatják egész Donyec-medencét - hírek a háborúról percről percre",
+        "txtlength": 13458
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/vilag/20220417_Bucsa_riport_dw",
+        "h1": "A város, ahol mindenki attól retteg, hogy az ő rokona kerül elő valamelyik tömegsírból",
+        "txtlength": 12783
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/eszkombajn/2022/04/17/f1-forma-1-elveszett-gyemant-baleset-jaguar-monacoi-nagydij",
+        "h1": "A leghülyébb F1-baleset, amiben sikerült elhagyni egy 250 ezer dolláros gyémántot",
+        "txtlength": 11706
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/04/17/eszak-korea-ket-ujabb-iranyitott-raketat-lott-ki-a-japan-tengerre",
+        "h1": "Észak-Korea két újabb irányított rakétát lőtt ki a Japán-tengerre",
+        "txtlength": 10518
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/04/16/raketabemutato-nelkul-zajlott-le-eszak-korea-legfontosabb-unnepe",
+        "h1": "Rakétabemutató nélkül zajlott le Észak-Korea legfontosabb ünnepe",
+        "txtlength": 10416
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/paul-a-jospolip-dolly-klonozott-juh/8w1mhpf?sl_ps=d_9",
+        "h1": "Dolly, Knut és Paul: íme, a világon valaha élt legnagyobb állati celebek",
+        "txtlength": 10199
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/krimi/regi-bunugyek-idosek-atverese-nyomozas-ujjlenyomat-szagminta/zre1mnx",
+        "h1": "A munkásruhában kopogtató férfiak többmilliós átverése Budapesten",
+        "txtlength": 8516
+    },
+    {
+        "hostname": "nosalty.hu",
         "pagelink": "https://www.nosalty.hu/recept/bableves-fustolt-csulokkel",
         "h1": "Bableves füstölt csülökkel",
         "txtlength": 12329
