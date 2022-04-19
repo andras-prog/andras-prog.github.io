@@ -1,5 +1,173 @@
 [
     {
+        "hostname": "kiszamolo.hu",
+        "pagelink": "https://kiszamolo.hu/mikor-valtsd-ki-a-hiteledet/",
+        "h1": "Mikor váltsd ki a hiteledet?",
+        "txtlength": 38146
+    },
+    {
+        "hostname": "kulturpart.hu",
+        "pagelink": "https://kulturpart.hu/2022/04/12/nyerj_jegyet_az_oroknyar_c_eloadasra",
+        "h1": "NYERJ JEGYET AZ ÖRÖKNYÁR C. ELŐADÁSRA!",
+        "txtlength": 4591
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vilag/20220418/leszerepeltek-az-orosz-elitegysegek-ukrajnaban-de-hamarosan-javithatnak/",
+        "h1": "Leszerepeltek az orosz elitegységek Ukrajnában, de hamarosan javíthatnak",
+        "txtlength": 27342
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/global/20220418/vlagyimir-putyin-haborus-huzasa-a-nato-karjaiba-loki-finnorszagot-539737",
+        "h1": "Vlagyimir Putyin háborús húzása a NATO karjaiba löki Finnországot",
+        "txtlength": 21056
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/uzlet/20220418/rendszeresen-talalnak-magyarorszagon-uj-foldgazmezoket-igy-csokkenhet-az-importfuggosegunk-539767",
+        "h1": "Rendszeresen találnak Magyarországon új földgázmezőket - Így csökkenhet az importfüggőségünk?",
+        "txtlength": 21054
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220418_sved_rendorok_menekultek_a_migransok_elol_majd_rajuk_lottek",
+        "h1": "Megkergették a svéd rendőröket a migránsok, figyelmeztető lövéseket kellett leadni",
+        "txtlength": 19715
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/vasarlas/20220418/errol-a-legtobb-magyar-megfeledkezik-az-unnepek-alatt-sulyos-tizezrek-is-landolhatnak-a-kukaban-1124019",
+        "h1": "Erről a legtöbb magyar megfeledkezik az ünnepek alatt: súlyos tízezrek is landolhatnak a kukában",
+        "txtlength": 19305
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220413_mi_tortent_az_agglomeracioban",
+        "h1": "Mi történt az agglomerációban?",
+        "txtlength": 18767
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220419_az_azov_ezred_es_moral_szerepe_haboru_kozelrol",
+        "h1": "Az Azov ezred és a morál szerepe – Háború, közelről",
+        "txtlength": 18336
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/kozelet/20220419/felmillional-tobb-lejart-okmanyt-kell-lecserelni-de-idopontot-mar-alig-lehet-foglalni-budapesten/",
+        "h1": "Félmilliónál több lejárt okmányt kell lecserélni, de időpontot már alig lehet foglalni Budapesten",
+        "txtlength": 17900
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2022/04/19/a-fidesz-ugy-nyeri-meg-a-futoversenyt-hogy-a-tobbiek-labat-osszekoti-majd-befut-a-celba-es-kozli-hogy-gyozott",
+        "h1": "A FIDESZ ÚGY NYERI MEG A FUTÓVERSENYT, HOGY A TÖBBIEK LÁBÁT ÖSSZEKÖTI, MAJD BEFUT A CÉLBA, ÉS KÖZLI, HOGY GYŐZÖTT",
+        "txtlength": 17557
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/otthon/20220419/minden-kezdet-nehez-lakasvasarlas-alacsonyabb-onerovel-europaban-1123989",
+        "h1": "Minden kezdet nehéz? Lakásvásárlás alacsonyabb önerővel Európában",
+        "txtlength": 16911
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/ezo/ellopott-felfedezesek/",
+        "h1": "Ki találta fel valójában a villanykörtét? Edison és társai, akik más találmányaival arattak babérokat",
+        "txtlength": 16667
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/uzlet/20220419/rossz-a-hangulat-a-tozsdeken-esnek-a-vezeto-indexek-539967",
+        "h1": "Rossz a hangulat a tőzsdéken, esnek a vezető indexek ",
+        "txtlength": 16375
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/szuloseg/konyvajanlo-apam-orias-lesz/",
+        "h1": "könyvajánló Apám óriás lesz",
+        "txtlength": 14762
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2022/04/19/jaksity-gyorgy-interju-orosz-ukran-haboru-inflacio-rezsicsokkentes-valsag-eu-politika-orban-kormany/",
+        "h1": "Jaksity György: Nem az a fő kérdés, hogy mennyibe kerül egy kilowattóra áram, hanem az, hogy milyen világban élnek majd a gyermekeink",
+        "txtlength": 40406
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/belfold/2022/04/18/dns-genetika-es-bunugyi-nyomozas-itelet-magyarorszagon",
+        "h1": "Mi a baj a CSI-hatással, és ki volt a heilbronni fantom?",
+        "txtlength": 28937
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/fn/gazdasag/2022/04/18/orosz-energiafuggoseg-foldgaz-koolaj-magyarorszag-legkiszolgaltatottabb-allam/",
+        "h1": "Orosz energiafüggőség: mit tehet Magyarország, az EU egyik legkiszolgáltatottabb állama?",
+        "txtlength": 26874
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kulfold/2022/04/18/sanghaj-covid-koronavirus-lezaras-karanten-vesztegzar-zero-kina-kkp-hszi-csin-ping",
+        "h1": "Sanghajban összecsap az omikron a zéró-Coviddal, és ez az európai inflációra is hatással lehet",
+        "txtlength": 26710
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kulfold/2022/04/19/orosz-ukran-haboru-percrol-percre-55-nap",
+        "h1": "Elkezdődött a mariupoli acélgyár ostroma, állítják a szakadárok, az ukránok szerint új szakaszba lépett a háború",
+        "txtlength": 22815
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/fn/gazdasag/2022/04/19/europai-unio-tamogatas-magyarorszag/",
+        "h1": "Mennyi uniós támogatást bukhat el Magyarország?",
+        "txtlength": 20765
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/04/18/megkezdodott-a-dobaszi-csata-az-orosz-offenziva-ujabb-szakasza",
+        "h1": "Megkezdődött a donbaszi csata, az orosz offenzíva újabb szakasza",
+        "txtlength": 11630
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/04/19/japanban-olyan-evopalcikat-talaltak-fel-amivel-sosabbnak-tunnek-az-etelek",
+        "h1": "Japánban olyan evőpálcikát találtak fel, amivel sósabbnak tűnnek az ételek",
+        "txtlength": 11042
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/politika/antall-jozsef-orban-viktor-thalia-szinhaz-fecske-david-szabo-sipos-barnabas/7lf0xe7?sl_ps=d_6",
+        "h1": "A Jóban Rosszban színésze alakítja a kormányfőt: a családja nem értette, miért játssza el Orbán Viktort",
+        "txtlength": 9264
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://eduline.hu/kozoktatas/20220419_iskolakezdes_dragulas",
+        "h1": "Egyre jobban emelkedik a papír ára, ezért idén a tanszerek is 15-50 százalékkal drágulnak",
+        "txtlength": 9151
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/vilag/20220419_moszkva_hadihajo_raketatalalat",
+        "h1": "Mire utalnak a sérült Moszkva hadihajóról nyilvánosságra került felvételek?",
+        "txtlength": 8496
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/kulfold/azovsztal-acelmu-ostrom-mariupol-ukrajna/qdvwmfg?sl_ps=d_1",
+        "h1": "Végjáték? Elkezdődött az Azovsztal acélmű ostroma, lejárt a fegyverletételre adott határidő, rohamegységek hatoltak be",
+        "txtlength": 8464
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/tudomany/20220419_orosz_ukran_haboru_airpods_lopas_orosz_csapatmozgas",
+        "h1": "Ellopott egy AirPodsot egy orosz katona, lekövette az orosz csapatmozgást az ukrán tulajdonosa",
+        "txtlength": 8296
+    },
+    {
         "hostname": "nosalty.hu",
         "pagelink": "https://www.nosalty.hu/recept/fonott-kalacs",
         "h1": "Fonott kalács",
