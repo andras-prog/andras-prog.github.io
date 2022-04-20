@@ -1,6 +1,174 @@
 [
     {
         "hostname": "kiszamolo.hu",
+        "pagelink": "https://kiszamolo.hu/legolcsobb-lakasbiztositas-lakasbiztositas-20-kedvezmennyel/",
+        "h1": "Legolcsóbb lakásbiztosítás? Lakásbiztosítás 20% kedvezménnyel",
+        "txtlength": 30050
+    },
+    {
+        "hostname": "efesasanisimasa.com",
+        "pagelink": "https://efesasanisimasa.com/2022/04/05/vilagot-latok-please-stand-by-2017/",
+        "h1": "Világot látok (Please Stand By, 2017)",
+        "txtlength": 8228
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220413_a_mi_eronk_a_hazaszeretet",
+        "h1": "A mi erőnk a hazaszeretet – Varga Judit igazságügyi miniszter a Mandinernek",
+        "txtlength": 33190
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vilag/20220420/europanak-hiaba-vizvalaszto-az-ukrajnai-haboru-a-vilag-nagy-resze-tavol-tartja-magat-tole/",
+        "h1": "Európának hiába vízválasztó az ukrajnai háború, a világ nagy része távol tartja magát tőle",
+        "txtlength": 25861
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20220420/veget-ert-a-paratlan-kinai-sikersztori-de-a-bukas-elott-meg-rugnak-egy-nagyot-a-vilagba-540153",
+        "h1": "Véget ért a páratlan kínai sikersztori, de a bukás előtt még rúgnak egy nagyot a világba",
+        "txtlength": 25461
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220419_felelosseg_ellenzek_mzp_gyurcsany_jakab_parlament",
+        "h1": "Szópárbajok és káosz – a felelősség után pozíciókon is veszekednek az ellenzéki pártok",
+        "txtlength": 22517
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220413_remekeltek_birkozoink",
+        "h1": "Remekeltek birkózóink",
+        "txtlength": 22068
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/vasarlas/20220418/potom-aron-vehetsz-luxus-ruhamarkakat-ezekben-az-uzletekben-rengeteg-magyar-vasarol-itt-1123827",
+        "h1": "Potom áron vehetsz luxus ruhamárkákat ezekben az üzletekben: rengeteg magyar vásárol itt",
+        "txtlength": 21551
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20220420/a-fenntarthato-versenykepesseg-feltetelei-magyarorszagon-540015",
+        "h1": "A fenntartható versenyképesség feltételei Magyarországon",
+        "txtlength": 20404
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/kozelet/20220419/felul-kell-vizsgalni-a-magyar-rendszert-az-europai-ugyeszseghez-csatlakozas-lesz-a-lakmuszpapir/",
+        "h1": "Felül kell vizsgálni a magyar rendszert, az Európai Ügyészséghez csatlakozás lesz a lakmuszpapír",
+        "txtlength": 19964
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/biztositas/20220420/lassan-meghalni-is-luxus-magyarorszagon-40-szazalekkal-dragult-a-koporsos-temetes-hamvasztas-1124100",
+        "h1": "Lassan meghalni is luxus Magyarországon: 40 százalékkal drágult a koporsós temetés, hamvasztás",
+        "txtlength": 19184
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/uzlet/20220420/egyre-jobb-a-hangulat-a-tozsdeken-a-gyorsjelentesekre-figyelnek-a-befektetok-540167",
+        "h1": "Egyre jobb a hangulat a tőzsdéken, a gyorsjelentésekre figyelnek a befektetők ",
+        "txtlength": 17844
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/szepseg/okori-gorogorszag-szepsegideal/",
+        "h1": "Így szépítkeztek a nők az ókori Görögországban: sok praktikájuk még ma is megállja a helyét",
+        "txtlength": 11947
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/szuloseg/hajeves-rapunzel-szindroma/",
+        "h1": "hajevés veszélyes rapunzel szindróma",
+        "txtlength": 10040
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2022/04/19/mereteben-es-tartalmaban-is-lenyugozo-a-hazai-ragadozo-madarakat-bemutato-uj-enciklopedia",
+        "h1": "MÉRETÉBEN ÉS TARTALMÁBAN IS LENYŰGÖZŐ A HAZAI RAGADOZÓ MADARAKAT BEMUTATÓ ÚJ ENCIKLOPÉDIA",
+        "txtlength": 9812
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2022/04/20/mako-csatater-romak-valasztas-riport/",
+        "h1": "„Látszik, ugye, hogy miért szavazunk a Fideszre?! Mert ez az első párt, amelyik nyitottságot mutat a makói cigányság iránt. Szépen itt is ragadtunk mellette”",
+        "txtlength": 29019
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kulfold/2022/04/20/orosz-ukran-haboru-ukrajna-oroszorszag-elo-kozvetites-aprilis-20/",
+        "h1": "Mariupol újabb ultimátumot kapott, 6000 embert akarnak kimenekíteni a városból",
+        "txtlength": 18353
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kulfold/2022/04/20/orosz-ukran-haboru-percrol-percre-szerda-56-nap",
+        "h1": "Videóüzenetben kértek kimenekítést a mariupoli acélgyár védői, a városnál humanitárius folyosó nyílik",
+        "txtlength": 18253
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/kultura/20220420_Osvath_Zsolt_zshow_time_interju_ellenzeki_vereseg_fidesz_ketharmad_valasztasok_2022",
+        "h1": "Osváth Zsolt: Tartok a megtorlástól és attól, hogy mi jön most",
+        "txtlength": 16647
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/belfold/2022/04/20/mi-hazank-fidesz-toroczkai-duro-orban-strategia-ellenzek-bekes-egyet-nem-ertes",
+        "h1": "Orbán álmának beteljesítésében is segíthet a Mi Hazánk, de politikai leszámolás is lehet belőle",
+        "txtlength": 15427
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/04/20/a-volt-elnok-unokaoccse-angol-sztarcsapatok-es-magyar-szal-is-akad-montenegro-legnagyobb-online-fogadasi-botranyaban",
+        "h1": "A volt elnök unokaöccse, angol sztárcsapatok és magyar szál is akad Montenegró legnagyobb online fogadási botrányában",
+        "txtlength": 15305
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kulfold/2022/04/20/eszak-korea-raketakiloves-ballisztikus-raketa-raketateszt-kiserlet-atom-nuklearis-fegyverkezes-kim-dzsongun",
+        "h1": "Az oroszok árnyékában Kim Dzsongun is újra elkezdett rakétázni, de mit akar ezzel?",
+        "txtlength": 15059
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/fn/gazdasag/2022/04/20/kamatstop-lakashitel-julius-nohet-torleszto/",
+        "h1": "30 százalékkal is megnőhet a kamatstopos lakáshitelek törlesztője júliustól",
+        "txtlength": 14477
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/04/20/osszeomlas-a-fold-nevu-bolygon",
+        "h1": "Összeomlás a Föld nevű bolygón",
+        "txtlength": 13402
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/sberbank-csod-vegelszamolas-kartalanitas-ugyfel-panasz/1ekrhgf?sl_ps=d_1",
+        "h1": "Elakadt a sberbankos kártalanítás kifizetése, gondban egy háromgyerekes család",
+        "txtlength": 9135
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20220420_freedom_house_jelentes",
+        "h1": "Orbán a választási győzelem után kiélheti illiberális és kleptokratikus hajlamait – kijött a Freedom House demokráciajelentése",
+        "txtlength": 8581
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/krimi/borkai-ugy-zsarolas-ugyeszseg/ytxc2z1?sl_ps=d_3",
+        "h1": "Breaking! Megvannak a Borkai-ügy zsarolói: ők készítették a jachton a kompromittáló felvételeket – Hat ember a vádlottak padján",
+        "txtlength": 8289
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20220420_ordog_ugyvedje_zsarolas_vademeles",
+        "h1": "Vádat emeltek a Borkai-videós zsarolási ügyben részt vevő emberek ellen",
+        "txtlength": 8019
+    },
+    {
+        "hostname": "kiszamolo.hu",
         "pagelink": "https://kiszamolo.hu/mikor-valtsd-ki-a-hiteledet/",
         "h1": "Mikor váltsd ki a hiteledet?",
         "txtlength": 38146
