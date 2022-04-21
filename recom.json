@@ -1,5 +1,173 @@
 [
     {
+        "hostname": "hataratkelo.blog.hu",
+        "pagelink": "https://hataratkelo.blog.hu/2022/04/12/fontos_kerdesek_hataratkeles_elott",
+        "h1": "Fontos kérdések határátkelés előtt",
+        "txtlength": 36078
+    },
+    {
+        "hostname": "kulturpart.hu",
+        "pagelink": "https://kulturpart.blog.hu/2022/04/20/nyerj_jegyet_a_budapest_tancfesztivalra",
+        "h1": "NYERJ JEGYET A BUDAPEST TÁNCFESZTIVÁLRA!",
+        "txtlength": 8201
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220420_wesselenyi_garay_andor_epiteszet_interju",
+        "h1": "„Próbáljuk meg a tereinket politikai állásfoglalás nélkül vizsgálni” – Wesselényi-Garay Andor a Mandinernek",
+        "txtlength": 34754
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/kozelet/20220421/negy-even-belul-harmadszor-buktak-nagyot-a-magyar-kozvelemeny-kutatok-de-miert/",
+        "h1": "Négy éven belül harmadszor buktak nagyot a magyar közvélemény-kutatók, de miért?",
+        "txtlength": 33224
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220420_az_ellenzeknek_nincs_vizioja_az_orszag_jovojerol",
+        "h1": "Az ellenzéknek nincs víziója az ország jövőjéről – Mérő László a Mandinernek",
+        "txtlength": 29041
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/otthon/20220419/drasztikus-rezsicsokkentes-a-lathataron-igy-fuggetlenedhet-minden-magyar-csalad-a-gaztol-1124020",
+        "h1": "Drasztikus rezsicsökkentés a láthatáron: így függetlenedhet minden magyar család a gáztól",
+        "txtlength": 26541
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220420_hitler_bojkott_szankcio_tortenelem",
+        "h1": "Így nem törték meg a bojkottok és szankciók Hitlert ",
+        "txtlength": 23113
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20220421/gulyas-gergely-nincs-dontes-meg-a-babavaro-hitelrol-de-ha-megy-jon-helyette-mas-540391",
+        "h1": "Gulyás Gergely: Nincs döntés még a babaváró hitelről, de ha megy, jön helyette más ",
+        "txtlength": 22590
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/uzlet/20220421/bejelent-a-kormany-mi-tortenik-a-magyar-tozsden-540369",
+        "h1": "Lezajlott a Kormányinfó, mi történik a magyar tőzsdén? ",
+        "txtlength": 22007
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/tech/20220420/sokat-kockaztat-kozep-europa-ha-nem-valt-idoben-elektromos-autok-gyartasara/",
+        "h1": "Sokat kockáztat Közép-Európa, ha nem vált időben elektromos autók gyártására",
+        "txtlength": 21305
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/utazas/20220421/elarulta-a-wizz-air-fejese-uj-jaratokat-inditanak-nyartol-magyarorszagrol-sok-utazo-orulhet-1123956",
+        "h1": "Elárulta a Wizz Air fejese: új járatokat indítanak nyártól Magyarországról, sok utazó örülhet",
+        "txtlength": 18123
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/uzlet/20220421/megint-olyat-villantott-a-tesla-amire-kevesen-szamitottak-540421",
+        "h1": "Megint olyat villantott a Tesla, amire kevesen számítottak",
+        "txtlength": 16138
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/szuloseg/gyerek-fejlodes-lassu/",
+        "h1": "gyerek fejlődés lassú",
+        "txtlength": 12333
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/szepseg/jean-harlow-elete/",
+        "h1": "Mindössze 26 évet élt Marilyn Monroe példaképe, a platinaszőke Jean Harlow: máig nem tisztázott halálának oka",
+        "txtlength": 12275
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2022/04/21/orban-viktorral-riogatja-az-elnokvalasztasra-keszulo-francia-tudosokat-a-nature",
+        "h1": "ORBÁN VIKTORRAL RIOGATJA AZ ELNÖKVÁLASZTÁSRA KÉSZÜLŐ FRANCIA TUDÓSOKAT A NATURE",
+        "txtlength": 10541
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/belfold/2022/04/21/a-valasztas-ota-eloszor-tartanak-kormanyinfot-a-telex-is-kerdezi-gulyas-gergelyt",
+        "h1": "Kormányinfó: az alaptörvény módosításával kiterjesztik a veszélyhelyzeti kormányzást, döntenek az élelmiszerárstopról",
+        "txtlength": 25196
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2022/04/21/navracsics-rig-tapolca-valasztas/",
+        "h1": "„Lefújták a meccset, nincs rossz viszony”",
+        "txtlength": 23059
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/politika/kormanyinfo-dontesek-gulyas-gergely/hfe8gq5?sl_ps=d_1",
+        "h1": "Kormányinfó: itt vannak a kormány első bejelentései a választás után – Megszűnik a veszélyhelyzet, de lehet helyette másik, eldől az árstopok sorsa is",
+        "txtlength": 19586
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kulfold/2022/04/21/orosz-ukran-haboru-elo-percrol-percre-aprilis-21/",
+        "h1": "Az oroszok blokád alá veszik az Azovstalt; Oroszországban beüthetett az államcsőd",
+        "txtlength": 17785
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kulfold/2022/04/21/orosz-ukran-haboru-percrol-percre-csutortok-57-nap",
+        "h1": "Az oroszok bejelentették, hogy nem támadják tovább a mariupoli acélgyárat, a várost pedig „felszabadították”",
+        "txtlength": 17600
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/belfold/2022/04/21/uj-szavatossagi-szabalyok-vedik-a-magyar-hasznaltauto-vasarlokat",
+        "h1": "Használtautó-vásárlás: nagy könnyítés a vevőknek, 12 hónapon át védi őket egy új szabály",
+        "txtlength": 16889
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2022/04/20/ott-repul-a-kismadar-szaz-ev-szarnyasfotoi/",
+        "h1": "Ott repül a kismadár! – Száz év szárnyasfotói",
+        "txtlength": 16301
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/vilag/20220421_orosz_ukran_haboru_mariupol_kijev_volodimir_zelenszkij_vlagyimir_putyin",
+        "h1": "Putyin elrendelte a mariupoli acélgyár ostromának leállítását, az orosz olajimport leállítására készül Németország – percről percre a háborúról",
+        "txtlength": 13693
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/04/21/ha-ez-nem-demokracia-akkor-minek-a-parlament",
+        "h1": "Ha ez nem demokrácia, akkor minek a parlament?",
+        "txtlength": 13056
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20220421_Evekkel_ezelott_egy_kibertamadas_miatt_kerult_kepbe_most_a_budapesti_oroszparti_tuntetes_hattereben_bukkant_fel",
+        "h1": "Évekkel ezelőtt egy kibertámadás miatt került képbe, most a budapesti oroszpárti tüntetés hátterében bukkant fel",
+        "txtlength": 12492
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/vilag/20220421_Washingtonban_is_tudjak_hogy_nem_tudjak_ellenorizni_az_Ukrajnaba_kuldott_fegyverek_sorsat",
+        "h1": "Washingtonban is tisztában vannak azzal, hogy nem tudják ellenőrizni az Ukrajnába küldött fegyverek sorsát",
+        "txtlength": 12479
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/04/21/vonatnak-utkozott-a-pizzafutar-1-100-000-forintjaba-kerulhet",
+        "h1": "Vonatnak ütközött a pizzafutár, 1 100 000 forintjába kerülhet",
+        "txtlength": 10632
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/krimi/borkai-ugy-zsarolas-ugyeszseg/ytxc2z1",
+        "h1": "Breaking! Megvannak a Borkai-ügy zsarolói: ők készítették a jachton a kompromittáló felvételeket – Hat ember a vádlottak padján",
+        "txtlength": 8235
+    },
+    {
         "hostname": "kiszamolo.hu",
         "pagelink": "https://kiszamolo.hu/legolcsobb-lakasbiztositas-lakasbiztositas-20-kedvezmennyel/",
         "h1": "Legolcsóbb lakásbiztosítás? Lakásbiztosítás 20% kedvezménnyel",
