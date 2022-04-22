@@ -1,5 +1,173 @@
 [
     {
+        "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/klasszikus-tojasos-nokedli",
+        "h1": "Klasszikus tojásos nokedli",
+        "txtlength": 9848
+    },
+    {
+        "hostname": "hataratkelo.blog.hu",
+        "pagelink": "https://hataratkelo.blog.hu/2022/04/21/amerikai_temetoben_vampirral#c41362807",
+        "h1": "Amerikai temetőben „vámpírral”",
+        "txtlength": 35682
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/kozelet/20220422/a-balkani-szint-fele-csuszik-a-magyar-iskolak-teljesitmenye/",
+        "h1": "A balkáni szint felé csúszik a magyar iskolák teljesítménye",
+        "txtlength": 34984
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220420_a_szigetkoz_oroksegenek_orzoje_timaffy_laszlo_emlekezete",
+        "h1": "A Szigetköz örökségének őrzője – Timaffy László emlékezete",
+        "txtlength": 20559
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220422_svedorszag_zavargas",
+        "h1": "Korán-égetésre durva zavargások: mi folyik Svédországban?",
+        "txtlength": 18873
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/gazdasag/20220417/hivatalos-akar-4-szazalekos-nyugdijemeles-is-johet-juniusban-nem-lassit-az-inflacio-heti-hirosszefoglalo-1124060",
+        "h1": "Hivatalos: akár 4 százalékos nyugdíjemelés is jöhet júniusban, nem lassít az infláció - Heti hírösszefoglaló",
+        "txtlength": 18240
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220421_gad_saad_konyv_mcc",
+        "h1": "Gad Saad Budapesten: A józan észért zajlik Nyugaton a háború",
+        "txtlength": 18091
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/global/20220422/az-ortodox-husvetra-sem-lesz-fegyvernyugvas-putyin-a-gyozelem-napjara-keszul-itt-vannak-a-legfontosabb-hirek-penteken-540629",
+        "h1": "Az ortodox húsvétra sem lesz fegyvernyugvás, Putyin a győzelem napjára készül – Itt vannak a legfontosabb hírek pénteken ",
+        "txtlength": 16825
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/gazdasag/20220420/sarokba-szorulhat-magyarorszag-ezert-fajna-annyira-hazanknak-ha-elapadna-az-orosz-gaz-1124134",
+        "h1": "Sarokba szorulhat Magyarország? Ezért fájna annyira hazánknak, ha elapadna az orosz gáz",
+        "txtlength": 16746
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vallalat/20220421/brutalisan-dragan-jon-az-orosz-gaz-magyarorszagra/",
+        "h1": "Brutálisan drágán jön az orosz gáz Magyarországra",
+        "txtlength": 15944
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/uzlet/20220422/lefordultak-a-tozsdek-a-fed-szigoru-uzenete-utan-540633",
+        "h1": "Lefordultak a tőzsdék a Fed szigorú üzenete után ",
+        "txtlength": 15739
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20220421/kiszivargott-az-unios-orosz-olajembargo-nehany-reszlete-ezert-puhult-a-magyar-kormany-allaspontja-540535",
+        "h1": "Kiszivárgott az uniós orosz olajembargó néhány részlete – Ezért puhult a magyar kormány álláspontja?",
+        "txtlength": 15271
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/szepseg/szennyezett-levego-karos-hatasa-borre/",
+        "h1": "Ráncokat, pigmentfoltokat okoz, és petyhüdtté teszi a bőrt - Így hat a szennyezett levegő az arcra a kozmetikus szerint",
+        "txtlength": 13481
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2022/04/22/ket-kulonleges-tarsasjatek-a-fold-napjara",
+        "h1": "KÉT KÜLÖNLEGES TÁRSASJÁTÉK A FÖLD NAPJÁRA",
+        "txtlength": 10368
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/szuloseg/gyerek-nelkul-gyerekmentes/",
+        "h1": "gyerek nélkül gyerekmentes",
+        "txtlength": 9784
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kulfold/2022/04/22/orosz-ukran-haboru-percrol-percre-58-nap-hatvan-milliard-dollarra-becslulis-az-ukran-infrastrukturaban-okozott-kart-az-oroszok-folytatjak-az-elorenyomulast-keleten",
+        "h1": "A Világbank 60 milliárd dollárra becsüli az ukrán infrastruktúrában okozott kárt, az ukránok szerint civilek rekedhettek a mariupoli acélgyár romjai alatt",
+        "txtlength": 22535
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/interju/2022/04/22/ungar-peter-lmp-valasztasi-vereseg-megelhetesi-kerdesek",
+        "h1": "Ungár Péter: Önfelmentés ezt a vereséget a médiakörnyezetre fogni",
+        "txtlength": 21298
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/szorakozas/2022/04/21/netflix-elofizetok-streaming",
+        "h1": "Bajban a Netflix, története során először csökkent az előfizetőinek a száma",
+        "txtlength": 18992
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20220422_fuggetlen_jelolt_valasztas",
+        "h1": "A „Kelet Tiborczától” az óriásit bukó somogyi politikus családig – utánanéztünk a legjobb és legrosszabb eredményeket elért független jelölteknek",
+        "txtlength": 18976
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/04/22/az-oktatok-kioktatasa-es-az-urbol-latszo-tomegsir",
+        "h1": "Az oktatók kioktatása és az űrből látszó tömegsír",
+        "txtlength": 12866
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/vilag/20220420_ukrajna_nyugati_fegyverek",
+        "h1": "Meddig dőlhetnek még a nyugati fegyverek Ukrajnába?",
+        "txtlength": 12379
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2022/04/22/valasztas-2022-baranya-szigetvar-nagy-csaba-fidesz-erosodes-okok-video/",
+        "h1": "„Beszélnék meg, mit kéne mondani!” – hogyan erősödött a Fidesz 12 százalékpontot Baranyában?",
+        "txtlength": 11874
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2022/04/22/orszgaos-szechenyi-konyvtar-kaspersky-kiberbiztonsag/",
+        "h1": "Orosz hátterű kibercég platformján kínálhatott képzést dolgozóinak az Országos Széchenyi Könyvtár",
+        "txtlength": 11648
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/vilag/20220422_zelenszkij_segely_veszteseg_haboru_ukrajna_orosz_oligarchak",
+        "h1": "Dél-Ukrajna elfoglalását tűzték ki célul az oroszok, műholdkép bizonyítja a 30 méteres tömegsírt - percről percre a háborúról",
+        "txtlength": 10902
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kulfold/2022/04/22/orosz-ukran-haboru-elo-percrol-percre-zelenszkij-az-oroszok-ordogi-tervere-figyelmezteti-a-lakossagot/",
+        "h1": "Ukránok szerint gyorsan visszaveszik az oroszoktól a tegnap elfoglalt 42 falut",
+        "txtlength": 10653
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/04/21/az-etiopok-sorban-allnak-hogy-onkenteskedjenek-oroszorszag-ukrajnai-haborujaban",
+        "h1": "Az etiópok sorban állnak, hogy önkénteskedjenek Oroszország ukrajnai háborújában",
+        "txtlength": 10466
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/ikerbaba-szuletes-edesanya-meghalt-jaszsag/9xmqbp6?sl_ps=d_9",
+        "h1": "Tíz évig harcoltak azért, hogy szülők lehessenek: ikerbabái születése után hunyt el egy jászsági édesanya",
+        "txtlength": 8605
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/alberlet-arak-alberlet-budapest/1e8dd98?sl_ps=d_4",
+        "h1": "Még ez is: tempósan drágulnak az albérletek, térképen mutatjuk, mennyiért talál most lakást az országban",
+        "txtlength": 7908
+    },
+    {
         "hostname": "hataratkelo.blog.hu",
         "pagelink": "https://hataratkelo.blog.hu/2022/04/12/fontos_kerdesek_hataratkeles_elott",
         "h1": "Fontos kérdések határátkelés előtt",
