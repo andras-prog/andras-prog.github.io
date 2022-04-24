@@ -1,5 +1,179 @@
 [
     {
+        "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/sonkas-teszta",
+        "h1": "Sonkás tészta",
+        "txtlength": 11477
+    },
+    {
+        "hostname": "hataratkelo.blog.hu",
+        "pagelink": "https://hataratkelo.blog.hu/2022/04/21/amerikai_temetoben_vampirral#c41366525",
+        "h1": "Amerikai temetőben „vámpírral”",
+        "txtlength": 65016
+    },
+    {
+        "hostname": "kulturpart.hu",
+        "pagelink": "https://kulturpart.blog.hu/2022/04/21/mindjart_itt_a_napfenyes_tavasz",
+        "h1": "MINDJÁRT ITT A NAPFÉNYES TAVASZ!",
+        "txtlength": 7217
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/global/20220423/nem-kevesebb-mint-az-europai-unio-jovoje-es-a-magyar-kulpolitika-iranya-dolhet-el-ezen-a-hetvegen-540857",
+        "h1": "Nem kevesebb, mint az Európai Unió jövője és a magyar külpolitika iránya dőlhet el ezen a hétvégén",
+        "txtlength": 41556
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vallalat/20220423/nem-okoz-ellatasi-problemat-az-orosz-olajembargo-magyarorszagon-legfeljebb-a-mol-profitja-csokken/",
+        "h1": "Nem okoz ellátási problémát az orosz olajembargó Magyarországon, legfeljebb a Mol profitja csökken",
+        "txtlength": 28619
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://makronom.mandiner.hu/cikk/20220423_langokban_all_a_vilaggazdasag_es_magyarorszag_az_egyik_utolso_biztos_pont",
+        "h1": "Lángokban áll a világgazdaság és Magyarország az egyik utolsó biztos pont",
+        "txtlength": 28234
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/befektetes/20220424/ennel-jobb-sorozat-meg-nem-keszult-a-startup-vilag-mohosagarol-540549",
+        "h1": "Ennél jobb sorozat még nem készült a startup világ mohóságáról",
+        "txtlength": 24471
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/elet/20220424/tudosokat-mocskoltak-es-tudatosan-hazudtak-hogy-nincs-bizonyitek-az-eghajlatvaltozasra/",
+        "h1": "Tudósokat mocskoltak és tudatosan hazudták, hogy nincs bizonyíték az éghajlatváltozásra",
+        "txtlength": 23725
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/otthon/20220422/tomegek-menekulnek-el-budapestrol-itt-kezdenek-uj-eletet-de-ezzel-nem-szamolnak-1124174",
+        "h1": "Tömegek menekülnek el Budapestről: itt kezdenek új életet, de ezzel nem számolnak",
+        "txtlength": 22531
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220422_niedermuller_peter_erzsebetvaros_polgarmester_dk_parlamenti_valasztas_olah_lajos_belfold",
+        "h1": "Niedermüller: Szánalmasnak, unalmasnak és intellektuálisan silánynak tartom a gyurcsányozást",
+        "txtlength": 21332
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/hitel/20220420/sulyos-penzeket-huzhatsz-le-igy-a-bankodrol-egyszeru-es-legalis-megis-kevesen-elnek-vele-1124086",
+        "h1": "Súlyos pénzeket húzhatsz le így a bankodról: egyszerű és legális, mégis kevesen élnek vele",
+        "txtlength": 21314
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220422_lukacsi_katalin_valasztas_marki_zay_peter_mi_tortent_a_valasztason",
+        "h1": "„Nem az ellenzéket, az ellenzéki politizálás módját kell leváltani\" – Lukácsi Katalin a Mandinernek",
+        "txtlength": 20877
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/global/20220424/szoritja-az-ido-vlagyimir-putyint-majus-9-ere-gyozelmet-kell-felmutatnia-540703",
+        "h1": "Szorítja az idő Vlagyimir Putyint, május 9-ére győzelmet kell felmutatnia",
+        "txtlength": 17716
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2022/04/24/ki-a-legnagyobb-kiraly-a-3-helyen-karoly-robert",
+        "h1": "KI A LEGNAGYOBB KIRÁLY? A 3. HELYEN: KÁROLY RÓBERT",
+        "txtlength": 16838
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/egeszseg/gyogynoveny-gyogyszer-kolcsonhatas/",
+        "h1": "Fogamzásgátló mellett tiltólistás ez a gyógynövény: jelentősen csökkentheti a hatását",
+        "txtlength": 12101
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/lajfhekk/szingli-elony-hatrany/",
+        "h1": "szingli előny hátrány",
+        "txtlength": 11595
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2022/04/24/hazassag-huseg-valas-belapatfalvai-jaras-riport/",
+        "h1": "Íme a magyar járás, ahol a legkevesebb a válás",
+        "txtlength": 31596
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kultura/2022/04/23/steinberg-johanna-emdr-terapia-ukrajna-haboru-pandemia-pszichologus-interju/",
+        "h1": "Azoknak lesz valamivel könnyebb, akik még a háború elején el tudtak menekülni",
+        "txtlength": 26629
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kultura/2022/04/24/lager-sztorno-seres-laszlo-auschwitz-konyvajanlo-matine/",
+        "h1": "„Gyerünk a 12-es barakkba, megnézni huszonötezer halott nő lenyírt haját”",
+        "txtlength": 21803
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kulfold/2022/04/24/orosz-ukran-haboru-60-napja-percrol-percre",
+        "h1": "Gyerekek haltak meg Donyeck bombázásában, fokozódik az orosz támadás keleten, megállás nélkül lövik a mariupoli acélgyárat",
+        "txtlength": 21257
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/sport/20220424_oroszorszag_sport_vlagyimir_putyin_hatalom_ukrajna",
+        "h1": "Eddig működött a moszkvai sportswashing, de Putyin mindent tönkretett",
+        "txtlength": 18872
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/velemeny/2022/04/23/maszol-propaganda-paraszka-boroka",
+        "h1": "Hogyan lesz egy lejárató kampány áldozata egy újságíró, aki a munkáját végzi?",
+        "txtlength": 17239
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kulfold/2022/04/24/macron-le-pen-francia-elnokvalasztas-masodik-fordulo-2022-mkb-hitel-szelsojobb-eu-jovoje-koztarsasag",
+        "h1": "Macron a francia elnökválasztás esélyese, de Le Pen öt év alatt nagyon feljött",
+        "txtlength": 15250
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/kulfold/raf-terrorizmus-nyugat-nemetorszag-nszk/d7expn5?sl_ps=d_12",
+        "h1": "A rettegett gerillaharcosok, akik lángba borították Nyugat-Németországot",
+        "txtlength": 14959
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/tudomany/20220422_A_gyogygombas_Varga_Gabor_nyerte_az_idei_Laposfolddijat",
+        "h1": "A gyógygombás Varga Gábor nyerte az idei Laposföld-díjat",
+        "txtlength": 11849
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/04/22/mariupoli-aldozatokat-rejto-ujabb-tomegsirt-fedeztek-fel-muholdfelveteleken",
+        "h1": "Mariupoli áldozatokat rejtő újabb tömegsírt fedeztek fel műholdfelvételeken",
+        "txtlength": 11354
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/foci/2022/04/23/lemondott-az-mtk-kozutalatnak-orvedo-sportigazgatoja-es-kirugtak-marton-edzot",
+        "h1": "Lemondott az MTK közutálatnak örvedő sportigazgatója és kirúgták Márton edzőt",
+        "txtlength": 11267
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/gazdasag/20220424_Es_akkor_francia_orosz_ukran_elelmiszer_infowars_klimaszorongas",
+        "h1": "És akkor ma Párizsban eldől, átveheti-e a hatalmat Brüsszelben Moszkva",
+        "txtlength": 11159
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/krimi/regi-bunugyek-szentkiralyszabadjai-rem-ember-zoltan-sorozatgyilkos/16vs7je?sl_ps=d_3",
+        "h1": "Szenvtelenül végzett áldozataival és semmit nem bánt meg a szentkirályszabadjai rém",
+        "txtlength": 9652
+    },
+    {
         "hostname": "hataratkelo.blog.hu",
         "pagelink": "https://hataratkelo.blog.hu/2022/04/21/amerikai_temetoben_vampirral#c41364503",
         "h1": "Amerikai temetőben „vámpírral”",
