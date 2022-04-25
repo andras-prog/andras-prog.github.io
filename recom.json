@@ -1,5 +1,173 @@
 [
     {
+        "hostname": "kiszamolo.hu",
+        "pagelink": "https://kiszamolo.hu/200-ezer-hozzaszolas/",
+        "h1": "200 ezer hozzászólás",
+        "txtlength": 22890
+    },
+    {
+        "hostname": "efesasanisimasa.com",
+        "pagelink": "https://efesasanisimasa.com/2022/04/20/yellowstone-tv-series-2018/",
+        "h1": "Yellowstone (TV Series, 2018-)",
+        "txtlength": 11127
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220420_kulfold_nemetorszag_energia",
+        "h1": "Dugába dőlhet az Energiewende, elakadt a német fordulat",
+        "txtlength": 30059
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/unios-forrasok/20220425/fenyes-jovot-vazol-a-gazdasagfejlesztesi-tervunk-ami-eles-ellentetben-all-a-makrotrendekkel-540771",
+        "h1": "Fényes jövőt vázol a gazdaságfejlesztési tervünk, ami éles ellentétben áll a makrotrendekkel",
+        "txtlength": 25528
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/utazas/20220423/ez-mar-reg-nem-a-szegenyek-nyaralasa-orult-penzbe-kerulhet-a-csaladi-kempingezes-2022-ben-1124104",
+        "h1": "Ez már rég nem a szegények nyaralása: őrült pénzbe kerülhet a családi kempingezés 2022-ben",
+        "txtlength": 23343
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220424_gyurcsany_ferenc_marki_zay_peter_parlamenti_valasztas_hattertortenet",
+        "h1": "Ezért buktatta el Gyurcsány Márki-Zay Pétert",
+        "txtlength": 21251
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/elet/20220425/az-orosz-agresszio-nem-iden-kezdodott-megis-szivesen-latta-oket-europa/",
+        "h1": "Az orosz agresszió nem idén kezdődött, mégis szívesen látta őket Európa",
+        "txtlength": 19440
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220424_exit_poll_a_szabadsag_mozgalom_nyert_de_nem_tud_onalloan_kormanyt_alakitani",
+        "h1": "A szlovén exit poll szerint a Szabadság Mozgalom nyerte a választást",
+        "txtlength": 17867
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://indexadhu.hit.gemius.pl/hitredir/id=oggwt.9up29ZFNl3sLIqWrR57A7Kabg4b1FEsMUGvLP.57/stparam=yogiospoce/fastid=nppbdngexfyylakruejlvgvgwtml/nc=0/url=https://www.rsm.hu/blog/adotanacsadas/2022/04/adoellenorzesek-soran-uj-bizonyitekok-korlatozottan-terjeszthetoek-elo",
+        "h1": "Az adóellenőrzések során új bizonyítékok korlátozottan terjeszthetőek elő, be kell tárazni minden perdöntő muníciót!",
+        "txtlength": 17155
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/uzlet/20220425/csunya-eses-a-tozsdeken-alaposan-elromlott-a-hangulat-541009",
+        "h1": "Csúnya esés a tőzsdéken, alaposan elromlott a hangulat ",
+        "txtlength": 16412
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/kozelet/20220422/szelsoseges-kulonbsegek-vannak-az-ellenzeki-teljesitmenyek-kozott-az-orszag-egyes-reszein/",
+        "h1": "Szélsőséges különbségek vannak az ellenzéki teljesítmények között az ország egyes részein",
+        "txtlength": 15053
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/gazdasag/20220422/erik-a-globalis-viz-krizis-magyarorszag-sem-maradhat-ki-elzarhatjak-a-csapokat-1124210",
+        "h1": "Érik a globális víz-krízis: Magyarország sem maradhat ki, elzárhatják a csapokat?!",
+        "txtlength": 14753
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2022/04/25/egyedulallo-kotet-mutatja-be-magyarorszag-globalis-tortenetet-az-elmult-masfel-evszazadban",
+        "h1": "EGYEDÜLÁLLÓ KÖTET MUTATJA BE MAGYARORSZÁG GLOBÁLIS TÖRTÉNETÉT AZ ELMÚLT MÁSFÉL ÉVSZÁZADBAN",
+        "txtlength": 14246
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/kapcsolat/magas-erzelmi-intelligenciaju-emberek-nem-csinalnak/",
+        "h1": "4 dolog, amit az érzelmileg intelligens emberek nem csinálnak - Ezért nem kritizál másokat, akinek magas az EQ-ja",
+        "txtlength": 11247
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/lajfhekk/zoldseg-gyumolcsok-tisztitasa/",
+        "h1": "Zöldség gyümölcsök tisztítása",
+        "txtlength": 10775
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/sport/2022/04/24/keresztes-zsolt-kercso-spartan-race-ewing-szarkoma-parateqball/",
+        "h1": "„Ferrarival” jár a féllábú parasportoló, aki a szerencse kegyeltjének tartja magát",
+        "txtlength": 34929
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/tudomany/2022/04/25/koronavirus-covid-19-magyar-kutatasok-kasler-miklos-kemenesi-gabor-ferenci-tamas/",
+        "h1": "Fű alatt publikáltak magyar kutatásokat a koronavírusról, életeket is lehetett volna menteni velük",
+        "txtlength": 18648
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kulfold/2022/04/25/orosz-ukran-haboru-61-nap-hetfo-percrol-percre",
+        "h1": "Ukrajnába látogatott az amerikai külügyminiszter és védelmi miniszter, hamarosan visszatérnek az amerikai diplomaták az országba",
+        "txtlength": 16970
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/belfold/2022/04/25/ukrajna-menekultek-gyerekek-iskola-tankotelezettseg-onkentes-felzarkoztatas-kepzes-tanoda-orosz-ukran-haboru-oktatas",
+        "h1": "Az Ukrajnából menekült gyerekek hazai oktatása egyszerre mutatja a civilek összefogását és az állam tehetetlenségét",
+        "txtlength": 16731
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/gazdasag/20220425_oroszukran_napraforgoolaj_palmaolaj_elelmiszeripar",
+        "h1": "Akkorát drágult a napraforgóolaj, hogy visszahozhatják a mumusként kezelt pálmaolajat",
+        "txtlength": 16651
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kulfold/2022/04/24/franciaorszag-elnokvalasztas-masodik-fordulo-macron-le-pen-exit-poll",
+        "h1": "Macron nyerte a francia elnökválasztást Le Pennel szemben",
+        "txtlength": 15172
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kultura/2022/04/24/egy-botrany-anatomiaja-netflix-sorozat-kritika-nemi-eroszak/",
+        "h1": "A szex közben kimondott nem eltérő értelmezéseiből még kormányválság is lehet",
+        "txtlength": 14386
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/04/24/800-eves-az-aranybulla",
+        "h1": "800 éves az Aranybulla",
+        "txtlength": 13476
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/04/24/angela-rayner-visszautasitja-hogy-elemi-oszton-taktikaval-akarta-volna-eltereli-boris-johnson-figyelmet-a-brit-parlamentben",
+        "h1": "Angela Rayner visszautasítja, hogy Elemi ösztön-taktikával akarta volna elterelni Boris Johnson figyelmét a brit parlamentben",
+        "txtlength": 11042
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/vilag/20220425_haboru_percrol_percre_Blinken_Austin_Brjanszk",
+        "h1": "Blinken és Austin Kijevbe látogatott, tűz ütött ki egy brjanszki olajraktárban – percről percre a háborúról",
+        "txtlength": 9358
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/kulonleges-helyek-extrem-helyszinek-lanchid-tetotol-talpig/51qxg2v?sl_ps=d_12",
+        "h1": "A Blikk bejutott a Lánchíd belsejébe: így még sosem látta Budapest titkokkal teli ikonikus építményét – exkluzív videó",
+        "txtlength": 8737
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/politika/szlovenia-valasztas-robert-golob-gyoztes/d9vm0gz",
+        "h1": "Szlovéniai választások: kikapott Orbán szövetségese, balközép kormány alakulhat",
+        "txtlength": 8260
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/gazdasag/20220425_orban_viktor_szakmunkasok_szakkepesites",
+        "h1": "Orbán a szakmunkásoknak: Ha jó vagy valamiben, akkor kérd meg az árát",
+        "txtlength": 8238
+    },
+    {
         "hostname": "nosalty.hu",
         "pagelink": "https://www.nosalty.hu/recept/sonkas-teszta",
         "h1": "Sonkás tészta",
