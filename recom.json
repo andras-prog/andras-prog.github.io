@@ -1,5 +1,173 @@
 [
     {
+        "hostname": "kiszamolo.hu",
+        "pagelink": "https://kiszamolo.hu/a-melyszegenyseg-kozelrol/",
+        "h1": "A mélyszegénység közelről",
+        "txtlength": 43833
+    },
+    {
+        "hostname": "efesasanisimasa.com",
+        "pagelink": "https://efesasanisimasa.com/2022/04/01/remalmok-sikatora-nightmare-alley-2021/",
+        "h1": "Rémálmok sikátora (Nightmare Alley, 2021)",
+        "txtlength": 8252
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/kozelet/20220428/meg-kell-erosodnunk-fejben-hogy-tuleljuk-a-dezinformacio-korat/",
+        "h1": "Meg kell erősödnünk fejben, hogy túléljük a dezinformáció korát",
+        "txtlength": 31097
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220427_tilo_schabert_botos_mate_boston_politics_mcc",
+        "h1": "Mit olvassunk, ha bele akarunk látni Orbán fejébe? – Botos Máté a Boston Politics-ről",
+        "txtlength": 27514
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220426_szanyi_tibor_orban_viktor_gyurcsany_ferenc_marki_zay_peter_valasztas_interju",
+        "h1": "Kapitány csak egy van! – Szanyi Tibor a Mandinernek",
+        "txtlength": 22403
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://makronom.mandiner.hu/cikk/20220425_azt_valasztjak_ujra_aki_tesz_a_szavazokert_avagy_miert_nyert_a_fidesz_2022_ben",
+        "h1": "Megfejtettük a mágikus összefüggést: ennyivel kell növelni a béreket, hogy a kormánypárt újrázzon",
+        "txtlength": 22384
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/oktatas/20220428/valojaban-ez-a-baj-a-top100-as-kozepiskolai-rangsorral-errol-minden-szulonek-tudnia-kell-1124273",
+        "h1": "Valójában ez a baj a TOP100-as középiskolai rangsorral: erről minden szülőnek tudnia kell",
+        "txtlength": 20748
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2022/04/28/a-lignitnek-bucsut-int-de-valodi-zoldules-helyett-gazt-es-szemetet-is-egetne-az-atalakulo-matrai-eromu",
+        "h1": "A LIGNITNEK BÚCSÚT INT, DE VALÓDI ZÖLDÜLÉS HELYETT GÁZT ÉS SZEMETET IS ÉGETNE AZ ÁTALAKULÓ MÁTRAI ERŐMŰ",
+        "txtlength": 19958
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/hitel/20220426/igy-huzza-le-a-magyarokat-a-bankjuk-egyszeru-lenne-kijatszani-megis-kevesen-teszik-1124246",
+        "h1": "Így húzza le a magyarokat a bankjuk: egyszerű lenne kijátszani, mégis kevesen teszik",
+        "txtlength": 19434
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/uzlet/20220428/veget-ert-a-kormanyinfo-mutatjuk-a-tozsdei-reakciokat-541711",
+        "h1": "Véget ért a kormányinfó, mutatjuk a tőzsdei reakciókat ",
+        "txtlength": 19396
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/global/20220428/sosem-latott-lista-kerult-ki-az-ukrajnaba-omlo-amerikai-fegyverekrol-ettol-mar-putyin-keze-is-megremeghet-541609",
+        "h1": "Sosem látott lista került ki az Ukrajnába ömlő amerikai fegyverekről – Ettől már Putyin keze is megremeghet?",
+        "txtlength": 18791
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20220428/gulyas-gergely-ujabb-nyugdijemelest-jelentett-be-az-eu-val-is-kiegyezunk-541713",
+        "h1": "Gulyás Gergely újabb nyugdíjemelést jelentett be, az EU-val is kiegyezünk ",
+        "txtlength": 18117
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vallalat/20220427/egyelore-nem-kell-megijedni-az-orosz-gazszallitasok-leallitasatol/",
+        "h1": "Egyelőre nem kell megijedni az orosz gázszállítások leállításától",
+        "txtlength": 15642
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/egeszseg/noi-nemi-hormonok-valtozasa/",
+        "h1": "Így zajlik le a menopauza a szervezetben: részletesen kifejtették a szakértők",
+        "txtlength": 12228
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/szuloseg/valasztas-illuzioja/",
+        "h1": "választás illúziója",
+        "txtlength": 11138
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/tech/2022/04/28/kiberbiztonsag-orosz-hekkerek-apt-28-kormanyzati-oldalak-kormanyhivatalok-gov-hu-qov-hu-adathalaszat-typosquatting-misspelling-domain",
+        "h1": "Orosz állami hekkerek fegyvere volt, most kiderült: magyar kormányhivatalok is terjesztik",
+        "txtlength": 22248
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/gazdasag/20220428_gazprom_gazkereskedelem_gazszallitas_haboru_ukrajna",
+        "h1": "A Gazprom újabb szöget vert be a rezsicsökkentés koporsójába",
+        "txtlength": 20997
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/belfold/2022/04/28/kormanyinfo-2022-aprilis-28-1",
+        "h1": "Gulyás: Ha találunk itt egy olajmezőt, az gyorsan megoldja az orosz függőségi helyzetet",
+        "txtlength": 20696
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kult/2022/04/28/johnny-depp-amber-heard-targyalas-per-birosag-ragalmazas-becsuletsertes-hazastarsi-eroszak",
+        "h1": "Házastársi erőszak, drog, alkohol és rengeteg bizarr részlet Johnny Depp és Amber Heard nyilvános tárgyalásán",
+        "txtlength": 20628
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/kormanyinfo-bejelentesek-aprilis-28/ptyg1wp?sl_ps=d_2",
+        "h1": "Kormányinfó – Újabb, rendkívüli nyugdíjemelést jelentettek be – Ekkor alakulhat meg az új magyar kormány",
+        "txtlength": 19493
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kulfold/2022/04/28/orosz-ukran-haboru-oroszorszag-ukrajna-zelenszkij-putyin-eu/",
+        "h1": "Az ENSZ-főtitkár elment a bucsai vérengzés helyszínére; dől a pénz Oroszországba a háború kezdete óta",
+        "txtlength": 17897
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2022/04/28/kormanyinfo-gulyas-gergely-szentkiralyi-alexandra-orban-kormany-arstop-kormanyalakitas/",
+        "h1": "3,9 százalékkal emelkednek a nyugdíjak júliustól",
+        "txtlength": 17481
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20220428_kormanyinfo_pp",
+        "h1": "Újabb 3,9 százalékkal emelik a nyugdíjakat, visszamenőleg is jár majd",
+        "txtlength": 15827
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://rangado.24.hu/nemzetkozi_foci/2022/04/27/bajnokok-ligaja-elodonto-liverpool-villarreal/",
+        "h1": "BL-elődöntő: türelmes volt a Pool, majd bedarálta a Villarrealt",
+        "txtlength": 13023
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/cegauto/20220428_uj_7es_bmw_menetproba_elektromos_auto",
+        "h1": "Oszd meg és uralkodj? Beültünk a vadonatúj 7-es BMW-be",
+        "txtlength": 13008
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/04/28/sajnalatos-incidensek-es-fideszes-szexkulisszatitkok",
+        "h1": "Sajnálatos incidensek és fideszes szexkulisszatitkok",
+        "txtlength": 9842
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/04/28/76-szazalekkal-nott-a-kanyaros-megbetegedesek-szama-tavalyhoz-kepest",
+        "h1": "76 százalékkal nőtt a kanyarós megbetegedések száma tavalyhoz képest",
+        "txtlength": 9164
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/kulfold/orosz-ukran-haboru-orosz-ukran-konfliktus-nato-legicsapas/3k4fnz1",
+        "h1": "Oroszország súlyos fenyegetést tett közzé: NATO-tagállamokra mérhetnek csapást, Nagy-Britanniára is!",
+        "txtlength": 8782
+    },
+    {
         "hostname": "hataratkelo.blog.hu",
         "pagelink": "https://hataratkelo.blog.hu/2022/04/21/amerikai_temetoben_vampirral#c41372215",
         "h1": "Amerikai temetőben „vámpírral”",
