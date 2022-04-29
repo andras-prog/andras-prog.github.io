@@ -1,5 +1,173 @@
 [
     {
+        "hostname": "hataratkelo.blog.hu",
+        "pagelink": "https://hataratkelo.blog.hu/2022/04/21/amerikai_temetoben_vampirral",
+        "h1": "Amerikai temetőben „vámpírral”",
+        "txtlength": 59909
+    },
+    {
+        "hostname": "kulturpart.hu",
+        "pagelink": "https://kulturpart.hu/2022/04/26/kulonos_emlekmuvek_jelennek_meg_budapesten",
+        "h1": "KÜLÖNÖS EMLÉKMŰVEK JELENNEK MEG BUDAPESTEN",
+        "txtlength": 9642
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220427_kozelet_brusszel",
+        "h1": "Kiújuló csörték Brüsszellel a balos választási kudarc után",
+        "txtlength": 33089
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20220429/orosz-allamcsodrol-beszelnek-pedig-putyin-valosaggal-furdik-az-olajmilliardokban-541907",
+        "h1": "Orosz államcsődről beszélnek, pedig Putyin valósággal fürdik az olajmilliárdokban",
+        "txtlength": 27190
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vallalat/20220429/mar-latta-a-fenyt-az-alagut-vegen-de-a-haboru-miatt-bukta-az-idei-terveit-a-magyar-jarmuipar/",
+        "h1": "Már látta a fényt az alagút végén, de a háború miatt bukta az idei terveit a magyar járműipar",
+        "txtlength": 22128
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220428_kiegyezes_tortenelem_magyar",
+        "h1": "A sikeresség irritáló fogalom a magyaroknak, de szeretik? – vita a kiegyezésről",
+        "txtlength": 21749
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220429_putyin_haboru_oroszorszag_usa_ukrajna_racz_andras_stier_gabor",
+        "h1": "Ez egy orosz-amerikai proxy háború is – Rácz András és Stier Gábor vitája a Mandineren",
+        "txtlength": 21732
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2022/04/29/qubit-live-4-a-homoszexualitas-a-kozossegnek-is-hajthat-evolucios-hasznot",
+        "h1": "QUBIT LIVE #4: A HOMOSZEXUALITÁS A KÖZÖSSÉGNEK IS HAJTHAT EVOLÚCIÓS HASZNOT",
+        "txtlength": 18813
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/oktatas/20220428/sok-magyar-fiatal-bukhatja-a-diplomat-2022-ben-ezzel-nem-szamoltak-ideje-cselekedni-1124331",
+        "h1": "Sok magyar fiatal bukhatja a diplomát 2022-ben: ezzel nem számoltak, ideje cselekedni",
+        "txtlength": 18607
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vallalat/20220428/egy-nagy-atszervezes-annak-is-lehet-a-jele-hogy-a-vezetoseg-nem-tudja-mit-csinal/",
+        "h1": "Egy nagy átszervezés annak is lehet a jele, hogy a vezetőség nem tudja, mit csinál",
+        "txtlength": 17771
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/vasarlas/20220427/lelepleztuk-a-durva-kenyer-titkot-igy-takarithat-meg-egy-magyar-csalad-30-ezret-a-bevasarlason-1124303",
+        "h1": "Lelepleztük a durva kenyér-titkot: így takaríthat meg egy magyar család 30 ezret a bevásárláson",
+        "txtlength": 17388
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/uzlet/20220429/kezd-fogyni-a-tozsdek-lendulete-541911",
+        "h1": "Kezd fogyni a tőzsdék lendülete ",
+        "txtlength": 17306
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/deviza/20220429/raketakent-tori-at-a-falakat-a-dollar-a-romok-a-forintot-is-maguk-ala-temethetik-541973",
+        "h1": "Rakétaként töri át a falakat a dollár, a romok a forintot is maguk alá temethetik",
+        "txtlength": 17265
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/szuloseg/terhesseg-psziches-problemak/",
+        "h1": "terhesség pszichés problémák pánikroham depresszió",
+        "txtlength": 13678
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/gyerek/parkapcsolat-problema-baba-szuletes-utan/",
+        "h1": "4 dolog, ami komoly problémává csúcsosodhat a házasságban a gyerek után: a nevelési stratégiák is különbözhetnek",
+        "txtlength": 11419
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/tudomany/2022/04/29/ismeretlen-hepatitisz-majgyulladas-gyerekek-betegseg-oka-adenovirus-koronavirus-covid-gyorstalpalo",
+        "h1": "Rejtélyes új hepatitisz: minden, amit tudunk, és amit még nem",
+        "txtlength": 19471
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2022/04/28/nepegeszsegugy-egeszseg-javaslatok-egyensuly-intezet/",
+        "h1": "Hízunk, alkoholizálunk, dohányzunk – hogyan lehetnek egészségesebbek a magyarok?",
+        "txtlength": 17951
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/direkt36/2022/04/29/nagyon-megszaladtak-a-koltsegei-az-mnb-uj-presztizsberuhazasanak-amelyet-matolcsy-fianak-baratja-kapott",
+        "h1": "Nagyon megszaladtak a költségei az MNB új presztízsberuházásának, amelyet Matolcsy fiának barátja kapott",
+        "txtlength": 16895
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kulfold/2022/04/29/orosz-ukran-haboru-percrol-percre-aprilis-29-elo/",
+        "h1": "Percek kérdése volt, hogy az oroszok meggyilkolják Zelenszkijt és a családját; megpróbálják kimenekíteni a civileket az Azovsztalból",
+        "txtlength": 15351
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/sport/2022/04/29/novak-djokovic-szerb-open-tenisz-tamas-krisztina/",
+        "h1": "A budapesti tenisztornának is kellett volna egy Djokovic",
+        "txtlength": 15290
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20220429_Gazdat_cserelhetnek_a_polgari_titkosszolgalatok",
+        "h1": "Lecserélhetik a titkosszolgálatok irányítását, és egy Pintér–Rogán-konfliktusról is beszélnek a háttérben",
+        "txtlength": 15258
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20220428_A_magyarok_velemenye_fajo_inkabb_mintsem_serto_hiszen_en_is_magyar_vagyok",
+        "h1": "„A magyarok véleménye fájó inkább, mintsem sértő, hiszen én is magyar vagyok”",
+        "txtlength": 14264
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kulfold/2022/04/29/orosz-ukran-haboru-percrol-percre-65-nap",
+        "h1": "Nagy változást fog hozni Ukrajna harci képességeiben Zelenszkij szerint a 33 milliárd dolláros amerikai csomag",
+        "txtlength": 14198
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/04/29/hadhazy-tragikus-dontes-hogy-a-momentum-megis-bemegy-az-alakulo-ulesre",
+        "h1": "Hadházy: Tragikus döntés, hogy a Momentum mégis bemegy az alakuló ülésre",
+        "txtlength": 11336
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/04/29/az-orosz-titkosszolgalat-tamadhatta-meg-a-fuggetlen-orosz-lap-foszerkesztojet",
+        "h1": "Az orosz titkosszolgálat támadhatta meg a független orosz lap főszerkesztőjét",
+        "txtlength": 11271
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/kkv/20220429_transparency_rogan_per_itelet",
+        "h1": "Jogerős: ki kell adni a Rogán Antal apósának adott milliárdos támogatás adatait",
+        "txtlength": 9364
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/politika/momentum-mozgalom-hadhazy-akos-parlament-alakulo-ules/sx57p2h?sl_ps=d_10",
+        "h1": "Tragikus döntést hozott a Momentum a legújabb hírek szerint",
+        "txtlength": 8416
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/budapest-elveszett-tarca-400-ezer-forint-becsulet-edesanya-todorovits-rea/7flc4vf",
+        "h1": "Négyszázezer forintot talált az utcán Rea: egy édesanya összes vagyona volt a pénz, az életét mentette meg, amikor felkutatta",
+        "txtlength": 8293
+    },
+    {
         "hostname": "kiszamolo.hu",
         "pagelink": "https://kiszamolo.hu/a-melyszegenyseg-kozelrol/",
         "h1": "A mélyszegénység közelről",
