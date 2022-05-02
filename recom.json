@@ -1,5 +1,167 @@
 [
     {
+        "hostname": "kulturpart.hu",
+        "pagelink": "https://kulturpart.blog.hu/2022/05/01/a_tanc_vilagnapjat_unnepeltek_a_millenarison",
+        "h1": "A TÁNC VILÁGNAPJÁT ÜNNEPELTÉK A MILLENÁRISON",
+        "txtlength": 12464
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220502_orosz_gaz_haboru",
+        "h1": "Kiválthatjuk mással az orosz gázt? Mutatjuk a magyar gázhelyzetet!",
+        "txtlength": 22634
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vallalat/20220502/jobban-is-akarhatnank-levalni-az-orosz-olajrol/",
+        "h1": "Jobban is akarhatnánk a leválást az orosz olajról, mert nem lehetetlen",
+        "txtlength": 21216
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220428_megsem_egy_gyenge_hatterbe_szoritott_kiraly_adta_ki_az_aranybullat",
+        "h1": "Mégsem egy gyenge, háttérbe szorított király adta ki az Aranybullát?",
+        "txtlength": 20374
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/uzlet/20220502/igy-valhat-a-napenergia-sotetedes-utan-a-magyar-energiaellatas-reszeve-542097",
+        "h1": "Így válhat a napenergia sötétedés után a magyar energiaellátás részévé",
+        "txtlength": 20352
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://makronom.mandiner.hu/cikk/20220429_senkit_sem_erdekel_mar_afganisztan_ahol_a_talibok_epp_a_nyugati_nyitason_dolgoznak",
+        "h1": "Senkit sem érdekel már Afganisztán, ahol a tálibok épp a nyugati nyitáson dolgoznak",
+        "txtlength": 19692
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/utazas/20220429/ne-dolj-be-az-olcso-repjegyeknek-csunya-rafizetes-lehet-a-vege-a-sporolos-nyaralasnak-1124387",
+        "h1": "Ne dőlj be az olcsó repjegyeknek: csúnya ráfizetés lehet a vége a spórolós nyaralásnak",
+        "txtlength": 19272
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2022/05/02/a-brit-hajo-eluszott-hollandia-betelt-hova-menjen-aki-nyugati-egyetemen-szeretne-tanulni",
+        "h1": "A BRIT HAJÓ ELÚSZOTT, HOLLANDIA BETELT: HOVÁ MENJEN, AKI NYUGATI EGYETEMEN SZERETNE TANULNI?",
+        "txtlength": 18808
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/megtakaritas/20220427/a-kispenzuekre-csaphat-le-eloszor-a-horrorinflacio-ezzel-a-3-modszerrel-vedheted-ki-a-csodot-1124340",
+        "h1": "A kispénzűekre csaphat le először a horrorinfláció: ezzel a 3 módszerrel védheted ki a csődöt",
+        "txtlength": 18772
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/global/20220502/orosz-katonai-gep-sertette-meg-egy-europai-orszag-legteret-mikozben-mariupolbol-menekulnek-a-civilek-hetfoi-haborus-tudositasunk-542297",
+        "h1": "Robbanások Belgorod felett, Putyin totális mozgósítást hirdethet - Legfontosabb háborús híreink hétfőn ",
+        "txtlength": 17154
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/penz/20220501/patyomkin-tozsde-er-e-annyit-az-orosz-piac-mint-amennyit-a-jelenlegi-erteke-mutat/",
+        "h1": "Patyomkin-tőzsde: ér-e annyit az orosz piac, mint amennyit a jelenlegi értéke mutat?",
+        "txtlength": 16835
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/global/20220502/kuszobon-egy-ujabb-europai-haboru-teljesen-felkeszuletlen-orszagban-csaphatnak-fel-a-langok-542013",
+        "h1": "Küszöbön egy újabb európai háború – Teljesen felkészületlen országban csaphatnak fel a lángok",
+        "txtlength": 15438
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/otthon/ingatlan-vasarlasa-arveresen/",
+        "h1": "Tényleg megéri árverésen ingatlant szerezni? Mire kell nagyon figyelni a vásárlásnál?",
+        "txtlength": 12729
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/lajfhekk/d-vitamin-tenyek/",
+        "h1": "D-vitamin tények",
+        "txtlength": 10398
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/nevertek/2022/05/02/moszkva-nem-hisz-a-konnyeknek",
+        "h1": "Orosz energiafüggőség: Moszkva nem hisz a könnyeknek",
+        "txtlength": 36456
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kozelet/2022/05/02/asztalos-csaba-orszagos-diszkriminacioellenes-tanacs-diszkriminacio",
+        "h1": "Asztalos Csaba: Egy nemzeti kisebbség számára a legfontosabb a biztonságérzet, ezért sosem viselkedik biztonságkockázati tényezőként",
+        "txtlength": 20764
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kulfold/2022/05/02/orosz-ukran-haboru-68-nap",
+        "h1": "Az Azovsztalban rekedtek között volt, aki két hónapja nem látott napfényt, az orosz zászlóaljak negyede harcképtelenné válhatott",
+        "txtlength": 17746
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kulfold/2022/05/01/orosz-ukran-haboru-nemetorszag-afgan-szir-kozel-keleti-afrikai-menekultek-kikoltoztetes/",
+        "h1": "Többszáz afgán menekültet költöztettek ki a szállásaikról Németországban, hogy ukránok jöhessenek a helyükre",
+        "txtlength": 16725
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/05/02/virtualis-es-parhuzamos-valosagok",
+        "h1": "Virtuális és párhuzamos valóságok",
+        "txtlength": 16140
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2022/05/02/barba-negra-irodahaz-budai-zoldsarok-orosz-anna-szatmari-gabor/",
+        "h1": "Parkolóház és irodák váltják a rockkoncerteket a Rákóczi hídnál",
+        "txtlength": 15966
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/elet-stilus/2022/05/01/orosz-ukran-haboru-jevgenyij-szavin-focivlogger-video-ukran-jatekosok/",
+        "h1": "„A feleségeinket, anyáinkat, gyermekeinket ölik meg. De ti nem mondtok semmit. Miért?”",
+        "txtlength": 15858
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/politika/orszuggyules-magyarorszag-uj-kormany-alakulo-ules-2022/w3wnlwv?sl_ps=d_2",
+        "h1": "Alakuló ülés: letették az esküt a képviselők, megalakult az új országgyűlés – Komoly változást jelentettek be a választókerületeknél",
+        "txtlength": 12366
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20220502_Alakulo_uleset_tartja_a_parlament_Orbant_otodszorre_jelolik_kormanyfonek",
+        "h1": "Letették az esküt a képviselők, három ellenzéki frakció kivonult – percről percre a parlament alakuló üléséről",
+        "txtlength": 11841
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/05/02/kritizalta-a-haborut-most-bujkal-es-el-kellett-adja-a-bankjat-az-orosz-milliardos",
+        "h1": "Kritizálta a háborút, most bujkál, és el kellett adnia a bankját az orosz milliárdosnak",
+        "txtlength": 11143
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/vilag/20220502_orosz_ukran_haboru_percrol_percre",
+        "h1": "Robbanások Belgorodban, kórházakban fosztogató orosz katonákról számoltak be az ukránok – percről percre a háborúról",
+        "txtlength": 10456
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/kultura/20220502_Elkezdodott_minden_idok_legdragabb_magyar_filmjenek_a_Petofifilmnek_a_forgatasa",
+        "h1": "Elkezdődött minden idők legdrágább magyar filmje, a Rákay Philip-féle Petőfi-film forgatása",
+        "txtlength": 10281
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/barta-tamas-lgt-maffia-los-angeles-rendorseg-allambiztonsag-kadar-rendszer/hjhj8gj",
+        "h1": "Új dokumentumok: Kádár ügynöke ölhette meg az LGT gitárosát",
+        "txtlength": 8667
+    },
+    {
         "hostname": "hataratkelo.blog.hu",
         "pagelink": "https://hataratkelo.blog.hu/2022/04/27/kepzeld_el_673",
         "h1": "Képzeld el",
