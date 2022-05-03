@@ -1,5 +1,185 @@
 [
     {
+        "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/soskafozelek-tejjel",
+        "h1": "Sóskafőzelék tejjel",
+        "txtlength": 14493
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/metereskalacs-torta.recept",
+        "h1": "MÉTERESKALÁCS-TORTA",
+        "txtlength": 13061
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/dios-kalacs-cukorbetegeknek.recept",
+        "h1": "DIÓS KALÁCS CUKORBETEGEKNEK",
+        "txtlength": 12364
+    },
+    {
+        "hostname": "kulturpart.hu",
+        "pagelink": "https://kulturpart.hu/2022/05/01/a_tanc_vilagnapjat_unnepeltek_a_millenarison",
+        "h1": "A TÁNC VILÁGNAPJÁT ÜNNEPELTÉK A MILLENÁRISON",
+        "txtlength": 12467
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220503_a_nyugat_idegosszeroppanasa",
+        "h1": "A Nyugat idegösszeroppanása",
+        "txtlength": 39991
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/uzlet/20220503/haborus-hatasok-a-tozsden-a-bet-es-az-autowallis-is-a-kijelolt-uton-megy-tovabb-542367",
+        "h1": "Háborús hatások a tőzsdén: a BÉT és az AutoWallis is a kijelölt úton megy tovább",
+        "txtlength": 34151
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220428_videk_fovaros_valasztas_statisztika",
+        "h1": "Tényleg a „vidéki” Fidesz-KDNP nyomta le a vidékiző belpesti ellenzéket? Utánaszámoltunk!",
+        "txtlength": 27330
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220502_orszaggyules_belfold_alakulo_ules",
+        "h1": "Ilyen volt az Országgyűlés alakuló ülése",
+        "txtlength": 22209
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/krtk/20220503/putyin-nemzeti-erzelmekre-hivatkozott-ukrajna-lerohanasakor-de-a-vart-hatas-elmaradt-542423",
+        "h1": "Putyin nemzeti érzelmekre hivatkozott Ukrajna lerohanásakor, de a várt hatás elmaradt",
+        "txtlength": 22156
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20220503/bod-peter-akos-magyarorszag-tornadok-idejen-542299",
+        "h1": "Bod Péter Ákos: Magyarország tornádók idején",
+        "txtlength": 20588
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/egeszseg/20220430/kell-ez-nekunk-ossejt-eletmento-megis-csak-a-gazdag-magyarok-kivaltsaga-1124406",
+        "h1": "Kell ez nekünk? Őssejt: életmentő, mégis csak a gazdag magyarok kiváltsága",
+        "txtlength": 20473
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/adat/20220503/ha-tovabbra-is-igy-futunk-abbol-nem-lesz-energiafuggetlenseg/",
+        "h1": "Ha továbbra is így fűtünk, abból nem lesz energiafüggetlenség",
+        "txtlength": 20347
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/kozelet/20220502/mire-megy-a-visszakapott-presztizzsel-a-ket-uj-megyei-jogu-varos/",
+        "h1": "Mire megy a visszakapott presztízzsel a két új megyei jogú város?",
+        "txtlength": 19523
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/auto/20220503/zold-rendszamos-auto-5-millio-alatt-nem-lehetetlen-itt-a-modell-lista-a-benzinhorror-ellen-1124497",
+        "h1": "Zöld rendszámos autó 5 millió alatt? Nem lehetetlen, itt a modell-lista a benzinhorror ellen",
+        "txtlength": 18964
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2022/05/03/jobban-elhisszuk-hogy-idegen-civilizacio-nyomaira-bukkantunk-ha-egy-elismert-harvardi-tudos-allitja",
+        "h1": "JOBBAN ELHISSZÜK, HOGY IDEGEN CIVILIZÁCIÓ NYOMAIRA BUKKANTUNK, HA EGY ELISMERT HARVARDI TUDÓS ÁLLÍTJA?",
+        "txtlength": 16049
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/gyerek/samantha-reed-smith/",
+        "h1": "Levelet írt a 10 éves amerikai kislány a szovjet főtitkárnak: Samantha Reed Smith a hidegháború ellen harcolt",
+        "txtlength": 10270
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/lajfhekk/furcsa-szinu-gyumolcsok/",
+        "h1": "furcsa színű gyümölcsök",
+        "txtlength": 9655
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kulfold/2022/05/03/orosz-ukran-haboru-69-nap",
+        "h1": "Magyarország és Szlovákia felmentést kaphat az EU orosz olajembargója alól, Nyugaton arra számítanak, Putyin hadat üzen Ukrajnának május 9-én",
+        "txtlength": 23195
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/gazdasag/20220503_orosz_olaj_embargo_szankciok_mol",
+        "h1": "Mindent borítana az orosz olajembargó, a dízelpiacon különösen nagy felfordulás jöhet",
+        "txtlength": 20786
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/gazdasag/2022/05/03/orban-viktor-negy-eve-eppen-2022-re-igerte-meg-a-levalast-az-orosz-energiarol-de-elporladtak-a-tervei",
+        "h1": "Orbán Viktor négy éve éppen 2022-re ígérte meg a leválást az orosz energiáról, de elporladtak a tervei",
+        "txtlength": 18805
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kultura/2022/05/03/majusi-sorozatok-netflix-hbo-max-prime-video-apple-tv-direct-one/",
+        "h1": "Májusban most már tényleg leszámolhat a világ a természetfeletti fenyegetéssel",
+        "txtlength": 17660
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/sport/2022/05/02/futball-mino-raiola-futballugynok",
+        "h1": "Az ügynök, akitől a legnagyobb futballklubok elnökei is rettegtek",
+        "txtlength": 15149
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/kultura/20220501_Vizi_Akos_Budapest_terkep_diszko_mozi_zene",
+        "h1": "A zenerajongó történész, aki térképekre rakta Budapest legendás helyeit a moziktól és diszkóktól a Tilos az Á-ig",
+        "txtlength": 14600
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kulfold/2022/05/03/madeleine-mccann-eltunese-15-evvel-ezelott-christian-brueckner-gyanusitott-nemet-ferfi/",
+        "h1": "15 évvel Madeleine McCann eltűnése után végre pont kerülhet az ügy végére",
+        "txtlength": 14448
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/fn/gazdasag/2022/05/03/orosz-ukran-haboru-gaz-gazellatas-futes-hogyan-potolhato-foldgaz/",
+        "h1": "Mivel fűtsünk, ha az oroszok elzárják a gázcsapot?",
+        "txtlength": 13199
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/05/03/a-magyar-politikai-elit-egysegesen-allt-ki-a-gendernyomasztas-ellen",
+        "h1": "A magyar politikai elit egységesen állt ki a gendernyomasztás ellen",
+        "txtlength": 12737
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/kkv/20220503_arstop_inflacio_bevasarlas_elelmiszerar",
+        "h1": "Megnéztük, milyen hatása van az árstopnak a boltokban",
+        "txtlength": 10680
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/05/03/tobb-mint-felmilliard-forintos-penzmosassal-vadoljak-a-magyar-punkosdi-egyhaz-szervezetenek-vezetoit",
+        "h1": "Több mint félmilliárd forintos pénzmosással vádolják a Magyar Pünkösdi Egyház szervezetének vezetőit",
+        "txtlength": 10202
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/zsarolas-csalas-bunszervezett-mulatos-zene-trukk/kydvgne?sl_ps=d_10",
+        "h1": "Barátjának hitte a muzsikust, de csúnyán átverték: mulatószenész bandája fosztotta ki Lászlót",
+        "txtlength": 9050
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/magyar-erettsegi-feladatok-2022/1t9cq76",
+        "h1": "Érettségi 2022: ezek az idei magyar érettségi feladatai",
+        "txtlength": 6844
+    },
+    {
         "hostname": "kulturpart.hu",
         "pagelink": "https://kulturpart.blog.hu/2022/05/01/a_tanc_vilagnapjat_unnepeltek_a_millenarison",
         "h1": "A TÁNC VILÁGNAPJÁT ÜNNEPELTÉK A MILLENÁRISON",
