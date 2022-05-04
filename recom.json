@@ -1,5 +1,185 @@
 [
     {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/sportszelet-ahogy-gaspar-bea-kesziti.recept",
+        "h1": "SPORTSZELET, AHOGY GÁSPÁR BEA KÉSZÍTI",
+        "txtlength": 12292
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/aranygaluska-vaniliasodoval-klasszikus.recept",
+        "h1": "ARANYGALUSKA VANÍLIASODÓVAL ",
+        "txtlength": 12285
+    },
+    {
+        "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/tejszines-fokhagymas-csirke",
+        "h1": "Tejszínes fokhagymás csirke",
+        "txtlength": 11079
+    },
+    {
+        "hostname": "hataratkelo.blog.hu",
+        "pagelink": "https://hataratkelo.blog.hu/2022/05/01/magyarorszag_es_en_743#c41385403",
+        "h1": "Magyarország és én",
+        "txtlength": 56071
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220504_ez_mar_a_iii_vilaghaboru_volna",
+        "h1": "Ez már a III. világháború volna?",
+        "txtlength": 21136
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220503_zelenszkij_ukrajna_haboru_time",
+        "h1": "Zelenszkij háborús elnökségét méltatja a Time",
+        "txtlength": 20633
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/global/20220504/hadgyakorlatba-kezdtek-a-feheroroszok-fokozodik-a-helyzet-moldovaban-is-a-legfontosabb-haborus-hirek-szerdan-542749",
+        "h1": "Hadgyakorlatba kezdtek a fehéroroszok, fokozódik a helyzet Moldovában is – A legfontosabb háborús hírek szerdán ",
+        "txtlength": 20517
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/kozelet/20220504/pont-a-hatranyos-helyzetu-iskolakba-kellenenek-a-legjobb-tanarok/",
+        "h1": "Pont a hátrányos helyzetű iskolákba kellenének a legjobb tanárok",
+        "txtlength": 20275
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220426_haboru_elelmiszer_dragulas",
+        "h1": "Háború és élelmiszer-drágulás – hová tart a világ?",
+        "txtlength": 18822
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/hitel/20220502/legy-ovatos-ezekkel-az-olcso-hitelekkel-rafizetes-lehet-a-vege-a-sporolos-kolcsonoknek-1124378",
+        "h1": "Légy óvatos ezekkel az olcsó hitelekkel: ráfizetés lehet a vége a spórolós kölcsönöknek",
+        "txtlength": 18000
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/oktatas/20220503/matematika-erettsegi-2022-matek-vizsgatippek-feladatok-megoldasok-eredmenyek-egy-helyen-1124481",
+        "h1": "Matematika érettségi 2022: matek vizsgatippek, feladatok, megoldások, eredmények egy helyen",
+        "txtlength": 17855
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vilag/20220503/nem-a-csillogo-uj-fegyverek-jatsszak-a-legfontosabb-szerepet-ukrajnaban/",
+        "h1": "Nem a csillogó új fegyverek játsszák a legfontosabb szerepet Ukrajnában",
+        "txtlength": 15370
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/befektetes/20220504/itt-az-ujabb-szankcios-tervezet-mutatjuk-a-tozsdei-reakciokat-542767",
+        "h1": "Itt az újabb szankciós tervezet, mutatjuk a tőzsdei reakciókat ",
+        "txtlength": 15052
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/ingatlan/20220504/belefulladunk-az-epitett-kornyezetbe-mashogy-kell-felhasznalni-az-epitoipari-anyagokat-542583",
+        "h1": "Belefulladunk az épített környezetbe - Máshogy kell felhasználni az építőipari anyagokat",
+        "txtlength": 14124
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2022/05/03/egymilliard-kutya-el-velunk-es-a-fold-mar-alig-birja-el-az-okologiai-labnyomukat",
+        "h1": "EGYMILLIÁRD KUTYA ÉL VELÜNK, ÉS A FÖLD MÁR ALIG BÍRJA EL AZ ÖKOLÓGIAI LÁBNYOMUKAT",
+        "txtlength": 13925
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/egeszseg/sarokfajdalom-okai/",
+        "h1": "Ezek a sarokfájdalom leggyakoribb okai: szakorvos részletezte a kezelési lehetőségeket",
+        "txtlength": 10596
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/lajfhekk/mit-lehet-enni-este/",
+        "h1": "Mit lehet enni este",
+        "txtlength": 10216
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/gazdasag/2022/05/04/hernadi-zsolt-legyunk-realisak-lehet-hogy-mas-filmet-fogunk-nezni-de-a-szereplok-ugyanazok-lesznek",
+        "h1": "Hernádi Zsolt: Olajszankció esetén nagyon nagy lenne a baj",
+        "txtlength": 30075
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/belfold/2022/05/04/jobbik-part-jakab-peter-vona-gabor-sneider-tamas-2018-2022-valasztas",
+        "h1": "Pár éve még kormányváltó ereje volt, mára csak a parizer és a lókupecezés maradt belőle",
+        "txtlength": 24693
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kulfold/2022/05/04/szlovakia-tisztitotuz-robert-fico-robert-kalinak-andrej-kiska-jan-kuciak-gyilkossag/",
+        "h1": "Tisztítótűz Szlovákiában: a legmagasabb szintig értek az elitet fenyegető büntetőeljárások",
+        "txtlength": 23302
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2022/05/04/valaszas-2022-eredmenyek-ellenzek-jobbik/",
+        "h1": "Akkorát bukott az ellenzék, hogy azt nem lehet egyszerűen a hiányzó jobbikos szavazatokra fogni",
+        "txtlength": 20050
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/kultura/20220504_ukran_szineszek_budapesten_babszinhaz_haboru_three_co_theatre",
+        "h1": "„Az oroszok félnek a hadseregünkkel szembeszállni, inkább a gyerekeinkkel és nagymamáinkkal harcolnak”",
+        "txtlength": 17851
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/vilag/20220503_Becsuktam_a_szememet_ugy_fotoztam_a_kislany_holttestet",
+        "h1": "„Becsuktam a szememet, úgy fotóztam a kislány holttestét”",
+        "txtlength": 17341
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/szorakozas/2022/05/04/better-things-jobb-idok-pamela-adlon-louis-ck-sorozat-fx",
+        "h1": "Ez az anyaságdolog nem puhapöcsöknek való",
+        "txtlength": 13161
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kulfold/2022/05/04/orosz-ukran-haboru-percrol-percre-majus-4-azovsztal-mariupol/",
+        "h1": "Az EU olajembargót vezet be Oroszországgal szemben, Magyország sorsa a tagállamokon múlik",
+        "txtlength": 13141
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/05/04/vannak-meg-olyanok-akik-nem-szemetlada-gyava-es-kreten-alakkent-akarnak-meghalni",
+        "h1": "Vannak még olyanok, akik nem szemétláda, gyáva és kretén alakként akarnak meghalni",
+        "txtlength": 11880
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/vilag/20220504_Percrol_percre_orosz_ukran_haboru",
+        "h1": "Visszatámadtak az ukránok a Kígyó-szigeten, még több embert próbálnak kimenekíteni Mariupolból - percről percre az orosz-ukrán háborúról",
+        "txtlength": 11499
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/05/03/egy-friss-torvenyjavaslat-alapjan-pinterhez-kerulhet-az-egeszsegugy",
+        "h1": "Egy friss törvényjavaslat alapján Pintérhez kerülhet az egészségügy",
+        "txtlength": 8364
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/tataharkany-keseles-tinedzser/nt358yf?sl_ps=d_6",
+        "h1": "Máshogy emlékszik a balhéra a tini késelő és áldozata: „Több darabot kivágott a testemből Elemér”",
+        "txtlength": 7699
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/kulfold/orosz-ukran-haboru-orosz-ukran-konfliktus-vlagyimir-putyin-a-vegitelet-gepe/fjwthxq",
+        "h1": "Felszállt Putyin „végítélet” repülőgépe: ez akár a legrosszabbat is jelentheti",
+        "txtlength": 6155
+    },
+    {
         "hostname": "nosalty.hu",
         "pagelink": "https://www.nosalty.hu/recept/soskafozelek-tejjel",
         "h1": "Sóskafőzelék tejjel",
