@@ -1,6 +1,186 @@
 [
     {
         "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/turos-pite-video.recept",
+        "h1": "TÚRÓS PITE",
+        "txtlength": 12010
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/fanta-szelet-ahogy-gaspar-bea-kesziti.recept",
+        "h1": "FANTA SZELET, AHOGY GÁSPÁR BEA KÉSZÍTI",
+        "txtlength": 11888
+    },
+    {
+        "hostname": "hataratkelo.blog.hu",
+        "pagelink": "https://hataratkelo.blog.hu/2022/05/01/magyarorszag_es_en_743#c41387967",
+        "h1": "Magyarország és én",
+        "txtlength": 54586
+    },
+    {
+        "hostname": "kulturpart.hu",
+        "pagelink": "https://kulturpart.blog.hu/2022/05/04/kulonleges_berlettelk_jelentkezik_a_pannon_filharmonikusok",
+        "h1": "KÜLÖNLEGES BÉRLETTEL JELENTKEZIK A PANNON FILHARMONIKUSOK",
+        "txtlength": 8596
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220505_abortusz_usa_legfels%C5%91bb_birosag",
+        "h1": "Szigoríthatják az abortuszt Amerikában a Legfelsőbb Bíróság terve alapján",
+        "txtlength": 27994
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/tech/20220505/elkerulheto-lett-volna-tobb-ezer-dolgozo-elbocsatasa-a-legendas-magyar-cegnel/",
+        "h1": "Elkerülhető lett volna több ezer dolgozó elbocsátása a legendás magyar cégnél?",
+        "txtlength": 25979
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/uzlet/20220505/uj-ceg-erkezik-a-magyar-tozsdere-nemzetkozi-ambiciokkal-a-kiberbiztonsagban-542665",
+        "h1": "Új cég érkezik a magyar tőzsdére, nemzetközi ambíciókkal a kiberbiztonságban",
+        "txtlength": 24718
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/uzlet/20220505/masterplast-rekord-elso-negyedeves-bevetel-es-meg-csak-most-jon-a-hoszigeteles-evtizede-543023",
+        "h1": "Masterplast: rekord első negyedéves bevétel és még csak most jön a hőszigetelés évtizede",
+        "txtlength": 23631
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220505_soros_gyorgy_kulfold_joe_biden_usa_egyesult_allamok",
+        "h1": "Mediaworks: a Biden-adminisztrációba is beépült a Soros-hálózat",
+        "txtlength": 23478
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/global/20220505/az-ukrajnai-pusztitas-megijeszthette-a-vilag-egyik-vezeto-szuperhatalmat-lehet-hogy-elkerultunk-egy-igazan-brutalis-haborut-542899",
+        "h1": "Az ukrajnai pusztítás megijeszthette a világ egyik vezető szuperhatalmát - Lehet, hogy elkerültünk egy igazán brutális háborút",
+        "txtlength": 22666
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/oktatas/20220504/megint-18-ev-lehet-a-tankotelezettseg-magyarorszagon-kijott-a-friss-jelentes-muszaj-lenne-lepni-1124539",
+        "h1": "Megint 18 év lehet a tankötelezettség Magyarországon? Kijött a friss jelentés, muszáj lenne lépni",
+        "txtlength": 19984
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220427_precedens_boszorkanyper_amerika",
+        "h1": "Boszorkányperek Amerikában",
+        "txtlength": 19073
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/elet/20220504/kozel-8-milliard-forintert-indulhat-a-giro-budapestrol-de-mit-hoz-magyarorszagnak/",
+        "h1": "Közel 8 milliárd forintért indulhat a Giro Budapestről, de mit hoz Magyarországnak?",
+        "txtlength": 18625
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/utazas/20220503/szuperolcso-nyari-uti-cel-2022-re-ma-meg-csak-keves-magyar-ismeri-a-balkan-igazi-gyongyszemet-1124509",
+        "h1": "Szuperolcsó nyári úti cél 2022-re: ma még csak kevés magyar ismeri a Balkán igazi gyöngyszemét",
+        "txtlength": 18262
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/szuloseg/attekinto-hatas-az-oktatasban/",
+        "h1": "áttekintő hatás az oktatásban",
+        "txtlength": 12610
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/utazas/diomede-szigetek/",
+        "h1": "Az Egyesült Államokból át lehet sétálni Oroszországba - A Diomede-szigetek nem csak emiatt érdekes",
+        "txtlength": 11136
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2022/05/05/kende-anna-az-hogy-eddig-is-igy-volt-ezutan-is-igy-marad-nem-erv-a-tetlensegre",
+        "h1": "KENDE ANNA: AZ, HOGY EDDIG IS ÍGY VOLT, EZUTÁN IS ÍGY MARAD, NEM ÉRV A TÉTLENSÉGRE",
+        "txtlength": 11006
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/english/2022/05/05/plasma-therapy-the-covid-success-story-that-wasnt",
+        "h1": "Plasma therapy: the Covid success story that wasn't",
+        "txtlength": 36997
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kozelet/2022/05/05/medve-szekelyfold-tanczos-barna-vadasz-mezogazdasagi-karok-kornyezetvedo-zoldek",
+        "h1": "Le lehet lőni egymás után egy csomó medvét, de ez nem hoz megoldást",
+        "txtlength": 31344
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kulfold/2022/05/04/sanghaj-vesztegzar-podcast-magyarok-kina-koronavirus-lezaras-tapasztalatok",
+        "h1": "Ilyen, amikor 25 millióan kerülnek egyszerre karanténba",
+        "txtlength": 21649
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/gazdasag/20220505_olajembargo_mol_ukrajna_oroszorszag",
+        "h1": "A Mol az olajembargóval elveszíti minden helyzeti előnyét, de óriási lehetőségeket is kínálhat a brüsszeli egérút",
+        "txtlength": 15592
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kulfold/2022/05/05/orosz-ukran-haboru-percrol-percre-majus-5-azovsztal-mariupol-putyin-zelenszkij/",
+        "h1": "Oroszország nukleáris csapásokat szimulál, véres ütközetek a mariupoli acélműben",
+        "txtlength": 14068
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/05/05/fideszes-cancel-culture-a-parlamentben",
+        "h1": "Fideszes cancel culture a parlamentben",
+        "txtlength": 13456
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/fn/gazdasag/2022/05/05/nyuszet-kisnyugdijasok-sulyos-megelhetesi-valsag/",
+        "h1": "NYUSZET: ki kell mondanunk, hogy súlyos megélhetési válság fenyegeti a kisnyugdíjasokat",
+        "txtlength": 12641
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kultura/2022/05/04/sajtofoto-kiallitas-valogatas-40-ev-legjobb-magyar-sajtofotoibol-capa-kozpont/",
+        "h1": "Négy évtized alatt sem változott a lényeg – 40 év sajtófotóin a valós időben zajló történelem",
+        "txtlength": 12263
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/05/05/amerikai-segitseggel-tizedeltek-az-ukranok-az-orosz-tabornoki-kart",
+        "h1": "Amerikai segítséggel tizedelték az ukránok az orosz tábornoki kart",
+        "txtlength": 11476
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/eurologus/20220503_Jogallamisagi_vita_az_Europai_Parlamentben",
+        "h1": "Didier Reynders: Nem fog az Európai Bizottság tétovázni, ha fel kell lépni Magyarország ellen",
+        "txtlength": 11204
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/zhvg/20220504_zCast_Ne_pakoljunk_fel_napelemeket_amig_azt_sem_tudjuk_hogyan_kell_rendesen_szelloztetni",
+        "h1": "zCast: Ne pakoljunk fel napelemeket, amíg azt sem tudjuk, hogyan kell rendesen szellőztetni",
+        "txtlength": 10324
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/politika/jobbik-nemi-eroszak-botrany-szilagyi-gyorgy-alelnok/rrdb1gr?sl_ps=d_1",
+        "h1": "Elképesztő botrány a Jobbiknál: az alelnök élettársát meg akarták erőszakolni egy pártrendezvényen",
+        "txtlength": 7430
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/penzugyminiszteri-tanacsos-180-millio-a-szefben-vesztegetes/t40ekhz",
+        "h1": "Vesztegetési csalás: hatalmas summát őrzött egy pénzügyminisztériumi tanácsos a széfjében, amiből 180 millió állítása szerint az anyja pénze – Fotókon a rejtekhely",
+        "txtlength": 6817
+    },
+    {
+        "hostname": "mindmegette.hu",
         "pagelink": "https://www.mindmegette.hu/sportszelet-ahogy-gaspar-bea-kesziti.recept",
         "h1": "SPORTSZELET, AHOGY GÁSPÁR BEA KÉSZÍTI",
         "txtlength": 12292
