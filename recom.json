@@ -1,6 +1,186 @@
 [
     {
         "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/konyakmeggyes-szelet.recept",
+        "h1": "KONYAKMEGGYES SZELET",
+        "txtlength": 11584
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/sonkas-zoldseges-rakott-nokedli.recept",
+        "h1": "SONKÁS-ZÖLDSÉGES RAKOTT NOKEDLI",
+        "txtlength": 11552
+    },
+    {
+        "hostname": "hataratkelo.blog.hu",
+        "pagelink": "https://hataratkelo.blog.hu/2022/05/01/magyarorszag_es_en_743#c41389347",
+        "h1": "Magyarország és én",
+        "txtlength": 63000
+    },
+    {
+        "hostname": "kulturpart.hu",
+        "pagelink": "https://kulturpart.hu/2022/05/04/kulonleges_berlettelk_jelentkezik_a_pannon_filharmonikusok",
+        "h1": "KÜLÖNLEGES BÉRLETTEL JELENTKEZIK A PANNON FILHARMONIKUSOK",
+        "txtlength": 8259
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/vasarlas/20220504/kirakatba-rakta-mestertervet-az-emag-vezer-10-eve-keszulnek-az-amazon-jottere-igy-allitanak-meg-1124484",
+        "h1": "Kirakatba rakta mestertervét az eMAG-vezér: 10 éve készülnek az Amazon jöttére, így állítanák meg",
+        "txtlength": 37011
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/befektetes/20220506/a-magyar-bankar-aki-chilebe-koltozott-etikus-penzintezetet-epiteni-541489",
+        "h1": "A magyar bankár, aki Chilébe költözött etikus pénzintézetet építeni",
+        "txtlength": 27275
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vallalat/20220506/meg-sokaig-eszi-a-magyar-fizeteseket-a-kontenerkaosz/",
+        "h1": "Még sokáig eszi a magyar fizetéseket a konténerkáosz",
+        "txtlength": 24005
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/oktatas/20220505/vege-a-jo-vilagnak-sulyos-penzeket-a-fizethetnek-a-magyar-fiatalok-ha-2022-ben-diplomat-akarnak-1124557",
+        "h1": "Vége a jó világnak: súlyos pénzeket a fizethetnek a magyar fiatalok, ha 2022-ben diplomát akarnak",
+        "txtlength": 22558
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/penz/20220505/ezert-nem-vettem-soha-szuperallampapirt/",
+        "h1": "Ezért nem vettem soha szuperállampapírt",
+        "txtlength": 22030
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220504_szlovakia_bun_kulfold",
+        "h1": "Hálózatok csapdájában – Bűn, bűnüldözés és politika Szlovákiában",
+        "txtlength": 21679
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220506_autopalya_koncesszio_kockazat_gyurcsany",
+        "h1": "Tíz éven belül 317 kilométer új út épül, 265 kilométeren sávbővítések is lesznek",
+        "txtlength": 18504
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20220506/oriasi-tette-nagyitotta-orban-viktor-az-unios-olajembargo-ugyet-543287",
+        "h1": "Óriási tétté nagyította Orbán Viktor az uniós olajembargó ügyét",
+        "txtlength": 18268
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220506_werner_patzelt_interju_nemet_jobboldal_orban",
+        "h1": "Hogyan látják Magyarországot a németek? – Werner Patzelt a Mandinernek",
+        "txtlength": 17949
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/ingatlan/20220506/megvan-a-35-evre-szolo-autopalya-koncesszio-nyertese-543277",
+        "h1": "Megvan a 35 évre szóló autópálya-koncesszió nyertese!",
+        "txtlength": 17915
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2022/05/06/burjanzanak-a-madarinfluenza-virusok-es-nagyon-oda-kell-figyelni-hogy-ne-terjedjenek-emberrol-emberre",
+        "h1": "BURJÁNZANAK A MADÁRINFLUENZA-VÍRUSOK, ÉS NAGYON ODA KELL FIGYELNI, HOGY NE TERJEDJENEK EMBERRŐL EMBERRE",
+        "txtlength": 17380
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/szuloseg/sztar-orokbefogadas-gyerek/",
+        "h1": "Örökbe fogadó sztár gyerek szülő",
+        "txtlength": 12253
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/kapcsolat/albert-einstein-mileva-maric-hazassaga/",
+        "h1": "Unokatestvéréért hagyta el első feleségét Einstein - Milevának listát írt arról, hogyan kell viselkednie vele",
+        "txtlength": 11474
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kultura/2022/05/05/rudolf-peter-vallo-peter-vigszinhaz-interju-baratom-harvey-covid-szinhaz-szfe/",
+        "h1": "„Kötelezően ki kell lógjanak az idegeid, ebből élsz”",
+        "txtlength": 26475
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2022/05/06/jobbik-elnok-jakab-peter-stummer-janos-valasztas-frakcio/",
+        "h1": "Leváltják-e Jakab Pétert a szexbotrány árnyékában, és kik kavarnak a frakcióban? – Így fest a Jobbik a választási zakó után",
+        "txtlength": 25276
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kozelet/2022/05/06/a-medvek-es-tusnadfurdo-fenntarthato-egyuttelesre-epitenek-brandet-a-ro-alert-turizmus-helyett",
+        "h1": "A medvék és Tusnádfürdő: együttélés a medveriasztás-turizmus helyett",
+        "txtlength": 18862
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/sport/2022/05/05/bajnokok-ligaja-liverpool-villarreal-real-madrid-manchester-city-elemzes",
+        "h1": "A Real Madrid hihetetlen, a Liverpool csúcsokat döntöget – három csere döntött a BL-döntőbe jutásokról",
+        "txtlength": 18208
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/gazdasag/20220506_giro_magyarorszag_penzugyek_rajt",
+        "h1": "Indul a Giro: mit kap Magyarország a 7,8 milliárd forintért, amit a versenyre költünk?",
+        "txtlength": 17515
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kulfold/2022/05/06/orosz-ukran-haboru-mariupol-azovsztal-eromu-tulelok-beszamolok",
+        "h1": "Tudtuk, ha becsapódik egy rakéta, tömegsírrá válik a menedék, senki nem jön megmenteni minket",
+        "txtlength": 16338
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kulfold/2022/05/06/stefan-mair-jogallamisagi-eljaras-europai-egyseg-interju/",
+        "h1": "„Nehéz lesz keménykedni a jogállamisági eljárásokban, ha az európai egység fenntartása a cél”",
+        "txtlength": 15778
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/vilag/20220506_A_pinceben_bujtak_el_de_a_bomba_epp_az_epuletnek_azt_a_reszet_rombolta_le_ahol_a_pince_volt",
+        "h1": "\"A pincében bújtak el, de a bomba épp az épületnek azt a részét rombolta le, ahol a pince volt\"",
+        "txtlength": 15177
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/05/06/a-nap-amikor-putyin-bocsanatot-kert",
+        "h1": "A nap, amikor Putyin bocsánatot kért",
+        "txtlength": 11815
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20220506_orban_viktor_kossuth_radio_interju",
+        "h1": "Orbán: Az olajembargóról szóló javaslat felér a magyar gazdaságra ledobott atombombával",
+        "txtlength": 11780
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/politika/orban-viktor-kossuth-radio-bejelentes-majus-6/8600yhm",
+        "h1": "Orbán Viktor szerint az unió szankciós javaslata atombomba, ha elfogadják, vége a rezsicsökkentésnek – Az új kormányban sok új ember lesz, jelentős átalakításra készül",
+        "txtlength": 10512
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/05/05/az-izraeli-legfelsobb-birosag-jovahagyta-hogy-ledozeroljanak-nyolc-palesztin-falut-es-kitelepitsenek-ezer-embert",
+        "h1": "Az izraeli Legfelsőbb Bíróság jóváhagyta, hogy ledózeroljanak nyolc palesztin falut és kitelepítsenek ezer embert",
+        "txtlength": 9460
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/penz/mol-csoport-eredmeny-tozsde/mj7rnwe",
+        "h1": "Hiába az üzemanyagárstop, a Mol hatalmasat kaszált: ennyit nőtt idén a cégcsoport eredménye",
+        "txtlength": 8651
+    },
+    {
+        "hostname": "mindmegette.hu",
         "pagelink": "https://www.mindmegette.hu/turos-pite-video.recept",
         "h1": "TÚRÓS PITE",
         "txtlength": 12010
