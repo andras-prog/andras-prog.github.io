@@ -1,5 +1,197 @@
 [
     {
+        "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/retro-gyumolcstorta",
+        "h1": "Retro gyümölcstorta",
+        "txtlength": 16407
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/erdei-gyumolcsos-parna.recept",
+        "h1": "ERDEI GYÜMÖLCSÖS PÁRNA",
+        "txtlength": 11617
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/sajtos-rud-leveles-tesztabol-glutenmentes-recept.recept",
+        "h1": "SAJTOS RÚD LEVELES TÉSZTÁBÓL (GLUTÉNMENTES RECEPT)",
+        "txtlength": 11466
+    },
+    {
+        "hostname": "kiszamolo.hu",
+        "pagelink": "https://kiszamolo.hu/mi-lenne-ha-igy-elnenk/",
+        "h1": "Mi lenne, ha így élnénk?",
+        "txtlength": 43036
+    },
+    {
+        "hostname": "efesasanisimasa.com",
+        "pagelink": "https://efesasanisimasa.com/2022/05/05/sajat-szoba-a-tenger-dala-song-of-the-sea-2014/",
+        "h1": "Saját szoba – A tenger dala (Song of the Sea, 2014)",
+        "txtlength": 10697
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220506_benes_dekretum_praga_csehorszag",
+        "h1": "Mit gondolnak a magyarokról a csehek? – a Prágai Közgazdasági Egyetem kancellárja a Mandinernek",
+        "txtlength": 38025
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/gazdasag/20220505/tomeges-kutbezarasok-johetnek-magyarorszagon-az-embargo-betehet-a-hatosagi-arnak-is-1124560",
+        "h1": "Tömeges kútbezárások jöhetnek Magyarországon: az embargó betehet a hatósági árnak is",
+        "txtlength": 26276
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220531_ezt_a_haborut_oroszorszag_mar_elvesztette_szakertok_a_mandiner_vita_esemenyen",
+        "h1": "Ezt a háborút Oroszország már elvesztette – szakértők a Mandiner Vita eseményén!",
+        "txtlength": 23747
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220506_miert_ne_lehetne_orban_viktort_kritizalni_fabry_sandor_a_mandinernek",
+        "h1": "Miért ne lehetne Orbán Viktort kritizálni? – Fábry Sándor a Mandinernek",
+        "txtlength": 22416
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/vasarlas/20220506/50-60-szazalekos-learazast-is-elesitenek-a-boltok-ezeket-nem-talalod-meg-az-akcios-ujsagban-1124538",
+        "h1": "50-60 százalékos leárazást is élesítenek a boltok: ezeket nem találod meg az akciós újságban",
+        "txtlength": 20990
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/penz/20220506/ujabb-szankciok-jonnek-oroszorszaggal-szemben-de-mit-ertek-el-az-eddigiek/",
+        "h1": "Újabb szankciók jönnek Oroszországgal szemben, de mit értek el az eddigiek?",
+        "txtlength": 19112
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/global/20220507/5-ok-amiert-vlagyimir-putyin-hetfon-bejelentheti-oroszorszag-gyozelmet-543363",
+        "h1": "5 ok, amiért Vlagyimir Putyin hétfőn bejelentheti Oroszország győzelmét",
+        "txtlength": 19092
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20220506/evtizedek-ota-nem-latott-hatasok-magyarorszagon-ujabb-harc-indul-a-magasabb-berekert-543307",
+        "h1": "Évtizedek óta nem látott hatások Magyarországon - Újabb harc indul a magasabb bérekért",
+        "txtlength": 17668
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/ingatlan/20220506/megvan-a-hivatalos-dokumentum-igy-epulnek-35-evig-autopalyak-magyarorszagon-543451",
+        "h1": "Megvan a hivatalos dokumentum, így épülnek 35 évig autópályák Magyarországon",
+        "txtlength": 16725
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/penz/20220507/kockazatos-de-nagy-nyereseggel-kecsegteto-ev-johet-a-magyar-agrariumban/",
+        "h1": "Kockázatos, de nagy nyereséggel kecsegtető év jöhet a magyar agráriumban",
+        "txtlength": 16327
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2022/05/07/hova-tunt-a-735-os-ut",
+        "h1": "HOVÁ TŰNT A 735-ÖS ÚT?",
+        "txtlength": 13770
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/testem/baba-emlek-csecsemokor/",
+        "h1": "baba emlékezet kor emlék memória csecsemő kísérlet agy",
+        "txtlength": 12791
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/szuloseg/kerekparozas-egeszseges/",
+        "h1": "kerékpározás egészséges",
+        "txtlength": 11149
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/utazas/legszebb-bkk-utvonalak/",
+        "h1": "Ezek a BKK legszebb útvonalai: a turisták is a csodájára járnak",
+        "txtlength": 10983
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/tudomany/2022/05/07/belga-menekultak-nagy-britannia-elso-vilaghaboru-tortenelem/",
+        "h1": "Nem sokáig fogadták örömmel a háború elől menekülőket",
+        "txtlength": 19132
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kulfold/2022/05/06/oroszorszag-eu-szankcio-olaj-embargo-brusszel-orban-szijjarto-veto-mol-baratsag-vezetek",
+        "h1": "Brüsszelben mertek nagyot álmodni az olajembargóról, de ehhez ki kell fizetni Orbánnak a védelmi pénzt",
+        "txtlength": 18691
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kulfold/2022/05/07/orosz-ukran-haboru-73-nap-percrol-percre",
+        "h1": "Elismerte az amerikai hírszerzés, hogy kisegítik Ukrajnát, Zelenszkij hajlandó lehet elfogadni a Krím orosz ellenőrzését",
+        "txtlength": 18089
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kulfold/2022/05/07/vesztegzar-sanghaj-omikron-kalandok-podcast-magyarok/",
+        "h1": "„Baromi nyomasztó, hogy nem azt eszek, amit akarok, hanem azt, ami van”",
+        "txtlength": 17515
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kultura/2022/05/07/az-otodik-elem-25-evfordulo-luc-besson-bruce-willis/",
+        "h1": "Huszonöt éve egyetlen szál gyufán múlt a Föld pusztulása",
+        "txtlength": 17494
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/belfold/2022/05/06/ellenzeki-partok-parlament-egyuttmukodes-osszefogas",
+        "h1": "Egy csapásra zárójelbe került a mindent felülíró összefogás",
+        "txtlength": 15744
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/kultura/20220507_ukrajna_mukincsek_rablas_oroszorszag",
+        "h1": "Ugyanúgy rabolják az oroszok Ukrajnában a műkincseket, ahogy a nagyapáik tették",
+        "txtlength": 12965
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/05/06/eloretort-a-munkaspart-az-angliai-helyhatosagi-valasztasokon",
+        "h1": "Előretört a Munkáspárt az angliai helyhatósági választásokon",
+        "txtlength": 12121
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/05/07/ma-sem-erdemes-autozni-budapesten-folytatodik-a-giro-ditalia",
+        "h1": "Ma sem érdemes autózni Budapesten, folytatódik a Giro d'Italia",
+        "txtlength": 11411
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/bojte-atya-zarandolkut-matraverebely-szentkut-riport/t36bk5j",
+        "h1": "Ünneplőbe öltöztek a lelkek: zarándokútra mentünk Böjte atyával",
+        "txtlength": 10844
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/politika/putyin-elnok-orosz-ukran-haboru-csecsen-haboru-hatalom/9950n88",
+        "h1": "Putyin hatalomra kerülésének története – 22 éve vezeti Oroszországot a vaskezű, háborúzó elnök",
+        "txtlength": 10720
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/kultura/20220507_Total_abszurd_nem_tortenhetett_meg__Hodosan_Roza_es_Rainer_M_Janos_A_besugorol",
+        "h1": "„Totál abszurd, nem történhetett meg” – Hodosán Róza és Rainer M. János A besúgóról",
+        "txtlength": 8878
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20220507_blaha_lujza_teren_jart_a_kormanymedia",
+        "h1": "Tarlós is zebrákat akart a Blahára, a kormánymédia most mégis Karácsonyt támadja",
+        "txtlength": 8651
+    },
+    {
         "hostname": "mindmegette.hu",
         "pagelink": "https://www.mindmegette.hu/konyakmeggyes-szelet.recept",
         "h1": "KONYAKMEGGYES SZELET",
