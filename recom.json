@@ -1,5 +1,179 @@
 [
     {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/burgonyakremleves-szalonnaval-fozve.recept",
+        "h1": "BURGONYAKRÉMLEVES SZALONNÁVAL FŐZVE",
+        "txtlength": 11628
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/isler-glutenmentes-tejmentes-tojasmentes.recept",
+        "h1": "ISLER (GLUTÉN-, TEJ-, ÉS TOJÁSMENTES)",
+        "txtlength": 11443
+    },
+    {
+        "hostname": "hataratkelo.blog.hu",
+        "pagelink": "https://hataratkelo.blog.hu/2022/05/01/magyarorszag_es_en_743",
+        "h1": "Magyarország és én",
+        "txtlength": 58540
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220330_ars_naturae_folyoirat_kocsi_lajos_tradicionalitas_hamvas_bela_metafizika_termeszet_iszlam_keresztenyseg",
+        "h1": "„Isten művét szemlélve ismerjük fel, nekünk magunknak mit kell tennünk” – Kocsi Lajos a Mandinernek",
+        "txtlength": 61749
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220508_bagi_daniel_lengyel_magyar_tortenelem",
+        "h1": "A középkorban is előfordult, hogy eltértek a magyar és lengyel érdekek – polonista történész a Mandinernek",
+        "txtlength": 26008
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/kozelet/20220507/magyarorszag-a-populizmus-csapdajaban/",
+        "h1": "Magyarország a populizmus csapdájában",
+        "txtlength": 25484
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220508_nemetorszag_schleswig_holstein",
+        "h1": "Csúnyát bukhat a német baloldal Schleswig-Holsteinben",
+        "txtlength": 20763
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/global/20220508/az-eluzott-nehai-diktator-fia-veheti-at-a-hatalmat-a-kinai-amerikai-versenges-egyik-fontos-orszagaban-543499",
+        "h1": "Az elűzött néhai diktátor fia veheti át a hatalmat a kínai-amerikai versengés egyik fontos országában",
+        "txtlength": 19431
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/krtk/20220507/a-magyar-kormany-kina-barat-politikaja-ellenere-is-magyarorszag-a-tajvani-cegek-egyik-legvonzobb-europai-celpontja-542921",
+        "h1": "A magyar kormány Kína-barát politikája ellenére is Magyarország a tajvani cégek egyik legvonzóbb európai célpontja",
+        "txtlength": 19159
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2022/05/08/ed-ki-a-legnagyobb-kiraly-az-1-helyen-szent-istvan",
+        "h1": "KI A LEGNAGYOBB KIRÁLY? AZ 1. HELYEN: SZENT ISTVÁN",
+        "txtlength": 19062
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/ingatlan/20220507/felere-eshetnek-vissza-a-lakasepitesek-johet-az-16-millios-negyzetmeterar-a-lakaspiacon-543539",
+        "h1": "Felére eshetnek vissza a lakásépítések, jöhet az 1,6 milliós négyzetméterár a lakáspiacon",
+        "txtlength": 17709
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/gazdasag/20220506/az-orosz-ukran-haboru-letarolta-magyar-bankszektort-is-veszteseges-az-otp-bizonytalanok-a-kilatasok-1124609",
+        "h1": "Az orosz-ukrán háború letarolta magyar bankszektort is: veszteséges az OTP, bizonytalanok a kilátások",
+        "txtlength": 17549
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/megtakaritas/20220504/tobb-szazezer-magyart-semmiz-ki-sajat-csaladtagja-sokan-eszre-sem-veszik-ha-nagy-a-baj-1124542",
+        "h1": "Több százezer magyart semmiz ki saját családtagja: sokan észre sem veszik, ha nagy a baj",
+        "txtlength": 16403
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/egeszseg/zoldhalyog-kezeles/",
+        "h1": "Vakságot okozhat a zöld hályog helytelen kezelése: a beteg hozzáállása kulcsfontosságú",
+        "txtlength": 15714
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/penz/20220505/a-budapesti-arak-toredekeert-kapni-tobbszobas-lakasokat-egy-olasz-nyaralohelyen-ahonnan-eltuntek-az-oroszok/",
+        "h1": "A budapesti árak töredékéért kapni többszobás lakásokat egy olasz nyaralóhelyen, ahonnan eltűntek az oroszok",
+        "txtlength": 13904
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/lajfhekk/citrom-tisztitas/",
+        "h1": "Citrom tisztítás",
+        "txtlength": 9314
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kultura/2022/05/08/oroszorszag-ukrajna-kulturalis-ellentet-puskin-sevcsenko-orosz-birodalmi-ontudat-ukran-fuggetlenseg/",
+        "h1": "Azért kell háborúzni, mert az ukránok Puskin helyett Sevcsenkót választották",
+        "txtlength": 20339
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kulfold/2022/05/08/orosz-ukran-haboru-74-nap-percrol-percre",
+        "h1": "Hatvan ember nem került még elő a lebombázott ukrán iskola romjai alól, bútorgyárat és repülőteret talált el a szombati rakétacsapás Odesszában",
+        "txtlength": 17502
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2022/05/07/csikos-nyugagyak-meztelen-fenekek-locsolokanna-erdok-igy-muveltuk-kertjeinket/",
+        "h1": "Csíkos nyugágyak, meztelen fenekek, locsolókanna-erdők – így műveltük kertjeinket",
+        "txtlength": 17434
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kulfold/2022/05/08/pakisztan-kormanyvalsag-imran-khan-inflacio-ukran-orosz-haboru-putyin/",
+        "h1": "Az orosz-ukrán háború tehette be a kaput Pakisztán egykori krikett-világbajnok miniszterelnökének",
+        "txtlength": 16457
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/kultura/20220507_szekely_csaba_maria_orszaga_kritika_alfoldi_robert_szegedi_nemzeti_szinhaz",
+        "h1": "„Magyarország egy vágóhíd, csak sokkal több benne a marha”",
+        "txtlength": 15295
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kulfold/2022/05/08/ukran-katonai-akciok-oroszorszagban-szabotazs-baleset",
+        "h1": "Mik ezek a „balesetek”, amelyek épp az orosz területek érzékeny pontjain történnek?",
+        "txtlength": 14823
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/gazdasag/20220508_Es_akkor_Rogan_Meszaros_olaj_embargo_vasarlas_giro",
+        "h1": "És akkor Rogán Antal elmondta, mit gondol Mészáros Lőrincről",
+        "txtlength": 14792
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/eszkombajn/2022/05/08/a-horthy-kori-arisztokrata-aki-egy-kokainszeansz-aldozata-lett",
+        "h1": "A drogfüggő báró, akinek rejtélyes halála elhozta Kokós Lexi aranykorának végét",
+        "txtlength": 13928
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/elet/20220508_Abortusz_szigoritas_vagy_liberalizalas",
+        "h1": "Merre tovább abortuszjogok: szigorítás vagy liberalizálás?",
+        "txtlength": 13743
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/05/07/a-sinn-fein-nyerheti-az-eszak-ir-valasztast",
+        "h1": "A Sinn Féin nyerheti az észak-ír választást",
+        "txtlength": 10439
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/05/06/medgyessy-szerint-orban-tisztessegesen-kepviseli-a-magyar-erdekeket-energiaugyben",
+        "h1": "Medgyessy szerint Orbán tisztességesen képviseli a magyar érdekeket energiaügyben",
+        "txtlength": 10236
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/sztarvilag/kultura/feketehimlo-eltunt-betegseg-ragaly-fertozes/l5qfvby",
+        "h1": "A nap, amikor a WHO bejelentette, hogy eltűnt a világról a legveszedelmesebb járvány",
+        "txtlength": 9181
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/sma-tomika-zolgensma-segitseg/wwml2f4?sl_ps=d_6",
+        "h1": "Az anyukája nem meri etetni az SMA-s Tomikát: bármelyik evésnél elveszíthetem a fiamat",
+        "txtlength": 8209
+    },
+    {
         "hostname": "nosalty.hu",
         "pagelink": "https://www.nosalty.hu/recept/retro-gyumolcstorta",
         "h1": "Retro gyümölcstorta",
