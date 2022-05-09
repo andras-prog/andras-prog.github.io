@@ -1,6 +1,186 @@
 [
     {
         "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/villamgyors-epres-sutemeny-leveles-tesztabol-video.recept",
+        "h1": "VILLÁMGYORS EPRES SÜTI LEVELES TÉSZTÁBÓL",
+        "txtlength": 11685
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/juhturos-rakott-puliszka-egyszeruen.recept",
+        "h1": "JUHTÚRÓS RAKOTT PULISZKA",
+        "txtlength": 11372
+    },
+    {
+        "hostname": "hataratkelo.blog.hu",
+        "pagelink": "https://hataratkelo.blog.hu/2022/05/06/elso_valasztasunk_franciaorszagban#c41394517",
+        "h1": "Első választásunk Franciaországban",
+        "txtlength": 28524
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220509_hatalmasat_nyert_a_cdu_schleswig_holsteinben",
+        "h1": "Hatalmasat nyert a CDU Schleswig-Holsteinben",
+        "txtlength": 26945
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/tech/20220508/a-partizan-letiltasatol-a-kenyelmes-rendelesig-aldas-vagy-atok-az-uzleti-okoszisztema/",
+        "h1": "A Partizán letiltásától a kényelmes rendelésig: áldás vagy átok az üzleti ökoszisztéma?",
+        "txtlength": 24646
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vallalat/20220509/megnezheted-melyik-autopalyakon-keresnek-majd-akar-ezer-milliardot-is-meszarosek/",
+        "h1": "Megnézheted, melyik autópályákon keresnek majd akár ezer milliárdot is Mészárosék",
+        "txtlength": 24010
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/uzlet/20220508/szep-csendben-az-elet-minden-teruletet-letarolo-szuperappok-epulnek-mi-lesz-ebbol-542655",
+        "h1": "Szép csendben az élet minden területét letaroló szuperappok épülnek - Mi lesz ebből?",
+        "txtlength": 23332
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220509_ez_a_haboru_az_orosz_hubrisz_elrettento_peldaja",
+        "h1": "Ez a háború az orosz hübrisz elrettentő példája",
+        "txtlength": 19611
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220509_josh_hammer_newsweek_konzervativizmus",
+        "h1": "A konzervatívoknak bele kell állniuk a harcokba – a Newsweek szerkesztője a Mandinernek",
+        "txtlength": 18950
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/egeszseg/20220507/sorra-zarnak-be-az-ilyen-gyogyszertarak-rengeteg-telepules-maradhat-hamarosan-ellatas-nelkul-1124552",
+        "h1": "Sorra zárnak be az ilyen gyógyszertárak: rengeteg település maradhat hamarosan ellátás nélkül",
+        "txtlength": 17733
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/unios-forrasok/20220509/51-kozbeszerzesi-javaslat-ami-kiszabadithatja-az-euromilliardokat-a-jogallamisagi-eljaras-utan-543551",
+        "h1": "5+1 közbeszerzési javaslat, ami kiszabadíthatja az eurómilliárdokat a jogállamisági eljárás után",
+        "txtlength": 17422
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/bank/20220509/egyre-szinesebbek-a-hazai-mobilbankok-mutatjuk-mire-kepesek-542075",
+        "h1": "Egyre színesebbek a hazai mobilbankok - Mutatjuk mire képesek",
+        "txtlength": 17030
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/karrier/20220504/kifakadt-a-balatoni-vendeglatos-na-ezert-nem-talalnak-embert-1-millio-forintert-sem-1124533",
+        "h1": "Kifakadt a balatoni vendéglátós: na, ezért nem találnak embert 1 millió forintért sem",
+        "txtlength": 15530
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/egeszseg/borelvaltozasok-applikacio/",
+        "h1": "Ingyenes bőrvizsgálat érhető el a Semmelweis Egyetemen: több száz bőrbetegséget ismer fel ez az applikáció",
+        "txtlength": 13051
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/testem/jung-sabina-spielrein-pszichologia/",
+        "h1": "Jung Sabina Spielrein pszichológia",
+        "txtlength": 12356
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/lajfhekk/autoules-tisztitasa/",
+        "h1": "Autóülés tisztítása",
+        "txtlength": 8954
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2022/05/09/az-usa-utan-kina-is-kisbolygoba-csapodo-urszondat-indit-ami-tovabb-fokozhatja-a-ket-orszag-kozti-feszultseget",
+        "h1": "AZ USA UTÁN KÍNA IS KISBOLYGÓBA CSAPÓDÓ ŰRSZONDÁT INDÍT, AMI TOVÁBB FOKOZHATJA A KÉT ORSZÁG KÖZTI FESZÜLTSÉGET",
+        "txtlength": 8706
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2022/05/09/orban-balazs-interju/",
+        "h1": "Orbán Balázs: Olyan világot élünk, hogy ha valaki nem azzal kel minden nap, hogy megismétli, Putyin egy elfogadhatatlan háborút indított, az nem jó ember",
+        "txtlength": 40199
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kulfold/2022/05/09/oroszorszag-ukrajna-haboru-majus-9-gyozelem-napja/",
+        "h1": "A győzelem napját ünnepli Oroszország: Putyin beszédet mondott, de elmaradt a nagy bejelentés",
+        "txtlength": 21688
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kulfold/2022/05/09/orosz-ukran-haboru-75-nap-percrol-percre",
+        "h1": "Precíziós rakétákkal támadták Odessza környékét, tömegével viszik az oroszok az ukrán menekülteket Ázsiába",
+        "txtlength": 19354
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/belfold/2022/05/09/ader-janos-allamfo-koztarsasagi-elnok-tiz-ev-munkassaga-fidesz",
+        "h1": "Távozik a vasarcú államfő, aki tíz évig alig tett keresztbe Orbán Viktornak",
+        "txtlength": 15804
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/kkv/20220509_EU_Oroszorszag_gazszallitas_atomenergia",
+        "h1": "Kacifántos megoldásokat használnak az EU-s tagállamok és Oroszország, ha a szankciókról van szó",
+        "txtlength": 14900
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kulfold/2022/05/09/a-nyugat-elleni-ujabb-nagy-honvedo-haboruva-lett-az-ukrajnai-invazio-putyin-unnepi-beszedeben",
+        "h1": "A Nyugat elleni, újabb Nagy Honvédő Háborúvá lett az ukrajnai invázió Putyin ünnepi beszédében",
+        "txtlength": 14632
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kultura/2022/05/08/navalnij-film-novicsok-nyomozas-daniel-roher-dokumentumfilm/",
+        "h1": "Izgalmasabb lett a Navalnij-film, mint egy kémthriller",
+        "txtlength": 14358
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/05/09/aki-adja-a-penzt-az-rendeli-a-zenet",
+        "h1": "Aki adja a pénzt, az rendeli a zenét",
+        "txtlength": 12362
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/05/08/idokozi-polgarmesterek-zalaszabaron-vizsolyban-ilocskan-buruson-agyagosszergenyben-es-balatonudvardiban",
+        "h1": "Időközi polgármesterek Zalaszabaron, Vizsolyban, Ilocskán, Bürüsön, Agyagosszergényben, Balatonudvariban és Etyeken",
+        "txtlength": 11860
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/vilag/20220509_oroszukran_haboru_pp",
+        "h1": "Putyin szerint Amerika csatlósai fenyegetik az országot - percről percre az ukrajnai háborúról",
+        "txtlength": 11119
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/krimi/mori-bankrablas-evfordulo-kovacs-lajos-visszaemlekezes/dh3hsev?sl_ps=d_12",
+        "h1": "Így emlékszik vissza a móri mészáros után folytatott hajszára az egykori nyomozó: 20 éve történt a magyar kriminalisztika legkegyetlenebb rablógyilkossága",
+        "txtlength": 11043
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/kulonleges-helyek-extrem-helyszinek-paksi-atomeromu-titkai/8wynrkp",
+        "h1": "Különleges helyek, extrém helyszínek – A Paksi Atomerőmű titkai: bejutottunk a reaktorblokkba – videó",
+        "txtlength": 10662
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20220509_A_40_alatti_fideszesek_65_szazaleka_szerint_inkabb_Oroszorszag_fele_kene_fordulni",
+        "h1": "A 40 alatti fideszesek 65 százaléka szerint inkább Oroszország felé kéne fordulni",
+        "txtlength": 10166
+    },
+    {
+        "hostname": "mindmegette.hu",
         "pagelink": "https://www.mindmegette.hu/burgonyakremleves-szalonnaval-fozve.recept",
         "h1": "BURGONYAKRÉMLEVES SZALONNÁVAL FŐZVE",
         "txtlength": 11628
