@@ -1,6 +1,192 @@
 [
     {
         "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/epres-mogyoros-galette.recept",
+        "h1": "EPRES-MOGYORÓS GALETTE",
+        "txtlength": 11568
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/kokuszos-epres-tejberizs.recept",
+        "h1": "KÓKUSZOS-EPRES TEJBERIZS",
+        "txtlength": 11362
+    },
+    {
+        "hostname": "kulturpart.hu",
+        "pagelink": "https://kulturpart.hu/2022/05/08/ujra_sziget_610",
+        "h1": "ÚJRA SZIGET!",
+        "txtlength": 42681
+    },
+    {
+        "hostname": "hataratkelo.blog.hu",
+        "pagelink": "https://hataratkelo.blog.hu/2022/05/06/elso_valasztasunk_franciaorszagban#c41395849",
+        "h1": "Első választásunk Franciaországban",
+        "txtlength": 28990
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220510_john_a_shields_tudomany_egyetem_ideologia",
+        "h1": "Miért lett ennyire balos az értelmiség? – Jon A. Shields a Mandinernek",
+        "txtlength": 22794
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220509_jobbik_jakab_peter_ellenzek_valasztas_elemzes",
+        "h1": "Ez lenne a szebb jövő? – Hol tart ma a Jobbik?",
+        "txtlength": 22502
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/oktatas/20220506/ez-var-azokra-akiknek-iden-nem-sikerult-az-erettsegi-igy-lehet-a-kudarcbol-sikersztori-1124561",
+        "h1": "Ez vár azokra, akiknek idén nem sikerült az érettségi: így lehet a kudarcból sikersztori",
+        "txtlength": 20483
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://makronom.mandiner.hu/cikk/20220506_huszadik_szazad_figyelmeztet_globalizacio_legkisebb_rossz",
+        "h1": "A huszadik század figyelmeztet: a globalizáció a legkisebb rossz, az alternatívái katasztrofálisak",
+        "txtlength": 20004
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/uzlet/20220510/eros-negyedevet-zart-a-richter-de-egy-nehezebb-idoszak-johet-543827",
+        "h1": "Erős negyedévet zárt a Richter, de egy nehezebb időszak jöhet",
+        "txtlength": 18536
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/uzlet/20220510/lelegzetvetelhez-jutott-a-piac-visszapattantak-a-tozsdek-543841",
+        "h1": "Lélegzetvételhez jutott a piac, visszapattantak a tőzsdék ",
+        "txtlength": 17741
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/befektetes/20220510/a-460-millios-csontvary-rekord-es-a-kortars-muveszek-felporgettek-a-magyar-aukcios-piacot-542295",
+        "h1": "A 460 milliós Csontváry-rekord és a kortárs művészek felpörgették a magyar aukciós piacot",
+        "txtlength": 17449
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vilag/20220509/ket-tuz-koze-kerult-az-orosz-google-nek-is-becezett-yandex/",
+        "h1": "Két tűz közé került az orosz Google-nek is becézett Yandex",
+        "txtlength": 16905
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/kozelet/20220510/egybeesik-a-magyarok-gyerekvallalasi-kedvenek-lelohadasa-az-egyik-jarvanyugyi-intezkedes-bevezetesevel/",
+        "h1": "Egybeesik a magyar gyermekvállalási kedv csökkenése az egyik járványügyi intézkedés bevezetésével",
+        "txtlength": 16596
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/utazas/20220507/csak-kevesen-ismerik-ezeket-a-titkos-helyeket-magyarorszagon-egy-fillerbe-se-kerul-a-belepo-1124629",
+        "h1": "Csak kevesen ismerik ezeket a titkos helyeket Magyarországon: egy fillérbe se kerül a belépő",
+        "txtlength": 16523
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/egeszseg/digitalis-egyensuly/",
+        "h1": "Ezt a 4 dolgot állítsd be a mobilodon az egészséged érdekében: a hosszú élet titka a belső egyensúly",
+        "txtlength": 13683
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2022/05/10/pusztan-azzal-hogy-vega-vagy-meg-nem-mented-meg-a-foldet-de-az-irany-jo",
+        "h1": "PUSZTÁN AZZAL, HOGY VEGA VAGY, MÉG NEM MENTED MEG A FÖLDET, DE AZ IRÁNY JÓ",
+        "txtlength": 13678
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/szuloseg/vegleges-fogamzasgatlas/",
+        "h1": "végleges fogamzásgátlás",
+        "txtlength": 11740
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/testem/felnottkori-fogszabalyzas-szakertovel/",
+        "h1": "fogszabályzó fogorvos szakértő felnőttkor",
+        "txtlength": 10870
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2022/05/10/medspot-alapitvany-menekultek-segitese-orvosok-pszichologusok-egeszsegugy-beregsurany/",
+        "h1": "„Most már egészen rossz állapotban érkeznek hozzánk a menekültek” – aneszteziológusok, háziorvosok és neurológusok is önkénteskednek",
+        "txtlength": 23327
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kultura/2022/05/09/dave-gahan-depeche-mode-60-hatvan-eves-heroin-tuladagolas-elvonokura/",
+        "h1": "Úgy tartják, kilenc élete van, de már annak is elhasználta a felét a ma 60 éves Dave Gahan",
+        "txtlength": 18114
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2022/05/10/birkanyaj-leolesi-parancs-festomuveszno-torteline-breznay-klara-jakabszallas/",
+        "h1": "„Azért kellett meghalniuk, mert nem voltak megjelölve” – leölési határozattal végeztek a festőművésznő nyájával",
+        "txtlength": 16262
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/foto/2022/05/09/giro-ditalia-nagykep-idofutam-visegrad-kerekpar-karavan-valter-attila-bodrogi-szurkolo",
+        "h1": "Három nap eksztázist hozott Magyarországra a rózsaszín trikó",
+        "txtlength": 15578
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/belfold/2022/05/10/a-kozoktatas-is-pinter-sandor-belugyi-tarcajahoz-kerulhet-gyerekek-csak-katonasan",
+        "h1": "Még castingolják a minisztereket, de házon belül is vita van arról, hogy a közoktatás jó helyen lesz-e a belügynél",
+        "txtlength": 14117
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/eletmod/2022/05/10/szicilia-giro-kerekparozas-olaszorszag",
+        "h1": "Mamilok és omilok hódították meg Szicília útjait",
+        "txtlength": 13824
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/kkv/20220510_dragul_a_bor_villanyi_boraszat_tapasztalatai",
+        "h1": "A magyar bort a munkaerőhiány, a drága csomagolás és a traktoros ingázás is drágítja",
+        "txtlength": 12851
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/05/10/vagy-a-papa-vagy-a-kiraly-tevedett",
+        "h1": "Vagy a pápa, vagy a király tévedett",
+        "txtlength": 12017
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/05/10/az-inflaciot-is-tulszarnyalja-az-alberletarak-novekedese",
+        "h1": "Az inflációt is túlszárnyalja az albérletárak növekedése",
+        "txtlength": 11818
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/politika/varga-judit-alaptorveny-modositas-veszelyhelyzet/lvy709f",
+        "h1": "Az alaptörvény tizedik módosítását tárgyalja kedden az Országgyűlés – Varga Judit megtartotta expozéját",
+        "txtlength": 10601
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/gazdasag/20220510_inflacio_dragulas_arak_ksh_statisztika",
+        "h1": "2001 óta nem volt ilyen: 9,5 százalékos az infláció",
+        "txtlength": 9941
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/vilag/20220510_Percrol_percre_orosz_ukran_haboru",
+        "h1": "Civil célpontra lőttek orosz hiperszonikus rakétával, amerikai segélycsomagra vár Ukrajna – Percről percre az orosz–ukrán háborúról",
+        "txtlength": 8964
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/blikk-tv/aktualis/az-utca-embere-berki-krisztian-kommentek-velemenyek/qdhd1h2",
+        "h1": "Halottról vagy jót, vagy semmit – tartja a mondás, de ez valahogy mégsem megy mostanában az utca emberének – videó",
+        "txtlength": 8700
+    },
+    {
+        "hostname": "mindmegette.hu",
         "pagelink": "https://www.mindmegette.hu/villamgyors-epres-sutemeny-leveles-tesztabol-video.recept",
         "h1": "VILLÁMGYORS EPRES SÜTI LEVELES TÉSZTÁBÓL",
         "txtlength": 11685
