@@ -1,6 +1,180 @@
 [
     {
         "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/spagetti-friss-kagyloval.recept",
+        "h1": "SPAGETTI FRISS KAGYLÓVAL",
+        "txtlength": 11332
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/mennyei-noi-szeszely.recept",
+        "h1": "MENNYEI NŐI SZESZÉLY",
+        "txtlength": 11297
+    },
+    {
+        "hostname": "hataratkelo.blog.hu",
+        "pagelink": "https://hataratkelo.blog.hu/2022/05/06/elso_valasztasunk_franciaorszagban#c41397163",
+        "h1": "Első választásunk Franciaországban",
+        "txtlength": 28960
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220511_elon_musk_twitter_portre",
+        "h1": "A „szólásszabadság kereszteslovagja” – ki is valójában Elon Musk?",
+        "txtlength": 25341
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/ingatlan/20220511/husz-eve-nem-lattunk-ilyet-oriasi-felhalmozasba-kezdtek-a-cegek-atalakulnak-a-raktaraink-543679",
+        "h1": "Húsz éve nem láttunk ilyet: óriási felhalmozásba kezdtek a cégek, átalakulnak a raktáraink?",
+        "txtlength": 24259
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/vallalkozas/20220509/napokon-belul-indul-a-magyar-kickstarter-igy-mukodik-a-jutalomalapu-kozossegi-finanszirozas-1124317",
+        "h1": "Napokon belül indul a magyar Kickstarter: így működik a jutalomalapú közösségi finanszírozás",
+        "txtlength": 23903
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/penz/20220510/a-korabbi-becsleseket-felulmulo-inflacios-utemet-lehet-valoszinusiteni-idenre-es-jovore-is/",
+        "h1": "A korábbi becsléseket felülmúló inflációs ütemet lehet valószínűsíteni idénre és jövőre is",
+        "txtlength": 20755
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220511_realis_veszely_egy_ukran_konfliktusbol_kiindulo_atomhaboru",
+        "h1": "Reális veszély egy ukrán konfliktusból kiinduló atomháború?",
+        "txtlength": 20265
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220510_ukran_kulugyminiszter_nem_fogjuk_lenyelni_ha_europa_megprobal_becsapni_bennunket",
+        "h1": "Ukrán külügyminiszter: Nem fogjuk lenyelni, ha Európa megpróbál becsapni bennünket",
+        "txtlength": 18481
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/kozelet/20220511/tizenketszer-tobbet-koltott-a-fidesz-es-a-kormany-a-valasztasi-kampanyra-mint-az-ellenzek/",
+        "h1": "Tízszer többet költött a Fidesz és a kormány a választási kampányra, mint az ellenzék",
+        "txtlength": 18196
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/uzlet/20220511/kivarnak-a-befektetok-a-fontos-inflacios-adat-elott-544077",
+        "h1": "Egyre jobb a hangulat a tőzsdéken a fontos inflációs adat előtt ",
+        "txtlength": 17648
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/karrier/20220511/erik-a-sirig-tarto-munka-tomegevel-kezdhetnek-el-ujra-dolgozni-a-magyar-nyugdijasok-1124768",
+        "h1": "Érik a sírig tartó munka? Tömegével kezdhetnek el újra dolgozni a magyar nyugdíjasok",
+        "txtlength": 15599
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/global/20220511/tortenelmi-dontes-felulvizsgalatara-keszulhet-amerika-belathatatlan-kovetkezmenyei-lehetnek-544069",
+        "h1": "Történelmi döntés felülvizsgálatára készülhet Amerika - Beláthatatlan következményei lehetnek",
+        "txtlength": 15371
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2022/05/11/a-fiatal-magyar-felnottek-fele-maganyos-es-igazabol-senki-nem-erti-miert",
+        "h1": "A FIATAL MAGYAR FELNŐTTEK FELE MAGÁNYOS, ÉS IGAZÁBÓL SENKI NEM ÉRTI, MIÉRT",
+        "txtlength": 13659
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/utazas/biztonsagos-biciklilakat/",
+        "h1": "Melyik a legbiztonságosabb lakat a biciklire? Percek alatt ellophatják, ha nem megfelelő a zár",
+        "txtlength": 11338
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/szuloseg/zsidosag-haszid-nok/",
+        "h1": "zsidóság haszid nők",
+        "txtlength": 10680
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kultura/2022/05/11/thuroczy-szabolcs-interju-besugo-aranyelet-meg-se-kinaltak-pinter-bela-tarsulat-bodocs-tibor-hbo-sorozat-tv-film-szinhaz/",
+        "h1": "Thuróczy Szabolcs: Kikészít, hogy egy tanár annyit keres, amennyit egyesek elkapucsínóznak luxuséttermekben",
+        "txtlength": 28618
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/interju/2022/05/11/jakab-peter-jobbik-elnok-parlament-dk-mi-hazank-mozgalom-szilagyi-gyorgy",
+        "h1": "Jakab Péter: Értem én, hogy szeretnének politikai hullának látni, de nem sikerült megölni",
+        "txtlength": 25510
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kulfold/2022/05/11/percrol-percre-orosz-ukran-haboru-77-napja",
+        "h1": "Megszavazta az amerikai képviselőház a 40 milliárd dolláros ukrajnai segélycsomagot",
+        "txtlength": 17638
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kulfold/2022/05/11/oroszorszag-emigracio-ujsagirok",
+        "h1": "Hajnalonként felriadsz, hogy érted jöttek, mert újságíró vagy",
+        "txtlength": 17117
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kulfold/2022/05/11/orosz-ukran-haboru-oroszorszag-ukrajna-putyin-zelenszkij-percrol-percre/",
+        "h1": "Intenzívebbé válhat a háború a következő hónapokban",
+        "txtlength": 14364
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/05/11/itt-van-a-2-szamjegyu-rem-pedig-senki-se-hivta",
+        "h1": "Itt van a 2 számjegyű rém, pedig senki se hívta",
+        "txtlength": 13973
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20220511_ader_janos_jotekonysagi_koltsegkeret",
+        "h1": "Kivel tett jót Áder és Kövér a pénzből, amit szétosztogathattak?",
+        "txtlength": 13765
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2022/05/11/ital-magyarorszag-kft-csod-boraszat-sorfozde-tartozas-bognar-gabor-andor/",
+        "h1": "Tartozása alig tizedét fizetné ki a becsődölt italforgalmazó a borászoknak, de sörfőzdék is hiába várják a pénzüket",
+        "txtlength": 13175
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/vilag/20220511_haboru_percrol_percre_77nap",
+        "h1": "Amerikai hírszerzők szerint patthelyzet alakult ki, továbbra is kitartanak Mariupol védői – percről percre a háborúról",
+        "txtlength": 12701
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/05/10/meghalt-ukrajna-elso-elnoke-leonyid-kravcsuk",
+        "h1": "Meghalt Ukrajna első elnöke, Leonyid Kravcsuk",
+        "txtlength": 12591
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/elet/20220511_Pussy_Riot_Oroszorszag_szokes",
+        "h1": "Ételfutárnak álcázva, baráti segítséggel szökött meg Oroszországból a Pussy Riot vezetője",
+        "txtlength": 9036
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/kulfold/iker-korhaz-meghalt-baba-eltunt-gyerekrablas-emberkereskedelem/srsppjr?sl_ps=d_6",
+        "h1": "„Eladhatta a kórház a kisfiamat” – Azt mondták Margitnak, meghalt az ikerbaba",
+        "txtlength": 8424
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/ritka-betegseg-boldizsar-terapia-segitseg-sajokeresztur/31jd31l",
+        "h1": "A világon egyedülálló betegségben szenved a nyolc hónapos sajókeresztúri kisfiú, Boldizsár",
+        "txtlength": 7629
+    },
+    {
+        "hostname": "mindmegette.hu",
         "pagelink": "https://www.mindmegette.hu/epres-mogyoros-galette.recept",
         "h1": "EPRES-MOGYORÓS GALETTE",
         "txtlength": 11568
