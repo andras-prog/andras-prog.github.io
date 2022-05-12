@@ -1,6 +1,186 @@
 [
     {
         "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/gyors-vanilias-epres-brownie-torta-recept.recept",
+        "h1": "GYORS VANÍLIÁS-EPRES BROWNIE TORTA",
+        "txtlength": 11982
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/rantott-gomba.recept",
+        "h1": "RÁNTOTT GOMBA TURBÓPANÍRBAN",
+        "txtlength": 10818
+    },
+    {
+        "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/spargakremleves",
+        "h1": "Spárgakrémleves",
+        "txtlength": 10176
+    },
+    {
+        "hostname": "kulturpart.hu",
+        "pagelink": "https://kulturpart.blog.hu/2022/05/08/ujra_sziget_610",
+        "h1": "ÚJRA SZIGET!",
+        "txtlength": 42674
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220511_hosszu_katinka_lajos_tamas_interju_kozelet",
+        "h1": "Magamat is feláldoztam a sikerekért – Hosszú Katinka a Mandinernek",
+        "txtlength": 27938
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/penz/20220511/csodaszamba-ment-most-stressz-ala-kerult-a-japan-monetaris-politika/",
+        "h1": "Csodaszámba ment, most stressz alá került a japán monetáris politika",
+        "txtlength": 27527
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220427_kulfold_nato_finnorszag_svedorszag_moszkva",
+        "h1": "Észak felé nyithat a NATO – mit léphet Moszkva?",
+        "txtlength": 21917
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220512_miert_robbannak_fel_sorra_az_eltalalt_orosz_harckocsik",
+        "h1": "Miért robbannak fel sorra az eltalált orosz harckocsik? ",
+        "txtlength": 21460
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20220512/mennyivel-nohettek-igazabol-a-nemzetgazdasagi-netto-berek-543633",
+        "h1": "Mennyivel nőhettek igazából a nemzetgazdasági nettó bérek?",
+        "txtlength": 20257
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/uzlet/20220512/nyoma-sincs-a-megnyugvasnak-massziv-eses-az-europai-tozsdeken-544335",
+        "h1": "Nyoma sincs a megnyugvásnak, masszív esés az európai tőzsdéken ",
+        "txtlength": 19578
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/hitel/20220510/az-utolso-oraban-jarnak-a-magyar-hiteligenylok-ujabb-slagerkolcson-tunik-el-a-hazai-bankokbol-1124675",
+        "h1": "Az utolsó órában járnak a magyar hiteligénylők: újabb slágerkölcsön tűnik el a hazai bankokból",
+        "txtlength": 19008
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/global/20220512/recseg-ropog-az-egyesult-kiralysag-es-ebbe-egesz-europa-beleremeghet-544153",
+        "h1": "Recseg-ropog az Egyesült Királyság, és ebbe egész Európa beleremeghet",
+        "txtlength": 18738
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vallalat/20220512/palmaolajban-sutik-a-langost-pult-alol-aruljak-a-csirkemellet-itt-tartunk-az-arstop-miatt/",
+        "h1": "Pálmaolajban sütik a lángost, pult alól árulják a csirkemellet – itt tartunk az árstop miatt",
+        "txtlength": 17485
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/oktatas/20220509/hivatalos-rengetegen-bukhatjak-2022-ben-a-csaladi-potlekot-csaladi-adokedvezmenyt-es-a-tb-t-is-1124695",
+        "h1": "Hivatalos: rengetegen bukhatják 2022-ben a családi pótlékot, családi adókedvezményt és a tb-t is",
+        "txtlength": 16144
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/egeszseg/kronikus-faradtsag-okai/",
+        "h1": "Rejtett gyulladás is állhat az állandó fáradtság hátterében: így deríthető ki a szakértő szerint",
+        "txtlength": 11232
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/lajfhekk/mire-jo-a-cellux/",
+        "h1": "Cellux mire jó",
+        "txtlength": 8439
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2022/05/12/asztrofizikusok-filozofusok-es-mernokok-rangsoroltak-a-filmtortenet-legjobb-idogepeit-a-terminatore-vegzett-az-elso-helyen",
+        "h1": "ASZTROFIZIKUSOK, FILOZÓFUSOK ÉS MÉRNÖKÖK RANGSOROLTÁK A FILMTÖRTÉNET LEGJOBB IDŐGÉPEIT, A TERMINÁTORÉ VÉGZETT AZ ELSŐ HELYEN",
+        "txtlength": 7095
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kulfold/2022/05/12/percrol-percre-tudositas-orosz-ukran-haboru-78-napja",
+        "h1": "Éjjel robbanások voltak Mariupolban, Harkiv környékén folyamatosak az ukrán ellentámadások",
+        "txtlength": 22462
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/tudomany/2022/05/12/koronavirus-covid-19-orosz-ukran-haboru-menekultek-jarvany-pandemia/",
+        "h1": "Új vírushullámot is hozhatnak a háborús menekültek",
+        "txtlength": 18970
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/belfold/2022/05/11/first-gentleman-koztarsasagi-elnok-elnoki-hivatal-allamfo-az-elnok-ferje-europa-magyarorszag-egyesult-allamok",
+        "h1": "Az elnök férje – Novák Katalinnal az ország első first gentlemanje is megérkezett a Sándor-palotába",
+        "txtlength": 18473
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/tudomany/2022/05/12/atomfegyver-ceu-panelbeszelgetes-kreko-peter-marton-csiki-varga-tamas-nagyne-rozsa-erzsebet",
+        "h1": "Atomháborútól fél? Így Putyin alá adja a lovat",
+        "txtlength": 15189
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/fn/gazdasag/2022/05/12/colas-swietelsky-utepites-erd-haboru-epitoanyag-dragulas/",
+        "h1": "Elérte a háború Érdet, két nagyágyú vállalat is elállt a Tárnoki út felújításától",
+        "txtlength": 15100
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/05/12/az-uj-kormany-kijott-a-napra-es-meglatta-az-inflacio-arnyekat",
+        "h1": "Az új kormány kijött a napra, és meglátta az infláció árnyékát",
+        "txtlength": 13362
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/05/11/kronikus-betegseguk-miatt-elszegenyedettek-halalba-segitese-robbantott-ki-vitat-az-eutanazia-korul-kanadaban",
+        "h1": "Krónikus betegségük miatt elszegényedettek halálba segítése robbantott ki vitát az eutanáziáról Kanadában",
+        "txtlength": 13043
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kulfold/2022/05/12/orosz-ukran-haboru-elo-atomtamadas-kijev-fopolgarmester-klicsko-putyin/",
+        "h1": "Finnország benyújtja a NATO-csatlakozási kérelmét",
+        "txtlength": 12118
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/ingatlan/20220512_balaton_tenger_nyaralo_arak",
+        "h1": "Úgy drágul a Balaton, hogy lassan jobban megéri venni egy külföldi tengerparti nyaralót",
+        "txtlength": 10914
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/vilag/20220512_orosz_ukran_haboru_putyin_zelenszkij",
+        "h1": "Harkiv környékén nyomulnak előre az ukránok, Moszkva energetikai vállalatokat szankcionál – percről percre a háborúról",
+        "txtlength": 10664
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/penz/beteti-kamatok-hitelkamatok/fg7v00n",
+        "h1": "Valami történik: messziről, de már követik az inflációt a betéti kamatok",
+        "txtlength": 9813
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/gazdasag/20220512_oroszorszag_szankciok_gazprom",
+        "h1": "Energetikai vállalatokra vetett ki szankciókat Oroszország",
+        "txtlength": 9499
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/penz/haboru-magyarorszag-epitkezesek-dragulas/9tgef29?sl_ps=d_1",
+        "h1": "Elkezdődött: a háború szele elérte Magyarországot",
+        "txtlength": 7796
+    },
+    {
+        "hostname": "mindmegette.hu",
         "pagelink": "https://www.mindmegette.hu/spagetti-friss-kagyloval.recept",
         "h1": "SPAGETTI FRISS KAGYLÓVAL",
         "txtlength": 11332
