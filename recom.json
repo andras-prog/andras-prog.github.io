@@ -1,6 +1,198 @@
 [
     {
         "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/almas-pite-gluten-tej-es-tojasmentes.recept",
+        "h1": "ALMÁS PITE (GLUTÉN-, TEJ-, ÉS TOJÁSMENTES)",
+        "txtlength": 11774
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/zoldseges-kuszkusz-villamgyorsan.recept",
+        "h1": "15 PERCES ZÖLDSÉGES KUSZKUSZ",
+        "txtlength": 11269
+    },
+    {
+        "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/isteni-uborkasalata",
+        "h1": "Isteni uborkasaláta",
+        "txtlength": 9966
+    },
+    {
+        "hostname": "kiszamolo.hu",
+        "pagelink": "https://kiszamolo.hu/hogyan-vegyel-ki-egy-ev-szabadsagot/",
+        "h1": "Hogyan vegyél ki egy év szabadságot?",
+        "txtlength": 38679
+    },
+    {
+        "hostname": "efesasanisimasa.com",
+        "pagelink": "https://efesasanisimasa.com/2022/05/05/ozark-ozark-season-1-3-2017-2020/",
+        "h1": "Ozark (Ozark, Season 1-4, 2017-2022)",
+        "txtlength": 10385
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220511_60_kerdes_a_80_eves_schmitt_palhoz",
+        "h1": "60 kérdés a 80 éves Schmitt Pálhoz",
+        "txtlength": 29678
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220513_putyin_haboru_gyozelem_nap_beszed",
+        "h1": "Mennyire megalapozottak Putyin háborús állításai?",
+        "txtlength": 25030
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220511_qubit_transz_megbanas",
+        "h1": "Transznemű gyerekek: így csúsztat a Qubit",
+        "txtlength": 24762
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vallalat/20220513/az-olajembargo-elleni-magyar-veto-leginkabb-a-penzrol-szol/",
+        "h1": "Az olajembargó elleni magyar vétó leginkább a pénzről szól",
+        "txtlength": 22185
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/utazas/20220511/komoly-aremeles-jon-tobb-balatoni-fizetos-strandon-ennyivel-emelkedik-a-belepojegyek-ara-1124747",
+        "h1": "Komoly áremelés jön több balatoni fizetős strandon: ennyivel emelkedik a belépőjegyek ára",
+        "txtlength": 21715
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vilag/20220512/magyarorszag-a-jovoben-nem-vetozhatna-ha-macronek-at-tudjak-nyomni-az-eu-atalakitasat/",
+        "h1": "Magyarország a jövőben nem vétózhatna, ha Macronék át tudják nyomni az EU átalakítását",
+        "txtlength": 20401
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/global/20220513/szep-csendben-lehull-a-lepel-putyin-mesterterverol-fordulatot-vehet-a-haboru-ukrajnaban-544409",
+        "h1": "Szép csendben lehull a lepel Putyin mestertervéről - Fordulatot vehet a háború Ukrajnában",
+        "txtlength": 19443
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/nyugdij/20220512/igy-falta-fel-az-inflacio-az-ev-eleji-nyugdijkorrekciot-letszukseg-lehet-a-kovetkezo-emeles-1124783",
+        "h1": "Így falta fel az infláció az év eleji nyugdíjkorrekciót: létszükség lehet a következő emelés",
+        "txtlength": 18961
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/uzlet/20220513/mi-az-a-luna-aminek-az-osszeomlasarol-mindenki-beszel-544659",
+        "h1": "Mi az a Luna, aminek az összeomlásáról mindenki beszél?",
+        "txtlength": 15697
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20220513/igy-nem-mentheto-meg-a-nyugdijrendszer-az-osszeomlastol-544245",
+        "h1": "Így nem menthető meg a nyugdíjrendszer az összeomlástól",
+        "txtlength": 15591
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/szuloseg/termekenyseg-fokozasa-babona/",
+        "h1": "termékenység fokozása babona",
+        "txtlength": 12094
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/ezo/vitalis-imre-utolso-bihari-betyar/",
+        "h1": "Ő volt az utolsó bihari betyár: a sorozatgyilkos, Vitális Imre mondahőssé nőtte ki magát",
+        "txtlength": 11039
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/testem/edzes-gumiszalag/",
+        "h1": "edzés gumiszalag",
+        "txtlength": 10262
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2022/05/13/a-magyarorszagon-elo-kozonseges-kullancs-csipese-is-okozhat-voroshus-allergiat",
+        "h1": "A MAGYARORSZÁGON ÉLŐ KÖZÖNSÉGES KULLANCS CSÍPÉSE IS OKOZHAT VÖRÖSHÚS-ALLERGIÁT",
+        "txtlength": 9147
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/fn/gazdasag/2022/05/13/energiapolitika-gaz-olaj-oroszorszag-eu-ukrajna-orosz-ukran-haboru-holoda/",
+        "h1": "Veszélyeztethette-e Ukrajna az orosz dominanciát az európai gázpiacon? – a háború energiapolitikai gyökerei",
+        "txtlength": 26947
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20220513_Nem_ontenek_szamolatlanul_a_penzt_a_fideszes_mediara_sem",
+        "h1": "A Pesti TV bezárása bizonyítja, hogy a fideszes média sem herdálhatja a pénzt számolatlanul",
+        "txtlength": 16411
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/tudomany/2022/05/13/hod-elterjedes-magyarorszag-juhasz-erika-kutato-okologia-tapio-vizgazdalkodas",
+        "h1": "Ha vízcsobogást hallanak, frászt kapnak, és már építkeznek is",
+        "txtlength": 16279
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/05/13/az-etterem-ahol-erdemes-forgolodni-ha-posztot-akarsz-az-uj-kormanyban",
+        "h1": "Az étterem, ahol érdemes forgolódni, ha posztot akarsz az új kormányban",
+        "txtlength": 15440
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kulfold/2022/05/13/ukrajna-oroszorszag-haboru-79-nap",
+        "h1": "Mariupol utolsó védőit kimenekítené Ukrajna, Oroszország újabb hajót veszíthetett",
+        "txtlength": 15032
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/belfold/2022/05/12/kasler-miklos-legjobb-pillanatai-emberminiszter-bucsu",
+        "h1": "Illuminátusokkal magyarázott népességfogyás, Mátyás király összerakása és a Szent Korona auratisztítója – Best of Kásler Miklós",
+        "txtlength": 14871
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2022/05/12/orban-szankciok-von-der-leyen-macron-elszigeteltseg/",
+        "h1": "Orbán befeszítette a vétóbicepszet",
+        "txtlength": 14704
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20220513_Lazar_Janos_Hajlamos_vagyok_a_lazadasra",
+        "h1": "Lázár János: “Hajlamos vagyok a lázadásra”",
+        "txtlength": 14100
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/05/13/g-fodor-gabor-meghirdette-a-lojalis-vagy-egyenesen-a-fidesz-altal-letrehozott-belso-ellenzek-programjat",
+        "h1": "G. Fodor Gábor meghirdette a lojális vagy egyenesen a Fidesz által létrehozott belső ellenzék programját",
+        "txtlength": 13806
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kulfold/2022/05/13/orosz-ukran-haboru-elo-putyin-zelenszkij-nato-finnorszag-svedorszag/",
+        "h1": "Visszaverték az ukránok az oroszokat, így nem sikerült átkelniük a Donyec folyón",
+        "txtlength": 12431
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/vilag/20220513_oroszukran_haboru_percrol_percre",
+        "h1": "Az Európai Unió 500 millió eurót ad az ukránoknak, a brit védelmi minisztérium szerint vakmerő lépésekre kényszerülnek az orosz parancsnokok – percről percre a háborúról",
+        "txtlength": 10231
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/kormany-orban-miniszterek-politologus-kormanyszovivo-valtas/hgc0jsg",
+        "h1": "Tapasztalt üzletemberekkel irányítaná az országot Orbán: ők lesznek az elnök új emberei",
+        "txtlength": 8998
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/penz/haboru-magyarorszag-epitkezesek-dragulas/9tgef29",
+        "h1": "Elkezdődött: a háború szele elérte Magyarországot",
+        "txtlength": 8023
+    },
+    {
+        "hostname": "mindmegette.hu",
         "pagelink": "https://www.mindmegette.hu/gyors-vanilias-epres-brownie-torta-recept.recept",
         "h1": "GYORS VANÍLIÁS-EPRES BROWNIE TORTA",
         "txtlength": 11982
