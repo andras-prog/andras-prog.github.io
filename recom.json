@@ -1,5 +1,191 @@
 [
     {
+        "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/lacikrumpli-ahogy-en-keszitem",
+        "h1": "Lacikrumpli ahogy én készítem",
+        "txtlength": 11549
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/glutenmentes-amerikai-palacsinta.recept",
+        "h1": "GLUTÉNMENTES AMERIKAI PALACSINTA",
+        "txtlength": 10886
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/barackos-kekszgolyok.recept",
+        "h1": "BARACKOS KEKSZGOLYÓK ",
+        "txtlength": 10671
+    },
+    {
+        "hostname": "hataratkelo.blog.hu",
+        "pagelink": "https://hataratkelo.blog.hu/2022/05/12/a_gyerekeink_miatt_jottunk_haza_de#c41402813",
+        "h1": "A gyerekeink miatt jöttünk haza, de...",
+        "txtlength": 36156
+    },
+    {
+        "hostname": "kulturpart.hu",
+        "pagelink": "https://kulturpart.blog.hu/2022/05/10/kreativ_felrertelmezesek_ritualei_a_zene_hazaban",
+        "h1": "MIT TANULHATUNK A TITOKZATOS TAJVANI SZIGETLAKÓKTÓL?",
+        "txtlength": 6312
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220510_a_szocialdemokracia_elvesztette_arcat_beolvadt_a_neoliberalizmusba_gallo_bela_a_mandinernek",
+        "h1": "A szociáldemokrácia elvesztette arcát, beolvadt a neoliberalizmusba – Galló Béla a Mandinernek",
+        "txtlength": 27677
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220514_krim_fedinec_csilla_ukrajna_oroszorszag",
+        "h1": "Kié a Krím? – történész a félsziget múltjáról",
+        "txtlength": 25103
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220513_ukrajna_haboru_putyin",
+        "h1": "Mit tudott elérni az ukrajnai háborúval Moszkva – és mit nem?",
+        "txtlength": 22485
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/gazdasag/20220510/kiderult-a-fajo-igazsag-ennyivel-elnek-jobban-a-lengyel-szlovak-cseh-csaladok-a-magyaroknal-1124731",
+        "h1": "Kiderült a fájó igazság: ennyivel élnek jobban a lengyel, szlovák, cseh családok a magyaroknál",
+        "txtlength": 18503
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/penz/20220513/csokkenti-vagy-tovabb-gerjeszti-a-magas-inflaciot-a-zold-atallas/",
+        "h1": "Csökkenti vagy tovább gerjeszti a magas inflációt a zöld átállás?",
+        "txtlength": 17516
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/vasarlas/20220513/komoly-aremeles-johet-a-hazai-konyvesboltokban-kritikus-ev-lehet-2022-1124827",
+        "h1": "Komoly áremelés jöhet a hazai könyvesboltokban: kritikus év lehet 2022",
+        "txtlength": 17406
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20220514/40-ev-utan-visszaterhet-a-stagflacio-544665",
+        "h1": "40 év után visszatérhet a stagfláció?",
+        "txtlength": 16707
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/befektetes/20220513/ha-meg-tenyleg-hiszel-a-kriptokban-akkor-eljott-az-ideje-vasarolni-es-imadkozni-544361",
+        "h1": "Ha még tényleg hiszel a kriptókban, akkor eljött az ideje vásárolni (és imádkozni)",
+        "txtlength": 16342
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vilag/20220512/golyoallo-mellenyben-dolgozo-mezogazdasagi-munkasok-tartjak-eletben-az-ukran-gazdasagot/",
+        "h1": "Golyóálló mellényben dolgozó mezőgazdasági munkások tartják életben az ukrán gazdaságot",
+        "txtlength": 15920
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/global/20220514/celkeresztben-putyin-oligarchai-rejtelyes-ongyilkossaghullam-sopor-vegig-az-orosz-eliten-544271",
+        "h1": "Célkeresztben Putyin oligarchái? – Rejtélyes öngyilkossághullám söpör végig az orosz eliten",
+        "txtlength": 15598
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/egeszseg/utifumaghej-egeszsegugyi-hatasai/",
+        "h1": "Segíti a rendszeres bélmozgást: így fogyaszd az útifűmaghéjat az egészséges emésztésért",
+        "txtlength": 10969
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/szuloseg/sikeres-gyerek-jellemzoi/",
+        "h1": "sikeres gyerek jellemzői",
+        "txtlength": 10205
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2022/05/14/a-kozmondasok-utan-a-gyerekversekre-is-lecsapott-a-peta-de-mit-csinal-a-kismalac-ha-nem-megy-el-vadaszni",
+        "h1": "A KÖZMONDÁSOK UTÁN A GYEREKVERSEKRE IS LECSAPOTT A PETA, DE MIT CSINÁL A KISMALAC, HA NEM MEGY EL VADÁSZNI?",
+        "txtlength": 8459
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/tech/2022/05/14/covid-19-koronavirus-alhirek-szkepticizmus-oltasellenesek-orosz-propaganda-alhirek-dezinformacio-kozossegi-media/",
+        "h1": "Villámgyorsan oroszpárti aktivisták lettek az oltásszkeptikusok",
+        "txtlength": 22645
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20220514_Mentoszolgalat_noi_mentosok_bantalmazas",
+        "h1": "A mentősnő, akinek együtt kell dolgoznia azzal, aki kétszer is bántalmazta",
+        "txtlength": 18271
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2022/05/13/otodik-orban-kormany-uj-kormanytagok-miniszterek-navracsics-lazar-nagy-marton-szalay-bobrovniczky-csak/",
+        "h1": "Új és visszatérő miniszterek: akiket a mélyvízbe dob Orbán, és akikkel újra szövetkezik",
+        "txtlength": 18148
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kultura/2022/05/13/eurovizio-zene-politika-haboru-oroszorszag-ukrajna/",
+        "h1": "Diszkóba csomagolt politika és háborús induló – így nyerheti meg az idén Ukrajna az Eurovíziót",
+        "txtlength": 16623
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kulfold/2022/05/14/orosz-ukran-haboru-80-nap",
+        "h1": "Az ukrán katonai hírszerzés vezetője szerint év végére Ukrajna győzelmével véget ér a háború, azt is mondta, Putyin súlyos beteg",
+        "txtlength": 16296
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/belfold/2022/05/13/orban-viktor-pinter-sandor-varga-mihaly-kormanyalakitas",
+        "h1": "Pintér Sándor Orbán legrégebbi minisztere, nők rendszerint alig akadnak a kormányaiban",
+        "txtlength": 13840
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/belfold/2022/05/14/csak-janos-portre-mol-matav-london-nagykovet-orban-viktor-kormany-miniszter",
+        "h1": "Csák János, az elkötelezett jobboldali üzletemberből lett filozofáló jövőkutató",
+        "txtlength": 13261
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20220514_fociedzo_cukrasz_mozdonyszerelo",
+        "h1": "Fociedző, mozdonyszerelő és cukrász is van a képviselők között, de diplomában a nők az erősebbek",
+        "txtlength": 12227
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/05/13/pinter-es-semjen-nelkul-egyszeruen-nincs-ketharmados-fidesz-kormany",
+        "h1": "Pintér és Semjén nélkül egyszerűen nincs kétharmados Fidesz-kormány",
+        "txtlength": 11959
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20220513_Hova_tunt_az_egeszsegugy_es_a_videkfejlesztes__a_felkesz_kormanylista_kerdesei",
+        "h1": "Hová tűnt a nyugdíjügy és az energia? – a félkész kormánylista kérdései",
+        "txtlength": 10456
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/05/13/elvettek-szijjartotol-az-eximbankot",
+        "h1": "Elvették Szijjártótól az Eximbankot",
+        "txtlength": 10194
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/utinform-baleset-torlodas-lezaras-autopalya-kozlekedes/n9vqd0c",
+        "h1": "Balesetek, lezárások, felújítás – Erre lehet ma számítani az utakon",
+        "txtlength": 7294
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/enektanar-mango-allergia-mentok/q1sffeg?sl_ps=d_5",
+        "h1": "Tízszer volt a halál torkában a tanárnő: most épp egy falat mangó miatt került életveszélybe",
+        "txtlength": 6919
+    },
+    {
         "hostname": "mindmegette.hu",
         "pagelink": "https://www.mindmegette.hu/almas-pite-gluten-tej-es-tojasmentes.recept",
         "h1": "ALMÁS PITE (GLUTÉN-, TEJ-, ÉS TOJÁSMENTES)",
