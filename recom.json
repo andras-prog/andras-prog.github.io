@@ -1,5 +1,191 @@
 [
     {
+        "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/bodzaszorp-tartositoszer-nelkul",
+        "h1": "Bodzaszörp tartósítószer nélkül",
+        "txtlength": 16718
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/egyszeru-bogres-pizza-negysajtos-es-sonkas.recept",
+        "h1": "EGYSZERŰ BÖGRÉS PIZZA (NÉGYSAJTOS ÉS SONKÁS)",
+        "txtlength": 11894
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/mascarpones-zoldborsos-csirkeragu.recept",
+        "h1": "MASCARPONÉS-ZÖLDBORSÓS CSIRKERAGU",
+        "txtlength": 11112
+    },
+    {
+        "hostname": "kiszamolo.hu",
+        "pagelink": "https://kiszamolo.hu/nehany-gazdasagi-adat/",
+        "h1": "Néhány gazdasági adat",
+        "txtlength": 33769
+    },
+    {
+        "hostname": "kulturpart.hu",
+        "pagelink": "https://kulturpart.hu/2022/05/10/kreativ_felrertelmezesek_ritualei_a_zene_hazaban",
+        "h1": "MIT TANULHATUNK A TITOKZATOS TAJVANI SZIGETLAKÓKTÓL?",
+        "txtlength": 6337
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220511_orban_nyomaban_florida_republikanus_kormanyzoja_portre_ron_desantisrol",
+        "h1": "Orbán nyomában Florida republikánus kormányzója – portré Ron DeSantisról",
+        "txtlength": 22620
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vallalat/20220516/a-legnagyobb-multikkal-szall-versenybe-a-veresi-paradicsom-alapitoja/",
+        "h1": "A legnagyobb multikkal száll versenybe a Veresi paradicsom alapítója",
+        "txtlength": 22474
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20220516/lehull-a-lepel-a-magyar-keresetekrol-megszolalnak-az-adatok-keszitoi-544673",
+        "h1": "Lehull a lepel a magyar keresetekről: megszólalnak az adatok készítői",
+        "txtlength": 22207
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2022/05/16/ha-megszunne-a-kirekesztes-a-paciensek-jo-resze-eltunne-a-pszichiatriai-rendelokbol",
+        "h1": "HA MEGSZŰNNE A KIREKESZTÉS, A PÁCIENSEK JÓ RÉSZE ELTŰNNE A PSZICHIÁTRIAI RENDELŐKBŐL",
+        "txtlength": 21248
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220515_ukrajna_haboru_muemlek_kultura",
+        "h1": "Műemlékek célkeresztben: így pusztul a kulturális örökség Ukrajnában",
+        "txtlength": 20677
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/bank/20220516/egyre-kevesebben-gondoljak-majd-hogy-erdemes-hitelt-felvenni-interju-544999",
+        "h1": "Egyre kevesebben gondolják majd, hogy érdemes hitelt felvenni (Interjú)",
+        "txtlength": 20500
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.penzcentrum.hu/otthon/20220516/sulyos-dolog-derult-ki-a-menhelyi-kutyakrol-errol-minden-gazdinak-tudnia-kell-1124913",
+        "h1": "Súlyos dolog derült ki a menhelyi kutyákról: erről minden gazdinak tudnia kell",
+        "txtlength": 18690
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/otthon/20220516/sulyos-dolog-derult-ki-a-menhelyi-kutyakrol-errol-minden-gazdinak-tudnia-kell-1124913",
+        "h1": "Súlyos dolog derült ki a menhelyi kutyákról: erről minden gazdinak tudnia kell",
+        "txtlength": 18329
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220516_at_tudnak_e_torni_az_oroszok_ukrajnaban",
+        "h1": "Át tudnak-e törni az oroszok Ukrajnában?",
+        "txtlength": 17804
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/utazas/20220514/elkepeszto-arak-europa-legolcsobb-tengerpartjan-miert-nem-itt-nyaral-minden-magyar-1124861",
+        "h1": "Elképesztő árak Európa legolcsóbb tengerpartján: miért nem itt nyaral minden magyar?",
+        "txtlength": 16103
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/podcast/20220514/eszak-korea-szintjere-taszithatja-az-orosz-gazdasagot-putyin-haboruja/",
+        "h1": "Észak-Korea szintjére taszíthatja az orosz gazdaságot Putyin háborúja",
+        "txtlength": 15204
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/egeszseg/cukorbeteg-etrend-gyakorlatban/",
+        "h1": "4 trükk, ami lassítja a szénhidrátok felszívódását: cukorbetegeknek nagyon hasznosak",
+        "txtlength": 10443
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/lajfhekk/mustar-ketchup-folt/",
+        "h1": "Mustár ketchup folt",
+        "txtlength": 8142
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/belfold/2022/05/16/parlament-orban-viktor-miniszterelnok-valasztas",
+        "h1": "Gyurcsány Ferenc: Törvénytelennek tekintjük a megalakuló kormányt",
+        "txtlength": 28359
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kulfold/2022/05/16/bukarest-parkolas-hetszeres-ar",
+        "h1": "Budapest nem meri meglépni, amit Bukarest, ahol hozzányúltak a lakók parkolási kedvezményéhez",
+        "txtlength": 21735
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2022/05/15/ferfiassag-kultura-hagyomanyos-ertekek-lazadas-konformizmus-velemeny/",
+        "h1": "Hova lettek az igazi férfiak?",
+        "txtlength": 20280
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kulfold/2022/05/16/ukrajna-elleni-haboru-orosz-invazio-82-nap",
+        "h1": "Oroszország eljátszaná a mariupoli védők megadását, a Kreml kivásárolta a Renault orosz érdekeltségeit",
+        "txtlength": 18601
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kulfold/2022/05/16/orosz-ukran-haboru-zelenszkij-putyin-mariupol-finnorszag-svedorszag-elo-percrol-percre/",
+        "h1": "Zelenszkij szerint Európa orosz energiafüggősége a végéhez közeledik",
+        "txtlength": 15301
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/gazdasag/20220516_magyar_ukran_import_aruk",
+        "h1": "Talán nem is sejti, miféle árukat importálunk sok milliárdért Ukrajnából",
+        "txtlength": 14893
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/fn/gazdasag/2022/05/16/ukran-gabonaexport-romania-globalis-elelmiszerbiztonsag/",
+        "h1": "Az ukrán gabonasilók tele, a harmadik világban éheznek: a románok bevetődnének a képbe",
+        "txtlength": 12356
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/foci/2022/05/16/itt-tart-a-magyar-foci-felcsuton-mar-csalodast-jelent-az-nbi-bronzerme",
+        "h1": "Itt tart a magyar foci: Felcsúton már csalódást jelent az NBI bronzérme",
+        "txtlength": 10771
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/kulonleges-helyek-extrem-helyszinek-budapesti-repuloter-kulisszatitkai/m2f6nvh",
+        "h1": "Különleges helyek, extrém helyszínek: megmutatjuk a repülőtér titkait, elzárt részeit – exkluzív videó",
+        "txtlength": 10292
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/vilag/20220516_ukrajna_oroszok_haboru_gyerekek_volodimir_zelenszkij",
+        "h1": "227 ukrán gyerek halt meg a háború kezdete óta, állítja Ukrajna – percről percre a háborúról",
+        "txtlength": 9488
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/05/16/bar-a-taxisok-hetfotol-tobb-penzt-kapnak-annak-egy-reszet-vissza-is-kell-adniuk-tagdijemeles-miatt",
+        "h1": "Bár a taxisok hétfőtől több pénzt kapnak, annak egy részét vissza is kell adniuk tagdíjemelés miatt",
+        "txtlength": 8658
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20220516_Orban_Viktor_eskutetel_parlament_percrol_percre_beszed",
+        "h1": "Miniszterelnöki esküt tesz Orbán Viktor, ezúttal vajon meddig tervez? – percről percre a Parlamentből",
+        "txtlength": 8575
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/kafiya-mahdi-modell-menekult-afrika-misszio-mentora/xfj3sqh?sl_ps=d_5",
+        "h1": "Menekültként érkezett Magyarországra, gyermekotthonban nőtt fel, végül szupermodell lett belőle: Kafiya története – videó",
+        "txtlength": 8402
+    },
+    {
         "hostname": "mindmegette.hu",
         "pagelink": "https://www.mindmegette.hu/sult-paradicsomleves-sajtos-piritossal.recept",
         "h1": "SÜLT PARADICSOMLEVES CHEDDAR SAJTOS PIRÍTÓSSAL",
