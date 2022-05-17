@@ -1,6 +1,186 @@
 [
     {
         "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/elallos-bodzaszorp",
+        "h1": "Elállós bodzaszörp",
+        "txtlength": 14722
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/egyszeru-citromos-kevert-suti.recept",
+        "h1": "EGYSZERŰ CITROMOS KEVERT SÜTI",
+        "txtlength": 10713
+    },
+    {
+        "hostname": "kiszamolo.hu",
+        "pagelink": "https://kiszamolo.hu/lakashitel-es-ingatlan-statisztikak/",
+        "h1": "Lakáshitel és ingatlan statisztikák",
+        "txtlength": 31403
+    },
+    {
+        "hostname": "kulturpart.hu",
+        "pagelink": "https://kulturpart.hu/2022/05/12/az_elfeledett_bach-fiu_rejtelye",
+        "h1": "AZ ELFELEDETT BACH-FIÚ REJTÉLYE",
+        "txtlength": 6266
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/kozelet/20220517/a-felevel-hizott-12-ev-alatt-a-kormany-pedig-a-magyar-kozjogi-hagyomany-szerint-fix-miniszteriumok-voltak/",
+        "h1": "A felével hízott 12 év alatt a kormány, pedig a magyar közjogi hagyomány szerint fix minisztériumok voltak",
+        "txtlength": 23802
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220516_orban_viktor_beszed_belfold_orszaggyules",
+        "h1": "Orbán Viktor: Aki fegyvert szállít, fél lábbal már benne is van a háborúban",
+        "txtlength": 22621
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220513_transzparens_ujsagirasert_atlatszo_riporterek_hatarok_nelkul_ngo",
+        "h1": "Haitin újságírókat gyilkoltak, az RSF indexe szerint mégis nagyobb a sajtószabadság mint nálunk",
+        "txtlength": 22539
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220517_magyarorszag_gazmezo",
+        "h1": "Magyarország, a majdnem-gáznagyhatalom",
+        "txtlength": 21335
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/hitel/20220516/oriasi-kamatbumm-varhato-a-lizingpiacon-kemeny-vilagra-keszuljon-aki-autot-venne-1124825",
+        "h1": "Óriási kamatbumm várható a lízingpiacon: kemény világra készüljön, aki autót venne",
+        "txtlength": 20631
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/vasarlas/20220514/tovabbi-durva-aremelest-hoz-az-aruhiany-nagyot-nezhet-aki-most-akar-biciklit-venni-1124804",
+        "h1": "További durva áremelést hoz az áruhiány: nagyot nézhet, aki most akar biciklit venni",
+        "txtlength": 20221
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/uzlet/20220517/jarvany-utan-haboru-idejen-uj-kihivasok-a-magyar-biztositasi-piacon-interju-a-mabisz-uj-elnokevel-545131",
+        "h1": "Járvány után, háború idején: új kihívások a magyar biztosítási piacon (Interjú a MABISZ új elnökével)",
+        "txtlength": 19575
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.penzcentrum.hu/vasarlas/20220517/igy-sporolnak-az-elelmes-magyarok-a-lidlben-sparban-tescoban-legyozhetik-a-horrorinflaciot-1124919",
+        "h1": "Így spórolnak az élelmes magyarok a Lidlben, Sparban, Tescóban: legyőzhetik a horrorinflációt?",
+        "txtlength": 17329
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/penz/20220516/berugta-az-ajtot-a-fed-az-ablakon-tavoznak-a-befektetok/",
+        "h1": "Berúgta az ajtót a Fed, az ablakon távoznak a befektetők?",
+        "txtlength": 17013
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2022/05/17/a-muanyagszennyezes-problemajat-nem-lehet-pusztan-azzal-megoldani-hogy-visszaterunk-az-uveghez",
+        "h1": "A MŰANYAGSZENNYEZÉS PROBLÉMÁJÁT NEM LEHET PUSZTÁN AZZAL MEGOLDANI, HOGY VISSZATÉRÜNK AZ ÜVEGHEZ",
+        "txtlength": 15576
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/bank/20220517/kkv-hitelezes-magyarorszagon-vihar-elotti-csendet-lathatunk-545277",
+        "h1": "Kkv-hitelezés Magyarországon: vihar előtti csendet láthatunk",
+        "txtlength": 15574
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/otthon/balkonkert-letesitese/",
+        "h1": "Így terem majd gazdagon a balkonkert: paradicsom, paprika és uborka is termeszthető a kertész szerint",
+        "txtlength": 13389
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/szuloseg/gyermekvedelem-neveloszulo/",
+        "h1": "gyermekvédelem nevelőszülő",
+        "txtlength": 11376
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/direkt36/2022/05/17/ilyen-volt-belulrol-az-ellenzeki-kampany-osszeomlasa",
+        "h1": "Ilyen volt belülről az ellenzéki kampány összeomlása",
+        "txtlength": 60955
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kulfold/2022/05/17/percrol-percre-orosz-ukran-haboru-83-nap",
+        "h1": "A svéd külügyminiszter aláírta országa NATO-csatlakozási kérelmét",
+        "txtlength": 21462
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kulfold/2022/05/17/amerikai-legfelsobb-birosag-usa-abortusz-szivarogtatas",
+        "h1": "Fél évszázados tabu dőlhet meg az USA-ban, ami a tagállamok felében teljes abortusztilalmat jelent",
+        "txtlength": 20263
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kulfold/2022/05/17/marina-ovszjannyikova-oroszorszag-orosz-ukran-haboru-szerkeszto/",
+        "h1": "Áruló vagy besúgó az orosz állami tévébe berontó háborúellenes szerkesztő?",
+        "txtlength": 20228
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kozelet/2022/05/17/parlament-kepviselok-vegzettseg-diploma-nyelvtudas/",
+        "h1": "A szakmunkástól az akadémiai doktorig – íme az új parlament képviselőinek végzettségei",
+        "txtlength": 18152
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/sport/2022/05/17/amir-hossein-hodaei-celldomolki-vse-asztalitenisz-pingpong-ferfi-csapatbajnoksag/",
+        "h1": "„Most akkor elsők vagy másodikok lettetek, apa?” – a botrányos csapatdöntő ellenére Klampár szerint játékosait megilleti a tisztelet",
+        "txtlength": 15439
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/05/17/a-tuszejto-mentalitas",
+        "h1": "A túszejtő mentalitás",
+        "txtlength": 13095
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/gazdasag/20220517_GDP_novekedes_ksh",
+        "h1": "Az infláció és a benzinturizmus is lökte a magyar gazdaságot: 8 százalékkal nőtt a GDP",
+        "txtlength": 13068
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/gazdasag/20220517_virag_barnabas_mnb_inflacio",
+        "h1": "MNB-alelnök: Pár hónapon belül elkerülhetetlenül itt van a két számjegyű infláció",
+        "txtlength": 12214
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/kkv/20220517_meszaros_lorinc_farkas_sandor_fabiansebestyen",
+        "h1": "Mészáros Lőrinc nem áll le, az agrártárca miniszterhelyettesének családi agrárcégét is bekebelezték",
+        "txtlength": 10577
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/05/17/oroszorszagban-engedelyeztek-a-legzsak-es-abs-nelkuli-autok-gyartasat",
+        "h1": "Oroszországban engedélyezték a légzsák és ABS nélküli autók gyártását",
+        "txtlength": 10535
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/jobbik-szexbotrany-eroszak-trauma-anita/xxb5sd1?sl_ps=d_10",
+        "h1": "Blikk-exkluzív – Először szólalt meg a Jobbik-bulin megtámadott Anita: feldolgozhatatlan, ami történt",
+        "txtlength": 7886
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/penz/falusi-csok-hatarido/v7hc1ze?sl_ps=d_5",
+        "h1": "Mindössze néhány hete maradt annak, aki falusi csokot szeretne felvenni",
+        "txtlength": 6818
+    },
+    {
+        "hostname": "nosalty.hu",
         "pagelink": "https://www.nosalty.hu/recept/bodzaszorp-tartositoszer-nelkul",
         "h1": "Bodzaszörp tartósítószer nélkül",
         "txtlength": 16718
