@@ -1,6 +1,186 @@
 [
     {
         "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/fejessalata-ecetes-leben",
+        "h1": "Fejessaláta ecetes lében",
+        "txtlength": 14526
+    },
+    {
+        "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/legegyszerubb-krumplifozelek",
+        "h1": "A legegyszerűbb krumplifőzelék",
+        "txtlength": 10117
+    },
+    {
+        "hostname": "hataratkelo.blog.hu",
+        "pagelink": "https://hataratkelo.blog.hu/2022/05/12/a_gyerekeink_miatt_jottunk_haza_de",
+        "h1": "A gyerekeink miatt jöttünk haza, de...",
+        "txtlength": 49507
+    },
+    {
+        "hostname": "kulturpart.hu",
+        "pagelink": "https://kulturpart.blog.hu/2022/05/01/majusban_indul_a_hettorony_fesztival",
+        "h1": "JÖN A HÉTTORONY FESZTIVÁL!",
+        "txtlength": 4785
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20220518/mennyivel-nohettek-magyarorszagon-a-netto-berek-543759",
+        "h1": "Mennyivel nőhettek Magyarországon a nettó bérek?",
+        "txtlength": 31166
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20220518/nagy-marton-bemondta-tobbsegi-magyar-tulajdont-az-epitoipari-anyagokban-a-biztositoknal-es-a-kiskereskedelemben-545451",
+        "h1": "Nagy Márton bemondta: többségi magyar tulajdont az építőipari anyagokban, a biztosítóknál és a kiskereskedelemben! ",
+        "txtlength": 28950
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220518_marki_zay_peter_belfold_baloldal_ellenzek_valasztas",
+        "h1": "„Örülök, hogy csak én hibáztam, mindenki más tökéletes volt” – Márki-Zay Péter reagált a Direkt36 cikkére",
+        "txtlength": 24893
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vilag/20220517/korrupcio-bizalmatlansag-es-harci-moral-az-orosz-hadseregben/",
+        "h1": "Korrupció, bizalmatlanság és harci morál az orosz hadseregben",
+        "txtlength": 23729
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/global/20220518/sulyos-vad-titokban-tortenelmi-katasztrofat-keszul-megismetelni-oroszorszag-545091",
+        "h1": "Súlyos vád: titokban történelmi katasztrófát készül megismételni Oroszország",
+        "txtlength": 23203
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220511_szantho_miklos_interju_cpac_jobboldal",
+        "h1": "Megérkezett a jobboldal! – Szánthó Miklós a Mandinernek",
+        "txtlength": 21929
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220511_bar_kihuzta_a_gyufat_meg_van_eselye",
+        "h1": "Bár kihúzta a gyufát, még van esélye",
+        "txtlength": 21539
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vallalat/20220518/haromszor-annyiert-vesszuk-az-orosz-gazt-mint-a-romanok-es-negyedevel-dragabban-mint-az-eu-atlag/",
+        "h1": "Háromszor annyiért vesszük az orosz gázt, mint a románok, és negyedével drágábban, mint az EU-átlag",
+        "txtlength": 19616
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/tech/20220515/mutatjuk-az-ingyenes-mobiltrukkot-igy-szervizeles-nelkul-is-joval-tovabb-birja-majd-az-akku-1124839",
+        "h1": "Mutatjuk az ingyenes mobiltrükköt: így szervizelés nélkül is jóval tovább bírja majd az akku",
+        "txtlength": 16679
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/biztositas/20220516/itt-a-nagy-budapesti-betoresterkep-ezeket-az-otthonokat-fosztjak-ki-legszivesebben-a-bunozok-1124903",
+        "h1": "Itt a nagy budapesti betöréstérkép: ezeket az otthonokat fosztják ki legszívesebben a bűnözők",
+        "txtlength": 16639
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2022/05/18/a-facebook-sajat-kutatoi-szerint-is-veszelyes-lehet-a-ceg-frissen-kiadott-rasszista-es-nogyulolo-mesterseges-intelligenciaja",
+        "h1": "A FACEBOOK SAJÁT KUTATÓI SZERINT IS VESZÉLYES LEHET A CÉG FRISSEN KIADOTT, RASSZISTA ÉS NŐGYŰLÖLŐ MESTERSÉGES INTELLIGENCIÁJA",
+        "txtlength": 12898
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/otthon/hulladekudvarokban-leadhato-szemet/",
+        "h1": "Milyen hulladékot kell a hulladékudvarban leadni? Nem minden kerülhet a kukákba",
+        "txtlength": 11717
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/lajfhekk/kinai-etel-specialitas/",
+        "h1": "kínai étel eredeti specialitás",
+        "txtlength": 9068
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kulfold/2022/05/18/orosz-ukran-haboru-percrol-percre-84-nap",
+        "h1": "Egyre kevesebb az ukrán katona Mariupolban, hivatalosan is beadták a finn és a svéd NATO-csatlakozási kérelmet",
+        "txtlength": 20829
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/ingatlan/20220518_Rozsdaovezetek_a_kormany_az_onkormanyzatokkal_kitolt_az_ingatlanpiacnak_kedvez",
+        "h1": "Rozsdaövezetek: kitolt a kormány az önkormányzatokkal, de az új lakásra vágyóknak kedvez",
+        "txtlength": 19221
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2022/05/17/nayib-bukele-salvador-bandak-bebortonzes-visszaelesek-latin-amerika-populizmus/",
+        "h1": "A világ legkúlabb diktátora addig nem nyugszik, amíg 70 ezer embert rács mögé nem juttat",
+        "txtlength": 17997
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2022/05/18/van-esely-alapitvany-ezt-levezekelni-nem-lehet-film-vilmos-borton-hajlektalansag/",
+        "h1": "„Én elvettem egy emberéletet, de nem lehet annyi ítéletet kiszabni, hogy feltámasszuk. Belenyugodtam”",
+        "txtlength": 16230
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/fn/gazdasag/2022/05/18/kifizetetlen-szamlak-god-samsung-felpenzt-igernek/",
+        "h1": "Több tucat vállalkozás vár pénzére a gödi Samsungnál, 50 százalékos kifizetést akarnak lenyomni a torkukon",
+        "txtlength": 15702
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/belfold/2022/05/18/uj-kormanyzati-struktura-otodik-orban-kormany",
+        "h1": "Alakul az új kormányzati felállás: jó katonák óriástárcái, és még nagyobb gazdasági fókusz",
+        "txtlength": 15143
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20220518_Pinter_honvedelmi_es_rendeszeti_bizottsag",
+        "h1": "Pintér ritka ellenzéki elismerést söpört be a rendészeti bizottsági meghallgatásán",
+        "txtlength": 15143
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20220518_Elkaszalta_az_Alkotmanybirosag_az_ellenzek_nepszavazasat",
+        "h1": "Újabb pofont kapott az ellenzék: elkaszálta az Alkotmánybíróság Karácsony népszavazását",
+        "txtlength": 14834
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/sport/2022/05/17/forma-1-mercedes-visszaeses-problema-elemzes-f1",
+        "h1": "Van még visszaút a gödörből az F1-világbajnok Mercedes számára?",
+        "txtlength": 14693
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/05/18/orbanizalodunk-orbanizalodgatunk",
+        "h1": "Orbanizálódunk, orbanizálódgatunk?",
+        "txtlength": 14064
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/05/17/novak-katalin-putyinozassal-es-szovjetezessel-igyekezett-visszanyerni-a-lengyelek-joindulatat",
+        "h1": "Novák Katalin putyinozással és szovjetezéssel igyekezett visszanyerni a lengyelek jóindulatát",
+        "txtlength": 12915
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/politika/szijjarto-peter-paksi-atomeromu-paks2-felujitas/d5wgn2l?sl_ps=d_2",
+        "h1": "Szijjártó Péter fel akarja gyorsítani a paksi atomerőmű bővítését: 2030-ra ígéri az új blokk üzembe helyezését",
+        "txtlength": 8784
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/penz/bank-hitel-kamatok/30xe6q0",
+        "h1": "Tovább emelkedtek a hitelkamatok: hol lesz ennek a vége?",
+        "txtlength": 7236
+    },
+    {
+        "hostname": "nosalty.hu",
         "pagelink": "https://www.nosalty.hu/recept/elallos-bodzaszorp",
         "h1": "Elállós bodzaszörp",
         "txtlength": 14722
