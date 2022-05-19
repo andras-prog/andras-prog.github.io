@@ -1,6 +1,186 @@
 [
     {
         "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/piritott-teszta-zoldsegekkel",
+        "h1": "Pirított tészta zöldségekkel",
+        "txtlength": 12740
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/glutenmentes-meggyes-piskota-dobalos.recept",
+        "h1": "GLUTÉNMENTES MEGGYES PISKÓTA (DOBÁLÓS)",
+        "txtlength": 10876
+    },
+    {
+        "hostname": "kiszamolo.hu",
+        "pagelink": "https://kiszamolo.hu/raiffeisen-gold-2-es-prime-select-csomagok-velemeny/",
+        "h1": "Raiffeisen Gold 2 és Prime Select csomagok vélemény",
+        "txtlength": 36052
+    },
+    {
+        "hostname": "kulturpart.hu",
+        "pagelink": "https://kulturpart.blog.hu/2022/05/16/megnyilnak_a_titokzatos_kapuk",
+        "h1": "MEGNYÍLNAK A TITOKZATOS KAPUK",
+        "txtlength": 4585
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/hitel/20220517/ezt-az-alapveto-hibat-a-legtobb-lakashiteles-elkoveti-milliokat-buknak-rajta-1124906",
+        "h1": "Ezt az alapvető hibát a legtöbb lakáshiteles elköveti: milliókat buknak rajta",
+        "txtlength": 37748
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/global/20220519/adobevallas-2022-nyakunkon-a-hatarido-mutatjuk-mit-erdemes-tudni-545587",
+        "h1": "Adóbevallás 2022: nyakunkon a határidő, mutatjuk, mit érdemes tudni",
+        "txtlength": 29874
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220518_interju_veres_istvan_novak_katalin",
+        "h1": "Büszke vagyok a feleségemre – Veres István a Mandinernek",
+        "txtlength": 28579
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220518_horvath_csaba_polgarmester_zuglo_onkormanyzat_parlamenti_valasztas_mszp_hadhazy_akos_toth_csaba",
+        "h1": "Horváth Csaba: Nem nagyon tudnék érvelni a hatpárti együttműködés mellett, de ellene sem",
+        "txtlength": 27211
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220519_orban_viktor_cpac_hungary_beszed",
+        "h1": "Orbán Viktor a CPAC-en: A liberálisok és a kommunisták természetes szövetségesek",
+        "txtlength": 24164
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/vasarlas/20220515/itt-a-beigert-tartos-aremelkedes-koltseges-nyar-var-a-csaladosokra-nyugdijasokra-1124823",
+        "h1": "Itt a beígért tartós áremelkedés: költséges nyár vár a családosokra, nyugdíjasokra",
+        "txtlength": 22538
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/ingatlan/20220519/nagy-baj-johet-egyes-lakasoknal-regen-a-moszkva-teren-gyujtottek-segedmunkasokat-a-vallalkozok-de-most-meg-rosszabb-a-helyzet-545455",
+        "h1": "Nagy baj jöhet egyes lakásoknál! - Régen a Moszkva téren gyűjtöttek segédmunkásokat a vállalkozók, de most még rosszabb a helyzet",
+        "txtlength": 21778
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20220519/varga-mihaly-vannak-agazatok-amelyek-extra-profitot-ernek-el-545671",
+        "h1": "Varga Mihály: vannak ágazatok, amelyek extra profitot érnek el ",
+        "txtlength": 21435
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/penz/20220518/eros-volt-az-elso-negyedeves-novekedes-de-fenntarthato-e/",
+        "h1": "Erős volt az első negyedéves növekedés, de fenntartható-e?",
+        "txtlength": 20248
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vallalat/20220519/akkor-kozoltek-az-arat-amikor-elinditottak-a-kamiont-jelentos-dragulas-jon-a-konyveknel/",
+        "h1": "„Akkor közölték az árat, amikor elindították a kamiont” – jelentős drágulás jön a könyveknél",
+        "txtlength": 18593
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2022/05/19/a-kivaltsagos-helyzetben-levok-mar-az-egyenloseg-gondolatatol-is-fraszt-kapnak-mert-attol-felnek-hogy-rosszul-jarnak",
+        "h1": "A KIVÁLTSÁGOS HELYZETBEN LÉVŐK MÁR AZ EGYENLŐSÉG GONDOLATÁTÓL IS FRÁSZT KAPNAK, MERT ATTÓL FÉLNEK, HOGY ROSSZUL JÁRNAK",
+        "txtlength": 12511
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/szepseg/sztarok-arcapolasi-rutinja/",
+        "h1": "Az 56 éves Cindy Crawford így őrzi bőre feszességét: arcápolási rutinját érdemes követni",
+        "txtlength": 11222
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/lajfhekk/sutoracs-tisztitasa/",
+        "h1": "Sütőrács tisztítása",
+        "txtlength": 8135
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/komplex/2022/05/19/extrem-takaritas-halal-elmaganyosodas-holttest-emlek-hagyatek-lakas",
+        "h1": "\n      Gumikesztyűben járnak a magányos halál tanúi\n    ",
+        "txtlength": 26256
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kulfold/2022/05/19/orosz-ukran-haboru-percrol-percre-85-nap-1",
+        "h1": "Orosz falut lőttek hajnalban az ukránok egy orosz kormányzó szerint",
+        "txtlength": 19107
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kultura/2022/05/18/a-besugo-magyar-sorozat-hbo-80-as-evek/",
+        "h1": "A besúgó: a retróláz vagy a magyarnarancs-szindróma miatt szeretik ennyire a magyarok?",
+        "txtlength": 18975
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kulfold/2022/05/19/fidesz-ep-neppart-frakcio-partcsalad-szavazas",
+        "h1": "Egy éve uniós árva a Fidesz, mégis az előző családjával szavaz",
+        "txtlength": 18193
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20220519_orban_viktor_cpac_12_pont_a_siker_receptje",
+        "h1": "Orbán Viktor 12 pontban foglalta össze a siker receptjét",
+        "txtlength": 14677
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/05/19/rogan-antal-kuzd-a-propaganda-ellen-az-ipari-miniszter-felugyeli-a-kornyezetvedelmet",
+        "h1": "Rogán Antal küzd a propaganda ellen, az ipari miniszter felügyeli a környezetvédelmet",
+        "txtlength": 14321
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2022/05/19/otthonapolas-kagyemo-haz-napkozi-paku-andrea-maglod/",
+        "h1": "„Azt hittem, jobbá tudjuk tenni ezt a világot, de már nem vagyok ebben olyan biztos”",
+        "txtlength": 13962
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/05/18/lmp-magyarorszagon-akkor-lehet-nepszavazas-ha-a-fidesz-azt-a-sajat-szempontjabol-elonyosnek-tartja",
+        "h1": "LMP: Magyarországon akkor lehet népszavazás, ha a Fidesz azt a saját szempontjából előnyösnek tartja",
+        "txtlength": 13114
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20220518_SzalayBobrovniczky_honvedelmi_bizottsag",
+        "h1": "Szalay-Bobrovniczky Kristóf: Odaállunk Ukrajna mellé",
+        "txtlength": 13056
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kulfold/2022/05/19/orosz-ukran-haboru-zelenszkij-putyin-oroszorszag-nato-elo-percrol-percre/",
+        "h1": "Az ukrán elnöki hivatal vezetője szerint további országok keveredhetnek bele a háborúba",
+        "txtlength": 11801
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20220518_szalaybobrovniczky_honvedelmi_miniszter_meghallgatasa",
+        "h1": "Szalay-Bobrovniczkytól megkérdezték, mit tesz majd az orosz katonai hírszerzés ellen",
+        "txtlength": 10974
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/politika/novak-katalin-veres-istvan-maganelet/770yg0h?sl_ps=d_6",
+        "h1": "Így ismerkedett meg Novák Katalin és férje: a magánéletükről vallott Veres István",
+        "txtlength": 9557
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/a-tanara-miatt-ivott-fagyallot-a-nyolcadikos-mate/66dkj6f?sl_ps=d_12",
+        "h1": "A tanára miatt ivott fagyállót a nyolcadikos Máté",
+        "txtlength": 8715
+    },
+    {
+        "hostname": "nosalty.hu",
         "pagelink": "https://www.nosalty.hu/recept/fejessalata-ecetes-leben",
         "h1": "Fejessaláta ecetes lében",
         "txtlength": 14526
