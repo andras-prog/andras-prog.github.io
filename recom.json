@@ -1,6 +1,180 @@
 [
     {
         "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/klasszikus-lebbencsleves",
+        "h1": "Klasszikus lebbencsleves",
+        "txtlength": 10865
+    },
+    {
+        "hostname": "hataratkelo.blog.hu",
+        "pagelink": "https://hataratkelo.blog.hu/2022/05/17/a_varazslatos_szicilia#c41411801",
+        "h1": "A varázslatos Szicília",
+        "txtlength": 32345
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20220520/mire-keszul-orban-viktor-a-mondatok-amibol-mar-latni-lehet-545899",
+        "h1": "Mire készül Orbán Viktor? - A mondatok, amiből már látni lehet",
+        "txtlength": 33600
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220520_michael_anton_trump_biden_blackrock",
+        "h1": "Az oroszok súlyos megbüntetése még visszaüthet – Michael Anton, Trump volt tanácsadója a Mandinernek",
+        "txtlength": 26813
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20220520/a-berstatisztikak-elterese-lehetseges-magyarazatok-es-ajanlasok-543935",
+        "h1": "A bérstatisztikák eltérése - lehetséges magyarázatok és ajánlások",
+        "txtlength": 26540
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/penz/20220520/milyen-meredek-lejtore-kerul-a-magyar-gazdasag-attol-fugg-hogy-elon-musk-vagy-bill-gates-joslata-jon-be/",
+        "h1": "Milyen meredek lejtőre kerül a magyar gazdaság? Attól függ, hogy Elon Musk vagy Bill Gates jóslata jön be",
+        "txtlength": 25412
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220518_a_ciganyok_elsopro_tobbsegen_a_fideszre_szavaztak_forgacs_istvan_a_mandinernek",
+        "h1": "A cigányok elsöprő többsége is a Fideszre szavazott – Forgács István a Mandinernek",
+        "txtlength": 23638
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220519_kigyo_sziget_ukrajna_haboru",
+        "h1": "Mi igaz a Kígyó-sziget legendáiból? – Háború, közelről",
+        "txtlength": 20498
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/biztositas/20220519/aljas-bunozok-vadasznak-a-nyugdijasokra-itt-csapjak-be-fosztjak-ki-a-legtobb-idost-budapesten-1124956",
+        "h1": "Aljas bűnözők vadásznak a nyugdíjasokra: itt csapják be, fosztják ki a legtöbb időst Budapesten",
+        "txtlength": 20160
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/karrier/20220519/5-jel-hogy-a-kollegad-egy-narcisztikus-barom-igy-vedd-eszre-kulonben-teged-is-megmergez-1125031",
+        "h1": "5 jel, hogy a kollégád egy nárcisztikus barom: így vedd észre, különben téged is megmérgez",
+        "txtlength": 20057
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/global/20220520/veres-es-fajdalmas-gyozelmet-aratott-oroszorszag-ukrajna-hoseire-pedig-alighanem-kegyetlen-itelet-var-545781",
+        "h1": "Véres és fájdalmas győzelmet aratott Oroszország, Ukrajna hőseire pedig alighanem kegyetlen ítélet vár",
+        "txtlength": 19954
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/penz/20220519/hogyan-lehet-biztositani-az-eletpalya-penzugyi-egyensulyat/",
+        "h1": "Hogyan lehet biztosítani az életpálya pénzügyi egyensúlyát?",
+        "txtlength": 19903
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2022/05/20/szetszakad-az-orszag-de-hogyan-jutottunk-idaig",
+        "h1": "SZÉTSZAKAD AZ ORSZÁG, DE HOGYAN JUTOTTUNK IDÁIG?",
+        "txtlength": 17892
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/testem/vagykelto-illatok/",
+        "h1": "vágykeltő illatok",
+        "txtlength": 13304
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/kapcsolat/eros-szexualis-vonzalom-jelei/",
+        "h1": "Az erős szexuális vonzalom 7 legfőbb jele - Már az ismerkedés során észreveheted őket",
+        "txtlength": 9912
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/lajfhekk/puffasztott-rizs/",
+        "h1": "Puffasztott rizs",
+        "txtlength": 7708
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kulfold/2022/05/20/orosz-ukran-haboru-86-nap",
+        "h1": "Putyin unokájának apját úgy hívják, hogy Zelenszkij – állítják német és orosz források",
+        "txtlength": 22177
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kulfold/2022/05/20/torokorszag-erdogan-nato-nato-csatlakozas-svedorszag-finnorszag-kurdok-terrorizmus-pkk-ypg-sziria-oroszorszag-putyin-legvedelem-veto",
+        "h1": "Erdoğan nagy játszmába kezdett, amikor látványosan beintett a finn–svéd NATO-bővítésnek",
+        "txtlength": 21353
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/interju/2022/05/20/fekete-gyor-andras-momentum-frakciovezeto-parlament-valasztas",
+        "h1": "Fekete-Győr András: A nagy összefogás pszichózisában háttérbe szorult a felkészültség",
+        "txtlength": 20891
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kultura/2022/05/19/ismeretlen-budapest-allatorvosi-allatorvostudomanyi-egyetem-ate-bethlen-gabor-utca-ter-istvan-ut-bovites-meszaros-lorinc-fejerterv-incorso-platan-erzsebetvaros-onkormanyzat/",
+        "h1": "Kormányrendelettel hárították el az Állatorvostudományi Egyetem túlméretezett bővítése előtt álló faakadályt",
+        "txtlength": 15150
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/05/20/virtualis-kormanyok-a-teljes-idegosszeomlas-szelen",
+        "h1": "Virtuális kormányok a teljes idegösszeomlás szélén",
+        "txtlength": 14753
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2022/05/20/szolnok-jobbik-gallo-gyorgy-peter-baratno/",
+        "h1": "Otthagyta a Jobbikot, a barátnője megkapta a párttól elvett posztokat",
+        "txtlength": 13406
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20220520_SzalayBobrovniczky_Kristof_tartalekos_hadero",
+        "h1": "Mi az a tartalékos haderő, amelynek fejlesztése az új honvédelmi miniszter szívügye?",
+        "txtlength": 12430
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/tudomany/20220519_Xszarnyu_csillagvadasz_haboru_Ukrajna_Csillagok_haboruja_jotekonysag",
+        "h1": "Épített egy közel életnagyságú, mozgó, X-szárnyú vadászgépet, amivel Ukrajnát akarja segíteni",
+        "txtlength": 12109
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/zhvg/20220520_vallalkozasok_hulladekgazdalkodasa_torvenyek_szabalyok_osztonzok_korforgasos_gazdasag",
+        "h1": "Törvény már van, de még sokat kell tenni, hogy tudatosabb hulladékgazdálkodásra ösztönözzék a hazai cégeket",
+        "txtlength": 11964
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/05/19/meghalt-vangelis",
+        "h1": "Meghalt Vangelis",
+        "txtlength": 11705
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kultura/2022/05/19/podcast-elso-kezbol-besugo-hbo-kritika-fiatalok-imdb-a-masok-elete/",
+        "h1": "Minél kevesebb saját élményed van a 80-as évekről, annál nagyobb eséllyel szereted A besúgót",
+        "txtlength": 11667
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/sztarvilag/zene/meghalt-vangelis/zcvmc1h",
+        "h1": "Gyász: meghalt Vangelis",
+        "txtlength": 8959
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/kulfold/eszak-korea-alternativ-gyogymod-koronavirus-valsag/e5yb365",
+        "h1": "Padlón Észak-Korea: gyömbérteát ajánlanak a koronavírus ellen, és ez még csak a jéghegy csúcsa",
+        "txtlength": 8194
+    },
+    {
+        "hostname": "nosalty.hu",
         "pagelink": "https://www.nosalty.hu/recept/piritott-teszta-zoldsegekkel",
         "h1": "Pirított tészta zöldségekkel",
         "txtlength": 12740
