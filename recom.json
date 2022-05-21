@@ -1,5 +1,179 @@
 [
     {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/glutenmentes-aranygaluska.recept",
+        "h1": "GLUTÉNMENTES ARANYGALUSKA",
+        "txtlength": 12085
+    },
+    {
+        "hostname": "hataratkelo.blog.hu",
+        "pagelink": "https://hataratkelo.blog.hu/2022/05/17/a_varazslatos_szicilia#c41413323",
+        "h1": "A varázslatos Szicília",
+        "txtlength": 35851
+    },
+    {
+        "hostname": "kulturpart.hu",
+        "pagelink": "https://kulturpart.hu/2022/05/19/buborek_es_menedek_budapesten",
+        "h1": "BUBORÉK ÉS MENEDÉK BUDAPESTEN",
+        "txtlength": 5499
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220521_varosmajor_tervek",
+        "h1": "Új tó kerülhet Buda szívébe – így születik újjá a Városmajor",
+        "txtlength": 31192
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220516_pedofil_papok_a_hatalom_a_lenyeg_nem_a_szexualis_vagy",
+        "h1": "Pedofil papok: a hatalom a lényeg, nem a szexuális vágy?",
+        "txtlength": 26092
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/uzlet/20220520/keszul-a-mol-az-orosz-olajcsap-elzarasara-repules-kozben-kell-atepiteni-a-repulot-546091",
+        "h1": "Készül a Mol az orosz olajcsap elzárására - Repülés közben kell átépíteni a repülőt",
+        "txtlength": 24315
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/egeszseg/20220520/nem-is-sejti-a-magyarok-tobbsege-ok-is-jogosultak-erre-az-szja-kedvezmenyre-1125005",
+        "h1": "Nem is sejti a magyarok többsége: ők is jogosultak erre az SZJA-kedvezményre",
+        "txtlength": 21280
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/uzlet/20220520/epphogy-csak-de-sikerult-elkerulni-a-medvepiacot-igy-zartak-a-heten-az-amerikai-tozsdek-545905",
+        "h1": "Épphogy csak, de sikerült elkerülni a medvepiacot – Így zártak a héten az amerikai tőzsdék ",
+        "txtlength": 21050
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/global/20220520/szep-csendben-epul-putyin-uj-oroszorszaga-ilyen-lesz-az-elet-a-haboru-pusztitasa-utan-545747",
+        "h1": "Szép csendben épül Putyin Új-Oroszországa – Ilyen lesz az élet a háború pusztítása után",
+        "txtlength": 19845
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220521_erzsebetvaros_idokozi_onkormanyzati_valasztas_borka_szasz_tamas_ripka_andras_jenei_kevin_martin_sima_akos_terdik_roland_niedermuller_peter_soroni_tamas_terezvaros_dk_fidesz_momentum",
+        "h1": "Az erzsébetvárosi időközi választáson Niedermüller biztos többsége a tét",
+        "txtlength": 19782
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/utazas/20220518/megdragul-a-nyaralas-a-horvat-euro-miatt-itt-a-hivatalos-valasz-errol-jobb-ha-tudsz-1124958",
+        "h1": "Megdrágul a nyaralás a horvát euró miatt? Itt a hivatalos válasz: erről jobb, ha tudsz",
+        "txtlength": 19443
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vilag/20220520/a-vilag-legcifrabb-hadserege-lett-az-ukran-de-ez-sok-gondot-is-okoz/",
+        "h1": "A világ legcifrább hadserege lett az ukrán, de ez sok gondot is okoz",
+        "txtlength": 16938
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/kozelet/20220521/az-uzleti-eletre-is-jo-hatassal-van-ha-szabad-a-media/",
+        "h1": "Az üzleti életre is jó hatással van, ha szabad a média",
+        "txtlength": 15727
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2022/05/19/megszuletett-a-magyarazat-arra-hogyan-keletkezhetett-a-fold-melyeben-rejlo-ket-gigantikus-kepzodmeny",
+        "h1": "MEGSZÜLETETT A MAGYARÁZAT ARRA, HOGYAN KELETKEZHETETT A FÖLD MÉLYÉBEN REJLŐ KÉT GIGANTIKUS KÉPZŐDMÉNY",
+        "txtlength": 13232
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/egeszseg/koszoruer-betegseg-kialakulas/",
+        "h1": "Ez felel leginkább a koszorúér-betegségek kialakulásáért: nem csak a genetika okozza",
+        "txtlength": 11453
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/szuloseg/rakos-beteg-csaladot-alapit-ferfi-no/",
+        "h1": "Rákbetegség kezelés családalapítás amerikai onkológusok",
+        "txtlength": 10733
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kult/2022/05/20/a-besugo-hbo-sorozat-latvanytervezo-lang-imola-retro-targyak-forgatas-helyszin",
+        "h1": "Centrum nejlonszatyor még volt, de a zacskós tejet már újra kellett gyártani A besúgóhoz",
+        "txtlength": 21518
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kultura/2022/05/21/ismeretlen-budapest-peterfy-sandor-utca-diakszallo-forestay-csoport-botos-balint-epites-foghij-hunvald-gyorgy/",
+        "h1": "Felsőkategóriás diákszálló épül a Péterfy Sándor utca évtizedes foghíján",
+        "txtlength": 19423
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kulfold/2022/05/20/ron-desantis-florida-republikanus-part-kormanyzo-trump/",
+        "h1": "Orbán floridai követője lehet a Republikánus Párt ásza",
+        "txtlength": 17915
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/tudomany/2022/05/21/boszorkany-boszorkanyvadasz-kozepkor-tortenelem/",
+        "h1": "Bevallotta a boszorkány: az ördöggel közösült",
+        "txtlength": 17476
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/szorakozas/2022/05/21/borzsonyi-kek",
+        "h1": "Börzsönyi Kéktúra: Drégely várától az elmosott kisvasút völgyéig",
+        "txtlength": 17346
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kulfold/2022/05/20/ukrajna-oroszorszag-haboru-panel-racz-jojart-dillard-nepop-kreko-zoldi-dezinformacio",
+        "h1": "Oroszország Ukrajna lassú kivéreztetésére játszik, minél szorultabb helyzetbe hoznák a lakosságot",
+        "txtlength": 16872
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/vilag/20220520_orosz_katonak_haborus_bunok_bucsa",
+        "h1": "„Szabaduljatok meg tőlük” – bizonyítékokat gyűjtött a New York Times arról, hogyan végeztek ki orosz katonák bucsai férfiakat",
+        "txtlength": 16444
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/05/20/nob-elnok-szankciokra-szamithatnak-a-sportolok-akik-tamogatjak-a-haborut",
+        "h1": "NOB-elnök: Szankciókra számíthatnak a sportolók, akik támogatják a háborút",
+        "txtlength": 11263
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/05/21/12-orszagbol-mar-tobb-mint-80-majomhimlos-esetet-talaltak",
+        "h1": "12 országból már több mint 80 majomhimlős esetet találtak",
+        "txtlength": 10915
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/gazdasag/20220521_Litvania_teljes_mertekben_levalt_az_orosz_energiarol",
+        "h1": "Litvánia teljes mértékben levált az orosz energiáról",
+        "txtlength": 10559
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/tudomany/20220521_majomhimlo_virus_betegseg",
+        "h1": "Hogyan ismerhető fel az új fajta majomhimlő, és mennyire kell félni tőle?",
+        "txtlength": 10146
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/krimi/prostitualtak-4-es-fout-sorozatgyilkossag-nyomozas/2nr5n29",
+        "h1": "Prostituáltakat hagyott a 4-es főút mellett vérbe fagyva a sorozatgyilkos",
+        "txtlength": 9941
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/politika/orban-viktor-szerbia/6nvprce",
+        "h1": "Orbán Viktor elment Szerbiába, ahol ezt mondta neki az elnök",
+        "txtlength": 7406
+    },
+    {
         "hostname": "nosalty.hu",
         "pagelink": "https://www.nosalty.hu/recept/klasszikus-lebbencsleves",
         "h1": "Klasszikus lebbencsleves",
