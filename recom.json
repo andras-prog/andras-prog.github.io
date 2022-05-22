@@ -1,5 +1,185 @@
 [
     {
+        "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/egyszeru-kaposztasalata-pussycattol",
+        "h1": "Egyszerű káposztasaláta pussycattól",
+        "txtlength": 11949
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/bogres-blondie-mikroban.recept",
+        "h1": "BÖGRÉS BLONDIE MIKRÓBAN",
+        "txtlength": 11162
+    },
+    {
+        "hostname": "kiszamolo.hu",
+        "pagelink": "https://kiszamolo.hu/a-just-in-time-vilag/",
+        "h1": "A just-in-time világ",
+        "txtlength": 41000
+    },
+    {
+        "hostname": "kulturpart.hu",
+        "pagelink": "https://kulturpart.blog.hu/2022/05/19/buborek_es_menedek_budapesten",
+        "h1": "BUBORÉK ÉS MENEDÉK BUDAPESTEN",
+        "txtlength": 5464
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220518_andreas_kinneging_interju_woke",
+        "h1": "A woke még a kommunizmusnál is veszélyesebb – Andreas Kinneging a Mandinernek",
+        "txtlength": 26530
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220509_szakmai_eszkoztarunkkal_a_magyarsag_lelki_ujjaszuletesehez_jarulunk_hozza_grezsa_ferenc_a_mandinernek",
+        "h1": "Mentálhigiénés képzéssel a magyarság lelki újjászületéséért – Grezsa Ferenc a Mandinernek",
+        "txtlength": 24613
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vilag/20220522/mar-az-inflacionak-ellenallo-utolso-bastyak-is-omladozni-kezdtek/",
+        "h1": "Már az inflációnak ellenálló utolsó bástyák is omladozni kezdtek",
+        "txtlength": 22481
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/global/20220521/nem-vart-helyrol-bombaznak-szet-a-putyin-elleni-peldatlan-katonai-osszefogast-igy-verheti-szet-egyetlen-ember-evtizedek-munkajat-546069",
+        "h1": "Nem várt helyről bombáznák szét a Putyin elleni példátlan katonai összefogást – Így verheti szét egyetlen ember évtizedek munkáját",
+        "txtlength": 20897
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220518_kulfold_mariupol",
+        "h1": "Mariupol: a város, amivel példát kellett statuálni",
+        "txtlength": 20875
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/global/20220522/csak-bloffol-erdogan-a-nato-bovites-ellenzesevel-ezt-alkudhatja-ki-a-veto-elengedeseert-546035",
+        "h1": "Csak blöfföl Erdogan a NATO-bővítés ellenzésével? – Ezt alkudhatja ki a vétó elengedéséért",
+        "txtlength": 20438
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/vallalkozas/20220520/hazankat-is-letarolja-a-legujabb-nyugati-orulet-ez-lehet-2022-ben-a-sor-nagy-vetelytarsa-1124992",
+        "h1": "Hazánkat is letarolja a legújabb nyugati őrület: ez lehet 2022-ben a sör nagy vetélytársa",
+        "txtlength": 18996
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20220520/sosem-latott-szamok-erkeztek-a-magyar-arrobbanasrol-itt-vannak-a-40-50-kal-dragulo-termekek-545709",
+        "h1": "Sosem látott számok érkeztek a magyar árrobbanásról: itt vannak a 40-50%-kal dráguló termékek",
+        "txtlength": 18348
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/otthon/20220519/igy-nyird-ki-az-inflaciot-felejtsd-el-az-mnb-t-ezekkel-a-modszerekkel-nem-er-el-a-dragulas-1124986",
+        "h1": "Így nyírd ki az inflációt: felejtsd el az MNB-t, ezekkel a módszerekkel nem ér el a drágulás",
+        "txtlength": 16712
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vallalat/20220521/miert-van-egyre-tobbszor-aruhiany-az-elelmiszerboltokban/",
+        "h1": "Miért van egyre többször áruhiány az élelmiszerboltokban?",
+        "txtlength": 15977
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2022/05/21/okologiai-reneszanszat-eli-a-paradicsomi-sziget-amit-3-ev-alatt-tobb-mint-300-ezer-egertol-es-patkanytol-szabaditottak-meg",
+        "h1": "ÖKOLÓGIAI RENESZÁNSZÁT ÉLI A PARADICSOMI SZIGET, AMIT 3 ÉV ALATT TÖBB MINT 300 EZER EGÉRTŐL ÉS PATKÁNYTÓL SZABADÍTOTTAK MEG",
+        "txtlength": 12294
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/szuloseg/bocsanatkeres-pszichologia/",
+        "h1": "bocsánatkérés pszichológia áldozathibáztatás",
+        "txtlength": 10500
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/egeszseg/foniatria-vizsgalat/",
+        "h1": "Gyakori rekedtség vagy gombócérzet a torokban: miért fontos szakemberhez fordulni?",
+        "txtlength": 10394
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://rangado.24.hu/nemzetkozi_foci/2022/05/22/eintracht-frankfurt-uefa-kupa-gyozelem-1980/",
+        "h1": "Alex Ferguson csapatát és a bírót hibáztató románokat verve is nyert már európai trófeát a Frankfurt",
+        "txtlength": 25481
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kultura/2022/05/22/vagyak-konyve-jezus-ana-palesztina-judea-romai-birodalom-matine/",
+        "h1": "Szülei egy özvegyhez akarták hozzákényszeríteni a 14 éves lányt, de ő megpillantotta Jézust",
+        "txtlength": 22743
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kulfold/2022/05/22/orosz-ukran-haboru-88-nap",
+        "h1": "A Gazprom leállította a gázt Finnországba, a litvánok vasárnaptól teljesen leállnak az orosz energiaimporttal, a lengyel elnök az ukrán parlament előtt szólal fel Kijevben",
+        "txtlength": 21789
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/szorakozas/2022/05/21/buszsofor-aldas-bkk-gimeskovi-karoly-interju/",
+        "h1": "„Fogadják nagy-nagy szeretettel a buszsofőr szeretetét, és vigyék haza az ismerőseiknek”",
+        "txtlength": 21153
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/tech/2022/05/21/a-legolcsobb-renault-kat-dacianak-nevezik-az-egyik-a-magyar-piac-slagere-lesz-kiprobaltuk-a-joggert",
+        "h1": "Mit tud a legolcsóbb hétüléses autó, az új Dacia Jogger?",
+        "txtlength": 18752
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/gazdasag/20220522_Es_akkor_kormany_miniszterek_gdp_mnb",
+        "h1": "És akkor kiderült, a kormánytagok a kampány után is tudnak nagyot mondani",
+        "txtlength": 16045
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/elet/20220522_interju_Takacs_Hajnalkaval",
+        "h1": "A táplálkozási problémák mindig a szélsőségekből adódnak",
+        "txtlength": 15784
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/belfold/2022/05/22/hunyadi-matyas-szoborpark-szeged-ferences-rend-balint-sandor",
+        "h1": "Történelmi hazugságra húztak volna szoborparkot Szegeden, a háború és a pénztelenség állította meg a terveket",
+        "txtlength": 15578
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/05/21/csehorszag-rengeteg-hadianyagot-kuldott-ukrajnaba",
+        "h1": "Csehország rengeteg hadianyagot küldött Ukrajnába",
+        "txtlength": 10076
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/05/22/napsutes-zapor-zivatar-minden-lesz-a-jovo-heten",
+        "h1": "Napsütés, zápor, zivatar, minden lesz a jövő héten",
+        "txtlength": 9885
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/hianyszakma-2022-sztarszakma-munkaeropiac-munka/vn7ce1k?sl_ps=d_2",
+        "h1": "A Blikk utánajárt: ezeken a területeken lehet most a legtöbbet keresni – Számokban mutatjuk a fizetéseket",
+        "txtlength": 9708
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/blikk-tv/aktualis/mvm-dome-kulonleges-helyek-extrem-helyszinek/fr2hc1s?sl_ps=d_3",
+        "h1": "Különleges helyek, extrém helyszínek – Az MVM Dome, ahogyan csak kevesen láthatják – videó",
+        "txtlength": 9672
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/vilag/20220522_orosz_ukran_haboru_88_nap",
+        "h1": "Putyin komáját kérhetik az Azovsztal védőiért, 11 ezernél is több menekült érkezett szombaton – percről percre a háborúról",
+        "txtlength": 9341
+    },
+    {
         "hostname": "mindmegette.hu",
         "pagelink": "https://www.mindmegette.hu/glutenmentes-aranygaluska.recept",
         "h1": "GLUTÉNMENTES ARANYGALUSKA",
