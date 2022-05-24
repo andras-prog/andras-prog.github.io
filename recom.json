@@ -1,6 +1,180 @@
 [
     {
         "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/tiramisu-cukormentes-recept.recept",
+        "h1": "TIRAMISU (CUKORMENTES RECEPT)",
+        "txtlength": 10687
+    },
+    {
+        "hostname": "kiszamolo.hu",
+        "pagelink": "https://kiszamolo.hu/a-futogep-az-elet-edzotermeben/",
+        "h1": "A futógép az élet edzőtermében",
+        "txtlength": 31999
+    },
+    {
+        "hostname": "kulturpart.hu",
+        "pagelink": "https://kulturpart.blog.hu/2022/05/22/tisztan_es_egyszeruen_530",
+        "h1": "PÁL APOSTOL LEVELEI – TISZTÁN ÉS EGYSZERŰEN",
+        "txtlength": 8467
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/befektetes/20220524/lakossagi-allampapirok-magyarorszagon-es-a-vilagban-mit-tud-a-tobbi-orszag-546479",
+        "h1": "Lakossági állampapírok Magyarországon és a világban - Mit tud a többi ország?",
+        "txtlength": 28713
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/karrier/20220524/tobb-szaz-fot-keres-az-aldi-otthonrol-vegezheto-munka-akar-millios-fizetessel-1125183",
+        "h1": "Több száz főt keres az ALDI: otthonról végezhető munka, akár milliós fizetéssel",
+        "txtlength": 23228
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/gazdasag/20220520/elkepeszto-dragulas-johet-a-boltokban-a-kutakon-ez-az-ev-mar-csak-nehezebb-lesz-a-magyaroknak-1125043",
+        "h1": "Elképesztő drágulás jöhet a boltokban, a kutakon: ez az év már csak nehezebb lesz a magyaroknak?",
+        "txtlength": 20016
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/penz/20220524/nem-varazsfegyver-de-van-ahol-jo-gazdasagfejlesztesi-modszer-az-autopalya-epites/",
+        "h1": "Nem varázsfegyver, de van, ahol jó gazdaságfejlesztési módszer az autópálya-építés",
+        "txtlength": 19587
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220524_kozel_kelet_valsag_tarik_meszar",
+        "h1": "Válságok, konfliktusok és migráció: mi vár a Közel-Keletre?",
+        "txtlength": 18425
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20220524/hatalmas-ujitasok-jonnek-az-allami-egeszsegugyben-mobilapp-online-foglalas-digitalis-karszalag-546425",
+        "h1": "Hatalmas újítások jönnek az állami egészségügyben: mobilapp, online foglalás, digitális karszalag",
+        "txtlength": 18166
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.penzcentrum.hu/egeszseg/20220524/kiderult-az-igazsag-a-cbd-olajrol-ezt-mindenkepp-tudnod-kell-mielott-ilyet-vennel-1125197",
+        "h1": "Kiderült az igazság a CBD-olajról: ezt mindenképp tudnod kell, mielőtt ilyet vennél",
+        "txtlength": 17838
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220523_varga_judit_fontos_a_konstruktiv_parbeszed_fenntartasa_az_eu_val",
+        "h1": "Varga Judit „süketek párbeszédéhez” hasonlította a hetes cikk szerinti eljárás újabb meghallgatását",
+        "txtlength": 16186
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vilag/20220524/kedves-norveg-barataink-ez-nem-normalis-ez-nem-fair-uj-kommunikacios-frontot-nyitottak-a-lengyelek/",
+        "h1": "„Kedves norvég barátaink, ez nem normális, ez nem fair” – új kommunikációs frontot nyitottak a lengyelek",
+        "txtlength": 15626
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220524_henry_kissinger_haboru_ukrajna_oroszorszag_kulfold",
+        "h1": "Kissinger: Ukrajnának területi engedményeket kell tennie Oroszország felé",
+        "txtlength": 14521
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/szuloseg/gyerek-villamgyors-takaritas/",
+        "h1": "gyerek villámgyors takarítás",
+        "txtlength": 11413
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/utazas/turistak-lopasai-szallodakban/",
+        "h1": "Hihetetlen dolgok, amit a magyar turisták tényleg megpróbáltak ellopni - Idegenvezető árulta el",
+        "txtlength": 11060
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2022/05/24/a-kemiatanar-buntetodolgozatot-iratott-mire-hanna-egy-esszet-adott-le-arrol-hogy-miert-nincs-joga-hozza",
+        "h1": "A KÉMIATANÁR BÜNTETŐDOLGOZATOT ÍRATOTT, MIRE HANNA EGY ESSZÉT ADOTT LE ARRÓL, HOGY MIÉRT NINCS JOGA HOZZÁ",
+        "txtlength": 9587
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kultura/2022/05/24/kadar-tamas-sziget-fesztival-interju-euro-arfolyam-volt-fesztival-balaton-sound/",
+        "h1": "Újra lesz Sziget, de a fesztiváliparban már minden másképp működik, mint a pandémia előtt",
+        "txtlength": 24411
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/sport/2022/05/24/giro-magyar-bringasok-pihenonap-interju-olaszorszag-valter-attila-fetter-erik-peak-barnabas-kerekpar",
+        "h1": "Rakott krumplit és sajtos melegszendvicset kíván a legjobb magyar bringás a Girón",
+        "txtlength": 17786
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kulfold/2022/05/24/orosz-ukran-haboru-90-nap-percrol-percre-hirek-tudositas",
+        "h1": "A németek szerint az EU napokon belül dűlőre jut az olajembargóról, Duterte nekiment Putyinnak",
+        "txtlength": 17582
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kultura/2022/05/23/ismeretlen-budapest-nepszinhaz-utca-22-patika-gyogyszertar-patikabelso-butorzat-butor-koranyi-lajos-frigyes-miklos-vedettseg-vedett/",
+        "h1": "Századfordulós, védett patikabelső tűnhet el a Népszínház utcából",
+        "txtlength": 17031
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/sport/2022/05/23/kylian-mbappe-psg-katar-szerzodeshosszabbitas-real-madrid",
+        "h1": "Ekkora hatalma még sosem volt futballistának egy klub fölött",
+        "txtlength": 15425
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20220524_Varga_Judit_megfigyelesek_engedely_titkositas",
+        "h1": "Titkosították, ki írja alá Varga Judit tárcájánál a megfigyelések engedélyezését",
+        "txtlength": 15348
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/05/24/nincs-minden-a-legnagyobb-rendben",
+        "h1": "Nincs minden a legnagyobb rendben",
+        "txtlength": 13934
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/fn/gazdasag/2022/05/24/gyogynovenyes-dohanymentes-hevitorudak-dohanyipar-dohanyzas/",
+        "h1": "Gyógyhatásuk nincs, összetételük sokszor ismeretlen, de lépni akarnak, mert annyian szoktak már rá",
+        "txtlength": 12877
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/vilag/20220524_haboru_percrol_percre_90_nap",
+        "h1": "Heves harcok Limannál, Moszkva a Nyugat helyett Kína felé fordul – percről percre a háborúról",
+        "txtlength": 11385
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/05/24/who-a-majomhimlo-megfekezheto-az-afrikan-kivuli-orszagokban",
+        "h1": "WHO: A majomhimlő megfékezhető az Afrikán kívüli országokban",
+        "txtlength": 11157
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/ingatlan/20220524_lakashitel_kamatok_dragulas",
+        "h1": "A lakáshitelek az infláció csaknem négyszeresével drágultak egy év alatt",
+        "txtlength": 10411
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/78-eves-polgarmester-18-eves-lany-eskuvo/d3d6e6s",
+        "h1": "Bazi nagy kunhegyesi lagzi: 18 éves leányanyát vett feleségül a 78 éves polgármester",
+        "txtlength": 8514
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/kulfold/putyin-merenylet-paranioas-megprobaltak-megolni/xrbvg4g?sl_ps=d_12",
+        "h1": "Nem a tegnap kiderült merénylet volt az első Putyin ellen: így próbálták meg korábban megölni az orosz elnököt",
+        "txtlength": 7950
+    },
+    {
+        "hostname": "mindmegette.hu",
         "pagelink": "https://www.mindmegette.hu/kakaos-bogres-torta.recept",
         "h1": " KAKAÓS BÖGRÉS TORTA",
         "txtlength": 11835
