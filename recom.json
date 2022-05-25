@@ -1,5 +1,179 @@
 [
     {
+        "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/bodzaszorp-egyszeruen",
+        "h1": "Bodzaszörp egyszerűen",
+        "txtlength": 10971
+    },
+    {
+        "hostname": "kiszamolo.hu",
+        "pagelink": "https://kiszamolo.hu/a-vihar-eloszele/#more-118584",
+        "h1": "A vihar előszele",
+        "txtlength": 37769
+    },
+    {
+        "hostname": "kulturpart.hu",
+        "pagelink": "https://kulturpart.blog.hu/2022/05/24/emlekek_a_hazbol_ut_az_iskolaba_ii_resz",
+        "h1": "EMLÉKEK A HÁZBÓL - ÚT AZ ISKOLÁBA II. RÉSZ",
+        "txtlength": 10528
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20220525/megvan-melyik-miniszternek-mi-a-feladata-vannak-am-meglepetesek-546913",
+        "h1": "Megvan, melyik miniszternek mi a feladata - Vannak ám meglepetések!",
+        "txtlength": 42330
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/oktatas/20220524/megszolalt-a-pesti-topgimi-igazgatoja-ezert-allnak-egyre-kevesebben-tanarnak-magyarorszagon-1125137",
+        "h1": "Megszólalt a pesti topgimi igazgatója: ezért állnak egyre kevesebben tanárnak Magyarországon",
+        "txtlength": 29001
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/oktatas/20220525/erik-a-forradalom-a-magyar-iskolakban-lepni-kell-kulonben-nincs-jovoje-a-gyerekeknek-1125151",
+        "h1": "Érik a forradalom a magyar iskolákban: lépni kell, különben nincs jövője a gyerekeknek",
+        "txtlength": 27976
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20220525/a-nyugdijkorhatar-emelese-nem-menti-meg-a-magyar-nyugdijrendszert-546633",
+        "h1": "A nyugdíjkorhatár emelése nem menti meg a magyar nyugdíjrendszert",
+        "txtlength": 27162
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220525_haboru_elelmiszervalsag_buza_gabona",
+        "h1": "Háború és élelmiszerválság: lesz búzánk, lesz lisztünk?",
+        "txtlength": 27073
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220522_orban_viktor_kormany_miniszterek_elemzes",
+        "h1": "Stabilitás és dinamika – ilyen lesz az új kormány",
+        "txtlength": 25232
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20220525/tiborcz-istvan-tovabbra-is-aktivan-keressuk-a-befektetesi-lehetosegeket-546667",
+        "h1": "Tiborcz István: Továbbra is aktívan keressük a befektetési lehetőségeket ",
+        "txtlength": 25050
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/kozelet/20220525/annyi-penzt-ontott-az-allam-a-magyar-startup-okoszisztemara-hogy-az-megfulladt/",
+        "h1": "Annyi pénzt öntött az állam a magyar startup ökoszisztémára, hogy az megfulladt",
+        "txtlength": 21852
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://sport.mandiner.hu/cikk/20220524_jonyer_istvan_balczo_andras_a_nagy_peldakepem",
+        "h1": "Jónyer István: Balczó András a nagy példaképem!",
+        "txtlength": 18610
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vallalat/20220524/nem-is-az-arstop-hanem-az-inflacio-fajhat-a-nagy-boltoknak/",
+        "h1": "Nem is az árstop, hanem az infláció fájhat a nagy boltoknak",
+        "txtlength": 18566
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2022/05/25/nem-onmagaban-a-csomagolassal-van-a-baj-hanem-azzal-hogy-nem-tudjuk-mihez-kezdjunk-vele",
+        "h1": "NEM ÖNMAGÁBAN A CSOMAGOLÁSSAL VAN A BAJ, HANEM AZZAL, HOGY NEM TUDJUK, MIHEZ KEZDJÜNK VELE",
+        "txtlength": 12941
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/szuloseg/no-anya-munkaeropiac-allas-szakerto/",
+        "h1": "Nők anyák munkerőpiac Európa Magyarország szakértő",
+        "txtlength": 11904
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/otthon/takaritasi-tippek/",
+        "h1": "Hogy lesz a takarítás hatékonyabb és gyorsabb? 6 hasznos tipp, ami meglephet",
+        "txtlength": 11189
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/fn/gazdasag/2022/05/25/kozlony-orban-viktor-miniszter-rendelet-feladatok/",
+        "h1": "Közlöny: Orbán Viktor kiosztotta a feladatokat magának és minisztereinek ",
+        "txtlength": 28422
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/gazdasag/2022/05/25/miert-nem-tudunk-szinte-semmit-a-nagy-autopalya-koncesszio-legfajobb-kerdesei",
+        "h1": "Furcsaságok sora övezi Mészáros Lőrincék autópálya-koncesszióját",
+        "txtlength": 20811
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20220525_mi_johet_meg",
+        "h1": "Mihez kell Orbán Viktornak az újabb veszélyhelyzet? Végigvettük a lehetőségeket",
+        "txtlength": 17683
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/gazdasag/20220525_kormany_struktura_szakpolitika_hataskorok",
+        "h1": "Orbán a fejében összeálló vakmerő stratégiához választotta új kormányának tagjait",
+        "txtlength": 17000
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/fn/gazdasag/2022/05/25/magyar-turisztikai-ugynokseg-guller-zoltan-egyedi-tamogatas/",
+        "h1": "Egy személyben Guller Zoltán dönt az eltitkolt turisztikai támogatásokról",
+        "txtlength": 16534
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kulfold/2022/05/25/orosz-ukran-haboru-91-nap-percrol-percre-hirek-tudositas",
+        "h1": "Zaporizzsját rakétatámadás érte, elkezdték bevetni a francia tüzérség aduászát az ukránok",
+        "txtlength": 15999
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2022/05/25/alkotmanybirosag-nepszavazas-fudan-egyetem-allaskeresesi-jaradek-kulonvelemeny/",
+        "h1": "Egymásnak ütköztek a különutakon az alkotmánybírák",
+        "txtlength": 15627
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20220524_Menekultek_harom_honap_Ukrajna",
+        "h1": "Három hónappal a háború kezdete után: előfordult, hogy már csak egy ember volt a BOK csarnokban",
+        "txtlength": 14265
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/sport/2022/05/25/forma-1-f1-aston-martin-red-bull-masolasi-ugy-ferrari-mercedes",
+        "h1": "Ha a rózsaszín Mercedesből botrány lett az F1-ben, a zöld Red Bullból miért nem?",
+        "txtlength": 13893
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/05/24/levelet-irtak-orbannak-a-pedagogusszervezetek-folytatni-szeretnek-a-sztrajktargyalasokat",
+        "h1": "Levelet írtak Orbánnak a pedagógusszervezetek, folytatni szeretnék a sztrájktárgyalásokat",
+        "txtlength": 12097
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/05/25/mostantol-ezt-hivjuk-normalisnak",
+        "h1": "Mostantól ezt hívjuk normálisnak",
+        "txtlength": 11892
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/tiborcz-istvan-interju-bdpst-group/9dt9kgp",
+        "h1": "Tiborcz István és Orbán Ráhel hazaköltöztek Marbelláról",
+        "txtlength": 9074
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/adossag-vegrehajtas-torlesztes-megszunt-eljaras-arverezes/814hyfg",
+        "h1": "Átverte a végrehajtó? Hiába fizette ki a tartozását János, mégis elárverezték az otthonát",
+        "txtlength": 8911
+    },
+    {
         "hostname": "mindmegette.hu",
         "pagelink": "https://www.mindmegette.hu/tiramisu-cukormentes-recept.recept",
         "h1": "TIRAMISU (CUKORMENTES RECEPT)",
