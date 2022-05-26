@@ -1,5 +1,179 @@
 [
     {
+        "hostname": "kiszamolo.hu",
+        "pagelink": "https://kiszamolo.hu/vilagvege-hangulat-a-tozsdeken/",
+        "h1": "Világvége-hangulat a tőzsdéken",
+        "txtlength": 32006
+    },
+    {
+        "hostname": "kulturpart.hu",
+        "pagelink": "https://kulturpart.blog.hu/2022/05/26/itt_a_varva-vart_esterhazy_koncertsorozat",
+        "h1": "ITT A VÁRVA-VÁRT ESTERHÁZY KONCERTSOROZAT",
+        "txtlength": 9357
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/uzlet/20220526/jonnek-a-kulonadok-szakad-a-magyar-tozsde-547053",
+        "h1": "Jönnek a különadók, szakad a magyar tőzsde ",
+        "txtlength": 26497
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/penz/20220525/valojaban-nincs-plafon-az-idei-allamhaztartasi-hianynal/",
+        "h1": "Valójában nincs plafon az idei államháztartási hiánynál",
+        "txtlength": 24034
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220526_miklos_lukacs_de_pereny_interju",
+        "h1": "A digitalizált világ diktatúrába torkollhat – Miklos Lukacs de Pereny a Mandinernek",
+        "txtlength": 23114
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220526_moldova_ukrajna_haboru_romania",
+        "h1": "Lenin és Sztálin halott, de Moldovában még él az emlékük",
+        "txtlength": 22257
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220525_egy_erkolcstelen_hatalomtechnikus_110_eve_szuletett_kadar_janos",
+        "h1": "Egy erkölcstelen hatalomtechnikus: 110 éve született Kádár János",
+        "txtlength": 21527
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/vasarlas/20220525/igy-foghatsz-kilonkent-640-forintot-az-1400-as-paradicsomon-barki-legyozheti-a-gigadragulast-1125204",
+        "h1": "Így foghatsz kilónként 640 forintot az 1400-as paradicsomon: bárki legyőzheti a gigadrágulást",
+        "txtlength": 21429
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/utazas/20220522/igy-dozsol-a-magyar-elit-kepesek-ennyit-kifizetni-egy-rantotthusert-az-orszag-topettermeiben-1125079",
+        "h1": "Így dőzsöl a magyar elit: képesek ennyit kifizetni egy rántotthúsért az ország topéttermeiben",
+        "txtlength": 20139
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/uzlet/20220526/extra-adokat-vet-ki-a-kormany-idegorlo-orak-jonnek-a-nagy-bejelentesig-547039",
+        "h1": "Extra adókat vet ki a kormány, idegőrlő órák jönnek a nagy bejelentésig",
+        "txtlength": 18277
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/global/20220526/duborog-putyin-pusztito-harci-gepezete-a-folddel-tehet-egyenlove-egy-egesz-varost-legfontosabb-hireink-csutortokon-547055",
+        "h1": "Dübörög Putyin pusztító harci gépezete, a földdel tehet egyenlővé egy egész várost - Legfontosabb híreink csütörtökön ",
+        "txtlength": 17359
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vilag/20220524/nincs-lehetetlen-a-porsche-exclusive-manufaktur-minden-kivansagot-teljesit/",
+        "h1": "Nincs lehetetlen – a Porsche Exclusive Manufaktur minden kívánságot teljesít",
+        "txtlength": 17132
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2022/05/25/az-usa-a-polgarhaboru-ota-nem-volt-ennyire-megosztott-es-csak-a-fiatalok-tudjak-ujra-megvaltoztatni-a-tortenelmet",
+        "h1": "AZ USA A POLGÁRHÁBORÚ ÓTA NEM VOLT ENNYIRE MEGOSZTOTT, ÉS CSAK A FIATALOK TUDJÁK ÚJRA MEGVÁLTOZTATNI A TÖRTÉNELMET",
+        "txtlength": 12959
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/testem/gulacsi-peter-felesege/",
+        "h1": "Így küzd Gulácsi Péter sztárfocista felesége az alakja visszanyeréséért",
+        "txtlength": 12922
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/kapcsolat/viktorianus-korszak-udvarlas/",
+        "h1": "6 különös társkeresési mód a viktoriánus korszakból: bemutatkozni sem lehetett akárhogy",
+        "txtlength": 11382
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/szuloseg/sperma-csere-nogyogyasz-orvos/",
+        "h1": "spermabank orvos sperma csere",
+        "txtlength": 10315
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kulfold/2022/05/26/orosz-ukran-haboru-92-nap-percrol-percre-tudositas",
+        "h1": "Német kancellár: Putyin nem diktálhatja a béke feltételeit",
+        "txtlength": 20194
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/elet-stilus/2022/05/25/mary-bell-10-eves-sorozatgyilkos/",
+        "h1": "Tízévesen ölt először a gyilkos, akire élete végéig vigyáz a brit állam",
+        "txtlength": 19692
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kultura/2022/05/25/top-gun-maverick-kritika-top-gun-2-tom-cruise-repulogep-akciofilm-hollywood/",
+        "h1": "Top Gun 2: Tom Cruise még mindig a levegő ura, és fullba nyomja az amerikai katonai propagandát",
+        "txtlength": 16044
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/gazdasag/2022/05/26/orban-kulonado-bankado-energiaszektor-valsag-kiskereskedelem-2010",
+        "h1": "Egyszer már bejött, most újra itt van: multik megsarcolásával tömi be a lyukakat a kormány",
+        "txtlength": 15092
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20220526_kovacs_zoltan_andras_titkosszolgalat",
+        "h1": "Nem pártkatona, de alkalmazkodóképes - ilyennek ismerik a Rogán-féle szupertitkosszolgálat leendő vezetőjét",
+        "txtlength": 15051
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/05/25/egybol-fellangolt-a-vita-a-fegyvertartasrol-az-ujabb-iskolai-verengzes-utan-az-usa-ban",
+        "h1": "Egyből fellángolt a vita a fegyvertartásról az újabb iskolai vérengzés után az USA-ban",
+        "txtlength": 12627
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/kkv/20220526_100_leggazdagabb_magyar_vagyon_meszaros_csanyi",
+        "h1": "A NER már egy névtelen milliárdost is kitermelt a leggazdagabb magyarok új listájára",
+        "txtlength": 11985
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20220526_Nyilt_level_Vidnyanszky_Attilanak",
+        "h1": "Ljubov Nepop: Vidnyánszky Attila álláspontja katasztrofális és hibás",
+        "txtlength": 11843
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/gazdasag/2022/05/26/arak-auchan-debrecen-nagyvarad-romania-magyarorszag-elelmiszer-inflacio",
+        "h1": "Tankolni már Romániából jönnek, bevásárolni még érdemes átmenni Nagyváradra",
+        "txtlength": 11763
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/05/26/a-lengyel-parlament-kulugyi-bizottsaganak-elnoke-szerint-magyarorszag-erdeke-lenne-hogy-fegyvereket-kuldjon-ukrajnanak",
+        "h1": "A lengyel parlament külügyi bizottságának elnöke szerint Magyarország érdeke lenne, hogy fegyvereket küldjön Ukrajnának",
+        "txtlength": 11713
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2022/05/26/kiraly-kinga-julia-roma-wizzair-ferihegy-keses/",
+        "h1": "Az biztos, hogy elhangzott az „f” betűs szó – egy magyar írónő kálváriája Ferihegyen",
+        "txtlength": 11363
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/politika/parragh-laszlo-iparkamara-kata-adozas/9qjbk0g?sl_ps=d_4",
+        "h1": "Kitolnának félmillió adózóval? Az iparkamara támogatná a kata megszüntetését és egy új adónem bevezetését",
+        "txtlength": 10728
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/jobbik-eroszak-anita-szilagyi-gyorgy/7nwhb43",
+        "h1": "Jobbikos bűntanyáról beszélt a Blikknek az erőszakos ügy sértettje: „Fenyegetett, hogy el ne mondjam senkinek”",
+        "txtlength": 8253
+    },
+    {
         "hostname": "nosalty.hu",
         "pagelink": "https://www.nosalty.hu/recept/bodzaszorp-egyszeruen",
         "h1": "Bodzaszörp egyszerűen",
