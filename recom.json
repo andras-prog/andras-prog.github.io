@@ -1,5 +1,185 @@
 [
     {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/glutenmentes-kenyer-eloteszta-video.recept",
+        "h1": "GLUTÉNMENTES KENYÉR",
+        "txtlength": 11059
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/csikos-palacsinta.recept",
+        "h1": "CSÍKOS PALACSINTA",
+        "txtlength": 10933
+    },
+    {
+        "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/toltott-csirkecomb",
+        "h1": "Töltött csirkecomb",
+        "txtlength": 10705
+    },
+    {
+        "hostname": "hataratkelo.blog.hu",
+        "pagelink": "https://hataratkelo.blog.hu/2022/05/22/amerikai_luxus_100_eve#c41423181",
+        "h1": "Amerikai luxus 100 éve",
+        "txtlength": 46021
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220525_interju_toroczkai_laszlo_molnar_zsolt",
+        "h1": "A mi hazánk az övék is? – vitainterjú Molnár Zsolttal és Toroczkai Lászlóval",
+        "txtlength": 28901
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220527_haboru_putyin_ukrajna_james_carafano",
+        "h1": "Putyin semmilyen eredménnyel nem lesz elégedett – James Carafano a Mandinernek",
+        "txtlength": 24018
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/utazas/20220527/ezek-europa-legszebb-strandjai-2022-ben-egy-meglepo-potyautas-is-felkerult-a-listara-1125315",
+        "h1": "Ezek Európa legszebb strandjai 2022-ben: egy meglepő potyautas is felkerült a listára",
+        "txtlength": 22806
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220528_david_azerrad_civilizacio_ellenforradalom",
+        "h1": "Civilizációs ellenforradalomban járunk – David Azerrad a Mandinernek",
+        "txtlength": 22399
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/bank/20220526/annyi-bankfiok-ahany-okoseszkoz-mar-a-nagyok-sarkaban-a-granit-bank-547081",
+        "h1": "Annyi bankfiók, ahány okoseszköz - már a nagyok sarkában a Gránit Bank",
+        "txtlength": 21568
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/global/20220528/megis-ki-a-fene-az-a-bandera-es-miert-gyulolik-annyira-az-oroszok-hogy-haborut-kezdjenek-miatta-546999",
+        "h1": "Mégis ki a fene az a Bandera és miért gyűlölik annyira az oroszok, hogy háborút kezdjenek miatta?",
+        "txtlength": 21295
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20220527/napelemet-a-tarsashazra-itt-vannak-a-legnagyobb-buktatok-545847",
+        "h1": "Napelemet a társasházra? - Itt vannak a legnagyobb buktatók",
+        "txtlength": 19832
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/utazas/20220528/10-alig-ismert-furdo-magyarorszagon-itt-tenyleg-keves-a-turista-nevetsegesen-olcso-a-belepo-1125317",
+        "h1": "10 alig ismert fürdő Magyarországon: itt tényleg kevés a turista, nevetségesen olcsó a belépő",
+        "txtlength": 19524
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/tech/20220527/mit-csinalnal-ha-ezentul-csak-hallgatni-tudnad-az-instat/",
+        "h1": "Mit csinálnál, ha ezentúl csak hallgatni tudnád az Instát?",
+        "txtlength": 17176
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/penz/20220527/ki-fogja-kartalanitani-a-haboru-utan-a-megsemmisult-lakasok-tulajdonosait/",
+        "h1": "Ki fogja kártalanítani a háború után a megsemmisült lakások tulajdonosait?",
+        "txtlength": 17119
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2022/05/27/mi-ugy-tudjuk-hogy-szinte-mindent-a-magyarok-talaltak-fel-de-mashol-maskepp-tudjak",
+        "h1": "MI ÚGY TUDJUK, HOGY SZINTE MINDENT A MAGYAROK TALÁLTAK FEL, DE MÁSHOL MÁSKÉPP TUDJÁK",
+        "txtlength": 16643
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/szuloseg/gyerekek-jogai/",
+        "h1": "gyerekek jogai",
+        "txtlength": 14283
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/utazas/szekszardi-borvidek-latnivaloi/",
+        "h1": "Számtalan gyönyörűséget rejt Szekszárd dimbes-dombos környéke: isteni bor terem itt",
+        "txtlength": 13803
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2022/05/28/sufnituningban-keszultek-a-vilagszinvonalu-magyar-talalmanyok/",
+        "h1": "Sufnituningban készültek a világszínvonalú magyar találmányok",
+        "txtlength": 19794
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/fn/gazdasag/2022/05/27/extraprofit-ado-megszoritas-mol-rezsicsokkentes-kulonadok/",
+        "h1": "Extraprofitadók: mostantól a Mol helyett a magyar állam keres az orosz olajon",
+        "txtlength": 19765
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/eletmod/2022/05/27/onsertes-falcolas-vadaskert-okok-jelek-megoldasok",
+        "h1": "Rosszul érzem magam, mert látszanak a hegeim, amik a lenyomatai annak, hogy nem vagyok mindig stabil",
+        "txtlength": 18996
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/szorakozas/2022/05/27/electronic-arts-40-ea-evfordulo-videojatek",
+        "h1": "Programozók álmából lett az egyik leggyűlöltebb videójátékos cég",
+        "txtlength": 18935
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2022/05/28/gyogyszerar-dragulas-haboru-inflacio/",
+        "h1": "Nagy ára van annak, hogy nem drágulhatnak a gyógyszerek",
+        "txtlength": 16406
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20220527_Hazug_a_kormany_ervelese_a_reklamado_ugyeben",
+        "h1": "Hazug a kormány érvelése az újból bevezetett reklámadó ügyében",
+        "txtlength": 15275
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/gazdasag/2022/05/28/extraprofit-es-agazati-kulonadok-logikaja",
+        "h1": "Ha valódi extraprofitadót vetne ki a kormány, akkor a NER cégei sem maradnának ki belőle",
+        "txtlength": 15217
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20220528_Orban_sakktablaja_a_legfurcsabb_figurak_es_lepesek_az_uj_kormanyban",
+        "h1": "Orbán sakktáblája: a legfurcsább figurák és lépések az új kormányban",
+        "txtlength": 14674
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/gazdasag/20220528_mi_az_az_extraprofit",
+        "h1": "Marx és Engels kezdte, a Fidesz most folytatja: mi is az az extraprofit?",
+        "txtlength": 14389
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/05/27/a-texasi-rendorseg-mar-teljesen-mast-mond-az-iskolai-meszarlas-kulcsfontossagu-reszleteirol-mint-a-lovoldozes-utan",
+        "h1": "A texasi rendőrség már teljesen mást mond az iskolai mészárlás kulcsfontosságú részleteiről, mint a lövöldözés után",
+        "txtlength": 13744
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/05/27/a-magyar-reklamszovetseg-nem-tamogatja-a-reklamadot-mert-az-karos-a-teljes-magyar-gazdasagra",
+        "h1": "A Magyar Reklámszövetség nem támogatja a reklámadót, mert az káros a teljes magyar gazdaságra",
+        "txtlength": 12610
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/krimi/abtl-palesztin-terroristak-abu_ijad-abu_doaud-abu_nidal/m9cpq3c",
+        "h1": "Parkolási bírságot hagyott maga mögött a Magyarországon bujkáló terrorista, bezzeg a fejlövést túlélte",
+        "txtlength": 9525
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/blikk-tv/sztarvilag/racz-jeno-hajdu-peter-parja-top-gun-top-gun-mozi-sztarok/fdnx8ly",
+        "h1": "Sztárparádé a moziban: Rácz Jenő a titkos álmát árulta el, Hajdú Péter kedvese beülne Tom Cruise mellé... – videó",
+        "txtlength": 9235
+    },
+    {
         "hostname": "hataratkelo.blog.hu",
         "pagelink": "https://hataratkelo.blog.hu/2022/05/12/a_gyerekeink_miatt_jottunk_haza_de#c41421057",
         "h1": "A gyerekeink miatt jöttünk haza, de...",
