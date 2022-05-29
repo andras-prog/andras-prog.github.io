@@ -1,5 +1,179 @@
 [
     {
+        "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/kovaszos-uborka-egyszeruen",
+        "h1": "Kovászos uborka egyszerűen",
+        "txtlength": 17040
+    },
+    {
+        "hostname": "hataratkelo.blog.hu",
+        "pagelink": "https://hataratkelo.blog.hu/2022/05/22/amerikai_luxus_100_eve#c41424497",
+        "h1": "Amerikai luxus 100 éve",
+        "txtlength": 47485
+    },
+    {
+        "hostname": "kulturpart.hu",
+        "pagelink": "https://kulturpart.blog.hu/2022/05/27/film_keszult_a_legendas_magyar_hegymaszorol",
+        "h1": "FILM KÉSZÜLT A LEGENDÁS MAGYAR HEGYMÁSZÓRÓL",
+        "txtlength": 5661
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220525_elet_interju_elso_vilaghaboru",
+        "h1": "Az első világháború ma is itt kísért – Szalay-Berzeviczy Attila a Mandinernek",
+        "txtlength": 31981
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/kozelet/20220528/erkolcsi-ebredes-nelkul-nem-lesz-egyenlobb-tarsadalom/",
+        "h1": "Erkölcsi ébredés nélkül nem lesz egyenlőbb társadalom",
+        "txtlength": 24840
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220529_oroszorszag_tortenelem_nagy_peter",
+        "h1": "Így terjeszkedett Oroszország az idők során – Nagy Péter színrelépése",
+        "txtlength": 22486
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220528_kissinger_ukrajna_haboru",
+        "h1": "Kissinger esete az ukrajnai háborúval – realizmus a maximumon",
+        "txtlength": 21213
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/global/20220529/egykori-gerilla-kerulhet-hatalomra-a-vilag-legfobb-kokaintermelo-orszagaban-547391",
+        "h1": "Egykori gerilla kerülhet hatalomra a világ legfőbb kokaintermelő országában",
+        "txtlength": 19525
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/hitel/20220528/aggaszto-ilyen-vetelaru-hazra-lakasra-eleg-ma-a-babavaro-kolcson-osszege-onero-nelkul-1125342",
+        "h1": "Aggasztó: ilyen vételárú házra, lakásra elég ma a babaváró kölcsön összege önerő nélkül",
+        "txtlength": 18880
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/uzlet/20220529/ez-menthetne-meg-magyarorszagot-az-orosz-olajtol-sajnos-rosszul-allunk-547427",
+        "h1": "Ez menthetné meg Magyarországot az orosz olajtól: sajnos rosszul állunk",
+        "txtlength": 18778
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/megtakaritas/20220525/ide-menekitik-penzuket-a-dusgazdag-magyarok-ved-az-inflaciotol-de-van-egy-nagy-buktato-1125233",
+        "h1": "Ide menekítik pénzüket a dúsgazdag magyarok: véd az inflációtól, de van egy nagy buktató",
+        "txtlength": 18739
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.penzcentrum.hu/utazas/20220529/horror-arak-a-videki-magyarorszag-top-ettermeiben-ennyiert-adjak-a-puccos-fogasokat-1125324",
+        "h1": "Horror árak a vidéki Magyarország TOP éttermeiben: ennyiért adják a puccos fogásokat",
+        "txtlength": 17612
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/podcast/20220529/olyan-vilagra-kell-felkesziteni-a-gyerekeket-amit-meg-nem-is-ismerunk/",
+        "h1": "Olyan világra kell felkészíteni a gyerekeket, amit még nem is ismerünk",
+        "txtlength": 15867
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2022/05/27/titkos-hullaborzet-lepleztek-le-100-eve-budapesten",
+        "h1": "TITKOS HULLABÖRZÉT LEPLEZTEK LE 100 ÉVE BUDAPESTEN",
+        "txtlength": 13021
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/szuloseg/gyermeknap-szulo-jovo-kompetenciak/",
+        "h1": "gyermeknap szülő jövő kompetenciák",
+        "txtlength": 12425
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/egeszseg/intersticialis-tudobetegseg/",
+        "h1": "Nehézlégzés hívhatja fel a figyelmet a ritka tüdőbetegségekre: szakemberek összefogása kell a diagnózishoz",
+        "txtlength": 12299
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kultura/2022/05/29/test-karafiath-orsolya-egymas-konyve-matine/",
+        "h1": "Ledobva blúzát csupasz, nyolcvanéves mellére mutatott a nagyi, amikor először találkozott az unokája udvarlójával",
+        "txtlength": 25411
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kulfold/2022/05/29/lengyelorszag-elit-oroszellenesseg-haboru/",
+        "h1": "Miért egységesebb a magyarnál, és miért állt Ukrajna pártjára a lengyel politikai elit?",
+        "txtlength": 23696
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/tudomany/2022/05/29/tatarjaras-kiraly-masodik-honalapito-ujjaepites/",
+        "h1": "Ezért kellett újra megalapítani Magyarországot",
+        "txtlength": 20491
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/gazdasag/20220529_Es_akkor_az_Orbankormany_ismet_visszanyult_a_regi_jol_bevalt_modszerekhez",
+        "h1": "És akkor az Orbán-kormány ismét visszanyúlt a régi, jól bevált módszerekhez",
+        "txtlength": 14874
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kulfold/2022/05/29/irorszag-eszak-irorszag-eu-nagy-britannia-protokoll-valasztas-sinn-fein",
+        "h1": "A britellenes Sinn Féin győzelmével közelebb került, de még mindig távol az egyesült Írország",
+        "txtlength": 14531
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/elet/20220529_kampanyt_inditott_az_onkiszolgalo_kasszak_ellen_egy_brit_nyugdijas",
+        "h1": "Az önkiszolgáló kasszák tényleg elveszik a vásárlás élvezetét? Van, ahol kampány is indult ellenük",
+        "txtlength": 13723
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/gasztro/2022/05/29/rizotto-recept-olasz-rizs-arancini-rizsgolyo",
+        "h1": "Főzelék rizsből, amit imád a világ: mi a jó a rizottóban, és mi lesz belőle másnap?",
+        "txtlength": 12539
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/eszkombajn/2022/05/29/romai-bronzdodekaeder-rejtely-tortenelem",
+        "h1": "Senki se tudja, mire jók az ókori római bronzdodekaéderek, hiába találtak vagy százat belőlük",
+        "txtlength": 12538
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/vilag/20220528_Oroszukran_haboru_percrol_percre_0528",
+        "h1": "Stratégiailag fontos területet foglaltak el az oroszok - percről percre az ukrajnai háborúról",
+        "txtlength": 11233
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/05/28/donald-trump-megtalalta-a-megoldast-az-iskolai-tomegmeszarlasokra-meg-tobb-fegyver-kene",
+        "h1": "Donald Trump megtalálta a megoldást az iskolai tömegmészárlásokra: még több fegyver kéne",
+        "txtlength": 11221
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/05/28/kihatral-a-nemet-kormany-a-hszincsiangi-befektetesek-mogul",
+        "h1": "Kihátrál a német kormány a hszincsiangi befektetések mögül",
+        "txtlength": 10136
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/aszod-kettos-gyilkossag-balta-megolte-lanyait-az-apa/vz28dtt",
+        "h1": "Elkábította a lányait, majd baltával sújtott le rájuk a szörnyeteg aszódi apa – A Blikknek megszólalt a gyászoló édesanya is",
+        "txtlength": 7854
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/politika/alvo-kepviselok-nemeth-szilard-szabo-szabolcs/7s2tkbg",
+        "h1": "Ébresztő, munka van! Újabb szunyókáló képviselő bukott le a T. Házban? – fotók",
+        "txtlength": 7380
+    },
+    {
         "hostname": "mindmegette.hu",
         "pagelink": "https://www.mindmegette.hu/glutenmentes-kenyer-eloteszta-video.recept",
         "h1": "GLUTÉNMENTES KENYÉR",
