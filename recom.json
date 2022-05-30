@@ -1,6 +1,180 @@
 [
     {
         "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/bodzavirag-dzsem",
+        "h1": "Bodzavirág dzsem",
+        "txtlength": 13595
+    },
+    {
+        "hostname": "hataratkelo.blog.hu",
+        "pagelink": "https://hataratkelo.blog.hu/2022/05/22/amerikai_luxus_100_eve#c41426633",
+        "h1": "Amerikai luxus 100 éve",
+        "txtlength": 51216
+    },
+    {
+        "hostname": "kulturpart.hu",
+        "pagelink": "https://kulturpart.blog.hu/2022/05/30/hatalmas_siker_az_idei_swimathlon",
+        "h1": "HATALMAS SIKER AZ IDEI SWIMATHLON",
+        "txtlength": 6246
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220525_interju_rick_santorum",
+        "h1": "Első számú kérdés a gyermekek megóvása – Rick Santorum a Mandinernek",
+        "txtlength": 25529
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220530_johnny_depp_amber_heard_per",
+        "h1": "Johnny Depp kontra Amber Heard – miről szól valójában Hollywod legújabb botránya?",
+        "txtlength": 24401
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/bank/20220529/mindenkinel-gyorsabban-no-a-revolut-gyilkos-fintech-es-ez-nem-tetszik-a-hatosagoknak-547373",
+        "h1": "Mindenkinél gyorsabban nő a Revolut-gyilkos fintech, és ez nem tetszik a hatóságoknak",
+        "txtlength": 21516
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vilag/20220530/az-amerikai-jegybank-az-orosz-haboru-es-a-kinai-lezarasok-elhozhatjak-a-globalis-recessziot/",
+        "h1": "Az amerikai jegybank, az orosz háború és a kínai lezárások elhozhatják a globális recessziót",
+        "txtlength": 19898
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220530_kulfold_veto_orban_viktor_olajembargo_usa_ukrajna_haboru_koolaj_unios_csucstalalkozo",
+        "h1": "Brüsszeli csúcstalálkozó: Orbán Viktor és az olajembargó lesz a középpontban",
+        "txtlength": 18704
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.penzcentrum.hu/vallalkozas/20220530/beutott-a-front-felejtsd-el-a-pirulakat-itt-a-hatekony-gyogymod-fejfajasra-1125316",
+        "h1": "Beütött a front? Felejtsd el a pirulákat: itt a hatékony gyógymód fejfájásra",
+        "txtlength": 18111
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/uzlet/20220530/jo-hangulatban-indul-a-het-a-tozsdeken-visszapattant-a-magyar-piac-547619",
+        "h1": "Jó hangulatban indul a hét a tőzsdéken, visszapattant a magyar piac ",
+        "txtlength": 17588
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/vallalkozas/20220526/ilyen-egyszeruen-keresheted-romma-magad-egy-webshoppal-a-profik-igy-csinaljak-1125201",
+        "h1": "Ilyen egyszerűen keresheted rommá magad egy webshoppal: a profik így csinálják!",
+        "txtlength": 17065
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/podcast/20220528/mitoszok-alapjan-beszelunk-a-rendszervaltasrol-es-az-orszag-felzarkozasi-eselyeirol-is/",
+        "h1": "Mítoszok alapján beszélünk a rendszerváltásról és az ország felzárkózási esélyeiről is",
+        "txtlength": 16353
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/auto/20220530/lehangolo-latlelet-a-magyar-fizetesekrol-ennyit-kell-gurizni-a-legolcsobb-fapados-uj-autoert-1125312",
+        "h1": "Lehangoló látlelet a magyar fizetésekről: ennyit kell gürizni a legolcsóbb, fapados új autóért",
+        "txtlength": 15974
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/egeszseg/dohanyzas-leszokas/",
+        "h1": "154 napja cigi nélkül: így léptem a dohányzásról leszokás útjára",
+        "txtlength": 12642
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2022/05/28/ime-a-csodafegyver-a-kornyezetpusztito-olajszennyezes-ellen-az-emberi-haj",
+        "h1": "ÍME A CSODAFEGYVER A KÖRNYEZETPUSZTÍTÓ OLAJSZENNYEZÉS ELLEN: AZ EMBERI HAJ",
+        "txtlength": 11925
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/szuloseg/gyerek-konyha-vicces-kalandok/",
+        "h1": "gyerek konyha vicces kalandok",
+        "txtlength": 9981
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2022/05/30/boston-politics-tilo-schabert-orban-viktor-fidesz/",
+        "h1": "Megjelent magyarul a Fidesz-modell egyik bibliája: a politikai barátok közttől a fanatizmusig",
+        "txtlength": 36486
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kulfold/2022/05/29/racz-andras-ukrajna-oroszorszag-haboru-mariupol-harkiv-zelenszkij-putyin",
+        "h1": "Putyin elszánt arra, hogy végigvigye az ukrajnai háborút – kerül, amibe kerül",
+        "txtlength": 27652
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kulfold/2022/05/30/orosz-ukran-haboru-96-nap-percrol-percre-tudositas",
+        "h1": "Az oroszok behatoltak Szeverodonyeckbe, Liszicsanszkot evakuálják",
+        "txtlength": 22506
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/komplex/2022/05/30/bantalmazas-nok-elleni-eroszak-aldozat-csaladon-beluli-eroszak-patent-1",
+        "h1": "\n      A mindennapos hatalmaskodásról nehéz orvosi látleletet venni\n    ",
+        "txtlength": 19018
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kulfold/2022/05/30/ukran-orosz-haboru-elo-percrol-percre-putyin-zelenszkij-nato-majus-30/",
+        "h1": "Donbasz elfoglalása az oroszok prioritása, Novák Katalin a háborús bűnök kivizsgálását követeli",
+        "txtlength": 18425
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://rangado.24.hu/nemzetkozi_foci/2022/05/30/ac-milan-bajnoki-cim-scudetto-zlatan-ibrahimovic/",
+        "h1": "Ibrahimovic az öregedést nem győzheti le, de a Milannak pont egy ilyen rutinos pilóta kellett a gépre",
+        "txtlength": 18416
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/05/30/civilek-szivatasa-partok-adoztatasa-es-a-sokmilliardos-penzmuzeum",
+        "h1": "Civilek szívatása, pártok adóztatása és a sokmilliárdos pénzmúzeum",
+        "txtlength": 12655
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/kkv/20220530_Bevasarolta_magat_a_szegedi_egyetem_egy_magankorhazba",
+        "h1": "Bevásárolta magát a szegedi egyetem egy magánkórházba",
+        "txtlength": 11480
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/05/29/jon-a-nyari-meleg",
+        "h1": "Jön a nyári meleg, jövő vasárnap akár 35 fok is lehet",
+        "txtlength": 10845
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/krimi/blikk-exkluziv-der-csaba-interju-csantaveri-meszaros/m71htrp?sl_ps=d_10",
+        "h1": "Blikk-exkluzív – Interjút adott Dér Csaba, a csantavéri mészáros: azt is elárulta, hogyan lett ő a mosolygós gyilkos",
+        "txtlength": 10188
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20220530_32_orszagbol_csalas_utjan_szerzett_penzt_mostak_tisztara_magyar_bankokban",
+        "h1": "17 milliárdot mosott tisztára egy magyarországi bűnszervezet, 44 gyanúsítottja van az ügynek",
+        "txtlength": 10103
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/vilag/20220530_donbasz_vlagyimir_putyin_oroszorszag_ukrajna_haboru_szergej_lavrov",
+        "h1": "Újra előkerült Putyin vélt betegsége, következhet Donbasz „felszabadítása” – percről percre a háborúról",
+        "txtlength": 9971
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/blikk-tv/aktualis/kulonleges-helyek-fovarosi-allatkert/0fx1tr8?sl_ps=d_9",
+        "h1": "Különleges helyek, extrém helyszínek – A Fővárosi Állat- és Növénykert a kulisszák mögött – videó",
+        "txtlength": 9618
+    },
+    {
+        "hostname": "nosalty.hu",
         "pagelink": "https://www.nosalty.hu/recept/kovaszos-uborka-egyszeruen",
         "h1": "Kovászos uborka egyszerűen",
         "txtlength": 17040
