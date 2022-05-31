@@ -1,6 +1,180 @@
 [
     {
         "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/eperkremleves",
+        "h1": "Eperkrémleves",
+        "txtlength": 9486
+    },
+    {
+        "hostname": "hataratkelo.blog.hu",
+        "pagelink": "https://hataratkelo.blog.hu/2022/05/22/amerikai_luxus_100_eve#c41428953",
+        "h1": "Amerikai luxus 100 éve",
+        "txtlength": 51457
+    },
+    {
+        "hostname": "kulturpart.hu",
+        "pagelink": "https://kulturpart.hu/2022/05/30/hatalmas_siker_az_idei_swimathlon",
+        "h1": "HATALMAS SIKER AZ IDEI SWIMATHON",
+        "txtlength": 6228
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220531_kulfold_lengyelorszag_ukrajna_gaz_hadero_nemetorszag_birodalom_volhinia_meszarlas",
+        "h1": "Regionális hatalommá válhat Lengyelország?",
+        "txtlength": 34122
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vilag/20220530/a-vilag-ukran-gabonara-ehezik-de-ehhez-az-oroszokkal-kell-targyalni/",
+        "h1": "A világ ukrán gabonára éhezik, de ehhez az oroszokkal kell tárgyalni",
+        "txtlength": 21617
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/kozelet/20220531/most-nyert-igazabol-ertelmet-a-rezsicsokkentes/",
+        "h1": "Most nyert igazából értelmet a rezsicsökkentés",
+        "txtlength": 20238
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220531_lengyel_allamtitkar_nap_mint_nap_kovetelni_kell_hogy_oroszorszag_hagyjon_fel_az_agresszioval",
+        "h1": "Lengyel államtitkár: Nap mint nap követelni kell, hogy Oroszország hagyjon fel az agresszióval",
+        "txtlength": 19746
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/karrier/20220530/tomegek-valthatnak-melot-az-inflacio-miatt-ezzel-a-8-tippel-te-is-megcsipheted-almaid-allasat-1125406",
+        "h1": "Tömegek válthatnak melót az infláció miatt: ezzel a 8 tippel te is megcsípheted álmaid állását",
+        "txtlength": 19374
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/gazdasag/20220531/a-jovo-otletei-bemutatkozott-a-magyar-startup-valogatott-1125398",
+        "h1": "A jövő ötletei: bemutatkozott a magyar startup-válogatott",
+        "txtlength": 19026
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/uzlet/20220531/itt-az-orosz-olajembargo-mi-lesz-a-mollal-547875",
+        "h1": "Itt az orosz olajembargó - Mi lesz a Mollal?",
+        "txtlength": 18744
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/global/20220531/brutalis-offenziva-zajlik-hamarosan-eleshet-egy-teljes-ukran-megye-haborus-hireink-kedden-547869",
+        "h1": "Brutális offenzíva zajlik, hamarosan eleshet egy teljes ukrán megye – Háborús híreink kedden ",
+        "txtlength": 16811
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2022/05/31/tobb-mint-800-millio-ember-el-a-foldon-olyan-vulkan-arnyekaban-ami-elobb-utobb-kitorhet",
+        "h1": "TÖBB MINT 800 MILLIÓ EMBER ÉL A FÖLDÖN OLYAN VULKÁN ÁRNYÉKÁBAN, AMI ELŐBB-UTÓBB KITÖRHET",
+        "txtlength": 16754
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20220531/az-adobirsag-megallapitasaba-is-beleszol-az-europai-birosag-547859",
+        "h1": "Az adóbírság megállapításába is beleszól az Európai Bíróság",
+        "txtlength": 16616
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220530_orban_viktor_brusszel_eu_csucs",
+        "h1": "Megszületett az uniós megállapodás: Magyarország mentesül az olajembargó alól",
+        "txtlength": 16401
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/otthon/sporolas-inflacio-mellett/",
+        "h1": "Ugyanannyi a fizetésed, de minden sokkal drágább? Így spórolj mégis",
+        "txtlength": 14044
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/lajfhekk/novenyek-mentalis-egeszseg/",
+        "h1": "Növények mentális egészség",
+        "txtlength": 12230
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2022/05/31/haboru-ellenzek-kampany-marki-zay-peter-katona-fegyver/",
+        "h1": "Putyin háborúja lett az ellenzéki kampány állatorvosi lova, ami tökéletesen dokumentálta, hogy futottak falnak Orbán ellenfelei",
+        "txtlength": 38794
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kultura/2022/05/31/nadas-peter-interju-remtortenetek-regeny-irodalom-haboru-politika/",
+        "h1": "Nádas Péter: Nincs költészet, ami át tudná adni a túlélők szégyenét",
+        "txtlength": 31868
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kulfold/2022/05/31/olajembargo-eu-oroszorszag-koolaj-rezsicsokkentes-baratsag-vezetek-putyin-orban-veto",
+        "h1": "Orbán zsarolása felvizezte az olajembargót, de így is fájni fog",
+        "txtlength": 28874
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kulfold/2022/05/31/orosz-ukran-haboru-97-nap-percrol-percre-tudositas",
+        "h1": "Az oroszok közelednek Szeverodonyeck központja felé, hadgyakorlatra készül Belarusz",
+        "txtlength": 27729
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/komplex/2022/05/31/uvegplagon-uvegfal-egyenlo-berezes-munkaeropiac-lathatatlan-munka-ovono-1",
+        "h1": "\n      Nappal óvónő, este műkörmös, hogy valahogy meg tudjon élni\n    ",
+        "txtlength": 16964
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kulfold/2022/05/31/orosz-ukran-haboru-percrol-percre-elo-amerikai-katonak-kijevi-nagykovetseg/",
+        "h1": "15 ezren ragadhattak a szeverodonyecki pokolban",
+        "txtlength": 16560
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/05/31/isten-eltesse-miniszterelnok-ur",
+        "h1": "Isten éltesse, Miniszterelnök Úr!",
+        "txtlength": 13723
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/gazdasag/20220531_megallapodas_unios_csucs_olajembargo",
+        "h1": "Megállapodtak az uniós csúcson, kiiktatják az orosz olajimport kétharmadát",
+        "txtlength": 12126
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/vilag/20220531_orosz_ukran_haboru_percrol_percre",
+        "h1": "Megszületett a hatodik EU-s szankciós csomag Oroszország ellen, Litvánia katonai felszerelést küld Ukrajnába – percről percre a háborúról",
+        "txtlength": 11508
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/gazdasag/20220531_Az_arstop_es_az_olcsobb_paradicsom_sulyos_dragulast_fed_el_a_boltokban",
+        "h1": "Az árstop és az olcsóbb paradicsom súlyos bolti drágulást fed el",
+        "txtlength": 11035
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/05/31/letoltendot-kapott-az-amerikai-orvos-aki-csodaszert-arult-covid-ellen-az-interneten",
+        "h1": "Letöltendőt kapott az amerikai orvos, aki csodaszert árult Covid ellen az interneten",
+        "txtlength": 10927
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/politika/orban-viktor-brusszel-olajembargo-magyar-feltetelek/8pfffqj?sl_ps=d_5",
+        "h1": "Orbán Viktor győzelme Brüsszelben: éjjel megszületett a döntés, bevezetik az olajembargót, de a magyar feltételekkel",
+        "txtlength": 10423
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/krimi/hullarablas-mergezes-biztositasi-csalas-nyomozas-gyilkossag/pdep96k",
+        "h1": "Hátborzongató történet: hullarablással akarta megsemmisíteni a bizonyítékot a kecskeméti gyilkos",
+        "txtlength": 9669
+    },
+    {
+        "hostname": "nosalty.hu",
         "pagelink": "https://www.nosalty.hu/recept/bodzavirag-dzsem",
         "h1": "Bodzavirág dzsem",
         "txtlength": 13595
