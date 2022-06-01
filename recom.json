@@ -1,5 +1,173 @@
 [
     {
+        "hostname": "kiszamolo.hu",
+        "pagelink": "https://kiszamolo.hu/hol-tartja-a-penzt-a-tether/",
+        "h1": "Hol tartja a pénzt a Tether?",
+        "txtlength": 32823
+    },
+    {
+        "hostname": "efesasanisimasa.com",
+        "pagelink": "https://efesasanisimasa.com/2022/05/27/a-besugo-the-informant-tv-series-2022/",
+        "h1": "A besúgó (The Informant, TV Series, 2022-)",
+        "txtlength": 12094
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220525_interju_csak_janos_kultura",
+        "h1": "Az ellenzék nem érti az országot – Csák János a Mandinernek",
+        "txtlength": 32686
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vilag/20220601/kina-sem-segit-oroszorszagon/",
+        "h1": "Kína sem segít Oroszországon",
+        "txtlength": 23693
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220531_migracios_szakerto_ma_mar_semmit_sem_kovetelunk_meg_a_migransokkal_szemben",
+        "h1": "Migrációs szakértő: Ma már semmit sem követelünk meg a migránsokkal szemben",
+        "txtlength": 22345
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220601_lengyelorszag_ukrajna_nemetorszag_hatalom",
+        "h1": "Mennyire reálisak Lengyelország hatalmi ambíciói?",
+        "txtlength": 20746
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/uzlet/20220601/elbizonytalanodtak-az-europai-befektetok-gyengelkedik-a-lengyel-tozsde-548111",
+        "h1": "Elbizonytalanodtak az európai befektetők, gyengélkedik a lengyel tőzsde ",
+        "txtlength": 20280
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vilag/20220531/sikerrel-furt-meg-szankciokat-megis-bajban-van-ciprus-az-orosz-oligarchak-szigete/",
+        "h1": "Sikerrel fúrt meg szankciókat, mégis bajban van Ciprus, az orosz oligarchák szigete",
+        "txtlength": 19563
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/otthon/20220601/ez-az-igazi-rezsicsokkentes-meg-nem-keso-belevagni-siman-nullazni-lehet-a-villanyszamlat-1124413",
+        "h1": "Ez az igazi rezsicsökkentés: még nem késő belevágni, simán nullázni lehet a villanyszámlát",
+        "txtlength": 19280
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/megtakaritas/20220601/8-dolog-amit-minden-gyereknek-tudnia-kell-2022-ben-errol-az-iskolaban-keves-szo-esik-1125445",
+        "h1": "8 dolog, amit minden gyereknek tudnia kell 2022-ben: erről az iskolában kevés szó esik",
+        "txtlength": 19207
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2022/05/31/hollywood-mar-reg-ugy-tancol-ahogy-az-amerikai-hadsereg-futyul-es-a-top-gunnal-nem-is-kell-jobb-propaganda",
+        "h1": "HOLLYWOOD MÁR RÉG ÚGY TÁNCOL, AHOGY AZ AMERIKAI HADSEREG FÜTYÜL, ÉS A TOP GUNNÁL NEM IS KELL JOBB PROPAGANDA",
+        "txtlength": 18183
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20220601/magyarorszagon-van-a-majomhimlo-ujabb-vilagjarvany-is-lehetseges-548109",
+        "h1": "Magyarországon van a majomhimlő - Újabb világjárvány is lehetséges?",
+        "txtlength": 17104
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/global/20220601/erosodik-a-nyomas-az-ukranokon-teljes-megye-sorsa-mulhat-egy-telepulesen-haborus-hireink-szerdan-548117",
+        "h1": "Csodafegyvert kap Ukrajna, Putyin kiadta a parancsot, atomfegyverekkel gyakorlatozik Oroszország – Háborús híreink szerdán ",
+        "txtlength": 15736
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/egeszseg/lataszavar-okai/",
+        "h1": "7 betegség, ami tartós látászavart is okozhat: ezek az árulkodó tünetei",
+        "txtlength": 13126
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/szuloseg/gyes-tortenete-es-hatasa/",
+        "h1": "gyes története és hatása",
+        "txtlength": 11895
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/gazdasag/20220601_Kritikusan_dizelhianyos_idoszak_kuszoben_dontott_az_EU_az_orosz_olajtermekek_embargojarol",
+        "h1": "Fájni fog az oroszoknak az olajembargó, Európának meg az, hogy emiatt nyárra elfogyhat az üzemanyag",
+        "txtlength": 19869
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kulfold/2022/06/01/ukran-haboru-98-nap-percrol-percre",
+        "h1": "Az orosz csapatok elfoglalták Szeverodonyeck nagy részét, a lakóházak 60 százaléka elpusztult",
+        "txtlength": 19318
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kulfold/2022/05/31/harkiv-ukrajna-haboru-helyszini-riport",
+        "h1": "Az orosznak hitt ukrán város, amelybe beletört Putyin bicskája",
+        "txtlength": 18396
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kulfold/2022/06/01/japan-oroszorszag-kuril-szigetek-teruleti-vita-ukrajna-invazio-kina-tajva-egyesult-allamok-putyin",
+        "h1": "Oroszország keleti végein is stratégiai blamázs az ukrajnai háború",
+        "txtlength": 17502
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2022/06/01/brexit-karpotlas-europai-unio-tamogatas-matolcsy-adam-meszaros-lorinc-gatyan-gyorgy-szaraz-istvan/",
+        "h1": "Brexit-kárenyhítés: százmilliókhoz jut Matolcsy Ádám, Mészáros Lőrinc és Gattyán György érdekeltsége",
+        "txtlength": 14939
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/06/01/fideszes-trashteve-ki-majomhimlo-be",
+        "h1": "Fideszes trashtévé ki, majomhimlő be",
+        "txtlength": 12504
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/06/01/vadat-emeltek-majom-a-szlovak-maffiozo-es-baratnoje-gyilkossagi-ugyeben",
+        "h1": "Vádat emeltek Majom, a szlovák maffiózó és barátnője gyilkossági ügyében",
+        "txtlength": 11963
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kulfold/2022/06/01/orosz-ukran-haboru-elo-percrol-percre-zelenszkij-putyin-junius-1/",
+        "h1": "Herszonban és Zaporizzsjában is a krímihez hasonló népszavazást tartanának a csatlakozásról az oroszok",
+        "txtlength": 11603
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/tudomany/20220601_majomhimlo_magyarorszag_virus_virologus_betegseg",
+        "h1": "A majomhimlő Magyarországon: hogy jutottunk idáig, mi jön most?",
+        "txtlength": 11560
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/vilag/20220601_percrol_percre_orosz_ukran_haboru",
+        "h1": "Napi 2-300 háborús bűn gyanús esetet regisztrálnak Ukrajnában, Moszkva hevesen reagált Biden bejelentésére – percről percre a háborúról",
+        "txtlength": 11187
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/politika/orban-viktor-brusszel-olajembargo-magyar-feltetelek/8pfffqj",
+        "h1": "Orbán Viktor győzelme Brüsszelben: éjjel megszületett a döntés, bevezetik az olajembargót, de a magyar feltételekkel",
+        "txtlength": 10401
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2022/06/01/marina-parti-kettos-gyilkossag-feldaraboltak-elastak-a-holttesteteket/",
+        "h1": "Vallottak a Marina-parti párt agyonlövő és orrfűrésszel feldaraboló gyilkosok",
+        "txtlength": 10185
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/krimi/marina-parti-kettos-gyilkossag-darabolos-vademeles/w388vbs?sl_ps=d_5",
+        "h1": "Horror egy 13. kerületi lakásban: orrfűrésszel darabolta fel áldozatait a kegyetlen hóhér",
+        "txtlength": 9750
+    },
+    {
         "hostname": "nosalty.hu",
         "pagelink": "https://www.nosalty.hu/recept/eperkremleves",
         "h1": "Eperkrémleves",
