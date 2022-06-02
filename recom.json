@@ -1,5 +1,179 @@
 [
     {
+        "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/kijevi-sutemeny",
+        "h1": "Kijevi sütemény",
+        "txtlength": 12420
+    },
+    {
+        "hostname": "hataratkelo.blog.hu",
+        "pagelink": "https://hataratkelo.blog.hu/2022/05/17/a_varazslatos_szicilia",
+        "h1": "A varázslatos Szicília",
+        "txtlength": 43669
+    },
+    {
+        "hostname": "kulturpart.hu",
+        "pagelink": "https://kulturpart.blog.hu/2022/05/31/evszazados_technikaval_keszult_el_egy_vadonatuj_mesefilm",
+        "h1": "ÉVSZÁZADOS TECHNIKÁVAL KÉSZÜLT EL EGY VADONATÚJ MESEFILM",
+        "txtlength": 6047
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vilag/20220602/barmikor-megindulhat-a-torok-hadsereg-erdogan-putyinnal-egyeztet/",
+        "h1": "Bármikor megindulhat a török hadsereg, Erdogan Putyinnal egyeztet",
+        "txtlength": 30339
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/ingatlan/20220602/hogy-mi-a-karbonsemleges-ingatlanok-razzak-fel-a-regi-vilagot-548249",
+        "h1": "Hogy mi? - A karbonsemleges ingatlanok rázzák fel a régi világot",
+        "txtlength": 26156
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/tech/20220601/minden-adott-magyarorszagon-a-szen-dioxid-gazdasagos-megkotesere-es-tarolasara-megsem-hasznaljuk-ki/",
+        "h1": "Minden adott Magyarországon a szén-dioxid gazdaságos megkötésére és tárolására, mégsem használjuk ki",
+        "txtlength": 22267
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.penzcentrum.hu/egeszseg/20220602/villamgyorsan-tonkre-mehet-a-nyaralas-ha-enelkul-indulsz-utnak-2022-ben-nem-eri-meg-kockaztatni-1125501",
+        "h1": "Villámgyorsan tönkre mehet a nyaralás, ha enélkül indulsz útnak 2022-ben: nem éri meg kockáztatni",
+        "txtlength": 21185
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/nyugdij/20220602/bevezethetik-a-nyugdijbonuszt-magyarorszagon-nekik-jarhat-az-extra-juttatas-1125487",
+        "h1": "Bevezethetik a nyugdíjbónuszt Magyarországon: nekik járhat az extra juttatás",
+        "txtlength": 20389
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/egeszseg/20220531/kuszobon-a-forradalom-a-magyar-egeszsegugyben-a-betegek-es-az-orvosok-sincsenek-erre-felkeszulve-1125380",
+        "h1": "Küszöbön a forradalom a magyar egészségügyben: a betegek és az orvosok sincsenek erre felkészülve?",
+        "txtlength": 19904
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220601_jobbik_belso_harcok_szeteses_elemzok_mraz_agoston_nagy_attila_tibor",
+        "h1": "Kilábalás nem lesz, a Jobbik bukásából is Gyurcsány profitál – elemzők a Mandinernek",
+        "txtlength": 18229
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/uzlet/20220602/osszeulnek-ma-az-olajnagyhatalmak-feszulten-figyelnek-a-befektetok-548399",
+        "h1": "Összeülnek ma az olajnagyhatalmak, feszülten figyelnek a befektetők ",
+        "txtlength": 17346
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220602_szerhij_sztahovszkij_tenisz_haboru_oroszorszag_ukrajna",
+        "h1": "„Fegyvert kell vennem a kezembe” – Területvédőnek állt a hazánkban élő ukrán teniszező",
+        "txtlength": 17085
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220603_a_magyar_szinhaz_irant_rajong_az_orosz_rendezo",
+        "h1": "Vasárnaptól a Tháliában vendégeskednek a vidéki és a határon túli színházak",
+        "txtlength": 17073
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2022/06/02/uj-utvonalakon-kozlekedo-locsolokocsikkal-ivokutakkal-es-husito-szigetekkel-keszul-budapest-a-kanikulara",
+        "h1": "ÚJ ÚTVONALAKON KÖZLEKEDŐ LOCSOLÓKOCSIKKAL, IVÓKUTAKKAL ÉS HŰSÍTŐ SZIGETEKKEL KÉSZÜL BUDAPEST A KÁNIKULÁRA",
+        "txtlength": 12354
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/szepseg/szepseg-hollywood-aranykoraban/",
+        "h1": "Szörnyű titkok Hollywood aranykorából: fájdalmas eljárásokkal szépültek a színésznők a stúdiók nyomására",
+        "txtlength": 11411
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/szuloseg/porno-nezes-nok/",
+        "h1": "pornó nézés",
+        "txtlength": 10268
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/koronavirus/2022/06/01/sok-vagy-keves-46-ezer-covid-halott",
+        "h1": "Sok vagy kevés 46 ezer Covid-halott?",
+        "txtlength": 21480
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kulfold/2022/06/02/szlovakia-kormany-matovic-heger-csaladtamogatas/",
+        "h1": "Az ellenzék elorbánosodása után kezd elfideszesedni a legnagyobb szlovák kormánypárt is",
+        "txtlength": 20285
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kulfold/2022/06/02/erzsebet-kiralyno-jubileum-platinajubileum-britek-unnepseg-nagykep-uralkodas-hetven-ev",
+        "h1": "II. Erzsébet kereket cserél, válást javasol és konfettizáporban autózik",
+        "txtlength": 19558
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20220602_Sokkal_tobbrol_szol_Orban_kiallasa_Kirill_mellett_mint_a_vallasszabadsag",
+        "h1": "Orbán a háborút szító Kirillt védi, ez nem a vallásszabadságról szól",
+        "txtlength": 17924
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/komplex/2022/06/02/nok-egeszsegugy-szuleszeti-eroszak-csaszarmetszes-ferjoltes-szivroham-1",
+        "h1": "\n      „Úgy viselkedett velem, mintha elítélendő lenne, hogy a testem teszi a dolgát”\n    ",
+        "txtlength": 16971
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2022/06/02/termalfurdo-idegenforgalom-somogy-videk-csokonyavisonta/",
+        "h1": "Bár eladta a falu a gyógyfürdőjét, az mégsem lett a vevőé",
+        "txtlength": 15472
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kulfold/2022/06/02/orosz-ukran-haboru-percrol-percre-koolaj-embargo-termeles-visszaeses/",
+        "h1": "Fitch: az orosz kőolajtermelés negyede eltűnhet a világpiacról az EU-embargó miatt",
+        "txtlength": 14321
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/vilag/20220602_orosz_ukran_haboru_101_nap",
+        "h1": "Szeverodonyeck 80 százaléka orosz kézen van, vb-részvételért mérkőzhet az ukrán fociválogatott – percről percre a háborúról",
+        "txtlength": 11892
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/politika/vagyonnyilatkozat-kepviselok/l4dpl2s?sl_ps=d_5",
+        "h1": "Orbánnak továbbra sincs megtakarítása, több száz milliót bukott Gyurcsány, Lázár az egyik legnagyobb földesúr: érdekességek a képviselői vagyonnyilatkozatokból",
+        "txtlength": 11404
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/06/02/orban-europaban-mivel-zsarol-es-mivel-zsaroljak",
+        "h1": "Orbán Európában: mivel zsarol és mivel zsarolják?",
+        "txtlength": 10476
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/06/01/harom-vakcina-ved-a-legjobban-a-covid-ellen-hogy-melyik-harom-az-nem-szamit",
+        "h1": "Három vakcina véd a legjobban a COVID ellen, hogy melyik három, az nem számít",
+        "txtlength": 9139
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/sztarvilag/filmklikk/ray-liotta-meghalt-hoollywood-rosszfiu-portre/m70p58w",
+        "h1": "„Jó lenne már olyan filmet csinálni, ahol nem kell megfojtani a lányt, hogy megszerezzem” – Elment Hollywood rosszfiúja",
+        "txtlength": 8278
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20220531_Megjelent_a_majomhimlo_Magyarorszagon",
+        "h1": "Megjelent a majomhimlő Magyarországon",
+        "txtlength": 8240
+    },
+    {
         "hostname": "kiszamolo.hu",
         "pagelink": "https://kiszamolo.hu/hol-tartja-a-penzt-a-tether/",
         "h1": "Hol tartja a pénzt a Tether?",
