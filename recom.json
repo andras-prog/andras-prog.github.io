@@ -1,6 +1,186 @@
 [
     {
         "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/csalamade-amit-nem-lehet-elrontani",
+        "h1": "Csalamádé (amit nem lehet elrontani)",
+        "txtlength": 19332
+    },
+    {
+        "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/mentaszorp-citromfuszorp",
+        "h1": "Mentaszörp és citromfűszörp",
+        "txtlength": 14225
+    },
+    {
+        "hostname": "hataratkelo.blog.hu",
+        "pagelink": "https://hataratkelo.blog.hu/2022/05/22/amerikai_luxus_100_eve#c41433093",
+        "h1": "Amerikai luxus 100 éve",
+        "txtlength": 45320
+    },
+    {
+        "hostname": "kulturpart.hu",
+        "pagelink": "https://kulturpart.hu/2022/05/31/evszazados_technikaval_keszult_el_egy_vadonatuj_mesefilm",
+        "h1": "ÉVSZÁZADOS TECHNIKÁVAL KÉSZÜLT EL EGY VADONATÚJ MESEFILM",
+        "txtlength": 6041
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220603_reformatus_melegeskuvok_skociaban_is_szexual_etikai_valsag_a_nyugat_tortenelmi_egyhazaiban",
+        "h1": "Református melegesküvők Skóciában is – szexuáletikai válság a Nyugat történelmi egyházaiban",
+        "txtlength": 32664
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220602_tordai_bence_parbeszed_frakciovezeto_parlamenti_kepviselo_dk_lmp_parbeszed_karacsony_gergely_szabo_rebeka_valasztas_tisztujitas_belfold",
+        "h1": "Tordai: Karácsony cipőjébe senki nem tud úgy belelépni, hogy az ne lötyögjön a lábán",
+        "txtlength": 29197
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220602_schmidt_maria_a_nemzetellenes_haladok_az_ukran_nacionalizmusnak_drukkolnak_konzervativizmus",
+        "h1": "Schmidt Mária: A nemzetellenes haladók az ukrán nacionalizmusnak drukkolnak",
+        "txtlength": 26958
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/global/20220603/szent-haborut-viv-putyin-ukrajna-ellen-oroszorszag-vesztesre-all-a-lelkek-folotti-uralomert-folytatott-harcban-548199",
+        "h1": "Szent háborút vív Putyin Ukrajna ellen? – Oroszország vesztésre áll a lelkek fölötti uralomért folytatott harcban",
+        "txtlength": 22134
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/otthon/20220601/ilyen-egy-budapesti-luxuspanel-2022-ben-te-kifizetnel-60-milliot-egy-lakasert-1125447",
+        "h1": "Ilyen egy budapesti luxuspanel 2022-ben: te kifizetnél 60 milliót egy lakásért?",
+        "txtlength": 22054
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/kozelet/20220603/gyurcsany-kezdte-a-bankok-sarcolasat-de-orban-kovacsolt-hatekony-fegyvert-belole/",
+        "h1": "Gyurcsány kezdte a bankok sarcolását, de Orbán kovácsolt hatékony fegyvert belőle",
+        "txtlength": 21953
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/global/20220603/varatlanul-tamad-a-majomhimlo-minden-amit-tudni-kell-a-betegsegrol-a-tunetekrol-es-a-kezelesrol-548483",
+        "h1": "Váratlanul támad a majomhimlő: minden, amit tudni kell a betegségről, a tünetekről és a kezelésről",
+        "txtlength": 20542
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/auto/20220531/tobb-sebbol-verzik-az-uj-arstop-szigor-mi-lesz-az-automata-kutakkal-benzineskannakkal-1125410",
+        "h1": "Több sebből vérzik az új árstop-szigor: mi lesz az automata kutakkal, benzineskannákkal?",
+        "txtlength": 18997
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vallalat/20220602/a-repteri-penzbeszedes-segithet-a-ryanairnek-hogy-megszorongassa-itthon-a-wizz-airt/",
+        "h1": "A reptéri pénzbeszedés segíthet a Ryanairnek, hogy megszorongassa itthon a Wizz Airt",
+        "txtlength": 18083
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/uzlet/20220603/beszedes-adatok-erkeztek-a-magyar-gazdasagrol-emelkedik-a-tozsde-548649",
+        "h1": "Beszédes adatok érkeztek a magyar gazdaságról, emelkedik a tőzsde ",
+        "txtlength": 16143
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2022/06/03/igy-valnak-az-egyetemek-dicso-tudomanyos-muhelyekbol-cegszeruen-mukodo-penzkozpontu-diplomagyarakka",
+        "h1": "ÍGY VÁLNAK AZ EGYETEMEK DICSŐ TUDOMÁNYOS MŰHELYEKBŐL CÉGSZERŰEN MŰKÖDŐ, PÉNZKÖZPONTÚ DIPLOMAGYÁRAKKÁ",
+        "txtlength": 13581
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/ezo/kristen-gilbert-sorozatgyilkos-apolono/",
+        "h1": "A halál angyalának hívták az ápolónőt: néha csak azért gyilkolt, hogy több időt legyen a szeretőjével",
+        "txtlength": 13114
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/lajfhekk/frissen-preselt-gyumolcsle/",
+        "h1": "Frissen préselt gyümölcslé",
+        "txtlength": 9512
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kulfold/2022/06/02/orosz-ukran-haboru-szaz-nap-helyszini-riport-ukrajna-beszamolo-1",
+        "h1": "A határtól a metró óvóhelyein át a front közelébe – helyszíni riportjaink Ukrajnából",
+        "txtlength": 24574
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/komplex/2022/06/03/csaladpolitika-gyerekvallalas-orokbefogadas-gyes-gyed-1",
+        "h1": "\n      A mostani családpolitika választóvonalat húz az „érdemesek” és „érdemtelenek”közé\n    ",
+        "txtlength": 19940
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2022/06/03/magyar-hang-kormanyinfo-kormany-szovivo-fidesz-gulyas-gergely/",
+        "h1": "Nem tudni, ki dönt arról, hogy a Magyar Hang nem mehet be a Kormányinfóra",
+        "txtlength": 15564
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kulfold/2022/06/02/harkiv-kornyeke-gyerhacsi-ruszka-lozova-haboru-orosz-invazio-ukrajnaban",
+        "h1": "Hogy milyen érzés a megszállás alatt lenni? Olyankor te egy senki vagy, már nem vagy ember",
+        "txtlength": 14980
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/gazdasag/20220603_ner_profit_nyereseg",
+        "h1": "Rákay Philiptől Orbán Győzőn át Várkonyi Andreáig – megnéztük, ki tud extra nagy profitot kihozni a bevételeiből",
+        "txtlength": 13485
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/gazdasag/20220602_Nemcsak_Ukrajna_de_Oroszorszag_is_kap_kulso_segitseget",
+        "h1": "Miközben Oroszország a nyugati fegyverek ellen ágál, szoros kapcsolatot alakított ki Kínával",
+        "txtlength": 13463
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/06/03/a-magyar-ember-legjobb-baratja",
+        "h1": "A Magyar Ember Legjobb Barátja",
+        "txtlength": 12582
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kulfold/2022/06/03/orosz-ukran-haboru-oroszorszag-ukrajna-putyin-zelenszkij-percrol-percre-elo-100-napja-tart-haboru/",
+        "h1": "Az EU elfogadta a hatodik szankciós csomagot, benne az olajembargóval",
+        "txtlength": 12400
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/kultura/20220603_Unnepi_Konyvhet_konyvek_kiadok",
+        "h1": "182 kiadó köteteivel találkozhatnak az érdeklődők az Ünnepi Könyvhéten",
+        "txtlength": 11300
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/06/03/joe-biden-fia-szexvideokat-toltott-fel-magarol-a-pornhubra",
+        "h1": "Joe Biden fia szexvideókat töltött fel magáról a Pornhubra",
+        "txtlength": 10599
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2022/06/03/valasztas-fidesz-kdnp-egyeni-jeloltek-kampanykoltes/",
+        "h1": "Itt a lista – hivatalosan ennyit költöttek kampányukra a kormánypárti képviselőjelöltek",
+        "txtlength": 10269
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/politika/az-eu-elfogadta-a-hatodik-szankciocsomagotelfogadta-a-hatodik-szankciocsomagot/mxnpwrn?sl_ps=d_2",
+        "h1": "A kocka el van vetve: az unió nekimegy Oroszországnak, megvan a döntés",
+        "txtlength": 8324
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/daganatos-betegseg-feljelentes-rendorseg/05b6wqt?sl_ps=d_10",
+        "h1": "Feljelentést tett a gyászoló anya, nyomoz a rendőrség – „Hónapokig járt orvoshoz a lányom, mégsem vették észre, hogy rákos”",
+        "txtlength": 8042
+    },
+    {
+        "hostname": "nosalty.hu",
         "pagelink": "https://www.nosalty.hu/recept/kijevi-sutemeny",
         "h1": "Kijevi sütemény",
         "txtlength": 12420
