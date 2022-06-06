@@ -1,5 +1,173 @@
 [
     {
+        "hostname": "hataratkelo.blog.hu",
+        "pagelink": "https://hataratkelo.blog.hu/2022/05/22/amerikai_luxus_100_eve",
+        "h1": "Amerikai luxus 100 éve",
+        "txtlength": 44461
+    },
+    {
+        "hostname": "kulturpart.hu",
+        "pagelink": "https://kulturpart.blog.hu/2022/06/04/ladjanszki_marta_interju",
+        "h1": "MEZTELEN TÁNCOSOK, MEZTELEN NÉZŐK",
+        "txtlength": 16280
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220606_az_en_muveszetem_mindig_politikus_volt_es_lesz_vidnyanszky_attila_a_mandinernek",
+        "h1": "Amíg egy fél magyar is lesz Kárpátalján, nincs veszve semmi – Vidnyánszky Attila a Mandinernek",
+        "txtlength": 32578
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220601_kozelet_kereszteny_politika",
+        "h1": "Keresztény politika a célkeresztben",
+        "txtlength": 28191
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220606_tilo_schabert_politika_orban_machiavelli",
+        "h1": "A politikus nagyon egyedül van a csúcson – Tilo Schabert a Mandinernek",
+        "txtlength": 24092
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/global/20220606/egy-varatlan-dontes-es-egy-veres-csata-orokre-megvaltoztatta-a-vilag-tortenelmet-ezen-a-napon-548977",
+        "h1": "Egy váratlan döntés és egy véres csata örökre megváltoztatta a világ történelmét ezen a napon",
+        "txtlength": 23280
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/krtk/20220606/nem-veletlen-hogy-a-magyar-varosok-lakoi-egeszsegtelenebbek-es-boldogtalanabbak-az-atlagnal-es-ez-csak-rosszabb-lesz-547997",
+        "h1": "Nem véletlen, hogy a magyar városok lakói egészségtelenebbek és boldogtalanabbak az átlagnál - és ez csak rosszabb lesz",
+        "txtlength": 19350
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/gazdasag/20220601/ekkora-lehet-az-inflacio-az-oszre-leesik-az-allad-ha-meglatod-a-szamokat-1125476",
+        "h1": "Ekkora lehet az infláció az őszre: leesik az állad, ha meglátod a számokat",
+        "txtlength": 18703
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/kozelet/20220605/gyulnek-a-letetbe-tett-felmondolevelek-az-alkotmanybirosaghoz-fordulnak-a-tanarok/",
+        "h1": "Gyűlnek a letétbe tett felmondólevelek, az Alkotmánybírósághoz fordulnak a tanárok",
+        "txtlength": 18667
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/kozelet/20220606/eleteket-menthetnek-megis-tobb-evet-kell-varniuk-a-magyar-betegeknek-az-uj-gyogyszerekre/",
+        "h1": "Életeket menthetnek, mégis több évet kell várniuk a magyar betegeknek az új gyógyszerekre",
+        "txtlength": 18096
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/bank/20220606/egyedi-utra-lepett-magyarorszag-vajon-mi-tortenik-ha-elesitik-a-penzugyi-szuperfegyvert-548715",
+        "h1": "Egyedi útra lépett Magyarország - vajon mi történik, ha élesítik a pénzügyi szuperfegyvert?",
+        "txtlength": 18085
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/vallalkozas/20220602/egyre-tobb-magyar-menekul-a-munkahelyerol-sokan-ezert-kezdenek-mindent-elolrol-1125311",
+        "h1": "Egyre több magyar menekül a munkahelyéről: sokan ezért kezdenek mindent elölről",
+        "txtlength": 17891
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2022/06/06/a-tetovalasgyujtesnek-tobb-koze-lehet-a-narcizmushoz-mint-a-fuggoseghez",
+        "h1": "A TETOVÁLÁSGYŰJTÉSNEK TÖBB KÖZE LEHET A NÁRCIZMUSHOZ, MINT A FÜGGŐSÉGHEZ",
+        "txtlength": 11311
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/egeszseg/gerinc-daganat-kezeles/",
+        "h1": "Lassan alakul ki a daganat, nagyra nőhet, mielőtt felfedezik: a keresztcsonti rák speciális kezelést igényel",
+        "txtlength": 11016
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/lajfhekk/legkondicionalo-teszt/",
+        "h1": "Légkondicionáló teszt",
+        "txtlength": 9058
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/elet-stilus/2022/06/05/eltunt-lany-rejtely-gyilkossag-aruba-natalee-holloway/",
+        "h1": "Ma sem tudni, mi történt a tizenhét éve rejtélyesen eltűnt diáklánnyal",
+        "txtlength": 24882
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/sport/2022/06/06/gyozelmi-sorozat-a-lakers-dinasztia-felemelkedese-reakciok-jerry-west-ragalmazas-earvin-magic-johnson-kareem-abdul-jabbar-spencer-haywood-john-c-reilly-max-borenstein-los-angeles-lakers-showtime/",
+        "h1": "Mindenki imádja a Lakers-sorozatot, kivéve azok, akikről szól",
+        "txtlength": 21606
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kultura/2022/06/06/rubin-lanyok-brody-sandor-ongyilkossag-matine/",
+        "h1": "Matiné: Szerelmi csalódásában Dunának ment egy pesti lány, s vitte magával a húgát is",
+        "txtlength": 21547
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kulfold/2022/06/06/orosz-ukran-haboru-103-napja-legfontosabb-esemenyek",
+        "h1": "Moszkva ellenséges akciónak tekinti, hogy több ország nem engedte be a légterébe az orosz külügyminisztert, a britek modern rakétarendszert küldenek Ukrajnának",
+        "txtlength": 17339
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/gazdasag/2022/06/05/a-kormany-megprobalkozik-a-revolut-adoval",
+        "h1": "A kormány adót vetne ki a Revolut-tranzakciókra, de ezt behajtani egyáltalán nem lesz könnyű",
+        "txtlength": 16566
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/belfold/2022/06/06/szeged-szabadka-vasuti-fejlesztes-suru-csend-es-kinos-mellekhatasok",
+        "h1": "A kertem végében megy a teljes vasúti teherforgalom Szerbia felé",
+        "txtlength": 15469
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/gazdasag/20220606_miniszteriumok_kornyezetvedelem_termeszetvedelem_zold_terulet",
+        "h1": "Mire számíthat a környezetvédelem önálló tárca nélkül?",
+        "txtlength": 15393
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/elet/20220605_Donbasz_Oleg_Szencov_rendezo_Ukrajna",
+        "h1": "A Donbaszban harcol Oleg Szencov rendező: \"Ez a háború már teljesen más, mint a korábbiak\"",
+        "txtlength": 14743
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/06/05/egyre-tobb-hindu-menekul-el-kasmirbol-a-sorozatos-tamadasok-miatt",
+        "h1": "Egyre több hindu menekül el Kasmírból a sorozatos támadások miatt",
+        "txtlength": 10500
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/06/05/alkotmanyozo-nepszavazas-tartanak-kazahsztanban",
+        "h1": "Alkotmányozó népszavazás tartanak Kazahsztánban",
+        "txtlength": 10407
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/blikk-tv/aktualis/kulonleges-helyek-extrem-helyszinek-a-lanchid-oroszlanjai/d465ysj",
+        "h1": "Különleges helyek, extrém helyszínek – Megtaláltuk: itt pihennek a Lánchíd legendás oroszlánjai – videó",
+        "txtlength": 8854
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/blikk-tv/aktualis/kutya-piszok-takaritas-rejtett-kamera-video-lebukas/x16rk4d?sl_ps=d_2",
+        "h1": "Akár 150 ezres büntetés is járhat, ha nem szedi össze a kutyapiszkot: rejtett kamerával jártunk utána, hogyan viselkednek a gazdák",
+        "txtlength": 8647
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/tudomany/20220606_fido_alliance_szabvany_a_jelszavak_kihagyasara",
+        "h1": "Jól hangzik, hogy ezután nem kell megjegyeznünk jelszavakat, csak van ezzel egy kis probléma",
+        "txtlength": 8494
+    },
+    {
         "hostname": "kiszamolo.hu",
         "pagelink": "https://kiszamolo.hu/magyar-euro/#more-118665",
         "h1": "Magyar euró?",
