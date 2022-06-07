@@ -1,5 +1,185 @@
 [
     {
+        "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/citromfuszorp",
+        "h1": "Citromfűszörp",
+        "txtlength": 14792
+    },
+    {
+        "hostname": "kiszamolo.hu",
+        "pagelink": "https://kiszamolo.hu/heti-hirek-roviden-2/",
+        "h1": "Heti hírek röviden",
+        "txtlength": 32239
+    },
+    {
+        "hostname": "efesasanisimasa.com",
+        "pagelink": "https://efesasanisimasa.com/2022/04/29/megszallottak-viadala-1-2-evad-killing-eve-season-1-2-2018-19/",
+        "h1": "Megszállottak viadala (TV Series, Season 1-3., Killing Eve, 2018-)",
+        "txtlength": 7760
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/global/20220607/csiki-varga-tamas-fegyverkezik-europa-harom-ev-alatt-kene-megduplazni-a-magyar-vedelmi-koltsegvetest-549039",
+        "h1": "Csiki Varga Tamás: Fegyverkezik Európa, három év alatt kéne megduplázni a magyar védelmi költségvetést",
+        "txtlength": 45547
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220607_ramzan_kadirov_portre",
+        "h1": "A „csecsen Sztálin”, a nagyotmondás bajnoka – ki valójában Ramzan Kadirov?",
+        "txtlength": 23349
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/hitel/20220604/ketyeg-az-ora-egyre-kevesebb-magyarnak-marad-eselye-lecsapni-az-ingyemilliokra-1125528",
+        "h1": "Ketyeg az óra: egyre kevesebb magyarnak marad esélye lecsapni az ingyemilliókra",
+        "txtlength": 20142
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220606_ukrajna_haboru",
+        "h1": "Mi történik most az ukrajnai háborúban?",
+        "txtlength": 19729
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/penz/20220606/miert-nem-tetszik-a-kulfoldi-befektetoknek-a-kormany-kiigazito-csomagja/",
+        "h1": "Miért nem tetszik a külföldi befektetőknek a kormány kiigazító csomagja?",
+        "txtlength": 18165
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20220607/sulyos-apolohiany-a-magyar-egeszsegugyben-felmondasi-hullam-kuszoben-allunk-548791",
+        "h1": "Súlyos ápolóhiány a magyar egészségügyben - Felmondási hullám küszöbén állunk?",
+        "txtlength": 18126
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220605_fekete_gyor_andras_csendben_torolte_hogy_slava_ukrayini",
+        "h1": "Fekete-Győr András csendben törölte, hogy „Sláva Ukrayíni!”",
+        "txtlength": 18088
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/elet/20220607/a-koltsegvetesnek-hasznal-a-joletnek-art-a-kesoi-nyugdijba-vonulas-osztonzese/",
+        "h1": "A költségvetésnek használ, a jólétnek árt a késői nyugdíjba vonulás ösztönzése",
+        "txtlength": 17324
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/vasarlas/20220606/oriasit-dragultak-a-magyarok-kedvenc-zoldsegei-otthon-fillerekert-is-megteremnenek-1125583",
+        "h1": "Óriásit drágultak a magyarok kedvenc zöldségei: otthon fillérekért is megteremnének",
+        "txtlength": 17070
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/ingatlan/20220607/terkepen-az-orszagos-lakasarak-nezzuk-hol-mennyit-er-egy-negyzetmeter-549149",
+        "h1": "Térképen az országos lakásárak - Nézzük, hol mennyit ér egy négyzetméter!",
+        "txtlength": 16770
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2022/06/07/a-testi-fenyites-mar-nem-divat-de-a-gyerekek-erzelmi-bantalmazasa-mindennapos-a-magyar-iskolakban",
+        "h1": "A TESTI FENYÍTÉS MÁR NEM DIVAT, DE A GYEREKEK ÉRZELMI BÁNTALMAZÁSA MINDENNAPOS A MAGYAR ISKOLÁKBAN",
+        "txtlength": 16550
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/otthon/ingatlanpiac-2021/",
+        "h1": "Ebben a budapesti kerületben nőttek legjobban az ingatlanárak: csökkenhet a kereslet a lakáspiacon",
+        "txtlength": 14573
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/testem/dohanyzas-leszokas/",
+        "h1": "Évente 25 ezer magyarral végez ez a függőség: a halálozások ötödét okozza",
+        "txtlength": 13854
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/szuloseg/tulterhelt-gyerek-rohanas-eredmenycentrikus-szulo/",
+        "h1": "tulterhelt gyerek rohanas eredmenycentrikus szulo",
+        "txtlength": 11992
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/interju/2022/06/07/nemeth-kiss-palma-tyukod-polgarmester-czibere-jozsef-molesztalas-interju",
+        "h1": "„Rengeteg mocskos dolog történt itt”, mondja a tyukodi anyakönyvvezető, akit a polgármester molesztált",
+        "txtlength": 18701
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/sport/2022/06/07/foci-hatso-fuves-zemplen-csillag-peter-ringer-istvan-hollohaza/",
+        "h1": "Az elfelejtett falvak Don Quijotéi költöztetnek életet a zempléni dombok csodálatos futballkatlanjaiba",
+        "txtlength": 17223
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kulfold/2022/06/07/orosz-ukran-haboru-104-napja-tudositas-elo-percrol-percre",
+        "h1": "Szeverodonyeckben kemény utcai harcok zajlanak, Zelenszkij szerint nulladik szinten vannak a béketárgyalások",
+        "txtlength": 15265
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/fn/gazdasag/2022/06/07/uj-tankolasi-rendelet-magyar-autos-kulfoldi-auto-nehez-megfelelni-automata-kutak/",
+        "h1": "Be kell-e mutatni a forgalmit? Mi történik az automata kutakon? Nem egyszerű megfelelni az új tankolási rendeletnek",
+        "txtlength": 14399
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/gazdasag/2022/06/06/az-allam-felelosseget-is-firtatjak-a-tungsram-porul-jart-beszallitoi",
+        "h1": "Az állam felelősségét is firtatják a Tungsram pórul járt beszállítói",
+        "txtlength": 14284
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kultura/2022/06/06/jeff-goldblum-interju-jurassic-park-jurassic-world-vilaguralom-dinoszauruszok-tudomany-steven-spielberg/",
+        "h1": "Jeff Goldblum: A tudományhoz nagy bölcsesség is kell, mert az emberiség könnyen elpusztíthatja önmagát",
+        "txtlength": 12621
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/gazdasag/20220607_nyaralas_utazasi_iroda",
+        "h1": "Ha utazik idén, ne számítson nagy last minute leárazásokra",
+        "txtlength": 12268
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/06/07/indiai-kurtoskalacs-olajos-mezeskalacs",
+        "h1": "Indiai kürtőskalács, olajos mézeskalács",
+        "txtlength": 11393
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/06/06/eltunt-egy-brit-ujsagiro-az-amazonas-kornyeken",
+        "h1": "Eltűnt egy brit újságíró az Amazonas környékén",
+        "txtlength": 9767
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/sport/20220607_mancini_rossi_olasz_magyar_meccs",
+        "h1": "Mancini: Kemény próbatétel lesz a magyarok elleni meccs",
+        "txtlength": 9230
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/gazdasag/20220607_orosz_olaipar_gaz_szankciok_Kina_haboru",
+        "h1": "Mi lesz az orosz olaj- és földgáziparral?",
+        "txtlength": 8985
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/balaton-tragedia-vizbefulladt-tinedzser-szorfdeszka-balatonvilagos-horgasz/gl18mbc",
+        "h1": "Megtaláltuk a balatoni kettős tragédia szemtanúját: Márk a szonárjával fedezte fel az egyik fiú holttestét",
+        "txtlength": 8266
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/penz/dragulas-sporolas-magyarorszag-szavazas/d9mp1qr",
+        "h1": "Ön elkezdett már spórolni a várható rosszabb időkre gondolva? Gigantikus drágulás jöhet minden fronton",
+        "txtlength": 6905
+    },
+    {
         "hostname": "hataratkelo.blog.hu",
         "pagelink": "https://hataratkelo.blog.hu/2022/05/22/amerikai_luxus_100_eve",
         "h1": "Amerikai luxus 100 éve",
