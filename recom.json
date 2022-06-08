@@ -1,5 +1,185 @@
 [
     {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/malnas-charlotte-video.recept",
+        "h1": "MÁLNÁS CHARLOTTE TORTA",
+        "txtlength": 12391
+    },
+    {
+        "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/vegyes-gyumolcsleves-vicikotol",
+        "h1": "Vegyes gyümölcsleves Vicikótól",
+        "txtlength": 11603
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/grillezett-serteskaraj-ananasszal-es-friss-salataval.recept",
+        "h1": "GRILLEZETT SERTÉSKARAJ ANANÁSSZAL ÉS FRISS SALÁTÁVAL",
+        "txtlength": 11370
+    },
+    {
+        "hostname": "kiszamolo.hu",
+        "pagelink": "https://kiszamolo.hu/itt-vannak-a-megnemszoritasok/",
+        "h1": "Itt vannak a megnemszorítások",
+        "txtlength": 30825
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20220608/magyarok-szazezreit-erinti-a-kettos-nyugdijveszedelem-nincs-ingyenebed-tobbet-kell-fizetni-549101",
+        "h1": "Magyarok százezreit érinti a kettős nyugdíjveszedelem: nincs ingyenebéd, többet kell fizetni!",
+        "txtlength": 22571
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/vallalkozas/20220608/egyre-tobb-fiatal-kerul-oriasi-bajba-errol-egy-szo-sem-esik-az-iskolaban-2022-ben-pedig-fontos-lenne-1125653",
+        "h1": "Egyre több fiatal kerül óriási bajba: erről egy szó sem esik az iskolában 2022-ben, pedig fontos lenne",
+        "txtlength": 22051
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://makronom.mandiner.hu/cikk/20220531_autoipar_varkonyi_gabor_brusszel_ideologia_karbonsemlegesseg_eu_politika_gepjarmu_auto_ar_inflacio",
+        "h1": "Ideológiai alapon teszi tönkre a saját autóiparát az EU vezetése – Várkonyi Gábor a Makronómnak",
+        "txtlength": 21137
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220608_harcos_magyar_kulturpolitikat_szorgalmaz_szabo_laszlo_producer",
+        "h1": "Harcos magyar kultúrpolitikát szorgalmaz Szabó László producer",
+        "txtlength": 21098
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/elet/20220608/par-ora-leforgasa-alatt-veszitett-300-millio-forintot-a-trafo-a-fovaros-kezeben-a-sorsuk/",
+        "h1": "Pár óra leforgása alatt veszített 300 millió forintot a Trafó, a Főváros kezében a sorsuk",
+        "txtlength": 20266
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220608_eu_szankciok_folgaz_embargo_haboru",
+        "h1": "A gázembargóval az Unió a saját árampiacát is veszélybe sodorná",
+        "txtlength": 20195
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.penzcentrum.hu/tech/20220608/igy-csapnak-le-az-ovatlan-magyarokra-a-hekkerek-mutatjuk-az-uj-modszert-1125680",
+        "h1": "Így csapnak le az óvatlan magyarokra a hekkerek: mutatjuk az új módszert",
+        "txtlength": 18797
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/otthon/20220607/indul-a-hajsza-a-kiado-pesti-lakasokert-ukranok-es-az-airbnb-is-neheziti-az-egyetemistak-dolgat-1125574",
+        "h1": "Indul a hajsza a kiadó pesti lakásokért: ukránok és az Airbnb is nehezíti az egyetemisták dolgát",
+        "txtlength": 17899
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2022/06/08/a-szintetikus-biologia-koraban-elunk-de-a-mesterseges-elet-letrehozasa-meg-mindig-csak-alom",
+        "h1": "A SZINTETIKUS BIOLÓGIA KORÁBAN ÉLÜNK, DE A MESTERSÉGES ÉLET LÉTREHOZÁSA MÉG MINDIG CSAK ÁLOM",
+        "txtlength": 16018
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vilag/20220607/kina-nagyon-kell-hollywoodnak-de-hollywood-kell-e-meg-kinanak/",
+        "h1": "Kína nagyon kell Hollywoodnak, de Hollywood kell-e még Kínának?",
+        "txtlength": 15626
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20220608/az-ev-amikor-az-alkoholista-magyar-allam-elvonora-ment-548521",
+        "h1": "Az év, amikor az alkoholista magyar állam elvonóra ment",
+        "txtlength": 15544
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/egeszseg/latasromlas-betegsegek/",
+        "h1": "3 betegség, ami látásromlást okozhat: sokszor nem a szemmel van a baj",
+        "txtlength": 12602
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/lajfhekk/ruha-uj-mosas-egeszseg/",
+        "h1": "ruha új mosás egészség",
+        "txtlength": 10976
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/tech/2022/06/08/osint-nyilt-forrasu-megfigyeles-kemek-orosz-ukran-haboru-kozossegi-media/",
+        "h1": "Fotelkémek ezreit nevelte ki az orosz-ukrán konfliktus",
+        "txtlength": 21828
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/belfold/2022/06/07/ingyenpenz-minden-villanyauto-vasarlonak-magyar-nemzeti-bank-javaslat",
+        "h1": "Ingyenpénz minden magyar villanyautó-vásárlónak? Megnéztük, a javaslat elég lehet-e a zöldítésre",
+        "txtlength": 19949
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kulfold/2022/06/08/orosz-ukran-haboru-105-napja-tudositas-elo-percrol-percre",
+        "h1": "Az oroszok három irányból is támadják Szeverodonyecket, az ukránok azt állítják, nem fogják feladni a várost",
+        "txtlength": 16109
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kulfold/2022/06/08/boris-johnson-bizalmi-szavazas-konzervativ-part-lazadok/",
+        "h1": "Nem biztos, hogy Boris Johnson sokáig miniszterelnök marad",
+        "txtlength": 14518
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kulfold/2022/06/07/angela-merkel-nyilvanos-beszelgetes-berlin-ukrajna-oroszorszag-putyin",
+        "h1": "Fél év után először állt a nyilvánosság elé Angela Merkel",
+        "txtlength": 14070
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/06/08/a-nagy-sporolas-avagy-kinek-mit-intezett-a-kormanya",
+        "h1": "A Nagy Spórolás – avagy kinek, mit intézett a kormánya",
+        "txtlength": 13733
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20220608_parlamenti_klubok_kepviseloi_csoportok",
+        "h1": "A Balatont megmentő, a magyar mézért küzdő, és Orbánt vizsgáló klubok is alakultak már a Parlamentben",
+        "txtlength": 12088
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/06/08/egesz-eleteben-bortonben-marad-ferrari-joe-a-gyilkos-bangkoki-rendorfonok",
+        "h1": "Egész életében börtönben marad Ferrari Joe, a gyilkos bangkoki rendőrfőnök",
+        "txtlength": 10603
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/kkv/20220608_GKI_extraprofit_szakagazatok",
+        "h1": "GKI: Nagyon nem azokat az ágazatokat adóztatja a kormány, ahol extraprofit keletkezik",
+        "txtlength": 10558
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/vilag/20220608_Percrol_percre_orosz_ukran_haboru",
+        "h1": "A legnehezebb télre készül Ukrajna, újra érkeznek adatok Csernobilból - Percről percre az orosz-ukrán háborúról",
+        "txtlength": 10291
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kulfold/2022/06/08/orosz-ukran-haboru-percrol-percre-zelenszkij-donbasz-putyin-junius-8/",
+        "h1": "Zelenszkij: A következő tél lesz a legnehezebb Ukrajna függetlenedése óta",
+        "txtlength": 10279
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/partai-lucia-aigner-szilard/jf5vm8y?sl_ps=d_10",
+        "h1": "Aigner Szilárd özvegye, Pártai Lucia így emlékszik hat éve elhunyt férjére: „Ott van a kék égben, a napsütésben”",
+        "txtlength": 9004
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/penz/inflacio-2022-majus-penzromlas-ksh-elemzes-bank360/ntxhb4q?sl_ps=d_4",
+        "h1": "Kijött a sokkoló adat, a vártnál is jóval magasabb lett az infláció: szinte napról napra drágul az élelmiszer",
+        "txtlength": 8408
+    },
+    {
         "hostname": "nosalty.hu",
         "pagelink": "https://www.nosalty.hu/recept/citromfuszorp",
         "h1": "Citromfűszörp",
