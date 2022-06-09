@@ -1,6 +1,186 @@
 [
     {
         "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/epres-turotorta-video.recept",
+        "h1": "EPRES TÚRÓTORTA",
+        "txtlength": 12021
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/sable-keksz.recept",
+        "h1": "SABLÉ KEKSZ",
+        "txtlength": 10825
+    },
+    {
+        "hostname": "kiszamolo.hu",
+        "pagelink": "https://kiszamolo.hu/itt-vannak-a-kulonadok/",
+        "h1": "Itt vannak a különadók",
+        "txtlength": 28615
+    },
+    {
+        "hostname": "efesasanisimasa.com",
+        "pagelink": "https://efesasanisimasa.com/2022/06/08/porolo-70-verzo-olaj-there-will-be-blood-2007/",
+        "h1": "Poroló 70. – Vérző olaj (There Will Be Blood, 2007)",
+        "txtlength": 8591
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220608_hernadi_zsolt_interju",
+        "h1": "Senkinek nincs joga agyonütni Közép-Európát – Hernádi Zsolt a Mandinernek",
+        "txtlength": 39244
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220608_csizmadia_ervin_ellenzek_valasztas_interju",
+        "h1": "Csizmadia Ervin: Az ellenzéki összefogás inkább egymás ellenében szerveződött",
+        "txtlength": 33557
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220609_szabo_laszlo_kulturpolitika_kommentar",
+        "h1": "Olyan nem lesz soha, hogy kitör a kultúrbéke – Szabó László producer a Mandinernek",
+        "txtlength": 29265
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/bank/20220609/keszul-a-magyar-szuperbank-szazmilliardos-dontesek-a-hatterben-549667",
+        "h1": "Készül a magyar szuperbank, százmilliárdos döntések a háttérben",
+        "txtlength": 23432
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vallalat/20220609/mindenki-legyintett-hogy-ez-a-napelemes-dolog-csak-andras-egyik-hulyesege-de-tizmilliardos-ceget-epitett-belole/",
+        "h1": "Mindenki legyintett, hogy ez a napelemes dolog csak András egyik hülyesége, de tízmilliárdos céget épített belőle",
+        "txtlength": 22235
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/global/20220609/itt-az-elso-aldozat-egy-egesz-orszag-az-osszeomlas-szelere-kerult-az-ukrajnai-haboru-miatt-548747",
+        "h1": "Itt az első áldozat? – Egy egész ország az összeomlás szélére került az ukrajnai háború miatt",
+        "txtlength": 20113
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/gazdasag/20220609/brutalis-benzinkrizis-johet-europaban-az-embargo-miatt-ezt-a-magyarok-sem-uszhatjak-meg-1125663",
+        "h1": "Brutális benzinkrízis jöhet Európában az embargó miatt: ezt a magyarok sem úszhatják meg",
+        "txtlength": 16942
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.penzcentrum.hu/gazdasag/20220609/brutalis-benzinkrizis-johet-europaban-az-embargo-miatt-ezt-a-magyarok-sem-uszhatjak-meg-1125663",
+        "h1": "Brutális benzinkrízis jöhet Európában az embargó miatt: ezt a magyarok sem úszhatják meg",
+        "txtlength": 16718
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/hitel/20220609/ketyeg-az-ora-hamarosan-orulten-megdragulhatnak-a-magyarok-slagerhitelei-1125582",
+        "h1": "Ketyeg az óra: hamarosan őrülten megdrágulhatnak a magyarok slágerhitelei",
+        "txtlength": 16109
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/penz/20220608/zold-fronton-dolhet-el-a-bankok-versenye-a-jovo-generacioiert/",
+        "h1": "Zöld fronton dőlhet el a bankok versenye a jövő generációiért",
+        "txtlength": 15870
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2022/06/07/kinai-elemzok-szerint-elkerulhetetlen-oroszorszag-vegervenyes-veresege-ukrajnaban",
+        "h1": "KÍNAI ELEMZŐK SZERINT ELKERÜLHETETLEN OROSZORSZÁG VÉGÉRVÉNYES VERESÉGE UKRAJNÁBAN",
+        "txtlength": 14001
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/lajfhekk/klima-kanikula/",
+        "h1": "klíma kánikula",
+        "txtlength": 10679
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/kapcsolat/festetics-maria-sisi-udvarholgye/",
+        "h1": "A grófnő, aki lemondott a boldogságról Sissi kedvéért: Festetics Mária, a királyné udvarhölgye titkos naplót is vezetett",
+        "txtlength": 10399
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kulfold/2022/06/09/kirill-patriarka-eu-szankcio-orban-viktor-veto/",
+        "h1": "Olajbiznisz is gazdagította a háborúpárti orosz pátriárkát, akit Orbán megvédett az uniós szankcióktól",
+        "txtlength": 23298
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/tamogatott-tartalom/2022/06/09/az-alacsony-arakra-es-a-magyar-beszerzesre-fokuszal-az-aldi",
+        "h1": "Az alacsony árakra és a magyar beszerzésre fókuszál az ALDI",
+        "txtlength": 20004
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/direkt36/2022/06/09/itt-vannak-a-taviratok-amelyeket-orban-diplomatai-kuldtek-magyar-ujsagirok-utazasairol",
+        "h1": "Itt vannak a táviratok, amelyeket Orbán diplomatái küldtek magyar újságírók utazásairól",
+        "txtlength": 19731
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/belfold/2022/06/09/csepel-kozma-istvan-magyar-birkozo-akademia-kimba-nemeth-szilard-borbely-lenard-abel-attila-fidesz",
+        "h1": "A 2,4 milliárdos elzárt csarnok, amiről azt mondták: hatalmas ugrás volt Németh Szilárdnak",
+        "txtlength": 18931
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20220607_EUs_menekultpenzek_REACTEU",
+        "h1": "EU-s menekültpénzek: 110-ből 102 milliárdot már megkaptunk, de a kormány elköltötte másra",
+        "txtlength": 14068
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/06/08/izraelben-tartozkodik-az-ukrajna-elleni-invazio-tamogatasat-megtagado-moszkvai-forabbi",
+        "h1": "Izraelben van az Ukrajna elleni invázió támogatását megtagadó moszkvai főrabbi",
+        "txtlength": 11809
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/06/09/ket-szamjegyu-inflacio-a-beke-felszigeten",
+        "h1": "Két számjegyű infláció a béke félszigetén",
+        "txtlength": 11669
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/tudomany/2022/06/09/medve-pest-megye-barnamedve/",
+        "h1": "Mit keres egy medve Pest megyében?",
+        "txtlength": 10860
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2022/06/09/budaorsi-illyes-gyula-gimnazium-polgari-ellenallas-58-pedagogus/",
+        "h1": "58 pedagógus helyezte kilátásba a polgári engedetlenséget a Budaörsi Illyés Gyula Gimnáziumban",
+        "txtlength": 10739
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/hernadi-zsolt-mol-kulonado/j7gkj0z",
+        "h1": "Hernádi Zsolt szerint a Mol ki tudja fizetni a különadót, de kíváncsi rá, hogy nehéz helyzetben kapnának-e vissza pénzt az államtól",
+        "txtlength": 9929
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/politika/jakab-peter-lemondott-legemlekezetesebb-pillanatok/t6lrwtw",
+        "h1": "Krumpliszsák, parizer, Jobbik-dal: ezek voltak a frissen lemondott Jakab Péter legemlékezetesebb pillanatai",
+        "txtlength": 9683
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/tudomany/20220609_tp_link_router_sebezhetoseg_felhasznaloi_adatok_vedelme",
+        "h1": "Ilyen wifi routere van otthon? Akkor jobb, ha azonnal frissíti",
+        "txtlength": 9114
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20220609_Kulfoldre_utazo_fuggetlen_magyar_ujsagirokat_figyeltettek_meg_az_Orbankormany_diplomatai",
+        "h1": "Külföldre utazó független magyar újságírók útjáról adtak jelentést az Orbán-kormány diplomatái",
+        "txtlength": 9052
+    },
+    {
+        "hostname": "mindmegette.hu",
         "pagelink": "https://www.mindmegette.hu/malnas-charlotte-video.recept",
         "h1": "MÁLNÁS CHARLOTTE TORTA",
         "txtlength": 12391
