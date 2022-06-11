@@ -1,6 +1,198 @@
 [
     {
         "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/legegyszerubb-cseresznyebefott-eltevese",
+        "h1": "Legegyszerűbb cseresznyebefőtt eltevése",
+        "txtlength": 13367
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/alfredo-teszta-kremes-tejszines-video.recept",
+        "h1": "ALFREDO TÉSZTA (KRÉMES TEJSZÍNES TÉSZTA)",
+        "txtlength": 10612
+    },
+    {
+        "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/cseresznyes-kevert-teszta",
+        "h1": "Cseresznyés kevert tészta",
+        "txtlength": 9593
+    },
+    {
+        "hostname": "hataratkelo.blog.hu",
+        "pagelink": "https://hataratkelo.blog.hu/2022/06/05/ujabb_otlet_a_hataratkelok_visszacsabitasara#c41443891",
+        "h1": "Újabb ötlet a határátkelők visszacsábítására",
+        "txtlength": 46048
+    },
+    {
+        "hostname": "kulturpart.hu",
+        "pagelink": "https://kulturpart.blog.hu/2022/06/09/megvannak_az_artisjus_irodalmi_dijazottjai",
+        "h1": "MEGVANNAK AZ ARTISJUS IRODALMI DÍJAZOTTJAI",
+        "txtlength": 12164
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220610_magyar_ostortenet_maxim_v_kvitnyickij_ukrajna",
+        "h1": "A magyar őstörténetet kutatta, most a fronton harcol az ukrán régész",
+        "txtlength": 27713
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220607_szaszfalvi_laszlo_interju_fidesz_kdnp_jobboldal_valasztas_nemzetpolitika_egyhazugy_baloldal_ellenzek_egyhazellenesseg_somogy_csurgo",
+        "h1": "A baloldal célkeresztet rajzolt a kárpátaljai magyarok homlokára – Szászfalvi László a Mandinernek",
+        "txtlength": 27316
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vilag/20220610/kohezio-helyett-szettartas-harom-parhuzamosan-letezo-europa-jott-letre/",
+        "h1": "Kohézió helyett széttartás: három, párhuzamosan létező Európa jött létre",
+        "txtlength": 22049
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220608_idokozi_valasztasok_nyara_jon_folytatodik_a_politikai_nagyuzem",
+        "h1": "Időközi választások nyara jön, folytatódik a politikai nagyüzem",
+        "txtlength": 21966
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/tech/20220610/8-gigaatveres-amit-rengetegen-bevesznek-a-neten-ezt-kell-tudnod-hogy-ne-dolj-be-nekik-1125772",
+        "h1": "8 gigaátverés, amit rengetegen bevesznek a neten: ezt kell tudnod, hogy ne dőlj be nekik",
+        "txtlength": 19613
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2022/06/10/kulonbseget-lehet-e-tenni-tudomany-es-altudomany-kozott-es-ha-igen-hogyan",
+        "h1": "KÜLÖNBSÉGET LEHET-E TENNI TUDOMÁNY ÉS ÁLTUDOMÁNY KÖZÖTT, ÉS HA IGEN, HOGYAN?",
+        "txtlength": 19459
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/global/20220611/amerika-ellensege-nyujthat-segitseget-az-olajvalsagban-a-fel-vilag-arra-var-mit-lep-washington-550009",
+        "h1": "Amerika ellensége nyújthat segítséget az olajválságban? A fél világ arra vár, mit lép Washington",
+        "txtlength": 19343
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/hitel/20220609/igy-nez-ki-a-bankok-feketelistaja-ezek-a-magyarok-biztos-hogy-jo-ideig-nem-juthatnak-kolcsonhoz-1125689",
+        "h1": "Így néz ki a bankok feketelistája: ezek a magyarok biztos hogy jó ideig nem juthatnak kölcsönhöz",
+        "txtlength": 19250
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/global/20220610/durvan-egymasnak-esett-ket-nato-tagallam-felrobbanhat-a-katonai-szovetseg-549255",
+        "h1": "Durván egymásnak esett két NATO-tagállam – Felrobbanhat a katonai szövetség?",
+        "txtlength": 18022
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20220611/feleled-az-orok-vita-a-horvat-tengerparton-vagy-a-balatonon-olcsobb-a-nyaralas-549743",
+        "h1": "Feléled az örök vita! A horvát tengerparton vagy a Balatonon olcsóbb a nyaralás?",
+        "txtlength": 16772
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/kozelet/20220609/a-magyar-vasarlok-harmada-ugy-erzi-piaci-aron-nem-tudna-megvenni-az-arstopos-elelmiszert/",
+        "h1": "A magyar vásárlók harmada úgy érzi, piaci áron nem tudná megvenni az árstopos élelmiszert",
+        "txtlength": 15250
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/utazas/hasznalt-auto-vasarlas/",
+        "h1": "Pofátlanul verhetnek át használtautó-vásárlásnál, ha nem figyelsz: néhány kattintással kideríthető a kártörténet",
+        "txtlength": 11445
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/testem/ferfi-fogamzasgatlas/",
+        "h1": "férfi fogamzásgátlás",
+        "txtlength": 10990
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/lajfhekk/rovarok-a-lakasban/",
+        "h1": "rovarok a lakásban",
+        "txtlength": 10355
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kultura/2022/06/11/herve-le-tellier-interju-anomalia-sci-fi-irodalom-bestseller-regeny-szimulacio-metaverzum-virtualis-valosag/",
+        "h1": "A reménynél nincs veszélyesebb, mert elhiteti velünk, hogy a bajok maguktól megoldódnak",
+        "txtlength": 25483
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kulfold/2022/06/10/ungvary-krisztian-ukrajna-andrij-szibiha-kover-laszlo",
+        "h1": "Ungváry Krisztián: Az emlékezet felelőssége a magyar–ukrán viszonyban",
+        "txtlength": 21217
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/tudomany/2022/06/11/napoleon-forradalom-diktator-tortenelem/",
+        "h1": "Így lett Napóleon forradalmárból diktátor",
+        "txtlength": 20844
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/szorakozas/2022/06/10/ozora-daad-gathering-fesztival-interju",
+        "h1": "Magyarország egyik legjobban titkolt fesztiválos sikersztorija meghódítaná a techno világát is",
+        "txtlength": 19005
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/kkv/20220610_rezsicsokkentes_kkv_kisvallalkozas_csaladi_vallalkozas_otthoni_szekhely",
+        "h1": "Rettegnek a kiscégek, hogy kimaradnak az Orbán által belengetett százezres körből",
+        "txtlength": 17671
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/politika/lendvai-ildiko-kkarrier-csalad-vagyon/fcv1mvr?sl_ps=d_10",
+        "h1": "„Nagy hülye voltam” – Lendvai Ildikó a vagyonáról, a plasztikáról, Kovács Lászlóról és a családjáról is vallott a Blikknek",
+        "txtlength": 17083
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kulfold/2022/06/11/orosz-ukran-haboru-108-nap-percrol-percre-tudositas",
+        "h1": "Kiadták az első orosz útleveleket Herszon és Zaporizzsja megyékben",
+        "txtlength": 16211
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/sport/2022/06/11/kezilabda-kiril-lazarov-visszavonul/",
+        "h1": "„Ez nem a vég, csak egy búcsú” – visszavonul minden idők egyik legjobb kézilabdázója",
+        "txtlength": 14234
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/eurologus/20220610_Brusszel_mentoovet_dobna_a_magyar_kormanynak",
+        "h1": "Brüsszel mentőövet dobna a magyar kormánynak",
+        "txtlength": 12867
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/kkv/20220611_Nehezen_tudnak_fellepni_a_magyar_kiadok_a_Googlelel_szemben",
+        "h1": "Nehezen tudnak fellépni a magyar kiadók a Google-lal szemben",
+        "txtlength": 12780
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/06/10/szeleskoru-energetikai-megallapodast-irt-ala-magyarorszag-es-szerbia",
+        "h1": "Széleskörű energetikai megállapodást írt alá Magyarország és Szerbia",
+        "txtlength": 11222
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/26000-forintbol-strandolhat-egy-napot-egy-csalad/csfy6ly?sl_ps=d_11",
+        "h1": "26000 forintba kerül egy nap strandolás: nem Dubajban, hanem Budapesten és a Balatonon néztünk szét",
+        "txtlength": 10707
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/06/10/pont-most-iteltek-45-ev-bortonre-azt-a-ferfit-aki-rezsicsokkento-rendszer-kiepitesevel-es-olcso-repulojegyekkel-trukkozott",
+        "h1": "Pont most ítélték 4,5 év börtönre azt a férfit, aki „rezsicsökkentő” rendszer kiépítésével és olcsó repülőjegyekkel trükközött",
+        "txtlength": 10366
+    },
+    {
+        "hostname": "nosalty.hu",
         "pagelink": "https://www.nosalty.hu/recept/cseresznyes-pite-gizi-konyhajabol",
         "h1": "Cseresznyés pite Gizi konyhájából",
         "txtlength": 13173
