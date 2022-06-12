@@ -1,5 +1,173 @@
 [
     {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/mediterran-toltott-csirkemell-zoldseges-martogatossal.recept",
+        "h1": "MEDITERRÁN CSIRKEMELL SALÁTÁVAL ÉS ZÖLDSÉGES MÁRTOGATÓSSAL",
+        "txtlength": 12520
+    },
+    {
+        "hostname": "hataratkelo.blog.hu",
+        "pagelink": "https://hataratkelo.blog.hu/2022/06/05/ujabb_otlet_a_hataratkelok_visszacsabitasara#c41445479",
+        "h1": "Újabb ötlet a határátkelők visszacsábítására",
+        "txtlength": 46921
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/global/20220612/bizonytalan-bizalom-egy-csatat-megnyert-de-a-downing-street-10-ert-folytatott-haborut-elveszitheti-johnson-550073",
+        "h1": "Bizonytalan bizalom: egy csatát megnyert, de a Downing Street 10-ért folytatott háborút elveszítheti Johnson",
+        "txtlength": 25727
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220605_oroszorszag_nagy_katalin_ii_katalin_dinnyes_patrik_orosz_tortenelem_lengyelorszag_krim",
+        "h1": "Így betonozta be nagyhatalmi helyzetét Oroszország – Nagy Katalin és a 18. század",
+        "txtlength": 24593
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220611_herzl_tivadar_naplo",
+        "h1": "Aki megálmodta Izraelt – megjelent magyarul Herzl Tivadar naplója",
+        "txtlength": 23737
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220609_emberkereskedelem_de_coll_agnes",
+        "h1": "Így találják magukat a háború elől menekülők a szexiparban",
+        "txtlength": 23094
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/vallalkozas/20220612/magyar-kozossegi-finanszirozas-mi-a-kozossegi-finanszirozas-fogalma-lenyege-mit-kell-tudni-rola-1125795",
+        "h1": "Magyar közösségi finanszírozás: mi a közösségi finanszírozás fogalma, lényege, mit kell tudni róla?",
+        "txtlength": 20729
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/uzlet/20220612/egyszer-eljon-az-uzemanyagar-sokk-pillanata-es-akkor-ez-lesz-a-menedek-550133",
+        "h1": "Egyszer eljön az üzemanyagár-sokk pillanata és akkor ez lesz a menedék?",
+        "txtlength": 19453
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/utazas/20220611/10-titkos-termeszetes-strand-magyarorszagon-hihetetlenul-olcso-es-keves-a-turista-1125800",
+        "h1": "10 titkos, természetes strand Magyarországon: hihetetlenül olcsó és kevés a turista",
+        "txtlength": 17568
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/krtk/20220611/az-orban-kormany-nagyon-szereti-a-nemet-multikat-es-a-szimpatia-kolcsonos-549975",
+        "h1": "Az Orbán-kormány nagyon szereti a német multikat: és a szimpátia kölcsönös",
+        "txtlength": 16024
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/podcast/20220611/g7-podcast-a-klimacelokat-es-a-jo-gazdasagi-kilatasokat-is-bukhatjuk-az-energiavalsag-miatt/",
+        "h1": "G7 Podcast: A klímacélokat és a jó gazdasági kilátásokat is bukhatjuk az energiaválság miatt",
+        "txtlength": 15110
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/adat/20220612/mereseink-szerint-25-szazalekra-gyorsult-az-elelmiszer-inflacio/",
+        "h1": "Méréseink szerint 25 százalékra gyorsult az élelmiszerek inflációja",
+        "txtlength": 13324
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/szuloseg/egyedulallo-szulo-kieges/",
+        "h1": "egyedülálló szülő kiégés gyereknevelés",
+        "txtlength": 12716
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2022/06/11/hodot-lattal-jelentsd-fel",
+        "h1": "HÓDOT LÁTTÁL? JELENTSD FEL!",
+        "txtlength": 12715
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/egeszseg/cukorbeteg-labapolas-nyaron/",
+        "h1": "5 fontos tanács cukorbetegeknek a nyári lábápoláshoz: ezekre muszáj figyelniük a szakorvos szerint",
+        "txtlength": 11068
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20220611_Ferencvaros_komplex_ovoda_autista",
+        "h1": "“A kerítés mögül nézték a nyomorult kis udvarukról, ahogy a többieknek gyereknap van”",
+        "txtlength": 20960
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/szorakozas/2022/06/11/csak-a-maffia-jott-ki-jol-a-mely-torokbol",
+        "h1": "Csak a maffia jött ki jól a Mély torokból",
+        "txtlength": 17452
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/politika/lendvai-ildiko-kkarrier-csalad-vagyon/fcv1mvr",
+        "h1": "„Nagy hülye voltam” – Lendvai Ildikó a vagyonáról, a plasztikáról, Kovács Lászlóról és a családjáról is vallott a Blikknek",
+        "txtlength": 17006
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/elet-stilus/2022/06/12/csatorna-szennyviz-riport-budapest/",
+        "h1": "Mi folyik a lábunk alatt? Térdig ereszkedtünk a főváros alatti szennyvízbe",
+        "txtlength": 16282
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kulfold/2022/06/12/macron-franciaorszag-valasztas-nemzetgyules-melenchon-szelsobal-osszefogas-kormanytobbseg",
+        "h1": "A szélsőjobb után most a szélsőbal fenyegeti Macront",
+        "txtlength": 15721
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kultura/2022/06/12/moldova-gyorgy-kalina-pal-idegen-bajnok-matine/",
+        "h1": "Moldova György ismét Kalina Pállal sörözik",
+        "txtlength": 15558
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/gazdasag/20220612_Es_akkor_Ryanair_kulonado_koltsegvetes_inflacio",
+        "h1": "És akkor a Ryanair felzárkózott Soros György mellé a kormány kedvenc ellenségeinek listáján",
+        "txtlength": 13949
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2022/06/12/veszelyhelyzet-alaptorveny-rendeleti-kormanyzas-sandor-zsuzsa-velemeny/",
+        "h1": "A veszélyhelyzet lett gránitszilárdságú az Alaptörvény helyett",
+        "txtlength": 13841
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kulfold/2022/06/12/orosz-ukran-haboru-109-nap-percrol-percre-tudositas-elo",
+        "h1": "Kigyulladt a szeverodonyecki vegyi üzem, ahol több száz civil bujkál",
+        "txtlength": 13747
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/06/12/von-der-leyen-kijevbe-latogatott-es-megigerte-hogy-mar-a-jovo-heten-beajanljak-ukrajnat-az-europai-unioba",
+        "h1": "Von der Leyen Kijevbe látogatott és megígérte, hogy már a jövő héten beajánlják Ukrajnát az Európai Unióba",
+        "txtlength": 12189
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/gazdasag/20220612_gupta_zuma_del_afrika",
+        "h1": "Fényűzésből fogságba, avagy így múlik el egy bukott rendszer oligarcháinak dicsősége",
+        "txtlength": 11724
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/06/12/jobban-keres-szollosi-gyorgy-puskas-ferenc-hagyatekan-mint-a-focista-sajat-csaladja",
+        "h1": "Jobban keres Szöllősi György Puskás Ferenc hagyatékán, mint a focista saját családja",
+        "txtlength": 11344
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/brutalis-szamok-rezsi-ara-csokkentes-nelkul/wfp432e?sl_ps=d_10",
+        "h1": "Brutális számok: ennyi lenne a rezsink a csökkentés nélkül",
+        "txtlength": 7492
+    },
+    {
         "hostname": "nosalty.hu",
         "pagelink": "https://www.nosalty.hu/recept/legegyszerubb-cseresznyebefott-eltevese",
         "h1": "Legegyszerűbb cseresznyebefőtt eltevése",
