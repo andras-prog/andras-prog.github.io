@@ -1,5 +1,185 @@
 [
     {
+        "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/edesmama-meggyes-piteje",
+        "h1": "Édesmama meggyes pitéje",
+        "txtlength": 14609
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/glutenmentes-kakaos-csiga-video.recept",
+        "h1": "GLUTÉNMENTES KAKAÓS CSIGA",
+        "txtlength": 11664
+    },
+    {
+        "hostname": "hataratkelo.blog.hu",
+        "pagelink": "https://hataratkelo.blog.hu/2022/06/05/ujabb_otlet_a_hataratkelok_visszacsabitasara#c41446525",
+        "h1": "Újabb ötlet a határátkelők visszacsábítására",
+        "txtlength": 47406
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220611_marki_zay_peter_valasztas_kudarc_elemzes",
+        "h1": "Ezért sem jött össze Márki-Zay Péternek a győzelem",
+        "txtlength": 24997
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220608_makronom_extraprofitado",
+        "h1": "Adózik az extraprofit: morálisan helyes, gazdaságilag szükséges",
+        "txtlength": 23688
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220607_pesti_also_rakpart_karacsony_gergely_fopolgarmester_fovaros_budapest_balogh_samu_kabinetfonok_bkik_magyar_autoklub_belfold",
+        "h1": "Karácsonyék ragaszkodnak a pesti rakpart lezárásához, az autósok tiltakoznak",
+        "txtlength": 23011
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/kozelet/20220613/a-noverhiany-mar-napi-szinten-veszelyezteti-a-betegellatast/",
+        "h1": "A nővérhiány már napi szinten veszélyezteti a betegellátást",
+        "txtlength": 20394
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/penz/20220612/a-forintvaluta-mint-tartos-versenyhatrany/",
+        "h1": "A forintvaluta mint tartós versenyhátrány",
+        "txtlength": 19925
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20220613/bod-peter-akos-mi-a-baj-a-forinttal-550159",
+        "h1": "Bod Péter Ákos: Mi a baj a forinttal?",
+        "txtlength": 19106
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/uzlet/20220613/folytatodik-az-eses-globalis-eladasi-hullam-sopor-vegig-a-tozsdeken-550207",
+        "h1": "Folytatódik az esés, globális eladási hullám söpör végig a tőzsdéken ",
+        "txtlength": 18655
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20220613/oriasi-szukseg-van-a-szakdolgozokra-az-egeszsegugyben-interju-549799",
+        "h1": "Óriási szükség van a szakdolgozókra az egészségügyben (Interjú)",
+        "txtlength": 18074
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/gazdasag/20220612/nagyon-mellelottek-sokkal-magasabb-a-magyar-inflacio-mint-az-oecd-remelte-1125793",
+        "h1": "Nagyon mellélőttek: sokkal magasabb a magyar infláció, mint az OECD remélte",
+        "txtlength": 16358
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/vasarlas/20220611/fogadjunk-eddig-rosszul-sutotted-a-rantottat-szuperdraga-a-tojas-nem-lehet-hibazni-1125752",
+        "h1": "Fogadjunk, eddig rosszul sütötted a rántottát: szuperdrága a tojás, nem lehet hibázni",
+        "txtlength": 15552
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/testem/testszor-szakall-politika/",
+        "h1": "szakáll testszőr politika",
+        "txtlength": 12266
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/gyerek/fiatalkori-ongyilkossagok-okai/",
+        "h1": "Fiatalkori öngyilkosság: ezek az okok vezetnek tragédiához a szakértők szerint",
+        "txtlength": 11488
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2022/06/12/ketfajta-nagy-tudos-letezik-a-zseni-es-a-varazslo",
+        "h1": "KÉTFAJTA NAGY TUDÓS LÉTEZIK: A ZSENI ÉS A VARÁZSLÓ",
+        "txtlength": 10256
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/lajfhekk/elelmiszer-dragulas/",
+        "h1": "Élelmiszer drágulás",
+        "txtlength": 9531
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kultura/2022/06/13/magyarorszag-filmgyartas-forgatas-filmipar/",
+        "h1": "Százezres napibéreket aligha, kemény munkát viszont ígér a hazai filmipar, mégis lehet szerelemből csinálni",
+        "txtlength": 28610
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/velemeny/2022/06/12/orosz-ukran-valsag-ortodox-haboru-patriarka",
+        "h1": "Operatív orosz ortodoxia: kettős kereszt – kettős szerepben",
+        "txtlength": 24685
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/szorakozas/2022/06/12/stranger-things-2022-kate-bush-running-up-that-hill-zenei-toplistak/",
+        "h1": "Úgy került most a toplisták élére a Stranger Things zenéje, hogy 1985-ben még a klipjét sem akarták leadni",
+        "txtlength": 18090
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/elet/20220610_Szines_szagos_es_illegalis_de_egyre_tobb_tini_szivja",
+        "h1": "Színes, szagos és illegális, de egyre több tini szívja",
+        "txtlength": 16472
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/belfold/2022/06/13/szuleszet-halapenz-nok-korhaz-orvosok-tasz-masallapotot-a-szuleszetben",
+        "h1": "Közel másfél év után sem oldódott meg a hálapénz kérdése a szülészeten",
+        "txtlength": 14240
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kultura/2022/06/12/podcast-filezo-herczeg-zoltan/",
+        "h1": "Ha Jesolóban nem lehet megoldani az egészéves vendéglátást, akkor a Balatonon is nehéz lesz",
+        "txtlength": 13760
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kulfold/2022/06/13/orosz-ukran-haboru-110-nap-percrol-percre-tudositas-elo",
+        "h1": "Háborús bűnöket követett el Harkivban Oroszország az Amnesty jelentése szerint",
+        "txtlength": 13728
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/06/13/21-ezer-szavazattal-nyerte-a-francia-valasztasok-elso-fordulojat-macron-partja",
+        "h1": "21 ezer szavazattal nyerte a francia választások első fordulóját Macron pártja",
+        "txtlength": 11570
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/06/13/viccnek-durva-lenne",
+        "h1": "Viccnek durva lenne",
+        "txtlength": 11422
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/kultura/20220612_Hogy_lehet_ugy_tulelni_ha_senki_nem_bizhat_senkiben__Kulka_Janos_visszatert_es_jol_tette",
+        "h1": "Hogy lehet úgy élni, ha senki nem bízhat senkiben? – Kulka János visszatért, és jól tette",
+        "txtlength": 11392
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/vilag/20220613_Liszicsanszk_vedelmere_keszulnek_az_ukranok_Kim_Dzsongun_tamogatja_Putyint__percrol_percre_a_haborurol",
+        "h1": "Liszicsanszk védelmére készülnek az ukránok, Kim Dzsongun támogatja Putyint – percről percre a háborúról",
+        "txtlength": 11174
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/xii-kerulet-koka-janos-telekmegosztas-kiszolgalo-ut-kisajatitas-lakok-panasza/0tg3pkt?sl_ps=d_12",
+        "h1": "Szomszédháború! A telkéhez vezető út miatt harcol a lakókkal Kóka János volt miniszter",
+        "txtlength": 9957
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/koltsegvetes-kiigazitas-adoemeles-afa/g32y5rl?sl_ps=d_11",
+        "h1": "Brutális adóbeszedés jön: az áfát is emelhetik? A kormány jövőre rengeteg pénzt szedhet be az emberektől",
+        "txtlength": 8542
+    },
+    {
         "hostname": "mindmegette.hu",
         "pagelink": "https://www.mindmegette.hu/mediterran-toltott-csirkemell-zoldseges-martogatossal.recept",
         "h1": "MEDITERRÁN CSIRKEMELL SALÁTÁVAL ÉS ZÖLDSÉGES MÁRTOGATÓSSAL",
