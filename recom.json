@@ -1,5 +1,179 @@
 [
     {
+        "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/legegyszerubb-meggyes-kevert",
+        "h1": "Legegyszerűbb meggyes kevert",
+        "txtlength": 10195
+    },
+    {
+        "hostname": "hataratkelo.blog.hu",
+        "pagelink": "https://hataratkelo.blog.hu/2022/06/05/ujabb_otlet_a_hataratkelok_visszacsabitasara",
+        "h1": "Újabb ötlet a határátkelők visszacsábítására",
+        "txtlength": 47737
+    },
+    {
+        "hostname": "kulturpart.hu",
+        "pagelink": "https://kulturpart.hu/2022/06/13/gitarral_unneplik_a_forradalmi_regenyt",
+        "h1": "GITÁRRAL ÜNNEPLIK A FORRADALMI REGÉNYT",
+        "txtlength": 6149
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220614_magyarorszag_rengeteget_adott_nekem",
+        "h1": "„Magyarország rengeteget adott nekem!” – Marco Rossi a Mandinernek",
+        "txtlength": 26635
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/otthon/20220613/beutott-a-legkondi-krach-magyarorszagon-iden-nyarra-bukja-a-husolest-aki-keson-lepett-1125695",
+        "h1": "Beütött a légkondi-krach Magyarországon: idén nyárra bukja a hűsölést, aki későn lépett",
+        "txtlength": 24856
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vallalat/20220615/kirohogtek-a-versenytarsai-ma-mar-a-fel-orszag-az-o-automatait-hasznalja/",
+        "h1": "Kiröhögték a versenytársai, ma már a fél ország az ő automatáit használja",
+        "txtlength": 23318
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/nyugdij/20220613/embertelen-dragulas-csap-le-a-magyar-idosekre-az-igazi-bojt-csak-most-kezdodik-1125829",
+        "h1": "Embertelen drágulás csap le a magyar idősekre: az igazi böjt csak most kezdődik",
+        "txtlength": 19583
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220615_europa_rosszul_amerika_jol_jarna_az_orosz_gazembargoval_energiajogasz_a_mandinernek",
+        "h1": "Európa rosszul, Amerika jól járna az orosz gázembargóval – energiajogász a Mandinernek",
+        "txtlength": 19052
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://sport.mandiner.hu/cikk/20220614_anglia_magyarorszag_nemzetek_ligaja_merkozes_0_0_elo_kozvetites",
+        "h1": "A Nemzetek Ligája legnagyobb meglepetése: Anglia – Magyarország 0-4 – ÉLŐ KÖZVETÍTÉS!",
+        "txtlength": 18003
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/uzlet/20220615/indul-a-visszaszamlalas-a-het-esemenye-elott-emelkednek-a-tozsdek-550713",
+        "h1": "Indul a visszaszámlálás a hét eseménye előtt, emelkednek a tőzsdék ",
+        "txtlength": 17028
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/tamogatoi-tartalom/20220615/magyarorszag-foldgazipara-oriasi-elony-de-nem-feltetlenul-a-foldgazhoz/",
+        "h1": "Magyarország földgázipara óriási előny, de nem feltétlenül a földgázhoz",
+        "txtlength": 16376
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2022/06/15/olyan-gyerek-akinek-kozmunkasok-a-szulei-hat-olyan-itt-nincs",
+        "h1": "OLYAN GYEREK, AKINEK KÖZMUNKÁSOK A SZÜLEI, HÁT OLYAN ITT NINCS",
+        "txtlength": 16160
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20220615/ket-tuz-kozott-a-fed-550693",
+        "h1": "Két tűz között a Fed",
+        "txtlength": 14386
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/uzlet/20220615/egy-font-hus-eljott-a-buntetes-ideje-csak-a-rossz-es-rosszabb-kozul-lehet-valasztani-550763",
+        "h1": "Egy font hús - Eljött a büntetés ideje, csak a rossz és rosszabb közül lehet választani",
+        "txtlength": 13599
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/utazas/repulojegy-ar-emeles-kulonado-miatt/",
+        "h1": "Több légitársaság is emel a jegyárain: az utasok fizetik meg a rájuk rótt különadót",
+        "txtlength": 10409
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/lajfhekk/gaztuzhely-veszely/",
+        "h1": "Gáztűzhely veszély",
+        "txtlength": 8508
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/komplex/2022/06/15/elon-musk",
+        "h1": "\n      A világ legérdekesebb embere\n    ",
+        "txtlength": 37801
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/gazdasag/20220615_koltsegvetes_inflacio_nyertesek_2023",
+        "h1": "Könnyű azt mondani, hogy mindenre több pénz jut: összeszámoltuk, mire költ el jövőre a kormány 33 328 milliárd forintot",
+        "txtlength": 19249
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kulfold/2022/06/15/eu-fidesz-europai-parlament-szovetseg-euroszekpticizmus-ecr-id",
+        "h1": "Furcsa békemisszió és üres nyilatkozatok a Fidesz uniós barátkozásában",
+        "txtlength": 18668
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/szorakozas/2022/06/14/disney-plus-streaming-marvel-pixar-star-wars-national-geographic",
+        "h1": "Irtózatos mennyiségű tartalommal és néhány furcsa hiányossággal érkezett meg a Disney+",
+        "txtlength": 17831
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/gazdasag/20220614_michael_oleary_ryanair_interju",
+        "h1": "A Ryanair vezére a hvg.hu-nak: Minden bizonnyal ritkítani fogjuk a budapesti járatok számát",
+        "txtlength": 14982
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2022/06/15/legitarsasag-ado-europa-korkep-utasok-atharitas-ryanair-wizzair/",
+        "h1": "Előre láthatta a kormány, hogy a légitársaság-adót ráterhelik az utasokra",
+        "txtlength": 14927
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2022/06/15/orosz-ukran-haboru-menekultek-szama-nepszamlalas-helsinki/",
+        "h1": "Milliós ukrán menekülttömegre hivatkozik a kormány, védelmet csak töredékük kér a magyar hatóságoktól",
+        "txtlength": 13335
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/sport/20220615_Csoda_Angliaban_a_69_eves_rekord_megdontesenel_mar_csak_a_csapat_moralja_er_tobbet",
+        "h1": "Csoda Angliában: a 69 éves rekord megdöntésénél már csak a csapat morálja ér többet",
+        "txtlength": 11252
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2022/06/15/pegasus-ugy-nyomozas-megszuntettek-ugyeszseg/",
+        "h1": "Ügyészség: Nem történt jogosulatlan megfigyelés a Pegasus-ügyben",
+        "txtlength": 10824
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/06/15/egy-orult-nap-kronikaja",
+        "h1": "Egy őrült nap krónikája",
+        "txtlength": 10747
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/06/15/nemetorszagban-ujra-covid-jarvany-fenyeget-visszavezethetik-a-belteri-maszkviselest",
+        "h1": "Németországban újra Covid-járvány fenyeget: visszavezethetik a beltéri maszkviselést",
+        "txtlength": 10496
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/sztarvilag/filmklikk/jurassic-world-vilaguralom-filmajanlo-tvr-het-ajanlja/qe5bygf",
+        "h1": "Amikor a dinoszaurusz a király – Jurassic World: Világuralom",
+        "txtlength": 9075
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/pegasus-ugy-fougyeszseg-nyomozas-megfigyels/sjq05e1",
+        "h1": "Az ügyészség szerint nem történt jogosulatlan megfigyelés a Pegasus-ügyben",
+        "txtlength": 7414
+    },
+    {
         "hostname": "mindmegette.hu",
         "pagelink": "https://www.mindmegette.hu/tejfolos-savanyu-burgonyaleves.recept",
         "h1": "TEJFÖLÖS-SAVANYÚ BURGONYALEVES",
