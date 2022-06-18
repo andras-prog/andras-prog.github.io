@@ -1,6 +1,180 @@
 [
     {
         "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/egyszeru-meggyes-pite",
+        "h1": "Egyszerű meggyes pite",
+        "txtlength": 12857
+    },
+    {
+        "hostname": "kiszamolo.hu",
+        "pagelink": "https://kiszamolo.hu/napi-abra-melyik-a-legboldogtalanabb-nep/",
+        "h1": "Napi ábra: melyik a legboldogtalanabb nép?",
+        "txtlength": 32739
+    },
+    {
+        "hostname": "efesasanisimasa.com",
+        "pagelink": "https://efesasanisimasa.com/2022/06/16/euforia-euphoria-tv-series-2019/",
+        "h1": "Eufória (Euphoria, TV Series, 2019-)",
+        "txtlength": 8810
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://precedens.mandiner.hu/cikk/20220618_kolumbia_trump_valasztas_jobboldal_baloldal_gerilla_korrupcio_mainstream",
+        "h1": "Kolumbia elnököt választ: Baloldali ex-gerilla jöjjön vagy egy \"mini Trump\"?",
+        "txtlength": 25878
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220616_erzekenyit_az_elte_egyik_kara_tobb_tizezren_szolalnak_fel_ellene",
+        "h1": "Érzékenyít az ELTE egyik kara, több tízezren szólalnak fel ellene",
+        "txtlength": 23171
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vilag/20220617/europa-bukik-tobbet-ha-putyin-elzarja-a-gazcsapot/",
+        "h1": "Európa bukik többet, ha Putyin elzárja a gázcsapot",
+        "txtlength": 22234
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20220618/megjottek-a-mikrovallalkozasok-rezsicsokkentesenek-reszletei-551393",
+        "h1": "Megjöttek a mikrovállalkozások rezsicsökkentésének részletei",
+        "txtlength": 20158
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/adat/20220616/hogyan-lehet-sikeresebb-egy-magyar-futballklub-az-uzleti-kapcsolatai-fejlesztesevel/",
+        "h1": "Hogyan lehet sikeresebb egy magyar futballklub az üzleti kapcsolatai fejlesztésével?",
+        "txtlength": 19515
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/global/20220618/nem-zorog-a-haraszt-negy-hatalmas-autoipari-beruhazasrol-is-suttognak-magyarorszagon-551081",
+        "h1": "Nem zörög a haraszt: négy hatalmas autóipari beruházásról is suttognak Magyarországon",
+        "txtlength": 18767
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220617_vlagyimir_putyin_beszed_ukrajna_oroszorszag_kulfold",
+        "h1": "Putyin: Semmi sem lesz úgy, mint régen",
+        "txtlength": 17818
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/otthon/20220615/tenyleg-degeszre-kereshetik-magukat-a-klimasok-nyaron-hatalmas-ara-van-a-millios-fizetesnek-1125904",
+        "h1": "Tényleg degeszre kereshetik magukat a klímások nyáron: hatalmas ára van a milliós fizetésnek",
+        "txtlength": 16561
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/oktatas/20220613/a-magyar-diakokat-sem-kimeli-a-modern-nepbetegseg-ezekre-a-tunetekre-oda-kell-figyelni-1125843",
+        "h1": "A magyar diákokat sem kíméli a modern népbetegség: ezekre a tünetekre oda kell figyelni",
+        "txtlength": 16346
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20220617/arszabalyozas-hatosagi-ar-arstop-kisertet-jarja-be-europat-551133",
+        "h1": "Árszabályozás, hatósági ár, árstop – kísértet járja be Európát?",
+        "txtlength": 16029
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2022/06/17/kulonvelemeny-a-burjanzo-eroszaknak-ma-mar-csak-a-mesterseges-intelligencia-vethet-veget",
+        "h1": "KÜLÖNVÉLEMÉNY: A BURJÁNZÓ ERŐSZAKNAK MA MÁR CSAK A MESTERSÉGES INTELLIGENCIA VETHET VÉGET",
+        "txtlength": 14681
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/egeszseg/levendula-gyogyhatasai/",
+        "h1": "Nyugtató, görcsoldó, és a migrént is enyhíti: így fejti ki legjobban hatását a levendula",
+        "txtlength": 11759
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/szuloseg/szuloi-elidegenites-gyerek/",
+        "h1": "szülői elidegenítés gyerek",
+        "txtlength": 11414
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kulfold/2022/06/17/watergate-ugy-50-evfordulo-bob-woodward-carl-bernstein-konyv/",
+        "h1": "Mélytorok, végtelen számú interjú, vitatott módon megszerzett híváslisták – így tárta fel a Watergate-ügyet Bob Woodward és Carl Bernstein",
+        "txtlength": 22689
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/szorakozas/2022/06/18/1600-meter-magasbol-csobbantunk-a-tengerbe",
+        "h1": "1600 méter magasból csobbantunk a tengerbe",
+        "txtlength": 18675
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/gazdasag/2022/06/01/inflacio-statisztika-modszertan-ksh",
+        "h1": "Most akkor pontosan méri a KSH az inflációt, vagy sem?",
+        "txtlength": 17792
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/belfold/2022/06/18/kocsis-mate-javaslat-onkormanyzati-valasztas-ep-valasztas-egy-napon-2024",
+        "h1": "Kocsis Máté javaslata alaposan feladja a leckét az ellenzéki pártoknak",
+        "txtlength": 17696
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/sport/2022/06/17/telekom-veszprem-ferfi-kezilabda-bl-negyes-donto-kiel-kielce-barca-elozetes/",
+        "h1": "Kit érdekel az elbukott bajnoki döntő, ha a világ legjobbja lehet a Veszprém?",
+        "txtlength": 15943
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20220618_Negy_honap_alatt_55_milliot_egetett_el_a_nem_is_letezo_Fudan_Egyetemet_fenntarto_alapitvany",
+        "h1": "Négy hónap alatt 55 milliót égetett el a nem is létező Fudan Egyetemet fenntartó alapítvány",
+        "txtlength": 14839
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2022/06/18/vadaskert-alapitvany-autizmus-neurodevelopmentalis-osztaly/",
+        "h1": "„Amikor együtt van egy teremnyi gyerek, megremeg a levegő is attól, hogy ide mindenki győzni jött”",
+        "txtlength": 14114
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/cegauto/20220618_mennyire_izgalmas_egy_uj_opel_insignia_gsi_2022ben_kiprobaltuk",
+        "h1": "Mennyire izgalmas egy új Opel Insignia GSi 2022-ben? Kipróbáltuk!",
+        "txtlength": 13602
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/06/18/hetvegi-olvasnivalok-tankcsataktol-a-tankcsapdaig",
+        "h1": "Hétvégi olvasnivalók tankcsatáktól a Tankcsapdáig",
+        "txtlength": 12941
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/06/17/ujraindulhat-a-szalmonella-fertozes-miatt-leallitott-belga-csokoladegyar",
+        "h1": "Újraindulhat a szalmonella-fertőzés miatt leállított belga csokoládégyár",
+        "txtlength": 11027
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/vilag/20220618_orosz_ukran_haboru_vlagyimir_putyin_volodimir_zelenszkij_115_nap",
+        "h1": "Erősebben támadják Izjumot az oroszok, hónapok után engedtek el az oroszok egy ukrán mentőt – hírek az orosz–ukrán háborúról",
+        "txtlength": 10626
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/sivatag-fulophaza-dune-homok-termeszetvedelmi-ritkasag-bucka-szahara/lrl4nqn",
+        "h1": "Íme, a magyar falu, amelyiknek saját sivataga van: bemutatjuk a kiskunsági Szaharát",
+        "txtlength": 10432
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/kulfold/orosz-ukran-haboru-orosz-ukran-konfliktus-nemzetkozi-gazdasagi-forum-putyin-nyugat/7e628e6",
+        "h1": "Rendkívüli – Itt van Putyin hátborzongató beszéde: az egész világot érintő dolgokat jelentett be az orosz elnök ma Szentpéterváron",
+        "txtlength": 10268
+    },
+    {
+        "hostname": "nosalty.hu",
         "pagelink": "https://www.nosalty.hu/recept/cseresznyedzsem-egyszeruen",
         "h1": "Cseresznyedzsem egyszerűen",
         "txtlength": 9802
