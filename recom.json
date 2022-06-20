@@ -1,5 +1,191 @@
 [
     {
+        "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/lecso-alaprecept-geo-konyhajabol",
+        "h1": "Lecsó alaprecept geo konyhájából",
+        "txtlength": 13182
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/klasszikus-ludlab-torta-video.recept",
+        "h1": "KLASSZIKUS LÚDLÁB TORTA",
+        "txtlength": 12059
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/konnyu-mascarpones-tejszines-epres-piskota-tekercs.recept",
+        "h1": "KÖNNYŰ TEJSZÍNES-EPRES PISKÓTATEKERCS",
+        "txtlength": 11426
+    },
+    {
+        "hostname": "hataratkelo.blog.hu",
+        "pagelink": "https://hataratkelo.blog.hu/2022/06/05/ujabb_otlet_a_hataratkelok_visszacsabitasara#c41454137",
+        "h1": "Újabb ötlet a határátkelők visszacsábítására",
+        "txtlength": 55147
+    },
+    {
+        "hostname": "kulturpart.hu",
+        "pagelink": "https://kulturpart.hu/2022/06/15/budapestre_erkezik_a_vilaghiru_muzsikus",
+        "h1": "BUDAPESTRE ÉRKEZIK A VILÁGHÍRŰ MUZSIKUS",
+        "txtlength": 6228
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220619_allohaborut_folytatunk_a_panik_ellen_piszichiater_a_mandinernek",
+        "h1": "Állóháborút folytatunk a pánik ellen – Birkás-Kováts Dezső pszichiáter a Mandinernek",
+        "txtlength": 33246
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220615_kozelet_jobbik_jakab_peter",
+        "h1": "A nép pártján, a nép nélkül – így omlott össze a Jobbik",
+        "txtlength": 28612
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220619_tudomannyal_a_tiszta_tudatert_eleteket_menthet_a_drogkutato_intezet",
+        "h1": "„Ellensúlyozni kell a rendkívül népszerű drogpárti narratívát”",
+        "txtlength": 22642
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vilag/20220620/nem-a-gaznal-a-legfajdalmasabb-a-szakitas-oroszorszaggal/",
+        "h1": "Nem a gáznál a legfájdalmasabb a szakítás Oroszországgal",
+        "txtlength": 22269
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/uzlet/20220620/sorra-vettuk-a-magyar-fejlodesi-celszamokat-magyarorszag-jobban-teljesit-528123",
+        "h1": "Sorra vettük a magyar fejlődési célszámokat - Magyarország jobban teljesít?",
+        "txtlength": 20853
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/bank/20220620/erkeznek-az-uj-hitelprogramok-mutatjuk-a-reszleteket-551483",
+        "h1": "Érkeznek az új hitelprogramok: mutatjuk a részleteket!",
+        "txtlength": 20697
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/otthon/20220620/egy-lepesre-vagyunk-a-nyugdijkatasztrofatol-erre-ramehet-az-idos-magyarok-haza-lakasa-is-1126093",
+        "h1": "Egy lépésre vagyunk a nyugdíjkatasztrófától: erre rámehet az idős magyarok háza, lakása is",
+        "txtlength": 19924
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.penzcentrum.hu/otthon/20220620/egy-lepesre-vagyunk-a-nyugdijkatasztrofatol-erre-ramehet-az-idos-magyarok-haza-lakasa-is-1126093",
+        "h1": "Egy lépésre vagyunk a nyugdíjkatasztrófától: erre rámehet az idős magyarok háza, lakása is",
+        "txtlength": 19717
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/vallalkozas/20220620/egyre-tobb-cegtulajdonos-ebred-ra-az-intezmenyi-tokebefektetes-elonyeire-1125989",
+        "h1": "Egyre több cégtulajdonos ébred rá az intézményi tőkebefektetés előnyeire",
+        "txtlength": 17666
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/podcast/20220618/elkepesztoen-ritka-hogy-valaki-csak-egy-innovativ-otletbol-meggazdagodva-kerult-a-globalis-elitbe/",
+        "h1": "Elképesztően ritka, hogy valaki csak egy innovatív ötletből meggazdagodva került a globális elitbe",
+        "txtlength": 17663
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/szuloseg/terhesseg-tanc/",
+        "h1": "terhesség tánc",
+        "txtlength": 13136
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/utazas/szegedi-szabadteri-jatekok-2022-programajanlo/",
+        "h1": "Szegeden nyáron egy percet sem unatkozhatsz: a Szegedi Szabadtéri Játékok idén is kihagyhatatlan program",
+        "txtlength": 12672
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2022/06/15/ha-valaki-annyiszor-akarna-vercukrot-merni-mint-ez-az-uj-szenzor-naponta-1440-szer-kellene-megszurnia-az-ujjat",
+        "h1": "HA VALAKI ANNYISZOR AKARNA VÉRCUKROT MÉRNI, MINT EZ AZ ÚJ SZENZOR, NAPONTA 1440-SZER KELLENE MEGSZÚRNIA AZ UJJÁT",
+        "txtlength": 10477
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kultura/2022/06/20/szabo-laszlo-interju-kulturpolitika-saul-fia-mephisto-oscar-dij-rapport-richard-sakk-atigazolas/",
+        "h1": "Szabó László: A Saul fia nem azt mutatja, hogy a világ legjobb dolga magyarnak lenni?",
+        "txtlength": 29646
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/elet-stilus/2022/06/19/varazsgomba-pszichedelikus-terapia/",
+        "h1": "„Ha segítesz magadon, a varázsgomba is megsegít”",
+        "txtlength": 23932
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/gazdasag/2022/06/20/hulladek-koncesszio-mol-ujrahasznositas-egeto-lerako",
+        "h1": "Mit akar kezdeni a Mol a szemetünkkel 35 évig?",
+        "txtlength": 19745
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2022/06/20/globalis-minimumado-kulonado-magyarorszag-kormany-szijjarto-peter-gazdasag-adopolitika-pogatsa-zoltan/",
+        "h1": "Az Orbán-kormány különadókat vet ki a háború okozta válság miatt, majd ugyanerre hivatkozva söpri el a globális minimumadót",
+        "txtlength": 16711
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/gazdasag/20220620_kata_ado_valtoztatas",
+        "h1": "Sokan csalnak a katával és ideje áthangolni, de a kormány nem a finom változtatás híve",
+        "txtlength": 16026
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/elet/20220619_olvasasi_szokasok_empatia_irodalomterapia_konyv_tablet",
+        "h1": "Már nemcsak az időnk, a képességünk is hiányzik a komplexebb szövegek befogadásához",
+        "txtlength": 15239
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kulfold/2022/06/20/orosz-ukran-haboru-117-nap-percrol-percre-elo-hirfolyam-tudositas",
+        "h1": "Zelenszkij az orosz támadások fokozódására számít, kilőtt orosz tankokat állítanának ki európai nagyvárosokban",
+        "txtlength": 14173
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kulfold/2022/06/19/franciaorszag-emmanuel-macron-melenchon-le-pen-nemzetgyules-valasztas-kepviselok-tobbseg",
+        "h1": "Macronék végeztek az élen, de elbukták abszolút többségüket a francia nemzetgyűlési választáson",
+        "txtlength": 13193
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/06/20/orosz-tankok-a-mi-utcankban",
+        "h1": "Orosz tankok a mi utcánkban",
+        "txtlength": 11623
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/06/19/rashford-es-sancho-a-legtobb-gyalazkodas-celpontja-a-profi-fociban",
+        "h1": "Rashford és Sancho a legtöbb gyalázkodás célpontja a profi fociban",
+        "txtlength": 11093
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/gazdasag/20220620_nagy_marton_extraprofitado_kata",
+        "h1": "Nagy Márton: Néhány extraprofitadó más formában, de az eredetileg tervezettnél hosszabb távon fennmaradhat",
+        "txtlength": 11049
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/blikk-tv/aktualis/kulonleges-helyek-extrem-helyszinek-groupama-arena-tetotol-talpig/krx3cye?sl_ps=d_6",
+        "h1": "Különleges helyek, extrém helyszínek: megmutatjuk a Groupama Arénát tetőtől talpig – videó",
+        "txtlength": 9384
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/politika/orban-viktor-osregi-mobil-internet-lekapcsol/07gntfr?sl_ps=d_11",
+        "h1": "Eddig ragaszkodott a nehezen lehallgatható, ósdi készülékéhez: Orbán Viktor mobilján lekapcsolják az internetet",
+        "txtlength": 9240
+    },
+    {
         "hostname": "hataratkelo.blog.hu",
         "pagelink": "https://hataratkelo.blog.hu/2022/06/14/tenyleg_mindenhol_elnek_magyarok#c41453383",
         "h1": "Tényleg mindenhol élnek magyarok",
