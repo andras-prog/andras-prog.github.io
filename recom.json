@@ -1,6 +1,174 @@
 [
     {
         "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/cseresznyebefott-3-valtozatok-telire",
+        "h1": "Cseresznyebefőtt 3. - változatok télire",
+        "txtlength": 11914
+    },
+    {
+        "hostname": "hataratkelo.blog.hu",
+        "pagelink": "https://hataratkelo.blog.hu/2022/06/05/ujabb_otlet_a_hataratkelok_visszacsabitasara#c41455025",
+        "h1": "Újabb ötlet a határátkelők visszacsábítására",
+        "txtlength": 54079
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220618_kek_bolygo_alapitvany_fenntarthatosag_zold_szemlelet_kozepiskola_erettsegi_krakko_akos_interju",
+        "h1": "A fenntarthatóság ne divat, hanem életforma legyen – Krakkó Ákos a Mandinernek",
+        "txtlength": 24176
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220621_ukrajnai_haboru",
+        "h1": "Hogyan folytatódhat az ukrajnai háború?",
+        "txtlength": 21013
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/kozelet/20220620/a-kormany-meg-nem-beszel-recessziorol-de-az-elmult-evtizedekben-minden-kiigazitast-az-kovetett/",
+        "h1": "A kormány még nem beszél recesszióról, de az elmúlt évtizedekben minden kiigazítást az követett",
+        "txtlength": 20599
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220620_bulgaria_kormanyzat",
+        "h1": "Bukhat az amerikás bolgár kormány",
+        "txtlength": 20231
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/penz/20220621/5-honap-alatt-42-milliardot-bukott-az-allam-azon-hogy-hatosagi-arassa-tette-az-uzemanyagot/",
+        "h1": "5 hónap alatt 42 milliárdot bukott az állam azon, hogy hatósági árassá tette az üzemanyagot",
+        "txtlength": 19664
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/befektetes/20220621/megszolalt-a-diofa-alapkezelo-uj-vezere-oriasi-novekedesre-keszulnek-551527",
+        "h1": "Megszólalt a Diófa Alapkezelő új vezére: óriási növekedésre készülnek",
+        "txtlength": 19607
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/egeszseg/20220618/megdolt-a-nagy-alkohol-tevhit-nem-egeszsegesebb-az-aki-csak-igy-iszik-1126049",
+        "h1": "Megdőlt a nagy alkohol-tévhit: nem egészségesebb az, aki csak így iszik",
+        "txtlength": 17548
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/gazdasag/20220616/itt-a-tozsdeguruk-kisokosa-ha-ezeket-betartod-meg-kaszalhatsz-is-a-medvepiacon-1125977",
+        "h1": "Itt a tőzsdeguruk kisokosa: ha ezeket betartod, még kaszálhatsz is a medvepiacon",
+        "txtlength": 17037
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20220621/inflacio-es-400-forintos-euro-ki-birja-tovabb-a-berversenyt-551557",
+        "h1": "Infláció és 400 forintos euró: ki bírja tovább a bérversenyt?",
+        "txtlength": 16243
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/uzlet/20220621/javult-a-hangulat-a-tozsdeken-nagy-eses-utan-emelkednek-az-arfolyamok-551735",
+        "h1": "Javult a hangulat a tőzsdéken, nagy esés után emelkednek az árfolyamok ",
+        "txtlength": 15995
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/lajfhekk/grillezheto-etelek/",
+        "h1": "Grillezhető ételek",
+        "txtlength": 12960
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/egeszseg/koleszterincsokkento-dietak/",
+        "h1": "A 4 legjobb étrend, ami bizonyítottan csökkenti a koleszterinszintet: nem az önsanyargatásról szólnak",
+        "txtlength": 11359
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2022/06/20/ha-a-menekultek-befogadasarol-van-szo-a-magyarok-a-sereghajtok-koze-tartoznak",
+        "h1": "HA A MENEKÜLTEK BEFOGADÁSÁRÓL VAN SZÓ, A MAGYAROK A SEREGHAJTÓK KÖZÉ TARTOZNAK",
+        "txtlength": 10168
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/sport/2022/06/20/dr-csaba-arpad-magyar-sakkszovetseg-sakk-rapport-richard-balog-imre-sakkolimpia-2024/",
+        "h1": "„Rapport Richárd román színekben versenyzése csak a jéghegy csúcsa”",
+        "txtlength": 20443
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/gazdasag/2022/06/21/home-office-hibrid-munkavegzes-marad-a-covid-utani-irodapiac-es-munkaeropiac",
+        "h1": "Végleg búcsút mondhatunk a heti 40 órás irodában ülésnek",
+        "txtlength": 19862
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kulfold/2022/06/20/finnorsza-nato-csatlakozas-interju/",
+        "h1": "„A gázszállítás leállítása komoly lépés volt, de ezt az árat meg kell fizetni”",
+        "txtlength": 17701
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kulfold/2022/06/21/orosz-ukran-haboru-118-nap-percrol-percre-elo-hirfolyam-tudositas",
+        "h1": "Az oroszok szerint nincs is gabonaválság, és az árakat is a Nyugat hajtotta föl",
+        "txtlength": 15625
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2022/06/21/neveloszulo-ellatmany-allaskeresesi-jaradek-gyermekvedelmi-szolgaltato/",
+        "h1": "Álláskeresési járadékot igényelhetnek a nevelőszülők, hogy meg tudjanak élni",
+        "txtlength": 15129
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kulfold/2022/06/20/finnorszag-nato-oroszorszag-haboru-helsinki-media-piac-politikus-parlament-csatlakozas",
+        "h1": "Jobb most a NATO-n belül lenni, mint azon kívül – helyszíni riport Helsinkiből",
+        "txtlength": 14700
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/gazdasag/20220621_nyaralas_dragulas_turizmus",
+        "h1": "Azt hitte, csak a lángos ára nőtt az égig? Megnéztük, mennyivel drágul egy külföldi nyaralás",
+        "txtlength": 13623
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/penz/hitelmoratorium-nyilatkozat/8ym6zp2?sl_ps=d_10",
+        "h1": "Hitelesek, figyelem! Ezt a nyilatkozatot kell beadni a törlesztési moratórium folytatásához",
+        "txtlength": 13473
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/06/21/a-celtalan-orbanozas-vege-es-az-ev-sztalinista-erotikus-fan-fictionje",
+        "h1": "A céltalan orbánozás vége és az év sztálinista erotikus fan fictionje",
+        "txtlength": 13382
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/06/21/brutalis-tobb-mint-100-millio-dollarert-arvereztek-el-dmitrij-muratov-fuggetlen-orosz-ujsagiro-nobel-dijat",
+        "h1": "Hatalmas rekord: több mint 100 millió dollárért árverezték el Dmitrij Muratov független orosz újságíró Nobel-díját",
+        "txtlength": 11477
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/gazdasag/20220621_Eszaki_Aramlat_Gazprom_gazszallitas_gazimport",
+        "h1": "Ukrajna felajánlotta, hogy több orosz gázt enged Európába az Északi Áramlat 1 szűkülete miatt, de a Gazprom nem kért belőle",
+        "txtlength": 10262
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/vilag/20220621_orosz_ukran_haboru",
+        "h1": "Szeverodonyeck nagy része orosz kézre került, az élelmiszerválság megoldásáról tárgyalánának - A háború keddi eseményei",
+        "txtlength": 10129
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/kulfold/putyin-halozat-kozos-domain-lebukas-llcinvest-orosz-ukran-haboru/t8e9d38",
+        "h1": "Közös domainnel rendelkező e-mailek buktathatják le Putyin 4 és fél milliárd dolláros vagyonnal rendelkező hálózatát",
+        "txtlength": 8549
+    },
+    {
+        "hostname": "nosalty.hu",
         "pagelink": "https://www.nosalty.hu/recept/lecso-alaprecept-geo-konyhajabol",
         "h1": "Lecsó alaprecept geo konyhájából",
         "txtlength": 13182
