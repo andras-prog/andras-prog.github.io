@@ -1,6 +1,180 @@
 [
     {
         "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/nagyon-egyszeru-karalabeleves",
+        "h1": "Nagyon egyszerű karalábéleves",
+        "txtlength": 10617
+    },
+    {
+        "hostname": "hataratkelo.blog.hu",
+        "pagelink": "https://hataratkelo.blog.hu/2022/06/14/tenyleg_mindenhol_elnek_magyarok",
+        "h1": "Tényleg mindenhol élnek magyarok",
+        "txtlength": 47554
+    },
+    {
+        "hostname": "kulturpart.hu",
+        "pagelink": "https://kulturpart.blog.hu/2022/06/22/a_fesztival_ahol_megkertek_a_kezemet",
+        "h1": "A FESZTIVÁL, AHOL MEGKÉRTÉK A KEZEMET",
+        "txtlength": 10577
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220528_szkitak_szabo_gabor_karpat_medence_szkita_magyar_rokonsag",
+        "h1": "Szkíták nyomában a Kárpát-medencében – Szabó Gábor a Mandinernek",
+        "txtlength": 32305
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/karrier/20220621/erre-bizony-nem-keszit-fel-az-iskola-nagy-bajba-kerulhetnek-a-magyar-fiatalok-az-elso-munkahelyen-1126050",
+        "h1": "Erre bizony nem készít fel az iskola: nagy bajba kerülhetnek a magyar fiatalok az első munkahelyen",
+        "txtlength": 26544
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20220622/felforgatta-a-vilagot-a-keseru-jegybanki-felismeres-de-tenyleg-ekkora-a-baj-551831",
+        "h1": "Felforgatta a világot a keserű jegybanki felismerés - de tényleg ekkora a baj?",
+        "txtlength": 26164
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/kozelet/20220622/a-rendorseget-lehet-igy-hatekonyan-szervezni-de-az-oktatast-azt-nem/",
+        "h1": "“A rendőrséget lehet így hatékonyan szervezni, az oktatást viszont nem!”",
+        "txtlength": 25848
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/global/20220622/dobbenetes-tervet-eszelt-ki-az-egyik-legerosebb-nato-tagallam-ez-meg-amerikat-es-oroszorszagot-is-egy-taborba-terelheti-551675",
+        "h1": "Döbbenetes tervet eszelt ki az egyik legerősebb NATO-tagállam – Ez még Amerikát és Oroszországot is egy táborba terelheti",
+        "txtlength": 21108
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/otthon/20220620/johet-a-millios-kazancsere-rengeteg-magyar-csaladnal-ez-fajni-fog-ha-nem-lepsz-idoben-1126053",
+        "h1": "Jöhet a milliós kazáncsere rengeteg magyar családnál: ez fájni fog, ha nem lépsz időben",
+        "txtlength": 20618
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/uzlet/20220622/erkezik-az-oszi-konferenciaszezon-mutatjuk-milyen-portfolio-rendezvenyek-jonnek-551685",
+        "h1": "Érkezik az őszi konferenciaszezon: mutatjuk, milyen Portfolio-rendezvények jönnek",
+        "txtlength": 20051
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220622_ispan_ispan",
+        "h1": "Ispán?! Ispán!",
+        "txtlength": 19104
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220622_foispan_tortenelem",
+        "h1": "Magyar főispánok: akiket a nácik és a kommunisták is üldöztek",
+        "txtlength": 18658
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vilag/20220621/a-vilag-legnagyobb-oceanjarojat-epitettek-maris-hajoroncs-lesz-belole/",
+        "h1": "A világ legnagyobb óceánjáróját építették, máris hajóroncs lesz belőle",
+        "txtlength": 16738
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2022/06/22/alan-sokal-ki-kell-jelenteni-hogy-igenis-letezik-objektiv-igazsag",
+        "h1": "ALAN SOKAL: KI KELL JELENTENI, HOGY IGENIS LÉTEZIK OBJEKTÍV IGAZSÁG",
+        "txtlength": 15615
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/egeszseg/etelek-50-felett/",
+        "h1": "Ételek, amiket gyakran kéne fogyasztani 50 felett: tele vannak omega-3-mal és vitaminokkal",
+        "txtlength": 13934
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/lajfhekk/nyers-etel-veszelyes/",
+        "h1": "Nyers étel veszélyes",
+        "txtlength": 11932
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/eletmod/2022/06/22/nem-gonoszak-csak-rossz-strategiat-valasztottak-bullying-iskolai-kortars-bantalmazas",
+        "h1": "Bullying: nem gonosz a gyerek, csak rossz stratégiát választott",
+        "txtlength": 21539
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kultura/2022/06/21/ismeretlen-budapest-rozsaszin-cicak-cica-pasztor-bertalan-portik-tamas-wesselenyi-utca/",
+        "h1": "Hatalmas, rózsaszín női mellek uralták a pesti éjszakát",
+        "txtlength": 20980
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2022/06/22/eu-veto-visszaeles-problemak/",
+        "h1": "Addig jár a vétókorsó a kútra, amíg el nem törik",
+        "txtlength": 17278
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/direkt36/2022/06/22/szijjarto-felporgetne-paks-ii-megepiteset-a-sullyedo-talaj-azonban-megakadalyozhatja-ezt",
+        "h1": "Szijjártó felpörgetné Paks II. megépítését, a süllyedő talaj azonban megakadályozhatja ezt",
+        "txtlength": 17190
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/belfold/2022/06/21/csak-janos-kultura-innovacio-egyetem-miniszter-mcc",
+        "h1": "Miértek, hogyanok és outputok közé rejtette a miniszter, hogy kemény idők jönnek a kultúrában és az innovációban",
+        "txtlength": 15434
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kulfold/2022/06/22/eurobarometer-2022-tavasz-felmeres-ukrajnai-haboru-europai-parlament/",
+        "h1": "Miközben aggódunk az unió jövője miatt, egyre jobban bízunk benne",
+        "txtlength": 14530
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/06/21/nemreg-meg-halalbuntetes-jart-erte-mostanra-a-kormany-ingyen-osztogatja-a-marihuanat-thaifoldon",
+        "h1": "Nemrég még halálbüntetés járt érte, mostanra a kormány ingyen osztogatja a marihuánát Thaiföldön",
+        "txtlength": 12064
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/gazdasag/20220622_cetelem_korkep_inflacio_haboru_dragulas",
+        "h1": "Az élelmiszeren és a tisztálkodáson spórolnak a magyarok az infláció miatt, több munkát is vállalnak",
+        "txtlength": 12033
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/06/21/a-nemet-alkancellar-szerint-putyin-tamadast-inditott-nemetorszag-ellen-a-foldgazexport-visszafogasaval",
+        "h1": "A német alkancellár szerint Putyin támadást indított Németország ellen a földgázexport visszafogásával",
+        "txtlength": 11667
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/kultura/20220622_korn_koncert_budapest_sportarena_requiem_jonathan_davis_kritika",
+        "h1": "Koncertet adott a kilencvenes évek az Arénában, és jobb volt, mint remélni mertük",
+        "txtlength": 11517
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/krimi/regi-bunugyek-gyilkossag-oktogon-nyomozas-cserkeszek/2kknknd",
+        "h1": "Súlyos politikai döntéseket hoztak a budapesti gyilkosság ügyében",
+        "txtlength": 10104
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/gazdasag/20220622_navracsics_tibor_europai_unio_helyreallitasi_alap",
+        "h1": "Navracsics: Egy kicsit új fiúnak érzem magam",
+        "txtlength": 9724
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/meszaros-csoport-nagycsaladosok-egyszulos-csaladok-teritesmentes-nyaralas/l8b1xz4?sl_ps=d_12",
+        "h1": "Mészáros Lőrinc ezer forintért 3200 embert visz a balatoni hoteljébe: így kerülhet közéjük Ön is",
+        "txtlength": 8455
+    },
+    {
+        "hostname": "nosalty.hu",
         "pagelink": "https://www.nosalty.hu/recept/cseresznyebefott-3-valtozatok-telire",
         "h1": "Cseresznyebefőtt 3. - változatok télire",
         "txtlength": 11914
