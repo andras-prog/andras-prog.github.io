@@ -1,6 +1,174 @@
 [
     {
         "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/legegyszerubb-bogres-meggyes-suti",
+        "h1": "Legegyszerűbb bögrés meggyes süti",
+        "txtlength": 11849
+    },
+    {
+        "hostname": "kulturpart.hu",
+        "pagelink": "https://kulturpart.blog.hu/2022/06/17/varazslat_a_loszfal_toveben",
+        "h1": "VARÁZSLAT A LÖSZFAL TÖVÉBEN",
+        "txtlength": 5924
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vilag/20220622/onellatasra-rendezkedett-be-oroszorszag-mezogazdasaga/",
+        "h1": "Önellátásra rendezkedett be Oroszország mezőgazdasága",
+        "txtlength": 23757
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220622_szalay_bobrovniczky_kristof_interju_kozelet",
+        "h1": "A békéhez erő kell – Szalay-Bobrovniczky Kristóf a Mandinernek",
+        "txtlength": 23221
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220623_oroszorszag_haboru_baltikum",
+        "h1": "Kitörhet a harmadik világháború a Baltikum miatt?",
+        "txtlength": 23200
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vilag/20220622/kalinyingrad-litvan-blokadja-miatt-a-baltikumban-is-egyre-fokozodik-a-haborus-feszultseg/",
+        "h1": "Kalinyingrád litván blokádja miatt a Baltikumban is egyre fokozódik a háborús feszültség",
+        "txtlength": 22036
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220616_marvanymenyasszony_v_naszalyi_marta_budavar_muemlek_epitkezes",
+        "h1": "Van még idő a Márványmenyasszony megmentésére!",
+        "txtlength": 20877
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/global/20220623/pattanasig-feszult-a-helyzet-egy-apro-orosz-terulet-korul-ez-lesz-ami-vegul-egymasnak-ugrasztja-a-nato-t-es-moszkvat-552089",
+        "h1": "Pattanásig feszült a helyzet egy apró orosz terület körül – Ez lesz, ami végül egymásnak ugrasztja a NATO-t és Moszkvát?",
+        "txtlength": 17760
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/megtakaritas/20220620/egyre-tobb-magyar-fordit-hatat-a-bankfiokoknak-tobbe-nem-hajlandoak-sorba-allni-1126109",
+        "h1": "Egyre több magyar fordít hátat a bankfiókoknak: többé nem hajlandóak sorban állni",
+        "txtlength": 17441
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/otthon/20220622/erre-figyeljunk-ha-iden-a-lakasfelujitas-lesz-a-nyaralasunk-1126047",
+        "h1": "Erre figyeljünk, ha idén a lakásfelújítás lesz a nyaralásunk",
+        "txtlength": 16934
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/uzlet/20220623/gyorsan-romlik-a-hangulat-ujra-lejtore-kerultek-a-tozsdek-552169",
+        "h1": "Gyorsan romlik a hangulat, újra lejtőre kerültek a tőzsdék ",
+        "txtlength": 16195
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20220623/lehull-a-lepel-megtalaltuk-magyarorszag-legnagyobb-hitelezojet-552073",
+        "h1": "Lehull a lepel: megtaláltuk Magyarország legnagyobb hitelezőjét",
+        "txtlength": 14947
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2022/06/22/illusztracionak-elmegy-muzeumi-kiallitasnak-szornyen-gagyi-a-vajdahunyad-varban-lathato-lovas-tarlat-a-lokozelben",
+        "h1": "ILLUSZTRÁCIÓNAK ELMEGY, MÚZEUMI KIÁLLÍTÁSNAK SZÖRNYEN GAGYI A VAJDAHUNYAD-VÁRBAN LÁTHATÓ LOVAS TÁRLAT, A LÓKÖZELBEN",
+        "txtlength": 11792
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/kapcsolat/i-artemiszia-szalamiszi-csata/",
+        "h1": "A történelem egyik legkönyörtelenebb nőjének tartják: I. Artemiszia nemcsak veszélyes, hanem nagyon okos is volt",
+        "txtlength": 11600
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/lajfhekk/medence-tisztitas/",
+        "h1": "medence tisztítás",
+        "txtlength": 10107
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/tech/2022/06/22/telefonteszt-kamera-nyaralas-foto-apple-iphone-13-pro-max-honor-magic-4-pro-huawei-p50-pro-xiaomi-12-pro",
+        "h1": "Elmentünk kocafotós turistát játszani kétmillió forintnyi telefonnal, hogy önnek már ne kelljen",
+        "txtlength": 22807
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/gazdasag/2022/06/23/szazezrek-izgulhatnak-hogy-mi-marad-a-kata-bol",
+        "h1": "Százezrek izgulhatnak, hogy mi marad a katából",
+        "txtlength": 22205
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/gazdasag/20220623_arstop_kisboltosok_kiskereskedelem_inflacio",
+        "h1": "Napi árfolyamon veszik az élelmiszert a kisboltosok, akik sokszor képtelenek betartani az árstop szabályait",
+        "txtlength": 15401
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/elet/20220623_elf_bar_toldy_schedel_emil_kardiologus",
+        "h1": "„Az Elf Bar védhetetlen, mert pont azt teszi függővé, aki előtte nem dohányzott\"",
+        "txtlength": 15285
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/eletmod/2022/06/23/kutya-ivartalanitas-allatvedelem-allatorvosi-ajanlas",
+        "h1": "Ivartalanítás: van, ahol állatkínzás, máshol a felelős kutyatartás ismérve",
+        "txtlength": 14619
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kulfold/2022/06/23/orosz-ukran-haboru-zelenszkij-elo-percrol-percre-ukrajna-eu/",
+        "h1": "Kihirdették Németországban a földgázellátási válsághelyzet riasztási fokozatát",
+        "txtlength": 12698
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/06/22/visszalepett-milak-kristof-legnagyobb-ellenfele-a-100-meter-pillangotol",
+        "h1": "Visszalépett Milák Kristóf legnagyobb ellenfele a 100 méter pillangótól",
+        "txtlength": 11142
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/06/23/naponta-tobb-megszoritast-jelent-be-a-kormany-de-legalabb-gondoskodik-a-szorakozasunkrol-is",
+        "h1": "Naponta több megszorítást jelent be a kormány, de legalább gondoskodik a szórakozásunkról",
+        "txtlength": 10827
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2022/06/23/vagyonnyilatkozatok-kocsis-mate-ep-dobrev-klara/",
+        "h1": "Brüsszeli mintára teljesen kiüresíti a vagyonnyilatkozati rendszert a Fidesz",
+        "txtlength": 10564
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/gazdasag/20220623_Egy_ember_dontheti_majd_el_mit_lehet_arulni_a_dohanyboltokban",
+        "h1": "Egy ember döntheti majd el, mit lehet árulni a dohányboltokban",
+        "txtlength": 10336
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2022/06/23/dharma-alapitvany-elbontatna-lomenhely-kapuja-kormanyhivatal-agrartarca/",
+        "h1": "Elbontatná a kormányhivatal annak a lómenhelynek a kapuját, ahol sok tucat állami lovat tartanak",
+        "txtlength": 9841
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/meszaros-csoport-nagycsaladosok-egyszulos-csaladok-teritesmentes-nyaralas/l8b1xz4",
+        "h1": "Mészáros Lőrinc ezer forintért 3200 embert visz a balatoni hoteljébe: így kerülhet közéjük Ön is",
+        "txtlength": 8332
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/politika/navracsics-tibor-unios-forrasok-euro-bevezetese-magyarorszag/tkjqqy2",
+        "h1": "Navracsics Tibor megszólalt az euró magyarországi bevezetéséről",
+        "txtlength": 6839
+    },
+    {
+        "hostname": "nosalty.hu",
         "pagelink": "https://www.nosalty.hu/recept/nagyon-egyszeru-karalabeleves",
         "h1": "Nagyon egyszerű karalábéleves",
         "txtlength": 10617
