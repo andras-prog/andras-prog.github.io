@@ -1,5 +1,191 @@
 [
     {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/rakott-cukkini-rizs-daralt-hus.recept",
+        "h1": "RAKOTT CUKKINI DARÁLT HÚSSAL ÉS RIZZSEL",
+        "txtlength": 11061
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/gyoza-gomboc-azsiai-stilusu-zoldsegekkel.recept",
+        "h1": "GYOZA GOMBÓC ÁZSIAI STÍLUSÚ ZÖLDSÉGEKKEL",
+        "txtlength": 11008
+    },
+    {
+        "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/hazi-levendulaszorp",
+        "h1": "Házi levendulaszörp",
+        "txtlength": 9280
+    },
+    {
+        "hostname": "kiszamolo.hu",
+        "pagelink": "https://kiszamolo.hu/hiteligenyles-most-olcsobb-hitelre-csereles-5-even-belul/",
+        "h1": "Hiteligénylés most, olcsóbb hitelre cserélés 5 éven belül?",
+        "txtlength": 37273
+    },
+    {
+        "hostname": "kulturpart.hu",
+        "pagelink": "https://kulturpart.hu/2022/06/17/varazslat_a_loszfal_toveben",
+        "h1": "VARÁZSLAT A LÖSZFAL TÖVÉBEN",
+        "txtlength": 5922
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220622_gero_andras_interju_kozelet",
+        "h1": "Egyetlen kormányképes erő van – Gerő András a Mandinernek",
+        "txtlength": 29521
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/egeszseg/20220623/rengeteg-magyar-dolgozo-nem-is-sejti-ok-is-jogosultak-ilyen-szja-visszateritesre-1126128",
+        "h1": "Rengeteg magyar dolgozó nem is sejti: ők is jogosultak ilyen szja-visszatérítésre",
+        "txtlength": 29456
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220615_kulfold_riport_svedorszag",
+        "h1": "Forró északi nyárelő – riport Svédországból",
+        "txtlength": 25493
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://www.bbc.com/future/article/20220621-what-if-roads-went-underground",
+        "h1": "BBC.com would like permission to share your personal data with our ad partners to allow them to show ads tailored to your interests",
+        "txtlength": 21582
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/kozelet/20220624/nem-veletlen-hogy-egy-koltsegvetesi-kiigazitas-kozben-nyul-a-kormany-a-tul-jol-sikerult-katahoz/",
+        "h1": "Nem véletlen, hogy egy költségvetési kiigazítás közben nyúl a kormány a túl jól sikerült katához",
+        "txtlength": 19754
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/vallalkozas/20220623/lathataron-a-nyugdijosszeomlas-rengeteg-magyarnak-lehet-kemeny-nelkulozes-az-idoskor-1126186",
+        "h1": "Láthatáron a nyugdíjösszeomlás: rengeteg magyarnak lehet kemény nélkülözés az időskor",
+        "txtlength": 18257
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://makronom.mandiner.hu/cikk/20220622_ikerdeficit_koltsegvetes_lorant_karoly_makronom_allamhaztartas_kormany_fizetesi_merleg_hiany",
+        "h1": "Íme a mesterterv: így lehet a gazdaságunk független és válságálló",
+        "txtlength": 17601
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20220624/baljos-jelek-a-70-es-evek-stagflacioja-var-rank-552309",
+        "h1": "Baljós jelek: a 70-es évek stagflációja vár ránk?",
+        "txtlength": 17374
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20220624/miert-400-forint-az-euro-es-ez-miert-baj-552421",
+        "h1": "Miért 400 forint az euró és ez miért baj?",
+        "txtlength": 16670
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/uzlet/20220624/iranykeresessel-indult-a-nap-az-europai-tozsdeken-552407",
+        "h1": "Emelkednek az európai tőzsdék ",
+        "txtlength": 15247
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/utazas/bukfurdo-latnivalok/",
+        "h1": "A külföldi turisták is rajonganak a vidéki magyar fürdőért: Bükfürdőn egy percig sem unatkozhattok",
+        "txtlength": 12315
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2022/06/24/nem-kell-panikba-esni-ha-nincs-dns-mintank-uj-modszerekkel-molekulak-nelkul-is-jol-feltarhato-a-kihalt-elolenyek-evolucioja",
+        "h1": "NEM KELL PÁNIKBA ESNI, HA NINCS DNS-MINTÁNK: ÚJ MÓDSZEREKKEL MOLEKULÁK NÉLKÜL IS JÓL FELTÁRHATÓ A KIHALT ÉLŐLÉNYEK EVOLÚCIÓJA",
+        "txtlength": 10923
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/lajfhekk/haj-korom-karos/",
+        "h1": "Haj köröm káros",
+        "txtlength": 10023
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/komplex/2022/06/24/mergekkel-elnemitott-termeszet-tul-nagy-ar-az-elelemert",
+        "h1": "\n      Halálos csapda: kiirtjuk az élővilágot, hogy legyen mit ennünk\n    ",
+        "txtlength": 41577
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/kultura/20220624_Pauer_Emanuel_Valasz_Eperjesi_Agnesnek",
+        "h1": "„Vérlázító, hogy a média apámmal kezdi az akasztást” – Pauer Emánuel válasza Eperjesi Ágnesnek",
+        "txtlength": 19046
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/belfold/2022/06/24/igy-bukhat-meg-egy-auto-a-muszakin",
+        "h1": "Csaknem egymillió autó zúdul rá a vizsgaállomásokra hamarosan, mutatjuk, miért jár buktatás",
+        "txtlength": 16817
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2022/06/24/rezsicsokkentes-onkormanyzatok-csach-gabor-balassagyarmat/",
+        "h1": "Balassagyarmat fideszes polgármestere megrémült, miután kiszámolta, mit akar a kormány",
+        "txtlength": 16804
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/gazdasag/2022/06/24/az-ev-vegen-szembesulnek-a-rideg-valosaggal-a-moratoriumos-kamatstopos-ugyfelek",
+        "h1": "Az év végén szembesülnek a rideg valósággal a moratóriumos, kamatstopos ügyfelek",
+        "txtlength": 16109
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/gazdasag/20220624_Suranyi_Gyorgy_Azt_mondtam_Nagy_Martonnak_megbuktatnam",
+        "h1": "Surányi György Nagy Mártonról: Egy vizsgán megbuktatnám",
+        "txtlength": 13873
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2022/06/24/parkolas-erzsebetvaros-nepszavazas-helyi-nepszavazas-niedermuller/",
+        "h1": "„Tévedés, hogy mindenkinek alapvető joga közterületen a saját autójával parkolni”",
+        "txtlength": 13761
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/tudomany/2022/06/23/majomhimlo-tunetek-jarvany-fekely/",
+        "h1": "Szokatlan tüneteket mutat a majomhimlő",
+        "txtlength": 12206
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/06/24/danb-es-danber-apatiaban",
+        "h1": "Danb és Danber apátiában",
+        "txtlength": 11741
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/06/24/karbantartas-miatt-leallitjak-az-eszaki-aramlat-1-et-nemetorszagban-de-attol-tartanak-hogy-az-oroszok-mar-nem-kapcsoljak-vissza",
+        "h1": "Karbantartás miatt leállítják az Északi Áramlat 1-et Németországban, de attól tartanak, hogy az oroszok már nem kapcsolják vissza",
+        "txtlength": 10484
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/vilag/20220624_orosz_ukran_haboru_pentek",
+        "h1": "Zelenszkij az EU-ban látja Ukrajna jövőjét, öldöklő csata folyik Liszicsanszkért – közvetítésünk a háború pénteki napjáról",
+        "txtlength": 9222
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/penz/atlagkereset-magyarorszag-otszazezer-felett/81g626k?sl_ps=d_3",
+        "h1": "Itt vannak a friss béremelkedési adatok: mutatjuk, mennyi most az átlagkereset Magyarországon",
+        "txtlength": 8667
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/strand-kukkolo-perverz-furdo-mobil-oltozo/h8j6wrx?sl_ps=d_6",
+        "h1": "Szekrénysorok rejtekéből készíthette felvételeit a perverz: négy éven át kukkolták a strand vendégeit",
+        "txtlength": 8015
+    },
+    {
         "hostname": "nosalty.hu",
         "pagelink": "https://www.nosalty.hu/recept/legegyszerubb-bogres-meggyes-suti",
         "h1": "Legegyszerűbb bögrés meggyes süti",
