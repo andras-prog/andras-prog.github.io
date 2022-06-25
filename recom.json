@@ -1,6 +1,186 @@
 [
     {
         "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/csaszarmorzsa-csilis-szilvamartassal-grill.recept",
+        "h1": "CSÁSZÁRMORZSA CSILIS SZILVAMÁRTÁSSAL A GRILLEN",
+        "txtlength": 11708
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/fanta-torta-glutenmentes-laktozmentes.recept",
+        "h1": "FANTA TORTA (GLUTÉN- ÉS LAKTÓZMENTESEN)",
+        "txtlength": 11382
+    },
+    {
+        "hostname": "hataratkelo.blog.hu",
+        "pagelink": "https://hataratkelo.blog.hu/2022/06/22/a_farm_ahol_elunk_a_valosagban#c41459079",
+        "h1": "A farm, ahol élünk – a valóságban",
+        "txtlength": 59106
+    },
+    {
+        "hostname": "kulturpart.hu",
+        "pagelink": "https://kulturpart.blog.hu/2022/06/19/unnepel_a_vilaghiru_magyar_zeneszerzo",
+        "h1": "ÜNNEPEL A VILÁGHÍRŰ MAGYAR ZENESZERZŐ",
+        "txtlength": 5164
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220625_ukrajna_oroszorszag_haboru_nemzetkozi_jog_kajtar_gabor",
+        "h1": "Oroszország mintha nem ismerné saját határait – Kajtár Gábor nemzetközi jogász a Mandinernek",
+        "txtlength": 28690
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vallalat/20220624/tulelik-e-a-haborut-a-magyar-cegek-oroszorszagban/",
+        "h1": "Túlélik-e a háborút a magyar cégek Oroszországban?",
+        "txtlength": 22484
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220625_gagauzia_moldova_haboru_riport",
+        "h1": "Az ukrajnai háború árnyékában keresi jövőjét Gagauzia",
+        "txtlength": 22299
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220624_tehat_ez_a_haboru_don_kanyar_muveszek",
+        "h1": "Tehát ez a háború: így alkottak a Don-kanyar magyar katona-művészei",
+        "txtlength": 22188
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/karrier/20220624/elkepesztoen-zsufoltak-a-magyar-bortonok-egyre-tobb-bunozo-kap-eletfogytiglant-1126179",
+        "h1": "Elképesztően zsúfoltak a magyar börtönök: egyre több bűnöző kap életfogytiglant",
+        "txtlength": 18360
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vallalat/20220623/tizmilliot-raktunk-bele-ebbol-kilenc-elment-gitarra/",
+        "h1": "Tízmilliót raktunk bele, ebből kilenc elment gitárra",
+        "txtlength": 18197
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/vasarlas/20220624/mi-folyik-a-magyar-strandokon-igy-lett-a-langos-egy-vagyon-2022-ben-1126141",
+        "h1": "Mi folyik a magyar strandokon? Így lett a lángos egy vagyon 2022-ben",
+        "txtlength": 18140
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20220624/autos-utazast-tervezel-a-nyaron-ezekre-erdemes-figyelni-552423",
+        "h1": "Autós utazást tervezel a nyáron? – Ezekre érdemes figyelni",
+        "txtlength": 18134
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/uzlet/20220624/semmi-sem-dolt-el-katasztrofalis-osszeomlas-johet-a-tozsdeken-552465",
+        "h1": "Semmi sem dőlt el, katasztrofális összeomlás jöhet a tőzsdéken",
+        "txtlength": 16890
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/global/20220625/egy-elfeledett-alom-amerikaban-akart-uj-eletet-kezdeni-napoleon-551473",
+        "h1": "Egy elfeledett álom: Amerikában akart új életet kezdeni Napóleon",
+        "txtlength": 15524
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/szuloseg/szetvalasztott-egypeteju-ikrek-hasonlo-szemelyiseg/",
+        "h1": "szétválasztott egypetéjű ikrek hasonló személyiség",
+        "txtlength": 11327
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/egeszseg/novekedesi-hormon-felnottkorban/",
+        "h1": "A növekedési hormon hiányának tünete lehet a depresszió és inzulinrezisztencia is - Szakember mondja el, mit lehet tenni",
+        "txtlength": 11180
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2022/06/23/mi-formalja-a-tortenelmet-hat-a-sor",
+        "h1": "MI FORMÁLJA A TÖRTÉNELMET? HÁT A SÖR!",
+        "txtlength": 9897
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/tudomany/2022/06/25/gelencser-andras-interju-reakcio-eghajlatvaltozas-nyersanyaghiany-klimakatasztrofa/",
+        "h1": "Akkor jön el a világvége, ha nem teszünk ellene semmit",
+        "txtlength": 31088
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/belfold/2022/06/25/kutya-varos-kutyatartas-urulek-vizelet-koztisztasag-neveles",
+        "h1": "Kaki, futtatók, kutyanevelés – megnéztük, mit lehetne kezdeni a városi kutyatartással",
+        "txtlength": 26521
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/tudomany/2022/06/25/varmegye-foispan-alispa-ispan-tortenelem/",
+        "h1": "Főispánok: sokszor gyűlölték a vármegye első emberét",
+        "txtlength": 16733
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/koronavirus/2022/06/24/koronavirus-omikron-varians-nemetorszag-magyarorszag-fertozes-vedekezes-maszk",
+        "h1": "Az omikron új variánsa a nyári melegben is jól terjed, van, ahol már az őszi járványra készülnek",
+        "txtlength": 16656
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/gazdasag/20220625_minimumado_orban_kormany_tarsasagi_ado",
+        "h1": "Inkább egy nagyobb játszma része, hogy a kormány megint úgy döntött, nem kell a globális minimumadó",
+        "txtlength": 16483
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kulfold/2022/06/25/szlovenia-uj-kormany-valsagkezeles-illiberalis-ellenzek/",
+        "h1": "Kapkodás, válságkezelés és „zöld” víziók az illiberális ellenzékével is küzdő új szlovén kormányban",
+        "txtlength": 16320
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20220625_Magunk_alatt_vagjuk_a_fat_ha_factcheckeljuk_a_politikai_konteokat",
+        "h1": "Magunk alatt vágjuk a fát, ha fact-checkeljük a politikai konteókat?",
+        "txtlength": 14836
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/elet/20220624_Eltoroltek_az_alkotmanyos_abortuszjogot_az_Egyesult_Allamokban",
+        "h1": "Eltörölték az alkotmányos abortuszjogot az Egyesült Államokban",
+        "txtlength": 13951
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kulfold/2022/06/25/oroszorszag-ukrajna-haboru-percrol-percre-zelenszkij-putyin",
+        "h1": "Támadás érte a javorivi katonai bázist, Liszicsanszk bekerítésére készülnek az orosz erők",
+        "txtlength": 13478
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/magyarorszag-ufo-eszleles-vadaszgep/76x00bg?sl_ps=d_12",
+        "h1": "Feltárultak a magyar X-Akták: tucatnyi vadászgép üldözött egy UFO-t Taszár felett",
+        "txtlength": 13051
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/06/25/hetvegi-olvasnivalok-az-ellenzeki-mediahaborutol-odaig-hogy-az-apa-ferfi-az-anya-a-ferfie",
+        "h1": "Hétvégi olvasnivalók az ellenzéki médiaháborútól odáig, hogy az apa férfi, az anya a férfié",
+        "txtlength": 12519
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/sma-beteg-abris-iskola/cvdjcry?sl_ps=d_10",
+        "h1": "„Mintha stigma lenne Ábrison” – Egy évig keresett iskolát SMA-ban szenvedő kisfiának Flóra",
+        "txtlength": 11568
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/06/24/karoly-herceg-sajnalja-hogy-a-rabszolgatartas-hatarozta-meg-a-nemzetkozosseg-kialakulasat",
+        "h1": "Károly herceg sajnálja, hogy a rabszolgatartás határozta meg a Nemzetközösség kialakulását",
+        "txtlength": 10677
+    },
+    {
+        "hostname": "mindmegette.hu",
         "pagelink": "https://www.mindmegette.hu/rakott-cukkini-rizs-daralt-hus.recept",
         "h1": "RAKOTT CUKKINI DARÁLT HÚSSAL ÉS RIZZSEL",
         "txtlength": 11061
