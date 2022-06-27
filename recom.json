@@ -1,5 +1,185 @@
 [
     {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/glutenmentes-dios-kalacs.recept",
+        "h1": "GLUTÉNMENTES DIÓS KALÁCS",
+        "txtlength": 11612
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/eperhabos-piskota.recept",
+        "h1": "TEJSZÍNES-EPERHABOS PISKÓTA",
+        "txtlength": 11209
+    },
+    {
+        "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/ropogos-kovaszos-uborka-0",
+        "h1": "Ropogós kovászos uborka",
+        "txtlength": 10938
+    },
+    {
+        "hostname": "hataratkelo.blog.hu",
+        "pagelink": "https://hataratkelo.blog.hu/2022/06/22/a_farm_ahol_elunk_a_valosagban#c41461307",
+        "h1": "A farm, ahol élünk – a valóságban",
+        "txtlength": 73211
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vilag/20220627/nem-a-civilizacionk-omlik-ossze-csak-a-jelenlegi-fenntarthatatlan-eletformank/",
+        "h1": "Nem a civilizációnk omlik össze, csak a jelenlegi, fenntarthatatlan életformánk",
+        "txtlength": 23611
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/penz/20220626/sokkal-kevesbe-hatekony-cserebe-sokkal-dragabb-a-magyar-rezsicsokkentes-mint-a-kulfoldi-megoldasok/",
+        "h1": "Sokkal kevésbé hatékony, cserébe sokkal drágább a magyar rezsicsökkentés, mint a külföldi megoldások",
+        "txtlength": 20757
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/unios-forrasok/20220627/borzalmasan-sok-eu-penznek-mondana-bucsut-a-kormany-ha-tenyleg-minden-forgatokonyvre-felkeszult-volna-552745",
+        "h1": "Borzalmasan sok EU-pénznek mondana búcsút a kormány, ha tényleg minden forgatókönyvre felkészült volna ",
+        "txtlength": 18802
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220621_ryanair_michael_o_leary_ryanair",
+        "h1": "„Leszarom, ha senki sem kedvel” – kicsoda Michael O’Leary Ryanair-vezér?",
+        "txtlength": 18430
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/uzlet/20220627/komoly-ujitasokra-keszul-a-szuperbank-a-befekteteseknel-nem-csak-az-it-rendszereket-cserelik-le-552087",
+        "h1": "Komoly újításokra készül a szuperbank a befektetéseknél: nem csak az IT-rendszereket cserélik le",
+        "txtlength": 18389
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220626_mesterhazy_attila_bangone_borbely_ildiko_eletutak_index_schiffer_andras_vona_gabor",
+        "h1": "Életutak a politikai karrier után – Mesterházy munkát keres, Bangóné glettel",
+        "txtlength": 17103
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220608_kulhon_menekultek_karpatalja",
+        "h1": "Akik mentek és akik maradtak – így élnek most a kárpátaljai magyarok a háború árnyékában",
+        "txtlength": 16862
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/hitel/20220627/kuszobon-a-torlesztorobbanas-tobb-tizezer-magyarnal-ketyeg-a-veszelyes-lakashitel-1126263",
+        "h1": "Küszöbön a törlesztőrobbanás: több tízezer magyarnál ketyeg a veszélyes lakáshitel",
+        "txtlength": 16418
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2022/06/27/a-magyar-iskolarendszerben-kutyavilag-var-a-kulfoldrol-hazatero-gyerekekre",
+        "h1": "A MAGYAR ISKOLARENDSZERBEN KUTYAVILÁG VÁR A KÜLFÖLDRŐL HAZATÉRŐ GYEREKEKRE",
+        "txtlength": 16302
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/egeszseg/20220622/modern-nepbetegseg-leselkedik-a-magyarokra-szornyu-kinokat-okoz-ha-nem-veszed-eszre-idoben-1126172",
+        "h1": "Modern népbetegség leselkedik a magyarokra: szörnyű kínokat okoz, ha nem veszed észre időben",
+        "txtlength": 15822
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20220627/lassan-a-10-szazalekos-kamat-sem-elkepzelhetetlen-a-400-forintos-euro-miatt-is-fohet-a-feje-az-mnb-nek-552523",
+        "h1": "Lassan a 10 százalékos kamat sem elképzelhetetlen – A 400 forintos euró miatt is főhet a feje az MNB-nek",
+        "txtlength": 15648
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/kapcsolat/viii-henrik-szeretoi/",
+        "h1": "VIII. Henrik feleségei mellett ágyasokat is tartott - Ők voltak a hírhedt király szeretői",
+        "txtlength": 10763
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/szuloseg/drogellenes-vilagnap-kamasz-tiltott-szer/",
+        "h1": "Tiltott szer kamasz drogellenes világnap",
+        "txtlength": 10754
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kult/2022/06/27/libri-bookline-mcc-press-tarsadalomtudomanyos-konyvek-gender-feminizmus-kritika-jobboldalisag",
+        "h1": "Beszállt az MCC, gyanúsan elszaporodtak a genderőrületes könyvek a Libri boltjaiban",
+        "txtlength": 25528
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/sport/2022/06/26/golden-state-warriors-nba-steph-curry",
+        "h1": "Az NBA kutyaütőiből lett a 21. század egyik legfontosabb sportvállalkozása",
+        "txtlength": 24024
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/interju/2022/06/26/divak-interju-dokumentumfilm-hbo-alkoholizmus-drogproblemak-abuzus-marbella",
+        "h1": "Megmutatom a tizen-huszonéveseknek, hogy előttük egy egész élet, ne szarjanak be",
+        "txtlength": 21293
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kulfold/2022/06/27/elelmiszer-valsag-orosz-ukran-haboru-kikotok-blokad-olaszorszag-migracio-korridor-lamorgese/",
+        "h1": "Globális éhínséggel és migrációs válsággal fenyeget, ha megrohad az ukrán silókban tárolt gabona",
+        "txtlength": 16884
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kulfold/2022/06/27/luhanszk-kelet-ukrajna-orosz-ukran-haboru-elo-junius-27/",
+        "h1": "Több mint száz év után először hivatalosan is csődbe ment Oroszország",
+        "txtlength": 15426
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/elet-stilus/2022/06/26/pina-brutal-muveszet-performance-film-berlin-budaors/",
+        "h1": "„A filmem római vetítésén ketten ájultak el” – így jutott Pina Brutal egy budafoki katolikus családból a berlini művészvilág szívébe",
+        "txtlength": 12256
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20220627_vizes_vb_selmeci_attila_sos_csaba_magyar_uszoszovetseg_duna_arena_milak_kristof_hosszu_katinka",
+        "h1": "A magyar úszósportban a vébén szembejött a valóság",
+        "txtlength": 12048
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/iskolai-zaklatas-bantalmazas-ongyilkossagi-kiserlet-korina-nyomozas/md8sr92",
+        "h1": "Iskolájában bántalmazták a 13 éves diáklányt: vodkával akart végezni magával Korina",
+        "txtlength": 11051
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/06/27/orokos-halogatasokban",
+        "h1": "Örökös halogatásokban",
+        "txtlength": 10891
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/vilag/20220626_Litvania_Oroszorszag_Kalinyingrad",
+        "h1": "Oroszország nagyon csúnyán összeveszhet Litvániával",
+        "txtlength": 10889
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/vilag/20220627_orosz_ukran_haboru_zelenszkij_legvedelmi_rendszer_oroszorszag_csod",
+        "h1": "Zelenszkij légvédelmi rendszereket kér, Oroszország technikailag becsődölt – a háború hétfői fejleményei",
+        "txtlength": 10878
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/budapest-tanar-felmondott/fhnwq2q",
+        "h1": "Ismerje meg a magyartanárt, akinek elege lett, ezért futárnak áll: pedagógusként 210 ezret keresett",
+        "txtlength": 9912
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/06/26/boris-johnson-meghivta-az-ukran-elnokot-londonba",
+        "h1": "Boris Johnson meghívta az ukrán elnököt Londonba",
+        "txtlength": 9626
+    },
+    {
         "hostname": "hataratkelo.blog.hu",
         "pagelink": "https://hataratkelo.blog.hu/2022/06/22/a_farm_ahol_elunk_a_valosagban#c41460239",
         "h1": "A farm, ahol élünk – a valóságban",
