@@ -1,5 +1,179 @@
 [
     {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/jalapeno-poppers-baconbe-gongyolve.recept",
+        "h1": "JALAPENO POPPERS BACONBE GÖNGYÖLVE",
+        "txtlength": 10652
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/a-legfinomabb-levendulaszorp.recept",
+        "h1": "A LEGFINOMABB LEVENDULASZÖRP",
+        "txtlength": 10562
+    },
+    {
+        "hostname": "hataratkelo.blog.hu",
+        "pagelink": "https://hataratkelo.blog.hu/2022/06/22/a_farm_ahol_elunk_a_valosagban",
+        "h1": "A farm, ahol élünk – a valóságban",
+        "txtlength": 74244
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/karrier/20220628/ezek-a-munkavallalok-vannak-most-nyeregben-annyi-penzt-kerhetnek-amit-nem-szegyellnek-1126351",
+        "h1": "Ezek a munkavállalók vannak most nyeregben: annyi pénzt kérhetnek, amit nem szégyellnek",
+        "txtlength": 26674
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/megtakaritas/20220629/elkepesztoen-sok-magyart-huz-le-a-sajat-bankja-mutatjuk-milyen-egyszeru-kijatszani-1126384",
+        "h1": "Elképesztően sok magyart húz le a saját bankja: mutatjuk, milyen egyszerű kijátszani",
+        "txtlength": 23469
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vilag/20220629/nem-az-ukranokon-mulik-de-kilatastalan-hogy-nyugat-fele-elszallitsak-az-osszes-gabonajukat/",
+        "h1": "Nem az ukránokon múlik, de kilátástalan, hogy nyugat felé elszállítsák az összes gabonájukat",
+        "txtlength": 22544
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/penz/20220628/nem-varhato-erosebb-forint-es-ez-az-inflaciot-is-tovabb-futi/",
+        "h1": "Nem várható erősebb forint, és ez tovább fűti az inflációt",
+        "txtlength": 20969
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220628_meg_kell_vedeni_a_forintot",
+        "h1": "Meg kell védeni a forintot!",
+        "txtlength": 20309
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220624_en_gyozni_akartam",
+        "h1": "Én győzni akartam – Kemény Dénes a Mandiner Útravalónak",
+        "txtlength": 19480
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220628_nemetorszag_gaz_oroszorszag_ipar_basf",
+        "h1": "Kezd aggódni a német ipar: mi lesz, ha nem lesz gáz?",
+        "txtlength": 18940
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/gyerek/szules-utani-depresszio-pszichiater/",
+        "h1": "„Mi lenne, ha odaadnám valakinek a babámat?” - A szülés utáni depresszió egy édesanya és a pszichiáter szemével",
+        "txtlength": 18022
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2022/06/28/ontudatra-ebredt-mesterseges-intelligencia-veszelyben-erzi-magat-ugyvedet-fogadott-mi-folyik-a-google-nel",
+        "h1": "ÖNTUDATRA ÉBREDT A MESTERSÉGES INTELLIGENCIA? VESZÉLYBEN ÉRZI MAGÁT? ÜGYVÉDET FOGADOTT? MI FOLYIK A GOOGLE-NÉL?",
+        "txtlength": 17766
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/uzlet/20220629/europai-energiavalsag-ha-oroszorszag-elzarja-a-gazcsapot-a-britek-is-elzarhatjak-553239",
+        "h1": "Európai energiaválság: ha Oroszország elzárja a gázcsapot, a britek is elzárhatják",
+        "txtlength": 15276
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/uzlet/20220629/nagy-eses-utan-bizonytalansag-a-tozsdeken-553191",
+        "h1": "Nagy esés után bizonytalanság a tőzsdéken ",
+        "txtlength": 15212
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/bank/20220629/hungarikum-a-javabol-meghosszabbitja-a-kormany-a-magyarok-kedvenc-kamatmentes-hitelet-553219",
+        "h1": "Hungarikum a javából: meghosszabbítja a kormány a magyarok kedvenc kamatmentes hitelét?",
+        "txtlength": 15042
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/szuloseg/gyerek-utazas-jatek/",
+        "h1": "gyerek utazás játék",
+        "txtlength": 10108
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://transtelex.ro/komplex/2022/06/29/birosag-is-megerositette-tiz-even-at-pokolla-tette-a-rabizott-gyerekek-eletet-bojte-atya-otthonainak-volt-neveloje",
+        "h1": "\n      Alapfokon 30 év börtönre ítélték: tíz éven át pokollá tette a rábízott gyerekek életét Böjte atya otthonainak egyik volt nevelője\n    ",
+        "txtlength": 78434
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/sport/2022/06/28/dr-sos-csaba-uszas-vizes-vb-2022/",
+        "h1": "Sós Csaba: Az elmúlt években lehet, hogy elvesztettünk hét-nyolc Milák Kristófot",
+        "txtlength": 21817
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/gazdasag/2022/06/29/a-magyar-gazdasag-es-a-kulonadok-inkabb-brit-gyarmatositok-legyunk-ne-spanyolok",
+        "h1": "A magyar gazdaság és a különadók: inkább brit gyarmatosítók legyünk, ne spanyolok!",
+        "txtlength": 20117
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/szorakozas/2022/06/28/ezra-miller-flash-villam-dc-legendas-allatok-botrany-wtf-para",
+        "h1": "A szupersztárság ajtaja előtt állt, de inkább odaszart",
+        "txtlength": 19322
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2022/06/29/sarka-kata-rogan-cecilia-profit-bessenyei-istvan-top-news-hungary/",
+        "h1": "Gazdasági csoda: Sarka Kata és Rogán-Gaál Cecília milliárdos profitbányája még a Holdról is látszik",
+        "txtlength": 18080
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20220629_europai_repuloterek_legikozlekedes_kaosz_jarattorles",
+        "h1": "Elérte Budapestet az európai reptérkáosz, de itt az extraprofitadó is okozhat kellemetlen meglepetéseket",
+        "txtlength": 17551
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kultura/2022/06/28/budapest-comic-con-riport-john-rhys-davies-christopher-lambert-kepregeny/",
+        "h1": "Tizenötezer magyar kapott lehetőséget, hogy elfoglalhassa a Vastrónt",
+        "txtlength": 13955
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20220629_tarsashaz_kozos_kepviselet_felujitas_Budapest",
+        "h1": "Ki a felelős, ha egy társasház olyan állapotba kerül, hogy leomlik a homlokzat?",
+        "txtlength": 13882
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/06/29/ropkodnek-a-raketak-szallnak-el-az-arak",
+        "h1": "Röpködnek a rakéták, szállnak el az árak",
+        "txtlength": 12459
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/kkv/20220629_Meg_meg_se_szunt_a_Pesti_TV_de_a_folytatashoz_mar_kesz_az_uj_ceg_es_a_domain",
+        "h1": "Új cég alakult a Pesti TV folytatásához és a PestiSrácok átvételéhez: Vaszily kitúrja Huthot",
+        "txtlength": 11156
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/06/29/r-kelly-tobb-evtizednyi-bortonbuntetesre-szamithat",
+        "h1": "R. Kelly több évtizednyi börtönbüntetésre számíthat",
+        "txtlength": 10049
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/vizellatasi-problemak-nagytarcsa/j2n0dr6?sl_ps=d_3",
+        "h1": "Több városban víz nélkül maradtak a hőségriadó kellős közepén: Nagytarcsán ez visszatérő probléma",
+        "txtlength": 9547
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/eletveszelyes-hazak-epitkezes-jokai-utca/cdp7f7v?sl_ps=d_10",
+        "h1": "Időzített bombán ül Budapest? Tele van életveszélyes házakkal a város: bármikor jöhet egy újabb omlás?",
+        "txtlength": 7596
+    },
+    {
         "hostname": "nosalty.hu",
         "pagelink": "https://www.nosalty.hu/recept/meggybefott-telire-csiki-piroskatol",
         "h1": "Meggybefőtt télire Csiki Piroskától",
