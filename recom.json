@@ -1,5 +1,197 @@
 [
     {
+        "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/fejtett-meggy-2-fozes-nelkul",
+        "h1": "Fejtett meggy 2. -főzés nélkül",
+        "txtlength": 14483
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/mentas-gorogdinnyes-poharkrem.recept",
+        "h1": "MENTÁS GÖRÖGDINNYÉS POHÁRKRÉM",
+        "txtlength": 11034
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/egyszeru-cseresznyes-kevert-suti.recept",
+        "h1": "EGYSZERŰ CSERESZNYÉS KEVERT SÜTI",
+        "txtlength": 10950
+    },
+    {
+        "hostname": "kiszamolo.hu",
+        "pagelink": "https://kiszamolo.hu/sporolas-a-sporolas-kedveert/",
+        "h1": "Spórolás a spórolás kedvéért",
+        "txtlength": 39716
+    },
+    {
+        "hostname": "efesasanisimasa.com",
+        "pagelink": "https://efesasanisimasa.com/2022/06/27/ket-nyar-twee-zomers-tv-series-2022/",
+        "h1": "Két nyár (Twee Zomers, TV Series, 2022-)",
+        "txtlength": 7950
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220628_suwalki_atomhaboru_baltikum_belarusz_kalinyingrad_oroszorszag",
+        "h1": "Suwałki: lehet-e atomháború egy baltikumi konfliktusból?",
+        "txtlength": 20937
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220630_harckocsi_kf51_panther_rheinmetall",
+        "h1": "Itt a harckocsi jövője, a jövő harckocsija – bemutatták a KF51 Panthert",
+        "txtlength": 20606
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/penz/20220629/miert-nem-gondolta-senki-hogy-ennyire-elszall-az-inflacio/",
+        "h1": "Miért nem gondolta senki, hogy ennyire elszáll az infláció?",
+        "txtlength": 20545
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vilag/20220629/inkabb-oroszorszagnak-faj-a-tudomanyos-egyuttmukodesek-korlatozasa/",
+        "h1": "Inkább Oroszországnak fáj a tudományos együttműködések korlátozása",
+        "txtlength": 20507
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220630_gyurcsanyek_a_torkunkon_tarjak_a_kest_feszultseg_es_belso_harcok_az_mszp_ben_ujhelyi_isvan_elnokseg_mszp",
+        "h1": "„Gyurcsányék a torkunkon tartják a kést” – feszültség és belső harcok az MSZP-ben",
+        "txtlength": 18997
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/megtakaritas/20220628/sokkolta-a-magyarokat-az-mnb-drasztikus-lepese-aggodhatnak-a-befekteteseik-megtakaritasaik-miatt-1126393",
+        "h1": "Sokkolta a magyarokat az MNB drasztikus lépése: aggódhatnak a befektetéseik, megtakarításaik miatt?",
+        "txtlength": 18848
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/vallalkozas/20220628/sulyos-jelentest-kozoltek-magyarorszagrol-ebben-csak-romaniat-elozzuk-az-eu-ban-1126378",
+        "h1": "Súlyos jelentést közöltek Magyarországról: ebben csak Romániát előzzük az EU-ban",
+        "txtlength": 17641
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20220630/a-nyugat-elment-a-szankciokkal-a-falig-most-oroszorszag-kore-jon-553069",
+        "h1": "A Nyugat elment a szankciókkal a falig, most Oroszország köre jön",
+        "txtlength": 14884
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.penzcentrum.hu/utazas/20220630/igy-jatszhatnak-ki-az-elelmes-magyarok-a-ryanair-dragitasat-tenyleg-mukodik-a-modszer-1126457",
+        "h1": "Így játszhatnák ki az élelmes magyarok a Ryanair drágítását: tényleg működik a módszer?",
+        "txtlength": 13360
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/global/20220630/kihuzta-a-gyufat-a-nato-putyinnal-moszkva-fenyegetozik-haborus-hireink-csutortokon-553463",
+        "h1": "Kihúzta a gyufát a NATO Putyinnál, Moszkva fenyegetőzik - Háborús híreink csütörtökön ",
+        "txtlength": 12366
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2022/06/29/osi-farkasok-dns-ebol-fejtettek-meg-a-kutyak-eredetet",
+        "h1": "ŐSI FARKASOK DNS-ÉBŐL FEJTETTÉK MEG A KUTYÁK EREDETÉT",
+        "txtlength": 12160
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/testem/kerdes-edzo-sport/",
+        "h1": "kérdés edző sport",
+        "txtlength": 11113
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/kapcsolat/camille-claudel-rodin/",
+        "h1": "A zseni múzsa, aki Rodin legérzékibb szobrait ihlette: Camille Claudel utolsó 30 évét elmegyógyintézetben töltötte",
+        "txtlength": 11039
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/lajfhekk/penesz-furdo-takaritas/",
+        "h1": "takarítás penész fürdőszoba",
+        "txtlength": 9533
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kulfold/2022/06/30/putyin-szankcio-gaz-olajar-inflacio-buza-elelmiszerar-aremelkedes-ukrajna-haboru-invazio-eu",
+        "h1": "Egyre jobban megérzi az ukrajnai háborút a nyugati politika is",
+        "txtlength": 25478
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kulfold/2022/06/30/orosz-ukran-haboru-127-nap-percrol-percre-tudositas",
+        "h1": "Az oroszok elhagyták a Kígyó-szigetet, Kalinyingrád felmentést kaphat a szankciók alól",
+        "txtlength": 22383
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kult/2022/06/29/cserna-szabo-andras-interju-zerko-attila-torpeje-regeny-pikareszk-hunok-bizanc-roma",
+        "h1": "A barbarizmus az én alföldi identitásom része",
+        "txtlength": 22297
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kozelet/2022/06/30/magyarorszag-polarizalt-tarsadalom-valasztas-policy-solutions-fes-kutatas/",
+        "h1": "Fideszes Rómeó, ellenzéki Júlia – heves érzelmek osztják meg a magyar társadalmat",
+        "txtlength": 18821
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20220630_Mindenki_utal_mindenkit_de_az_ellenzekiek_a_fideszeseket_kicsit_jobban",
+        "h1": "Mindenki utál mindenkit, de az ellenzékiek a fideszeseket kicsit jobban",
+        "txtlength": 15646
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kozelet/2022/06/30/somloszolos-kiss-janos-norbert-polgarmester-oszlatas-buildmaxcorp/",
+        "h1": "Makkgyűjtéssel foglalkozott a közmunkás, aki Somlószőlős legfőbb építési vállalkozója lett",
+        "txtlength": 14390
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kulfold/2022/06/30/orosz-ukran-haboru-elo-kozvetites-junius-30/",
+        "h1": "Az oroszok kivonultak a Kígyó-szigetről, de Putyin továbbra is ambiciózus",
+        "txtlength": 13574
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/gazdasag/20220630_inflacio_arak_elelmiszer_szolgaltatasok_ipar_energia",
+        "h1": "Hogy lehet máshol sokkal kisebb az infláció, ha egyszer nincs náluk árstop?",
+        "txtlength": 13311
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/06/30/addig-mondjak-hogy-haborus-inflacio-mig-mindenki-el-nem-hiszi",
+        "h1": "Addig mondják, hogy háborús infláció, míg mindenki el nem hiszi",
+        "txtlength": 11939
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/06/30/a-rekord-hohullam-miatt-bedoglott-japan-egyik-eromuve",
+        "h1": "A rekord hőhullám miatt bedöglött Japán egyik erőműve",
+        "txtlength": 10716
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20220630_szijjarto_peter_nato_csucs_minimumado_oroszorszag",
+        "h1": "Szijjártó: A stratégiai kommunikációs csatornát fenn kell tartani Oroszországgal",
+        "txtlength": 10146
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/blikk-tv/aktualis/balaton-sound-2022-helyszinnyitas-elott/pnz2m21?sl_ps=d_5",
+        "h1": "Körbejártuk a Balaton Soundot a nyitás előtt: 2022-ben újra dübörög a fesztivál a Balatonon, felturbózva – videó",
+        "txtlength": 8415
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/jokai-utca-hazomlas-balerina-elet-halal-kozott-lebeg/kp3cv2z",
+        "h1": "Élet és halál között lebeg a Jókai úti házomlásban megsérült balerina",
+        "txtlength": 7114
+    },
+    {
         "hostname": "mindmegette.hu",
         "pagelink": "https://www.mindmegette.hu/jalapeno-poppers-baconbe-gongyolve.recept",
         "h1": "JALAPENO POPPERS BACONBE GÖNGYÖLVE",
