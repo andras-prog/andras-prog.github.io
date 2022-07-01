@@ -1,6 +1,192 @@
 [
     {
         "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/eredeti-gorog-salata",
+        "h1": "Eredeti görög saláta",
+        "txtlength": 16052
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/sargabarackbefott.recept",
+        "h1": "SÁRGABARACKBEFŐTT",
+        "txtlength": 10411
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/grillezett-gyoza-gomboc.recept",
+        "h1": "GRILLEZETT GYOZA GOMBÓC",
+        "txtlength": 10294
+    },
+    {
+        "hostname": "hataratkelo.blog.hu",
+        "pagelink": "https://hataratkelo.blog.hu/2022/06/28/ismet_megindultak_a_magyarok_kulfoldre#c41465509",
+        "h1": "Ismét megindultak a magyarok külföldre",
+        "txtlength": 12367
+    },
+    {
+        "hostname": "kulturpart.hu",
+        "pagelink": "https://kulturpart.blog.hu/2022/06/17/hallgasd_meg_a_legugyesebb_fiatalokat",
+        "h1": "HALLGASD MEG A LEGÜGYESEBB FIATALOKAT!",
+        "txtlength": 4225
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220622_gaz_helyzet_van_nemetorszagban",
+        "h1": "Gáz helyzet van Németországban",
+        "txtlength": 23988
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220630_megvedjuk_a_csaladokat_az_inflaciotol_nagy_marton_az_mcc_ben",
+        "h1": "A recessziótól ma jobban kell félni, mint az inflációtól – Nagy Márton az MCC-ben",
+        "txtlength": 21833
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220630_jobbik_tisztujitas_jakab_peter_gyongyosi_ander_potocskane",
+        "h1": "Tisztújítás a Jobbikban – Jakab nem indul, mégis nyerhet",
+        "txtlength": 21024
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/hitel/20220701/a-magyar-csaladokat-fenyegeti-a-nyari-adossagcsapda-kegyetlen-vege-lehet-ha-igy-indulsz-nyaralni-1126505",
+        "h1": "A magyar családokat fenyegeti a nyári adósságcsapda: kegyetlen vége lehet, ha így indulsz nyaralni",
+        "txtlength": 20900
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.penzcentrum.hu/hitel/20220701/a-magyar-csaladokat-fenyegeti-a-nyari-adossagcsapda-kegyetlen-vege-lehet-ha-igy-indulsz-nyaralni-1126505",
+        "h1": "A magyar családokat fenyegeti a nyári adósságcsapda: kegyetlen vége lehet, ha így indulsz nyaralni",
+        "txtlength": 20578
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/adat/20220630/a-rezsivedelem-aranak-duplajat-szorta-el-a-kormany-felesleges-autopalyakra/",
+        "h1": "A rezsivédelem árának dupláját szórta el a kormány felesleges autópályákra",
+        "txtlength": 20101
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/gazdasag/20220629/itt-az-aggaszto-elorejelzes-durva-recesszio-kovetheti-a-tombolo-inflaciot-1126374",
+        "h1": "Itt az aggasztó előrejelzés: durva recesszió követheti a tomboló inflációt",
+        "txtlength": 19545
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vilag/20220701/az-elszallo-lakossagi-energiaarak-miatt-visszavonulot-fujt-meg-a-nemet-kormany-is/",
+        "h1": "Az elszálló lakossági energiaárak miatt visszavonulót fújt még a német kormány is",
+        "txtlength": 18418
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2022/07/01/a-fejlett-allamok-kozul-magyarorszagon-tatong-a-legnagyobb-szakadek-iskolazottak-es-iskolazatlanok-kozott",
+        "h1": "A FEJLETT ÁLLAMOK KÖZÜL MAGYARORSZÁGON TÁTONG A LEGNAGYOBB SZAKADÉK ISKOLÁZOTTAK ÉS ISKOLÁZATLANOK KÖZÖTT",
+        "txtlength": 16773
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/ingatlan/20220701/megsinylik-a-haborut-europa-keleti-epitesi-piacai-itt-vannak-az-elorejelzesek-553785",
+        "h1": "Megsínylik a háborút Európa keleti építési piacai: itt vannak az előrejelzések",
+        "txtlength": 16718
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/uzlet/20220701/video-kez-ortezist-es-nyelvtanulast-segito-szoftvert-is-dijaztak-az-idei-vodafone-digitalis-dijon-553327",
+        "h1": "Videó: kéz-ortézist és nyelvtanulást segítő szoftvert is díjaztak az idei Vodafone Digitális Díjon",
+        "txtlength": 15697
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/szuloseg/szulo-gyerek-stressz/",
+        "h1": "szülő gyerek stressz",
+        "txtlength": 15085
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/kapcsolat/ukran-menekultek/",
+        "h1": "„Az ép elmémet és lelkemet mentettem” - Így érzik magukat az ukrán menekültek most",
+        "txtlength": 14570
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/komplex/2022/07/01/nok-a-tudomanyban-mta-doktori-uvegplafon-diszkriminacio-1",
+        "h1": "\n      Hogy Karikó Katalin ilyen magasra jutott, csak egy hiba a mátrixban\n    ",
+        "txtlength": 26304
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/belfold/2022/07/01/legkondicionalo-klima-felmelegedes-varosklima",
+        "h1": "Minél többet légkondizunk, annál melegebb lesz",
+        "txtlength": 20394
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kultura/2022/06/30/byung-chul-han-budapest-eloadas-filozofia-kozossegi-media-kieges-erotika/",
+        "h1": "Erósz halála után csak a Tinder és a pornó marad, így fulladunk bele saját magunkba",
+        "txtlength": 16559
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kulfold/2022/07/01/unhack-democracy-valasztasok-tisztasag-ellenzek-boris-johnson/",
+        "h1": "„Hamis az a narratíva, hogy csupán két buborék létezik: a kormányé és az ellenzéké”",
+        "txtlength": 15613
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/sport/2022/07/01/budapest-honved-edzovaltas-debrecen-uj-vezetoseg-futball-nb-i-magyar-bajnoksag",
+        "h1": "Nagyon magyaros futballtörténet, hogyan lett skót edző a Honvédnál",
+        "txtlength": 15363
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2022/07/01/vizhiany-pest-megye-solymar-pilisborosjeno/",
+        "h1": "„Kisebb-nagyobb vízhiány mindig volt, de ez már vállalhatatlan”",
+        "txtlength": 15239
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/kkv/20220701_Bucsut_mondhatunk_a_legjobb_fagyiknak_a_dragulas_miatt",
+        "h1": "Búcsút mondhatunk a legjobb fagyiknak a drágulás miatt?",
+        "txtlength": 12782
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/gazdasag/20220701_julius_szabaly_valtozasok",
+        "h1": "Lejáró személyik, dráguló cigaretták: így változik az élet július 1-től",
+        "txtlength": 12025
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/vilag/20220701_haboru_percrol_percre",
+        "h1": "Erdogan ismét a svédeket és a finneket fenyegeti, tíz halottja van egy Odessza elleni rakétatámadásnak – a háború pénteki eseményei",
+        "txtlength": 11755
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/07/01/a-deepfake-en-nincsen-fek",
+        "h1": "A deepfake-en nincsen fék",
+        "txtlength": 10979
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/foci/2022/06/30/megsem-sikerult-ner-esiteni-az-ujpesti-focicsapatot",
+        "h1": "Mégsem sikerült NER-esíteni az újpesti focicsapatot",
+        "txtlength": 9300
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/politika/orosz-ukran-haboru-orosz-ukran-konfliktus-gazdasagi-valsag-recesszio-nagy-marton/9wv181k?sl_ps=d_6",
+        "h1": "A magyar gazdasági miniszter drámai jóslata: hamarosan durván beüt a válság",
+        "txtlength": 7633
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/orban-viktor-kossuth-radio-haboru-nato-ukrajna/xl3ysxs?sl_ps=d_4",
+        "h1": "A front gyorsabban közelíthet, mint gondolnánk – Kövesse velünk Orbán Viktor interjúját!",
+        "txtlength": 7396
+    },
+    {
+        "hostname": "nosalty.hu",
         "pagelink": "https://www.nosalty.hu/recept/fejtett-meggy-2-fozes-nelkul",
         "h1": "Fejtett meggy 2. -főzés nélkül",
         "txtlength": 14483
