@@ -1,5 +1,185 @@
 [
     {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/fasirt-es-borsofozelek-glutenmentesen.recept",
+        "h1": "FASÍRT ÉS BORSÓFŐZELÉK GLUTÉNMENTESEN",
+        "txtlength": 12193
+    },
+    {
+        "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/egyszeru-gyumolcsleves",
+        "h1": "Egyszerű gyümölcsleves",
+        "txtlength": 12061
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/glutenmentes-pilota-keksz.recept",
+        "h1": "GLUTÉNMENTES PILÓTA KEKSZ",
+        "txtlength": 11887
+    },
+    {
+        "hostname": "kulturpart.hu",
+        "pagelink": "https://kulturpart.hu/2022/06/17/hallgasd_meg_a_legugyesebb_fiatalokat",
+        "h1": "HALLGASD MEG A LEGÜGYESEBB FIATALOKAT!",
+        "txtlength": 4211
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/krtk/20220701/mennyit-er-a-magyar-veto-magyarorszag-veszit-rajta-ha-nem-tamogatjuk-a-tortenelmi-kiserletet-553615",
+        "h1": "Mennyit ér a magyar vétó? Magyarország veszít rajta, ha nem támogatjuk a történelmi kísérletet",
+        "txtlength": 25925
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220622_allami_szamvevoszek_torvenysertes_baloldal_ellenzek_dk_parbeszed_jobbik_partalapitvanyok_mentegetodzes_domokos_laszlo_asz_elnok",
+        "h1": "„Pártállami számvevőszék, bagatell hibák” – magyarázat helyett vádaskodik a baloldal",
+        "txtlength": 25498
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vilag/20220701/oroszorszag-immar-nyiltan-ellenseg-a-nato-szamara/",
+        "h1": "Oroszország immár nyíltan ellenség a NATO számára",
+        "txtlength": 23777
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220702_udvardy_gyorg_interju_veszprem_var_felujitas",
+        "h1": "Ne engedjük, hogy megroppanjon a gerincünk! – Udvardy György érsek a Mandinernek",
+        "txtlength": 23054
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/kozelet/20220702/magyarorszag-gyarmatositani-akarta-boszniat-csak-kozbejott-egy-vilaghaboru/",
+        "h1": "Magyarország gyarmatosítani akarta Boszniát, csak közbejött egy világháború",
+        "txtlength": 22437
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220629_hornung_agnes_mandiner_hetilap_interju_csaladugyi_allamtitkar",
+        "h1": "Fenntartjuk és bővítjük a családtámogatásokat – Hornung Ágnes a Mandinernek",
+        "txtlength": 21038
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/egeszseg/20220701/te-sem-tudnad-mit-tegyel-igy-segithesz-ha-valaki-panikrohamot-kap-a-kozeledben-1126396",
+        "h1": "Te sem tudnád, mit tegyél? Így segíthesz, ha valaki pánikrohamot kap a közeledben",
+        "txtlength": 20042
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/szorakozas/20220630/szep-csendben-termeli-a-dollarmilliardokat-a-fortnite-igy-vesznek-ra-mire-koltsd-a-penzed-1126386",
+        "h1": "Szép csendben termeli a dollármilliárdokat a Fortnite: így vesznek rá, mire költsd a pénzed",
+        "txtlength": 19014
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20220701/a-lesujto-igazsag-nemcsak-a-csipsz-a-csipszado-sem-tesz-egeszsegesebbe-553609",
+        "h1": "A lesújtó igazság: nemcsak a csipsz, a csipszadó sem tesz egészségesebbé",
+        "txtlength": 16515
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/global/20220702/tenyleg-kihalnak-a-tankok-a-csataterekrol-nem-de-valami-nagyon-megvaltozik-majd-553605",
+        "h1": "Tényleg kihalnak a tankok a csataterekről? Nem, de valami nagyon megváltozik majd",
+        "txtlength": 15214
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/szepseg/szoros-noi-test-magyar-velemeny/",
+        "h1": "Még mindig kiakadnak a magyarok egy szőrös női hónaljtól - Rengetegen taszítónak találják a szőrtelenítés hiányát",
+        "txtlength": 12510
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/szuloseg/elso-nyaralas-gyerek-nelkul/",
+        "h1": "első nyaralás gyerek nélkül",
+        "txtlength": 11922
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2022/06/30/elelmiszeripari-hulladekbol-keszit-magolajat-lisztet-es-kozmetikumokat-egy-uttoro-magyar-vallalkozas",
+        "h1": "ÉLELMISZERIPARI HULLADÉKBÓL KÉSZÍT MAGOLAJAT, LISZTET ÉS KOZMETIKUMOKAT EGY ÚTTÖRŐ MAGYAR VÁLLALKOZÁS",
+        "txtlength": 11271
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2022/07/02/politika-a-jovoben-susskinf-europa-utan-krasztev-demokracia-technologia-europai-unio/",
+        "h1": "Virtuális szex egy gyermekavatárral és a hűség nélküli brüsszeli vezetők – íme a jövő politikájának nagy kihívásai",
+        "txtlength": 22789
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kulfold/2022/07/02/usa-abortusz-legfelsobb-birosag-dontes-roe-v-wade",
+        "h1": "Komoly politikai zűrzavart hozott, hogy az USA-ban kivették az abortuszt az alapjogok közül",
+        "txtlength": 21708
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/szorakozas/2022/07/01/baz-luhrmann-rendezo-portre-elvis-presley",
+        "h1": "A legnagyobb showmant csak imádni vagy gyűlölni lehet",
+        "txtlength": 18234
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/elet/20220701_bezar_az_atrium_szinhaz_interju_zsedenyi_balazs_fuggetlen_szinhaz_tamogatas",
+        "h1": "„Ennek nem szabadna megtörténnie, ez rombolás” – Tényleg bezár az Átrium?",
+        "txtlength": 17897
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/elet-stilus/2022/07/02/minden-orszagnak-szuksege-van-tengerre-nekunk-az-adria-jutott/",
+        "h1": "Minden országnak szüksége van tengerre – nekünk az Adria jutott",
+        "txtlength": 17497
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/szorakozas/2022/07/02/burgenland-extreme-az-akarat-el-caminoja-a-ferto-to-korul",
+        "h1": "Burgenland Extreme: az akarat El Caminója a Fertő tó körül",
+        "txtlength": 14120
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/kkv/20220701_aszaly_buza_aratas",
+        "h1": "Drágaságra aszály: rövidesen aranyárban vehetjük a kenyeret",
+        "txtlength": 13632
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20220701_Dol_a_penz_a_Mathias_Corvinus_Collegiumhoz_megis_egy_ev_alatt_120_szorosara_novelte_a_veszteseget",
+        "h1": "Az MCC nekiállt elverni a közpénzből kapott százmilliárdos pénzvagyont",
+        "txtlength": 13345
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kultura/2022/07/01/julius-sorozatpremierek-netflix-hbo-max-amazon-prime-video-apple-tv-plus/",
+        "h1": "Júliusban a streamingcégek is nyaralnak, de így is sok új sorozat érkezik",
+        "txtlength": 13155
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/07/01/oroszorszag-egyszeruen-kicsavarja-a-shell-es-egy-japan-energiaceg-kezebol-a-vilag-egyik-legnagyobb-lng-projektjet",
+        "h1": "Oroszország egyszerűen kicsavarja a Shell és egy japán energiacég kezéből a világ egyik legnagyobb LNG-projektjét",
+        "txtlength": 10978
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/07/02/orban-a-rend-es-a-biztonsag-magyarorszag-legkemenyebb-valutaja",
+        "h1": "Orbán: A rend és a biztonság Magyarország legkeményebb valutája",
+        "txtlength": 10792
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/krimi/akacfa-utca-gyilkossag-nancy/7j0srkf?sl_ps=d_10",
+        "h1": "Villanyvezetékkel fojtogatták, végül halálra szurkálták Nancyt az Akácfa utcában: elítélték a gyilkosát, de soha nem ült",
+        "txtlength": 8424
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/krimi/aranykez-utca-robbantas-maffialeszamolas/gpv0hke",
+        "h1": "A nap, amikor hatalmas robbanás rázta meg az Aranykéz utcát: maffialeszámolás, amiben ártatlan emberek is meghaltak",
+        "txtlength": 8382
+    },
+    {
         "hostname": "nosalty.hu",
         "pagelink": "https://www.nosalty.hu/recept/eredeti-gorog-salata",
         "h1": "Eredeti görög saláta",
