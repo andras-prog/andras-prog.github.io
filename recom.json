@@ -1,5 +1,185 @@
 [
     {
+        "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/meggyes-piskota",
+        "h1": "Meggyes piskóta",
+        "txtlength": 11865
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/fustos-pogacsa.recept",
+        "h1": "FÜSTÖS POGÁCSA",
+        "txtlength": 11626
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/szanto-veto-reggelije.recept",
+        "h1": "SZÁNTÓ-VETŐ REGGELIJE",
+        "txtlength": 10297
+    },
+    {
+        "hostname": "hataratkelo.blog.hu",
+        "pagelink": "https://hataratkelo.blog.hu/2022/06/22/a_farm_ahol_elunk_a_valosagban#c41467621",
+        "h1": "A farm, ahol élünk – a valóságban",
+        "txtlength": 76488
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220628_molnar_attila_karoly_keresztenyseg_es_politika_interju",
+        "h1": "Ma a baloldal kereszténység-képe a jófej szociális munkás Jézus – Molnár Attila Károly a Mandinernek",
+        "txtlength": 33762
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220622_elet_interju_marta_istvan_kapolcs_muveszetek_volgye",
+        "h1": "A cél az, hogy a falu falu maradjon! – Márta István a Mandinernek",
+        "txtlength": 33014
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2022/07/03/babeli-zurzavarban-indult-utnak-150-eve-az-osztrak-magyar-expedicio-ami-messzebb-jutott-eszakra-mint-elotte-barki-mas",
+        "h1": "BÁBELI ZŰRZAVARBAN INDULT ÚTNAK 150 ÉVE AZ OSZTRÁK-MAGYAR EXPEDÍCIÓ, AMI MESSZEBB JUTOTT ÉSZAKRA, MINT ELŐTTE BÁRKI MÁS",
+        "txtlength": 26230
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220629_ryanair_kozteherviseles_mandiner_hetilap_extraprofitado",
+        "h1": "Fapados közteherviselés – mi a baja Ryanairnek?",
+        "txtlength": 24062
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/egeszseg/20220702/kemeny-arat-fizet-aki-ezeket-az-etrendeket-kovetne-mar-ez-is-luxus-magyarorszagon-1126444",
+        "h1": "Kemény árat fizet, aki ezeket az étrendeket követné: már ez is luxus Magyarországon?",
+        "txtlength": 23365
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/global/20220703/meglepo-helyre-vezetett-putyin-elso-kulfoldi-utja-a-haboru-kitorese-ota-miert-fontos-moszkvanak-a-vilag-egyik-legszegenyebb-orszaga-553611",
+        "h1": "Meglepő helyre vezetett Putyin első külföldi útja a háború kitörése óta – Miért fontos Moszkvának a világ egyik legszegényebb országa?",
+        "txtlength": 18296
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/kozelet/20220703/az-egyszerubb-meddosegi-kezeleseket-a-megyei-korhazakra-bizhatja-a-kormany/",
+        "h1": "Az egyszerűbb meddőségi kezeléseket a megyei kórházakra bízhatja a kormány",
+        "txtlength": 18238
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/karrier/20220630/komoly-beremelesre-szamithatnak-ezek-a-dolgozok-mindossze-ennyit-kell-tenniuk-hozza-1126131",
+        "h1": "Komoly béremelésre számíthatnak ezek a dolgozók: mindössze ennyit kell tenniük hozzá",
+        "txtlength": 18169
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/szuloseg/gyerek-hazugsag-eletkor/",
+        "h1": "gyerek hazugság életkor",
+        "txtlength": 16793
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20220703/gyorsan-romlik-a-magyar-gazdasag-kulso-egyensulya-553811",
+        "h1": "Gyorsan romlik a magyar gazdaság külső egyensúlya",
+        "txtlength": 15308
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/tech/20220702/az-erkelyre-rakhato-egyszeru-napelemes-rendszer-magyarorszagon-szabalyellenes/",
+        "h1": "Az erkélyre rakható egyszerű napelemes rendszer Magyarországon szabályellenes",
+        "txtlength": 15032
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/ingatlan/20220703/ezek-ma-a-vilag-legelhetobb-varosai-hol-kereshetsz-a-legtobbet-es-hol-elhetsz-a-legolcsobban-553401",
+        "h1": "Ezek ma a világ legélhetőbb városai: hol kereshetsz a legtöbbet és hol élhetsz a legolcsóbban?",
+        "txtlength": 13324
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/kapcsolat/naci-fegyorno-anneliese-kohlmann/",
+        "h1": "A náci felügyelőnő megverte és szexuálisan kihasználta az asszonyokat – Anneliese Kohlmann kegyetlenségei",
+        "txtlength": 9736
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/eletmod/2022/07/03/menstruacio-ciklustudatossag-tabu",
+        "h1": "Sokan nem is gondoljuk, hogy a menstruációra pozitívan is lehet gondolni",
+        "txtlength": 16817
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/tudomany/2022/07/03/rakosi-matyas-kommunizmus-diktatura-sztalin-rajk-per/",
+        "h1": "Ráégett a Rajk-ügy a hiú és nőies Rákosi Mátyásra",
+        "txtlength": 16420
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/velemeny/2022/07/03/a-magyar-jogallamisag-kozos-europai-ugyunk-avagy-az-eu-intezmenyei-sokkal-tobbet-is-tehetnenek-a-fuggetlen-magyar-media-es-a-civil-szervezetek-tamogatasaert",
+        "h1": "Az EU olyan, mintha a Ferrarit állandóan kettesben vezetnénk",
+        "txtlength": 16337
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2022/07/03/utcarol-lakasba-egyesulet-lakhatas-ukrajna-menekultek/",
+        "h1": "„Nekem volt helyem, egy csomó embernek pedig hely kell. Ennyi”",
+        "txtlength": 16307
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/belfold/2022/07/02/kadar-janos-kapoly-gyerekkori-haz-tortenelem",
+        "h1": "Hatmilliót költöttek Kádár emlékházára, ami nem is Kádáré volt, ma viszont az enyészeté",
+        "txtlength": 16169
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/zhvg/20220703_Klimabarat_fogyasztas_etkezesi_szokasok",
+        "h1": "Klímabarát étkezés: a növekvő árak és étkezési szokásaink írják felül a környezetvédelmi szempontokat",
+        "txtlength": 14254
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/elet/20220702_Ne_Elf_Bart_vegyen_hanem_levegot_junius_kult_osszefoglalo",
+        "h1": "Ne Elf Bart vegyen, hanem levegőt!",
+        "txtlength": 13874
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kultura/2022/07/03/allitsatok-meg-terezanyut-szex-racz-zsuzsa-matine/",
+        "h1": "Marhaság, hogy az első randin tilos lefeküdni?",
+        "txtlength": 13651
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/07/03/12-telepulesen-tartanak-idokozi-valasztast-a-polgarmester-halala-miatt",
+        "h1": "12 településen tartanak időközi választást a polgármester halála miatt",
+        "txtlength": 12467
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/07/03/egy-nap-alatt-megduplazodtak-az-atrium-adomanyai-de-ez-nem-potolhatja-az-allami-tamogatast",
+        "h1": "Egy nap alatt megduplázódtak az Átrium adományai, de ez nem pótolhatja az állami támogatást",
+        "txtlength": 11680
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/sport/20220702_vizilabda_vizes_vilagbajnoksag_donto_magyarorszag_egyesult_allamok",
+        "h1": "Hatalmasat küzdött, de kikapott a női vízilabda-válogatott a vébédöntőben",
+        "txtlength": 11105
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/horn-gyula-miniszterelnok-portre-90-eves-szuletett/bhf4brd?sl_ps=d_3",
+        "h1": "90 éve született Horn Gyula – Ezek voltak a rendszerváltás utáni harmadik miniszterelnök életének fontosabb pillanatai",
+        "txtlength": 9716
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/segelyhivas-legfurcsabb-rendorseg-szellem/7sly4xm?sl_ps=d_7",
+        "h1": "Szellemek a házban, ufók rabolták el, átjár a falon az erőszakoló: döbbenetes segélyhívások érkeznek a rendőrségre",
+        "txtlength": 8586
+    },
+    {
         "hostname": "mindmegette.hu",
         "pagelink": "https://www.mindmegette.hu/fasirt-es-borsofozelek-glutenmentesen.recept",
         "h1": "FASÍRT ÉS BORSÓFŐZELÉK GLUTÉNMENTESEN",
