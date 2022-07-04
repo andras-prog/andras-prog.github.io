@@ -1,6 +1,186 @@
 [
     {
         "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/baracklekvar-egyszeruen",
+        "h1": "Baracklekvár egyszerűen",
+        "txtlength": 12074
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/serpenyos-gyoza-gomboc.recept",
+        "h1": "SERPENYŐS GYOZA GOMBÓC",
+        "txtlength": 10248
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/parizsi-krem.recept",
+        "h1": "PÁRIZSI KRÉM",
+        "txtlength": 10029
+    },
+    {
+        "hostname": "kulturpart.hu",
+        "pagelink": "https://kulturpart.blog.hu/2022/07/03/vilagszinvonal_mikrokornyezetben",
+        "h1": "VILÁGSZÍNVONAL MIKROKÖRNYEZETBEN",
+        "txtlength": 6174
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220518_szarka_gyula_interju",
+        "h1": "Szeretek felvidéki lenni – Szarka Gyula a Mandinernek",
+        "txtlength": 26994
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/global/20220704/korabban-zajlott-az-elso-vilaghaboru-magyar-hose-is-volt-az-amerikai-fuggetlensegi-haborunak-554045",
+        "h1": "Korábban zajlott az első “világháború”? – Magyar hőse is volt az amerikai függetlenségi háborúnak",
+        "txtlength": 21657
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vallalat/20220704/ev-kozben-is-emelni-kell-a-bereket-kulonben-nem-lesz-ember-a-szallodakban-es-ettermekben/",
+        "h1": "Év közben is emelni kell a béreket, különben nem lesz ember a szállodákban és éttermekben",
+        "txtlength": 21366
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220701_tasnadi_peter_keresztapa_interju_becsuletes_elet",
+        "h1": "Mindenki éljen becsületes életet! – Tasnádi Péter a Mandinernek",
+        "txtlength": 20358
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.penzcentrum.hu/vallalkozas/20220704/ezzel-robbantana-bankot-rengeteg-magyar-sokan-nem-is-ismerik-pedig-milliok-mulhatnak-rajta-1126437",
+        "h1": "Ezzel robbantana bankot rengeteg magyar: sokan nem is ismerik, pedig milliók múlhatnak rajta",
+        "txtlength": 18780
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/vallalkozas/20220704/ezzel-robbantana-bankot-rengeteg-magyar-sokan-nem-is-ismerik-pedig-milliok-mulhatnak-rajta-1126437",
+        "h1": "Ezzel robbantana bankot rengeteg magyar: sokan nem is ismerik, pedig milliók múlhatnak rajta",
+        "txtlength": 18678
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220704_husz_ev_budahazy_a_bortonbol_uzen",
+        "h1": "Húsz év – Budaházy a rács mögül üzen",
+        "txtlength": 18241
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/gazdasag/20220630/igy-valtozik-az-eletunk-julius-1-jetol-ezekrol-feltetlenul-tudnod-kell-1126485",
+        "h1": "Így változik az életünk július 1-jétől: ezekről feltétlenül tudnod kell!",
+        "txtlength": 16479
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vallalat/20220703/egy-34-meteres-jacht-es-tobb-ezer-hekto-ecet-maradt-a-magyar-asvanyvizkiraly-birodalmabol/",
+        "h1": "Egy 34 méteres jacht és több ezer hektó ecet maradt a magyar ásványvízkirály birodalmából",
+        "txtlength": 14531
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/global/20220704/egy-hely-amely-egyszerre-putyin-eloretolt-helyorsege-es-oroszorszag-legnyugatosabb-regioja-554043",
+        "h1": "Egy hely, amely egyszerre Putyin előretolt helyőrsége és Oroszország legnyugatosabb régiója",
+        "txtlength": 14129
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2022/07/04/boldog-10-szuletesnapot-higgs-bozon",
+        "h1": "BOLDOG 10. SZÜLETÉSNAPOT, HIGGS-BOZON!",
+        "txtlength": 12608
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/szuloseg/eltunt-gyerekek/",
+        "h1": "eltűnt gyerekek",
+        "txtlength": 10941
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/ezo/heti_horoszkop/202227/",
+        "h1": "Heti horoszkóp július 4-től 10-ig: a Halak a karrierben lép előre, a Kosnak udvarolnak",
+        "txtlength": 10577
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2022/07/04/tejtermeles-gazdak-takarmany-teheneszet-arak-koltsegek-inflacio-riport/",
+        "h1": "„Szájáról fejik a tehenet”",
+        "txtlength": 22826
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kultura/2022/07/03/abortusz-betiltas-filmek-sorozatok-dirty-dancing-keresztapa/",
+        "h1": "Betilthatják az abortuszt, de a filmekben nem tehetik ismét tabuvá",
+        "txtlength": 21838
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/tech/2022/07/03/leterdelnek-e-az-autok-a-3g-adatszolgaltatas-megszunesevel",
+        "h1": "Letérdelnek-e az autók a 3G adatszolgáltatás megszűnésével?",
+        "txtlength": 16999
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/szorakozas/2022/07/03/tom-cruise-hollywood-mozi-portre-60-eves",
+        "h1": "Számtalanszor megmentette már a világot a vásznon, de a legnagyobb csatát most vívja",
+        "txtlength": 16014
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/belfold/2022/07/04/kulfoldi-ugynok-civil-torveny-ngo-orosz-minta-magyarorszag-lengyelorszag",
+        "h1": "Az ügynöktörvényén szigorító Kreml útját járja a Fidesz a sajtó és a civilek elleni harcában",
+        "txtlength": 15901
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20220704_2052_titkositas_katonai_dron",
+        "h1": "2052-ig nem fog kiderülni, mit tett a honvédség az országot átszelő katonai drón ügyében",
+        "txtlength": 13774
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/07/04/a-posta-siofoki-udulojet-is-az-a-ceg-vette-meg-amelynek-tulajdonosat-hadhazy-akos-tobb-szalon-ossze-tudta-kotni-rogan-antal-kabinetfonokevel",
+        "h1": "A Posta siófoki üdülőjét is az a cég vette meg, amelynek tulajdonosát Hadházy Ákos több szálon össze tudta kötni Rogán Antal kabinetfőnökével",
+        "txtlength": 13024
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/07/04/rosszabbul-elunk-mint-fel-eve",
+        "h1": "Rosszabbul élünk, mint fél éve",
+        "txtlength": 12026
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/elet/20220703_balatoni_biszbaszok",
+        "h1": "Vízen kullogók és antik képeslapok: mi az idei sláger a Balatonon?",
+        "txtlength": 10238
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/eurologus/20220704_Romlott_a_magyar_jogallamisag_helyzete__atfogo_jelentes_keszul_ez_EPben",
+        "h1": "Romlott a magyar jogállamiság helyzete az EP szerint - új átfogó jelentés készül",
+        "txtlength": 9831
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kulfold/2022/07/04/luhanszk-orosz-ukran-haboru-donyeck-julius-4/",
+        "h1": "Luhanszk elfoglalása után Donyeck felé veszik az irányt az oroszok",
+        "txtlength": 8873
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/tamasi-szemethegy-elszallitas/1zx0xd2?sl_ps=d_4",
+        "h1": "Botrányt kavart a szeméthegy Tamásiban: elmentünk megnézni, mi maradt belőle és beütött a magyar valóság",
+        "txtlength": 7717
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/lakasmaffia-csalad-ingatlanok/32nerlr",
+        "h1": "A lakásmaffia legaljasabb módszere: behálózzák a hölgyeket, majd a családjuk ellen fordítják – Segélykérő üzenet",
+        "txtlength": 6935
+    },
+    {
+        "hostname": "nosalty.hu",
         "pagelink": "https://www.nosalty.hu/recept/meggyes-piskota",
         "h1": "Meggyes piskóta",
         "txtlength": 11865
