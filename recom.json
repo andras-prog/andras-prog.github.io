@@ -1,6 +1,174 @@
 [
     {
         "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/klasszikus-langos",
+        "h1": "Klasszikus lángos",
+        "txtlength": 18810
+    },
+    {
+        "hostname": "hataratkelo.blog.hu",
+        "pagelink": "https://hataratkelo.blog.hu/2022/06/22/a_farm_ahol_elunk_a_valosagban#c41468445",
+        "h1": "A farm, ahol élünk – a valóságban",
+        "txtlength": 80097
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/vasarlas/20220704/megszolalt-a-spar-vezer-elelmiszerhiany-nem-lesz-de-elszallhat-egyes-termekek-ara-1126461",
+        "h1": "Megszólalt a SPAR-vezér: élelmiszerhiány nem lesz, de elszállhat egyes termékek ára",
+        "txtlength": 34206
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220705_papa_valasztas",
+        "h1": "Érdemes-e találgatni a magyar pápáról?",
+        "txtlength": 29831
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220705_budapestbol_is_lehet_bucsa_lengyel_konzervativ_mediavezer_uzenete_a_magyarokhoz",
+        "h1": "Budapestből is lehet Bucsa – lengyel konzervatív médiavezér üzenete a magyarokhoz",
+        "txtlength": 21050
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/kozelet/20220705/cegautonak-hasznalt-plug-in-hibridekkel-lehet-igazan-szennyezni-a-kornyezetet/",
+        "h1": "Cégautónak használt plug-in hibridekkel lehet igazán szennyezni a környezetet",
+        "txtlength": 18724
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220703_nem_kerunk_az_energiakommunizmusbol_weber_ur",
+        "h1": "Nem kérünk az „energiakommunizmusból”, Weber úr!",
+        "txtlength": 18515
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/vasarlas/20220630/elkepeszto-mire-szorjak-a-magyarok-a-penzt-ugy-vesszuk-ezeket-mint-a-cukrot-1126278",
+        "h1": "Elképesztő, mire szórják a magyarok a pénzt: úgy vesszük ezeket, mint a cukrot",
+        "txtlength": 17514
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vilag/20220704/kinai-kenyszermunkasok-allitjak-elo-a-napelemet-europanak/",
+        "h1": "Kínai kényszermunkások állítják elő a napelemet Európának",
+        "txtlength": 17484
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/uzlet/20220705/inflacios-nyomas-recesszios-felelmek-es-folytatodo-haboru-lefele-vettek-az-iranyt-a-tozsdek-554283",
+        "h1": "Inflációs nyomás, recessziós félelmek és folytatódó háború - Lefelé vették az irányt a tőzsdék ",
+        "txtlength": 16198
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20220704/megallithatatlanul-terjed-a-majomhimlo-magyarorszag-is-kap-a-vedooltasbol-554133",
+        "h1": "Megállíthatatlanul terjed a majomhimlő, Magyarország is kap a védőoltásból",
+        "txtlength": 15176
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.penzcentrum.hu/egeszseg/20220705/tobb-tizezer-magyar-dolgozo-rohan-a-vesztebe-nem-sejtik-mennyire-veszelyes-igy-dolgozni-1126609",
+        "h1": "Több tízezer magyar dolgozó rohan a vesztébe: nem sejtik, mennyire veszélyes így dolgozni",
+        "txtlength": 14872
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2022/07/05/azonnal-kidobod-ujrahasznositani-sem-lehet-akkor-miert-adnak-minden-arva-konyv-melle-egy-kilometer-hosszu-szamlat",
+        "h1": "AZONNAL KIDOBOD, ÚJRAHASZNOSÍTANI SEM LEHET, AKKOR MIÉRT ADNAK MINDEN ÁRVA KÖNYV MELLÉ EGY KILOMÉTER HOSSZÚ SZÁMLÁT?",
+        "txtlength": 14453
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/szuloseg/kamasz-kresz-auto/",
+        "h1": "kamasz kresz autó",
+        "txtlength": 12110
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/utazas/tengerpart-horvat-varosok-volanbusz/",
+        "h1": "Mesés, tengerparti horvát városok, ahová éjszaka elvisz a Volánbusz: reggel már a vízben gyönyörködhettek",
+        "txtlength": 10187
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/interju/2022/07/05/goschi-gabriella-palvolgyi-agnes-interju-sportpszichologia-lelki-fizikai-terror-paradigmavaltas",
+        "h1": "A fizikai bántalmazás egyre ritkább a sportban, az érzelminek viszont egyre kifinomultabb formái jelennek meg",
+        "txtlength": 21168
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/velemeny/2022/07/05/rakpartvita-parttalan-vagy-rakparttalan",
+        "h1": "Rakpartvita: a zöld Duna-part gyógyszer a hőhullámra is",
+        "txtlength": 20451
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/gazdasag/2022/07/04/elfogy-a-homok-folyok-homokbanyaszat",
+        "h1": "Nincs homok",
+        "txtlength": 18669
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/gazdasag/20220704_repuloter_kaosz_kartalanitas_segitseg",
+        "h1": "Törölték a repülőjáratát, vagy órákat késett? Elmondjuk, hogyan kaphat segítséget vagy kártalanítást",
+        "txtlength": 17976
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2022/07/04/schiffer-andras-globalis-minimumado-magyar-kormany-baloldal-jobboldal/",
+        "h1": "Schiffer András: A globális minimumadó csapdája",
+        "txtlength": 17278
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2022/07/05/szalay-bobrovniczky-kristof-mcc-nato-katonasag/",
+        "h1": "Honvédelmi miniszter: Senki nem beszél arról, hogy a dolgok rosszra is fordulhatnak",
+        "txtlength": 13549
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kulfold/2022/07/05/orosz-ukran-haboru-luhanszk-donyeck-putyin-zelenszkij-julius-5/",
+        "h1": "Újjáépítésre költené az orosz oligarchák elkobzott vagyonát az ukrán miniszterelnök",
+        "txtlength": 12184
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/gazdasag/20220705_Nagy_Marton_Ne_az_emberekkel_fizettessek_meg",
+        "h1": "Nagy Márton: Ne az emberekkel fizettessék meg!",
+        "txtlength": 11853
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/07/05/orban-igazi-terve-es-a-magyar-filmgyartas-fekete-napja",
+        "h1": "Orbán igazi terve és a magyar filmgyártás fekete napja",
+        "txtlength": 11418
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/vilag/20220705_orosz_ukran_haboru_volodimir_zelenszkij_vlagyimir_putyin",
+        "h1": "Ellentámadást terveznek az ukránok Donyeckben, műholdfelvételek bizonyítják, hogy az oroszok lopják a gabonát – a háború keddi hírei",
+        "txtlength": 11376
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/07/05/julius-negyedike-a-fuggetlenseg-hianya-miatt-elmarad-udvozlettel-a-nok",
+        "h1": "„Július negyedike a függetlenség hiánya miatt elmarad. Üdvözlettel, a nők”",
+        "txtlength": 11241
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/duna-eltunt-fegyor-kikepzes-dunaujvaros-tek/tskzkdv?sl_ps=d_1",
+        "h1": "Drámai hírek érkeztek a Dunába borult kutyakiképző fegyőrökről",
+        "txtlength": 7522
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/gyilkossag-eltunes-rejtely-diosjeno-tini-akasztas-testver-szexragadozo-neveloapa/jdmnweh?sl_ps=d_11",
+        "h1": "Három tini halála száradhat a diósjenői szexragadozó lelkén – „A gyilkos nevelőapa miatt akasztotta fel magát a testvérem”",
+        "txtlength": 7263
+    },
+    {
+        "hostname": "nosalty.hu",
         "pagelink": "https://www.nosalty.hu/recept/baracklekvar-egyszeruen",
         "h1": "Baracklekvár egyszerűen",
         "txtlength": 12074
