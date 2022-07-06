@@ -1,6 +1,180 @@
 [
     {
         "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/cukkinis-tocsni",
+        "h1": "Cukkinis tócsni",
+        "txtlength": 12369
+    },
+    {
+        "hostname": "hataratkelo.blog.hu",
+        "pagelink": "https://hataratkelo.blog.hu/2022/07/05/az_utolso_ut_zurichbe#c41470743",
+        "h1": "Az utolsó út Zürichbe",
+        "txtlength": 16068
+    },
+    {
+        "hostname": "kulturpart.hu",
+        "pagelink": "https://kulturpart.blog.hu/2022/07/04/budapesten_ad_koncertet_a_vilaghiru_magyar_virtuoz",
+        "h1": "BUDAPESTEN AD KONCERTET A VILÁGHÍRŰ MAGYAR VIRTUÓZ",
+        "txtlength": 4760
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220705_kover_laszlo_interju_fidesz_ukrajna_putyin_haboru_oroszorszag",
+        "h1": "A gonosz történelmi koronként újabb és újabb formát öltve tér vissza – exkluzív interjú Kövér Lászlóval",
+        "txtlength": 36466
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220704_kotter_tamas_vikingek_netflix_irodalom_regeny",
+        "h1": "„Sorozatok vették át a vallás szerepét” – Kötter Tamás a Vikingek című regényéről",
+        "txtlength": 22551
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/global/20220706/brutalis-lenduletben-vannak-az-oroszok-a-donbaszban-van-meg-egyaltalan-esely-az-ukran-gyozelemre-554451",
+        "h1": "Brutális lendületben vannak az oroszok a Donbaszban – Van még egyáltalán esély az ukrán győzelemre?",
+        "txtlength": 21277
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220705_manfred_weber_kormany_orban_gaz_ukrajna_europai_neppart",
+        "h1": "Így „háborúzik” évek óta Weber a magyar kormánnyal",
+        "txtlength": 18813
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/unios-forrasok/20220706/felfedte-navracsics-tibor-az-eu-penzes-targyalasok-szamos-erdekes-reszletet-554627",
+        "h1": "Felfedte Navracsics Tibor az EU-pénzes tárgyalások számos érdekes részletét",
+        "txtlength": 17246
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/uzlet/20220706/nagy-eses-utan-emelkednek-a-tozsdek-554533",
+        "h1": "Nagy esés után emelkednek a tőzsdék ",
+        "txtlength": 16520
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/tech/20220701/meregdraga-de-imadjak-a-magyarok-igy-veheted-meg-az-uj-iphone-t-30-szazalekkal-olcsobban-1126449",
+        "h1": "Méregdrága, de imádják a magyarok: így veheted meg az új iPhone-t 30 százalékkal olcsóbban",
+        "txtlength": 16136
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/hitel/20220706/orult-kamatrobbanas-kozeledik-a-magyar-bankokba-csak-igy-lehet-nagyot-sporolni-ezeken-a-hiteleken-1126645",
+        "h1": "Őrült kamatrobbanás közeledik a magyar bankokba: csak így lehet nagyot spórolni ezeken a hiteleken",
+        "txtlength": 15867
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/adat/20220706/kozel-30-szazalekos-az-elelmiszer-inflacio-mar-a-boltok-sem-birjak-kovetni-egymast/",
+        "h1": "Közel 30 százalékos az élelmiszerek árának inflációja, már a boltok sem bírják követni egymást",
+        "txtlength": 14325
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vilag/20220704/a-nemet-haztartasok-most-fognak-eloszor-farkasszemet-nezni-a-gaz-uj-araval-a-szakszervezetek-arsapkat-kovetelnek/",
+        "h1": "A német háztartások most fognak először farkasszemet nézni a gáz új árával, a szakszervezetek ársapkát követelnek",
+        "txtlength": 13205
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2022/07/06/mit-muvelnek-a-depresszio-ellen-felirt-gyogyszerek-az-agyban",
+        "h1": "MIT MŰVELNEK A DEPRESSZIÓ ELLEN FELÍRT GYÓGYSZEREK AZ AGYBAN?",
+        "txtlength": 12865
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/lajfhekk/grillezes-hus-sutes/",
+        "h1": "grillezés hús sütés",
+        "txtlength": 11714
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/gyerek/genetikai-vizsgalatok-terhesseg/",
+        "h1": "300 genetikai betegség mutatható ki egyetlen vérvétellel - A 15. terhességi hétig érdemes megcsináltatni",
+        "txtlength": 11709
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/tudomany/2022/07/06/air-7-vitamin-herbapirin-gyogynoveny-etrend-kiegeszito-siren7-kalibra-koltai-viktor-nebih-gvh-ogyei",
+        "h1": "Újabb gyanús étrend-kiegészítő mögött tűnt fel a betiltott „tüdővitamin” forgalmazója",
+        "txtlength": 38485
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/elet/20220706_edzeni_a_nagymutetre__szemleletvaltas_a_korhazban",
+        "h1": "Egy nagyműtétre épp úgy fel kell készülnie a betegnek, mint egy maratonfutásra",
+        "txtlength": 18400
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kozelet/2022/07/06/bulgaria-kormanyvalsag-kormanyalakitas-koalicio-harvardiak/",
+        "h1": "A hagyományosan oroszbarát Bulgária kapcsolata Moszkvával végletesen eldurvulni látszik",
+        "txtlength": 18034
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/belfold/2022/07/05/kozeleti-programot-indit-a-szegedi-motivacio-egyesulet-amely-mar-egy-evtizede-dolgozik-az-oktatasi-eselyegyenlosegert",
+        "h1": "„Azért ez még nem Oroszország – bár lehet, hogy az lesz”",
+        "txtlength": 17520
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/szorakozas/2022/07/05/stranger-things-negyedik-evad-lezaras-kritika-netflix",
+        "h1": "Stranger Things = Halálos iramban",
+        "txtlength": 14992
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/07/06/a-sajtonak-rendezhettek-meg-az-elegetett-erdelyi-levelszavazatokrol-szolo-sztorit",
+        "h1": "A sajtónak rendezhették meg az elégetett erdélyi levélszavazatokról szóló sztorit",
+        "txtlength": 10078
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/07/05/lemondott-boris-johnson-kormanyanak-ket-befolyasos-tagja",
+        "h1": "Lemondott Boris Johnson kormányának két befolyásos tagja",
+        "txtlength": 9940
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kozelet/2022/07/06/babavaro-csok-buntetokamat-szemelyi-kolcson-kamatemeles-buntetes/",
+        "h1": "Hajmeresztő büntetés fenyegeti a csokosokat",
+        "txtlength": 9931
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/fn/gazdasag/2022/07/06/a-kaszinobiznisz-garancsi-szalay-bobrovniczky-osztalek/",
+        "h1": "Két év alatt megtérült a kaszinóbiznisz Garancsi és Szalay-Bobrovniczky közös cégének",
+        "txtlength": 9632
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/penz/csok-babavaro-hitel-buntetes-dragul/ljm2bh5",
+        "h1": "Nagyon sokba kerül, ha nincs gyerek: már hitelkártyakamaton ketyeg a csok-büntetés, és a személyi kölcsönén a babaváró",
+        "txtlength": 9001
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/kultura/20220705_mentocsomag_fovarosi_onkormanyzat_atrium_central_szinhaz_pinter_bela_tarsulat",
+        "h1": "Mentőcsomagot dolgoz ki a főváros az Átrium, a Centrál és Pintér Béláék kisegítésére",
+        "txtlength": 8556
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/kultura/20220704_Leall_az_HBO_a_sajat_tartalmak_gyartasaval_Europa_nagy_reszen_Magyarorszagon_is",
+        "h1": "Leáll az HBO a saját tartalmak gyártásával Magyarországon és Európa nagy részén",
+        "txtlength": 8384
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/kulfoldi-nyaralas-2022-felmeres/3l4lxeb",
+        "h1": "Külföldi nyaralás: vajon visszatért a magyarok utazási kedve? Friss felmérés kutatta a választ",
+        "txtlength": 7403
+    },
+    {
+        "hostname": "nosalty.hu",
         "pagelink": "https://www.nosalty.hu/recept/klasszikus-langos",
         "h1": "Klasszikus lángos",
         "txtlength": 18810
