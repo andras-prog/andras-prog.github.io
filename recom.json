@@ -1,6 +1,186 @@
 [
     {
         "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/sargabarack-lekvar",
+        "h1": "Sárgabarack lekvár",
+        "txtlength": 16508
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/klasszik-nero.recept",
+        "h1": "KLASSZIKUS NÉRÓ TEASÜTEMÉNY",
+        "txtlength": 12059
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/sargabarackos-kokuszhabos-szelet.recept",
+        "h1": "SÁRGABARACKOS-KÓKUSZHABOS SZELET",
+        "txtlength": 11794
+    },
+    {
+        "hostname": "kulturpart.hu",
+        "pagelink": "https://kulturpart.hu/2022/07/04/budapesten_ad_koncertet_a_vilaghiru_magyar_virtuoz",
+        "h1": "BUDAPESTEN AD KONCERTET A VILÁGHÍRŰ MAGYAR VIRTUÓZ",
+        "txtlength": 4763
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220709_kukorelly_endre_interju_irodalom_elet",
+        "h1": "A városi értelmiségnek fogalma sincs arról, mi megy vidéken – Kukorelly Endre a Mandinernek",
+        "txtlength": 34785
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/kozelet/20220708/a-forint-a-jatekpenz-kategoriaja-fele-halad/",
+        "h1": "„A forint a játékpénz kategóriája felé halad”",
+        "txtlength": 29209
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220710_olaszorszag_garibaldi_nemzeti_emlekezet",
+        "h1": "Így vitáznak a nemzeti emlékezetről Olaszországban",
+        "txtlength": 27281
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/befektetes/20220708/nagyon-csunya-lett-amit-ez-a-magyar-befektetes-csinalt-iden-555217",
+        "h1": "Nagyon csúnya lett, amit ez a magyar befektetés csinált idén",
+        "txtlength": 24659
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://makronom.mandiner.hu/cikk/20220706_haboru_nato_finnorszag_svedorszag_makronom",
+        "h1": "Hagyományosan semleges országokkal bővül a NATO: Finnország és Svédország",
+        "txtlength": 23763
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/bank/20220708/10-dolog-amiben-megvaltoztatja-az-eletunket-a-tortenelmi-kamatemeles-555193",
+        "h1": "10 dolog, amiben megváltoztatja az életünket a történelmi kamatemelés",
+        "txtlength": 22952
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vilag/20220706/balkan-az-egyik-kormany-mar-belebukott-a-bekitesbe-a-masikat-az-utcarol-akarjak-elzavarni/",
+        "h1": "Balkán: az egyik kormány már belebukott a békítésbe, a másikat az utcáról akarják elzavarni",
+        "txtlength": 22176
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2022/07/09/jogunk-van-szulove-valni",
+        "h1": "JOGUNK VAN SZÜLŐVÉ VÁLNI?",
+        "txtlength": 21253
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/hitel/20220705/kuszobon-a-brutalis-kamatrobbanas-megindult-a-roham-az-elerheto-aru-hitelekert-1126592",
+        "h1": "Küszöbön a brutális kamatrobbanás: megindult a roham az elérhető árú hitelekért",
+        "txtlength": 20174
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/otthon/20220708/lassan-tomegek-felejthetik-el-az-epitkezest-alig-van-mar-argarancia-hatalmas-a-kaosz-1126735",
+        "h1": "Lassan tömegek felejthetik el az építkezést: alig van már árgarancia, hatalmas a káosz",
+        "txtlength": 19438
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.penzcentrum.hu/utazas/20220709/siofokon-nyaralsz-igy-tudod-kivalasztani-a-legjobb-ettermeket-ahol-tuti-nem-fogsz-csalodni-1126764",
+        "h1": "Siófokon nyaralsz? Így tudod kiválasztani a legjobb éttermeket, ahol tuti nem fogsz csalódni",
+        "txtlength": 18835
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/szuloseg/szenzoros-erzekenyseg-gyerek/",
+        "h1": "szenzoros érzékenység gyermekpszichiátria",
+        "txtlength": 11238
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/utazas/legjobb-balatoni-strandok/",
+        "h1": "Itt a teljes lista a legjobb balatoni strandokról - Kiosztották a Kék Hullám Zászlókat",
+        "txtlength": 10580
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/gazdasag/20220708_energiaellatas_gaz_Gazprom_Uniper_atomeromuvek_veszhelyzet",
+        "h1": "Vészesen körvonalazódik az egész Európát fenyegető energiakáosz",
+        "txtlength": 26548
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/elet/20220708_migracio_Szerbia_deli_hatar_Szabadka",
+        "h1": "Rettegés, kétségbeesés és fegyverropogás – helyszíni riport a szerb–magyar határról, ahol embercsempészek háborúja dúl",
+        "txtlength": 18107
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/belfold/2022/07/08/rendorseg-hatarvadasz-szazadok-migracio-deli-hatar-pinter-sandor",
+        "h1": "Orbán lehetetlennek tűnő feladattal bízta meg Pintér Sándort",
+        "txtlength": 17188
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kulfold/2022/07/08/higland-park-lovoldozes-fuggetlenseg-napja-julius-4-robert-e-crimo-iii/",
+        "h1": "Családi tragédiák sorát okozta az ámokfutó rapper",
+        "txtlength": 16678
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/zhvg/20220709_Illes_Zoltan_vizugy_interju",
+        "h1": "Illés Zoltán a vízhiányról: Környezetvédelem helyett szabadrablás van",
+        "txtlength": 16152
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kulfold/2022/07/09/orosz-ukran-haboru-136-nap-percrol-percre",
+        "h1": "Brit hírszerzés: Moszkva tartalékosokat szállít az ukrán határ közelébe",
+        "txtlength": 15580
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kulfold/2022/07/09/uzbegisztan-zavargasok-alkotmanyozas-hatalomatmentes/",
+        "h1": "Véres zavargásba torkollott az üzbég diktátor hatalomátmentési kísérlete",
+        "txtlength": 15023
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/szorakozas/2022/07/09/budapest-balaton-bringaut-nem-setakerekparosoknak-valo-videk",
+        "h1": "Budapest–Balaton bringaút: nem sétakerékpárosnak való vidék",
+        "txtlength": 14963
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2022/07/09/jokai-utca-hazomlas-buntetoper-karterites-polgari-per-sandor-zsuzsa-velemeny/",
+        "h1": "Segít-e a jog a Jókai utcai házomlás áldozatainak?",
+        "txtlength": 14295
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/07/08/az-osszeomlas-szelen-az-ellenzeki-koalicio-zugloban",
+        "h1": "Az összeomlás szélén az ellenzéki koalíció Zuglóban",
+        "txtlength": 11361
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/07/08/meghalt-james-caan-a-keresztapa-es-a-tortura-sztarja",
+        "h1": "Meghalt James Caan, a Keresztapa és a Tortúra sztárja",
+        "txtlength": 10602
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/blikk-tv/aktualis/balaton-sound-2022-helyszinnyitas-elott/pnz2m21",
+        "h1": "Körbejártuk a Balaton Soundot a nyitás előtt: 2022-ben újra dübörög a fesztivál a Balatonon, felturbózva – videó",
+        "txtlength": 8618
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/tradicionalis-indiai-menyegzo-okros-szekerezes-szaribemutato-ilyen-programok-varnak/9yc2hve",
+        "h1": "Tradicionális indiai menyegző, ökrös szekerezés, száribemutató: ilyen programok várnak ránk a Krisna-völgyi Búcsún",
+        "txtlength": 8312
+    },
+    {
+        "hostname": "nosalty.hu",
         "pagelink": "https://www.nosalty.hu/recept/cukkinis-tocsni",
         "h1": "Cukkinis tócsni",
         "txtlength": 12369
