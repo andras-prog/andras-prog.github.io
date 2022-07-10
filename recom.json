@@ -1,6 +1,192 @@
 [
     {
         "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/retro-strandos-langos",
+        "h1": "Retró strandos lángos",
+        "txtlength": 19041
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/olasz-rakott-padlizsan-parmigiana-di-melanzane.recept",
+        "h1": "OLASZ RAKOTT PADLIZSÁN (PARMIGIANA DI MELANZANE)",
+        "txtlength": 11775
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/sutoporos-langos-cukorbetegeknek.recept",
+        "h1": "SÜTŐPOROS LÁNGOS CUKORBETEGEKNEK",
+        "txtlength": 10894
+    },
+    {
+        "hostname": "kiszamolo.hu",
+        "pagelink": "https://kiszamolo.hu/mitol-erosodhetne-a-forint/",
+        "h1": "Mitől erősödhetne a forint?",
+        "txtlength": 34760
+    },
+    {
+        "hostname": "efesasanisimasa.com",
+        "pagelink": "https://efesasanisimasa.com/2022/07/09/sajat-szoba-kilakoltatas-2021/",
+        "h1": "Saját szoba – Kilakoltatás (2021)",
+        "txtlength": 10070
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220708_kilugozzak_a_demokratikus_normakat_az_mszp_ben_mesterhazy_attila_a_mandinernek",
+        "h1": "Kilúgozzák a demokratikus normákat az MSZP-ben – Mesterházy Attila a Mandinernek",
+        "txtlength": 27730
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20220710/dramai-a-helyzet-europa-szerte-szep-csendben-sulyos-karokat-okoz-a-meleg-554839",
+        "h1": "Drámai a helyzet Európa-szerte: szép csendben súlyos károkat okoz a meleg",
+        "txtlength": 24141
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/global/20220710/dobbenetes-beszamoloban-vallott-az-orosz-bortonok-kegyetlen-valosagarol-putyin-eskudt-ellensege-554363",
+        "h1": "Döbbenetes beszámolóban vallott az orosz börtönök kegyetlen valóságáról Putyin esküdt ellensége",
+        "txtlength": 22979
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vilag/20220708/oroszorszag-haborut-nyer-de-husz-ev-nagyhatalmi-ambicioit-veszitheti-el/",
+        "h1": "Oroszország háborút nyer, de húsz év nagyhatalmi ambícióit veszítheti el",
+        "txtlength": 21702
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/befektetes/20220709/durva-hozamemelkedes-kozepette-tamadt-fel-egy-reg-elfeledett-befektetes-magyarorszagon-555279",
+        "h1": "Durva hozamemelkedés közepette támadt fel egy rég elfeledett befektetés Magyarországon",
+        "txtlength": 21126
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220706_brutalis_eroforrasvalsagra_kell_keszulni_gelencser_andras_a_mandinernek",
+        "h1": "Összeomlás fenyegeti a nyugati civilizációt, energiaválság közeleg – Gelencsér András a Mandinernek",
+        "txtlength": 20973
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/hitel/20220709/megrohantak-a-magyarok-a-bankokat-hiaba-a-kamatemeles-ezt-keresi-most-mindenki-1126751",
+        "h1": "Megrohanták a magyarok a bankokat: hiába a kamatemelés, ezt keresi most mindenki",
+        "txtlength": 20811
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/kozelet/20220707/nem-biztos-hogy-ukrajna-jol-jar-ha-beutnek-a-szankciok-oroszorszagnak/",
+        "h1": "Nem biztos, hogy Ukrajna jól jár, ha beütnek a szankciók Oroszországnak",
+        "txtlength": 20775
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/egeszseg/20220710/veszelyes-fertozo-kor-les-a-magyarokra-juliusban-ezekben-a-megyekben-kell-kulonosen-vigyazni-1126756",
+        "h1": "Veszélyes, fertőző kór les a magyarokra júliusban: ezekben a megyékben kell különösen vigyázni",
+        "txtlength": 19869
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220710_szepmuveszeti_henri_matisse_kiallitas",
+        "h1": "Színek és gondolatok – megnyílt a nagy Matisse-kiállítás a Szépművészetiben!",
+        "txtlength": 18567
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2022/07/10/aktiv-nyaralasra-vagysz-szegodj-el-floridaba-pitonvadasznak",
+        "h1": "AKTÍV NYARALÁSRA VÁGYSZ? SZEGŐDJ EL FLORIDÁBA PITONVADÁSZNAK!",
+        "txtlength": 13502
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/lajfhekk/legzestechnika-hasizom-szetnyilt/",
+        "h1": "légzéstechnika hasizom szétnyílt inkontinencia",
+        "txtlength": 11564
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/egeszseg/cukorbetegseg-nyaralas-tanacsok/",
+        "h1": "Szédülés, fejfájás, émelygés: a cukorbetegség nyáron különösen veszélyes lehet",
+        "txtlength": 11458
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kultura/2022/07/10/egy-verbol-valok-devenyi-istvan-matine-konyvajanlo/",
+        "h1": "Matiné: Melegpartin kapott politikai megbízást az újságíró",
+        "txtlength": 31159
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/elet/20220710_litvania_kaunas_uti_beszamolo_europa_kulturalis_fovarosa",
+        "h1": "Sok közös van a magyar és a litván történelemben, de ők mintha többet tanultak volna belőle",
+        "txtlength": 20443
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/tudomany/20220709_szovetnyomtatas_pte_szervnyomtatas_ossejtek_biotinta",
+        "h1": "Pécsen van olyan nyomtató, amelyben a sejtünk a tinta: az orvosi szövetnyomtatás világában jártunk",
+        "txtlength": 19953
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/tudomany/2022/07/09/connecting-europe-konferencia-lyon-kozlekedes-aruszallitas-tent-t-fenntarthato-mobilitas/",
+        "h1": "Egy légi káosz kellős közepén nem érdemes hidrogénmeghajtású gépekről beszélni",
+        "txtlength": 17987
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/elet-stilus/2022/07/10/kacsamesek-megszakitas-antall-jozsef-halala-a-gonosz-balna-disney/",
+        "h1": "Végre szembenézhet közel 30 éves traumájával a Kacsamesék-generáció",
+        "txtlength": 17542
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kulfold/2022/07/10/kulfold-boris-johnson-konzervativ-part-botrany-partygate-lemondas-egyesult-kiralysag-nagy-britannia",
+        "h1": "Csoda, hogy Boris Johnson eddig kihúzta",
+        "txtlength": 17113
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/eletmod/2022/07/10/abortusz-terhesseg-megszakitas-szabalyozas-torveny-egyesult-allamok-hiresseg-uma-thurman-ashley-judd-rose-mcgowan-milla-jovovich",
+        "h1": "Nem szégyellem, nem bánom, ez az én testem – világsztárok az abortuszról",
+        "txtlength": 14931
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/gazdasag/20220710_es_akkor_forint_brusszel",
+        "h1": "És akkor a kormány behódolt Brüsszelnek, hogy mentse a süllyedő forintot",
+        "txtlength": 14171
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kulfold/2022/07/09/az-orosz-autozas-visszarobog-a-szocializmusba",
+        "h1": "Az orosz autózás visszarobog a szocializmusba",
+        "txtlength": 13788
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/07/09/talib-vezeto-nem-mindig-csak-a-nok-jogaiert-kell-aggodni-a-ferfiak-is-szenvednek",
+        "h1": "Tálib vezető: Nem mindig csak a nők jogaiért kell aggódni, a férfiak is szenvednek",
+        "txtlength": 11827
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/07/10/hat-telepulesen-polgarmestert-kecskemeti-es-budapesti-keruletben-kepviselot-valasztanak-vasarnap",
+        "h1": "Hat településen polgármestert, kecskeméti és budapesti kerületben képviselőt választanak vasárnap",
+        "txtlength": 11256
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/krimi/regi-bunugyek-rozsa-sandor-szuletesenek-evforduloja-buntettek-fegyhaz/hw9750n?sl_ps=d_12",
+        "h1": "Időjósként halt meg a börtönben a leghírhedtebb betyár, Rózsa Sándor",
+        "txtlength": 9750
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/krimi/szerepjatekos-gyilkossag-itelet-edesanya/9e8h440?sl_ps=d_4",
+        "h1": "Szerepjátékkal csalták a pilisi erdőbe, majd ölték meg Zoltánt – Megszólalt a gyászoló édesanya: „A szemembe hazudott a fiam gyilkosa”",
+        "txtlength": 7592
+    },
+    {
+        "hostname": "nosalty.hu",
         "pagelink": "https://www.nosalty.hu/recept/sargabarack-lekvar",
         "h1": "Sárgabarack lekvár",
         "txtlength": 16508
