@@ -1,6 +1,198 @@
 [
     {
         "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/churros-spanyol-edesseg",
+        "h1": "Churros - spanyol édesség",
+        "txtlength": 14471
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/serpenyos-csirkemell-sult-cukkinisalataval.recept",
+        "h1": "SERPENYŐS CSIRKEMELL SÜLTCUKKINI-SALÁTÁVAL",
+        "txtlength": 12902
+    },
+    {
+        "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/elronthatatlan-sargabaracklekvar",
+        "h1": "Elronthatatlan sárgabaracklekvár",
+        "txtlength": 12315
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/glutenmentes-gyumolcskenyer.recept",
+        "h1": "GLUTÉNMENTES GYÜMÖLCSKENYÉR",
+        "txtlength": 10785
+    },
+    {
+        "hostname": "kiszamolo.hu",
+        "pagelink": "https://kiszamolo.hu/katabol-lett-fodraszadozas/",
+        "h1": "Katából lett fodrászadózás",
+        "txtlength": 39064
+    },
+    {
+        "hostname": "efesasanisimasa.com",
+        "pagelink": "https://efesasanisimasa.com/2022/07/11/kettos-szerepben-the-little-drummer-girl-tv-series-2018/",
+        "h1": "Kettős szerepben (The Little Drummer Girl, TV Series, 2018)",
+        "txtlength": 9849
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/hitel/20220711/berelni-vagy-venni-ezekben-a-magyar-varosokban-olcsobb-a-hitelt-fizetni-mint-alberletet-kivenni-1126686",
+        "h1": "Bérelni vagy venni? Ezekben a magyar városokban olcsóbb a hitelt fizetni, mint albérletet kivenni",
+        "txtlength": 22436
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220712_ukrajna_kanada_nemetorszag_energia_gazturbina_europa",
+        "h1": "Így szúrta hátba Ukrajnát Kanada és Németország energiaügyben",
+        "txtlength": 21640
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220712_dollar_euro_paritas",
+        "h1": "A dollár mellé süllyedt az euró értéke – mi folyik a pénzvilágban?",
+        "txtlength": 21435
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/otthon/20220711/akar-25-millioert-is-kaphatsz-lakast-a-balaton-kornyeken-nem-alom-de-ezzel-azert-szamolni-kell-1126790",
+        "h1": "Akár 25 millióért is kaphatsz lakást a Balaton környékén: nem álom, de ezzel azért számolni kell",
+        "txtlength": 20698
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/kozelet/20220713/nem-a-megszoritast-hanem-a-jovedelmet-csokkento-adoemelest-utaljak-igazan-az-emberek/",
+        "h1": "Nem a megszorítást, hanem a jövedelmet csökkentő adóemelést utálják igazán az emberek",
+        "txtlength": 20262
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vallalat/20220712/ezeket-az-energiaarakat-mar-minden-agazat-megszenvedi/",
+        "h1": "Ezeket az energiaárakat már minden ágazat megszenvedi",
+        "txtlength": 19845
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/global/20220713/alaposan-buntet-ukrajna-uj-csodafegyvere-de-putyint-ennyivel-aligha-lehet-megallitani-555863",
+        "h1": "Alaposan büntet Ukrajna új csodafegyvere, de Putyint ennyivel aligha lehet megállítani",
+        "txtlength": 19571
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220712_facebook_kivonulas",
+        "h1": "Durva lesz, ha kivonul a Facebook Európából",
+        "txtlength": 18463
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/uzlet/20220713/elszabadult-a-lavina-a-kriptopiacon-sorra-temeti-maga-ala-az-aldozatokat-555827",
+        "h1": "Elszabadult a lavina a kriptopiacon, sorra temeti maga alá az áldozatokat",
+        "txtlength": 17857
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20220713/orban-viktor-valsagtanacskozast-hivott-ossze-ma-reggelre-a-durvulo-gazpiaci-helyzet-miatt-555997",
+        "h1": "Orbán Viktor válságtanácskozást hívott össze ma reggelre a durvuló gázpiaci helyzet miatt",
+        "txtlength": 16194
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/lajfhekk/termeszetes-szunyogriasztok/",
+        "h1": "Természetes szúnyogriasztók",
+        "txtlength": 11004
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/otthon/hruscsovka-lakohazak/",
+        "h1": "Tudod, mik azok a hruscsovkák? Csak rövid időre tervezték a Szovjetunió spórolós lakóházait",
+        "txtlength": 10904
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2022/07/12/az-egeszseges-barnulas-csak-mitosz-raadasul-az-egyik-legveszelyesebb-mitosz",
+        "h1": "AZ EGÉSZSÉGES BARNULÁS CSAK MÍTOSZ, RÁADÁSUL AZ EGYIK LEGVESZÉLYESEBB MÍTOSZ",
+        "txtlength": 10595
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://transtelex.ro/kozelet/2022/07/13/ersek-gyermekbantalmazas-kovacs-gergely-katolikus-egyhaz",
+        "h1": "Kovács Gergely érsek: a Böjte atya gyermekotthonaiban történtek megerősítik, hogy szükség van a kiskorúak elleni abúzusok egyházon belüli kiszűrésére",
+        "txtlength": 19861
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/eletmod/2022/07/13/bosszuporno-opitz-barbi-parkapcsolati-eroszak-hires-szexvideok-sexting-nane-patent",
+        "h1": "A bosszúpornóban semmi szexi nincs",
+        "txtlength": 18392
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kultura/2022/07/13/kata-katatuntetes-adonem-kreativ-ipar-konyvipar-zeneipar-nyary-krisztian-kadar-tamas/",
+        "h1": "„Lábon lőtték a rendszert” – újra felfuthat akár a feketézés is a kulturális szférában a kata-törvény miatt",
+        "txtlength": 18339
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kulfold/2022/07/13/konzervativ-part-tory-nagy-britannia-boris-johnson-rishi-sunak-partelnok-brexit-parlament-valasztas-szavazas-egyesult-kiralysag-anglia",
+        "h1": "A lázadás egyik fő arca, a Thatchert megidéző miniszter és kultúrharcosok pályáznak Boris Johnson székére",
+        "txtlength": 17028
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/gazdasag/20220713_Kata_osszefoglalo_Ilyen_lesz_a_kivereztetett_adonem_szeptembertol_ezt_tehetik_az_ebbol_kiesok",
+        "h1": "Kata összefoglaló: Ilyen lesz a kivéreztetett adónem szeptembertől, ezt tehetik az ebből kiesők",
+        "txtlength": 14348
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/07/13/kormanyzati-tanacsok-hogy-hogyan-forgasd-fel-tobb-szazezer-ember-eletet-egyetlen-nap-alatt",
+        "h1": "Kormányzati tanácsok, hogy hogyan forgasd fel több százezer ember életét egyetlen nap alatt",
+        "txtlength": 11836
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/07/13/eliteltek-vv-fanni-gyilkosat",
+        "h1": "Elítélték VV Fanni gyilkosát",
+        "txtlength": 10442
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20220713_dabas_lakossagi_forum_gyilkos_onkormanyzat",
+        "h1": "„Jogilag fehér galamb tisztaságú” – dúltak az indulatok a dabasi lakossági fórumon a gyerekgyilkos visszaköltözése után",
+        "txtlength": 10264
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/kultura/20220713_Egy_gigatonna_energiaval__a_Pearl_Jam_Budapesten",
+        "h1": "Egy gigatonna energiával – a Pearl Jam Budapesten",
+        "txtlength": 10187
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2022/07/13/fizetesemeles-fu-alatt-emelte-orban-az-allamtitkarai-es-miniszterei-fizeteset/",
+        "h1": "Fű alatt emelhette meg Orbán az államtitkári fizetést",
+        "txtlength": 9882
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2022/07/13/vv-fanni-gyilkossag-fovarosi-torvenyszek-elsofoku-itelet/",
+        "h1": "Életfogytiglant kapott VV Fanni gyilkosa",
+        "txtlength": 9581
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/krimi/vv-fanni-targyalas-ugy-b-laszlo/3hmxyxr?sl_ps=d_3",
+        "h1": "Breaking: ítélet a VV Fanni-ügyben – Így döntött a bíróság az országot lázban tartó, rejtélyes bűncselekmény ügyében",
+        "txtlength": 9061
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/ongyilkos-lett-egyik-legazdagabb-vallalkozo/941zx3r?sl_ps=d_10",
+        "h1": "A testvére talált rá a somogyi milliárdos holttestére – Az édesapja szerint depresszió gyötörte Claessens Petert",
+        "txtlength": 7408
+    },
+    {
+        "hostname": "nosalty.hu",
         "pagelink": "https://www.nosalty.hu/recept/retro-strandos-langos",
         "h1": "Retró strandos lángos",
         "txtlength": 19041
