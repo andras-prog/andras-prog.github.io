@@ -1,6 +1,186 @@
 [
     {
         "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/rantott-cukkini-2",
+        "h1": "Rántott cukkini 2.",
+        "txtlength": 14506
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/pljeskavica-ahogy-firkaltember-kesziti.recept",
+        "h1": "PLJESKAVICA, AHOGY FIRKÁLTEMBER KÉSZÍTI",
+        "txtlength": 10404
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/zsalya-menta-szorp.recept",
+        "h1": "ZSÁLYA-MENTA SZÖRP",
+        "txtlength": 10162
+    },
+    {
+        "hostname": "kiszamolo.hu",
+        "pagelink": "https://kiszamolo.hu/kezdodik-itt-az-elso-valasz-a-magyar-vetora/",
+        "h1": "Kezdődik. Itt az első válasz a magyar vétóra",
+        "txtlength": 37223
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220712_kozel_vagyunk_a_megegyezeshez",
+        "h1": "Közel vagyunk a megegyezéshez Brüsszellel – Navracsics Tibor a Mandinernek",
+        "txtlength": 32470
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/karrier/20220714/kevesen-ismerik-ezt-a-gyed-trukkot-rengeteg-penz-mulhat-rajta-1126933",
+        "h1": "Kevesen ismerik ezt a GYED-trükköt: rengeteg pénz múlhat rajta",
+        "txtlength": 22076
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220714_benes_dekretumok_brusszel_vincze_lorant_kirekesztes_szlovakia",
+        "h1": "Továbbra sem akarja érteni Brüsszel a Beneš-dekrétumok botrányát",
+        "txtlength": 21922
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220714_igy_sporolhatunk_rezsikoltsegeinken",
+        "h1": "Így spórolhatunk rezsiköltségeinken!",
+        "txtlength": 20329
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/otthon/20220713/ilyen-hazakra-vadasznak-most-a-leggazdagabb-magyarok-ennyibe-kerul-a-legujabb-hobort-1126877",
+        "h1": "Ilyen házakra vadásznak most a leggazdagabb magyarok: ennyibe kerül a legújabb hóbort",
+        "txtlength": 19301
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/tech/20220714/ha-nincs-osszehangolva-draga-mulatsag-lesz-az-e-auto-tolto-a-napelem-es-az-akkupark/",
+        "h1": "Ha nincs összehangolva, drága mulatság lesz az e-autó-töltő, a napelem és az akkupark",
+        "txtlength": 18716
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vallalat/20220714/csak-akkor-nem-veszi-el-az-extraprofitot-a-kormany-ha-barati-kezekbe-kerul/",
+        "h1": "Csak akkor nem veszi el az extraprofitot a kormány, ha baráti kezekbe kerül",
+        "txtlength": 17462
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/uzlet/20220714/tovabbra-sem-javul-a-hangulat-folytatodik-az-eses-a-tozsdeken-556181",
+        "h1": "Továbbra sem javul a hangulat, folytatódik az esés a tőzsdéken ",
+        "txtlength": 16506
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20220714/jo-reggelt-magyarorszag-itthon-is-elerkezett-az-igazsag-pillanata-556161",
+        "h1": "Jó reggelt, Magyarország! - Itthon is elérkezett az igazság pillanata",
+        "txtlength": 15587
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/uzlet/20220714/millios-birsag-is-johet-ha-nem-figyelnek-a-cegek-egyre-tobb-vallalat-erintett-555869",
+        "h1": "Milliós bírság is jöhet, ha nem figyelnek a cégek: egyre több vállalat érintett",
+        "txtlength": 15544
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2022/07/13/iden-osszel-telen-jo-esellyel-bekovetkezik-a-gazvalsag-europaban",
+        "h1": "IDÉN ŐSSZEL-TÉLEN JÓ ESÉLLYEL BEKÖVETKEZIK A GÁZVÁLSÁG EURÓPÁBAN",
+        "txtlength": 13249
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/gyerek/emma-egyesulet-interju-otthonszules/",
+        "h1": "140 kilométert is utazhat egy vajúdó nő ma Magyarországon a kórházig - Hogy lehetne az otthon szülés valódi alternatíva?",
+        "txtlength": 12765
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/szuloseg/gyerek-megnyugtatas-elismero-mantra-helyett/",
+        "h1": "gyerek megnyugtatás elismerő mantra helyett",
+        "txtlength": 11221
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20220714_Huszonhet_eve_epitgeti_sikeresen_a_Fidesz_azt_amibe_most_belemart",
+        "h1": "Huszonhét éve építgeti sikeresen a Fidesz azt, amibe most belemart",
+        "txtlength": 19084
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/gazdasag/2022/07/13/energiavalsag-energia-veszelyhelyzet-rezsicsokkentes-szigoritas-intezkedesek-gaz-gazellatas-elemzes",
+        "h1": "Olyan súlyos az energiaválság, hogy a kormány a szent tehénnek tartott rezsicsökkentéshez is hozzányúlt",
+        "txtlength": 16701
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kulfold/2022/07/14/menekultek-migransok-szabadka-lovoldozes-hatarkerites-szerbia-halott-sebesult-riport",
+        "h1": "Mintha háború lenne, akkora lövöldözés volt hajnalban",
+        "txtlength": 16364
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/belfold/2022/07/13/kormanyinfo-julius-13-kata-jogallamisagi-jelentes-energia-veszelyhelyzet-gulyas-gergely",
+        "h1": "A kormány energia-veszélyhelyzetet hirdet, a rezsicsökkentés csak az átlagfogyasztásra vonatkozik majd",
+        "txtlength": 16117
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/07/14/megmenti-e-kata-a-katat-mikozben-csokken-a-rezsicsokkentes",
+        "h1": "Megmenti-e Kata a katát, miközben csökken a rezsicsökkentés?",
+        "txtlength": 15335
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://rangado.24.hu/nemzetkozi_foci/2022/07/13/bl-selejtezo-ferencvaros-fc-tobol/",
+        "h1": "Húsz perc alatt lerendezte ellenfelét a gálázva továbbjutó Fradi",
+        "txtlength": 13729
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kulfold/2022/07/14/orosz-ukran-haboru-elo-kozvetites-julius-14/",
+        "h1": "Már 349 gyerek halt meg az ukrajnai háborúban",
+        "txtlength": 12605
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20220714_Igy_csokken_a_rezsicsokkentes_minden_amit_eddig_tudni_lehet__es_amit_nem",
+        "h1": "Így csökken a rezsicsökkentés: minden, amit eddig tudni lehet – és amit nem",
+        "txtlength": 12227
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/07/14/24hu-schadl-gyorgy-felesege-is-gyanusitott-lett",
+        "h1": "24.hu: Schadl György felesége is gyanúsított lett",
+        "txtlength": 11941
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/fn/gazdasag/2022/07/14/rezsi-aram-gaz-atlagfogyasztas-felett-piaci-ar-rezsinovekedes/",
+        "h1": "Tíz- és százezrekben mérhető többletköltséget jelent majd a családoknak évente, ha az átlagnál több áramot, gázt fogyasztanak",
+        "txtlength": 11105
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20220714_Kormanykozeli_lapszemle_az_alternativ_valosagban_nincs_rezsicsokkentescsokkentes",
+        "h1": "Kormányközeli lapszemle: az alternatív valóságban nincs rezsicsökkentés-csökkentés",
+        "txtlength": 9786
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/katatorveny-tuntetes-nyugati-ter-julius-13/4gsrdzm",
+        "h1": "Folytatódik a katás tüntetés: a késői időpont ellenére még mindig rengetegen kitartanak – fotók és videók",
+        "txtlength": 7680
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/penz/gaz-aram-ar-rezsicsokkentes-energiaugyi-veszhelyzet/hc2ptqh",
+        "h1": "Megnézte már a gázszámláját? Ha ennél több a havi díja, készüljön: Önre nem lesz érvényes a rezsicsökkentés! Kiszámoltuk, mennyi az annyi... ettől dob egy hátast",
+        "txtlength": 7613
+    },
+    {
+        "hostname": "nosalty.hu",
         "pagelink": "https://www.nosalty.hu/recept/churros-spanyol-edesseg",
         "h1": "Churros - spanyol édesség",
         "txtlength": 14471
