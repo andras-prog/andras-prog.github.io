@@ -1,6 +1,180 @@
 [
     {
         "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/kapros-cukkinifozelek-nolgitol",
+        "h1": "Kapros cukkinifőzelék N.Olgitól",
+        "txtlength": 12649
+    },
+    {
+        "hostname": "hataratkelo.blog.hu",
+        "pagelink": "https://hataratkelo.blog.hu/2022/07/05/az_utolso_ut_zurichbe#c41482215",
+        "h1": "Az utolsó út Zürichbe",
+        "txtlength": 43432
+    },
+    {
+        "hostname": "kulturpart.hu",
+        "pagelink": "https://kulturpart.hu/2022/07/11/erkezik_a_zongorista_fenegyerek",
+        "h1": "ÉRKEZIK A ZONGORISTA FENEGYEREK",
+        "txtlength": 5748
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/kozelet/20220714/letezik-e-meg-magyarorszag-orosz-energiafuggosege/",
+        "h1": "Létezik-e még Magyarország orosz energiafüggősége?",
+        "txtlength": 28771
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vilag/20220715/oroszorszag-olyan-teruleten-kezdett-zsarolasba-ahol-evtizedes-tavlatban-sincs-b-terve/",
+        "h1": "Oroszország olyan területen kezdett zsarolásba, ahol évtizedes távlatban sincs B-terve",
+        "txtlength": 25100
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220715_orban_viktor_interju_kossuth_radio_kata_rezsicsokkentes_bejelentes_jo_reggelt_magyarorszag",
+        "h1": "Orbán Viktor: Az európai gazdaság tüdőn lőtte magát a szankciókkal, és most levegőért kapkod (videó)",
+        "txtlength": 22900
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220714_olaszorszag_mario_draghi",
+        "h1": "Megbukott Mario Draghi – jöhet a jobboldali olasz kormány?",
+        "txtlength": 20836
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.penzcentrum.hu/otthon/20220715/a-vartnal-tobb-magyart-erinthet-a-rezsiemeles-ok-is-fajdalmas-csekket-kaphatnak-augusztustol-1126996",
+        "h1": "A vártnál több magyart érinthet a rezsiemelés: ők is fájdalmas csekket kaphatnak augusztustól",
+        "txtlength": 19778
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/hitel/20220712/sokakat-huznak-igy-csobe-a-magyar-bankok-ebben-az-5-esetben-inkabb-ne-fixald-a-hiteleid-1126826",
+        "h1": "Sokakat húznak így csőbe a magyar bankok: ebben az 5 esetben inkább ne fixáld a hiteleid",
+        "txtlength": 19678
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/otthon/20220715/a-vartnal-tobb-magyart-erinthet-a-rezsiemeles-ok-is-fajdalmas-csekket-kaphatnak-augusztustol-1126996",
+        "h1": "A vártnál több magyart érinthet a rezsiemelés: ők is fájdalmas csekket kaphatnak augusztustól",
+        "txtlength": 19545
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220715_haboru_ukrajna_oroszorszag_kulfold_szijjarto_peter",
+        "h1": "Szijjártó Péter: Az amerikai külügyminiszter előre figyelmeztetett",
+        "txtlength": 18299
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/bank/20220715/itt-vannak-a-friss-szamok-a-leggazdagabb-magyarok-vagyonarol-elkezdodott-az-aggodas-556483",
+        "h1": "Itt vannak a friss számok a leggazdagabb magyarok vagyonáról - Elkezdődött az aggódás",
+        "txtlength": 17030
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20220715/rendkivuli-informacio-jott-a-rezsicsokkentesrol-sokaknak-tenyleg-nagyon-fajni-fog-szinte-azonnal-556415",
+        "h1": "Rendkívüli információ jött a rezsicsökkentésről - Sokaknak tényleg nagyon fájni fog, szinte azonnal",
+        "txtlength": 16460
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2022/07/14/az-ivovizes-locsolas-olyan-pazarlas-ami-a-szantofoldi-ontozeshez-hasonloan-gyorsitja-magyarorszag-elsivatagosodasat",
+        "h1": "AZ IVÓVIZES LOCSOLÁS OLYAN PAZARLÁS, AMI A SZÁNTÓFÖLDI ÖNTÖZÉSHEZ HASONLÓAN GYORSÍTJA MAGYARORSZÁG ELSIVATAGOSODÁSÁT",
+        "txtlength": 13045
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/kapcsolat/parkapcsolat-szorongas/",
+        "h1": "Tönkreteszik a kapcsolatot, mégis sok szorongó ember elköveti őket: 6 gyakori hiba, amit érdemes tudatosan kerülni",
+        "txtlength": 11886
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/lajfhekk/molett-no-ruha-test/",
+        "h1": "molett nő ruha test",
+        "txtlength": 9829
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kulfold/2022/07/14/sanna-marin-a-finn-miniszterelnok",
+        "h1": "A rockfesztiválos menőség csapda is a finn kormányfőnek",
+        "txtlength": 18959
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/tudomany/2022/07/15/neprajzi-muzeum-aztek-maszk-zoom-kiallitas/",
+        "h1": "Lenyűgöző azték kincset őriznek a Néprajzi Múzeumban",
+        "txtlength": 17956
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/belfold/2022/07/15/mav-baleset-kaosz-utaspanaszok-osszeomlas",
+        "h1": "Utasok a MÁV összeomlásáról: Azt se tudtuk, mi van",
+        "txtlength": 16281
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/fn/gazdasag/2022/07/15/rezsicsokkentes-rezsi-csaladok-gaz-aram-augusztus-fizetendo/",
+        "h1": "Példák a valóságból: átlagos energiafogyasztású családok is kieshetnek a rezsivédelemből",
+        "txtlength": 15598
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kulfold/2022/07/15/orosz-ukran-haboru-142-nap-percrol-percre-elo-tudositas",
+        "h1": "23-ra nőtt a vinnicjai támadás áldozatainak száma, Oroszország szerint egy titkos találkozót semmisítettek meg a precíziós robotrepülőkkel",
+        "txtlength": 15025
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/07/15/sztalinista-tempoba-kapcsolt-a-rezsialombol-felriadt-fidesz",
+        "h1": "Sztálinista tempóba kapcsolt a rezsiálomból felriadt Fidesz",
+        "txtlength": 14653
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/katatorveny-tuntetes-erzsebet-hid-magyar-ketfarku-kutyapart/hk2p87n",
+        "h1": "Ingyensörözés után váratlanul elfoglalták az egész Erzsébet hidat a tüntetők, gyülekeznek a rohamrendőrök – fotók",
+        "txtlength": 11422
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/cegauto/20220715_Elszall_a_villanyar_es_viszi_magaval_a_villanyautozast_is",
+        "h1": "Elszáll a villanyár és viszi magával az elektromos autózást is?",
+        "txtlength": 10810
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/rezsi-gazszamla-villanyszamla-vilagpiaci-ar-szazezer-forint-draga/lz5s3bs?sl_ps=d_9",
+        "h1": "Rezsisokk – Jöhetnek a százezres gázszámlák: de hogyan fizetjük ki? – Megnéztük, kit és mennyire érint a drágulás",
+        "txtlength": 10502
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/07/15/kitiltottak-oroszorszagbol-az-egyik-legkomolyabb-oknyomozo-szervezetet",
+        "h1": "Kitiltották Oroszországból az egyik legkomolyabb oknyomozó szervezetet",
+        "txtlength": 10282
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/tudomany/20220715_hvg_kulonleges_jelentes_bitcode_pride_atveres_bitcoin_szemelyes_adatok_visszaeles_adatlopas",
+        "h1": "Vigyázzon, hova kattint: van, akitől milliókat csaltak ki, visszaélnek a HVG nevével",
+        "txtlength": 10261
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/gazdasag/20220715_Ezeken_vitatkoztak_ossze_a_hitelmoratoriumosok_a_bankjaikkal",
+        "h1": "Ezeken vitatkoztak össze a hitelmoratóriumosok a bankjaikkal",
+        "txtlength": 10237
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kulfold/2022/07/15/orosz-ukran-haboru-donyeck-kelet-ukrajna-julius-15/",
+        "h1": "45 ország kötelezte el magát az orosz háborús bűnök felderítése mellett",
+        "txtlength": 8194
+    },
+    {
+        "hostname": "nosalty.hu",
         "pagelink": "https://www.nosalty.hu/recept/rantott-cukkini-2",
         "h1": "Rántott cukkini 2.",
         "txtlength": 14506
