@@ -1,6 +1,192 @@
 [
     {
         "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/ketfele-sajtos-sonkas-rakott-cukkini",
+        "h1": "Kétféle sajtos-sonkás rakott cukkini",
+        "txtlength": 14377
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/glutenmentes-lasagne.recept",
+        "h1": "GLUTÉNMENTES LASAGNE",
+        "txtlength": 11423
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/sonkas-kinaikel-salata.recept",
+        "h1": "SONKÁS KÍNAIKEL-SALÁTA",
+        "txtlength": 10526
+    },
+    {
+        "hostname": "kiszamolo.hu",
+        "pagelink": "https://kiszamolo.hu/allamcsod-a-kuszobon/",
+        "h1": "Államcsőd a küszöbön?",
+        "txtlength": 36995
+    },
+    {
+        "hostname": "kulturpart.hu",
+        "pagelink": "https://kulturpart.blog.hu/2022/07/11/erkezik_a_zongorista_fenegyerek",
+        "h1": "ÉRKEZIK A ZONGORISTA FENEGYEREK",
+        "txtlength": 5740
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/kozelet/20220715/miert-nem-lehet-mindenki-katas/",
+        "h1": "Miért nem lehet mindenki katás?",
+        "txtlength": 21985
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220716_rezsicsokkentes_gaz_energia_szalai_piroska_elemzes_aram_ar",
+        "h1": "Így érinti a családi kasszát a rezsicsökkentés racionalizálása",
+        "txtlength": 21180
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/global/20220715/kongatjak-a-veszharangot-ehinseg-kaosz-es-teljes-osszeomlas-johet-egy-orszagban-555857",
+        "h1": "Kongatják a vészharangot: éhínség, káosz és teljes összeomlás jöhet egy országban",
+        "txtlength": 20737
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220713_boris_dicstelen_bucsuja",
+        "h1": "Boris dicstelen búcsúja – mi volt a „johnsonság” lényege?",
+        "txtlength": 20415
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://sport.mandiner.hu/cikk/20220715_a_kekszalag_nemcsak_verseny_hanem_tarsadalmi_esemeny_ahol_hajo_nelkul_is_reszt_lehet_venni",
+        "h1": "Mit jelent a Balatonnak a Kékszalag? Mit hoz a konyhára Európa legnagyobb tókerülő versenye? Elemzés a gyorsasági rekordot hozó 54. Kékszalag után",
+        "txtlength": 19819
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/vasarlas/20220714/igy-falta-fel-az-inflacio-az-ev-eleji-nyugdijemelest-igazi-bojt-var-az-idosekre-1126936",
+        "h1": "Így falta fel az infláció az év eleji nyugdíjemelést: igazi böjt vár az idősekre",
+        "txtlength": 19682
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20220716/parragh-laszlo-szamitottam-a-tuntetesre-de-ez-akkor-sem-mehetett-igy-tovabb-556531",
+        "h1": "Parragh László: számítottam a tüntetésre, de ez akkor sem mehetett így tovább",
+        "txtlength": 19246
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20220716/nyugdijas-kisadozok-meltanytalan-kiuzetes-a-kis-magyar-adoparadicsombol-556297",
+        "h1": "Nyugdíjas kisadózók: méltánytalan kiűzetés a \"kis magyar adóparadicsomból\"",
+        "txtlength": 18962
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/otthon/20220716/igy-kijatszhato-a-brutal-rezsiemeles-par-apro-trukkel-is-rengeteget-sporolhatsz-a-szamlakon-1127017",
+        "h1": "Így kijátszható a brutál rezsiemelés: pár apró trükkel is rengeteget spórolhatsz a számlákon",
+        "txtlength": 18918
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/adat/20220716/mennyivel-kerul-tobbe-ha-attersz-a-biozoldsegre-es-biogyumolcsre/",
+        "h1": "Mennyivel kerül többe, ha áttérsz a biozöldségre és biogyümölcsre?",
+        "txtlength": 14608
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/otthon/tokeletes-konyha/",
+        "h1": "Hogyan tervezd meg a tökéletes konyhát a lakberendező szerint: 5 szabály, amit érdemes betartanod",
+        "txtlength": 13306
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2022/07/16/a-hanyatlo-nyugat-szimbolumanak-a-westernnek-ketszer-kellett-meghoditania-magyarorszagot",
+        "h1": "A HANYATLÓ NYUGAT SZIMBÓLUMÁNAK, A WESTERNNEK KÉTSZER KELLETT MEGHÓDÍTANIA MAGYARORSZÁGOT",
+        "txtlength": 12194
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/lajfhekk/koktelparadicsom-draga/",
+        "h1": "Koktélparadicsom drága",
+        "txtlength": 9131
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2022/07/16/hadsereg-haderofejlesztes-toborzas-sorkotelezettseg-tartalekosok-zsoldosok/",
+        "h1": "Hogyan lehet szexivé tenni a katonáskodást?",
+        "txtlength": 24314
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kulfold/2022/07/15/eu-energia-foldgaz-lng-magyarorszag",
+        "h1": "Közeleg a tél: az EU ahol tud, gázt szív fel",
+        "txtlength": 20485
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kulfold/2022/07/16/olaszorszag-kormanyvalsag-mario-draghi-conte-salvini-ot-csillag-liga-olasz-testverek-euro-eurozona-gazdasagi-valsag-inflacio-ukrajna-orosz-invazio-haboru",
+        "h1": "Az olaszok mindent megtesznek, hogy még mélyebb legyen a válság Európában",
+        "txtlength": 19446
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kulfold/2022/07/16/sri-lanka-valsag-elnok-tuntetes-elelmiszer",
+        "h1": "Hiába lécelt le az emailben lemondó elnök, közel sincs még vége a válságnak",
+        "txtlength": 18516
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/gazdasag/20220715_kalyha_hiany_rezsiharc",
+        "h1": "A rezsiharc elbukása után próbálhatunk kályhát venni, de már most hiány van belőlük a piacon",
+        "txtlength": 13868
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/tudomany/2022/07/16/koleszterin-palmaolaj-palmazsir-kokuszolaj-kokuszzsir-taplalkozas-napraforgoolaj/",
+        "h1": "Ezért bánjunk óvatosan a pálma- és a kókuszolajjal",
+        "txtlength": 13187
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/fn/gazdasag/2022/07/16/rezsicsokkentes-rezsi-aramszama-gazszamla-ar-dij-megtakaritas/",
+        "h1": "Ezért becsapós a rezsiszámlán jelenleg feltüntetett rezsicsökkentés",
+        "txtlength": 12517
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/rezsicsokkentes-vege-szazezres-csekkek-johetnek-kaosz-villany-gaz/y1f83tm",
+        "h1": "Rezsikáosz: mennyit kell majd fizetnünk a gázért, a villanyért?",
+        "txtlength": 12270
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/elet/20220715_kubekhaza_tanya_rezsiemeles",
+        "h1": "\"Ha ezt így vezetik be, akkor marad 35 ezer forintom ennivalóra\"",
+        "txtlength": 11743
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/tudomany/20220716_elte_kemiai_katalizatorok_kutatasa_palladium_katalizator_suzuki_reakcio",
+        "h1": "Tudja, mi az a Suzuki-reakció? A gyógyszergyárak tudják, az ELTE kutatói pedig most felpörgetnék",
+        "txtlength": 10924
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/rezsi-gazszamla-villanyszamla-vilagpiaci-ar-szazezer-forint-draga/lz5s3bs",
+        "h1": "Rezsisokk – Jöhetnek a százezres gázszámlák: de hogyan fizetjük ki? – Megnéztük, kit és mennyire érint a drágulás",
+        "txtlength": 10499
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/07/15/negyeves-kislany-is-van-a-vinnicjai-raketacsapas-aldozatai-kozott",
+        "h1": "Négyéves kislány is van a vinnicjai rakétacsapás áldozatai között",
+        "txtlength": 9677
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/07/15/eddig-tobb-mint-87-milliot-dobtak-ossze-az-atriumnak",
+        "h1": "Eddig több mint 87 milliót dobtak össze az Átriumnak",
+        "txtlength": 9556
+    },
+    {
+        "hostname": "nosalty.hu",
         "pagelink": "https://www.nosalty.hu/recept/kapros-cukkinifozelek-nolgitol",
         "h1": "Kapros cukkinifőzelék N.Olgitól",
         "txtlength": 12649
