@@ -1,6 +1,198 @@
 [
     {
         "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/sargabarackbefott",
+        "h1": "Sárgabarackbefőtt",
+        "txtlength": 14899
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/paleo-almas-mandulas-torta.recept",
+        "h1": "PALEO ALMÁS TORTA",
+        "txtlength": 10931
+    },
+    {
+        "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/hazi-kenyerlangos",
+        "h1": "Házi kenyérlángos",
+        "txtlength": 10789
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/gyors-amerikai-palacsinta.recept",
+        "h1": "GYORS AMERIKAI PALACSINTA",
+        "txtlength": 10673
+    },
+    {
+        "hostname": "kiszamolo.hu",
+        "pagelink": "https://kiszamolo.hu/megeri-tuzifaval-futeni-tuzifa-gaz-villany-kalkulator/",
+        "h1": "Megéri tűzifával fűteni? Tűzifa-gáz-villany kalkulátor",
+        "txtlength": 39649
+    },
+    {
+        "hostname": "kulturpart.hu",
+        "pagelink": "https://kulturpart.blog.hu/2022/07/13/nagyon_kiraly_a_farmerkiraly",
+        "h1": "NAGYON KIRÁLY A FARMERKIRÁLY!",
+        "txtlength": 5354
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/unios-forrasok/20220718/megtudtuk-ezekben-a-napokban-dolhet-el-az-eu-penzeink-sorsa-vadonatuj-felajanlasokat-is-tett-a-kormany-556723",
+        "h1": "Megtudtuk: ezekben a napokban dőlhet el az EU-pénzeink sorsa - Vadonatúj felajánlásokat is tett a kormány",
+        "txtlength": 28711
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/kozelet/20220718/a-multik-helyett-a-maganembereknek-fog-fajni-az-adoegyezmenyunk-amerikai-felmondasa/",
+        "h1": "A multik helyett a magánembereknek fog fájni az adóegyezményünk amerikai felmondása",
+        "txtlength": 27725
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vilag/20220717/europa-egyik-legerosebb-hadsereget-hozza-letre-magyarorszag-elhidegult-szovetsegese/",
+        "h1": "Európa egyik legerősebb hadseregét hozza létre Magyarország elhidegült szövetségese",
+        "txtlength": 23245
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/otthon/20220715/kevesen-ismerik-ezt-a-legalis-rezsitrukkot-igy-csokkentheted-kozel-nullara-a-vizszamlad-1126969",
+        "h1": "Kevesen ismerik ezt a legális rezsitrükköt: így csökkentheted közel nullára a vízszámlád",
+        "txtlength": 20357
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220717_baloldali_hagyomanyteremtes_szuneteltetik_a_fovarosi_hajozast",
+        "h1": "Baloldali hagyomány: Karácsonyék szüneteltetik a fővárosi közösségi hajózást",
+        "txtlength": 19847
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220717_tevedesben_a_libe_bizottsag_nincsenek_veszelyben_a_hazai_zsidosag_jogai",
+        "h1": "Tévedésben a LIBE-bizottság, nincsenek veszélyben a hazai zsidóság jogai",
+        "txtlength": 19523
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220717_az_idei_lesz_europa_utolso_nyara_evekig_tarto_szenvedes_kozeleg_a_politico_szerint",
+        "h1": "Az idei lesz Európa utolsó nyara: évekig tartó szenvedés közeleg a Politico szerint",
+        "txtlength": 19480
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/gazdasag/20220713/brutalis-ami-a-magyar-lakasvasarlokat-sujtja-europaban-alig-lattak-hasonlo-dragulast-1126872",
+        "h1": "Brutális, ami a magyar lakásvásárlókat sújtja: Európában alig láttak hasonló drágulást",
+        "txtlength": 17761
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2022/07/18/az-emberi-agy-neha-igenis-kepes-elore-jelezni-egy-kozeli-hozzatartozo-halalat",
+        "h1": "AZ EMBERI AGY NÉHA IGENIS KÉPES ELŐRE JELEZNI EGY KÖZELI HOZZÁTARTOZÓ HALÁLÁT",
+        "txtlength": 15343
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/uzlet/20220718/kitart-a-jo-hangulat-emelkedessel-indul-a-het-a-tozsdeken-556761",
+        "h1": "Kitart a jó hangulat, emelkedéssel indul a hét a tőzsdéken ",
+        "txtlength": 14152
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20220718/az-orosz-fenyegetes-felebresztette-az-eu-t-hatalmas-bizniszt-uthetunk-nyelbe-hamarosan-556827",
+        "h1": "Az orosz fenyegetés felébresztette az EU-t: hatalmas bizniszt üthetünk nyélbe hamarosan",
+        "txtlength": 13675
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/lajfhekk/hidratalas-viz-helyett/",
+        "h1": "hidratálás víz helyett",
+        "txtlength": 10481
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/ezo/heti_horoszkop/202229/",
+        "h1": "Heti horoszkóp július 18-tól 24-ig: a Szűz sikert ér el, a Skorpió szerencsés a szívügyekben",
+        "txtlength": 10403
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/belfold/2022/07/18/a-magyar-kozelet-szexista-az-abortusztorvenyen-nem-valtoztatnanak-novak-katalin-jelentosege-megkerdojelezheto-a-parlament-no-kepviseloit-kerdeztuk",
+        "h1": "Mit pofázol bele, kisanyám?",
+        "txtlength": 27059
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/belfold/2022/07/18/katatorveny-tuntetes-rezsicsokkentes-margit-hid",
+        "h1": "Rendőri igazoltatásba fulladt a reggeli hídfoglalásból túratüntetéssé változott katatiltakozás",
+        "txtlength": 17925
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/fn/gazdasag/2022/07/18/megeszi-az-inflacio-a-nyugdij-es-a-beremeleseket-nem-szuper-az-allampapir/",
+        "h1": "Képtelen megakadályozni a kormány, hogy a lakosság fizesse meg az infláció árát",
+        "txtlength": 17644
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/szorakozas/2022/07/17/machine-gun-kelly-rozsaszin-elete-dokumentumfilm-kritika-disney/",
+        "h1": "Még a rózsaszín hajú, vérivó, lakkozott körmű rocksztárok is hétköznapi gondokkal küszködnek",
+        "txtlength": 14663
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/fn/gazdasag/2022/07/18/csodo-fizeteskeptelenseg-legkorszerubb-sertesfeldolgozoja-cib-bank-kurucz-csoport/",
+        "h1": "Csődöt jelentett Magyarország egyik legkorszerűbb sertésfeldolgozója",
+        "txtlength": 13187
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/sport/2022/07/17/forma-1-f1-autoverseny-razoko-versenypalya-baleset-biztonsag",
+        "h1": "Addig várnak a betiltásukkal, amíg meghal valaki",
+        "txtlength": 12486
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/margit-hid-tuntetes-kata-rezsi/d894jvl?sl_ps=d_2",
+        "h1": "Katatüntetés: az oszlatás után csomagot vittek Orbán Viktornak a Parlamenthez, egyesével igazoltatják az embereket – fotók, videók",
+        "txtlength": 12335
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/vilag/20220718_haboru_hirek_hetfo_Ukrajna",
+        "h1": "Herszonhoz szállítanak utánpótlást az oroszok, elakadt a Sziverszk elleni támadás – a háború hétfői hírei",
+        "txtlength": 12132
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/07/18/a-gazdasagi-adatok-alapjan-oroszorszagnak-jobban-fajnak-a-szankciok-mint-az-eu-nak",
+        "h1": "A gazdasági adatok alapján Oroszországnak jobban fájnak a szankciók, mint az EU-nak",
+        "txtlength": 10969
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/07/18/eloszor-volt-nagy-britanniaban-voros-riasztas-hoseg-miatt",
+        "h1": "Először volt Nagy-Britanniában vörös riasztás hőség miatt",
+        "txtlength": 10530
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20220718_beremeles_pdsz_orban_nyilt_level",
+        "h1": "Nyílt levélben követel azonnali béremelést a PDSZ Orbántól",
+        "txtlength": 8988
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/tudomany/20220718_koronavirus_jarvany_ba_275_mutacio_varians_centaurus",
+        "h1": "Kitalálta a koronavírus új nevét egy Twitter-felhasználó, már az újságok is átvették",
+        "txtlength": 8528
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/koronavirus-oltas-konyorgott-szilvia/knf52vx?sl_ps=d_5",
+        "h1": "Hiába könyörgött az oltásért, nem ment ki hozzá az orvos: belehalt a koronavírusba Szilvia néni",
+        "txtlength": 7601
+    },
+    {
+        "hostname": "nosalty.hu",
         "pagelink": "https://www.nosalty.hu/recept/toltott-cukkini-daralt-hussal",
         "h1": "Töltött cukkini darált hússal",
         "txtlength": 10986
