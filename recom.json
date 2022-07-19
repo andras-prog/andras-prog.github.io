@@ -1,6 +1,192 @@
 [
     {
         "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/hideg-csemege-uborka",
+        "h1": "Hideg csemegeuborka",
+        "txtlength": 17683
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/gyomberes-uborkasalata.recept",
+        "h1": "GYÖMBÉRES UBORKASALÁTA",
+        "txtlength": 10869
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/aperol-spritz.recept",
+        "h1": "APEROL SPRITZ",
+        "txtlength": 10754
+    },
+    {
+        "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/palacsinta-alaprecept",
+        "h1": "Palacsinta alaprecept",
+        "txtlength": 9376
+    },
+    {
+        "hostname": "kiszamolo.hu",
+        "pagelink": "https://kiszamolo.hu/mennyit-fogyaszt-a-bedugva-hagyott-mobiltolto-a-notebook-es-a-mosogep/",
+        "h1": "Mennyit fogyaszt a bedugva hagyott mobiltöltő, a notebook és a mosógép?",
+        "txtlength": 33697
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/kozelet/20220719/a-magyar-gazdasag-kanyarban-elozott-csak-a-szembesavban-volt-egy-tank/",
+        "h1": "A magyar gazdaság kanyarban előzött, de szembe jött a tank",
+        "txtlength": 29541
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220719_rezsicsokkentes_energiapolitika_hortay_oliver_interju",
+        "h1": "Energiakrízis: a nyugat-európai politikusoknak változtatni kell a retorikájukon – Hortay Olivér a Mandinernek",
+        "txtlength": 23311
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/egeszseg/20220718/rengeteg-magyar-rohanhat-a-vesztebe-nem-csak-az-anyagi-biztonsaguk-hanem-az-egeszseguk-a-tet-1127064",
+        "h1": "Rengeteg magyar rohanhat a vesztébe: nem csak az anyagi biztonságuk, hanem az egészségük a tét",
+        "txtlength": 23070
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://makronom.mandiner.hu/cikk/20220718_az_orosz_nemzeti_bank_legalizalna_az_iszlam_banki_tevekenyseget",
+        "h1": "Az orosz nemzeti bank legalizálná az iszlám banki tevékenységet",
+        "txtlength": 22680
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220718_bekovetkezhet_e_a_nepek_osze_europaban_ahogy_timmermans_vizionalja",
+        "h1": "Bekövetkezhet-e a „népek ősze” Európában, ahogy Timmermans vizionálja?",
+        "txtlength": 21275
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2022/07/19/hany-cigany-el-magyarorszagon",
+        "h1": "HÁNY CIGÁNY ÉL MAGYARORSZÁGON?",
+        "txtlength": 20455
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vilag/20220718/szeptembertol-ingyenes-lesz-a-vasut-spanyolorszagban-de-nem-biztos-hogy-kibirja-a-rendszer-a-terhelest/",
+        "h1": "Szeptembertől ingyenes lesz a vasút Spanyolországban, de nem biztos, hogy kibírja a rendszer a terhelést",
+        "txtlength": 18225
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/gazdasag/20220719/ezert-jott-most-a-rezsiemeles-egesz-europa-valsagban-van-mutatjuk-az-okokat-1127056",
+        "h1": "Ezért jött most a rezsiemelés: egész Európa válságban van, mutatjuk az okokat",
+        "txtlength": 17611
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20220719/megszavaztak-a-2023-as-koltsegvetest-ami-mar-most-aknakkal-van-tele-555795",
+        "h1": "Megszavazták a 2023-as költségvetést, ami már most aknákkal van tele",
+        "txtlength": 13793
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/befektetes/20220719/orult-felfordulas-a-vilagban-ami-padlora-kuldheti-a-cegeket-556995",
+        "h1": "Őrült felfordulás a világban, ami padlóra küldheti a cégeket",
+        "txtlength": 12753
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20220719/nemet-atomeromu-undor-igy-lett-vegtelenul-kiszolgaltatott-europa-legnagyobb-gazdasaga-556885",
+        "h1": "Német atomerőmű-undor: így lett végtelenül kiszolgáltatott Európa legnagyobb gazdasága",
+        "txtlength": 12250
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/egeszseg/fogerzekenyseg-ellen/",
+        "h1": "5 hasznos tanács érzékeny fogak esetén: az sem mindegy, milyen fogkefét használsz",
+        "txtlength": 10508
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/lajfhekk/szelektiv-hulladekgyujtes-hibak/",
+        "h1": "Szelektív hulladékgyűjtés hibák",
+        "txtlength": 8696
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kulfold/2022/07/19/orosz-ukran-haboru-146-nap-percrol-percre-tudositas",
+        "h1": "A csecsenek az iszlámot védik Ukrajnában, és Berlinig vinnék a dzsihádot",
+        "txtlength": 17208
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kultura/2022/07/18/szinhaz-gyermekotthon-gyerekek-tortenet-eloadas/",
+        "h1": "„Kőkeményen minden oda van pakolva” – előadás készült a gyermekotthonokban élők történeteiből",
+        "txtlength": 16876
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/belfold/2022/07/18/tuntetes-a-sandor-palotanal-a-katatorveny-alairasa-ellen",
+        "h1": "Percek alatt körbekordonozták a Sándor-palotát a katatörvény aláírása utánra hirdetett demonstráció elől",
+        "txtlength": 15143
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2022/07/19/eu-bizottsag-varga-judit-orban-balazs-helyreallitasi-alap/",
+        "h1": "Brüsszel bekérte a kormánytól azokat a törvényjavaslatokat, amelyeket a helyreállítási pénzekért fogadnának el",
+        "txtlength": 14475
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/gazdasag/2022/07/19/takarekoskodas-aram-gaz-sporolas-huto-klima-redony-futes-arnyekolas",
+        "h1": "Hasznos tippek, amikkel sokat lehet spórolni az áram- és a gázszámlán",
+        "txtlength": 13988
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20220719_Ezert_baj_hogy_az_ellenzek_nem_letezik",
+        "h1": "Ezért baj, hogy az ellenzék nem létezik",
+        "txtlength": 13178
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/gazdasag/20220719_2023_koltsegvetes_parlament_budzse",
+        "h1": "Megszavazták a 2023-as költségvetést, már csak komolyan kellene venni",
+        "txtlength": 12690
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/margit-hid-tuntetes-kata-rezsi/d894jvl",
+        "h1": "Katatüntetés: az oszlatás után csomagot vittek Orbán Viktornak a Parlamenthez – fotók, videók",
+        "txtlength": 12366
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20220718_Egy_elmaradt_nemzeti_konzultacio",
+        "h1": "Egy elmaradt „nemzeti konzultáció” – mondja el véleményét a kormány legutóbbi húzásairól",
+        "txtlength": 11459
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/fn/gazdasag/2022/07/19/rezsicsokkentes-holoda-attila-nincs-piaci-ar-aram-gaz/",
+        "h1": "Holoda Attila: Az áramnál és a gáznál nem létezik egy általános „piaci ár”",
+        "txtlength": 11372
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/07/19/allamtitkari-vacsora-iteletnap-elott",
+        "h1": "Államtitkári vacsora ítéletnap előtt",
+        "txtlength": 11014
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/07/19/az-aszaly-meresere-dolgozott-ki-eljarast-a-szegedi-tudomanyegyetem",
+        "h1": "Az aszály mérésére dolgozott ki eljárást a Szegedi Tudományegyetem",
+        "txtlength": 9629
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/kulfold/hoseg-europa-erdotuz-kitelepites-hohullam-katasztrofa/97pvzs1",
+        "h1": "Minden idők legforróbb nyarát éli Európa: van, ahol már ezer áldozatot szedett a hőapokalipszis – videó",
+        "txtlength": 7365
+    },
+    {
+        "hostname": "nosalty.hu",
         "pagelink": "https://www.nosalty.hu/recept/sargabarackbefott",
         "h1": "Sárgabarackbefőtt",
         "txtlength": 14899
