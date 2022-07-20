@@ -1,6 +1,174 @@
 [
     {
         "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/kovaszos-uborka-telire-tartositoszer-nelkul",
+        "h1": "Kovászos uborka télire - tartósítószer nélkül",
+        "txtlength": 20252
+    },
+    {
+        "hostname": "kulturpart.hu",
+        "pagelink": "https://kulturpart.blog.hu/2022/07/19/uj_kotettel_jelentkezik_szollosi_matyas",
+        "h1": "MI AZ, HOGY SZABAD?",
+        "txtlength": 7115
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20220720/arrogzites-es-keresletelenkites-cserearany-veszteseg-idejen-557013",
+        "h1": "Árrögzítés és keresletélénkítés cserearány-veszteség idején",
+        "txtlength": 27592
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220720_oroszorszagnak_fajnak_jobban_a_szankciok_de_nem_az_atlagembernek",
+        "h1": "Oroszországnak fájnak jobban a szankciók – de nem az átlagembernek",
+        "txtlength": 21660
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2022/07/19/mit-er-a-varmegye-semmit-es-mindent",
+        "h1": "MIT ÉR A VÁRMEGYE? SEMMIT. ÉS MINDENT!",
+        "txtlength": 18388
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220718_mar_tobb_mint_hetvenen_vannak_akik_soha_nem_johetnek_ki_a_bortonbol",
+        "h1": "Már több mint hetvenen vannak, akik soha nem jöhetnek ki a börtönből",
+        "txtlength": 18366
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220720_hazdhazy_mindennel_foglalkozik_csak_sajat_valasztoival_nem_zuglo",
+        "h1": "Árván maradt Zugló: Hadházy Ákos mindennel foglalkozik, csak saját választóival nem",
+        "txtlength": 17785
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/otthon/20220720/tombol-a-hangyainvazio-a-magyar-otthonokban-millios-kart-is-okozhatnak-egy-vagyon-az-irtas-1127115",
+        "h1": "Tombol a hangyainvázió a magyar otthonokban: milliós kárt is okozhatnak, egy vagyon az irtás",
+        "txtlength": 17754
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/global/20220720/uj-gazdasagi-egyuttmukodes-robbanhat-be-a-kozel-keleten-nem-vart-helyrol-johet-a-gazvalsag-megoldasa-557071",
+        "h1": "Új gazdasági együttműködés robbanhat be a Közel-Keleten - Nem várt helyről jöhet a gázválság megoldása?",
+        "txtlength": 17692
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/uzlet/20220720/ilyen-kornyezetben-sok-cegtulajdonos-inkabb-a-kiszallas-mellett-dont-a-hiventures-pedig-segit-a-felvasarlasban-556753",
+        "h1": "Ilyen környezetben sok cégtulajdonos inkább a kiszállás mellett dönt - A Hiventures pedig segít a felvásárlásban",
+        "txtlength": 17657
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vallalat/20220720/haho-kedves-kormany-talaltunk-117-milliard-forintnyi-extraprofitot/",
+        "h1": "Találtunk 117 milliárd forintnyi extraprofitot ott, ahová a kormány nem akar nézni",
+        "txtlength": 16706
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/nyugdij/20220715/ujabb-26-os-nyugdijemeles-johet-a-juliusi-utan-soron-kivul-tombol-az-inflacio-muszaj-lepni-1126986",
+        "h1": "Újabb 2,6%-os nyugdíjemelés jöhet a júliusi után soron kívül: tombol az infláció, muszáj lépni?",
+        "txtlength": 16338
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/penz/20220719/az-inflacios-csucs-meg-akkor-is-elottunk-van-ha-minden-a-leheto-legjobban-alakul/",
+        "h1": "Az inflációs csúcs még akkor is előttünk van, ha minden a lehető legjobban alakul",
+        "txtlength": 14096
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/egeszseg/elektromos-sokkolo-hatasa/",
+        "h1": "Így hat az elektromos sokkoló a szervezetre: erős görcsöket, hirtelen szédülést, de nagyobb bajokat is okozhat",
+        "txtlength": 11795
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/lajfhekk/fozes-auto-motor/",
+        "h1": "főzés autó motor",
+        "txtlength": 8981
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/belfold/2022/07/19/szexizmus-magyar-kozelet-abortusztorveny-novak-katalin-nok-a-parlamentben-2-resz",
+        "h1": "Mindennaposak a „ki mit csinálna velem” típusú üzenetek",
+        "txtlength": 30229
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/tech/2022/07/19/mesterseges-intelligencia-openai-robot-4chan-gpt-3-dall-e",
+        "h1": "Szöveget ír, művészkedik és a létezéséről filozofál a mesterséges intelligencia, de ez még mindig nem a Skynet hajnala",
+        "txtlength": 25225
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2022/07/19/navracsics-tibor-mcc-eu-unios-penzek/",
+        "h1": "Navracsics: Nekünk érdemes pénzt adni",
+        "txtlength": 20992
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kulfold/2022/07/20/orosz-ukran-haboru-147-nap-hir",
+        "h1": "Az amerikai hírszerzés szerint Oroszország hivatalosan is annektálhatja az összes eddig megszállt ukrán területet",
+        "txtlength": 19647
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/gazdasag/20220720_ekb_inflacio_kamatemeles",
+        "h1": "Lesz csütörtökön egy kamatemelés, ami nemcsak Magyarországra, hanem egész Európára hatással lesz",
+        "txtlength": 17919
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2022/07/20/kata-valtozas-2022-haziorvos-gyogytornasz-dietetikus-uzemorvos/",
+        "h1": "„Elindulsz egy irányba, teszed a dolgodat, aztán egy tollvonással áthúzzák a felépített munkádat”",
+        "txtlength": 15892
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/07/20/ordogi-emberek-apokaliptikus-hoseg-pokoli-idok-es-egy-maganyos-hos",
+        "h1": "Ördögi emberek, apokaliptikus hőség, pokoli idők és egy magányos hős",
+        "txtlength": 15163
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kulfold/2022/07/20/orosz-ukran-haboru-elo-hirfolyam-2022-07-20/",
+        "h1": "Putyin: Előre figyelmezettem Olaf Scholzot",
+        "txtlength": 13957
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/07/20/elfogadta-az-azonos-nemuek-hazassagarol-szolo-torvenyjavaslatot-az-amerikai-kepviselohaz",
+        "h1": "Elfogadta az azonos neműek házasságáról szóló törvényjavaslatot az amerikai képviselőház",
+        "txtlength": 12321
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/gazdasag/20220720_hitelezes_kamatemeles_bank360",
+        "h1": "Újra beindult a kamathenger, drágított a hitelein a legnagyobb bank is",
+        "txtlength": 10487
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/kultura/20220720_Elvarazsolta_Woodstockot_es_nyolc_Grammyt_kapott_az_ezredfordulon__Carlos_Santana_75_eves",
+        "h1": "Elvarázsolta már Woodstockot is, de az ezredfordulón is begyűjtött nyolc Grammyt - Carlos Santana 75 éves",
+        "txtlength": 10487
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/wizzair-repulo-24-ora-botrany-kint-hagyta-utasait-luton/5mpf75n",
+        "h1": "Újabb magyar utasokat hagyott külföldön a Wizz Air: „Több mint 24 órája vagyunk itt, 40 órája vagyok ébren, és még most sincs repülőgép”",
+        "txtlength": 7203
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/kulfold/wizz-air-luton-repter-kint-rekedt-magyarok-mentesito-jarat/ydcekjm",
+        "h1": "Lassan véget érhet a lutoni reptéren ragadt magyarok kálváriája: közleményt adott ki a Wizz Air",
+        "txtlength": 6776
+    },
+    {
+        "hostname": "nosalty.hu",
         "pagelink": "https://www.nosalty.hu/recept/hideg-csemege-uborka",
         "h1": "Hideg csemegeuborka",
         "txtlength": 17683
