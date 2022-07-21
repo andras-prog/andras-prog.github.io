@@ -1,6 +1,180 @@
 [
     {
         "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/csalamade-telire-egyszeruen",
+        "h1": "Csalamádé télire egyszerűen",
+        "txtlength": 14470
+    },
+    {
+        "hostname": "hataratkelo.blog.hu",
+        "pagelink": "https://hataratkelo.blog.hu/2022/07/12/miert_ugyanolyan_minden_amerikai_utca",
+        "h1": "Miért ugyanolyan minden amerikai utca?",
+        "txtlength": 56859
+    },
+    {
+        "hostname": "kulturpart.hu",
+        "pagelink": "https://kulturpart.hu/2022/07/19/uj_kotettel_jelentkezik_szollosi_matyas",
+        "h1": "MI AZ, HOGY SZABAD?",
+        "txtlength": 7119
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/global/20220721/elsopro-gyozelem-totalis-osszeomlas-bukik-putyin-mindegy-mi-lesz-ez-a-haboru-most-mar-orokke-fog-tartani-557223",
+        "h1": "Elsöprő győzelem? Totális összeomlás? Bukik Putyin? Mindegy, mi lesz, ez a háború most már örökké fog tartani",
+        "txtlength": 23836
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.penzcentrum.hu/otthon/20220721/erik-a-lakhatasi-katasztrofa-ramehet-a-magyar-idosek-haza-lakasa-is-a-rezsiemelesre-1127174",
+        "h1": "Érik a lakhatási katasztrófa: rámehet a magyar idősek háza, lakása is a rezsiemelésre",
+        "txtlength": 23622
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/otthon/20220721/erik-a-lakhatasi-katasztrofa-ramehet-a-magyar-idosek-haza-lakasa-is-a-rezsiemelesre-1127174",
+        "h1": "Érik a lakhatási katasztrófa: rámehet a magyar idősek háza, lakása is a rezsiemelésre",
+        "txtlength": 23475
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20220721/megjottek-a-rezsirendeletek-mutatjuk-a-reszletszabalyokat-557399",
+        "h1": "Megjöttek a rezsirendeletek - Mutatjuk a részletszabályokat!",
+        "txtlength": 21324
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220720_miert_szallitja_az_ukran_menekulteket_sajat_teruletere_oroszorszag",
+        "h1": "Miért szállítja az ukrán menekülteket saját területére Oroszország?",
+        "txtlength": 19881
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/vasarlas/20220720/igy-vehetsz-a-piaci-ar-harmadaert-gyumolcsot-zoldseget-a-befozeshez-1127135",
+        "h1": "Így vehetsz a piaci ár harmadáért gyümölcsöt, zöldséget a befőzéshez",
+        "txtlength": 18048
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220714_karpatalja_valoban_testver_ujabb_osszefogas_az_ukrajnai_haboru_aldozataiert",
+        "h1": "„Kárpátalja valóban testvér”: újabb összefogás az ukrajnai háború áldozataiért",
+        "txtlength": 17871
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/kozelet/20220721/a-rosszul-finanszirozhato-tanszekeik-kiszoritasaban-akar-megszunteteseben-lesznek-erdekeltek-az-egyetemeket-mukodteto-alapitvanyok/",
+        "h1": "A rosszul finanszírozható tanszékeik kiszorításában, akár megszüntetésében lesznek érdekeltek az egyetemeket működtető alapítványok",
+        "txtlength": 17692
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://sport.mandiner.hu/cikk/20220720_ferencvaros_slovan_bratislava_bl_selejtezo_elo_kozvetites",
+        "h1": "Hidegzuhany a forróságban: Ferencváros – Slovan Bratislava BL-selejtező 1-2",
+        "txtlength": 15775
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/penz/20220720/mindenki-a-kata-kinyirasat-siratja-mikozben-a-hatuk-mogott-epp-ledobtak-az-atombombat/",
+        "h1": "Mindenki a kata kinyírását siratja, miközben a hátuk mögött épp ledobták az atombombát",
+        "txtlength": 15528
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2022/07/21/mit-arul-el-egy-diakrol-az-egyetemi-felveteli-pontszama",
+        "h1": "MIT ÁRUL EL EGY DIÁKRÓL AZ EGYETEMI FELVÉTELI PONTSZÁMA?",
+        "txtlength": 11665
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/szuloseg/nyar-diakmunka/",
+        "h1": "nyár diákmunka",
+        "txtlength": 10444
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/kapcsolat/korom-jelkep-okor-kina/",
+        "h1": "A levágott köröm értékes ajándéknak számított: különleges jelentéssel bírt a régi Kínában",
+        "txtlength": 10298
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/belfold/2022/07/21/fidesz-frakcio-szerzodesek-valton-mraz-agoston",
+        "h1": "Több mint 250 milliót költött evésre, ivásra és szállodára a Fidesz-frakció az előző ciklusban",
+        "txtlength": 17159
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/fn/gazdasag/2022/07/21/aramar-rezsicsokkentes-hatosagi-ar-orosz-gaz/",
+        "h1": "Kétszer keresnének Orbánék a piaci áramáron?",
+        "txtlength": 16581
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/belfold/2022/07/20/kozteruletek-allamositas-12-ev-budapest-kifosztasa",
+        "h1": "Nem ma kezdődött, hogy az állam lenyúlja Budapest vagyonát és jogköreit",
+        "txtlength": 14289
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kulfold/2022/07/21/ukrajna-elleni-orosz-invazio-a-haboru-147-nap",
+        "h1": "Putyin még mindig túl egészséges a CIA szerint, újraindul a gázszállítás az Északi Áramlat 1-en",
+        "txtlength": 14157
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kulfold/2022/07/20/orosz-ukran-haboru-kozel-kelet-szaud-arabia-iran-izrael-putyin-biden/",
+        "h1": "Mit keres Putyin és Biden a Közel-Keleten?",
+        "txtlength": 13873
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/fn/gazdasag/2022/07/21/rezsicsokkentes-csokkentese-aram-gaz-atlagfogyasztas-felett-fizetendo-magyar-kozlony/",
+        "h1": "Kiszámoltuk, mennyivel kell többet fizetnie, attól függően, mennyi áramot és gázt fogyaszt",
+        "txtlength": 12979
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/gazdasag/20220721_Itt_van_minden_reszlet_a_rezsicsokkentes_csokkenteserol__dijszabasok_limitek_jogosultak",
+        "h1": "Itt van minden részlet a rezsicsökkentés csökkentéséről – díjszabások, limitek, jogosultak",
+        "txtlength": 12894
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/eurologus/20220720_Gazmegtakaritasi_terv_Brusszelbol_a_legrosszabb_forgatokonyvre_keszul_az_EU",
+        "h1": "Itt a gázmegtakarítási terv Brüsszelből: a legrosszabb forgatókönyvre készül az EU",
+        "txtlength": 10646
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/tudomany/20220719_deepfake_video_technologia_mesterseges_intelligencia_mi_podcast_metaverzum_etikus_hacker",
+        "h1": "Mi az a deepfake? Kell-e félnünk tőle? És miért ragadtunk le a nyolcvanas években? – új podcast az MI-ről és a digitális világról",
+        "txtlength": 10527
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/07/21/tomegesen-pusztulnak-a-delfinek-a-fekete-tengerben-az-orosz-ukran-haboru-kezdete-ota",
+        "h1": "Tömegesen pusztulnak a delfinek a Fekete-tengerben az orosz-ukrán háború kezdete óta",
+        "txtlength": 10299
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/07/20/kover-ha-van-gyerek-van-jovo-ha-nincs-gyerek-nincs-jovo",
+        "h1": "Kövér: Ha van gyerek, van jövő, ha nincs gyerek, nincs jövő",
+        "txtlength": 9929
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/kulfold/medve-veszely-riasztas-tusvanyos-tusnadfurdo/glg62h4",
+        "h1": "Most érkezett! Súlyos medveriasztást adtak ki Tusnádfürdőn, ahová Orbán Viktort is várják",
+        "txtlength": 5828
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/idojaras-hoseg-napsutes-kanikula-figyelmezetetes/rf0z0sj",
+        "h1": "Tovább tombol a kánikula: mutatjuk, melyik megyékre adták ki a figyelmeztetést a hőség miatt",
+        "txtlength": 5628
+    },
+    {
+        "hostname": "nosalty.hu",
         "pagelink": "https://www.nosalty.hu/recept/kovaszos-uborka-telire-tartositoszer-nelkul",
         "h1": "Kovászos uborka télire - tartósítószer nélkül",
         "txtlength": 20252
