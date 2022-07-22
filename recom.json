@@ -1,6 +1,174 @@
 [
     {
         "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/fokhagymas-cukkinifasirt",
+        "h1": "Fokhagymás cukkinifasírt",
+        "txtlength": 13052
+    },
+    {
+        "hostname": "kulturpart.hu",
+        "pagelink": "https://kulturpart.blog.hu/2022/07/18/drama_a_fedelzeten",
+        "h1": "DRÁMA A FEDÉLZETEN",
+        "txtlength": 5584
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/gazdasag/20220720/az-1970-es-evek-gazdasagi-folyamatainak-tortenelmi-hattere-1126989",
+        "h1": "Az 1970-es évek gazdasági folyamatainak történelmi háttere",
+        "txtlength": 21970
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/otthon/20220720/ez-lehet-a-titka-a-budapesti-sztarkeruleteknek-tenyleg-jol-jarhat-aki-idoben-vett-itt-lakast-1127113",
+        "h1": "Ez lehet a titka a budapesti sztárkerületeknek: tényleg jól járhat, aki időben vett itt lakást?",
+        "txtlength": 20675
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220721_kurdok_irak_torokorszag_civilek_halottak",
+        "h1": "Agyonrakétázott turisták és a puskaporos hordó – a kurdisztáni dilemma",
+        "txtlength": 19921
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220721_gaz_lng_cseppfolyos_brusszel_spanyolorszag",
+        "h1": "Nagyon kiakadtak gázügyben Brüsszelre a spanyolok",
+        "txtlength": 16782
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.penzcentrum.hu/vallalkozas/20220722/200-ezer-forint-jarhat-vissza-annak-aki-katarol-atalanyra-ter-at-ekkora-hiba-maradt-volna-a-torvenyben-1127236",
+        "h1": "200 ezer forint járhat vissza annak, aki katáról átalányra tér át: ekkora hiba maradt volna a törvényben?",
+        "txtlength": 16072
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220722_csak_janos_tusvanyos_tudositas",
+        "h1": "Becsüljük meg magunkat, senki más nem képviseli az érdekeinket – Csák János Tusványoson",
+        "txtlength": 15875
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/elet/20220721/eleteket-ment-es-penzt-sporol-a-jol-tervezett-tudorakszuresi-program/",
+        "h1": "Életeket ment és pénzt spórol a jól tervezett tüdőrákszűrési program",
+        "txtlength": 15765
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/kozelet/20220722/a-fo-problema-a-vendeglatasban-hogy-minden-heten-mas-a-fo-problema/",
+        "h1": "A fő probléma a vendéglátásban, hogy minden héten más a fő probléma",
+        "txtlength": 15135
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/uzlet/20220722/nem-talaljak-az-iranyt-a-tozsdek-557567",
+        "h1": "Nem találják az irányt a tőzsdék ",
+        "txtlength": 14767
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2022/07/22/van-koztuk-aki-a-sajat-nevet-sem-ismeri-fel-leirva-de-mar-robotot-programoznak",
+        "h1": "VAN KÖZTÜK, AKI A SAJÁT NEVÉT SEM ISMERI FEL LEÍRVA, DE MÁR ROBOTOT PROGRAMOZNAK",
+        "txtlength": 14724
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20220722/a-nagycsalados-foldgaz-arkedvezmeny-megmenthet-a-horrorisztikus-szamlaktol-mutatjuk-kik-jogosultak-ra-es-mit-kell-tenni-erte-557573",
+        "h1": "A nagycsaládos földgáz árkedvezmény megmenthet a horrorisztikus számláktól - Mutatjuk, kik jogosultak rá, és mit kell tenni érte",
+        "txtlength": 14663
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/szuloseg/viz-jatszoter-nyar/",
+        "h1": "víz játszótér nyár",
+        "txtlength": 10293
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/szepseg/naptej-hasznalat-hibak/",
+        "h1": "Csak akkor véd a naptej, ha ezekre figyelsz - 5 súlyos hiba, amit sokan elkövetnek napozáskor",
+        "txtlength": 9782
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/komplex/2022/07/22/hatalmas-mennyisegu-kinai-cigarettatcsempesztek-ukrajnaba",
+        "h1": "\n      Kínai cigarettagyár áll a sok százmillió szálas ukrán cigarettacsempészet hátterében\n    ",
+        "txtlength": 26137
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/sport/2022/07/22/sportiranyitas-valtozas-schmidt-adam-schmidt-gabor",
+        "h1": "3500 milliárd forint állami támogatás után szűkös évek jönnek a sportban",
+        "txtlength": 19200
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/gazdasag/20220721_rezsi_energia_arak_gaz_aram",
+        "h1": "Kérdései vannak a rezsiről? Összeszedtük, amit eddig tudunk róla",
+        "txtlength": 18381
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kulfold/2022/07/21/orosz-ukran-haboru-allamok-kit-tamogatnak-orban-zelenszkij-putyin/",
+        "h1": "Kivételesnek számít-e a magyar hozzáállás az ukrajnai háborúhoz?",
+        "txtlength": 17578
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/gazdasag/2022/07/21/a-legegetobb-kerdesek-az-oszi-energiaszamlainkrol",
+        "h1": "A legégetőbb kérdések az őszi energiaszámláinkról",
+        "txtlength": 16463
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/07/22/a-lakossagi-piaci-ar-felbukkanasa",
+        "h1": "A „lakossági piaci ár” felbukkanása",
+        "txtlength": 14740
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/ingatlan/20220722_hoszivattyu_konvektor_csere",
+        "h1": "Most cserélne gázkazánt hőszivattyúra? A fűtési költségek akár 40 százalékát megspórolhatja",
+        "txtlength": 14394
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/07/22/negativ-rekordot-donthet-julius-vegere-a-velencei-to-vizszintje",
+        "h1": "Negatív rekordot dönthet július végére a Velencei-tó vízszintje",
+        "txtlength": 12420
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/ingatlan/20220722_Most_robbanhatnak_be_igazan_a_rezsit_csokkento_allami_lakastamogatasok",
+        "h1": "Most robbanhatnak be igazán a rezsit csökkentő állami lakástámogatások",
+        "txtlength": 11841
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://rangado.24.hu/nemzetkozi_foci/2022/07/22/orban-viktor-sepsi-osk-olimpija-ljubjana-europai-konferencia-liga-selejtezo-labdarugas-foci/",
+        "h1": "Orbán Viktor: „Amíg élünk s meghalunk”",
+        "txtlength": 10571
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kulfold/2022/07/22/ukrajna-oroszorszag-fekete-tengeri-gabonaexport-ujrainditas-orosz-ukran-haboru-volodimir-zelenszkij-julius-22/",
+        "h1": "Újabb országokat vett fel a barátságtalan államok listájára Oroszország",
+        "txtlength": 10536
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/krimi/fbi-korozes-lista-rablas-zsarolo-magyar-roman-allampolgar-szokes/tzy4r4y",
+        "h1": "Kegyetlen magyarra vadászik az FBI: Barabás 15 éve követte el rettenetes tettét",
+        "txtlength": 8628
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/sulyos-beteg-fiu-mate-edesapa-depresszios-ongyilkossag-anya-penz/5h8rvkp?sl_ps=d_5",
+        "h1": "Iszonyú tragédia: végzett magával a beteg fiú édesapja, mert nem bírta tovább gondozni a gyermekét – Megszólal az édesanya",
+        "txtlength": 8153
+    },
+    {
+        "hostname": "nosalty.hu",
         "pagelink": "https://www.nosalty.hu/recept/csalamade-telire-egyszeruen",
         "h1": "Csalamádé télire egyszerűen",
         "txtlength": 14470
