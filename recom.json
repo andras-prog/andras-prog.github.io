@@ -1,6 +1,180 @@
 [
     {
         "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/uborka-telre-legegyszerubb",
+        "h1": "Uborka télre - a legegyszerűbb",
+        "txtlength": 13130
+    },
+    {
+        "hostname": "hataratkelo.blog.hu",
+        "pagelink": "https://hataratkelo.blog.hu/2022/07/22/a_svajci_elet_arnyoldalai#c41493707",
+        "h1": "A svájci élet árnyoldalai",
+        "txtlength": 32011
+    },
+    {
+        "hostname": "kulturpart.hu",
+        "pagelink": "https://kulturpart.blog.hu/2022/07/22/hollywood_rakfeneje_a_forgatokonyv_beszelgetes_mike_leigh_filmrendezovel",
+        "h1": "A MŰVÉSZ NEM ALKUSZIK MEG, CSAK FEGYELMEZETT",
+        "txtlength": 17943
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220723_orban_viktor_beszed_tusvanyos_osszefoglalo_tusnadfurdo",
+        "h1": "Orbán Viktor: A kormány célja, hogy egy globális recesszióban Magyarország lokális kivétellé váljon",
+        "txtlength": 36048
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220722_mandiner_vita_gulyas_marton_orban_balazs",
+        "h1": "„A demokrácia nem az, hogy a baloldali újságírók minden vágya teljesül” – Orbán Balázs és Gulyás Márton vitáján jártunk",
+        "txtlength": 27794
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220722_oroszorszag_tamadas_magyarorszag_nato_forgatokonyv",
+        "h1": "Mi történne, ha Putyin megtámadná Magyarországot?",
+        "txtlength": 25474
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/otthon/20220721/hiaba-rohansz-szigetelesert-napelemert-biztos-nem-gyozheted-le-a-rezsiemelest-ha-ezt-elrontod-1127143",
+        "h1": "Hiába rohansz szigetelésért, napelemért: biztos nem győzheted le a rezsiemelést, ha ezt elrontod",
+        "txtlength": 24890
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/megtakaritas/20220722/igy-csokkentsd-drasztikusan-a-rezsidet-ennyit-sporolhatsz-ha-lecsereled-a-villanykorteket-1127237",
+        "h1": "Így csökkentsd drasztikusan a rezsidet: ennyit spórolhatsz, ha lecseréled a villanykörtéket",
+        "txtlength": 23182
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/kozelet/20220723/a-haztartasok-legalabb-felet-erintheti-a-rezsinoveles-a-csaladi-hazakban-elok-kiemelten-rosszul-jarnak/",
+        "h1": "A háztartások legalább felét érintheti a rezsinövelés, a családi házakban élők kiemelten rosszul járnak",
+        "txtlength": 17971
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/uzlet/20220722/rezsicsokkentes-piaci-alapon-uj-korszak-kezdodhet-a-magyar-energetikaban-557697",
+        "h1": "Rezsicsökkentés piaci alapon - Új korszak kezdődhet a magyar energetikában",
+        "txtlength": 17130
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.penzcentrum.hu/auto/20220723/rezsiemelessel-is-megeri-villanyozni-teszten-az-elso-plug-in-hibrid-lexus-1127242",
+        "h1": "Rezsiemeléssel is megéri villanyozni? Teszten az első plug-in hibrid Lexus",
+        "txtlength": 15789
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vilag/20220722/teljes-kudarc-az-ukrajna-megsegitesere-kitalalt-nemet-fegyverzeti-cserebere/",
+        "h1": "Teljes kudarc az Ukrajna megsegítésére kitalált német fegyverzeti cserebere",
+        "txtlength": 15492
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20220721/ime-a-rezsibejelentes-tiz-legfobb-uzenete-557467",
+        "h1": "Íme a rezsibejelentés tíz legfőbb üzenete",
+        "txtlength": 15198
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/terasz/orban_viktor-tusvanyos-2022/",
+        "h1": "Orbán Viktor: Nem vagyunk képesek a biológiai fenntartásra",
+        "txtlength": 13990
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2022/07/20/ketszaz-eve-szuletett-gregor-mendel-a-genetika-atyja",
+        "h1": "KÉTSZÁZ ÉVE SZÜLETETT GREGOR MENDEL, A GENETIKA ATYJA",
+        "txtlength": 10294
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/szuloseg/hoguta-auto-gyerek/",
+        "h1": "hőguta autó gyerek",
+        "txtlength": 10163
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/belfold/2022/07/23/orban-viktor-tusvanyos",
+        "h1": "Orbán: A világ tartozik nekünk, és ezt a tartozást be is fogjuk vasalni",
+        "txtlength": 27171
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kultura/2022/07/23/ungvary-rudolf-realistanak-tul-avantgardok-voltak-posztmodernnek-most-tul-realistak-az-irasaim/",
+        "h1": "Ungváry Rudolf: Realistának túl avantgardok voltak, posztmodernnek most túl realisták az írásaim",
+        "txtlength": 23447
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kulfold/2022/07/22/eszaki-aramlat-gaz-foldgaz-panik-tel-futes-ipar-recesszio-putyin-zsarolas-szijjarto-nemetorszag",
+        "h1": "Putyin visszakapcsolta a gázt, de tovább paráztatja Európát",
+        "txtlength": 19099
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2022/07/23/kata-katatorveny-modositas-ellenzek-reakcio-korkerdes-adosavok-szoftverfejlesztes-momentum-mszp-jobbik-parbeszed/",
+        "h1": "A katások büntetése helyett szoftverfejlesztést és a nagyvállalatok adóelkerülését célozná az ellenzék",
+        "txtlength": 18183
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20220723_Ujra_szinpadra_lep_Orban_Tusvanyoson_ideje_a_nagyotmondasnak",
+        "h1": "Újra színpadra lép Orbán Tusványoson: ideje a nagyotmondásnak",
+        "txtlength": 17784
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kultura/2022/07/23/oil-storm-sos-new-orleans-olajpanik-film-aldokumentumfilm-szimulacio-energiavalsag/",
+        "h1": "Már tizenhét éve filmre vitték, hogyan gyűrűzne végig az olajpánik Amerikán",
+        "txtlength": 17479
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/ingatlan/20220722_rezsi_peldak_aram_gaz_dragulas",
+        "h1": "Kiszámoltuk: van, akinek négyszeresére nő a rezsije, másnak nem változik",
+        "txtlength": 16898
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/elet/20220722_ukrajna_haboru_melegek_menekultek_Pride",
+        "h1": "Nem a büszkeségről, hanem a túlélésről szól az idei Pride az ukrán LMBT+ menekültek számára",
+        "txtlength": 16573
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/belfold/2022/07/22/tusvanyos-2022-l-simon-laszlo-demeter-szilard",
+        "h1": "Demeter Szilárd: Az európaiak velünk értenek egyet, L. Simon: Ez egy vaskos öncsalás",
+        "txtlength": 12068
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/07/22/a-nemet-kormany-feltokesitessel-menti-meg-az-uniper-gazszolgaltatot",
+        "h1": "A német kormány feltőkésítéssel menti meg az Uniper gázszolgáltatót",
+        "txtlength": 11230
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/07/22/trump-orakon-at-tetlenul-nezte-a-teveben-a-capitolium-ostromat",
+        "h1": "Trump órákon át tétlenül nézte a tévében a Capitolium ostromát",
+        "txtlength": 10932
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/sulyos-beteg-fiu-mate-edesapa-depresszios-ongyilkossag-anya-penz/5h8rvkp",
+        "h1": "Iszonyú tragédia: végzett magával a beteg fiú édesapja, mert nem bírta tovább gondozni a gyermekét – Megszólal az édesanya",
+        "txtlength": 8399
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/sztarvilag/kultura/csontvary-kosztka-tivadar-halala-titkai-festomuvesz/yc7y73m",
+        "h1": "Mi okozta Csontváry tragédiáját? A meg nem értett zseni, aki életében egyetlen festményt sem adott el",
+        "txtlength": 8299
+    },
+    {
+        "hostname": "nosalty.hu",
         "pagelink": "https://www.nosalty.hu/recept/fokhagymas-cukkinifasirt",
         "h1": "Fokhagymás cukkinifasírt",
         "txtlength": 13052
