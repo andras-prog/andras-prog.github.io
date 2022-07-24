@@ -1,6 +1,180 @@
 [
     {
         "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/sved-uborkasalata",
+        "h1": "Svéd uborkasaláta",
+        "txtlength": 10528
+    },
+    {
+        "hostname": "kiszamolo.hu",
+        "pagelink": "https://kiszamolo.hu/kata-nyugdij-es-tuzifa/",
+        "h1": "Kata nyugdíj, tűzifa és lakásbérlés",
+        "txtlength": 32231
+    },
+    {
+        "hostname": "kulturpart.hu",
+        "pagelink": "https://kulturpart.hu/2022/07/18/drama_a_fedelzeten",
+        "h1": "DRÁMA A FEDÉLZETEN",
+        "txtlength": 5589
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220723_orosz_tortenelem_mezei_balint_sztalin_lenin_masodik_vilaghaboru_szovjetunio_20_szazad",
+        "h1": "Gigászi áldozatvállalás áll a 20. századi orosz sikerek mögött – történész a Mandinernek",
+        "txtlength": 31330
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/otthon/20220721/rezsiemeles-minden-amit-az-aramszolgaltatas-valtozasarol-tudni-erdemes-reszletes-informaciok-1127197",
+        "h1": "Rezsiemelés: minden, amit az áramszolgáltatás változásáról tudni érdemes - részletes információk!",
+        "txtlength": 30594
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220716_hunok_avarok_honfoglalas_szecsenyi_nagy_anna_vida_tivadar_cell_folyoirat",
+        "h1": "Hihetetlen gyorsasággal érkeztek az avarok Kelet-Ázsiából – szakértők az új eredményekről",
+        "txtlength": 27068
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220722_miert_nem_ertik_az_amerikaiak_magyarorszagot_stephen_sholl_a_mandinernek",
+        "h1": "Miért nem értik az amerikaiak Magyarországot? – Stephen Sholl történész a Mandinernek",
+        "txtlength": 25749
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/global/20220724/melyik-most-europa-legerosebb-hadereje-itt-a-lista-a-kontinens-igazi-nagyagyuirol-557517",
+        "h1": "Melyik most Európa legerősebb hadereje? Itt a lista a kontinens igazi nagyágyúiról",
+        "txtlength": 21517
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/adat/20220723/tulsagosan-termeszetkarosito-a-magyar-gazdasag-ahhoz-hogy-fenntarthato-fejlodesi-palyara-allhasson/",
+        "h1": "Túlságosan természetkárosító a magyar gazdaság ahhoz, hogy fenntartható fejlődési pályára állhasson",
+        "txtlength": 19648
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/gazdasag/20220721/itt-vannak-a-pontos-szamitasok-ennyivel-fognak-tobbet-fizetni-az-atlagos-magyar-csaladok-a-rezsiert-1127182",
+        "h1": "Itt vannak a pontos számítások: ennyivel fognak többet fizetni az átlagos magyar családok a rezsiért",
+        "txtlength": 19100
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.penzcentrum.hu/egeszseg/20220724/halalos-veszelyre-figyelmeztetnek-a-balatonnal-is-egy-apro-figyelmetlenseg-is-eleg-a-tragediahoz-1127246",
+        "h1": "Halálos veszélyre figyelmeztetnek a Balatonnál is: egy apró figyelmetlenség is elég a tragédiához",
+        "txtlength": 17455
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/global/20220724/bemondtak-uj-katonai-szuperszovetseg-johet-letre-de-mennyire-lehet-eletkepes-egy-kozel-keleti-nato-557677",
+        "h1": "Bemondták: új katonai szuperszövetség jöhet létre, de mennyire lehet életképes egy közel-keleti NATO?",
+        "txtlength": 16601
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/elet/20220724/egeszen-megkedveltuk-a-munkahelyeket-amiket-orban-viktor-szerint-most-nagyon-meg-kellene-becsulni/",
+        "h1": "Egészen megkedveltük a munkahelyeket, amiket Orbán Viktor szerint most nagyon meg kellene becsülni",
+        "txtlength": 15495
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/egeszseg/digitalis-detox/",
+        "h1": "Javul az alvás, kevesebb a stressz: a digitális detox 7 előnye",
+        "txtlength": 13275
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/lajfhekk/tojas-szabalyok/",
+        "h1": "Tojás szabályok",
+        "txtlength": 9382
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2022/07/24/videoajanlo-miert-allnak-uresen-a-milliardosok-felhokarcoloi-new-yorkban",
+        "h1": "VIDEÓAJÁNLÓ: MIÉRT ÁLLNAK ÜRESEN A MILLIÁRDOSOK FELHŐKARCOLÓI NEW YORKBAN?",
+        "txtlength": 5430
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/gazdasag/2022/07/23/hermina-center-hermina-happy-land-zuglo-vasarlok-fizettek-lakas-nincs",
+        "h1": "Öt éve várnak a lakók a kifizetett lakásaikra, de a beruházó szerint a drágulás mindent borított",
+        "txtlength": 35245
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kultura/2022/07/24/hianyzo-tortenetek-kovacs-krisztian-matine/",
+        "h1": "Kollégája túrta elő egy újságíró nagyapjának náci múltját",
+        "txtlength": 21343
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kultura/2022/07/23/a-jovo-kesni-fog-hogyan-sokkolta-a-nyugati-vilagot-az-elso-olajvalsag-es-mit-jelentett-a-mindennapi-eletben/",
+        "h1": "„A jövő késni fog” – hogyan sokkolta a nyugati világot az első olajválság, és mit jelentett a mindennapi életben",
+        "txtlength": 20689
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kulfold/2022/07/24/klimavaltozas-aszaly-vekeri-to-kiszaradt-viztarozo-civaqua-debrecen/",
+        "h1": "Nem meglepő, de ijesztő a debreceni Vekeri-tó kiszáradása",
+        "txtlength": 19075
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/gazdasag/20220724_Es_akkor_500_osszefoglalo",
+        "h1": "És akkor az És akkor túlélte a rezsicsökkentést",
+        "txtlength": 16148
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/belfold/2022/07/24/olvasonk-gyorshajtasi-birsagot-kapott-ausztriabol-pedig-nem-is-autozott-ott",
+        "h1": "Gyorshajtási bírságot kapott Ausztriából, pedig nem is autózott ott",
+        "txtlength": 12980
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/szorakozas/2022/07/23/dakota-johnson-szineszno-portre-a-szurke-otven-arnyalata-persuasion",
+        "h1": "Vetkőzéssel indította karrierjét, de megőrizte titokzatosságát",
+        "txtlength": 12704
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/budapest-pride-felvonulas-2022-szerelem-elfogadas-love-foto-video/w66m7xx",
+        "h1": "Fergeteges hangulat, több tízezer részvevő: ilyen volt az idei budapesti Pride – fotók",
+        "txtlength": 12197
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20220723_Tusvanyos_A_vilag_Fideszfroccsel_es_anelkul",
+        "h1": "Tusványos: a világ Fidesz-fröccsel és anélkül",
+        "txtlength": 11461
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/07/24/ferenc-papa-kanadaba-utazik-hogy-bocsanatot-kerjen-a-katolikus-iskolakban-meghalt-oslakos-gyerekek-miatt",
+        "h1": "Ferenc pápa Kanadába utazik, hogy bocsánatot kérjen a katolikus iskolákban meghalt őslakos gyerekek miatt",
+        "txtlength": 10038
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/07/24/kozel-600-embert-kellett-evakualni-tenerifen",
+        "h1": "Közel 600 embert kellett evakuálni Tenerifén",
+        "txtlength": 9339
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/kkv/20220724_Javul_a_helyzet_de_meg_messze_nincs_vege_a_globalis_chiphianynak",
+        "h1": "Javul a helyzet, de még messze nincs vége a globális chiphiánynak",
+        "txtlength": 9098
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/fasy-adam-szepsegverseny-gyor-magyarok-vilagszepe/mq97wtn",
+        "h1": "Királynőt koronáznak holnap Győrben",
+        "txtlength": 6609
+    },
+    {
+        "hostname": "nosalty.hu",
         "pagelink": "https://www.nosalty.hu/recept/uborka-telre-legegyszerubb",
         "h1": "Uborka télre - a legegyszerűbb",
         "txtlength": 13130
