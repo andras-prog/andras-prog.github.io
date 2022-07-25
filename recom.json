@@ -1,6 +1,180 @@
 [
     {
         "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/barackos-pudingos-piskota",
+        "h1": "Barackos-pudingos piskóta",
+        "txtlength": 10322
+    },
+    {
+        "hostname": "hataratkelo.blog.hu",
+        "pagelink": "https://hataratkelo.blog.hu/2022/07/22/a_svajci_elet_arnyoldalai#c41495745",
+        "h1": "A svájci élet árnyoldalai",
+        "txtlength": 39502
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/karrier/20220722/magyarok-tizezreit-keresik-erre-a-munkara-napi-15-ezret-is-lehet-keresni-semmilyen-papir-nem-kell-1127189",
+        "h1": "Magyarok tízezreit keresik erre a munkára: napi 15 ezret is lehet keresni, semmilyen papír nem kell",
+        "txtlength": 23951
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/elet/20220725/talan-nem-zarjak-be-a-rezsinovekedes-eloli-napelemes-menekuloutat/",
+        "h1": "Talán nem zárják be a rezsinövekedés előli napelemes menekülőutat",
+        "txtlength": 22800
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220720_gaz_van_lesz_gaz",
+        "h1": "Gáz van – lesz gáz a németeknél?",
+        "txtlength": 22177
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/hitel/20220725/erik-a-torlesztorobbanas-nagyot-bukhatnak-hamarosan-ezek-a-lakashitelesek-1127287",
+        "h1": "Érik a törlesztőrobbanás? Nagyot bukhatnak hamarosan ezek a lakáshitelesek",
+        "txtlength": 21889
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20220725/amerika-adougyi-valaszcsapasa-fajni-fog-a-magyar-cegeknek-es-maganszemelyeknek-557615",
+        "h1": "Amerika adóügyi válaszcsapása fájni fog a magyar cégeknek és magánszemélyeknek",
+        "txtlength": 20865
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220724_a_haboru_tul_komoly_dolog_ahhoz_hogy_nyugati_politikusokra_bizzuk",
+        "h1": "A háború túl komoly dolog ahhoz, hogy nyugati politikusokra bízzuk",
+        "txtlength": 19741
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220731_akkor_nem_ereztem_batorsagot_96_eves_magyar_embermento_a_mandinernek",
+        "h1": "„Akkor nem éreztem bátorságot\" – 96 éves magyar embermentő a Mandinernek",
+        "txtlength": 19729
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/uzlet/20220725/fordulat-a-tozsdeken-kritikus-adatokra-varnak-a-befektetok-557845",
+        "h1": "Fordulat a tőzsdéken, kritikus adatokra várnak a befektetők ",
+        "txtlength": 16646
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vilag/20220722/a-jarvany-elotti-szintig-emelte-az-utasszamot-az-olcso-nemet-berlet-es-a-luxemburgi-ingyenes-tomegkozlekedes-sem-egyertelmu-sikertortenet/",
+        "h1": "Sem az olcsó német bérlet, sem a luxemburgi ingyenes tömegközlekedés nem lett egyértelmű sikertörténet",
+        "txtlength": 14603
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/uzlet/20220725/a-folddel-tettek-egyenlove-az-elmult-evek-egyik-legnagyobb-sztarpapirjat-tenyleg-ennyi-volt-benne-557701",
+        "h1": "A földdel tették egyenlővé az elmúlt évek egyik legnagyobb sztárpapírját - Tényleg ennyi volt benne?",
+        "txtlength": 13787
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/testem/sor-bor-alkohol-egeszseg/",
+        "h1": "sör bor alkohol egészség",
+        "txtlength": 11402
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/ezo/heti_horoszkop/202230/",
+        "h1": "Heti horoszkóp július 25-től 31-ig: a Mérleg szerelmes lesz, Oroszlán kellemesen csalódik",
+        "txtlength": 10780
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2022/07/25/a-felnott-magyarok-kozel-otode-fogyasztott-valamilyen-tiltott-drogot-elete-soran-miko",
+        "h1": "A FELNŐTT MAGYAROK ÖTÖDE FOGYASZTOTT TILTOTT DROGOT ÉLETE SORÁN",
+        "txtlength": 10296
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/lajfhekk/grill-tisztitas-veszely/",
+        "h1": "Grill tisztítás veszély",
+        "txtlength": 8265
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/koronavirus/2022/07/25/covid-19-jarvany-hatodik-hullam-omikron-ba-5-varians-vakcina-oltas-negyedik-adag-maszk-teszteles-forgatokonyvek",
+        "h1": "A járvány nem vész el, csak átalakul – mi várható most a Covidtól?",
+        "txtlength": 44628
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/gazdasag/2022/07/25/stagflacio-inflacio-olajsokk-olajvalsag-vockler-fed-nagy-inflacio-1970-es-evek",
+        "h1": "1945 óta csak egyszer látott ekkora inflációt a világgazdaság. Akkor egy évtizedig tartott kimászni belőle",
+        "txtlength": 19072
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kultura/2022/07/24/energiavalsag-filmek-mad-max-alkonyzona-aramszunet-lista-krizis-sci-fi-disztopia/",
+        "h1": "Tényleg elég volna pár napra lekapcsolni az áramot, hogy az emberek egymásnak essenek?",
+        "txtlength": 18078
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/fn/gazdasag/2022/07/25/waberers-reszvenyek-tiborcz-istvan-mike-ferenc-felszamolo-granit-bank/",
+        "h1": "Tiborcz-üzlet: a felszámoló szmájlival válaszolt arra, hogy kétmilliárdos kölcsön mellett érdemes volt-e most kiszállni",
+        "txtlength": 15892
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kulfold/2022/07/25/ukranok-deportalas-elhurcolas-oroszorszag-szurotabor-filtracio",
+        "h1": "Elviszünk pár ezer kilométerre Oroszországba, majd meséld el a kameráknak, milyen jó neked",
+        "txtlength": 14743
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kulfold/2022/07/24/olaszorszag-kormanyvalsag-szelsojobb-attores-populistak-berlusconi-salvini-meloni/",
+        "h1": "A szélsőjobb áttörésére készül Olaszország",
+        "txtlength": 14700
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/kultura/20220725_corvinus_atalakulas_felveteli",
+        "h1": "Sikertörténet vagy kudarc az átalakulás? Három éve váltott modellt a Corvinus",
+        "txtlength": 14643
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/vilag/20220725_orosz_ukran_haboru_152_nap",
+        "h1": "Elbukhat a gabonaalku az orosz támadások miatt, Lavrov Afrikában turnézik – a háború 152. napjának hírei",
+        "txtlength": 10503
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/07/25/most-miert-van-mindenki-megdermedve",
+        "h1": "Most miért van mindenki megdermedve?",
+        "txtlength": 10198
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20220725_Orban_Viktor_tusvanyosi_kerdezzfelelekje_legalabb_olyan_zavaros_volt_mint_a_beszede",
+        "h1": "Orbán Viktor tusványosi kérdezz-felelekje legalább olyan zavaros volt, mint a beszéde",
+        "txtlength": 10146
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/07/24/forabbi-orbannak-csak-egy-faj-van-a-homo-sapiens",
+        "h1": "Főrabbi Orbánnak: Csak egy faj van, a Homo Sapiens",
+        "txtlength": 9915
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/bronz-gabor-evfordulo-gyilkos-ongyilkos/rs10b1r?sl_ps=d_10",
+        "h1": "Két éve zuhant rá az édesanyára az öngyilkos férfi: így próbálja feldolgozni a tragédiát az özvegye",
+        "txtlength": 5711
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/blikk-tv/aktualis/hosegriado-leghuvosebb-munkahely-hutohaz-video/1qrzfdt",
+        "h1": "Ezen a magyar munkahelyen biztosan nem kell a hőségriadó miatt aggódni – videó",
+        "txtlength": 5487
+    },
+    {
+        "hostname": "nosalty.hu",
         "pagelink": "https://www.nosalty.hu/recept/sved-uborkasalata",
         "h1": "Svéd uborkasaláta",
         "txtlength": 10528
