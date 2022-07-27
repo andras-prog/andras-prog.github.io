@@ -1,5 +1,191 @@
 [
     {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/epres-joghurttorta-ribizlivel.recept",
+        "h1": "EPRES JOGHURTTORTA RIBIZLIVEL",
+        "txtlength": 12329
+    },
+    {
+        "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/daralt-hussal-rakott-zoldbab",
+        "h1": "Darált hússal rakott zöldbab",
+        "txtlength": 12308
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/rakott-zoldbab-daralt-hussal-video.recept",
+        "h1": "RAKOTT ZÖLDBAB DARÁLT HÚSSAL",
+        "txtlength": 11799
+    },
+    {
+        "hostname": "hataratkelo.blog.hu",
+        "pagelink": "https://hataratkelo.blog.hu/2022/07/22/a_svajci_elet_arnyoldalai#c41498601",
+        "h1": "A svájci élet árnyoldalai",
+        "txtlength": 41635
+    },
+    {
+        "hostname": "kulturpart.hu",
+        "pagelink": "https://kulturpart.blog.hu/2022/07/25/baksa-soos_janosra_emlekeznek_a_katlanban",
+        "h1": "BAKSA-SOÓS JÁNOSRA EMLÉKEZNEK A KATLANBAN",
+        "txtlength": 6213
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vilag/20220727/az-orosz-gaz-hianya-lehet-az-utolso-szog-a-nemet-gazdasagi-modell-koporsojaba/",
+        "h1": "Az orosz gáz hiánya lehet az utolsó szög a német gazdasági modell koporsójába",
+        "txtlength": 27878
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://sport.mandiner.hu/cikk/20220727_szollosi_gyorgy_egri_viktor_vitaest_ha_nem_tortenik_meg_a_fordulat_rovid_idon_belul_megszunt_volna_a_sport_es_a_futball_is_magyarorszagon",
+        "h1": "Szöllősi György – Egri Viktor vitaest : Ha nem történik meg a fordulat, rövid időn belül megszűnt volna a sport és a futball Magyarországon!",
+        "txtlength": 22567
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220726_mutatjuk_mirol_szol_az_unios_gazfogyasztas_csokkentesi_rendelet_es_mi_vele_a_gond",
+        "h1": "Mutatjuk, miről szól az uniós gázfogyasztás-csökkentési rendelet, és mi vele a gond",
+        "txtlength": 21133
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220726_szantho_miklos_orban_tusvanyos_interju",
+        "h1": "A baloldalnak az antiszemitizmus elleni küzdelem pusztán politikai fegyver – Szánthó Miklós a Mandinernek",
+        "txtlength": 21083
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/otthon/20220725/itt-a-rezsisporolas-bibliaja-ezzel-a-40-trukkel-minden-magyar-rendesen-lezuzhatja-a-szamlait-1127304",
+        "h1": "Itt a rezsispórolás bibliája: ezzel a 40 trükkel minden magyar rendesen lezúzhatja a számláit",
+        "txtlength": 20517
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2022/07/22/ungvary-rudolf-apam-ugyanazert-fenykepezett-amiert-en-irok",
+        "h1": "UNGVÁRY RUDOLF: APÁM UGYANAZÉRT FÉNYKÉPEZETT, AMIÉRT ÉN ÍROK",
+        "txtlength": 20496
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/egeszseg/20220727/aggodik-a-videkiekert-a-magyar-tiktok-doki-csak-akkor-latnak-orvost-ha-mar-nagy-a-baj-1127360",
+        "h1": "Aggódik a vidékiekért a magyar TikTok-doki: csak akkor látnak orvost, ha már nagy a baj",
+        "txtlength": 19130
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/global/20220727/ideje-volna-ukrajnaban-targyaloasztalhoz-ulni-nyugaton-egyre-tobben-ezt-surgetik-557947",
+        "h1": "Ideje volna Ukrajnában tárgyalóasztalhoz ülni? Nyugaton egyre többen ezt sürgetik",
+        "txtlength": 18693
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/penz/20220726/titokzatos-alapokba-vandorol-a-magyar-allam-tobb-tizmilliard-forintja/",
+        "h1": "Titokzatos alapokba vándorol a magyar állam több tízmilliárd forintja",
+        "txtlength": 18369
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/uzlet/20220727/emelkednek-a-tozsdek-a-het-legfontosabb-napjan-558205",
+        "h1": "Emelkednek a tőzsdék a hét legfontosabb napján ",
+        "txtlength": 15866
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.penzcentrum.hu/utazas/20220727/elkepesztoen-ertekes-papir-lapul-a-magyar-zsebekben-hihetetlen-mennyi-helyen-elfogadjak-1127223",
+        "h1": "Elképesztően értékes papír lapul a magyar zsebekben: hihetetlen, mennyi helyen elfogadják",
+        "txtlength": 13523
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/szuloseg/szulo-ketnyelvu-gyerek-neveles/",
+        "h1": "szülő kétnyelvű gyerek nevelés",
+        "txtlength": 11591
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/fogyokura/finn-nok-fogyas/",
+        "h1": "Mitől olyan karcsúak a finn nők? 3 zsírégető táplálék, amit rendszeresen fogyasztanak",
+        "txtlength": 10997
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/komplex/2022/07/27/a-facebookos-propaganda-felzabalja-a-regimodi-kormanysajtot",
+        "h1": "\n      A facebookos propaganda felfalja a régimódi kormánysajtót\n    ",
+        "txtlength": 37328
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kulfold/2022/07/27/oroszorszag-putyin-haboru-oligarcha-rejtelyes-halaesetek-sz-biro-zoltan/",
+        "h1": "Putyin pontosan tudja, kiktől kell valóban félnie",
+        "txtlength": 27902
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kultura/2022/07/26/sarkanyok-haza-tronok-harca-hbo-elozmeny-sorozat-tv-streaming/",
+        "h1": "A Sárkányok háza kevesebb szexszel, több vérfertőzéssel, és tucatnyi sárkánnyal ígér rá a Trónok harcára",
+        "txtlength": 22027
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kulfold/2022/07/26/nancy-pelosi-tajvan-latogatas-kina-usa-biden/",
+        "h1": "Magas rangú amerikai látogatna Tajvanra, ami nemcsak a kínaiak, de Biden szerint is rossz ötlet",
+        "txtlength": 16730
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/eletmod/2022/07/27/sporolni-nemcsak-az-arammal-es-a-gazzal-lehet-itt-van-nehany-haztartasi-tipp",
+        "h1": "Spórolni nem csak az árammal és a gázzal lehet – itt van néhány háztartási tipp",
+        "txtlength": 14270
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/sport/20220726_Mennyire_nepszeru_ma_a_Forma1",
+        "h1": "A Forma–1 valamire nagyon ráérzett",
+        "txtlength": 14231
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/szorakozas/2022/07/27/kiosztottak-a-tarsasjatekok-idei-oscar-dijait-ki-is-probaltuk-a-nyertest",
+        "h1": "Kiosztották a társasjátékok idei Oscar-díjait, ki is próbáltuk a nyertest",
+        "txtlength": 14004
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/07/26/oroszorszag-2024-ben-otthagyja-a-nemzetkozi-urallomast",
+        "h1": "Oroszország 2024-ben otthagyja a Nemzetközi Űrállomást",
+        "txtlength": 10455
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/sport/20220727_slovan_bratislava_ferencvaros_bajnokok_ligaja_selejtezo_visszavago_pozsony",
+        "h1": "30 évvel később: a Ferencváros és szurkolói visszatérnek legsötétebb napjuk helyszínére",
+        "txtlength": 10414
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20220726_Hegedus_megint_irt_Orbannak_tul_sokan_hallgattak_amikor_szuletoben_volt_az_a_fajta_gyulolkodes_amire_a_nacik_epitettek",
+        "h1": "Hegedüs visszaírt Orbánnak: Túl sokan hallgattak, amikor születőben volt az a gyűlölködés, amire a nácik építettek",
+        "txtlength": 10073
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/szexualis-szokasok-magyarorszagon-felmeres/v5n80b1",
+        "h1": "Szextázisban a magyarok! Feltérképezték a szokásainkat: kiderültek a szaftos titkok, mit és hogyan csinálunk",
+        "txtlength": 9943
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/07/26/deutsch-tamas-megallitjuk-gyurcsanyt-es-a-baloldalt-brusszelben-is",
+        "h1": "Deutsch Tamás: Megállítjuk Gyurcsányt és a baloldalt Brüsszelben is",
+        "txtlength": 9661
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/sztarvilag/filmklikk/tvr-het-doktor-murphy-david-shore-sorozat/wmjp9jq",
+        "h1": "Csodabogár fehér köpenyben: Doktor Murphy - Ő lehet Doktor House méltó utódja?",
+        "txtlength": 7936
+    },
+    {
         "hostname": "nosalty.hu",
         "pagelink": "https://www.nosalty.hu/recept/barackos-pudingos-piskota",
         "h1": "Barackos-pudingos piskóta",
