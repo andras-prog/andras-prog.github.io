@@ -1,5 +1,191 @@
 [
     {
+        "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/klasszikus-szilvas-gomboc",
+        "h1": "Klasszikus szilvás gombóc",
+        "txtlength": 17582
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/triplacsokis-torta-sutes-nelkul.recept",
+        "h1": "TRIPLACSOKIS TORTA SÜTÉS NÉLKÜL",
+        "txtlength": 11289
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/a-legjobb-gesztenyes-suti.recept",
+        "h1": "GESZTENYÉS ÁLOM",
+        "txtlength": 11036
+    },
+    {
+        "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/hazi-fugelekvar",
+        "h1": "Házi fügelekvár",
+        "txtlength": 9916
+    },
+    {
+        "hostname": "hataratkelo.blog.hu",
+        "pagelink": "https://hataratkelo.blog.hu/2022/07/22/a_svajci_elet_arnyoldalai#c41500073",
+        "h1": "A svájci élet árnyoldalai",
+        "txtlength": 46185
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/hitel/20220725/ingyenmilliokat-kaphatsz-hogy-meguszd-a-rezsiemelest-ezt-kevesen-tudjak-igy-mukodik-1127191",
+        "h1": "Ingyenmilliókat kaphatsz, hogy megúszd a rezsiemelést: ezt kevesen tudják, így működik",
+        "txtlength": 29089
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20220727/eros-uzenetet-kuldott-jerome-powell-hamarosan-vege-a-nagy-kamatemeleseknek-558375",
+        "h1": "Erős üzenetet küldött Jerome Powell: hamarosan vége a nagy kamatemeléseknek ",
+        "txtlength": 25020
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2022/07/27/csillagokat-neznek-milyen-tavcsovet-vegyek",
+        "h1": "CSILLAGOKAT NÉZNÉK, MILYEN TÁVCSÖVET VEGYEK?",
+        "txtlength": 22142
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vallalat/20220728/penzt-csak-elvetve-adnak-vissza-a-nevleg-visszavalthato-poharert-termeli-is-szepen-a-profitot/",
+        "h1": "Pénzt csak elvétve adnak vissza a névleg visszaváltható pohárért, termeli is szépen a profitot",
+        "txtlength": 21711
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/utazas/20220723/itt-a-nagy-balatoni-sorterkep-2022-mutatjuk-a-legjobb-lelohelyeket-a-to-korul-1127247",
+        "h1": "Itt a nagy Balatoni Sörtérkép 2022: mutatjuk a legjobb lelőhelyeket a tó körül",
+        "txtlength": 21236
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220731_felelos_e_marx_a_marxizmus_buneiert",
+        "h1": "Felelős-e Marx a marxizmus bűneiért?",
+        "txtlength": 21042
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/uzlet/20220728/uj-rekordok-a-masterplastnal-tovabb-szarnyal-az-arfolyam-558397",
+        "h1": "Új rekordok a Masterplastnál - Tovább szárnyal az árfolyam",
+        "txtlength": 18999
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/adat/20220727/az-oroszok-mar-a-latszatra-sem-ugyelnek-lesz-e-eleg-foldgazunk-a-telen/",
+        "h1": "Az oroszok már a látszatra sem ügyelnek, lesz-e elég földgázunk a télen?",
+        "txtlength": 18175
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220731_az_elsoszulottek_sikere_es_a_szocializmus_hatulutoje",
+        "h1": "Az elsőszülöttek sikere és a szocializmus hátulütője",
+        "txtlength": 18106
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/uzlet/20220728/kitart-a-jo-hangulat-folytatodik-az-emelkedes-a-tozsdeken-558395",
+        "h1": "Kitart a jó hangulat, folytatódik az emelkedés a tőzsdéken ",
+        "txtlength": 17744
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220727_brusszel_ursula_von_der_leyen_nemetorszag_klima_vlagyimir_putyin_zelenszkij_haboru_gaz_ellatas_magyarorszag_szijjarto_peter_gazellatas",
+        "h1": "Társadalmi feszültségekhez vezethetnek az uniós energiakorlátozások – szakértő a Mandinernek",
+        "txtlength": 17660
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/gyerek/nyaralas-gyerek-nelkul/",
+        "h1": "Mennyi időt tölthet a szülei nélkül egy kétéves gyerek? Sok családban dilemma a nyaralás",
+        "txtlength": 10885
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/szuloseg/retro-nyaralas-kiskapuk-inflacio/",
+        "h1": "Retró nyaralás kiskapuk infláció",
+        "txtlength": 10285
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kultura/2022/07/27/szinhaz-eloado-muveszet-atrium-kim-fesz-tobblettamogatas/",
+        "h1": "Az Átriumon kívül még rengeteg színházi társulat került kilátástalan helyzetbe, átláthatatlan a támogatási rendszer",
+        "txtlength": 20115
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://rangado.24.hu/magyar_foci/2022/07/28/bajnokok-ligaja-selejtezo-slovan-ftc-pozsony-riport/",
+        "h1": "A Slovan-drukkerek szerint valaki elbeszélgethetett a Fradi-játékosokkal, a magyarok top3-as meccsélményt emlegetnek",
+        "txtlength": 20112
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://transtelex.ro/velemeny/2022/07/28/tgm-naci-beszed-vagy-naci-rendszer-orban-viktor-tusvanyosi-beszed",
+        "h1": "Náci beszéd vagy náci rendszer?",
+        "txtlength": 17977
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/belfold/2022/07/28/hegedus-zsuzsa-portre",
+        "h1": "Hegedüs Zsuzsa eddig leüvölthette Orbán fejét, most elővette a kormánypárti sajtó",
+        "txtlength": 17695
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/szorakozas/2022/07/27/mandoki-laszlo-leslie-mandoki-soulmates-dokumentumfilm",
+        "h1": "Már megint nem derült ki, miért rajong a magyar kormány Mándoki Lászlóért",
+        "txtlength": 16890
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/gazdasag/20220727_rezsicsokkentes_kistelepules_gemesi",
+        "h1": "Van olyan település, ahol már azt számolgatja a polgármester, érdemes-e lekapcsolni a hűtőt",
+        "txtlength": 16412
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/07/28/tgm-orban-ismet-folallitja-a-fasiszta-naci-alaptezist-a-fajok-nem-egyenlok",
+        "h1": "TGM: Orbán ismét fölállítja a fasiszta-náci alaptézist: a fajok nem egyenlők",
+        "txtlength": 13344
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2022/07/28/kata-torveny-modositas-egyeni-vallalkozok-balaton-szabaduszok/",
+        "h1": "„Visszamegyünk oda, hogy csak suttogva beszélnek az emberek a pénzügyeikről”",
+        "txtlength": 12589
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/vilag/20220728_Unios_tamogatas_az_Europai_Egyetemek_transznacionalis_szovetsegeinek",
+        "h1": "Hamarosan 44 Európai Egyetem lesz Európában – köztük négy magyar intézménnyel",
+        "txtlength": 11907
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/07/28/1200-hektaron-egett-a-tuz-del-franciaorszagban-tobb-szaz-embert-evakualtak",
+        "h1": "1200 hektáron égett a tűz Dél-Franciaországban, több száz embert evakuáltak",
+        "txtlength": 9681
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/gazdasag/20220728_Von_der_Leyen_interju_energiaellatas_energiavalsag",
+        "h1": "Von der Leyen a magyar energia-veszélyhelyzetről: Az egyoldalú intézkedések inkább súlyosbítják a helyzetet",
+        "txtlength": 9573
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/kulfold/nemetorszag-takarekossag-hidegviz-zuhany-futes/gjqx99t?sl_ps=d_3",
+        "h1": "Arculcsapás: Eljött a kényszertakarékosság, kikapcsolják a meleg vizet, az uszodákban, fürdőkben csak hideg vizes zuhany lesz, a hivatalokban alig fűtenek!",
+        "txtlength": 8756
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/a-budai-varban-vilagsztarokkal-lep-fel-a-vilaghiru-leslie-mandoki/69y8ngj",
+        "h1": "A budai várban világsztárokkal lép fel a világhírű Leslie Mandoki",
+        "txtlength": 8362
+    },
+    {
         "hostname": "mindmegette.hu",
         "pagelink": "https://www.mindmegette.hu/epres-joghurttorta-ribizlivel.recept",
         "h1": "EPRES JOGHURTTORTA RIBIZLIVEL",
