@@ -1,6 +1,198 @@
 [
     {
         "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/lecso-telire",
+        "h1": "Lecsó télire",
+        "txtlength": 16769
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/toltott-tesztaholdacskak-paradicsommal-es-csirkevel.recept",
+        "h1": "TÖLTÖTT TÉSZTAHOLDACSKÁK PARADICSOMMAL ÉS CSIRKÉVEL",
+        "txtlength": 11214
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/kolbaszos-paradicsomos-krumpli.recept",
+        "h1": "PARADICSOMOS KRUMPLI KOLBÁSSZAL",
+        "txtlength": 11156
+    },
+    {
+        "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/klasszik-langos",
+        "h1": "Klasszik lángos",
+        "txtlength": 9624
+    },
+    {
+        "hostname": "hataratkelo.blog.hu",
+        "pagelink": "https://hataratkelo.blog.hu/2022/07/22/a_svajci_elet_arnyoldalai#c41501759",
+        "h1": "A svájci élet árnyoldalai",
+        "txtlength": 45215
+    },
+    {
+        "hostname": "kulturpart.hu",
+        "pagelink": "https://kulturpart.hu/2022/07/27/ukrajnabol_menekult_gyerekeken_segit_a_peace_builders",
+        "h1": "UKRAJNÁBÓL MENEKÜLT GYEREKEKEN SEGÍT A PEACE BUILDERS",
+        "txtlength": 7911
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/kozelet/20220728/sokba-kerul-a-magyar-kulon-ut-pedig-tudhattuk-hogy-nem-erdemes-ralepni/",
+        "h1": "Sokba kerül a magyar külön út, pedig tudhattuk, hogy nem érdemes rálépni",
+        "txtlength": 27336
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220729_nem_kimeltek_a_liberalisok_az_orban_altal_idezett_sikerkonyv_szerzojet",
+        "h1": "Nem kímélték a liberálisok az Orbán által idézett sikerkönyv szerzőjét",
+        "txtlength": 25732
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220727_honvedseg_gyurcsany_nato_ukrajna_oroszorszag",
+        "h1": "Gyurcsányék nem akartak több katonát látni Magyarországon",
+        "txtlength": 21286
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://makronom.mandiner.hu/cikk/20220729_usa_svedorszag_finnorszag_nato_makronom",
+        "h1": "A NATO bővítésével csökkenhetne az amerikai jelenlét Európában",
+        "txtlength": 21156
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20220729/oriasi-a-tet-30-vagy-300-euroba-fog-kerulni-a-villamos-energia-a-piacon-557923",
+        "h1": "Óriási a tét: 30 vagy 300 euróba fog kerülni a villamos energia a piacon?",
+        "txtlength": 20304
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/karrier/20220728/uj-juttatasi-csomag-terjed-a-munkahelyeken-a-magyarok-is-durvan-jol-jarhatnak-vele-1127406",
+        "h1": "Új juttatási csomag terjed a munkahelyeken: a magyarok is durván jól járhatnak vele?",
+        "txtlength": 19871
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/vasarlas/20220726/beinditotta-nagy-nyari-vasarat-az-aldi-lidl-tesco-ezert-all-sorba-minden-magyar-aki-sporolni-akar-1127318",
+        "h1": "Beindította nagy nyári vásárát az Aldi, Lidl, Tesco: ezért áll sorba minden magyar, aki spórolni akar",
+        "txtlength": 18802
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vallalat/20220729/kegyetlenul-draga-lesz-osszel-az-orosz-gaz-ezert-emelt-rezsit-a-kormany/",
+        "h1": "Kegyetlenül drága lesz ősszel az orosz gáz, ezért emelt rezsit a kormány",
+        "txtlength": 18477
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/global/20220729/amerikai-dron-csapott-le-oroszorszag-teruletere-most-aztan-tenyleg-bedurvul-majd-putyin-558513",
+        "h1": "Amerikai drón csapott le Oroszország területére – Most aztán tényleg bedurvul majd Putyin?",
+        "txtlength": 14845
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/uzlet/20220729/kifaradni-latszik-az-apple-aranytojast-tojo-tyukja-558603",
+        "h1": "Kifáradni látszik az Apple aranytojást tojó tyúkja",
+        "txtlength": 14637
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/ezo/hitler-elso-vilaghaborus-katona/",
+        "h1": "Hitler megvakult, és a hangját is elvesztette a mustárgáztól: a Führer mint I. világháborús katona",
+        "txtlength": 12632
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2022/07/29/nem-csoda-hogy-rosszul-alszol-a-klimavaltozas-soran-az-ejszakak-jobban-melegednek-mint-a-nappalok",
+        "h1": "NEM CSODA, HOGY ROSSZUL ALSZOL: A KLÍMAVÁLTOZÁS SORÁN AZ ÉJSZAKÁK JOBBAN MELEGEDNEK, MINT A NAPPALOK",
+        "txtlength": 11991
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/lajfhekk/fogkrem-felhasznalasa/",
+        "h1": "fogkrém felhasználása",
+        "txtlength": 11150
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/sport/2022/07/29/nb1-ner-futball-elvonal-magyar-foci",
+        "h1": "Egy csapat kivételével nagyon NER-es az idei NB I.",
+        "txtlength": 28797
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2022/07/29/bokros-lajos-oszko-peter-nagy-marton-magyarorszag-megszoritas-sebok-miklos-koltsegvetes-kiigazitas-gyurcsany-bajnai/",
+        "h1": "Bokros Lajostól Oszkó Péteren át Nagy Mártonig: a magyar megszorítások tragédiája három felvonásban",
+        "txtlength": 25631
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kulfold/2022/07/28/tunezia-nepszavazas-kaisz-szaid-demokracia-arab-tavasz-referendum/",
+        "h1": "Népszavazáson buktatták meg a demokráciát a tunéziaiak – szülőhazájában ért véget az arab tavasz",
+        "txtlength": 15508
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/fn/gazdasag/2022/07/29/rezsicsokkentes-aramar-rendszerhasznalati-dij-elosztoi-dij-atlagfogyasztas-lakossagi-piaci-ar/",
+        "h1": "Az MVM 15 forintért veszi az áramot, a lakosságnak 5 forintért adja, miközben épp emelkedik a rezsi",
+        "txtlength": 13726
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/gazdasag/20220729_vasarnapi_ebed_julius",
+        "h1": "A rizs után a tészta ára is kilőtt – így alakult a hvg.hu e havi bevásárlókosara",
+        "txtlength": 13534
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/07/29/locsoltunk-reggel-ejjel-meg-este",
+        "h1": "Locsoltunk reggel, éjjel meg este",
+        "txtlength": 11645
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/velemeny/2022/07/29/felsooktatas-felveteli-pontszamitas-nyelvvizsga-eselyegyenloseg",
+        "h1": "A felvételi átalakítása annyit ér, mint a vakbélgyulladásra a beöntés",
+        "txtlength": 11610
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/07/28/sebastian-vettel-bejelentette-visszavonulasat-a-magyar-nagydij-elott",
+        "h1": "Sebastian Vettel bejelentette visszavonulását a Magyar Nagydíj előtt",
+        "txtlength": 10790
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/vilag/20220729_haboru_ukrajna_orosz_hadsereg",
+        "h1": "A nyugalmazott katonai vezető szerint az oroszok egyik terve sem jött be Ukrajnában – a háború pénteki hírei",
+        "txtlength": 10641
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20220729_orban_viktor_radiointerju_kossuth_radio_haboru_oroszorszag_ukrajna",
+        "h1": "Orbán: A magyar leginkább úgy gondolkodik, hogy ha baj van, akkor magára számíthat",
+        "txtlength": 10566
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/gazdasag/2022/07/29/oszlassuk-el-a-gazmitoszokat-nem-otodaron-kapjuk-a-gazt-de-nem-is-a-magyarok-fizetik-erte-a-legtobbet",
+        "h1": "Oszlassuk el a gázmítoszokat: nem ötödáron kapjuk a gázt, de nem is a magyarok fizetik érte a legtöbbet",
+        "txtlength": 10513
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/krimi/halalra-gazolt-vak-ferfi-kistelek-tragedia-vakvezeto-kutya-segiteni-probalt/pxkdslb",
+        "h1": "Nem vette észre az autós, halálra gázolta Sándort – Hős kutyája próbálta menteni vak gazdáját",
+        "txtlength": 8110
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/krimi/nyirpilis-varandos-no-ongyilkos-felakasztva-talaltak-ra-tettes/pz56m2l",
+        "h1": "Felakasztva találták meg a várandós Mariannt: a helyiek szerint gyilkosság történhetett",
+        "txtlength": 7018
+    },
+    {
+        "hostname": "nosalty.hu",
         "pagelink": "https://www.nosalty.hu/recept/klasszikus-szilvas-gomboc",
         "h1": "Klasszikus szilvás gombóc",
         "txtlength": 17582
