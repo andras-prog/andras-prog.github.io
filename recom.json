@@ -1,6 +1,186 @@
 [
     {
         "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/fokhagymas-sajtos-inycsiklando-cukkini-sutoben-sutve",
+        "h1": "Fokhagymás-sajtos ínycsiklandó cukkini sütőben sütve",
+        "txtlength": 11993
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/trifle-nyari-gyumolcsokkel.recept",
+        "h1": "TRIFLE NYÁRI GYÜMÖLCSÖKKEL",
+        "txtlength": 11081
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/edes-sos-galette-paradicsommal.recept",
+        "h1": "ÉDES-SÓS GALETTE PARADICSOMMAL",
+        "txtlength": 10890
+    },
+    {
+        "hostname": "hataratkelo.blog.hu",
+        "pagelink": "https://hataratkelo.blog.hu/2022/07/22/a_svajci_elet_arnyoldalai#c41502919",
+        "h1": "A svájci élet árnyoldalai",
+        "txtlength": 52511
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220724_visszaszerzett_emberi_meltosag_kali_horvath_kalman_cigany_kozeleti_ikon_a_mandinernek",
+        "h1": "Történelmi léptékű elindulás történt a cigányság felzárkózásában – Káli-Horváth Kálmán a Mandinernek",
+        "txtlength": 33322
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/utazas/20220729/felejtsd-el-parizst-romat-londont-ezek-lesznek-az-utazok-kedvencei-a-jovoben-1127419",
+        "h1": "Felejtsd el Párizst, Rómát, Londont: ezek lesznek az utazók kedvencei a jövőben",
+        "txtlength": 27873
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220806_kozakok_kozaksag_ukrajna_oroszorszag_varga_beata_doni_kozakok_zaporozsjei_kozakok_orosz_tortenelem_ukran_tortenelem_zaporozsjei_had",
+        "h1": "Kik azok a kozákok? Oroszok vagy ukránok? − történész a Mandinernek",
+        "txtlength": 23820
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220730_magyarorszag_vonzo_befektetesi_celpont_az_egyesult_arab_emirsegek_nagykovete_a_mandinernek",
+        "h1": "Magyarország vonzó befektetési célpont – az Egyesült Arab Emírségek nagykövete a Mandinernek",
+        "txtlength": 23710
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20220730/gulyas-gergely-hozzanyul-a-kormany-a-strategiai-keszletekhez-nem-mindenkinek-jar-a-480-as-benzin-558781",
+        "h1": "Gulyás Gergely: hozzányúl a kormány a stratégiai készletekhez, nem mindenkinek jár a 480-as benzin ",
+        "txtlength": 21837
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/hitel/20220728/meg-most-is-erdemes-belevagni-a-lakashitelbe-ha-ezeket-betartod-nehezen-nyulhatsz-melle-1127380",
+        "h1": "Még most is érdemes belevágni a lakáshitelbe? Ha ezeket betartod, nehezen nyúlhatsz mellé",
+        "txtlength": 20257
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/kozelet/20220730/mar-a-civil-szervezetek-is-az-allamtol-fuggenek-magyarorszagon/",
+        "h1": "Már a civil szervezetek is az államtól függenek Magyarországon",
+        "txtlength": 19702
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vallalat/20220729/jon-ki-a-godorbol-a-nemet-autogyartas-es-a-magyar-gazdasagot-is-meglokheti/",
+        "h1": "Jön ki a gödörből a német autógyártás, és a magyar gazdaságot is meglökheti",
+        "txtlength": 18262
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.penzcentrum.hu/szorakozas/20220730/huzos-arak-a-magyar-stadionokban-ennyibe-kerul-ma-focimeccsre-jarni-magyarorszagon-1127291",
+        "h1": "Húzós árak a magyar stadionokban: ennyibe kerül ma focimeccsre járni Magyarországon",
+        "txtlength": 16400
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20220730/horroraron-a-magyarok-kedvenc-sajtja-es-a-gyumolcsok-zome-hol-van-meg-a-vege-az-aremelkedesnek-558521",
+        "h1": "Horroráron a magyarok kedvenc sajtja és a gyümölcsök zöme - Hol van még a vége az áremelkedésnek?",
+        "txtlength": 15591
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2022/07/27/messze-all-a-fenntarthatosagtol-neom-a-szaudi-sivatagba-almodott-gigantikus-okosvaros",
+        "h1": "MESSZE ÁLL A FENNTARTHATÓSÁGTÓL NEOM, A SZAÚDI SIVATAGBA ÁLMODOTT GIGANTIKUS OKOSVÁROS",
+        "txtlength": 15084
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/otthon/meghosszabbitottak-az-otszazalekos-afa-hataridejet/",
+        "h1": "Még több lakás épülhet kedvezményesen: meghosszabbítottak egy fontos határidőt",
+        "txtlength": 10546
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/szuloseg/gyes-gyed-anya-apa-csalad/",
+        "h1": "gyes gyed anya apa család",
+        "txtlength": 10466
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/belfold/2022/07/30/szombati-kormanyinfo-benzinarsapka-energiavalsag-adougyek",
+        "h1": "Gulyás Gergely: Déltől csak a magántulajdonú gépjárművek tankolhatnak ársapkás üzemanyagot",
+        "txtlength": 21988
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/belfold/2022/07/29/tata-oreg-to-nepszavazas-stop-avalon-civilek-helyszini-riport",
+        "h1": "Ha itt sikerül ez az akció, akkor más nagy tavaknál is összejöhet",
+        "txtlength": 20885
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kultura/2022/07/29/alfa-holdbazis-sorozat-space-1999-regi-sorozatsikerek-sci-fi/",
+        "h1": "Atomrobbanás téríti le a Holdat pályájáról, de még ez sem mentette meg az Alfa holdbázist",
+        "txtlength": 20857
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/sport/2022/07/29/noi-motorsport-helyzete-w-series-eredmenyek",
+        "h1": "Áttörést nem, de annál több vitát hozott eddig a csak női autóversenyzőknek szervezett bajnokság",
+        "txtlength": 16815
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/cegauto/20220731_476_elektromos_loero_az_amgtol_teszten_a_mercedes_eqe_43",
+        "h1": "476 elektromos lóerő az AMG-től: teszten a Mercedes EQE 43",
+        "txtlength": 14618
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/tudomany/20220730_huawei_watch_gt_3_pro_okosora_teszt_velemeny_funkciok_specifikacio",
+        "h1": "Gran Turismo csuklóra pattintva: teszten a Huawei új, EKG-s órája",
+        "txtlength": 14020
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kulfold/2022/07/30/kina-jelzaloghitel-valsag-ingatlanpiac-bojkott-evergrande-ingatlanfejleszto-vallalatok-arbuborek/",
+        "h1": "Megelégelték a családok, hogy az el nem készült lakásukért fizetnek – akár be is dőlhet a kínai ingatlanpiac",
+        "txtlength": 14007
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kultura/2022/07/29/irma-vep-hbo-max-sorozat-alicia-vikander-vampir/",
+        "h1": "Imádtuk nézni, ahogy az HBO Max sorozata még a saját létjogosultságát is megkérdőjelezi",
+        "txtlength": 13889
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/sport/20220729_A_magyar_F1futam_legjei",
+        "h1": "Hungaroring – a legendák, az újjászületések és a mémek földje",
+        "txtlength": 13558
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/07/30/hetvegi-olvasnivalok-a-kiszaradastol-a-gyurcsanyi-pillanatig",
+        "h1": "Hétvégi olvasnivalók a kiszáradástól a gyurcsányi pillanatig",
+        "txtlength": 11884
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/07/30/felhoszakadas-riasztast-adott-ki-a-meteorologia",
+        "h1": "Felhőszakadás-riasztást adott ki a Meteorológia",
+        "txtlength": 10260
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/trabantok-szerelmese-a-kocsigyujto-marton/zcertzk",
+        "h1": "Döcög és pöfög, hú de kafa! – A Trabantok szerelmese a kocsigyűjtő Márton",
+        "txtlength": 7852
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/kerekesszek-motorbaleset-palacsinta-rekord-eletkedv-amputacio/2mzekk1",
+        "h1": "400 méteres édességet akar gyártani Csikó, az adrenalinfüggő, lábait vesztett magyar palacsintakirály",
+        "txtlength": 7621
+    },
+    {
+        "hostname": "nosalty.hu",
         "pagelink": "https://www.nosalty.hu/recept/lecso-telire",
         "h1": "Lecsó télire",
         "txtlength": 16769
