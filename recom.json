@@ -1,5 +1,191 @@
 [
     {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/nanaimo-szelet-suti.recept",
+        "h1": "NANAIMO-SZELET",
+        "txtlength": 11060
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/vanilias-panna-cotta-mangoszosszal.recept",
+        "h1": "VANÍLIÁS PANNA COTTA MANGÓSZÓSSZAL",
+        "txtlength": 11002
+    },
+    {
+        "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/sargabarack-kremleves",
+        "h1": "Sárgabarack krémleves",
+        "txtlength": 10073
+    },
+    {
+        "hostname": "hataratkelo.blog.hu",
+        "pagelink": "https://hataratkelo.blog.hu/2022/07/22/a_svajci_elet_arnyoldalai#c41504439",
+        "h1": "A svájci élet árnyoldalai",
+        "txtlength": 59183
+    },
+    {
+        "hostname": "kulturpart.hu",
+        "pagelink": "https://kulturpart.blog.hu/2022/07/27/ukrajnabol_menekult_gyerekeken_segit_a_peace_builders",
+        "h1": "UKRAJNÁBÓL MENEKÜLT GYEREKEKEN SEGÍT A PEACE BUILDERS",
+        "txtlength": 7905
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220626_orosz_tortenelem_gyoni_gabor_vlagyimir_putyin_borisz_jelcin_szovjetunio",
+        "h1": "„Ez az enyém, ez a tiéd” – történész az orosz 20–21. századról",
+        "txtlength": 31582
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220731_a_kevert_fajuak_kifejezes_meggondolatlan_volt_de_a_mogotte_levo_problema_valos_john_o_sullivan_es_kiss_istvan_a_mandinernek",
+        "h1": "Nem rasszista megjegyzést tett a miniszterelnök – John O’Sullivan és Kiss István a Mandinernek",
+        "txtlength": 28526
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/szorakozas/20220726/megszolalt-a-magyar-sztarproducer-a-gyenge-forint-miatt-is-ozonlenek-hozzank-a-hollywoodi-hiressegek-1127303",
+        "h1": "Megszólalt a magyar sztárproducer: a gyenge forint miatt is özönlenek hozzánk a hollywoodi hírességek",
+        "txtlength": 27062
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220731_senki_ne_nezze_hulyenek_a_magyarokat_szijjarto_peter_az_mcc_feszten",
+        "h1": "„Senki ne nézze hülyének a magyarokat” – Szijjártó Péter az MCC Feszten",
+        "txtlength": 25550
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/tech/20220731/sajat-magat-buktatja-le-a-budapesten-es-siofokon-is-aktiv-e-rolleres-ceg/",
+        "h1": "Saját magát buktatja le a Budapesten és Siófokon is aktív e-rolleres cég",
+        "txtlength": 21384
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2022/07/31/barta-tamas-utja-a-szocializmusbol-a-szabadsagba",
+        "h1": "BARTA TAMÁS ÚTJA A SZOCIALIZMUSBÓL A SZABADSÁGBA",
+        "txtlength": 20002
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vilag/20220730/szovjet-utodallamok-segithetnek-az-energiavalsagba-sullyedo-europan/",
+        "h1": "Szovjet utódállamok segíthetnek az energiaválságba süllyedő Európán",
+        "txtlength": 19306
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/vasarlas/20220728/lekvar-horror-a-magyar-otthonokban-a-boltban-mar-olcsobb-megvenni-mint-odahaza-befozni-1127368",
+        "h1": "Lekvár-horror a magyar otthonokban: a boltban már olcsóbb megvenni, mint odahaza befőzni",
+        "txtlength": 18674
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/ingatlan/20220730/lakasafa-mit-er-az-5-os-afa-meghosszabbitasa-558693",
+        "h1": "Lakásáfa: mit ér az 5%-os áfa meghosszabbítása?",
+        "txtlength": 17299
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/global/20220730/ok-putyin-agyutoltelekei-az-egyik-legszegenyebb-oroszorszagi-regio-adja-a-legtobb-aldozatot-az-ukrajnai-haboruban-558525",
+        "h1": "Ők Putyin ágyútöltelékei? – Az egyik legszegényebb oroszországi régió adja a legtöbb áldozatot az ukrajnai háborúban",
+        "txtlength": 16148
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/deviza/20220731/szegeny-forintot-meg-az-ag-is-huzza-miert-csak-ennyit-ertek-a-hatalmas-kamatemelesek-558565",
+        "h1": "Szegény forintot még az ág is húzza – Miért csak ennyit értek a hatalmas kamatemelések?",
+        "txtlength": 16120
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/gyerek/romeo-es-julia-torveny/",
+        "h1": "Mi az a Rómeó és Júlia törvény? Ennyi idősen szexelhet egy tini hazánkban és a világ más országaiban",
+        "txtlength": 13713
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/szuloseg/tarsasjatek-nyar-kviz/",
+        "h1": "társasjáték nyár kvíz",
+        "txtlength": 10479
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/szorakozas/2022/07/30/ivana-trump-donald-trump-felesge-elete-portre/",
+        "h1": "Aki nélkül nem létezne a mai Donald Trump",
+        "txtlength": 21472
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20220731_kulfoldi_apolokat_Nemetorszag_magyarok",
+        "h1": "Repülőjeggyel, laptoppal, nyelvtanfolyammal csábítják a külföldi ápolókat a német klinikák, de a magyarok még nem kapkodnak utána",
+        "txtlength": 17878
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/tudomany/2022/07/30/aranybulla-kozepkor-ii-andras-tortenelem/",
+        "h1": "A rendteremtést szolgálta az Aranybulla",
+        "txtlength": 16141
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/szorakozas/2022/07/30/stranger-things-filmzene-nosztalgia-regi-slagerek-nyolcvanas-evek-the-beatles-queen/",
+        "h1": "A Stranger Thingsen túl: filmzeneként feltámadó régebbi slágerek",
+        "txtlength": 16017
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/gazdasag/20220731_Es_akkor_gazsporolas_EU_aszaly_alapkamat",
+        "h1": "És akkor spórolni kell a gázzal, miközben kiég minden",
+        "txtlength": 15914
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/eszkombajn/2022/07/31/buran-szovjet-ursiklo-bajkonur-urrepulo-kazah-kan-levagott-fej",
+        "h1": "Az utolsó kazah kán levágott fejéért eladó a szovjet űrsikló",
+        "txtlength": 15855
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/gazdasag/2022/07/30/a-mol-es-a-magyar-allam-abban-bizik-hogy-ha-a-piac-fele-mar-piaci-dizelarat-fizet-mas-is-importalni-kezd",
+        "h1": "A Mol és a kormány abban bíznak, mások is importálni kezdenek, ha a fogyasztók fele már piaci dízelárat fizet",
+        "txtlength": 15420
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kulfold/2022/07/31/orosz-ukran-haboru-158-nap-percrol-percre",
+        "h1": "Mikolajivot lőtték az oroszok, a törökök szerint akár hétfőn elindulhat az ukrán gabonával az első hajó",
+        "txtlength": 13463
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20220729_navracsics_tibor_balazs_peter",
+        "h1": "Balázs Péter: \"Navracsicsnál nincs jobb ember a küldetésre, ami szinte lehetetlen\"",
+        "txtlength": 11978
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/07/31/new-yorkban-egeszsegugyi-veszelyhelyzetet-hirdettek-a-majomhimlo-miatt",
+        "h1": "New Yorkban egészségügyi veszélyhelyzetet hirdettek a majomhimlő miatt",
+        "txtlength": 11274
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/07/31/hitelmoratoriumot-adna-a-kormany-az-aszaly-miatt-bajba-kerult-gazdaknak",
+        "h1": "Hitelmoratóriumot adna a kormány az aszály miatt bajba került gazdáknak",
+        "txtlength": 10909
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/mamut-lelet-asatas-mariagyud-muzeum-regesz/tbq0b5f",
+        "h1": "„Nem gondoltuk, hogy ősi mamutcsontok felett járkálunk nap mint nap” – Szenzációs lelet a máriagyűdi kertben",
+        "txtlength": 10110
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/novekszik-valasok-szama-szakerto-kezdet-koronavirus-kapcsolat-nehezseg/g0767h2?sl_ps=d_10",
+        "h1": "Durván megugrott a válások száma, a szakértő szerint ez még csak a kezdet",
+        "txtlength": 9855
+    },
+    {
         "hostname": "nosalty.hu",
         "pagelink": "https://www.nosalty.hu/recept/fokhagymas-sajtos-inycsiklando-cukkini-sutoben-sutve",
         "h1": "Fokhagymás-sajtos ínycsiklandó cukkini sütőben sütve",
