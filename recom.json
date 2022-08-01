@@ -1,6 +1,186 @@
 [
     {
         "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/pestos-cukkinispagetti-sult-csirkemellel.recept",
+        "h1": "PESTÓS CUKKINISPAGETTI SÜLT CSIRKEMELLEL",
+        "txtlength": 10647
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/tokos-cukkinikremleves-citrommal.recept",
+        "h1": "CUKKINIKRÉMLEVES CITROMMAL",
+        "txtlength": 10597
+    },
+    {
+        "hostname": "kiszamolo.hu",
+        "pagelink": "https://kiszamolo.hu/mennyibe-fog-kerulni-az-allamadossag-finanszirozasa/",
+        "h1": "Mennyibe fog kerülni az államadósság finanszírozása?",
+        "txtlength": 36035
+    },
+    {
+        "hostname": "kulturpart.hu",
+        "pagelink": "https://kulturpart.blog.hu/2022/07/28/bajba_kerult_a_hianypotlo_fesztival",
+        "h1": "BAJBA KERÜLT A HIÁNYPÓTLÓ FESZTIVÁL",
+        "txtlength": 6761
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220727_a_mindenhol_jelen_levo_ceg",
+        "h1": "A mindenhol jelen lévő cég – Hetvenöt éve végzi hírszerzési tevékenységét a CIA",
+        "txtlength": 23633
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://sport.mandiner.hu/cikk/20220801_rivalisai_kirohogtek_a_magyar_nagydijon_magat_labon_lovo_ferrarit_mikozben_a_csapatfonok_szerint_nem_a_strategian_ment_el_a_gyozelmuk",
+        "h1": "Riválisai kiröhögték a Magyar Nagydíjon magát lábon lövő Ferrarit, miközben a csapatfőnök szerint nem a stratégián ment el a győzelmük",
+        "txtlength": 23305
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/global/20220731/megijedt-az-ukrajnai-haboru-miatt-putyin-egyik-legfontosabb-szovetsegese-kulcsfontossagu-regiot-veszithet-el-oroszorszag-558709",
+        "h1": "Megijedt az ukrajnai háború miatt Putyin egyik legfontosabb szövetségese - Kulcsfontosságú régiót veszíthet el Oroszország?",
+        "txtlength": 20992
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220729_jokai_utca_hazomlas_rendorseg_piller_lakas_kft_bujtas_iren_tanu_fovarosi_kormanyhivatal",
+        "h1": "A terézvárosi házomlásnak még mindig nincs meg a felelőse, a kivitelező szerint ő nem hibás",
+        "txtlength": 20529
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/karrier/20220726/igazi-magyar-munkahelyi-remalom-nincs-rosszabb-ennel-a-fonokoknel-rengeteg-dolgozoja-megszivja-1127342",
+        "h1": "Igazi magyar munkahelyi rémálom: nincs rosszabb ennél a főnököknél, rengeteg dolgozója megszívja",
+        "txtlength": 18654
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/vallalkozas/20220728/horror-dragulas-a-hazai-boltokban-piacokon-huzos-honapok-varnak-a-magyar-csaladokra-1127293",
+        "h1": "Horror drágulás a hazai boltokban, piacokon: húzós hónapok várnak a magyar családokra",
+        "txtlength": 18624
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/global/20220731/halalos-tuntetesek-elszabadult-a-kaosz-elnoki-tulhatalom-fenyegeti-az-afrikai-demokracia-mintaallamat-558719",
+        "h1": "Halálos tüntetések, elszabadult a káosz – Elnöki túlhatalom fenyegeti az afrikai demokrácia mintaállamát?",
+        "txtlength": 17925
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vilag/20220801/tekergetik-a-gazcsapokat-az-oroszok-de-van-miben-biznia-a-magyar-kormanynak/",
+        "h1": "Tekergetik a gázcsapokat az oroszok, de van miben bíznia a magyar kormánynak",
+        "txtlength": 16897
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2022/08/01/nok-tizezreinek-menstruaciojara-lehetett-hatassal-a-koronavirus-es-az-ellene-beadott-oltasok",
+        "h1": "NŐK TÍZEZREINEK MENSTRUÁCIÓJÁRA LEHETETT HATÁSSAL A KORONAVÍRUS ÉS AZ ELLENE BEADOTT OLTÁSOK",
+        "txtlength": 15727
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vallalat/20220731/nem-veszett-el-de-alaposan-atalakult-a-nagy-magyar-mercedes-beruhazas/",
+        "h1": "Nem veszett el, de alaposan átalakult a nagy magyar Mercedes-beruházás",
+        "txtlength": 15685
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/uzlet/20220801/lepett-a-kormany-nyitas-utan-azonnal-megutottek-a-molt-558887",
+        "h1": "Lépett a kormány, nyitás után azonnal megütötték a Molt ",
+        "txtlength": 15288
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/egeszseg/tourette-szindroma-tunetei/",
+        "h1": "Hunyorgás, homlokráncolás, dünnyögés: tévesen rossz szokásnak, mentális problémának vélik a tüneteket",
+        "txtlength": 12265
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/szuloseg/terhesgondozas-kotelezo-vizsgalat/",
+        "h1": "terhesgondozás kötelező vizsgálat",
+        "txtlength": 9759
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/fn/gazdasag/2022/08/01/zsiday-viktor-interju-gazdasag-rezsicsokkentes-inflacio/",
+        "h1": "Zsiday Viktor: Magyarországnak volt tíz jó éve, de nem használtuk ki arra, hogy a következő tíz év növekedését megalapozzuk",
+        "txtlength": 30794
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/velemeny/2022/08/01/rakpartvita-tevhitek-es-zsakutcak-a-duna-partjan",
+        "h1": "Rakpartvita: tévhitek és zsákutcák a Duna partján",
+        "txtlength": 20178
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kult/2022/07/31/debrecen-regeny-vagy-generacios-regeny-interju-az-isten-atnyul-a-farmeron-szerzojevel",
+        "h1": "Sokunk életében a kocsma a legfőbb szocializációs helyszín",
+        "txtlength": 17256
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2022/08/01/orosz-ukran-haboru-orban-viktor-tusvanyos-86-magyar-aldozat/",
+        "h1": "Rejtély, kikre gondolhatott Orbán Tusványoson, amikor 86 magyar haláláról beszélt",
+        "txtlength": 17173
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/eurologus/20220801_unios_veto_eltorlese_igeny_van_ra_lehetoseg_nincs__egyelore",
+        "h1": "Az uniós vétó eltörlése: igény van rá, lehetőség egyelőre nincs",
+        "txtlength": 15926
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/fn/gazdasag/2022/08/01/ezer-forintos-gazar-rezsicsokkentes-kulonleges-gazkeszlet/",
+        "h1": "Láthatáron az ezerforintos gázár – kezdjünk el aggódni?",
+        "txtlength": 15100
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kulfold/2022/08/01/orosz-ukran-haboru-159-nap-percrol-percre",
+        "h1": "Elindult a világpiacról nagyon hiányzó ukrán gabona exportja, de az orosz erők fenyegetése nem enyhül",
+        "txtlength": 13050
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/07/31/izrael-visszatartja-a-palesztinok-adobeveteleibol-a-terroristaknak-fizetett-segelyek-osszeget",
+        "h1": "Izrael visszatartja a palesztinok adóbevételeiből a terroristáknak fizetett segélyek összegét",
+        "txtlength": 11959
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/07/31/a-2025-os-ideny-vegeig-a-kozteve-adja-a-forma-1-es-futamokat",
+        "h1": "A 2025-ös idény végéig a köztévé adja a Forma-1-es futamokat",
+        "txtlength": 11803
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/vilag/20220801_erdotuz_erdo_bombazas_oroszok_ukrajna_haboru",
+        "h1": "Kigyulladt a Mikolajivhoz közeli erdő az orosz bombázás után – a háború hétfői hírei",
+        "txtlength": 10466
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/novekszik-valasok-szama-szakerto-kezdet-koronavirus-kapcsolat-nehezseg/g0767h2",
+        "h1": "Durván megugrott a válások száma: a szakértő szerint ez még csak a kezdet",
+        "txtlength": 9842
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/darazs-csipes-mentoauto-tamadas-allatok-puspokladany-halal-torka/rp1mcjf",
+        "h1": "A halál torkába küldte Hajnalkát egy darázs – Még a mentőben is támadtak",
+        "txtlength": 9345
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/kkv/20220801_zuglo_parkoloautomata_kupper_andras",
+        "h1": "Népszava: Zugló ismét a csalásért elítélt Kupper András volt cégével szerződött a parkolóautomaták üzemeltetésére",
+        "txtlength": 8554
+    },
+    {
+        "hostname": "mindmegette.hu",
         "pagelink": "https://www.mindmegette.hu/nanaimo-szelet-suti.recept",
         "h1": "NANAIMO-SZELET",
         "txtlength": 11060
