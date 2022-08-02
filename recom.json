@@ -1,5 +1,197 @@
 [
     {
+        "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/oszibarack-befott",
+        "h1": "Őszibarackbefőtt",
+        "txtlength": 19135
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/tarkonyos-toltott-tok.recept",
+        "h1": "TÁRKONYOS TÖLTÖTT TÖK",
+        "txtlength": 10584
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/gorogdinnye-salata-gazdagon.recept",
+        "h1": "GÖRÖGDINNYE-SALÁTA GAZDAGON",
+        "txtlength": 10475
+    },
+    {
+        "hostname": "hataratkelo.blog.hu",
+        "pagelink": "https://hataratkelo.blog.hu/2022/07/22/a_svajci_elet_arnyoldalai#c41507389",
+        "h1": "A svájci élet árnyoldalai",
+        "txtlength": 63575
+    },
+    {
+        "hostname": "kulturpart.hu",
+        "pagelink": "https://kulturpart.hu/2022/07/28/bajba_kerult_a_hianypotlo_fesztival",
+        "h1": "BAJBA KERÜLT A HIÁNYPÓTLÓ FESZTIVÁL",
+        "txtlength": 6752
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/kozelet/20220802/az-ukrajnai-valsag-megmutatta-mennyit-er-a-kulonutas-magyar-kulpolitika/",
+        "h1": "Az ukrajnai válság megmutatta, mennyit ér a különutas magyar külpolitika",
+        "txtlength": 29903
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/otthon/20220729/fajdalmas-lesz-a-rezsiemeles-elleni-kuzdelem-ugorhat-a-napelemek-allami-tamogatasa-1127425",
+        "h1": "Fájdalmas lesz a rezsiemelés elleni küzdelem: ugorhat a napelemek állami támogatása?",
+        "txtlength": 22299
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220729_fovarosi_onkormanyzat_karacsony_gergely_fopolgarmester_energiatakarekossag_belvaros_lipotvaros_kaposvar",
+        "h1": "A fideszes vezetésű Belváros szívesen ad takarékossági tanácsokat a fővárosnak",
+        "txtlength": 20521
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220801_hordjuk_e_a_maszkot_szlavik_emelkedo_esetszamokrol_a_mandinernek",
+        "h1": "Hordjuk-e a maszkot? – Szlávik az emelkedő esetszámokról a Mandinernek",
+        "txtlength": 18280
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/auto/20220730/ceges-auto-atirasa-maganszemelyre-igy-meg-kijatszhato-az-arstop-korlatozasa-1127492",
+        "h1": "Céges autó átírása magánszemélyre: így még kijátszható az árstop korlátozása",
+        "txtlength": 17997
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220801_budapest_idokozi_valasztasok_baloldal_kormanypartok",
+        "h1": "Harmadjára törlik fel a padlót fideszes jelöltek a baloldallal Budapesten",
+        "txtlength": 17141
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20220802/penzpumpa-nelkul-is-lehet-milliardossa-valni-ezt-egy-magyar-szepsegipari-vallalkozo-is-bizonyitja-558895",
+        "h1": "Pénzpumpa nélkül is lehet milliárdossá válni - ezt egy magyar szépségipari vállalkozó is bizonyítja!",
+        "txtlength": 16390
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/uzlet/20220802/folytatodik-az-eses-a-tozsdeken-jelentosen-no-a-feszultseg-tajvanon-559075",
+        "h1": "Folytatódik az esés a tőzsdéken, jelentősen nő a feszültség Tajvanon ",
+        "txtlength": 14801
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vilag/20220801/magasabb-benzinarak-mellett-sem-kezdenek-azonnal-sporolni-az-autosok/",
+        "h1": "Magasabb benzinárak mellett sem kezdenek azonnal spórolni az autósok",
+        "txtlength": 14584
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2022/07/29/szinteveszto-vagy-es-azt-tudod-hogy-miert",
+        "h1": "SZÍNTÉVESZTŐ VAGY? ÉS AZT TUDOD, HOGY MIÉRT?",
+        "txtlength": 14046
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.penzcentrum.hu/karrier/20220802/gyilkos-nepbetegseg-tamadja-a-magyarokat-sokan-evekig-eszre-sem-veszik-aztan-jon-az-osszeomlas-1127470",
+        "h1": "Gyilkos népbetegség támadja a magyarokat: sokan évekig észre sem veszik, aztán jön az összeomlás",
+        "txtlength": 13453
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/testem/bulimia-fiu-vekony-test-media/",
+        "h1": "bulimia fiú vékony test média",
+        "txtlength": 12174
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/utazas/vizparti-udulohelyek-magyarorszagon/",
+        "h1": "A leghangulatosabb vízpartok itthon, ha nem kérsz a balatoni tömegből: festői vidékeken bújnak meg",
+        "txtlength": 10237
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/szuloseg/gyerekneveles-jatszoter/",
+        "h1": "gyereknevelés játszótér",
+        "txtlength": 9837
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kult/2022/08/01/kapolcs-muveszetek-volgye-fesztival-marta-istvan-oszko-jakab-natalia-valtozas-mult-jelen-interju",
+        "h1": "Az egyik legrégebbi magyar fesztivál a modernizáció útjára lépett, de ez nem mindenkinek tetszik",
+        "txtlength": 30485
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/komplex/2022/08/02/vendeglatas-valsag-dolgozok-szemszoge",
+        "h1": "\n      Odáig fajult a helyzet, hogy már nincs helyettünk más a vendéglátásban\n    ",
+        "txtlength": 25204
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/gazdasag/2022/08/02/monetaris-politika-alapkamat-jegybank-mnb-kamatemeles-gyorstalpalo",
+        "h1": "Mire való a kamatemelés, és hogy (nem) működik mostanában?",
+        "txtlength": 18722
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2022/08/01/tata-oreg-to-avalon-nepszavazas-hotel/",
+        "h1": "„Ha mégis lesz építkezés, hatezer ember a testével fogja védeni a területet”",
+        "txtlength": 17740
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kulfold/2022/08/02/nemetorszag-atomeromu-uzemido-zoldek-energiakrizis-gazeromu/",
+        "h1": "Óriási fordulat jöhet Németországban: mégsem zárják be az atomerőműveket?",
+        "txtlength": 17634
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/elet/20220802_Jonas_Vera_interju",
+        "h1": "Jónás Vera: Zsákutca azt képzelni, ha állami támogatást kapunk, akkor nem szabad beszélni",
+        "txtlength": 15792
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kulfold/2022/08/02/zaporizzsja-orosz-ukran-haboru-putyin-augusztus-2-percrol-percre-elo/",
+        "h1": "Tízmillió felett az Ukrajnát elhagyók száma",
+        "txtlength": 12717
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/tudomany/20220801_mi_mesterseges_intelligencia_podcast_orok_elet_vakcina_kutatas_technologia_levay_gyorgy_bajer_molnar_orsolya",
+        "h1": "Élhetünk-e majd 200 évig? Egyáltalán: akarjunk addig élni? – podcast az MI-ről, algoritmusokról és vérben úszó nanobotokról",
+        "txtlength": 11694
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/08/01/nem-ellenzi-az-egyetemi-nyelvvizsga-kotelezettseget-a-hook",
+        "h1": "Nem ellenzi az egyetemi nyelvvizsga-kötelezettség eltörlését a HÖOK",
+        "txtlength": 11367
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/08/01/az-europai-kozponti-bank-szerint-korlatozott-hatassal-van-az-olajar-emelkedes-az-euroovezet-gazdasagaira",
+        "h1": "Az Európai Központi Bank szerint korlátozott hatással van az olajár-emelkedés az euróövezet gazdaságaira",
+        "txtlength": 11260
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/vilag/20220802_koszovo_szerbia_kfor_eu",
+        "h1": "A torlaszok elkerültek Koszovó határáról, a válság azonban marad",
+        "txtlength": 11096
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/uzemanyag-arsapka-ceges-autok-dragulas/csyxdph",
+        "h1": "Brutális drágulást és további problémákat is okozhat, hogy már a céges autókba is piaci áron kell tankolni",
+        "txtlength": 8216
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/fulop-peter-strandroplabda-lebenult-jarni-tanul/l7j6hxb",
+        "h1": "Az akaraterő csodás diadala: az orvosai sem hitték, hogy valaha lábra áll, most mégis újra járni tanul a szörnyű balesetben lebénult Péter",
+        "txtlength": 8074
+    },
+    {
         "hostname": "mindmegette.hu",
         "pagelink": "https://www.mindmegette.hu/pestos-cukkinispagetti-sult-csirkemellel.recept",
         "h1": "PESTÓS CUKKINISPAGETTI SÜLT CSIRKEMELLEL",
