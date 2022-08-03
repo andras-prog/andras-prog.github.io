@@ -1,6 +1,192 @@
 [
     {
         "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/lecso-telire-tartositoszer-mentes",
+        "h1": "Lecsó télire - tartósítószer mentes",
+        "txtlength": 19527
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/hazi-lecso-befott-es-paradicsomszosz.recept",
+        "h1": "HÁZI LECSÓ-BEFŐTT ÉS PARADICSOMSZÓSZ",
+        "txtlength": 11668
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/glutenmentes-vargabeles.recept",
+        "h1": "GLUTÉNMENTES VARGABÉLES",
+        "txtlength": 10684
+    },
+    {
+        "hostname": "kiszamolo.hu",
+        "pagelink": "https://kiszamolo.hu/mit-csinalnak-a-penzemmel/",
+        "h1": "Mit csinálnak a pénzemmel?",
+        "txtlength": 39412
+    },
+    {
+        "hostname": "kulturpart.hu",
+        "pagelink": "https://kulturpart.hu/2022/07/25/baksa-soos_janosra_emlekeznek_a_katlanban",
+        "h1": "BAKSA-SOÓS JÁNOSRA EMLÉKEZNEK A KATLANBAN",
+        "txtlength": 6204
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/otthon/20220801/megindult-a-roham-a-huto-futo-klimakert-tenyleg-gazdasagosabbak-a-gaznal-a-rezsiemeles-utan-1127455",
+        "h1": "Megindult a roham a hűtő-fűtő klímákért: tényleg gazdaságosabbak a gáznál a rezsiemelés után?",
+        "txtlength": 23894
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/biztositas/20220730/magyar-otthonok-ezreit-vagja-taccsra-az-iteletido-hiaba-a-biztositas-eluszhat-a-csaladi-vagyon-1127463",
+        "h1": "Magyar otthonok ezreit vágja taccsra az ítéletidő: hiába a biztosítás, elúszhat a családi vagyon",
+        "txtlength": 23798
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220803_tajvan_a_tajvaniake_vagy_kinae",
+        "h1": "Tajvan a tajvaniaké vagy Kínáé?",
+        "txtlength": 21392
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/kozelet/20220803/a-bolti-arakon-is-meg-fogjuk-erezni-hogy-a-cegautok-kikerultek-a-benzinarstop-kedvezmenyezettjei-kozul/",
+        "h1": "A bolti árakon is meg fogjuk érezni, hogy a cégautók kikerültek a benzinárstop kedvezményezettjei közül",
+        "txtlength": 21128
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220803_europa_szen_energia",
+        "h1": "Előre a múltba: szénre váltana az energiaéhes Európa",
+        "txtlength": 20644
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220803_fodor_richard_egyesult_allamok_gyogyszervalsag",
+        "h1": "Az USA gyógyszerválsága",
+        "txtlength": 20303
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.penzcentrum.hu/biztositas/20220803/eletveszely-a-magyar-utakon-ezek-a-leghalalosabb-autoutak-hazankban-itt-a-lista-1127568",
+        "h1": "Életveszély a magyar utakon: ezek a leghalálosabb autóutak hazánkban - itt a lista!",
+        "txtlength": 18669
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://telex.hu/kulfold/2022/07/28/oroszorszag-ukrajna-haboru-putyin-buza-gabona-export-kereskedelem-korlatozas-szankcio-elelmiszerar-inflacio",
+        "h1": "Valami lesz majd az ukrán búzával, vagy nem",
+        "txtlength": 17930
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/uzlet/20220803/enyhul-a-nyomas-de-tovabbra-sem-talaljak-az-iranyt-a-tozsdek-559313",
+        "h1": "Enyhül a nyomás, de továbbra sem találják az irányt a tőzsdék ",
+        "txtlength": 15842
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/global/20220802/hat-csapas-amivel-kina-csattanos-valaszt-adhat-pelosi-tajvani-latogatasara-559179",
+        "h1": "Hat csapás, amivel Kína csattanós választ adhat Pelosi tajvani látogatására",
+        "txtlength": 14724
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/kapcsolat/phulan-devi-banditakiralyno-elete/",
+        "h1": "11 évesen férjhez adták, és megerőszakolták, banditának állt - Phúlan Dévi, az indiai banditakirálynő különös története",
+        "txtlength": 10879
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2022/08/02/letezik-kevert-faju-ember",
+        "h1": "LÉTEZIK KEVERT FAJÚ EMBER?",
+        "txtlength": 9920
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/lajfhekk/zoldseg-gyumolcs-tarolas/",
+        "h1": "Zöldség gyümölcs tárolás",
+        "txtlength": 9333
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2022/08/03/gender-nemvaltas-transznemuek-nemetorszag-kovats-eszter-interju/",
+        "h1": "Kováts Eszter: Arról szól a vita, mi a férfi, mi a nő. Ezeknek a fogalmaknak az átalakítása mindenkit érint",
+        "txtlength": 26786
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/gazdasag/20220802_mutragya_haboru_elelmezes_mezogazdasag_ehezes_gabona",
+        "h1": "A műtrágyával pókerezik Putyin, de egyre inkább orosz rulett lesz belőle",
+        "txtlength": 24882
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kulfold/2022/08/02/orban-tusvanyos-george-friedman-2030-prognozis-geopolitika-usa-valsag-ciklus",
+        "h1": "Elolvastuk Orbán amerikai válságforgatókönyvét",
+        "txtlength": 22677
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/tudomany/2022/08/03/aszaly-vizgazdalkodas-valaszok-rossz-es-jo-gyakorlatok-talajnedvesseg-szarazodas-wwf-waltner-dedak-barta-karoly",
+        "h1": "Mi magunk szárítottuk ki az országot, ezért olyan pusztító most az aszály",
+        "txtlength": 20120
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kultura/2022/08/02/az-utolso-haz-balra-50-evfordulo-wes-craven-horror/",
+        "h1": "Ötven éve szintet lépett a kegyetlenség a moziban",
+        "txtlength": 18402
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kulfold/2022/08/02/franciaorszag-nyakkendo-botrany-parlament-oltozkodes",
+        "h1": "Nem vagyok ruharendőrség: az öltözködés miatt állt a bál a francia parlamentben",
+        "txtlength": 15265
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/fn/gazdasag/2022/08/03/rezsicsokkentes-lakossagi-piaci-ar-gazar-aramar-europai-osszehasonlitas/",
+        "h1": "Kifejezetten drágának számít Európában a magyar „lakossági piaci ár”",
+        "txtlength": 14986
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/kkv/20220803_modulo_busz_bkv_csere",
+        "h1": "Akkora kudarc a Várbeli elektromos buszok használata, hogy a BKV dízelre cserélné őket",
+        "txtlength": 13583
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/gazdasag/20220803_hatosagi_ar_arsapka_uzemanyagok_benzin_dizel_Mol",
+        "h1": "Egyre reménytelenebb, hogy októberig az üzemanyagokon maradhat az ársapka",
+        "txtlength": 13140
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/08/03/babusgatni-a-bennunk-elo-burokratat",
+        "h1": "Babusgatni a bennünk élő bürokratát",
+        "txtlength": 12206
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/08/02/mar-tobbet-er-szinesfemhulladekkent-mint-fizetoeszkozkent-de-az-mnb-nem-vonja-be-az-5-forintost",
+        "h1": "Már többet ér színesfémhulladékként, mint fizetőeszközként, de az MNB nem vonja be az 5 forintost",
+        "txtlength": 11095
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/ruttner-gyorgy-ugyved-hazberles-csalas-kilencgyermekes-csalad-cegledbercel/4199vyp",
+        "h1": "Kilenc gyerekemmel akar utcára tenni a sztárok ügyvédje! – állítja a Ruttner-palotát havi másfél millióért bérlő család – Már az áramot is kikapcsolták náluk",
+        "txtlength": 8066
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/ovoda-pedagogus-letszamhiany-neveles-kozmunkasok/2pm2cs6?sl_ps=d_3",
+        "h1": "Riasztó óvodai helyzet: több helyen már képesítés nélkül közmunkások felügyelnek a gyerekekre",
+        "txtlength": 7941
+    },
+    {
+        "hostname": "nosalty.hu",
         "pagelink": "https://www.nosalty.hu/recept/oszibarack-befott",
         "h1": "Őszibarackbefőtt",
         "txtlength": 19135
