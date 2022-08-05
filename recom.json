@@ -1,6 +1,192 @@
 [
     {
         "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/citrusos-meggyleves.recept",
+        "h1": "CITRUSOS MEGGYLEVES",
+        "txtlength": 10657
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/legjobb-bruschetta.recept",
+        "h1": "BRUSCHETTA",
+        "txtlength": 10549
+    },
+    {
+        "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/padlizsankrem-egyszeruen",
+        "h1": "Padlizsánkrém egyszerűen",
+        "txtlength": 9212
+    },
+    {
+        "hostname": "hataratkelo.blog.hu",
+        "pagelink": "https://hataratkelo.blog.hu/2022/07/22/a_svajci_elet_arnyoldalai#c41510563",
+        "h1": "A svájci élet árnyoldalai",
+        "txtlength": 66314
+    },
+    {
+        "hostname": "kulturpart.hu",
+        "pagelink": "https://kulturpart.hu/2022/07/28/feltarulnak_zala_titkai",
+        "h1": "FELTÁRULNAK ZALA TITKAI",
+        "txtlength": 5759
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/gazdasag/20220803/az-1970-es-evek-adossagfolyamatai-a-fejlett-orszagokban-1127346",
+        "h1": "Az 1970-es évek adósságfolyamatai a fejlett országokban",
+        "txtlength": 33730
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://sport.mandiner.hu/cikk/20220805_farago_tamas_egy_jelenseg_akartam_lenni_es_azza_is_valtam",
+        "h1": "Faragó Tamás: „Egy jelenség akartam lenni, és azzá is váltam”",
+        "txtlength": 25088
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220805_kina_hadiflotta",
+        "h1": "A nagy népi haditengerészet – így építi Kína a hadiflottáját",
+        "txtlength": 23332
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220804_orban_viktor_cpac_beszed_egyesult_allamok_dallas",
+        "h1": "Orbán Viktor a CPAC-en: A globalisták mind elmehetnek a pokolba, én Texasba jöttem!",
+        "txtlength": 22778
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/global/20220805/sosem-latott-beszamolo-jelent-meg-az-ukrajnai-haboru-pokoli-valosagarol-559543",
+        "h1": "Sosem látott beszámoló jelent meg az ukrajnai háború pokoli valóságáról",
+        "txtlength": 20156
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vilag/20220804/a-kaukazusi-harcok-mutatjak-mennyire-semmibe-veszik-mar-putyint/",
+        "h1": "A kaukázusi harcok mutatják, mennyire semmibe veszik már Putyint",
+        "txtlength": 18497
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/hitel/20220803/hatat-forditottak-a-magyar-csaladok-a-bankoknak-tomegek-mondtak-le-az-ilyen-hitelekrol-1127574",
+        "h1": "Hátat fordítottak a magyar családok a bankoknak: tömegek mondtak le az ilyen hitelekről",
+        "txtlength": 18478
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/global/20220805/brutalis-a-feszultseg-kina-raketakkal-lovoldozik-penteki-hireink-a-tajvani-krizisrol-559575",
+        "h1": "Brutális a feszültség, Kína rakétákkal lövöldözik - Pénteki híreink a tajvani krízisről ",
+        "txtlength": 17882
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/utazas/szlovenia-latnivaloi/",
+        "h1": "Elakadt a szavunk Szlovénia tündöklő tóvidékétől: az ezerarcú országban az alpesi vidék is lenyűgöző",
+        "txtlength": 17441
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/uzlet/20220805/mukodik-az-olcso-orosz-olaj-itt-a-felbillios-eredmeny-a-molnal-559697",
+        "h1": "Működik az olcsó orosz olaj - Itt a félbilliós eredmény a Molnál",
+        "txtlength": 17016
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2022/08/04/egyre-tobben-elnek-alberletekben-de-ezt-a-magyar-fiatalok-nem-a-szabdsagot-keresve-es-jokedvukben-teszik",
+        "h1": "EGYRE TÖBBEN ÉLNEK ALBÉRLETBEN, DE A FIATALOK NAGY RÉSZE NEM JÓKEDVÉBEN DÖNT ÍGY",
+        "txtlength": 16702
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vallalat/20220805/hogyan-lehet-500-milliardos-profitja-a-molnak-ha-480-ert-adta-az-uzemanyagot/",
+        "h1": "Hogyan lehet 500 milliárdos profitja a Molnak, ha 480-ért adta az üzemanyagot?",
+        "txtlength": 15090
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/lajfhekk/gyerekules-teszt/",
+        "h1": "Gyerekülés teszt",
+        "txtlength": 9294
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2022/08/05/orban-viktor-tusvanyos-jean-raspail-szentek-tabora/",
+        "h1": "Miért kellemetlen olvasmány a Szentek tábora, amiből Orbán a fajkeveredős mondását kölcsönözte?",
+        "txtlength": 29166
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/belfold/2022/08/05/rezsicsokkentes-csokkentese-tudnivalok-gyorstalpalo",
+        "h1": "A legszegényebbek szívhatnak először a rezsicsökkentés korlátozásával",
+        "txtlength": 17460
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kultura/2022/08/04/iparmuveszeti-muzeum-felujitas-ulloi-ut-lechner-odon-esterhazy-gyujtemeny-ismeretlen-budapest/",
+        "h1": "Öt éve bezárták, de még el sem kezdték az Iparművészeti Múzeum felújítását",
+        "txtlength": 14105
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/tudomany/2022/08/05/alfold-aszaly-szarazsagturo-noveny-talaj-talajviz/",
+        "h1": "Az átlagos csapadék felével is túlélhetne az Alföld",
+        "txtlength": 14039
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/belfold/2022/08/05/erdotuz-magyarorszag-erdo-viz-szarazsag-fa",
+        "h1": "Magyarország egyre inkább az erdőtüzek országává válik",
+        "txtlength": 13587
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/08/05/szegeny-orbant-gyulolik-azok-akiket-kinevezett-ellensegnek",
+        "h1": "Szegény Orbánt gyűlölik azok, akiket kinevezett ellenségnek",
+        "txtlength": 13411
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kulfold/2022/08/05/zaporizzsja-atomeromu-orosz-iranyitas-erod-haboru",
+        "h1": "Élő pajzsként használják az oroszok Európa legnagyobb atomerőművét",
+        "txtlength": 12568
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/08/04/amit-semmikepp-ne-hagyj-otthon-ha-nyaralni-indulsz",
+        "h1": "Amit semmiképp ne hagyj otthon, ha nyaralni indulsz",
+        "txtlength": 12554
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/vilag/20220805_mikolajiv_ukrajna_haboru_robbanas",
+        "h1": "Erőteljes robbanások Mikolajivban, a lakosságot arra kérik, ne menjenek ablakok közelébe – a háború pénteki hírei",
+        "txtlength": 11683
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20220805_Arton_Capitalrablas_Ot_ev_utan_sincs_gyanusitott_kozben_a_ceg_profitja_elapadt",
+        "h1": "Arton Capital-rablás: Öt év után sincs gyanúsított, közben a cég profitja elapadt",
+        "txtlength": 11029
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20220804_Orban_Viktor_CPAC_Dallas_gyorselemzes",
+        "h1": "Orbán a CPAC-en kiröhögte az őt lenácizókat, lekommunistázott mindenkit és oktatta az amerikaiakat",
+        "txtlength": 10381
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/sz-endre-terrorizmus-topbunozo-hunnia-per-elfogtak-nograd-megye/xg3gl9h",
+        "h1": "Egy nógrádi birkalegelőn dolgozott napszámosként a terrorcselekmények miatt körözött toplistás bűnöző: a TEK csapott le rá",
+        "txtlength": 7909
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/voros-csillag-itelet-eltiltas-munkasorok-hagyomanyorzes/nztfgly?sl_ps=d_5",
+        "h1": "Eltiltották a vörös csillagtól a hagyományőrző munkásőröket: „Hiába a büntetés, sosem hátrálunk meg”",
+        "txtlength": 7547
+    },
+    {
+        "hostname": "mindmegette.hu",
         "pagelink": "https://www.mindmegette.hu/marcipanos-panna-cotta-malnaszosszal.recept",
         "h1": "MARCIPÁNOS PANNA COTTA",
         "txtlength": 11686
