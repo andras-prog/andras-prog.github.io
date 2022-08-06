@@ -1,5 +1,185 @@
 [
     {
+        "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/sargabarackos-pite",
+        "h1": "Sárgabarackos pite",
+        "txtlength": 11803
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/mangos-nektarinleves-kokusztejjel-fozes-nelkul.recept",
+        "h1": "NEKTARINLEVES FŐZÉS NÉLKÜL",
+        "txtlength": 10804
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/malnas-ricottas-pite-cukormentesen.recept",
+        "h1": "MÁLNÁS-RICOTTÁS PITE (CUKORMENTES RECEPT)",
+        "txtlength": 10655
+    },
+    {
+        "hostname": "hataratkelo.blog.hu",
+        "pagelink": "https://hataratkelo.blog.hu/2022/07/22/a_svajci_elet_arnyoldalai#c41511859",
+        "h1": "A svájci élet árnyoldalai",
+        "txtlength": 66167
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220727_kulfold_oroszorszag_haboru_szankcio",
+        "h1": "Mindenkinek fájni fognak a szankciók, de nem ugyanúgy",
+        "txtlength": 25974
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/kozelet/20220806/mar-megy-a-trukkozes-a-magyar-benzinkutakon-tul-csabito-a-hatalmas-arkulonbseg/",
+        "h1": "Már megy a trükközés a magyar benzinkutakon, túl csábító a hatalmas árkülönbség",
+        "txtlength": 21457
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220803_vannak_akik_utalnak_nogradi_gyorgy_a_mandinernek",
+        "h1": "„Vannak, akik utálnak” – Nógrádi György a Mandinernek",
+        "txtlength": 19483
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220805_orban_dallasban_a_baloldal_nem_tudja_hogy_marginalis_vagy_felelmetes",
+        "h1": "Orbán Dallasban: a baloldal nem tudja, hogy marginális vagy félelmetes",
+        "txtlength": 19328
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/otthon/20220803/rezsiemeles-erore-kaphat-a-magyar-otthonok-nema-gyilkosa-nyaron-is-kuszobon-lehet-a-tragedia-1127583",
+        "h1": "Rezsiemelés: erőre kaphat a magyar otthonok néma gyilkosa, nyáron is küszöbön lehet a tragédia",
+        "txtlength": 18335
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/hitel/20220804/raleptek-a-fekre-a-magyarok-a-hiteleknel-brutalisan-felszokott-a-kamat-es-ez-csak-rosszabb-lesz-1127597",
+        "h1": "Ráléptek a fékre a magyarok a hiteleknél: brutálisan felszökött a kamat, és ez csak rosszabb lesz",
+        "txtlength": 17582
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/befektetes/20220805/ritka-alkalom-igy-kaszalhatsz-most-evi-10-szazalekot-magyar-allampapirokkal-559857",
+        "h1": "Ritka alkalom: így kaszálhatsz most évi 10 százalékot magyar állampapírokkal",
+        "txtlength": 17511
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20220805/varatlanul-uj-rezsirendeletek-jelentek-meg-pentek-este-559899",
+        "h1": "Váratlanul új rezsirendeletek jelentek meg péntek este",
+        "txtlength": 16984
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20220806/mar-400-forint-a-fagyi-a-sutemeny-1000-felett-lesz-hamarosan-559867",
+        "h1": "Már 400 forint a fagyi, a sütemény 1000 felett lesz hamarosan",
+        "txtlength": 15840
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/adat/20220805/nincs-megallas-meresunk-szerint-most-mar-34-szazalek-feletti-az-elelmiszer-inflacio/",
+        "h1": "Nincs megállás, mérésünk szerint most már 34 százalék feletti az élelmiszer-infláció",
+        "txtlength": 14827
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2022/08/05/kali-medence-a-magyar-toszkana-osztol-tavaszig-neutronbomba-csapas-nyaron-siofok",
+        "h1": "KÁLI-MEDENCE, „A MAGYAR TOSZKÁNA”: ŐSZTŐL TAVASZIG NEUTRONBOMBA-CSAPÁS, NYÁRON SIÓFOK",
+        "txtlength": 14207
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/otthon/napelem-teljesitmeny-tarolas/",
+        "h1": "Mennyi energiát termel egy napelem, és tárolható-e a mennyiség? A legfontosabb tudnivalók",
+        "txtlength": 11643
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/lajfhekk/sajat-keszitesu-ajandek-karacsony/",
+        "h1": "saját készítésű ajándék karácsony",
+        "txtlength": 10387
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/kkv/20220806_BKV_energiakoltseg_fuvarozok_kozlekedes_uzemanyag",
+        "h1": "Egyre nagyobb a nyomás a kormányon, a BKV energiaköltségei is megduplázódtak",
+        "txtlength": 20227
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kultura/2022/08/06/fortepan-televizio/",
+        "h1": "A televízió, ami elvarázsolt és tanított, de elrabolta az időnket",
+        "txtlength": 20136
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2022/08/06/brazil-dunabogdany-strand-orsos-gyorgy-riport-portre/",
+        "h1": "Brazil felügyeli a Duna legszerethetőbb strandját",
+        "txtlength": 18274
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/kkv/20220806_betegmonitorozas_egeszsegugy_posztoperativ_halalozas_GE_Healthcare_Portrait_Mobile",
+        "h1": "A műtét csak a jéghegy csúcsa, a gond, hogy utána sokszor alig tudunk a betegekről valamit",
+        "txtlength": 15904
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/eletmod/2022/08/05/gazlang-effektus-ervenytelenites-kontroll-jelek-megoldasok",
+        "h1": "Megfosztanak a valóságodtól, és azt mondják, hogy csak képzeled az egészet",
+        "txtlength": 14602
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/fn/gazdasag/2022/08/06/tippek-hogyan-csokkenthetjuk-bankszamla-koltseg/",
+        "h1": "Tippek, hogyan csökkenthetjük bankszámlánk költségeit, és hogyan kereshetünk pénzt vásárlással",
+        "txtlength": 14331
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/eszkombajn/2022/08/06/hmong-sunds-valodi-halalesetek-a-remalom-az-elm-utcaban-otlete-mogott",
+        "h1": "A Rémálom az Elm utcában sztoriját egy valódi haláleset-sorozat ihlette",
+        "txtlength": 13783
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kulfold/2022/08/05/nevadai-to-holttestek-las-vegas-maffia",
+        "h1": "A vegasi maffia évtizedes titkairól ránthatja le a leplet az apadó tó",
+        "txtlength": 13492
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/gazdasag/20220805_Van_valami_kozos_a_gazpalackban_es_a_luxusoraban_mindketto_jo_befektetes",
+        "h1": "Van valami közös a gázpalackban és a luxusórában: mindkettő jó befektetés a mostani válságban",
+        "txtlength": 13468
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/08/06/hetvegi-olvasnivalo-facebookrol-es-frontexrol-fasisztakrol-es-fifekrol",
+        "h1": "Hétvégi olvasnivaló Facebookról és Frontexről, fasisztákról és fifékről",
+        "txtlength": 12005
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/08/05/augusztus-15-tol-ujra-jar-a-3-as-metro-a-kalvin-ter-es-kobanya-kispest-kozott",
+        "h1": "Augusztus 15-től újra jár a 3-as metró a Kálvin tér és Kőbánya-Kispest között",
+        "txtlength": 10972
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/krimi/gyerekgyilkossag-szolnoki-palyaudvar-horthy-miklos-csendorseg/1v1jlhp",
+        "h1": "Egy vagonban találták meg a fejbe lőtt kislány testét a szolnoki pályaudvaron",
+        "txtlength": 8933
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/sztarvilag/filmklikk/lagardere-lovag-klasszikus-filmek-tvr-het-ajanlja/vq7vt8s",
+        "h1": "Lagardere lovag kalandjai, avagy A púpos, a kard és köpeny-filmek klasszikusa",
+        "txtlength": 8846
+    },
+    {
         "hostname": "mindmegette.hu",
         "pagelink": "https://www.mindmegette.hu/citrusos-meggyleves.recept",
         "h1": "CITRUSOS MEGGYLEVES",
