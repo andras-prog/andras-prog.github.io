@@ -1,5 +1,191 @@
 [
     {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/afonyas-mozzarellas-dinnyesalata.recept",
+        "h1": "ÁFONYÁS-MOZZARELLÁS DINNYESALÁTA",
+        "txtlength": 10483
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/fetas-gorogdinnye-salata.recept",
+        "h1": "FETÁS GÖRÖGDINNYE-SALÁTA",
+        "txtlength": 10470
+    },
+    {
+        "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/hagyomanyos-krumplis-langos",
+        "h1": "Hagyományos krumplis lángos",
+        "txtlength": 9765
+    },
+    {
+        "hostname": "kiszamolo.hu",
+        "pagelink": "https://kiszamolo.hu/rezsikerdes-meglevo-ingatlan-tarsashazza-alakitasa/",
+        "h1": "Rezsikérdés: meglévő ingatlan társasházzá alakítása",
+        "txtlength": 38391
+    },
+    {
+        "hostname": "kulturpart.hu",
+        "pagelink": "https://kulturpart.blog.hu/2022/08/05/kulonleges_koncertre_keszul_a_negy_fiatal_magyar_muzsikus",
+        "h1": "KÜLÖNLEGES KONCERTRE KÉSZÜL A NÉGY FIATAL MAGYAR MUZSIKUS",
+        "txtlength": 4467
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/kozelet/20220806/az-utolso-csatlos-atka/",
+        "h1": "Az utolsó csatlós átka",
+        "txtlength": 21893
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/oktatas/20220805/sok-csaladnak-jarhat-havi-40-ezres-extra-tamogatas-mutatjuk-hol-tudod-igenyelni-1127590",
+        "h1": "Sok családnak járhat havi 40 ezres extra támogatás: mutatjuk, hol tudod igényelni",
+        "txtlength": 20141
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220807_hunok_nyelveszet_magyar_ostortenet_pomozi_peter",
+        "h1": "Mit lehet most tudni a hunok nyelvéről? – nyelvész a Mandinernek",
+        "txtlength": 19368
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://makronom.mandiner.hu/cikk/20220707_gaz_gazimport_tarolok_energia_futes_rezsi_inflacio_gazkorkep_lng_foldgaz_szallitas_orosz_ukran_makronom_intezet",
+        "h1": "Hogy áll most az európai gázimport? Hogy állnak a tárolók töltöttségei? – Európai gázkörkép",
+        "txtlength": 19229
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220804_homofob_gyermekvedelem_nmhh_media_torveny",
+        "h1": "Egyelőre a füstje nagyobb a „homofóbtörvénynek”",
+        "txtlength": 18335
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/tech/20220807/2035-tol-ugyan-villanyautoke-lenne-a-foszerep-europaban-de-odaig-eljutni-nagyon-nehez-lesz/",
+        "h1": "2035-től ugyan villanyautóké lenne a főszerep Európában, de odáig eljutni nagyon nehéz lesz",
+        "txtlength": 17354
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/hitel/20220805/megtort-a-lendulet-sorra-mondanak-le-az-ingyenmilliokrol-a-magyar-csaladok-1127603",
+        "h1": "Megtört a lendület: sorra mondanak le az ingyenmilliókról a magyar családok",
+        "txtlength": 16978
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/szuloseg/generacio-trunk-tamas--marka/",
+        "h1": "generació Trunk Tamás márka",
+        "txtlength": 16781
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.penzcentrum.hu/megtakaritas/20220807/tomegek-allnak-az-anyagi-osszeomlas-szelen-ezek-a-magyarok-vannak-most-a-legnagyobb-veszelyben-1127686",
+        "h1": "Tömegek állnak az anyagi összeomlás szélén: ezek a magyarok vannak most a legnagyobb veszélyben",
+        "txtlength": 16537
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/global/20220805/zugnak-a-raketak-zaporoznak-a-szankciok-de-van-valami-amihez-meg-kina-sem-mer-hozzanyulni-559793",
+        "h1": "Zúgnak a rakéták, záporoznak a szankciók, de van valami, amihez még Kína sem mer hozzányúlni",
+        "txtlength": 16505
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2022/08/07/ha-megnezed-ezt-a-sorozatot-egy-eletre-megvaltozik-amit-a-pszichedelikus-szerekrol-gondoltal",
+        "h1": "HA MEGNÉZED EZT A SOROZATOT, EGY ÉLETRE MEGVÁLTOZIK, AMIT A PSZICHEDELIKUS SZEREKRŐL GONDOLTÁL",
+        "txtlength": 15931
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/bank/20220807/hatalmas-fordulat-var-a-bankokra-az-uj-paradigmaban-mar-minden-ohajunkat-ismerni-fogjak-559771",
+        "h1": "Hatalmas fordulat vár a bankokra: az új paradigmában már minden óhajunkat ismerni fogják",
+        "txtlength": 15474
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/egeszseg/hipertermia-tunetei/",
+        "h1": "Erős szívverés, felületes légzés, vérnyomás-ingadozás jelezheti, ha közeleg a baj: sokan veszélyeztetettek",
+        "txtlength": 10052
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://rangado.24.hu/magyar_foci/2022/08/07/nemeth-krisztian-mtk-interju/",
+        "h1": "Németh Krisztián: A potenciál bennem volt, hogy egy komolyabb karrier is összejöjjön",
+        "txtlength": 26329
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/tudomany/20220806_interju_buzsaki_gyorgy_agykutatoval",
+        "h1": "Miért van agyunk? Döntünk-e, mielőtt értenénk, miről kell? – interjú Buzsáki György agykutatóval",
+        "txtlength": 23362
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kultura/2022/08/07/anomalia-herve-le-tellier-matine/",
+        "h1": "Mi történik, ha 240 embert megduplázunk?",
+        "txtlength": 20224
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kulfold/2022/08/06/karpataljat-es-magyarorszagot-is-belekeverne-a-pravda-a-koszovoi-konfliktusba/",
+        "h1": "Kárpátalját és Magyarországot is belekeverné a Pravda a koszovói konfliktusba",
+        "txtlength": 17843
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/belfold/2022/08/07/asotthalom-idokozi-valasztas-toroczkai-laszlo-mi-hazank-mozgalom",
+        "h1": "Akinek egy kisvárosban ki kell plakátolnia magát, az azért már elég ciki",
+        "txtlength": 15973
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/gazdasag/20220807_Es_akkor_mindannyiunknak_utott_a_villanyora",
+        "h1": "És akkor mindannyiunknak ütött a villanyóra",
+        "txtlength": 15664
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/gasztro/2022/08/07/etteremajanlo-pandzsab-tandoori-indiai-vendeglo",
+        "h1": "Étteremajánló: a kedvenc indiai helyünk nem trendi, csak tökéletes",
+        "txtlength": 13500
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/elet/20220807_Kiirhatjae_egy_ceg_a_honlapjara_hogy_buszken_homofob",
+        "h1": "Büntetlenül kiírhatja-e egy cég a honlapjára, hogy büszkén homofób?",
+        "txtlength": 12077
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/gazdasag/2022/08/06/kutyaszaporitas-magyarorszag-utlevelek-allatorvosi-kamara-nyereseg",
+        "h1": "Nem keres rosszul az állatorvosi kamara cége a kisállatútleveleken",
+        "txtlength": 11041
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/08/07/magyarorszagon-emelkedtek-a-legmeredekebben-a-lakasarak-az-egesz-eu-n-belul",
+        "h1": "Magyarországon emelkedtek a legmeredekebben a lakásárak az egész EU-n belül",
+        "txtlength": 9692
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/szekeres-interju-mszp-alelnok-miniszter-szocialista-tihan-unokak/bwq4zn9?sl_ps=d_2",
+        "h1": "A volt honvédelmi miniszter vallomása: csak magát okolhatja, amiért felkúsztak rá a kilók - ennyit hízott Szekeres Imre",
+        "txtlength": 9506
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/08/06/az-agrarminiszterium-szerint-fenntarthato-modon-zajlik-a-tuzifa-kitermelese",
+        "h1": "Az Agrárminisztérium szerint fenntartható módon zajlik a tűzifa kitermelése",
+        "txtlength": 9478
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/lukoil-tankolas-mennyisegi-korlatozas-benzin-arsapka/k2570x3",
+        "h1": "Komoly korlátozást vezetnek be a Lukoil kútjain",
+        "txtlength": 6027
+    },
+    {
         "hostname": "nosalty.hu",
         "pagelink": "https://www.nosalty.hu/recept/sargabarackos-pite",
         "h1": "Sárgabarackos pite",
