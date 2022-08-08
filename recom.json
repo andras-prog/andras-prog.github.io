@@ -1,6 +1,174 @@
 [
     {
         "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/glutenmentes-pizza-es-langos.recept",
+        "h1": "GLUTÉNMENTES PIZZA ÉS LÁNGOS",
+        "txtlength": 11404
+    },
+    {
+        "hostname": "kulturpart.hu",
+        "pagelink": "https://kulturpart.hu/2022/08/05/kulonleges_koncertre_keszul_a_negy_fiatal_magyar_muzsikus",
+        "h1": "KÜLÖNLEGES KONCERTRE KÉSZÜL A NÉGY FIATAL MAGYAR MUZSIKUS",
+        "txtlength": 4467
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220803_kulfold_jovo",
+        "h1": "A jövő elkezdődött, és nagyon sötét",
+        "txtlength": 22107
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220808_amerikai_haditengereszet",
+        "h1": "A tengerek ura – milyen ma a US Navy ereje?",
+        "txtlength": 20768
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/penz/20220808/mire-lesz-kepes-az-eurot-vedo-uj-fegyver-a-kozelgo-valsagban/",
+        "h1": "Mire lesz képes az eurót védő új fegyver a közelgő válságban?",
+        "txtlength": 18821
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/kozelet/20220807/a-2008-as-valsagot-kivalto-ertekvesztes-tobbszoroset-hozhatja-a-mostani-atrendezodes-az-energiapiacon/",
+        "h1": "A 2008-as válságot kiváltó értékvesztés többszörösét hozhatja a mostani átrendeződés az energiapiacon, de ez elkerülhető",
+        "txtlength": 18675
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://makronom.mandiner.hu/cikk/20220808_export_aszaly_ehezes_makronom_elelmiszervalsag",
+        "h1": "Nem enyhít az éhínségen a gabonamegállapodás",
+        "txtlength": 18238
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/karrier/20220804/keves-dolgozo-tud-rola-ezt-mindenkepp-meg-kell-kapnod-a-munkahelyeden-a-kanikulaban-1127149",
+        "h1": "Kevés dolgozó tud róla: ezt mindenképp meg kell kapnod a munkahelyeden a kánikulában",
+        "txtlength": 16069
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/otthon/20220808/nem-eleg-a-rezsiemeles-a-vezetekes-gazt-is-higitjak-kezd-tisztulni-a-kep-minden-egy-iranyba-mutat-1127595",
+        "h1": "Nem elég a rezsiemelés, a vezetékes gázt is hígítják? Kezd tisztulni a kép, minden egy irányba mutat",
+        "txtlength": 16041
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/global/20220808/kifakadt-putyin-katonai-szakertoje-brutalisan-oszinte-velemenyt-mondott-az-orosz-hadero-allapotarol-560115",
+        "h1": "Kifakadt Putyin katonai szakértője: brutálisan őszinte véleményt mondott az orosz haderő állapotáról",
+        "txtlength": 15155
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20220808/iden-nehezebb-terep-a-belfoldi-turizmus-vege-a-koronavirus-utani-robbanasnak-559873",
+        "h1": "Idén nehezebb terep a belföldi turizmus: vége a koronavírus utáni robbanásnak",
+        "txtlength": 14607
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20220808/most-szabadul-el-igazan-az-inflacio-magyarorszagon-559807",
+        "h1": "Most szabadul el igazán az infláció Magyarországon",
+        "txtlength": 14258
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/egeszseg/stressz-hatas-vercukor/",
+        "h1": "Drasztikusan emeli a cukorbetegség esélyét, pedig sokan apróságnak hiszik: nem csak az étkezés okozhatja",
+        "txtlength": 11260
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2022/08/03/22-milliard-forint-kutatasi-forrast-zarolt-a-kormany",
+        "h1": "22 MILLIÁRD FORINT KUTATÁSI FORRÁST ZÁROLT A KORMÁNY",
+        "txtlength": 9365
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/lajfhekk/szobanoveny-nyaralas/",
+        "h1": "Szobanövény nyaralás",
+        "txtlength": 8556
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/fn/gazdasag/2022/08/08/viktor-zsiday-interview/",
+        "h1": "Viktor Zsiday : Hungary had a good decade, but was unable to lay the foundation for another decade of growth",
+        "txtlength": 33099
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kulfold/2022/08/07/luxuscikkek-sikkasztas-thomas-girardi-erika-jayne-lion-air-boeing/",
+        "h1": "Luxuscikkekre költötte az özvegyektől és árváktól lopott pénzt az amerikai sztárügyvéd és felesége",
+        "txtlength": 23823
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2022/08/08/orban-viktor-fajelmelet-fajkeveredes-tusvanyosi-beszed-jean-raspail-renaud-camus-szentek-tabora-lakossagcsere-elmelet/",
+        "h1": "Nem Orbán beszéde nyitotta újra a fajelméleti diskurzust nyugaton",
+        "txtlength": 22323
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/gazdasag/2022/08/08/vinnai-balazs-ivsz-elnok-a-digitalis-nomadok-miatt-uj-adonemekre-volna-szukseg",
+        "h1": "Kata helyett ica: az informatikai távmunka miatt új adónemekre volna szükség",
+        "txtlength": 16556
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/eletmod/2022/08/07/body-positivity-bikini-body-testkep-idealis-test-strand-nyar",
+        "h1": "A nyár mindenkié – pocakosan, hurkásan, narancsbőrösen is jogod van élvezni!",
+        "txtlength": 15488
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/belfold/2022/08/08/abszurd-tortenet-nev-nevvaltoztatas-nevatiras-hivatal",
+        "h1": "Levél jött a hivataltól, hogy egy száz évvel ezelőtti hiba miatt másik vezetéknevet kaptak",
+        "txtlength": 14734
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/zhvg/20220808_klimavaltozas_aszaly_termotalaj_nedvesseg_talajvizutanpotlas_vizvisszatartas",
+        "h1": "A termőtalajaink is kiszáradnak, pedig van módszer, amivel ez visszafordítható",
+        "txtlength": 12567
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/08/08/a-magyar-cegek-46-szazaleka-gondolja-ugy-hogy-a-korrupcio-megneheziti-a-mukodesuket",
+        "h1": "A magyar cégek 46 százaléka gondolja úgy, hogy a korrupció megnehezíti a működésüket",
+        "txtlength": 12232
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/08/08/elmenekulni-ebbol",
+        "h1": "Elmenekülni ebből",
+        "txtlength": 12214
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/sztarvilag/filmklikk/tvr-het-braddock-ezredes-maganhaboru/x841rtk",
+        "h1": "Ütközetben eltűnt, avagy Braddock ezredes (magán)háborúja",
+        "txtlength": 10636
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/tudomany/20220807_viselkedesproblemak_digitalis_eszkozok_hasznalata_osszefuggesek_elte",
+        "h1": "Totális a félreértés a sok mobilozásról, magyar kutatók szerint sok minden éppen fordítva igaz",
+        "txtlength": 10602
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/tudomany/20220808_koronavirus_elleni_vedooltas_szivizomgyulladas_vakcina",
+        "h1": "Alacsony kockázatot jelent a koronavírus elleni védőoltás a tinédzsereknél",
+        "txtlength": 9219
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/mav-katasztrofa-veszely-fold-omlas-sinek-tulbuzgo-ferfi/vtjkyll?sl_ps=d_3",
+        "h1": "Katasztrófaveszély! Túlbuzgó férfi miatt omolhat a föld a sínekre a Déli-pályaudvar és Kelenföld között",
+        "txtlength": 7940
+    },
+    {
+        "hostname": "mindmegette.hu",
         "pagelink": "https://www.mindmegette.hu/afonyas-mozzarellas-dinnyesalata.recept",
         "h1": "ÁFONYÁS-MOZZARELLÁS DINNYESALÁTA",
         "txtlength": 10483
