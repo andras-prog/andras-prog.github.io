@@ -1,5 +1,173 @@
 [
     {
+        "hostname": "kiszamolo.hu",
+        "pagelink": "https://kiszamolo.hu/hogy-nez-ki-az-elefant/",
+        "h1": "Hogy néz ki az elefánt?",
+        "txtlength": 36304
+    },
+    {
+        "hostname": "efesasanisimasa.com",
+        "pagelink": "https://efesasanisimasa.com/2022/08/08/stranger-things-tv-series-2016/",
+        "h1": "Stranger Things (TV Series, 2016-)",
+        "txtlength": 10287
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220803_kozelet_interju_patrick_deneen_usa",
+        "h1": "Amerikának olyan vezetőre van szüksége, mint Orbán Viktor – Patrick Deneen a Mandinernek",
+        "txtlength": 23364
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/szorakozas/20220807/erik-az-osszeomlas-a-sorpiacon-aremeles-jon-visszaternek-az-alsopolcos-termekek-1127695",
+        "h1": "Érik az összeomlás a sörpiacon: áremelés jön, visszatérnek az alsópolcos termékek",
+        "txtlength": 22073
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220808_egyesult_allamok_ukrajna_menekultek",
+        "h1": "Mit tesz az Egyesült Államok az ukrán menekültekért?",
+        "txtlength": 21345
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220809_nemetorszag_kozmedia_hutlen_kezeles_berlin_schlesinger",
+        "h1": "Német médiabotrány: két kézzel szórta a közmédiás vezető az eurószázezreket",
+        "txtlength": 20463
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/otthon/20220806/51-filleres-ebedotlet-sutes-fozes-nelkul-igy-gyozheted-le-egyszerre-a-hoseget-es-az-inflaciot-1127666",
+        "h1": "5+1 filléres ebédötlet sütés-főzés nélkül: így győzheted le egyszerre a hőséget és az inflációt",
+        "txtlength": 20257
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vallalat/20220809/teljes-az-uzemanyag-kaosz-az-arsapka-eltorlese-ota-a-mezogazdasagban/",
+        "h1": "Teljes az üzemanyag-káosz az ársapka eltörlése óta a mezőgazdaságban",
+        "txtlength": 18046
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vilag/20220808/a-vegen-meg-elerik-az-oroszok-hogy-uj-szaud-arabia-legyen-egy-afrikai-orszagbol/",
+        "h1": "A végén még elérik az oroszok, hogy új Szaúd-Arábia legyen egy afrikai országból",
+        "txtlength": 16983
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/ingatlan/20220809/kaoszban-folyt-el-a-penz-az-allami-beruhazasokon-johet-a-brutalis-jogszabalyi-szigoritas-560273",
+        "h1": "Káoszban folyt el a pénz az állami beruházásokon – Jöhet a brutális jogszabályi szigorítás",
+        "txtlength": 16939
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/global/20220809/video-elkepeszto-allapotok-uralkodnak-a-teljes-osszeomlas-szelen-allo-orszagban-560327",
+        "h1": "Videó: elképesztő állapotok uralkodnak a teljes összeomlás szélén álló országban",
+        "txtlength": 16789
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/uzlet/20220809/igy-reagalt-a-magyar-tozsde-a-brutalis-inflacios-adatra-560241",
+        "h1": "Így reagált a magyar tőzsde a brutális inflációs adatra ",
+        "txtlength": 15757
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/szuloseg/sodder-gyerekek-eltunese/",
+        "h1": "sodder gyerekek eltűnése",
+        "txtlength": 14080
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/otthon/yettel-mobiltelefon-kedvezmeny/",
+        "h1": "Elektronikus hulladék: 40 ezer forint kedvezmény járhat az új telefonra, ha visszaviszed a régit",
+        "txtlength": 12571
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2022/08/09/hol-mennyit-kell-dolgozni-ahhoz-hogy-ne-szegenyedj-el",
+        "h1": "HOL MENNYIT KELL DOLGOZNI AHHOZ, HOGY NE SZEGÉNYEDJ EL?",
+        "txtlength": 7063
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/fn/gazdasag/2022/08/09/gyorszentivan-ipari-park-bovites-audi-akkumulatorgyar-lakossagi-forum/",
+        "h1": "Termőföldeket betonozhatnak le, körbezárhatja Győr kertvárosát az ipari park",
+        "txtlength": 18966
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/belfold/2022/08/09/az-erdeszeti-es-a-termeszetvedelmi-szakma-sem-erti-a-favagas-rendeletet-energia-veszhelyzet-tuzifa-futes-erdogazdasagok",
+        "h1": "Nem csak barbár, teljesen felesleges is az erdőirtásra ösztönző új rendelet",
+        "txtlength": 18076
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/zhvg/20220809_fakitermeles_tuzifa_termeszeti_ertekek_veszelyben",
+        "h1": "Honnan lesz tűzifa a télre, ha az idén kivágott még nem használható?",
+        "txtlength": 15464
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/gazdasag/20220809_juniusi_inflacio",
+        "h1": "Robog az infláció, egy hónap alatt annyival nőttek az árak, mint 2020-ban egy év alatt",
+        "txtlength": 15109
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2022/08/09/velencei-to-vizallas-szelloztetes/",
+        "h1": "Áder kívánsága nem teljesült, egyelőre a Mad Max tartja életben a Velencei-tavat",
+        "txtlength": 12662
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/08/09/mit-jelenthet-amikor-mar-az-egyetemes-beke-hidja-is-langol",
+        "h1": "Mit jelenthet, amikor már az Egyetemes Béke Hídja is lángol?",
+        "txtlength": 11757
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/08/08/oroszorszag-felfuggeszti-a-katonai-helyszinein-az-uj-start-szerzodesben-rogzitett-amerikai-ellenorzeseket",
+        "h1": "Oroszország felfüggeszti a katonai helyszínein az új START-szerződésben rögzített amerikai ellenőrzéseket",
+        "txtlength": 11579
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/szorakozas/2022/08/09/varos-vs-videk-kviz-tv2-till-attila-gaspar-zsolt-vetelkedo",
+        "h1": "Most jön a tehén, hú, de szeretem a tehenet!",
+        "txtlength": 11073
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/gazdasag/2022/08/09/juliusi-inflacio-ksh-szazalek-dragulas",
+        "h1": "Újabb 24 éves csúcson, 13,7 százalékon az infláció",
+        "txtlength": 11035
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/gazdasag/20220809_Az_dragult_a_legjobban_amit_a_leginkabb_vasarolunk_es_ez_meg_csak_a_kezdet",
+        "h1": "Az drágult a legjobban, amit a leginkább vásárolunk és ez még csak a kezdet",
+        "txtlength": 10902
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kultura/2022/08/08/operahaz-okovacs-szilveszter-elvonas-kim-eiffel-muhelyhaz/",
+        "h1": "„Hiába a tökéletes járgány, ha nincs az üzemanyag-tartályában gázolaj” – egymilliárdos elvonás az Operaháztól, rövid ideig működött csak az Eiffel Műhelyház",
+        "txtlength": 10370
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/mav-katasztrofa-veszely-fold-omlas-sinek-tulbuzgo-ferfi/vtjkyll",
+        "h1": "Katasztrófaveszély! Túlbuzgó férfi miatt omolhat a föld a sínekre a Déli-pályaudvar és Kelenföld között",
+        "txtlength": 7723
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/kulfold/donald-trump-kim-dzsongun-szerelmes-levelek-hazkutatas-fbi-iratok-wc/13e21w8?sl_ps=d_4",
+        "h1": "Az FBI Kim Dzsong Un „szerelmes leveleit” is megtalálta Donald Trump otthonában: a WC-n lehúzva próbálhatta eltüntetni a bizonyítékokat – fotók",
+        "txtlength": 7315
+    },
+    {
         "hostname": "mindmegette.hu",
         "pagelink": "https://www.mindmegette.hu/glutenmentes-pizza-es-langos.recept",
         "h1": "GLUTÉNMENTES PIZZA ÉS LÁNGOS",
