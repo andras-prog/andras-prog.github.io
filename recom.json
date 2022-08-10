@@ -1,5 +1,179 @@
 [
     {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/glutenmentes-nokedli.recept",
+        "h1": "GLUTÉNMENTES NOKEDLI ",
+        "txtlength": 10721
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/harcsaleves.recept",
+        "h1": "HARCSALEVES",
+        "txtlength": 10281
+    },
+    {
+        "hostname": "kulturpart.hu",
+        "pagelink": "https://kulturpart.blog.hu/2022/08/08/kezdodik_a_licit_a_balatonnal",
+        "h1": "KEZDŐDIK A LICIT A BALATONNÁL",
+        "txtlength": 8076
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220729_orosz_agresszio_osztrak_magyar_monarchia_forgatokonyv",
+        "h1": "Totális háború: mire menne a Monarchiával Putyin?",
+        "txtlength": 25037
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220805_megis_van_biologiai_alapja_az_emberi_fajoknak",
+        "h1": "Mégis van biológiai alapja az emberi fajoknak?",
+        "txtlength": 24460
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220810_kina_amerika_haboru_tajvan",
+        "h1": "Miként alakulna egy Kína és Amerika közötti háború?",
+        "txtlength": 23437
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/gazdasag/20220807/igy-kuzdenek-most-a-magyarok-rezsiemeles-ellen-zsakszamra-veszik-a-kutyuket-kinai-cuccokat-1127740",
+        "h1": "Így küzdenek most a magyarok a rezsiemelés ellen: zsákszámra veszik a kütyüket, kínai cuccokat",
+        "txtlength": 23315
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vilag/20220317/nem-sok-jot-jelez-hogy-legutobb-az-arab-tavasz-elott-volt-ilyen-draga-az-elelmiszer/",
+        "h1": "Nem sok jót jelez, hogy legutóbb az arab tavasz előtt volt ilyen drága az élelmiszer",
+        "txtlength": 20979
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/hitel/20220809/durva-ami-a-magyar-hitelekkel-tortenik-evtizedek-ota-nem-volt-ilyen-ez-most-nagyon-kemeny-lesz-1127767",
+        "h1": "Durva, ami a magyar hitelekkel történik: évtizedek óta nem volt ilyen, ez most nagyon kemény lesz",
+        "txtlength": 20074
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/kozelet/20220810/tobb-ugyet-vonhattak-ossze-a-ryanair-ellen-mert-az-aremelesert-onmagaban-nem-lenne-buntetheto/",
+        "h1": "Több ügyet vonhattak össze a Ryanair ellen, mert az áremelésért önmagában nem lenne büntethető",
+        "txtlength": 19156
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2022/08/09/a-kornyezetvedelem-ugye-mindig-az-ellenzeknek-fontosabb-de-a-kornyezet-nem-lehet-ellenzekben",
+        "h1": "A KÖRNYEZETVÉDELEM ÜGYE MINDIG AZ ELLENZÉKNEK FONTOSABB, DE A KÖRNYEZET NEM LEHET ELLENZÉKBEN",
+        "txtlength": 19054
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.penzcentrum.hu/otthon/20220810/orult-aki-ilyen-faval-fut-az-idei-telen-ok-lehetnek-a-rezsiemeles-legnagyobb-aldozatai-1127814",
+        "h1": "Őrült, aki ilyen fával fűt az idei télen: ők lehetnek a rezsiemelés legnagyobb áldozatai",
+        "txtlength": 17757
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/uzlet/20220810/hamarosan-ujra-johet-orosz-koolaj-igy-reagalt-a-magyar-tozsde-560479",
+        "h1": "Hamarosan újra jöhet orosz kőolaj, így reagált a magyar tőzsde ",
+        "txtlength": 17177
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/unios-forrasok/20220810/leirta-a-kormany-brusszelnek-hogy-alulfizetettek-a-tanarok-es-370-milliardos-berfejlesztesre-kert-jovahagyast-eu-penzbol-560579",
+        "h1": "Leírta a kormány Brüsszelnek, hogy alulfizetettek a tanárok, és 370 milliárdos bérfejlesztésre kért jóváhagyást EU-pénzből",
+        "txtlength": 16480
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/utazas/karterites-repulo-keses-torles/",
+        "h1": "Késik, vagy törölték a repülőt? Egy apróság, amire muszáj figyelni, hogy kárpótlást kapj",
+        "txtlength": 10020
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/lajfhekk/mibol-all-a-por/",
+        "h1": "Miből áll a por",
+        "txtlength": 8435
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2022/08/10/aszalykar-csaladi-gazdasag-takarmanyhiany-kisujszallas-riport/",
+        "h1": "Fügét már elvitték levágni, meg Vivient is, a lányát",
+        "txtlength": 25341
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/belfold/2022/08/10/jean-raspail-szentek-tabora-orban-viktor-rasszizmus-fajkeveredes",
+        "h1": "Átható szarszagban, patakokban folyik az ondó a könyvben, amit Orbán ajánlott Tusványoson",
+        "txtlength": 19358
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2022/08/10/piaci-benzinar-arsapka-hatosagiar-uzemanyag-lpg-autogaz-sporolas-atalakitas/",
+        "h1": "Elszállt árak, benzinhiány: így váltottam autógázra a tankolási korlátozás idején",
+        "txtlength": 17949
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/elet/20220809_Sziget_Fesztival_szubjektiv_programajanlo",
+        "h1": "A legjobb dolgok nem mindig a legnagyobb színpadon történnek – szubjektív iránytűnk a Szigethez",
+        "txtlength": 17119
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/szorakozas/2022/08/09/sziget-fesztival-2022-fellepok-koncertajanlo",
+        "h1": "A nagyszínpadon túl is bőven lesz mit nézni az idei Szigeten",
+        "txtlength": 16472
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/belfold/2022/08/10/jobbik-part-frakcio-jakab-peter-a-nep-partjan-alapszervezetek",
+        "h1": "Toroczkaiék után Jakab Péter: jön az újabb Jobbik-szakadás?",
+        "txtlength": 16146
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2022/08/09/glucklich-vilma-evfordulo-150-feminizmus/",
+        "h1": "150 éve született Glücklich Vilma, az első nő, aki egyetemre járt Magyarországon",
+        "txtlength": 13918
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/kultura/20220809_Nagyobb_zoldebb_es_csak_a_mufajok_keverednek__bejartuk_a_Szigetet_kezdes_elott",
+        "h1": "Nagyobb, zöldebb és csak a „műfajok keverednek” – bejártuk a Szigetet kezdés előtt",
+        "txtlength": 12902
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/08/10/pocs-janos-egy-dinnyes-peldaval-elmagyarazta-a-katamodositast-majd-kozolte-hogy-az-egyetemi-professzorok-sajnos-nem-tudnak-komplexen-gondolkodni-a-gazdasagrol",
+        "h1": "Pócs János egy dinnyés példával elmagyarázta a katamódosítást, majd közölte, hogy az egyetemi professzorok sajnos nem tudnak komplexen gondolkodni a gazdaságról",
+        "txtlength": 12329
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/08/10/180-ezer-ugyfelenek-fizet-jovatetelt-a-yettel",
+        "h1": "180 ezer ügyfelének fizet jóvátételt a Yettel",
+        "txtlength": 11540
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/kkv/20220808_Megvannak_a_bankok_kezdodhet_a_roham_a_Szechenyi_MAX_hitelekert",
+        "h1": "Megvannak a bankok, kezdődhet a roham a Széchenyi MAX hitelekért",
+        "txtlength": 11236
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/horgaszat-betiltjak-halfogas-aszaly-szarazsag/957xfmb",
+        "h1": "A perzselő aszálynak eshet áldozatául több százezer magyar ember hobbija",
+        "txtlength": 7820
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/bolti-kotekedo-zsoldos-gabor-miskolc-megnyomoritotta-egy-utes/phs8q3x?sl_ps=d_4",
+        "h1": "Egyetlen ütés tette élőhalottá Gábort: eladónőket akart megvédeni egy részegtől, ez lett a veszte",
+        "txtlength": 7627
+    },
+    {
         "hostname": "kiszamolo.hu",
         "pagelink": "https://kiszamolo.hu/hogy-nez-ki-az-elefant/",
         "h1": "Hogy néz ki az elefánt?",
