@@ -1,6 +1,180 @@
 [
     {
         "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/gluten-es-tejmentes-sacher-torta.recept",
+        "h1": "GLUTÉN- ÉS TEJMENTES SACHER TORTA",
+        "txtlength": 12012
+    },
+    {
+        "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/mennyei-tiramisu-palacsinta",
+        "h1": "Mennyei tiramisu palacsinta",
+        "txtlength": 9861
+    },
+    {
+        "hostname": "hataratkelo.blog.hu",
+        "pagelink": "https://hataratkelo.blog.hu/2022/08/02/egy_varos_kulonos_szellemmel#c41519229",
+        "h1": "Egy város különös szellemmel",
+        "txtlength": 45775
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/otthon/20220809/szazezreket-bukhat-aki-igy-uszna-meg-a-rezsiemelest-legyel-resen-siman-lehuzhatnak-1127784",
+        "h1": "Százezreket bukhat, aki így úszná meg a rezsiemelést: legyél résen, simán lehúzhatnak",
+        "txtlength": 27635
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/gazdasag/20220810/az-inflaciot-emelo-tenyezok-hasonlosagai-es-kulonbsegei-1970-ben-es-napjainkban-1127656",
+        "h1": "Az inflációt emelő tényezők hasonlóságai és különbségei 1970-ben és napjainkban",
+        "txtlength": 25157
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220730_dobo_geza_mcc_corvinak_migracio_ukrajna_oroszorszag_haboru",
+        "h1": "„Nem tartom valószínűnek, hogy a lövöldözés napi szintűvé válna” – Dobó Géza migrációkutató a Mandinernek",
+        "txtlength": 23291
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vilag/20220811/orultseg-raketakkal-loni-europa-legnagyobb-atomeromuvet-nuklearis-zsarolas-a-haboruban/",
+        "h1": "Őrültség rakétákkal lőni Európa legnagyobb atomerőművét, de lehet-e Csernobil Zaporizzsjából?",
+        "txtlength": 21075
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/kozelet/20220810/ha-fel-kell-adni-a-480-as-uzemanyagarat-ketszeresen-is-az-eu-ra-mutogathat-a-kormany/",
+        "h1": "Ha fel kell adni a 480-as üzemanyagárat, kétszeresen is az EU-ra mutogathat a kormány",
+        "txtlength": 19091
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220811_nemetorszag_gerhard_schroder_portre",
+        "h1": "Az elvtárs, aki kellemetlenné vált – Gerhard Schröder portréja",
+        "txtlength": 18639
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/bank/20220811/tortenelmi-rekord-az-otp-nel-megszolalt-bencsik-laszlo-560741",
+        "h1": "Történelmi rekord az OTP-nél, megszólalt Bencsik László ",
+        "txtlength": 18222
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220811_obuda_bekasmegyer_idokozi_onkormanyzati_valasztas_fidesz_kdnp_mszp_dk_lmp_parbeszed_momentum_hazai_ivan_andras",
+        "h1": "DK-s belháború Óbudán, revansot venne a Fidesz az időközi önkormányzati választáson",
+        "txtlength": 17604
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2022/08/10/kiderult-milyen-sors-var-a-fold-legnagyobb-jegtakarojara-ha-nem-mersekeljuk-a-felmelegedest",
+        "h1": "KIDERÜLT, MILYEN SORS VÁR A FÖLD LEGNAGYOBB JÉGTAKARÓJÁRA, HA NEM MÉRSÉKELJÜK A FELMELEGEDÉST",
+        "txtlength": 16468
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/bank/20220811/bivalyeros-az-otp-itt-vannak-az-uj-rekordok-560719",
+        "h1": "Bivalyerős az OTP, itt vannak az új rekordok",
+        "txtlength": 15787
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/ingatlan/20220811/korai-meg-temetni-az-uj-lakasok-piacat-nagyot-ugorhat-ev-vegere-az-atadasok-szama-560777",
+        "h1": "Korai még temetni az új lakások piacát: nagyot ugorhat év végére az átadások száma",
+        "txtlength": 15056
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/kapcsolat/wonder-woman-alkotoja/",
+        "h1": "A pszichológus felesége és szeretője inspirálta a népszerű képregényhőst: a Wonder Woman alkotója izgalmas életet élt",
+        "txtlength": 11565
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/lajfhekk/rovidital-meddig-all-el/",
+        "h1": "rövidital meddig áll el",
+        "txtlength": 8500
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2022/08/11/takacs-santa-andras-klimavaltozas-globalis-krizis-vita-interju/",
+        "h1": "„Egyre fogy az időnk, egyre sürgetőbb a változás, de ha gyökeresen átalakítjuk az emberi kultúrát, fennmaradhatunk”",
+        "txtlength": 33220
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kultura/2022/08/10/sziget-2022-ajanlo-fesztival-arctic-monkeys-stromae-tame-impala/",
+        "h1": "Tíz koncert, amit érdemes várni a Szigeten",
+        "txtlength": 16510
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/elet/20220810_Legborzasztobb_elmenyeink_a_fesztivalokrol",
+        "h1": "„Konkrétan rengett a föld” – legborzasztóbb élményeink a fesztiválokról",
+        "txtlength": 16450
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kulfold/2022/08/10/donald-trump-razzia-mar-a-lago-archivum-iratok-fbi-nara-nyomozas/",
+        "h1": "A Watergate-ügy után hozott törvény miatt razziázott az FBI Trumpnál",
+        "txtlength": 16221
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/sport/2022/08/10/1932-vizilabda-elso-olimpiai-arany-komjadi-es-nemeth-jamesz",
+        "h1": "90 éve kezdődött a magyar vízilabda legendája",
+        "txtlength": 15456
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kult/2022/08/11/sziget-fesztival-szerda-dua-lipa-q-dance-remi-wolf",
+        "h1": "Most már tényleg Dua Lipa az első számú popdíva",
+        "txtlength": 14299
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/tudomany/2022/08/11/viz-aszaly-vizgazdalkodas-kut-kutfuras-szarazsag",
+        "h1": "Sorra száradnak ki a kutak az országban, és nem egyszerű újakat fúrni helyettük",
+        "txtlength": 13944
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/vilag/20220811_eromu_ukrajna_aramvezetek_haboru_oroszok_oroszorszag",
+        "h1": "Az ukránok elvágnák a zaporizzsjai erőmű áramvezetékeit – a háború csütörtöki hírei",
+        "txtlength": 10784
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/08/11/a-nemzeti-tarvagas-rendszere",
+        "h1": "A Nemzeti Tarvágás Rendszere",
+        "txtlength": 10401
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/08/11/400-millioert-vesznek-teqball-palyakat-a-szakkepzesi-centrumoknak",
+        "h1": "400 millióért vesznek Teqball pályákat a szakképzési centrumoknak",
+        "txtlength": 9085
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/kkv/20220811_Itt_a_valasz_a_repulojegyadora_8_budapesti_utvonalat_bezarja_a_Ryanair",
+        "h1": "Itt a válasz a repülőjegyadóra: 8 budapesti útvonalát bezárja a Ryanair",
+        "txtlength": 8859
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/krimi/bolti-kotekedo-zsoldos-gabor-miskolc-megnyomoritotta-egy-utes/1xx5t3q",
+        "h1": "Egyetlen ütés tette élőhalottá Gábort: eladónőket akart megvédeni egy részegtől, ez lett a veszte",
+        "txtlength": 7785
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/hos-megmento-vasut-atjaro-segitseg-sin-auto/f7cnqpj",
+        "h1": "Öt életet mentett meg Gyula a vasúti átjáróban: vészesen közeledett a vonat a sínen veszteglő autó felé",
+        "txtlength": 7138
+    },
+    {
+        "hostname": "mindmegette.hu",
         "pagelink": "https://www.mindmegette.hu/glutenmentes-nokedli.recept",
         "h1": "GLUTÉNMENTES NOKEDLI ",
         "txtlength": 10721
