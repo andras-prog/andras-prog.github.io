@@ -1,5 +1,173 @@
 [
     {
+        "hostname": "hataratkelo.blog.hu",
+        "pagelink": "https://hataratkelo.blog.hu/2022/08/02/egy_varos_kulonos_szellemmel#c41520911",
+        "h1": "Egy város különös szellemmel",
+        "txtlength": 43297
+    },
+    {
+        "hostname": "kulturpart.hu",
+        "pagelink": "https://kulturpart.blog.hu/2022/08/11/bemutatjak_kalotaszeg_kincseit",
+        "h1": "BEMUTATJÁK KALOTASZEG KINCSEIT",
+        "txtlength": 5121
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220727_elet_interju_muhi_andras_pires",
+        "h1": "Szilágyi Árontól a magyar futballválogatottig - Muhi András Pires sportfilmes a sport valóságáról",
+        "txtlength": 29917
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/vasarlas/20220811/lesujt-a-horrordragulas-igy-sporolnak-most-a-lidlben-sparban-tescoban-az-elelmes-magyarok-1127837",
+        "h1": "Lesújt a horrordrágulás: így spórolnak most a Lidlben, Sparban, Tescóban az élelmes magyarok",
+        "txtlength": 29385
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/global/20220812/repedezik-putyin-birodalma-hatalmas-arcvesztes-lesz-a-zsenialis-strategiai-mesterterv-vege-560819",
+        "h1": "Repedezik Putyin birodalma – Hatalmas arcvesztés lesz a zseniális stratégiai mesterterv vége?",
+        "txtlength": 28665
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vallalat/20220811/rengeteg-magyar-koszonheti-munkahelyet-a-kiszervezeseknek-de-megtoroben-a-lendulet/",
+        "h1": "Rengeteg magyar köszönheti munkahelyét a kiszervezéseknek, de megtörőben a lendület",
+        "txtlength": 27555
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220811_jogallamisag_eu_rodrigo_ballester_interju",
+        "h1": "Rodrigo Ballester: Jogállamiatlanul kényszeríti ki a jogállamiságot az EU",
+        "txtlength": 26181
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/uzlet/20220812/energetikai-krizishelyzetben-a-fuggoseg-csokkentese-a-jo-irany-560927",
+        "h1": "Energetikai krízishelyzetben a függőség csökkentése a jó irány",
+        "txtlength": 24709
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/megtakaritas/20220810/tarolnak-a-nullas-szamlak-ezzel-a-trukkel-neked-is-ingyen-van-ezeknel-a-bankoknal-erheto-el-1127794",
+        "h1": "Tarolnak a nullás számlák: ezzel a trükkel neked is ingyen van, ezeknél a bankoknál érhető el",
+        "txtlength": 21460
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vilag/20220811/forradalmi-az-amerikai-klimavedelmi-csomag-de-a-15-fokos-celt-bukjuk-vele/",
+        "h1": "Forradalmi az amerikai klímavédelmi csomag, de az 1,5 fokos célt bukjuk vele",
+        "txtlength": 20249
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/ingatlan/20220812/nem-az-on-panellakasa-nem-er-1-millio-forintot-negyzetmeterenkent-560809",
+        "h1": "Nem, az ön panellakása nem ér 1 millió forintot négyzetméterenként",
+        "txtlength": 19038
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220812_libe_frontex_alapjogok_migracio_migrans_visszatoloncolas",
+        "h1": "Nekimentek Brüsszelből az EU határait védő Frontexnek",
+        "txtlength": 18187
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2022/08/10/az-uj-zsarnokok-a-rohado-hus-felett-korozo-dogkeselyukkent-unneplik-a-demokracia-megingasat",
+        "h1": "AZ ÚJ ZSARNOKOK A ROHADÓ HÚS FELETT KÖRÖZŐ DÖGKESELYŰKKÉNT ÜNNEPLIK A DEMOKRÁCIA MEGINGÁSÁT",
+        "txtlength": 14972
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/szuloseg/verszegenyseg-veszelyes/",
+        "h1": "vérszegénység veszélyes",
+        "txtlength": 12557
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/ezo/boldogsag-titka-jelenlet/",
+        "h1": "Milyen is volt gyereknek lenni és kiélvezni a pillanatot? A szakember szerint ezzel rontják el a felnőttek a jelent",
+        "txtlength": 11369
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/fn/gazdasag/2022/08/12/wizz-air-jarattorlesek-kesesek-elnok-extraprofitado-robert-carey/",
+        "h1": "Wizz Air-elnök: Nem az a célunk, hogy órákra reptereken hagyjunk utasokat információ nélkül",
+        "txtlength": 34434
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2022/08/12/eu-nepszavazas-ellenzek-gyongyosi-marton-ujhelyi-istvan-momentum/",
+        "h1": "Huxit-veszély, hazárdjáték, Orbán-póráz – megosztja az ellenzéket az uniós népszavazás ötlete",
+        "txtlength": 19959
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/sport/2022/08/11/sport-tv-atalakulas-network4-arena4-eurosport-borsany-gyenes-andras-szabo-gabor-mate-pal/",
+        "h1": "Pár nap alatt feje tetejére állt a magyar sporttelevíziós piac",
+        "txtlength": 17650
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/komplex/2022/08/12/ez-a-valsag-foldre-viheti-a-magyar-gasztroforradalmat-valsag-inflacio-munkaerohiany-varhato-hatasai-a-vendeglatasra",
+        "h1": "\n      Ez a válság földre viheti a magyar gasztroforradalmat\n    ",
+        "txtlength": 16154
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/elet/20220811_Justin_Bieber_metamorfozisa",
+        "h1": "Justin Bieber metamorfózisa",
+        "txtlength": 13469
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kulfold/2022/08/12/orosz-ukran-haboru-170-nap-hirfolyam",
+        "h1": "Négy évvel vetette vissza a háború az orosz gazdaságot, nagyon riasztó a helyzet a zaporizzsjai atomerőműben",
+        "txtlength": 12054
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/eszkombajn/2022/08/12/harry-harlow-majom-kiserlet-szeretet",
+        "h1": "Drótanyákkal ámította a majomkölyköket, szörnyű kísérletein át fedezte fel az igazi anyai szeretetet",
+        "txtlength": 10865
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/vilag/20220812_orosz_ukran_haboru_zelenszkij_kijev",
+        "h1": "Fogva tarthatják a zaporizzsjai erőmű dolgozóit, Ukrajnában újranyitnak a McDonald'sok – a háború pénteki hírei",
+        "txtlength": 10649
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/kulfold/soros-gyorgy-milliardos-szuletesnap-orban-viktor-fidesz/rlldf99?sl_ps=d_5",
+        "h1": "Ma 92 éves a világ egyik „legtehetségesebb” (vagy „legkorruptabb”) embere, Soros György",
+        "txtlength": 9831
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/08/12/az-lmp-szervezi-a-delutani-tuntetest-a-fakivagas-ellen",
+        "h1": "Az LMP szervezi a délutáni tüntetést a fakivágás ellen",
+        "txtlength": 9234
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/kultura/20220812_Kings_Of_Leon_Sziget_2022_koncert",
+        "h1": "Jókor, jó helyen – ez volt a Kings Of Leon a Szigeten",
+        "txtlength": 8928
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/08/12/haromezer-milliard-forintbol-epul-kinai-akkumulatorgyar-debrecenben",
+        "h1": "Háromezer milliárd forintból épül kínai akkumulátorgyár Debrecenben",
+        "txtlength": 8382
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/krimi/hackerek-kibervedelem-csalok-elfogtak/rmgm67h",
+        "h1": "Milliókat kaszáló adathalászok akadtak a kibervédelmi hatóság horgára – Videón a rajtaütés",
+        "txtlength": 8195
+    },
+    {
         "hostname": "mindmegette.hu",
         "pagelink": "https://www.mindmegette.hu/gluten-es-tejmentes-sacher-torta.recept",
         "h1": "GLUTÉN- ÉS TEJMENTES SACHER TORTA",
