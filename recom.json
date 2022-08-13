@@ -1,5 +1,173 @@
 [
     {
+        "hostname": "kulturpart.hu",
+        "pagelink": "https://kulturpart.hu/2022/08/11/bemutatjak_kalotaszeg_kincseit",
+        "h1": "BEMUTATJÁK KALOTASZEG KINCSEIT",
+        "txtlength": 5128
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220810_kell_e_nyelvvizsga_egy_diplomasnak",
+        "h1": "Kell-e nyelvvizsga egy diplomásnak?",
+        "txtlength": 28097
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/kozelet/20220813/csak-a-szavak-szintjen-keszult-a-kormany-az-orszag-elsivatagosodasara/",
+        "h1": "Csak a szavak szintjén készült a kormány az ország elsivatagosodására",
+        "txtlength": 27283
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220803_elet_interju_masik_janos",
+        "h1": "Akik a szabadság szellemét keresték, megtalálhatták nálunk is – Másik János a Mandinernek",
+        "txtlength": 26051
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/karrier/20220812/5-biztos-jel-hogy-lebecsulnek-a-munkahelyeden-jo-tudni-roluk-a-bered-mulhat-rajtuk-1127929",
+        "h1": "5 biztos jel, hogy lebecsülnek a munkahelyeden: jó, tudni róluk, a béred múlhat rajtuk",
+        "txtlength": 20200
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/megtakaritas/20220813/alapveto-hibakon-uszik-el-a-magyarok-penze-erre-figyelj-ha-nem-akarsz-legatyasodni-1127854",
+        "h1": "Alapvető hibákon úszik el a magyarok pénze: erre figyelj, ha nem akarsz legatyásodni",
+        "txtlength": 19861
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220813_tajvan_kina_nyugat_eu_szankcio",
+        "h1": "Mennyire fájna egy Tajvan miatti szankciós háború Kínával?",
+        "txtlength": 19407
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20220812/megtudtuk-kiugro-teli-gazszamlak-is-johetnek-igy-valtozik-a-rezsicsokkentes-560985",
+        "h1": "Megtudtuk: kiugró téli gázszámlák is jöhetnek, így változik a rezsicsökkentés",
+        "txtlength": 18028
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/tech/20220812/kaphato-a-boltban-csokkenti-a-rezsit-de-nem-hasznalhatod-kaosz-van-az-erkelynapelemek-korul/",
+        "h1": "Kapható a boltban, csökkenti a rezsit, de nem használhatod: káosz van az erkélynapelemek körül",
+        "txtlength": 17923
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/global/20220812/nagyot-villantott-kina-a-hadmuvelet-soran-amerika-most-igazan-vakarhatja-a-fejet-561015",
+        "h1": "Nagyot villantott Kína a hadművelet során, Amerika most igazán vakarhatja a fejét",
+        "txtlength": 14699
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/uzlet/20220812/itt-a-bejelentes-gigantikus-autoipari-beruhazas-indul-magyarorszagon-560967",
+        "h1": "Itt a bejelentés: gigantikus autóipari beruházás indul Magyarországon",
+        "txtlength": 13992
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/testem/korom-elvaltozas/",
+        "h1": "köröm elváltozás",
+        "txtlength": 13559
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/szuloseg/fugguseg-jelei/",
+        "h1": "függőség jelei",
+        "txtlength": 11936
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/gyerek/filmek-felnotte-valasrol/",
+        "h1": "Ezek a filmek bemutatják, hogy felnőni nem mindig könnyű: 5 érzékeny mozi a felnőtté válásról",
+        "txtlength": 11168
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2022/08/12/a-tuzifarendelet-ugy-veszelyezteti-a-potolhatatlan-termeszeti-ertekeket-hogy-nem-enyhit-az-energiavalsagon",
+        "h1": "A TŰZIFARENDELET ÚGY VESZÉLYEZTETI A PÓTOLHATATLAN TERMÉSZETI ÉRTÉKEKET, HOGY NEM ENYHÍT AZ ENERGIAVÁLSÁGON",
+        "txtlength": 10019
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/szorakozas/2022/08/13/nehez-megmondani-mi-volt-ez-az-egesz-amit-justin-bieber-csinalt-a-szigeten",
+        "h1": "Nehéz megmondani, mi volt ez az egész, amit Justin Bieber csinált a Szigeten",
+        "txtlength": 21000
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/cegauto/20220813_5_fos_csalad_10_negyzetmeteren_10_napig_csigahazas_nyaralas_horvatorszagban",
+        "h1": "5 fős család 10 négyzetméteren 10 napig: csigaházas nyaralás Horvátországban",
+        "txtlength": 16293
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/sport/2022/08/12/liu-shaolin-shaoang-kina-edzotabor-lina",
+        "h1": "Liuék Kínában: az időzítés gyanakvást keltő, de csak télen fogunk tisztán látni",
+        "txtlength": 14544
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/kultura/20220812_Anne_Heche_nekrolog",
+        "h1": "Anne Heche-nek a karrierjébe került, hogy felvállalta önmagát, de így talán sokkal többet köszönhet neki a világ",
+        "txtlength": 14105
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/gazdasag/20220813_Mennyire_hianyoznak_az_oroszok_a_magyar_turizmusbol",
+        "h1": "Mennyire hiányoznak az oroszok a magyar turizmusból?",
+        "txtlength": 14020
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/dr-mikos-borbala-sma-zolgensma-vakcina-bethesda-gyermekkorhaz/g2407e0?sl_ps=d_10",
+        "h1": "Mikos doktornő, az SMA-s gyerekek védőangyala: 23 beteg kicsinek adták be csapatával idehaza a 750 milliós vakcinát",
+        "txtlength": 12948
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kultura/2022/08/13/justin-bieber-koncert-sziget-fesztival-beszamolo/",
+        "h1": "Justin Bieber érzéki pillantásokkal és kisfiús sármmal próbálta egyesíteni a Sziget népét",
+        "txtlength": 12741
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kult/2022/08/13/veiszer-alinda-kollar-klemencz-laszlo-interju-identitas-kozosseg-zene-alkotas",
+        "h1": "Kollár-Klemencz László: Úgy nézett ki, hogy ez egy nagyon jó ország lesz",
+        "txtlength": 11755
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/08/13/tomegesen-pusztulnak-a-halak-az-odera-folyoban-a-lengyel-kormany-mar-a-hadsereget-is-bevetette",
+        "h1": "Tömegesen pusztulnak a halak az Odera folyóban, a lengyel kormány már a hadsereget is bevetette",
+        "txtlength": 11450
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/08/12/a-korhazak-es-szocialis-intezmenyek-kivetelevel-minden-kozepuletet-csak-19-fokra-lehet-futeni-nemetorszagban",
+        "h1": "A kórházak és szociális intézmények kivételével minden középületet csak 19 fokra lehet fűteni Németországban",
+        "txtlength": 11350
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2022/08/12/podcast-haromharmad-huxit-eu-nepszavazas/",
+        "h1": "Orbán jobban szeret nyugaton lázadni, mint keleten csicska lenni",
+        "txtlength": 10746
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2022/08/12/erdok-tarvagas-torveny-orszagos-erdeszeti-egyesulet-allasfoglalas/",
+        "h1": "„Inkább a karunkat vágnánk le, mint egy védett erdőt” – állítja a legtekintélyesebb hazai erdészeti szervezet főtitkára",
+        "txtlength": 10489
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/sma-tomika-terapia-anyuka-penz-gyujtes/1eq1x95",
+        "h1": "Mennyből a pokolba! Gonosz játékot űzött a technika ördöge az SMA-s Tomika családjával: mégsem gyűlt össze a pénz",
+        "txtlength": 8244
+    },
+    {
         "hostname": "hataratkelo.blog.hu",
         "pagelink": "https://hataratkelo.blog.hu/2022/08/02/egy_varos_kulonos_szellemmel#c41520911",
         "h1": "Egy város különös szellemmel",
