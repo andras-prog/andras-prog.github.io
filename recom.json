@@ -1,5 +1,179 @@
 [
     {
+        "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/szilva-befozve",
+        "h1": "Szilva befőzve",
+        "txtlength": 10059
+    },
+    {
+        "hostname": "kiszamolo.hu",
+        "pagelink": "https://kiszamolo.hu/mennyire-haborus-ez-az-inflacio/",
+        "h1": "Mennyire háborús ez az infláció?",
+        "txtlength": 33208
+    },
+    {
+        "hostname": "efesasanisimasa.com",
+        "pagelink": "https://efesasanisimasa.com/2022/08/03/a-holtak-nem-halnak-meg-the-dead-dont-die-2019/",
+        "h1": "A holtak nem halnak meg (The Dead Don’t Die, 2019)",
+        "txtlength": 7327
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220810_arato_andras_hide_the_pain_harold_interju",
+        "h1": "Eszméletlen jó, hogy így alakult az életem – Arató András, „Hide the Pain Harold” a Mandinernek",
+        "txtlength": 31104
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/global/20220814/o-fogja-vezetni-europa-egyik-atomhatalmat-ideje-felkeszulni-561139",
+        "h1": "Ő fogja vezetni Európa egyik atomhatalmát? - Ideje felkészülni",
+        "txtlength": 28388
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220810_edzenek_a_republikanusok_a_felidos_valasztasra",
+        "h1": "Edzenek a republikánusok a félidős választásra",
+        "txtlength": 24510
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/egeszseg/20220812/rezsiemeles-2022-20-ot-is-megterithet-az-allam-a-gaz-es-aramszamladbol-igy-lehet-igenyelni-1127850",
+        "h1": "Rezsiemelés 2022: 20%-ot is megtéríthet az állam a gáz- és áramszámládból - így lehet igényelni",
+        "txtlength": 22562
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/global/20220813/moszkva-a-balkanon-nyitna-ujabb-frontot-a-kreml-propagandagepezete-is-hozzajarult-a-koszovoi-helyzet-kielezesehez-561087",
+        "h1": "Moszkva a Balkánon nyitna újabb frontot? – A Kreml propagandagépezete is hozzájárult a koszovói helyzet kiélezéséhez",
+        "txtlength": 22263
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220814_magyar_ostortenet_biborbanszuletett_konstantin_bollok_adam_b_szabo_janos",
+        "h1": "Újraelemezték a magyar őstörténet legfontosabb írott forrását – íme az eredmények!",
+        "txtlength": 22247
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/biztositas/20220811/draga-osz-var-a-magyar-szulokre-csak-igy-uszhatjak-meg-a-vaskos-szamlat-ha-beut-a-baj-1127778",
+        "h1": "Drága ősz vár a magyar szülőkre: csak így úszhatják meg a vaskos számlát, ha beüt a baj",
+        "txtlength": 21960
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/global/20220814/ijeszto-haderot-rakott-ossze-kina-de-van-egy-terulet-ahol-csunyan-le-vannak-maradva-560853",
+        "h1": "Ijesztő haderőt rakott össze Kína, de van egy terület, ahol csúnyán le vannak maradva",
+        "txtlength": 18736
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vilag/20220814/hivatalosan-is-elobujt-putyin-arnyekhadserege-mar-plakatokon-toboroznak-oroszorszagban/",
+        "h1": "Hivatalosan is előbújt Putyin árnyékhadserege, már plakátokon toboroznak Oroszországban",
+        "txtlength": 17428
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vallalat/20220812/az-egyik-leggazdagabb-kinai-uzletember-cege-igyekszik-magyarorszagon-keresztul-a-nemet-autogyarak-kozelebe-ferkozni/",
+        "h1": "Az egyik leggazdagabb kínai üzletember cége igyekszik Magyarországon keresztül a német autógyárak közelébe férkőzni",
+        "txtlength": 15907
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/gyerek/gyermek-erzelmi-intelligencia-fejlesztese/",
+        "h1": "Hogy erősítsd a gyerek érzelmi intelligenciáját? Kiegyensúlyozottabb és egészségesebb lesz",
+        "txtlength": 13755
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2022/08/14/a-hoseg-miatt-egyre-tobb-europai-orszagban-kuzdenek-a-szieszta-bevezeteseert",
+        "h1": "A HŐSÉG MIATT EGYRE TÖBB EURÓPAI ORSZÁGBAN KÜZDENEK A SZIESZTA BEVEZETÉSÉÉRT",
+        "txtlength": 10779
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/lajfhekk/grillezes-higienia/",
+        "h1": "Grillezés higiénia",
+        "txtlength": 8714
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://rangado.24.hu/nemzetkozi_foci/2022/08/13/fejeles-betiltasa-a-fiatal-focistaknal-demencia-prevencio/",
+        "h1": "Ne háborodjon fel a vehemens focidrukker apuka, ha nem engedik a gyerekének, hogy fejeljen. Legyen inkább hálás!",
+        "txtlength": 24023
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kultura/2022/08/14/gyilkossag-borton-hartay-csaba-matine/",
+        "h1": "Matiné: Egyik a haverját szúrta szíven, a másik agyonvert valakit, akit melegnek nézett",
+        "txtlength": 23585
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/tudomany/2022/08/14/rakosi-berija-kummunizmus-diktatura-nagy-imre-bukas-tortenelem/",
+        "h1": "Berija Rákosinak: Összetöröm a gerincét!",
+        "txtlength": 20016
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/szorakozas/2022/08/13/sziget-2022-stromae-belga-enekes-koncert-portre-interju",
+        "h1": "A Szigeten tért vissza a szupersztár, aki takarítónőkhöz és szexmunkásokhoz címez dalokat",
+        "txtlength": 16206
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/gazdasag/20220814_Az_augusztusi_inflacioba_mar_a_piaci_uzemanyagarat_is_beleszamolja_a_KSH",
+        "h1": "Az augusztusi inflációba már a piaci üzemanyagárat is beleszámolja a KSH",
+        "txtlength": 14591
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/szorakozas/2022/08/13/tokeletlensegeben-is-remek-a-sandman-sorozat",
+        "h1": "Tökéletlenségében is remek a Sandman-sorozat",
+        "txtlength": 13595
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/gazdasag/2022/08/13/aszaly-vesztesegek-alfold-mezogazdasag-turkeve-szollosi-gabor-talaj-szarazsag",
+        "h1": "Két hónap aszályt semmilyen növény nem bír ki",
+        "txtlength": 13297
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/elet/20220813_Alfie_Templeman_interju_Sziget",
+        "h1": "Alfie Templeman a hvg.hu-nak: „Régen én is egy pöcs voltam, aztán rájössz, hogy semmi értelme bántani másokat”",
+        "txtlength": 12290
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/elet/20220814_sziget_calvin_harris",
+        "h1": "Sulibuli mesterfokon – ilyen volt Calvin Harris és a Sziget negyedik napja",
+        "txtlength": 11473
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/krimi/feldaravolta-nevelt-lanyat-az-orvos-a-a-balaton-kezfej-budapest-retro-gyilkossag/gn94jfk",
+        "h1": "Horror: feldarabolta nevelt lányát az orvos – Egy fővárosi tejivóban találták meg a fiatal nő kézfejét, a Balatonban a többi testrészét",
+        "txtlength": 9555
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/08/13/gyilkossagi-kiserlet-miatt-emeltek-vadat-salman-rushdie-tamadoja-ellen",
+        "h1": "Gyilkossági kísérlet miatt emeltek vádat Salman Rushdie támadója ellen",
+        "txtlength": 8809
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/08/13/egy-rendor-hazaspar-es-egy-tinedzser-mentett-eletet-nogradban",
+        "h1": "Egy rendőr házaspár és egy tinédzser mentett életet Nógrádban",
+        "txtlength": 8798
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/kulfold/nemetorszag-futes-kozepuletek-19-fok/svxml17",
+        "h1": "Mindenki fázni fog: Németországban elrendelték, hogy ősztől maximum 19 fokra fűthetik fel a középületeket",
+        "txtlength": 6878
+    },
+    {
         "hostname": "kulturpart.hu",
         "pagelink": "https://kulturpart.hu/2022/08/11/bemutatjak_kalotaszeg_kincseit",
         "h1": "BEMUTATJÁK KALOTASZEG KINCSEIT",
