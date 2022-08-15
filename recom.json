@@ -1,5 +1,173 @@
 [
     {
+        "hostname": "kiszamolo.hu",
+        "pagelink": "https://kiszamolo.hu/valsag-van/#more-119309",
+        "h1": "Válság van?",
+        "txtlength": 33036
+    },
+    {
+        "hostname": "kulturpart.hu",
+        "pagelink": "https://kulturpart.hu/2022/08/08/kezdodik_a_licit_a_balatonnal",
+        "h1": "KEZDŐDIK A LICIT A BALATONNÁL",
+        "txtlength": 7997
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220814_farkas_attila_marton_interju",
+        "h1": "„Addig tart a civilizációnk, amíg vannak könyveink” – Farkas Attila Márton a Mandinernek",
+        "txtlength": 47074
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220810_putyin_eroinek_vereseget_kell_szenvedniuk",
+        "h1": "Putyin erőinek vereséget kell szenvedniük – Radosław Sikorski a Mandinernek",
+        "txtlength": 25139
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220810_baljos_balti_arnyak",
+        "h1": "Baljós balti árnyak",
+        "txtlength": 23501
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/uzlet/20220815/ozonlenek-a-robotok-a-munkahelyekre-vajon-mire-kepesek-az-uj-kollegak-560597",
+        "h1": "Özönlenek a robotok a munkahelyekre - vajon mire képesek az új kollégák?",
+        "txtlength": 22907
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/oktatas/20220815/oriasi-dagulassal-kozeledik-az-iskolakezdes-ez-rengeteg-magyar-szulonek-fog-fajni-1127918",
+        "h1": "Óriási drágulással közeledik az iskolakezdés: ez rengeteg magyar szülőnek fog fájni",
+        "txtlength": 20238
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vilag/20220815/van-ahol-mar-sikerult-atveszelni-az-energiavalsagot-15-szazalekos-sporolassal/",
+        "h1": "Van, ahol már sikerült átvészelni az energiaválságot 15 százalékos spórolással",
+        "txtlength": 19782
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/vasarlas/20220810/oriasit-robbantott-a-sziget-a-sor-72-az-asvanyviz-73-a-pizza-81-kal-dragabb-mint-legutobb-1127839",
+        "h1": "Óriásit robbantott a SZIGET: a sör 72, az ásványvíz 73, a pizza 81%-kal drágább, mint legutóbb",
+        "txtlength": 18320
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.penzcentrum.hu/vasarlas/20220815/kegyetlen-elet-var-a-magyarokra-nem-latni-a-veget-a-dragulasnak-osszel-kezdodik-az-igazi-borzalom-1127993",
+        "h1": "Kegyetlen élet vár a magyarokra: nem látni a végét a drágulásnak, ősszel kezdődik az igazi borzalom",
+        "txtlength": 15509
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/elet/20220813/nem-tanul-jobban-a-gyerek-ha-a-szulo-segiti-a-hazi-feladat-megirasaban/",
+        "h1": "Nem tanul jobban a gyerek, ha a szülő segíti a házi feladat megírásában",
+        "txtlength": 15460
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/ingatlan/20220815/irigykedhetunk-ezeknek-a-hazaknak-meg-sem-kottyan-az-egekig-elszallo-rezsikoltseg-560109",
+        "h1": "Irigykedhetünk? - Ezeknek a házaknak meg sem kottyan az egekig elszálló rezsiköltség",
+        "txtlength": 14862
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2022/08/15/hamisitott-eredmenyekre-alapozhattak-az-elmult-16-ev-alzheimer-kutatasainak-jo-reszet",
+        "h1": "HAMISÍTOTT EREDMÉNYEKRE ALAPOZHATTÁK AZ ELMÚLT 16 ÉV ALZHEIMER-KUTATÁSAINAK JÓ RÉSZÉT",
+        "txtlength": 13326
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/szuloseg/iskola-egyenruha/",
+        "h1": "iskola egyenruha",
+        "txtlength": 11897
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/ezo/heti_horoszkop/202233/",
+        "h1": "Heti horoszkóp augusztus 15-től 21-ig: a Bak új fejezetet kezd, a Skorpió lehetőséget kap",
+        "txtlength": 10096
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/komplex/2022/08/15/a-nagy-repohar-mizeria-atveres-greenwashing-vagy-a-bolygo-megmentese",
+        "h1": "\n      A nagy repohárőrület: átverés, greenwashing vagy a bolygó megmentése?\n    ",
+        "txtlength": 30721
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2022/08/15/budapest-lakasmaffia-bunszervezet-elkoveto-feljelentes-vizsgalat-rendorfokapitany/",
+        "h1": "Könyörög a belvárosi lakásmaffia tagja, hogy hallgassák ki, de feljelenteni is alig tudta magát",
+        "txtlength": 16332
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/szorakozas/2022/08/15/a-legjobb-nagyszinpados-koncertet-adta-a-tame-impala-de-ez-csak-keveseket-erdekelt",
+        "h1": "A Sziget legjobb nagyszínpados koncertjével nem tudott mit kezdeni a gyér tömeg",
+        "txtlength": 15564
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/elet/20220813_Haboru_a_garazsban_avagy_hogy_lett_egy_nemet_horogkeresztes_ingbol_a_macskak_takaroja",
+        "h1": "Háború a garázsban, avagy hogy lett egy német horogkeresztes ingből a macskák takarója",
+        "txtlength": 14020
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kultura/2022/08/14/podcast-filezo-mark-szonja-edesem-tortamuhely-cukraszda-bezaras-gasztronomia/",
+        "h1": "Ha az emberek nem tudják megfizetni a drága süteményeket, meg kell őket tanítani sütni",
+        "txtlength": 13719
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2022/08/15/beb-brunner-imre-polgarmester-arveres-ingatlan-vegrehajtas/",
+        "h1": "A polgármester csapott le a bajba került család házára, kisgyerekeikkel mehetnek isten hírével",
+        "txtlength": 13129
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/08/15/osmagyar-flow-vibe",
+        "h1": "Ősmagyar flow & vibe",
+        "txtlength": 13013
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/vilag/20220815_orosz_ukran_pp",
+        "h1": "Oroszország egyszerre építi kapcsolatait Észak-Koreával és a talibánnal – a háború hétfői eseményei",
+        "txtlength": 10744
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/kultura/20220815_tame_impala_sziget",
+        "h1": "Az elszállás ünnepe – a Tame Impala és más izgalmak a Sziget utolsó előtti napján",
+        "txtlength": 10645
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/08/15/teheran-rushdie-csak-maganak-koszonheti-hogy-megprobaltak-meggyilkolni",
+        "h1": "Teherán: Rushdie csak magának köszönheti, hogy megpróbálták meggyilkolni",
+        "txtlength": 9598
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/zacc/2022/08/15/sziget-auchan-arak-inflacio-sor-alkohol-vasarlas",
+        "h1": "15 ezer forintot spórolhat egy szigetes berúgáson, aki az Auchanban veszi a piáját",
+        "txtlength": 9523
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/sztarvilag/filmklikk/a-tvr-het-ajanlja/gqyr6g6",
+        "h1": "A gyilkos járatról nincs leszállás",
+        "txtlength": 9192
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/veszprem-megye-negygyerekes-csalad-elarverezett-haz-polgarmester-kilakoltatas/wl5r66t?sl_ps=d_5",
+        "h1": "Felháborító: megvette a polgármester a négygyerekes Veszprém megyei család elárverezett házát, azonnal kilakoltatja őket",
+        "txtlength": 6858
+    },
+    {
         "hostname": "nosalty.hu",
         "pagelink": "https://www.nosalty.hu/recept/szilva-befozve",
         "h1": "Szilva befőzve",
