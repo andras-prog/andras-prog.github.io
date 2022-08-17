@@ -1,6 +1,192 @@
 [
     {
         "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/paradicsom-egeszben-telire-tartositoszer-nelkul",
+        "h1": "Paradicsom egészben, télire - tartósítószer nélkül",
+        "txtlength": 20432
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/harcsapaprikas-turos-csuszaval-sult-szalonnaval.recept",
+        "h1": "HARCSAPAPRIKÁS TÚRÓS CSUSZÁVAL",
+        "txtlength": 11698
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/meggyes-pite-grillen-sutve-video.recept",
+        "h1": "MEGGYES PITE GRILLEN SÜTVE",
+        "txtlength": 11240
+    },
+    {
+        "hostname": "kiszamolo.hu",
+        "pagelink": "https://kiszamolo.hu/a-huszadik-jobb-lesz/",
+        "h1": "A huszadik jobb lesz",
+        "txtlength": 30489
+    },
+    {
+        "hostname": "efesasanisimasa.com",
+        "pagelink": "https://efesasanisimasa.com/2022/08/17/az-unoka-the-grandson-2021/",
+        "h1": "Az unoka (The Grandson, 2021)",
+        "txtlength": 8621
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220809_kiskoruak_streaming_szolgaltatok_disney_mesek_nemi_szerepek_csalad_iskola_vedelem_lmbtq_pszichologia_mentalhigiene_hal_melinda",
+        "h1": "A gond ott kezdődik, amikor a férfiakat „feminizálják”, az anyákat pedig „férfiasítani” akarják – Hal Melinda a Mandinernek",
+        "txtlength": 24847
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220816_a_perspektiva_nelkuli_orszag_egy_ev_a_talibokkal",
+        "h1": "A perspektíva nélküli ország – egy év a tálibokkal",
+        "txtlength": 21818
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/kozelet/20220817/a-fesztival-ami-ingyenes-de-meg-erdogan-fia-is-eljott-ra-mit-jelent-a-keleti-nyitasban-a-kurultaj/",
+        "h1": "A fesztivál, ami ingyenes, de még Erdogan fia is eljött rá – mit jelent a keleti nyitásban a Kurultáj?",
+        "txtlength": 20933
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220816_harci_helikopterek_van_vagy_nincs_jovojuk_a_hadviselesben",
+        "h1": "Harci helikopterek – van vagy nincs jövőjük a hadviselésben?",
+        "txtlength": 20055
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20220817/bod-peter-akos-egy-uj-vilagban-kerult-magyarorszag-a-leminosites-kuszobere-561567",
+        "h1": "Bod Péter Ákos: egy új világban került Magyarország a leminősítés küszöbére",
+        "txtlength": 17740
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/otthon/20220814/undorito-csotanyok-lepik-el-magyar-otthonokat-komoly-betegseget-okozhatnak-egy-vagyon-az-irtas-1127821",
+        "h1": "Undorító csótányok lepik el magyar otthonokat: komoly betegséget okozhatnak, egy vagyon az irtás",
+        "txtlength": 16442
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/otthon/20220816/csunyan-elszalltak-az-alapanyagarak-lassan-tenyleg-semmire-sem-eleg-a-felujitasi-tamogatas-1128000",
+        "h1": "Csúnyán elszálltak az alapanyagárak: lassan tényleg semmire sem elég a felújítási támogatás?",
+        "txtlength": 16146
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/kozelet/20220816/a-kormany-visszakozott-erdougyben-de-ezzel-a-magantulajdonosokat-hozhatja-jobb-helyzetbe/",
+        "h1": "A kormány visszakozott erdőügyben, de ezzel a magántulajdonosokat hozhatja jobb helyzetbe",
+        "txtlength": 16102
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/uzlet/20220817/kisebb-eses-a-magyar-tozsden-a-vartnal-jobb-gazdasagi-adatok-utan-561573",
+        "h1": "Kisebb esés a magyar tőzsdén a vártnál jobb gazdasági adatok után ",
+        "txtlength": 16084
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/szepseg/szepsegujdonsagok-augusztus-2022/",
+        "h1": "Sűrűbbé teszi a hajat, kipárnázza a ráncokat, halványítja a bőrhibákat - Augusztusi szépségkedvenceink",
+        "txtlength": 15905
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2022/08/17/joe-biden-alairta-az-amerikai-tortenelem-eddigi-legfontosabb-klimavedelmi-torvenyet",
+        "h1": "JOE BIDEN ALÁÍRTA AZ AMERIKAI TÖRTÉNELEM EDDIGI LEGFONTOSABB KLÍMAVÉDELMI TÖRVÉNYÉT",
+        "txtlength": 14517
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20220817/itt-a-vart-magyar-gdp-adat-hasitott-a-gazdasag-most-jon-a-lassulas-561579",
+        "h1": "Itt a várt magyar GDP-adat! Hasított a gazdaság, most jön a lassulás?",
+        "txtlength": 13110
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/lajfhekk/mobil-gps-auto/",
+        "h1": "Mobil GPS autó",
+        "txtlength": 8207
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kulfold/2022/08/16/trump-mar-a-lago-hazkutatas-razzia-fbi-biden-garland-visszaeles-titkos-titkositott-szigoruan-bizalmas-kormanyzti-iratok-buntetougy-nyomozas",
+        "h1": "Trump összevissza terel, miközben egyre súlyosabb dolgok derülnek ki a nála tartott házkutatásról",
+        "txtlength": 22568
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/eletmod/2022/08/17/lombik-program-harom-no-szemszogebol",
+        "h1": "Lombiktörténetek: ilyen az államosított rendszer belülről",
+        "txtlength": 20814
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/gazdasag/20220816_kata_kerdezz_felelek",
+        "h1": "Maradt még kérdése a kata átalakításáról? Most megválaszoljuk",
+        "txtlength": 16736
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kultura/2022/08/16/emily-ratajkowski-a-testem-konyv-kritika-feminizmus/",
+        "h1": "Emily Ratajkowski lemeztelenedett, hogy más már ne vetkőztethesse le",
+        "txtlength": 16576
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/kkv/20220817_benzinkut_nyitvatartas_augusztus_20_feher_kutak_Fuggetlen_Benzinkutak_Szovetsege_Mol",
+        "h1": "Lutri, melyik független benzinkút lesz nyitva pénteken és szombaton",
+        "txtlength": 13735
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/elet/20220817_menstruacios_szegenyseg_afacsokkentes_civilek",
+        "h1": "Se áfacsökkentés, se ingyen betét: a kormány számára nem létezik a menstruációs szegénység",
+        "txtlength": 13720
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kult/2022/08/16/egykoron-a-motorhead-koncertezett-a-partjan-mara-egy-pocsolya-maradt-a-debrecen-melletti-vekeri-tobol",
+        "h1": "A Debrecen melletti pocsolya, aminek a partján egykor a Motörhead koncertezett: Vekeri-tó",
+        "txtlength": 13484
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/08/17/ezt-nevezik-kormanyzasnak",
+        "h1": "Ezt nevezik kormányzásnak",
+        "txtlength": 13217
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/08/17/izrael-politikai-vezetoi-felhaborodtak-abbasz-berlini-holokausztozasa-miatt",
+        "h1": "Izrael politikai vezetői felháborodtak Abbász berlini holokausztozása miatt",
+        "txtlength": 12482
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2022/08/17/beb-brunner-imre-ingatlan-arveres-vegrehajtas-onkormanyzat/",
+        "h1": "Az önkormányzat állapította meg az elárverezett ingatlan árát, amit a polgármester vett meg",
+        "txtlength": 11913
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/szorakozas/2022/08/16/beres-anett-ayahuasca-szeansz-fokusz/",
+        "h1": "Béres Anett az ayahuasca-szeánszról: Én konkrétan a sátánt láttam",
+        "txtlength": 9674
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/krimi/farkas-ricsike-edesanyja-mergezes-gyilkossag-tragedia-uj-sziv/cph93k6",
+        "h1": "Megmérgezte az apa az új szíves Ricsike édesanyját: a kisfiú nem értette, mi történik, le is fotózta Zsuzsanna holttestét – videó",
+        "txtlength": 8822
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/wizz-air-parizs-utasok-otthagytak-keses-budapest-felhaborodas/31d1feq",
+        "h1": "Hatalmas a felháborodás, a Wizz Air ismét Párizsban hagyta a Budapestre tartó utasait: „Minden zárva! Még automata sincs! Semmit nem adtak inni vagy enni”",
+        "txtlength": 7895
+    },
+    {
+        "hostname": "nosalty.hu",
         "pagelink": "https://www.nosalty.hu/recept/paradicsomle-telire-tartositoszer-mentes",
         "h1": "Paradicsomlé télire - tartósítószer mentes",
         "txtlength": 16398
