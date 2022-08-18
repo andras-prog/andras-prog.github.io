@@ -1,6 +1,186 @@
 [
     {
         "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/bogres-vajas-pogacsa",
+        "h1": "Bögrés vajas pogácsa",
+        "txtlength": 14339
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/fish-chips.recept",
+        "h1": "FISH AND CHIPS",
+        "txtlength": 11620
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/tonhalas-rakott-burgonya.recept",
+        "h1": "TONHALAS RAKOTT BURGONYA",
+        "txtlength": 10807
+    },
+    {
+        "hostname": "kiszamolo.hu",
+        "pagelink": "https://kiszamolo.hu/ujra-elerhetoek-a-szechenyi-hitelek-vallalkozoknak/",
+        "h1": "Újra elérhetőek a Széchenyi hitelek vállalkozóknak",
+        "txtlength": 29983
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220818_usa_elovalasztas_republikanus_part_trump",
+        "h1": "Rendre győznek Trump jelöltjei a neokonok fölött az előválasztásokon",
+        "txtlength": 28580
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220818_orosz_ukran_haboru_ellentamadas",
+        "h1": "Jöhet-e a nagy ukrán ellentámadás?",
+        "txtlength": 20038
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220812_ukrajna_atomeromu_zaporizzsja_tamadas_csernobil",
+        "h1": "Mi történik a zaporizzsjai atomerőműnél?",
+        "txtlength": 19820
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/egeszseg/20220817/igy-veszelik-at-a-magyarok-a-hoseget-klima-nelkul-az-egeszsegevel-jatszik-aki-erre-nem-figyel-1128086",
+        "h1": "Így vészelik át a magyarok a hőséget klíma nélkül: az egészségével játszik, aki erre nem figyel",
+        "txtlength": 19724
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/oktatas/20220816/drasztikus-hibakon-buknak-nagyot-magyarok-szazezrei-eszrevetlenul-folyik-ki-a-penz-a-kezuk-kozul-1127995",
+        "h1": "Drasztikus hibákon buknak nagyot magyarok százezrei: észrevétlenül folyik ki a pénz a kezük közül",
+        "txtlength": 17580
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/deviza/20220818/szogezzuk-le-vegre-sem-a-rubel-sem-az-ukran-hrivnya-nem-hasonlithato-a-forinthoz-561751",
+        "h1": "Szögezzük le végre: sem a rubel, sem az ukrán hrivnya nem hasonlítható a forinthoz!",
+        "txtlength": 16725
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/global/20220818/harci-robotok-ukran-sztarfegyverek-szupermodern-tankok-egy-heten-at-villog-felelmetes-katonai-kepessegeivel-oroszorszag-561693",
+        "h1": "Harci robotok, ukrán sztárfegyverek, szupermodern tankok – Egy héten át villog félelmetes katonai képességeivel Oroszország",
+        "txtlength": 16267
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.penzcentrum.hu/utazas/20220818/figyelmeztet-a-mav-volanbusz-ezt-mindenkepp-tudnod-kell-mielott-utnak-indulsz-a-hetvegen-1128096",
+        "h1": "Figyelmeztet a MÁV, Volánbusz: ezt mindenképp tudnod kell, mielőtt útnak indulsz a hétvégén",
+        "txtlength": 14878
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/kozelet/20220818/fenntarthato-vagy-tovabb-kell-e-emelni-a-mar-megemelt-rezsiarakat/",
+        "h1": "Tovább kell-e emelni a már megemelt rezsiárakat?",
+        "txtlength": 14512
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/adat/20220816/orult-verseny-folyik-az-elsosokert-a-hipermarketek-kozott/",
+        "h1": "Őrült verseny folyik az elsősökért a hipermarketek között",
+        "txtlength": 14151
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2022/08/18/a-magyarorszagi-elektromos-halozat-nem-keszult-fel-a-napelemes-rendszerek-terjedesere",
+        "h1": "A MAGYARORSZÁGI ELEKTROMOS HÁLÓZAT NEM KÉSZÜLT FEL A NAPELEMES RENDSZEREK TERJEDÉSÉRE",
+        "txtlength": 11182
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/gyerek/okostelefon-gyereknek/",
+        "h1": "Mobil a gyereknek: ennél korábban nem ajánlott az iskolapszichológus szerint",
+        "txtlength": 10939
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/lajfhekk/mikrohullamu-tisztitasa/",
+        "h1": "mikrohullámú tisztítása",
+        "txtlength": 7987
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/belfold/2022/08/18/rendeles-hazhoz-szallitas-futar-zaklatas-szexualis-uzenet-lakcim-fenyegetes-foodpanda-telefonszam",
+        "h1": "Péniszlógatás és „mizu jóseggüm?” – Nők megrázó történetei zaklató futárokról",
+        "txtlength": 20429
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/belfold/2022/08/18/foldgaz-gazmezo-nyekpuszta-bekes-megye-kisnyek-sarkadkeresztur-kitermeles-kiemelt-beruhazas",
+        "h1": "Bízunk benne, ha az alvó gázmező most felébred, akkor itt beindul az élet",
+        "txtlength": 20403
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/kkv/20220818_magyar_buszgyartok_ikarus_kravtex_itk",
+        "h1": "Hiába a kormányzati hátszél és a beleölt pénz, a hazai buszgyártók nem tudnak remekelni",
+        "txtlength": 19795
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/fn/gazdasag/2022/08/18/kinai-akkumulatorgyar-nagyhatalom-szijjarto-peter/",
+        "h1": "Őrült tempót diktálnak az akkumulátorgyárak – idén több hazai beruházást jelentettek be, mint az előző öt évben összesen",
+        "txtlength": 17455
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kulfold/2022/08/17/lengyelorszag-eu-veto-jogallamisag-kulugy-euroszkepticizmus",
+        "h1": "Mindennel lőne az EU-ra a lengyel kormány, de magát találhatja el",
+        "txtlength": 17234
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kulfold/2022/08/18/afganisztan-usa-kina-kivonulas-talib-kormany-migracio-iszlam-allam/",
+        "h1": "Meglepően stabil maradt egy év alatt a tálib kormányzás",
+        "txtlength": 16269
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/elet-stilus/2022/08/17/klimavaltozas-pr-kampany-bizonytalansag-kornyezetszennyezes-usa/",
+        "h1": "A hazugság, mely megágyazott a klímaválság elszabadulásának",
+        "txtlength": 14629
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/08/18/irani-olaj-magyar-fak-amerikai-fordulatok",
+        "h1": "Iráni olaj, magyar fák, amerikai fordulatok",
+        "txtlength": 14082
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/vilag/20220817_haboru_osszefoglalo_175",
+        "h1": "Lvivben az ENSZ főtitkára, orosz támaszpontot semmisítettek meg az ukránok – ez történt a háború 175. napján",
+        "txtlength": 13324
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/08/18/300-milliard-forintra-perelt-be-egy-golfozo-egy-sportkommentatort-aki-szerinte-szemetsegeket-mondott-rola",
+        "h1": "300 milliárd forintra perelt be egy golfozó egy sportkommentátort, aki szerinte szemétségeket mondott róla",
+        "txtlength": 11344
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/vilag/20220818_lakohaz_civilek_haboru_ukrajna_harkiv",
+        "h1": "Az oroszok megint lakóházakat bombáztak Harkivban, fotók jöttek a pusztításról – a háború csütörtöki hírei",
+        "txtlength": 9964
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/krimi/kozma-utcai-borton-gyilkossag-tamadas-csicskaztatas/1pnd96l",
+        "h1": "Döbbenetes részletek a cellájában megölt rabról: megkínozták, majd ágyba fektették, betakarták",
+        "txtlength": 7992
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/wizzair-jarat-parizs-torles-utasok/tprc572",
+        "h1": "Több mint kétszáz utast hagyott a WizzAir Párizsban: még a júniusi járattörlés károsultjai sem kapták meg a pénzüket",
+        "txtlength": 7846
+    },
+    {
+        "hostname": "nosalty.hu",
         "pagelink": "https://www.nosalty.hu/recept/paradicsom-egeszben-telire-tartositoszer-nelkul",
         "h1": "Paradicsom egészben, télire - tartósítószer nélkül",
         "txtlength": 20432
