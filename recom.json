@@ -1,6 +1,180 @@
 [
     {
         "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/gorog-rakott-teszta",
+        "h1": "Görög rakott tészta",
+        "txtlength": 12354
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/kapros-lazactatar.recept",
+        "h1": "KAPROS LAZACTATÁR",
+        "txtlength": 10843
+    },
+    {
+        "hostname": "hataratkelo.blog.hu",
+        "pagelink": "https://hataratkelo.blog.hu/2022/08/13/furcsa_amerikaiak_szokatlan_maniak#c41527945",
+        "h1": "Furcsa amerikaiak, szokatlan mániák",
+        "txtlength": 66675
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20220818/inflacio-2022-veszelyben-a-nyugdijak-es-a-megtakaritasok-igy-vedekezhetsz-az-inflacio-ellen-561979",
+        "h1": "Infláció 2022: veszélyben a nyugdíjak és a megtakarítások, így védekezhetsz az infláció ellen",
+        "txtlength": 41550
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220819_arcus_temporum_pannonhalma_dejcsics_konrad",
+        "h1": "„Magyarországért imádkozunk és dolgozunk” – Dejcsics Konrád pannonhalmi szerzetes a Mandinernek",
+        "txtlength": 24448
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220819_meta_facebook_mesterseges_intelligencia",
+        "h1": "Az oroszokat megérti, Orbánt dicséri, a liberálisok miatt szomorú a Facebook mesterséges intelligenciája",
+        "txtlength": 22529
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/otthon/20220815/kevesen-tudjak-de-igy-15-25-ot-is-sporolhatsz-a-futesen-nem-olcso-de-jo-hamar-megterulhet-1127914",
+        "h1": "Kevesen tudják, de így 15-25%-ot is spórolhatsz a fűtésen: nem olcsó, de jó hamar megtérülhet",
+        "txtlength": 20912
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220819_oroszorszag_terrorizmus_szponzor_usa",
+        "h1": "Oroszország, mint a terrorizmus szponzora?",
+        "txtlength": 20591
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/gazdasag/20220815/jo-ha-tudjuk-ezek-az-arulkodo-jelek-ha-csalok-akarjak-megszerezni-a-penzunket-1127867",
+        "h1": "Jó, ha tudjuk: ezek az árulkodó jelek, ha csalók akarják megszerezni a pénzünket",
+        "txtlength": 18441
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/kozelet/20220819/trukkos-jatek-indult-a-napelemekre-felveheto-allami-tamogatas-kijatszasara/",
+        "h1": "Trükkös játék indult a napelemekre felvehető állami támogatás kijátszására",
+        "txtlength": 16512
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/ingatlan/20220819/klimaveszhelyzet-es-energetikai-valsag-pedig-mi-idoben-szoltunk-562107",
+        "h1": "Klímavészhelyzet és energetikai válság: \"Pedig mi időben szóltunk”",
+        "txtlength": 16286
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/penz/20220818/mi-magyarazza-a-forint-arfolyamanak-ilyen-durva-ingadozasat/",
+        "h1": "Mi magyarázza a forint árfolyamának ilyen durva ingadozását?",
+        "txtlength": 16075
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/bank/20220819/valami-nagyon-buzlik-a-magyar-bankbetetek-korul-562091",
+        "h1": "Valami nagyon bűzlik a magyar bankbetétek körül",
+        "txtlength": 15715
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2022/08/18/a-mama-regi-szoknyajaban-maradi-cigany-lanynak-tunnek-szoval-inkabb-nem-veszem-fel",
+        "h1": "A MAMA RÉGI SZOKNYÁJÁBAN MARADI CIGÁNY LÁNYNAK TŰNNÉK, SZÓVAL INKÁBB NEM VESZEM FEL",
+        "txtlength": 14690
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/utazas/szekesfehervar-aranybulla-emlekev/",
+        "h1": "Kihagyhatatlan úti cél idén a gyönyörű Székesfehérvár: így ünnepli a város a magyar történelem fontos eseményét",
+        "txtlength": 11469
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/szuloseg/terhessegi-teszt-tortenelem/",
+        "h1": "terhességi teszt történelem",
+        "txtlength": 11258
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/komplex/2022/08/18/mindenki-szamitogepe-ami-magyarorszagbol-jateknagyhatalmat-csinalt",
+        "h1": "\n      Mindenki számítógépe, ami Magyarországból játéknagyhatalmat csinált\n    ",
+        "txtlength": 38398
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/belfold/2022/08/19/arpad-kor-arpad-hazi-kiralyok-arviz-csatornarendszer-aszaly",
+        "h1": "Ezer éve még tudták a magyarok, mit csináljanak az árvizekkel",
+        "txtlength": 21923
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kulfold/2022/08/19/trump-fbi-republikanus-kovetoi-sorra-nyerik-az-elovalasztasokat-demokrata-usa",
+        "h1": "Működik a Trump-féle kiátkozás és áldás, de még kérdéses, hogy ez árt vagy használ",
+        "txtlength": 20247
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kulfold/2022/08/19/ukrajna-oroszorszag-haboru-hirszezes-biden-putyin-zelenszkij/",
+        "h1": "Hiába győzködte az amerikai hírszerzés az ukránokat, nem hitték el, hogy az oroszok tényleg háborút indítanak",
+        "txtlength": 18902
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2022/08/19/szallodaszovetseg-baldauf-vendeglatas-turizmus-interju/",
+        "h1": "A szállodaszövetség elnöke: Kétségbeesve hívnak fel kollégák, hogy akkor most mi lesz",
+        "txtlength": 17738
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/kkv/20220819_kata_kerdezz_felelek_2",
+        "h1": "Lehetek katás, ha gyesen vagyok? Meddig kell megszüntetnem a katás bt.-met? Ha maradt még kérdése a katával kapcsolatban, megválaszoljuk",
+        "txtlength": 16026
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kultura/2022/08/18/ahol-a-folyami-rakok-enekelnek-film-mozi-kritika-delia-owens/",
+        "h1": "Így kell egy remek regényből középszerű és teljesen felejthető filmet csinálni",
+        "txtlength": 15310
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/vilag/20220819_volodomir_zelenszkij_orosz_ukran_haboru_ukrajna",
+        "h1": "Zelenszkij: Az orosz „nukleáris zsarolás” az egyik legnagyobb kockázat – a háború pénteki hírei",
+        "txtlength": 11370
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/08/19/egeszsegkarosito-potencianovelot-vont-ki-a-forgalombol-a-nebih",
+        "h1": "Egészségkárosító potencianövelőt vont ki a forgalomból a Nébih",
+        "txtlength": 11082
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/08/19/betort-a-lakasba-terrorizalta-a-macskat-majd-a-kanapen-hesszelt-egy-foka-uj-zelandon",
+        "h1": "Betört a lakásba, terrorizálta a macskát, majd a kanapén hesszelt egy fóka Új-Zélandon",
+        "txtlength": 10790
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/tudomany/20220817_dijcsomag_mobil_mobilozas_mobiltelefon_nmhh",
+        "h1": "Ezt mind érezzük: drágult a mobilozás, de több is jár a pénzünkért",
+        "txtlength": 9912
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/sztarvilag/filmklikk/tvr-het-tokeletes-sorozat-veszhelyzet/r56h2ff",
+        "h1": "A kisrutintól a nagyrutinon át a defibrillátorig – Így találták fel a tökéletes tévésorozatot: Vészhelyzet",
+        "txtlength": 8796
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/veszhelyzet/egy-hos-tuzolto-megrazo-vallomasa-a-mecseki-tuzrol/bv2vkbq?sl_ps=d_3",
+        "h1": "„Küzdöttünk mi, tűzoltók, erdészek, lakók, civilek” – Egy hős tűzoltó megrázó vallomása a mecseki tűzvészről",
+        "txtlength": 8708
+    },
+    {
+        "hostname": "nosalty.hu",
         "pagelink": "https://www.nosalty.hu/recept/bogres-vajas-pogacsa",
         "h1": "Bögrés vajas pogácsa",
         "txtlength": 14339
