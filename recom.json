@@ -1,6 +1,174 @@
 [
     {
         "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/hazi-vajas-kiskifli",
+        "h1": "Házi vajas kiskifli",
+        "txtlength": 13538
+    },
+    {
+        "hostname": "kiszamolo.hu",
+        "pagelink": "https://kiszamolo.hu/marad-a-babavaro-es-a-csok-is/",
+        "h1": "Marad a babaváró és a CSOK is",
+        "txtlength": 23669
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220821_jasz_attila_irodalom_elet",
+        "h1": "Egy aranykori élet lehetősége – Jász Attila költő a Mandinernek",
+        "txtlength": 30880
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/vasarlas/20220818/tokeletes-trukk-az-olcsobb-bolti-nagybevasarlashoz-egyre-tobb-magyar-el-vele-sokat-sporolhatnak-1128066",
+        "h1": "Tökéletes trükk az olcsóbb bolti nagybevásárláshoz: egyre több magyar él vele, sokat spórolhatnak",
+        "txtlength": 27652
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vilag/20220821/most-jott-el-igazan-a-veres-patthelyzet-ukrajnaban/",
+        "h1": "Most jött el igazán a véres patthelyzet Ukrajnában",
+        "txtlength": 25688
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/uzlet/20220821/ketsegbeesve-figyeljuk-hogy-mi-lesz-a-magyar-erdokkel-folytatodik-a-fakivagasos-huzavona-561627",
+        "h1": "Kétségbeesve figyeljük, hogy mi lesz a magyar erdőkkel - Folytatódik a fakivágásos huzavona?",
+        "txtlength": 25603
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/megtakaritas/20220819/rengeteg-csaladnak-jarhat-akar-40-ezer-forint-beiskolazasi-tamogatas-az-elelmesek-igy-csinaljak-1128116",
+        "h1": "Rengeteg családnak járhat akár 40 ezer forint beiskolázási támogatás: az élelmesek így csinálják",
+        "txtlength": 24527
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/global/20220821/sikerul-egyben-tartani-az-egykori-birodalom-utolso-darabjait-ne-fogadj-tul-nagy-tettel-562279",
+        "h1": "Sikerül egyben tartani az egykori birodalom utolsó darabjait? – Ne fogadj túl nagy téttel",
+        "txtlength": 23843
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220820_piszkos_penzek_zuckerberg_dollarok_soros_es_a_baloldali_mozgositas_amerikaban",
+        "h1": "Piszkos pénzek: Zuckerberg-dollárok, Soros és a baloldali mozgósítás Amerikában",
+        "txtlength": 22139
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vilag/20220820/a-cel-a-szen-dioxid-kibocsatas-csokkentese-volt-de-az-eredmeny-a-nemet-gazdasag-elgancsolasa-letts/",
+        "h1": "A cél a szén-dioxid kibocsátás csökkentése volt, de az eredmény a német gazdaság elgáncsolása lett",
+        "txtlength": 20298
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220820_nem_tul_jok_jakab_eselyei_egyszemelyes_part_korabbi_peldak",
+        "h1": "Nem túl jók Jakab esélyei a korábbi próbálkozások alapján",
+        "txtlength": 18297
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/global/20220820/az-orszag-felet-ehezes-fenyegeti-a-gazdasag-osszeomlott-ezt-ertek-el-a-talibok-egy-ev-alatt-562171",
+        "h1": "Az ország felét éhezés fenyegeti, a gazdaság összeomlott – Ezt érték el a tálibok egy év alatt",
+        "txtlength": 18127
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/egeszseg/alzheimer-kutatas-botrany/",
+        "h1": "Óriási botrány az Alzheimer-kutatásban: manipulált eredmények vezethették tévútra a tudósokat",
+        "txtlength": 12127
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2022/08/21/talaltak-egy-66-millio-eves-kratert-aminek-koze-lehet-a-dinoszauruszok-kihalasahoz",
+        "h1": "TALÁLTAK EGY 66 MILLIÓ ÉVES KRÁTERT, AMINEK KÖZE LEHET A DINOSZAURUSZOK KIHALÁSÁHOZ",
+        "txtlength": 10847
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/lajfhekk/porszivozas-hibak/",
+        "h1": "Porszívózás hibák",
+        "txtlength": 9409
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kultura/2022/08/21/egyszer-egy-kutya-beregi-tamas-matine-konyvajanlo/",
+        "h1": "Menhelyről örökbefogadott kutya mentette meg a pesti harmincas férfi életét",
+        "txtlength": 27272
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kulfold/2022/08/20/lengyel-magyar-baratsag-trianon-brusszel-haboru-orban/",
+        "h1": "Lengyel, magyar – két jó barát, együtt issza Brüsszel borát",
+        "txtlength": 24770
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2022/08/21/budapest-bike-maffia-nekunk-a-balaton-csaladok-atmeneti-otthona-menedekhaz-alapitvany/",
+        "h1": "„A hajléktalan ember is ember. Nyaralni emberi dolog. Nyaraljon a hajléktalan ember is”",
+        "txtlength": 18132
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/vilag/20220821_Megtamadtak_Tajvant_a_vorosok_de_a_kekek_eleg_jol_helytalltak",
+        "h1": "Megtámadták Tajvant a vörösök, de a kékek elég jól helytálltak",
+        "txtlength": 16034
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20220820_Hogyan_ismerjuk_fel_ha_egy_bunozo_hulye",
+        "h1": "Hogyan ismerjük fel, ha egy bűnöző hülye?",
+        "txtlength": 14282
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kulfold/2022/08/20/freya-rozmar-norvegia-kiloves",
+        "h1": "A rozmár, akinek az emberek miatt kellett meghalnia",
+        "txtlength": 14245
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/08/20/hetvegi-olvasnivalo-a-teszteket-atvero-covidtol-a-kereszeket-megzavaro-lampakig",
+        "h1": "Hétvégi olvasnivaló a teszteket átverő covidtól a kérészeket megzavaró lámpákig",
+        "txtlength": 13511
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/szorakozas/2022/08/21/fekete-zaj-fesztival-matra-sasto-zene",
+        "h1": "A fesztivál, ami még mindig furcsán terápiás élmény",
+        "txtlength": 13380
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/08/20/elmarad-a-tuzijatek",
+        "h1": "Elmarad a tűzijáték",
+        "txtlength": 12186
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/szent-istvan-nap-kulonleges-programok-budapest-ikonikus-helyszinein/52wrr8s",
+        "h1": "Szent István-nap: különleges programok Budapest ikonikus helyszínein",
+        "txtlength": 11220
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/foto/2022/08/20/jansen-van-staden-microlight",
+        "h1": "Az apja nem az az ember volt, akit ő ismert",
+        "txtlength": 11047
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/vilag/20220821_Megoltek_Putyin_ideologusanak_a_lanyat",
+        "h1": "Megölték Putyin ideológusának a lányát, Donbászban súlyos harcok vannak",
+        "txtlength": 8709
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/augusztus-20-tuzijatek-idojaras-elorejelzes-vihar-2006-kaosz/tl8hp3t",
+        "h1": "Fények és csillogás helyett káosz, könnyek és tragédiák – A nap, amikor Magyarország a legrémesebb augusztus 20-i ünnepét élte meg",
+        "txtlength": 7871
+    },
+    {
+        "hostname": "nosalty.hu",
         "pagelink": "https://www.nosalty.hu/recept/szabolcsi-olcso-almas-porlos-almas-pite-8",
         "h1": "Szabolcsi olcsó almás porlós - Almás pite 8.",
         "txtlength": 15220
