@@ -1,5 +1,173 @@
 [
     {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/mandulas-bundaban-sult-pisztrang-zelleres-burgonyapurevel.recept",
+        "h1": "MANDULÁS BUNDÁBAN SÜLT PISZTRÁNG ZELLERES BURGONYAPÜRÉVEL",
+        "txtlength": 10964
+    },
+    {
+        "hostname": "kulturpart.hu",
+        "pagelink": "https://kulturpart.blog.hu/2022/08/20/tuzijatek_helyett_695",
+        "h1": "TÜZIJÁTÉK HELYETT",
+        "txtlength": 12110
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220817_kulfold_ukrajna_termofold",
+        "h1": "Kié az ukrán anyaföld?",
+        "txtlength": 23446
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/otthon/20220821/mar-tobb-mint-2000-magyar-autoson-kattant-a-bilincs-kevesen-tudjak-hogy-ez-buncselekmeny-1128174",
+        "h1": "Már több mint 2000 magyar autóson kattant a bilincs: kevesen tudják, hogy ez bűncselekmény",
+        "txtlength": 22164
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220822_amerika_kina_haboru_esely",
+        "h1": "Mennyi esély van egy nagy kínai-amerikai háborúra?",
+        "txtlength": 20214
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/uzlet/20220822/a-4ig-megveszi-a-vodafone-magyarorszagot-nemzeti-tavkozlesi-ceget-hoznak-letre-a-magyar-allammal-562349",
+        "h1": "A 4iG megveszi a Vodafone Magyarországot - Nemzeti távközlési céget hoznak létre a magyar állammal",
+        "txtlength": 19672
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/uzlet/20220822/fokozodik-a-nyomas-csunyan-lefordultak-a-tozsdek-562347",
+        "h1": "Fokozódik a nyomás, csúnyán lefordultak a tőzsdék ",
+        "txtlength": 18907
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.penzcentrum.hu/vasarlas/20220822/igy-arasztja-el-magyarorszagot-az-ukran-kinai-mez-dobbenetes-mit-rejthetnek-a-meregdraga-uvegek-1128198",
+        "h1": "Így árasztja el Magyarországot az ukrán, kínai méz: döbbenetes, mit rejthetnek a méregdrága üvegek",
+        "txtlength": 18236
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/vasarlas/20220822/igy-arasztja-el-magyarorszagot-az-ukran-kinai-mez-dobbenetes-mit-rejthetnek-a-meregdraga-uvegek-1128198",
+        "h1": "Így árasztja el Magyarországot az ukrán, kínai méz: döbbenetes, mit rejthetnek a méregdrága üvegek",
+        "txtlength": 18174
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220818_piko_andras_jozsefvaros_kaptalanfured_politika_udulo_viii_kerulet_gyermek_gyerek_felujitas_botrany",
+        "h1": "Amit lehetett, elrontottak: így bukhatja el saját strandját a VIII. kerület",
+        "txtlength": 16310
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2022/08/22/feldmar-andras-a-pszichedelikus-szerek-orvossagkent-terapia-nelkul-nem-sokat-ernek",
+        "h1": "FELDMÁR ANDRÁS: A PSZICHEDELIKUS SZEREK ORVOSSÁGKÉNT, TERÁPIA NÉLKÜL NEM SOKAT ÉRNEK",
+        "txtlength": 16240
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/tech/20220822/igy-teheted-produktivabba-az-uzleti-utazasaidat/",
+        "h1": "Így teheted produktívabbá az üzleti utazásaidat",
+        "txtlength": 14067
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vilag/20220819/furcsan-alakult-az-ukrajnat-elhagyo-elso-gabonaszallito-hajo-tortenete/",
+        "h1": "Furcsán alakult az Ukrajnát elhagyó első gabonaszállító hajó története",
+        "txtlength": 13971
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/terasz/dragul-az-iskolakezdes-2022/",
+        "h1": "Nagyon megdrágult az iskolakezdés, de van ennél nagyobb baj is: ez derült ki a friss felmérésből",
+        "txtlength": 11656
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/szuloseg/etikett-mobil-ajandek/",
+        "h1": "etikett mobil ajándék",
+        "txtlength": 9682
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2022/08/22/jakab-peter-nep-partjan-jobbik-fidesz-interju/",
+        "h1": "Jakab Péter: Megbántam, amit a választás éjjelén tettem, ma már odaállnék Márki-Zay mögé",
+        "txtlength": 31188
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kulfold/2022/08/21/orosz-ukran-haboru-helyzetelemzes-racz-andras-krim-felsziget-zaporizzsja",
+        "h1": "Szándékosan ködösítenek az ukránok a krími robbanásoknál, orosz kézen maradhat az atomerőmű",
+        "txtlength": 25870
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/sport/2022/08/21/serena-williams-tenisz-visszavonulas-rasszizmus-szexizmus-harcok/",
+        "h1": "„Macskanő-ruha érdekel valakit?” – búcsúzik Serena Williams, aki akkor volt a legveszélyesebb, ha feldühítették",
+        "txtlength": 22141
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/elet/20220821_ahol_a_folyami_rakok_enekelnek_kritika_film_regeny_delia_owens",
+        "h1": "A gyilkossági ügybe keveredett írónő mocsári lánya a filmvásznon tért vissza",
+        "txtlength": 17653
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/gazdasag/2022/08/22/a-szakertelemre-valo-hivatkozas-olcso-bolsevista-trukk-a-kormany-a-rendeletei-es-a-szakmai-egyeztetes",
+        "h1": "A szakértelemre való hivatkozás olcsó bolsevista trükk? – a kormány, a rendeletei és a szakmai egyeztetés",
+        "txtlength": 16605
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/eletmod/2022/08/22/nemetorszag-utazas-9-euros-jegy-vonat",
+        "h1": "Megpróbáltuk beutazni Németországot 9 euróból. Nem kellett volna",
+        "txtlength": 14913
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kulfold/2022/08/22/zelenszkij-orosz-ukran-haboru-percrol-percre-elo-augusztus-22-donbasz/",
+        "h1": "Zelenszkij: Ha ez az aljas kirakatper folytatódik, nem tárgyalunk többé az oroszokkal",
+        "txtlength": 14898
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/08/21/liz-cheney-hadat-uzent-a-trumpista-politikusoknak",
+        "h1": "Liz Cheney hadat üzent a trumpista politikusoknak",
+        "txtlength": 9821
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/08/22/megsem-ujitjak-fel-a-keszthelyi-ovodat-vissza-kell-fizetni-a-200-millios-unios-tamogatast",
+        "h1": "Mégsem újítják fel a keszthelyi óvodát, vissza kell fizetni a 200 milliós uniós támogatást",
+        "txtlength": 9796
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/kkv/20220822_EU_tamogatas_Keszthely_ovoda_OLAF_NAV",
+        "h1": "200 milliós uniós támogatásból kezdtek el felújítani egy óvodát Keszthelyen, de inkább lebontják",
+        "txtlength": 8638
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/tudomany/20220822_dns_szures_betegeseg_rak_szivbetegseg_ausztralia",
+        "h1": "DNS-szűrést indít Ausztrália, hogy felmérje a rák- és a szívbetegségek kockázatát",
+        "txtlength": 8505
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/krimi/rettego-romak-gyilkossagok-tatarszentgyorgy-cs-istvan-szabadult/k79bn8g",
+        "h1": "Visszatért a rettegés Tatárszentgyörgyre: kapával és kaszával várják a romagyilkos banda most szabadult sofőrjét",
+        "txtlength": 8008
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/lakastuz-sziget-buli-kutyak-husky-elpusztultak/r0vrljq?sl_ps=d_10",
+        "h1": "„Inkább laknánk a híd alatt velük, mint a nagy házban nélkülük” – Amíg az állatvédő a Szigeten bulizott, lakástűzben meghaltak a kedvencei",
+        "txtlength": 7432
+    },
+    {
         "hostname": "nosalty.hu",
         "pagelink": "https://www.nosalty.hu/recept/hazi-vajas-kiskifli",
         "h1": "Házi vajas kiskifli",
