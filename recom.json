@@ -1,5 +1,173 @@
 [
     {
+        "hostname": "kiszamolo.hu",
+        "pagelink": "https://kiszamolo.hu/mit-tegyel-ha-mar-nem-eleg-a-fizetesed/",
+        "h1": "Mit tegyél, ha már nem elég a fizetésed?",
+        "txtlength": 41266
+    },
+    {
+        "hostname": "kulturpart.hu",
+        "pagelink": "https://kulturpart.blog.hu/2022/08/18/horvatorszag_most_a_legelerhetobb",
+        "h1": "HORVÁTORSZÁG MOST A LEGELÉRHETŐBB",
+        "txtlength": 6167
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/kozelet/20220823/mar-a-tuzijatek-dontes-elott-kirugassal-fenyegettek-a-meteorologusokat/",
+        "h1": "Már a tűzijáték-döntés előtt kirúgással fenyegették a meteorológusokat",
+        "txtlength": 26897
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220817_borbas_marcsi_interju",
+        "h1": "„Eljött az az idő, amikor az emberek kétszer is meggondolják, mire adják ki a pénzüket” – Borbás Marcsi a Mandinernek",
+        "txtlength": 26444
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/vasarlas/20220823/keves-magyar-tud-a-lehetosegrol-igy-kaphat-barki-ingyen-zoldseget-gyumolcsot-ruhat-butort-1128233",
+        "h1": "Kevés magyar tud a lehetőségről: így kaphat bárki ingyen zöldséget, gyümölcsöt, ruhát, bútort",
+        "txtlength": 24695
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/uzlet/20220824/gazrol-valo-levallas-meg-az-uj-lakasoknal-is-elkepeszto-a-gazfutes-aranya-562923",
+        "h1": "Gázról való levállás? - Még az új lakásoknál is elképesztő a gázfűtés aránya",
+        "txtlength": 23044
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220824_orosz_ukran_haboru_tortenet",
+        "h1": "Fél éve tört ki a háború, amely felforgatta világunkat",
+        "txtlength": 22074
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/global/20220824/varatlanul-megbukott-europa-egyik-legnepszerubb-vezetoje-most-jon-csak-az-igazi-fejetlenseg-562501",
+        "h1": "Váratlanul megbukott Európa egyik legnépszerűbb vezetője - Most jön csak az igazi fejetlenség",
+        "txtlength": 20716
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/karrier/20220822/mar-a-magyar-dolgozok-diktalnak-igy-harcolhatsz-ki-magasabb-fizut-tavmunkat-1128208",
+        "h1": "Már a magyar dolgozók diktálnak: így harcolhatsz ki magasabb fizut, távmunkát",
+        "txtlength": 19740
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220824_kivalo_meteorologusaink_vannak_klimakutatassal_bovulhet_az_omsz_feladatkore_palkovics_laszlo_a_mandinernek",
+        "h1": "Kiváló meteorológusaink vannak, klímakutatással bővülhet az OMSZ feladatköre – Palkovics László a Mandinernek",
+        "txtlength": 19728
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/elet/20220726/a-szomszed-gazszamlajat-is-fizethetik-a-tarsashazi-kis-lakasban-elok/",
+        "h1": "A szomszéd gázszámláját is fizethetik a társasházi kis lakásban élők",
+        "txtlength": 17643
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.penzcentrum.hu/auto/20220824/ilyen-osoreg-kocsik-futnak-a-hazai-utakon-meg-mindig-europa-roncstelepe-vagyunk-1128253",
+        "h1": "Ilyen ősöreg kocsik futnak a hazai utakon: még mindig Európa roncstelepe vagyunk?",
+        "txtlength": 15379
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2022/08/24/tobb-mint-europai-felhoszolgaltatas-a-biztonsagos-adatmegosztas-uj-szintjet-jelenti-a-gaia-x",
+        "h1": "TÖBB MINT EURÓPAI FELHŐSZOLGÁLTATÁS, A BIZTONSÁGOS ADATMEGOSZTÁS ÚJ SZINTJÉT JELENTI A GAIA-X",
+        "txtlength": 14460
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/gyerek/biztonsagosinternet-hotline/",
+        "h1": "Rengeteg pedofil tartalmat jelentettek a magyar hotline-on - Sokszor a szülők képeit lopják el",
+        "txtlength": 12429
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/szuloseg/gyerek-tanulas-nyar/",
+        "h1": "gyerek tanulás nyár",
+        "txtlength": 12403
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/szorakozas/2022/08/23/marvel-mcu-x-men-fantasztikus-negyes-disney-disney",
+        "h1": "Egyre nehezebb követni, merre halad a Marvel-univerzum, és ez nem véletlen",
+        "txtlength": 21385
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kulfold/2022/08/23/dugin-lanya-merenylet-megoltek-orosz-partizanok-gerillak-nemzeti-koztarsasagi-sereg",
+        "h1": "Dugin-merénylet: akárkik küldték, ilyen üzenetet rég látott Putyin országa",
+        "txtlength": 17756
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kulfold/2022/08/24/orosz-ukran-haboru-fel-eve-europa/",
+        "h1": "Így változtatta meg Európát a fél éve tartó háború",
+        "txtlength": 14216
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/gazdasag/2022/08/24/a-vodafone-tranzakcio-ujabb-reszletei-mit-es-mennyiert-venne-a-4ig-es-a-magyar-allam",
+        "h1": "A Vodafone-ügy újabb részletei: pontosan mit is vesz a magyar állam és a 4iG párosa?",
+        "txtlength": 13125
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/08/24/bunbakok-es-stromanok",
+        "h1": "Bűnbakok és strómanok",
+        "txtlength": 11547
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/tudomany/2022/08/23/tuzijatek-augusztus-20-omsz-idojaras/",
+        "h1": "„Legkorábban 16 óra tájban lehetett volna igent vagy nemet mondani egy esti budapesti viharról”",
+        "txtlength": 11429
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/08/24/a-twitter-elbocsatott-biztonsagi-fonoke-szerint-kulfoldi-hirszerzok-dolgoznak-a-cegnel",
+        "h1": "A Twitter elbocsátott biztonsági főnöke szerint külföldi hírszerzők dolgoznak a cégnél",
+        "txtlength": 10490
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/elet/20220824_Brutalis_lesz_a_rezsi_takarekos_evadot_tervez_a_Katona_Jozsef_Szinhaz",
+        "h1": "Brutális lesz a rezsi, takarékos évadot tervez a Katona József Színház",
+        "txtlength": 10436
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/ingatlan/20220824_energetika_tanusitvany_haladek_bank360",
+        "h1": "Még két év felmentést kaptak a lakásépítők a szigorú energiaszabályok alól",
+        "txtlength": 10048
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2022/08/24/energiamegtakaritas-rezsi-pecsi-egyetem-online-oktatas-epulet-bezaras/",
+        "h1": "Tízmilliárd forintos extra kiadást is jelenthet az energiaárak emelkedése a pécsi egyetemnek",
+        "txtlength": 9288
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/gazdasag.ingatlan/20220823_A_kormany_elszurta_az_uj_rezsiszabalyokat_ezert_kell_most_korrigalni",
+        "h1": "A kormány elszúrta az új rezsiszabályokat, ezért kell most korrigálni",
+        "txtlength": 8675
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/sztarvilag/filmklikk/a-tvr-het-ajanlat-elcserelt-elet-uj-brazil-telenovella-az-rtl-klub/nt0ne4c",
+        "h1": "Az ikertestvér lép a halott testvér helyébe: Elcserélt élet – Új brazil telenovella az RTL Klubon",
+        "txtlength": 7880
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/krimi/jollakot-ovodas-szexragadozo-haromeves-kislany-szexualis-eroszak/0bn9ldz",
+        "h1": "Jóllakott óvodás? Nem! Szexragadozó! Hároméves kislányt akart megerőszakolni a falu rossza",
+        "txtlength": 7875
+    },
+    {
         "hostname": "nosalty.hu",
         "pagelink": "https://www.nosalty.hu/recept/kortebefott-telire-tartositoszer-nelkul",
         "h1": "Körtebefőtt télire tartósítószer nélkül",
