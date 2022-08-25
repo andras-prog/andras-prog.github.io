@@ -1,5 +1,173 @@
 [
     {
+        "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/egyszeru-hazi-kenyer",
+        "h1": "Egyszerű házi kenyér",
+        "txtlength": 9987
+    },
+    {
+        "hostname": "kulturpart.hu",
+        "pagelink": "https://kulturpart.blog.hu/2022/08/20/pecsrol_erkezik_a_gorog_hos_a_millenarisra",
+        "h1": "PÉCSRŐL ÉRKEZIK A GÖRÖG HŐS A MILLENÁRISRA",
+        "txtlength": 5584
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/global/20220825/hat-honapja-tart-az-ukrajnai-haboru-ime-a-konfliktus-5-legfontosabb-tanulsaga-562949",
+        "h1": "Hat hónapja tart az ukrajnai háború - Íme a konfliktus 5 legfontosabb tanulsága",
+        "txtlength": 23783
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220824_korda_filmstudio_etyekwood_magyar_film",
+        "h1": "„Etyekwood” – áradnak a nemzetközi filmforgatások hazánkba",
+        "txtlength": 23428
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220825_nicaragua_keresztenyuldozes",
+        "h1": "Elhurcolt papok: így üldözi a keresztényeket a nicaraguai kommunista rezsim",
+        "txtlength": 23284
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/penz/20220825/az-arfolyam-ismeretlen-melysegekben-az-inflacio-80-szazalek-hogyan-tarthat-ki-megis-torokorszag/",
+        "h1": "Az árfolyam ismeretlen mélységekben, az infláció 80 százalék, hogyan tarthat ki mégis Törökország?",
+        "txtlength": 22447
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/gazdasag/20220824/az-1970-es-evek-nyersanyag-es-penzugyi-piaci-folyamatai-1128188",
+        "h1": "Az 1970-es évek nyersanyag és pénzügyi piaci folyamatai",
+        "txtlength": 22368
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220825_katonai_provokaciok_haboru",
+        "h1": "Katonai provokációk: meddig lehet feszegetni a pofonos ládákat?",
+        "txtlength": 21852
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/vasarlas/20220825/mukodik-az-osi-trukk-igy-sporolnak-az-aldi-auchan-lidl-tesco-kasszainal-most-az-elelmes-magyarok-1128193",
+        "h1": "Működik az ősi trükk: így spórolnak az Aldi, Auchan, Lidl, Tesco kasszáinál most az élelmes magyarok",
+        "txtlength": 20227
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.penzcentrum.hu/vasarlas/20220825/mukodik-az-osi-trukk-igy-sporolnak-az-aldi-auchan-lidl-tesco-kasszainal-most-az-elelmes-magyarok-1128193",
+        "h1": "Működik az ősi trükk: így spórolnak az Aldi, Auchan, Lidl, Tesco kasszáinál most az élelmes magyarok",
+        "txtlength": 20223
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20220824/elkepeszto-tanarhiannyal-nez-szembe-a-vilag-mi-lehet-erre-a-megoldas-562725",
+        "h1": "Elképesztő tanárhiánnyal néz szembe a világ, mi lehet erre a megoldás?",
+        "txtlength": 17884
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/penz/20220824/negyszeres-gazszamla-hatszoros-aramar-mindenki-szamol-hogyan-kerulhetok-el-a-bezarasok-a-kulturalis-szektorban/",
+        "h1": "Négyszeres gázszámla, hatszoros áramár – mindenki számol, hogyan kerülhetők el a bezárások a kulturális szektorban",
+        "txtlength": 17850
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2022/08/25/nagyszabasu-kiserletsorozat-bizonyitja-hogy-pofonegyszeru-modszerekkel-csokkentheto-a-partos-gyulolkodes",
+        "h1": "NAGYSZABÁSÚ KÍSÉRLETSOROZAT BIZONYÍTJA, HOGY POFONEGYSZERŰ MÓDSZEREKKEL CSÖKKENTHETŐ A PÁRTOS GYŰLÖLKÖDÉS",
+        "txtlength": 15466
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/gyerek/iskolakezdesi-tamogatas/",
+        "h1": "Akár 25 ezer forint iskolakezdési támogatás is jár: már csak pár hétig igényelhető",
+        "txtlength": 10761
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/szuloseg/iskolakezdes-ara/",
+        "h1": "iskolakezdés ára",
+        "txtlength": 8988
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/komplex/2022/08/25/mive-lettek-guantanamoban",
+        "h1": "\n      Mivé lettek Guantánamóban?\n    ",
+        "txtlength": 42065
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20220825_allami_elismeres_orban_kormany",
+        "h1": "Kimész az ajtón, balra fordulsz, fogsz egy lovagkeresztet",
+        "txtlength": 16577
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/belfold/2022/08/25/honvedseg-katonak-felmondasi-tilalom-kulonleges-jogrend-veszelyhelyzet",
+        "h1": "A honvédségben a parancsnok kvázi istenként dönthet emberek sorsáról",
+        "txtlength": 16409
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2022/08/25/pestszentimre-flor-ferenc-utca-onkormanyzat/",
+        "h1": "A kerület megcsonkította volna ingatlanjaikat, a lakók nyomozása furcsa eredményt hozott",
+        "txtlength": 16284
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kulfold/2022/08/24/orosz-ukran-haboru-fel-ev-ukrajna-oroszorszag-osszefoglalo",
+        "h1": "Fél éve támadta meg Ukrajnát Oroszország, most mindkét fél a következő lépésre készül",
+        "txtlength": 15795
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/fn/gazdasag/2022/08/25/mobilon-valaszthatnak-diakszamlat-foiskolasok-egyetemistak/",
+        "h1": "Mobilon választhatnak diákszámlát a főiskolások, egyetemisták",
+        "txtlength": 14972
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kulfold/2022/08/25/orosz-turistak-europaban-vizum-tilalom/",
+        "h1": "Meg lehet-e akadályozni, hogy orosz átlagpolgárok nyaraljanak Európában?",
+        "txtlength": 14571
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/08/25/az-eszt-kormanyfo-szerint-az-orosz-eu-s-vizumtilalom-bevezetese-nemzetbiztonsagi-es-hitelessegi-kerdes",
+        "h1": "Az észt kormányfő szerint az orosz EU-s vízumtilalom bevezetése nemzetbiztonsági és hitelességi kérdés",
+        "txtlength": 12309
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/08/25/bkk-lezarasok-lesznek-a-belvarosban-a-szombati-tuzijatek-miatt",
+        "h1": "BKK: Lezárások lesznek a belvárosban a szombati tűzijáték miatt",
+        "txtlength": 12150
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/cegauto/20220825_budapest_lezaras_forgalomkorlatozas_tuzijatek",
+        "h1": "A hétvégén pótolt tűzijáték miatt változik a közlekedés Budapesten, lezárások is lesznek",
+        "txtlength": 10325
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20220825_mnb_sablonfotok_beconomist",
+        "h1": "Sablonfotókból vadászták össze az MNB tréningprojektjét istenítő arcait",
+        "txtlength": 9527
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/traktor-tuntetes-gazdatuntetes-szabo-szervezo-varosliget-tuzijatek/3ngxy4s",
+        "h1": "1800 traktort vártak tüntetni, de csak József érkezett a helyszínre: bemutatjuk a magányos harcost",
+        "txtlength": 7642
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/szombat-augusztus-20-i-tuzijatek-budapest-belvarosi-lezarasok-bkk/rdkpbfv",
+        "h1": "Újra megbénul Budapest: mutatjuk, hol lesznek lezárások a szombati tűzijáték miatt",
+        "txtlength": 7156
+    },
+    {
         "hostname": "kiszamolo.hu",
         "pagelink": "https://kiszamolo.hu/mit-tegyel-ha-mar-nem-eleg-a-fizetesed/",
         "h1": "Mit tegyél, ha már nem elég a fizetésed?",
