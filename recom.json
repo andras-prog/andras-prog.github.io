@@ -1,5 +1,173 @@
 [
     {
+        "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/kremes-szilvas-pite",
+        "h1": "Krémes-szilvás pite",
+        "txtlength": 10766
+    },
+    {
+        "hostname": "hataratkelo.blog.hu",
+        "pagelink": "https://hataratkelo.blog.hu/2022/08/13/furcsa_amerikaiak_szokatlan_maniak",
+        "h1": "Furcsa amerikaiak, szokatlan mániák",
+        "txtlength": 78048
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/karrier/20220823/csunya-lesz-az-osz-rengeteg-magyar-dolgozonak-tizezreket-huz-ki-a-zsebukbol-a-sajat-munkahelyuk-1128238",
+        "h1": "Csúnya lesz az ősz rengeteg magyar dolgozónak: tízezreket húz ki a zsebükből a saját munkahelyük",
+        "txtlength": 21634
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/uzlet/20220827/itt-a-magyar-piacok-uj-versenytarsa-egyre-tobben-vesznek-itt-zoldseget-gyumolcsot-563421",
+        "h1": "Itt a magyar piacok új versenytársa: egyre többen vesznek itt zöldséget, gyümölcsöt",
+        "txtlength": 21122
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.penzcentrum.hu/egeszseg/20220827/kiderult-a-nagy-aszpirin-titok-ezt-jobb-ha-tudod-a-nepszeru-tablettarol-1128377",
+        "h1": "Kiderült a nagy aszpirin-titok: ezt jobb, ha tudod a népszerű tablettáról",
+        "txtlength": 20636
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/egeszseg/20220827/kiderult-a-nagy-aszpirin-titok-ezt-jobb-ha-tudod-a-nepszeru-tablettarol-1128377",
+        "h1": "Kiderült a nagy aszpirin-titok: ezt jobb, ha tudod a népszerű tablettáról",
+        "txtlength": 20621
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/kozelet/20220827/nem-a-hagyomanyos-noi-szerepek-hanem-a-jobb-munkaeropiaci-lehetosegek-novelik-a-szuletesszamot/",
+        "h1": "Nem a hagyományos női szerepek, hanem a jobb munkaerőpiaci lehetőségek növelik a születésszámot",
+        "txtlength": 19737
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220825_amnesty_international_mandiner_hetilap_dobozi_gergely_kulfold",
+        "h1": "Igazság által számkivetve – Ukrajnát kritizálta az Amnesty, össztűz alá került",
+        "txtlength": 18128
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220827_leszbikus_szal_a_meseben_igy_lephet_a_mediatanacs_a_netflix_mese_ugyeben",
+        "h1": "Leszbikus szál a mesében: így léphet a Médiatanács a Netflix-mese ügyében",
+        "txtlength": 16877
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220827_orban_viktor_frankfurter_allgemeine_zeitung_eu_kulfold_europai_bizottsag_fidesz",
+        "h1": "„Orbán már 2010 előtt romaellenes és antiszemita közhelyekkel dolgozott” – „fejti meg” a miniszterelnököt a Frankfurter Allgemeine Zeitung",
+        "txtlength": 16328
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20220826/kiderult-magyarorszag-mely-videkein-volt-a-leghalalosabb-a-koronavirus-563445",
+        "h1": "Kiderült, Magyarország mely vidékein volt a leghalálosabb a koronavírus",
+        "txtlength": 16197
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vilag/20220827/mar-annyira-draga-a-gaz-hogy-emiatt-kerulheti-el-a-legrosszabbat-europa/",
+        "h1": "Már annyira drága a gáz, hogy emiatt kerülheti el a legrosszabbat Európa",
+        "txtlength": 16079
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2022/08/27/nincs-mit-tenni-kinyirjuk-dezsot",
+        "h1": "NINCS MIT TENNI, KINYÍRJUK DEZSŐT",
+        "txtlength": 15828
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/lajfhekk/nem-szabad-a-mosogepbe-tenni/",
+        "h1": "Nem szabad a mosógépbe tenni",
+        "txtlength": 11586
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/otthon/kutfuras-szabalyozasa/",
+        "h1": "Ki hol fúrathat kutat, és mennyibe kerül? Egyre inkább fenyeget a tartós vízhiány",
+        "txtlength": 10054
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2022/08/27/moldova-gyorgy-tisztelet-komlonak-banya-szen-riport/",
+        "h1": "Tisztelet Komlónak, tisztelet Moldova Györgynek",
+        "txtlength": 35619
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kultura/2022/08/27/dugina-merenylet-alekszandr-dugin-ideologus-vlagyimir-putyin-oroszorszag-babona-haboru-ukrajna-gyilkossag-ivan-iljin-fasizmus/",
+        "h1": "Dugin csak egy a misztikus, orosz birodalmi gondolkodók hosszú sorában",
+        "txtlength": 23295
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kulfold/2022/08/26/orosz-ukran-haboru-percrol-percre-elo-kozvetites-augusztus-26/",
+        "h1": "A NATO-nak szüksége van egy erős szövetségesre az északi sarkvidéken",
+        "txtlength": 22937
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/kultura/20220826_Rakay_Philip_Nem_tudok_belepni_a_Pilvaxba_ugy_hogy_ne_facsarodna_ossze_a_szivem",
+        "h1": "És azt ismerik, amikor Petőfinek hatmilliárdból esőt is csinálnak a Talpra magyarhoz?",
+        "txtlength": 18211
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/eletmod/2022/08/26/pink-education-allami-szamvevoszek-tanulmany-reakciok",
+        "h1": "Nem a nők arányával van baj – a boszorkányüldözés korszakát idéző gondolatok ezek",
+        "txtlength": 16987
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/sport/2022/08/26/a-ferencvaros-orulhet-az-europa-liganak-de-nem-soporheti-szonyeg-ala-a-problemait-sem",
+        "h1": "A Ferencváros örülhet az Európa-ligának, de nem söpörheti szőnyeg alá a problémáit sem",
+        "txtlength": 16652
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/kkv/20220826_urban_betyar_sztori",
+        "h1": "Az étterem, ahol nemcsak Rózsa Sándor, de az egész 19. század is megelevenedik",
+        "txtlength": 15448
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/eszkombajn/2022/08/27/no-honalj-lab-borotvalas-szor-reklamipar",
+        "h1": "Évtizedes munkájába került a reklámiparnak, mire rávették a nőket, hogy szőrtelenítsenek",
+        "txtlength": 12483
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/08/26/a-tomeggyilkos-anders-breivik-ismet-beperli-a-norveg-kormanyt-emberi-jogai-korlatozasa-miatt",
+        "h1": "A tömeggyilkos Anders Breivik ismét beperli a norvég kormányt emberi jogai korlátozása miatt",
+        "txtlength": 11131
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/kulfold/holegballon-parizs-szetvertek/hlx0vze",
+        "h1": "Kénszagú szörnyetegnek hitték: 239 éve szállt földre az ördögi szerkezet, az emberek vasvillákkal pusztították el",
+        "txtlength": 10788
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/08/26/az-oroszok-tobb-szaz-dront-vasaroltak-irantol",
+        "h1": "Az oroszok több száz drónt vásároltak Irántól",
+        "txtlength": 10369
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/tudomany/20220827_uj_megelozo_kezeles_rsv_ellen_monoklonalis_antitest",
+        "h1": "20 év kutatás után úgy néz ki, megvan a védelem az évente százezrek halálát okozó RSV ellen",
+        "txtlength": 9270
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/krimi/gyilkossag-hajlektalan-brutalis-veres-keseles-nyomozas-vademeles-e-laszlo/fptqvyg",
+        "h1": "Nem kóros elmeállapotú – Nem szív többé szabad levegőt a brutális gyilkosságokat elkövető budapesti hajléktalan",
+        "txtlength": 8817
+    },
+    {
         "hostname": "kiszamolo.hu",
         "pagelink": "https://kiszamolo.hu/regen-minden-jobb-volt-2/",
         "h1": "Régen minden jobb volt",
