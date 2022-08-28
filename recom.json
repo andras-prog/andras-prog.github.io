@@ -1,5 +1,179 @@
 [
     {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/zold-istenno-teszta.recept",
+        "h1": "ZÖLD ISTENNŐ TÉSZTA",
+        "txtlength": 10547
+    },
+    {
+        "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/lilahagymas-paradicsomsalata",
+        "h1": "Lilahagymás paradicsomsaláta",
+        "txtlength": 9989
+    },
+    {
+        "hostname": "hataratkelo.blog.hu",
+        "pagelink": "https://hataratkelo.blog.hu/2022/07/22/a_svajci_elet_arnyoldalai#c41541571",
+        "h1": "A svájci élet árnyoldalai",
+        "txtlength": 64338
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220828_hungarikumokkal_a_vilag_korul",
+        "h1": "Közel-kilét-Kelet – Hungarikumokkal a világ körül",
+        "txtlength": 37955
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/oktatas/20220825/rengeteg-magyar-csalad-inditja-hitelbol-a-tanevet-hatalmas-ervagas-az-idei-iskolakezdes-1128275",
+        "h1": "Rengeteg magyar család indítja hitelből a tanévet: hatalmas érvágás az idei iskolakezdés",
+        "txtlength": 26531
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220825_kohan_matyas_kulfold_mandiner_hetilap_india",
+        "h1": "Indiai álmok álmodói",
+        "txtlength": 26204
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/global/20220828/nyugdij-2022-a-14-havi-nyugdij-sem-eleg-ahhoz-hogy-ne-egye-meg-a-nyugdijakat-az-inflacio-es-a-rezsiemeles-563363",
+        "h1": "Nyugdíj 2022: a \"14. havi nyugdíj\" sem elég ahhoz, hogy ne egye meg a nyugdíjakat az infláció és a rezsiemelés?",
+        "txtlength": 25407
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/elet/20220828/az-ismeroseim-mind-fogjak-a-fejuket-hogy-mi-lesz-itt-telen-hogy-latjak-sorsukat-a-rezsiemeles-vesztesei/",
+        "h1": "„Az ismerőseim mind fogják a fejüket, hogy mi lesz itt télen” – hogy látják sorsukat a rezsiemelés vesztesei?",
+        "txtlength": 22619
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220825_marki_zay_peter_mandiner_hetilap_almasi_b_csaba_baloldal_ellenzek",
+        "h1": "Hiába Márki-Zay Péter végtelen magányossága, a bukott listavezető nem adja fel",
+        "txtlength": 22536
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/global/20220827/fordulopont-a-nuklearis-fegyverkezesben-olyan-veszely-johet-ami-alapjaiban-valtoztathatja-meg-az-egyesult-allamok-kulpolitikajat-563163",
+        "h1": "Fordulópont a nukleáris fegyverkezésben: olyan veszély jöhet, ami alapjaiban változtathatja meg az Egyesült Államok külpolitikáját",
+        "txtlength": 22445
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2022/08/28/a-klimavalsag-es-az-okologiai-tudattalan-hogyan-kezeljuk-a-klimaszorongast",
+        "h1": "A KLÍMAVÁLSÁG ÉS AZ ÖKOLÓGIAI TUDATTALAN: HOGYAN KEZELJÜK A KLÍMASZORONGÁST?",
+        "txtlength": 21625
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/karrier/20220827/ezekben-a-szakmakban-kezdokent-is-650-ezres-fizetes-var-rengeteg-embert-keresnek-oriasi-a-hiany-1128330",
+        "h1": "Ezekben a szakmákban kezdőként is 650 ezres fizetés vár: rengeteg embert keresnek, óriási a hiány",
+        "txtlength": 21443
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20220827/ez-nem-hianyzott-a-legszennyezettseg-megugrasat-is-okozhatja-a-rezsiemeles-563441",
+        "h1": "Ez nem hiányzott: a légszennyezettség megugrását is okozhatja a rezsiemelés",
+        "txtlength": 18526
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vallalat/20220826/kiszolgaltatotta-valtak-az-europai-cegek-de-most-az-onellatas-fele-fordulhatnak/",
+        "h1": "Kiszolgáltatottá váltak az európai cégek, de most az önellátás felé fordulhatnak",
+        "txtlength": 15895
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/szepseg/oregedes-elmeletek-rancok-csokkentese/",
+        "h1": "Az öregedéselmélet szerint a szabad gyökök a DNS-molekulákat is károsítják - Mit tehetsz, hogy lassítsd a folyamatokat?",
+        "txtlength": 13173
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/lajfhekk/jelszo-lop-biztonsag/",
+        "h1": "jelszó lop biztonság",
+        "txtlength": 10066
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2022/08/28/magyar-nyelv-allapota-interju-proszeky-gabor-ludanyi-zsofia/",
+        "h1": "Mind a tízmillió magyart elérte, hogy Stohl Buci akkorát esett, mint az ólajtó",
+        "txtlength": 23961
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://rangado.24.hu/nemzetkozi_foci/2022/08/28/vb-tortenet-1938-olaszorszag-magyarorszag-ausztria-matthias-sindelar/",
+        "h1": "Méreg vagy öngyilkosság? – a náci Németország okozta az osztrák csodacsapat vesztét",
+        "txtlength": 19873
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kulfold/2022/08/27/trump-mar-a-lago-florida-hazkutatas-titkos-szigoruan-titkos-hirszerzes-kemkedes-kemelharitas-fbi-cia-buntetougy",
+        "h1": "Kémek és beépített emberek biztonságát féltették az amerikai hatóságok Trumptól",
+        "txtlength": 19103
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/szorakozas/2022/08/27/andrew-tate-nogyulolo-toxikus-maszkulinitas-szelhamos-webcam-letiltott-kozossegi-oldalak-mlm/",
+        "h1": "Ki ez az online térből kitiltott figura, a TikTok nőgyűlölő alfahímje, aki román webcames lányokat futtat?",
+        "txtlength": 19059
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/belfold/2022/08/27/augusztus-20-27-tuzijatek",
+        "h1": "Fényfestéssel lerombolt Parlament, óriáskokárda és tűzvízesés – ez volt az ünnepi show",
+        "txtlength": 17912
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kult/2022/08/28/kispal-es-a-borz-lovasi-andras-koncert-orfu",
+        "h1": "Kispál és a Borz-koncert: vége a 90-es éveknek, és nem jött újra el",
+        "txtlength": 17199
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/gazdasag/20220828_szijjarto_eu_azerbajdzsan_energia_gaz",
+        "h1": "Brüsszel a magyar kormány nyomdokaiba lép Azerbajdzsánnal, amit Szijjártó egyből ki is használt",
+        "txtlength": 16551
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/elet/20220827_jodan_peele_nem_kritika_nope_horror_daniel_kaluuya_keke_palmer_ufo",
+        "h1": "Ilyen lenne egy westernfilm, amelyben a párbajt alienek és cowboyok vívják",
+        "txtlength": 15978
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/zhvg/20220828_hoszivattyu_kondenzator_futes_korszerusites",
+        "h1": "Minden, amit tudnia kell, ha gázkazánját hőszivattyúra cserélné",
+        "txtlength": 15419
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/krimi/regi-bunugyek-siofoki-portasgyilkossag-sandor-tamas-1990-nyomozas-docher-gyorgy/44e7s74?sl_ps=d_5",
+        "h1": "Közvetlen közelről lőtték fejbe a siófoki hotel portását, azonnal meghalt",
+        "txtlength": 9437
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/08/28/segitseget-ker-pakisztan-a-pusztito-arvizek-kovetkezmenyeinek-kezelesere",
+        "h1": "Segítséget kér Pakisztán a pusztító árvizek következményeinek kezelésére",
+        "txtlength": 9351
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/energiavalsag-orosz-ukran-haboru-klimavalsag-magyarorszag/51t9zry?sl_ps=d_6",
+        "h1": "Ez vár Magyarországra, ha a világméretű összeomlás bekövetkezik – Csak idő kérdése a kutatók szerint",
+        "txtlength": 9185
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/08/28/a-nato-megerositi-a-jelenletet-az-eszaki-sarkvideken",
+        "h1": "A NATO megerősíti a jelenlétét az Északi-sarkvidéken",
+        "txtlength": 8361
+    },
+    {
         "hostname": "nosalty.hu",
         "pagelink": "https://www.nosalty.hu/recept/kremes-szilvas-pite",
         "h1": "Krémes-szilvás pite",
