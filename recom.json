@@ -1,5 +1,173 @@
 [
     {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/borsos-krumplis-nokedli.recept",
+        "h1": "BORSÓS-KRUMPLIS NOKEDLI",
+        "txtlength": 9584
+    },
+    {
+        "hostname": "hataratkelo.blog.hu",
+        "pagelink": "https://hataratkelo.blog.hu/2022/08/22/kemeny_munka_kitartas_es_siker_11_ev_tavlatabol",
+        "h1": "Kemény munka, kitartás és siker - 11 év távlatából",
+        "txtlength": 47132
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vallalat/20220830/a-kinai-iparpolitika-zaszloshajoja-erkezik-magyarorszagra-amelyre-brusszelben-kulon-strategiat-dolgoztak-ki/",
+        "h1": "A kínai iparpolitika zászlóshajója érkezik Magyarországra, amelyre Brüsszelben külön stratégiát dolgoztak ki",
+        "txtlength": 27780
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/utazas/20220829/kiderult-a-fajo-igazsag-vegleg-vege-az-olcso-belfoldi-nyaralasnak-1128341",
+        "h1": "Kiderült a fájó igazság: végleg vége az olcsó belföldi nyaralásnak?",
+        "txtlength": 25504
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220830_arta_moeini_interju_vilagrend_haboru",
+        "h1": "„A nukleáris apokalipszis kockázata valós” – Arta Moeini politológus a Mandinernek",
+        "txtlength": 25172
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220825_angyalfold_mszp_karacsony_gergely_budapest",
+        "h1": "Százmilliós telekbiznisz Angyalföldön, bónusz fakivágással",
+        "txtlength": 22301
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/otthon/20220830/rezsicsokkentes-tenyleg-milliokat-sporolhatunk-a-belso-szigetelessel-vagy-hatalmas-atveres-1128461",
+        "h1": "Rezsicsökkentés: tényleg milliókat spórolhatunk a belső szigeteléssel vagy hatalmas átverés?",
+        "txtlength": 21471
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220830_ukrajna_ellentamadas",
+        "h1": "Itt az ukrán ellentámadás: nagyobb a füstje, de van lángja is",
+        "txtlength": 20460
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20220830/kiszivargott-a-nagy-brusszeli-beavatkozas-par-reszlete-szakadnak-tovabb-a-gazarak-563949",
+        "h1": "Kiszivárgott a nagy brüsszeli beavatkozás pár részlete, szakadnak tovább a gázárak",
+        "txtlength": 19795
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/global/20220830/orult-hazardjatek-miatt-kerult-karnyujtasnyira-a-nuklearis-katasztrofa-maroknyi-csapat-vallalkozott-az-igazsag-kideritesere-a-rend-helyreallitasara-563759",
+        "h1": "Őrült hazárdjáték miatt került karnyújtásnyira a nukleáris katasztrófa - Maroknyi csapat vállalkozott az igazság kiderítésére, a rend helyreállítására",
+        "txtlength": 19477
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vallalat/20220829/aremeles-jovedelemcsokkenes-es-feketezes-igy-indul-az-uj-elet-kata-nelkul/",
+        "h1": "Áremelés, jövedelemcsökkenés és feketézés: így indul az új élet kata nélkül",
+        "txtlength": 19194
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.penzcentrum.hu/auto/20220830/101-tipp-hogyan-sporolj-a-benzinnel-rengeteget-penzt-takarithatsz-meg-ilyen-aprosagokon-1128456",
+        "h1": "10+1 tipp, hogyan spórolj a benzinnel: rengeteget pénzt takaríthatsz meg ilyen apróságokon",
+        "txtlength": 17618
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2022/08/30/a-muanyagevo-bakteriumok-mar-a-kuszobon-allnak-csak-fel-ne-faljak-az-egesz-konyhat",
+        "h1": "A MŰANYAGEVŐ BAKTÉRIUMOK MÁR A KÜSZÖBÖN ÁLLNAK, CSAK FEL NE FALJÁK AZ EGÉSZ KONYHÁT",
+        "txtlength": 16114
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/otthon/tudnivalok-napelem-szeleromu-telepites/",
+        "h1": "Hogyan lehet saját napelemed vagy szélerőműved? Így kell igényelni a telepítési engedélyt",
+        "txtlength": 11295
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/szuloseg/hazugsag-gyerek-szigoru/",
+        "h1": "hazugság gyerek szigorú",
+        "txtlength": 10339
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kultura/2022/08/30/william-dalrymple-interju-afganisztan-haboru-tortenelem-india-nagy-britannia-birodalom-megszallas-kelet-indiai-tarsasag-kina-putyin-amerika/",
+        "h1": "Egy apró londoni irodából igázták le Indiát, és ők taposták ki az utat Escobarnak meg az Amazonnak is",
+        "txtlength": 30257
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kultura/2022/08/29/most-vagy-soha-rakay-philip-szente-vajk-fot-filmgyar-diszlet-forgatas-petofi-sandor-1848-forradalom-szabadsagharc-marcius-15/",
+        "h1": "Hosszú évekre Fóton maradhatnak a reformkori Pest-Buda házai és utcái",
+        "txtlength": 16452
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/elet/20220830_Szinhaz_es_Filmmuveszeti_Egyetem_karsai_gyorgy_ratoti_zoltan_egyetemi_cim_doktori_iskola",
+        "h1": "Az SZFE új vezetése veszélybe sodorta az intézmény egyetemi besorolását",
+        "txtlength": 15595
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kulfold/2022/08/29/oroszorszag-ukrajna-gabona-aknak-teli-vizeken-kukorica-buza-odessza-kikoto",
+        "h1": "Aknákkal teli vizeken át, légi megfigyelés mellett viszik a létfontosságú ukrán gabonát",
+        "txtlength": 15567
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/gazdasag/2022/08/30/a-magas-energiaarak-mellett-a-furdok-fele-harmada-bezarhat-mi-lesz-a-sporttal-a-turizmussal",
+        "h1": "A fürdők fele, harmada is bezárhat ilyen magas energiaárak mellett",
+        "txtlength": 14589
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kulfold/2022/08/30/orosz-ukran-valsag-haboru-187-nap-hirfolyam",
+        "h1": "Ukrajna szerint siker, Oroszország szerint kudarc az ukrán ellentámadás Herszon közelében",
+        "txtlength": 13925
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2022/08/30/europoli-helyreallitasi-alap-europai-unio-bizottsag-penz-koronavirus-tamogatas-palyazat-elore-kiosztott-orban-navracsics-meszaros-lorinc/",
+        "h1": "A visszatartott uniós alap csaknem negyedét már papíron előre kiosztották Orbánék",
+        "txtlength": 13723
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/vilag/20220830_haboru_hirfolyam_pp",
+        "h1": "Áttörték a frontot az ukránok, iráni drónokat vettek az oroszok – a háború keddi hírei",
+        "txtlength": 12706
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/krimi/blikk-exkluziv-fenyo-gyilkossag-aktak-gyanu-sztarzenesz-vitamin-happy-gang/1h5rfkr",
+        "h1": "Blikk-exkluzív: megszereztük a Fenyő-gyilkosság aktáit – Miért került gyanúba a sztárzenész?",
+        "txtlength": 12401
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/08/30/19-millio-nonek-nincs-hozzaferese-a-fogamzasgatlashoz-az-usa-ban-ezert-az-illegalis-online-gyogyszertarakat-keresik",
+        "h1": "19 millió nőnek nincs hozzáférése a fogamzásgátláshoz az USA-ban, ezért az illegális online gyógyszertárakat keresik",
+        "txtlength": 10565
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/08/30/a-halastavakat-is-tizedeli-a-rendkivuli-merteku-aszaly",
+        "h1": "A halastavakat is tizedeli a rendkívüli mértékű aszály",
+        "txtlength": 10512
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/eurologus/20220830_Mikozben_az_unios_forrasokrol_alkudozik_a_magyar_kormany_az_EP_a_tamogatasok_befagyasztasat_keri_ket_het_mulva",
+        "h1": "Miközben az uniós forrásokról alkudozik a magyar kormány, az EP a támogatások befagyasztását kéri két hét múlva",
+        "txtlength": 9768
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/rusvai-miklos-koronavirus-elleni-oltas-sinopharm-vakcina-hiba/81vz957",
+        "h1": "Rusvai Miklós: „Hiba volt Sinopharmmal oltani az időseket, de nem lehetett tudni előre”",
+        "txtlength": 9557
+    },
+    {
         "hostname": "kiszamolo.hu",
         "pagelink": "https://kiszamolo.hu/ujra-tamadnak-a-tokevedett-alapok/",
         "h1": "Újra támadnak a tőkevédett alapok",
