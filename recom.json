@@ -1,6 +1,174 @@
 [
     {
         "hostname": "hataratkelo.blog.hu",
+        "pagelink": "https://hataratkelo.blog.hu/2022/08/02/egy_varos_kulonos_szellemmel",
+        "h1": "Egy város különös szellemmel",
+        "txtlength": 40612
+    },
+    {
+        "hostname": "kulturpart.hu",
+        "pagelink": "https://kulturpart.hu/2022/08/25/se_szelmalom_se_sajt_se_fapapucs",
+        "h1": "SE SZÉLMALOM, SE SAJT, SE FAPAPUCS",
+        "txtlength": 6825
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/gazdasag/20220831/a-magyar-gazdasag-helyzete-az-1970-es-evekben-1128414",
+        "h1": "A magyar gazdaság helyzete az 1970-es években",
+        "txtlength": 27207
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/vasarlas/20220831/maris-indulhat-a-roham-a-boltokban-melyen-a-zsebebe-nyulhat-aki-karacsonyig-kivar-1128486",
+        "h1": "Máris indulhat a roham a boltokban: mélyen a zsebébe nyúlhat, aki karácsonyig kivár",
+        "txtlength": 27058
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220901_ukrajna_oroszorszag_haboru_karpatalja_tanevkezdes_grezsa_istvan_meszaros_renata",
+        "h1": "Tanévkezdés és békeremény – a háború okozta traumákat is kezelniük kell a kárpátaljai tanároknak",
+        "txtlength": 25428
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/penz/20220901/az-allam-egyelore-kitamasztja-az-ingatlanpiacot-de-akar-arcsokkenes-is-johet/",
+        "h1": "Az állam egyelőre kitámasztja az ingatlanpiacot, de akár árcsökkenés is jöhet",
+        "txtlength": 23849
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220901_szerbia_eu_csatlakozas_koszovo",
+        "h1": "Koszovó helyzetétől függ Szerbia egysége és EU-tagsága",
+        "txtlength": 22888
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220901_ukran_ellentamadas_haboru",
+        "h1": "Milyen következményei lehetnek az ukrán ellentámadásnak?",
+        "txtlength": 22603
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2022/09/01/bizonytalansagban-tanacstalansagban-tiltakozasokkal-indul-az-idei-tanev",
+        "h1": "BIZONYTALANSÁGBAN, TANÁCSTALANSÁGBAN, TILTAKOZÁSOKKAL INDUL AZ IDEI TANÉV",
+        "txtlength": 19948
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/premium/20220901/a-toborzok-idei-leckeje-erteni-kell-a-kornyezetet-ahova-a-munkaerot-keressuk-564009",
+        "h1": "A toborzók idei leckéje - érteni kell a környezetet, ahova a munkaerőt keressük! (x)",
+        "txtlength": 18420
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.penzcentrum.hu/hitel/20220901/mi-tortenik-a-hitelpiacon-elfordultak-a-magyarok-a-bankoktol-sulyos-bajban-van-a-lakashitelezes-1128482",
+        "h1": "Mi történik a hitelpiacon? Elfordultak a magyarok a bankoktól, súlyos bajban van a lakáshitelezés",
+        "txtlength": 17960
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/uzlet/20220901/nincs-jele-fordulatnak-folytatodik-a-tozsdek-melyrepulese-564383",
+        "h1": "Nincs jele fordulatnak, folytatódik a tőzsdék mélyrepülése ",
+        "txtlength": 17863
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vilag/20220830/amerika-egyik-legnagyobb-politikai-ellenfele-potolhatna-az-oroszoktol-kieso-olajmennyiseg-felet/",
+        "h1": "Amerika egyik legnagyobb politikai ellenfele pótolhatná az oroszoktól kieső olajmennyiség felét",
+        "txtlength": 15178
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/kapcsolat/gorbacsov-felesege-raisza-gorbacsova/",
+        "h1": "Gorbacsov felesége volt az egyetlen igazi szovjet first lady - Raisza Gorbacsova kilépett férje árnyékából",
+        "txtlength": 12370
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/lajfhekk/ing-ferfi-elegans/",
+        "h1": "ing férfi elegáns",
+        "txtlength": 8729
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/belfold/2022/09/01/statisztika-oktatas-tanev-ksh-adatok-diakok-2021",
+        "h1": "Van, ahol Budapesthez képest százszor több a halmozottan hátrányos helyzetű diákok aránya",
+        "txtlength": 19529
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20220901_Az_Orbankormany_elso_szaz_napja_strategiai_hazugsag_es_amitas",
+        "h1": "Az Orbán-kormány első 100 napja: stratégiai hazugság és ámítás",
+        "txtlength": 18175
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/gazdasag/20220831_adozas_katasok_meseltek_a_jovorol",
+        "h1": "„Itt ülök hathavi fizetésemen, és azon kattogok, hogyan fogom beosztani fél évre” – katások meséltek a jövőről",
+        "txtlength": 17743
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kulfold/2022/08/31/ukrajna-oroszorszag-ellentamadas-herszon-megye",
+        "h1": "Alapos előkészítés után indult el az ukrán ellentámadás",
+        "txtlength": 17091
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2022/09/01/oktatas-tuntetes-diakok-a-tanarokert-tanarok/",
+        "h1": "„Azért állunk ki a tanárainkért, hogy ők is kiálljanak értünk és saját magukért”",
+        "txtlength": 16602
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kulfold/2022/09/01/arsapka-arplafon-energiaar-hatosagi-ar-eu-gazar-aramar-energia-foldgaz-elektromos-aram/",
+        "h1": "Ha jön az uniós gázársapka, muszáj lesz európai szinten korlátozni a fogyasztást",
+        "txtlength": 14568
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/09/01/kiugro-tanarok-hazasodo-gazdak",
+        "h1": "Kiugró tanárok, házasodó gazdák",
+        "txtlength": 14427
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/english/2022/09/01/international-students-at-hungarian-universities-why-studying-in-hungary-is-good-for-them-and-their-hosting-institutions",
+        "h1": "Hungarian universities attract thousands of foreign students – here's why",
+        "txtlength": 13583
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/krimi/fenyo-janos-gyilkossag-fenyo-akta-titkok-gyarfas-tamas-tasnadi-peter/mzyzsnd?sl_ps=d_12",
+        "h1": "A Fenyő-akta titkai: hogy került a képbe Tasnádi Péter? – A „keresztapa” állítólag megbízást kapott Gyárfás Tamástól",
+        "txtlength": 12562
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2022/09/01/kubatov-gabor-fidesz-partigazgato-miko-istvan-24-per/",
+        "h1": "Pert nyert a 24.hu Kubatov Gábor ellen",
+        "txtlength": 12019
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/08/31/tiborcz-istvan-eladta-az-andrassy-uti-butikhoteljet",
+        "h1": "Tiborcz István eladta az Andrássy úti butikhoteljét",
+        "txtlength": 10594
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/vilag/20220901_haboru_oroszorszag_ukrajna_zaporizzsja_herszon",
+        "h1": "Ma kezdődhet a felmérés a zaporizzsjei atomerőműben, nem állt le a herszoni hadművelet – a háború csütörtöki hírei",
+        "txtlength": 9977
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/krimi/der-csaba-magda-marinko-verbosszu-tamadas/qt2n4kr",
+        "h1": "„Meg fogsz fizetni a testvérem haláláért” – Késsel akart bosszút állni a börtönben Dér Csaba Magda Marinkón",
+        "txtlength": 8711
+    },
+    {
+        "hostname": "hataratkelo.blog.hu",
         "pagelink": "https://hataratkelo.blog.hu/2022/08/26/magyar_pedagogusbol_nemetorszagi_tanar",
         "h1": "Magyar pedagógusból németországi tanár",
         "txtlength": 48523
