@@ -1,5 +1,185 @@
 [
     {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/szilvas-kevert-suti.recept",
+        "h1": "SZILVÁS KEVERT SÜTI",
+        "txtlength": 10285
+    },
+    {
+        "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/gyors-szilvas-suti",
+        "h1": "Gyors szilvás süti",
+        "txtlength": 10026
+    },
+    {
+        "hostname": "hataratkelo.blog.hu",
+        "pagelink": "https://hataratkelo.blog.hu/2022/08/30/hollandiai_keseredes_szoba_2_fallal_1000_euroert#c41548399",
+        "h1": "Hollandiai keserédes – szoba 2 fallal 1000 euróért",
+        "txtlength": 40771
+    },
+    {
+        "hostname": "kulturpart.hu",
+        "pagelink": "https://kulturpart.blog.hu/2022/08/25/se_szelmalom_se_sajt_se_fapapucs",
+        "h1": "SE SZÉLMALOM, SE SAJT, SE FAPAPUCS",
+        "txtlength": 6829
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/vasarlas/20220901/orult-felhalmozasi-hullam-indulhat-meg-ezek-a-termekek-aranyat-erhetnek-hamarosan-1128531",
+        "h1": "Őrült felhalmozási hullám indulhat meg: ezek a termékek aranyat érhetnek hamarosan",
+        "txtlength": 29831
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/nyugdij/20220831/erik-a-nyugdijkatasztrofa-csak-igy-cselezhetik-ki-a-magyarok-az-idoskori-melyszegenyseget-1128451",
+        "h1": "Érik a nyugdíjkatasztrófa: csak így cselezhetik ki a magyarok az időskori mélyszegénységet",
+        "txtlength": 28382
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://makronom.mandiner.hu/cikk/20220901_oroszorszag_haboru_energia_makronom_szankciok",
+        "h1": "Hatásosak-e a szankciók?",
+        "txtlength": 27850
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://sport.mandiner.hu/cikk/20220902_nemeth_balazs_egyszer_sem_bantam_meg_a_hirekhez_fuzott_kommentarjaimat_de_most_szazezrek_helyett_milliokhoz_szeretnek_szolni_exkluziv",
+        "h1": "Németh Balázs: Egyszer sem bántam meg a hírekhez fűzött kommentárjaimat, de most százezrek helyett milliókhoz szeretnék szólni",
+        "txtlength": 25943
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220831_jogallamisagi_vita_elmozdulas_a_holtpontrol",
+        "h1": "Jogállamisági vita – elmozdulás a holtpontról?",
+        "txtlength": 22906
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20220901/valsagok-sorozata-sujtja-a-vilag-masodik-legnagyobb-gazdasagat-564405",
+        "h1": "Válságok sorozata sújtja a világ második legnagyobb gazdaságát",
+        "txtlength": 21128
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/premium/20220902/a-borfesztival-ahol-egyszeruen-ott-kell-lenni-564587",
+        "h1": "A borfesztivál, ahol egyszerűen ott kell lenni (x)",
+        "txtlength": 18436
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/uzlet/20220902/megerkeztek-a-vevok-eros-napjuk-van-a-tozsdeknek-564639",
+        "h1": "Megérkeztek a vevők, erős napjuk van a tőzsdéknek ",
+        "txtlength": 17372
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/penz/20220901/az-amerikai-jegybankelnok-8-perces-beszede-alatt-percenkent-150-milliard-dollart-zuhant-az-sp500-index/",
+        "h1": "Az amerikai jegybankelnök 8 perces beszéde alatt percenként 150 milliárd dollárt zuhant az SP500 Index",
+        "txtlength": 15426
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vallalat/20220831/megvan-a-kituzott-europai-gaztartalek-kerdes-hogy-mire-lesz-ez-eleg/",
+        "h1": "Megvan a kitűzött európai gáztartalék, kérdés, hogy mire lesz ez elég",
+        "txtlength": 13767
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/hazai_sztar/rtl-klub-2022-oszi-musorok/",
+        "h1": "25 év után nagy változás az RTL Klubnál: ősszel ezek a sztárok özönlik el a csatornát",
+        "txtlength": 12527
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2022/09/01/ime-a-laptopgyilkos-janet-jackson-dal-ami-kepes-tonkretenni-a-gepedet-pusztan-azzal-hogy-lejatszod",
+        "h1": "ÍME A LAPTOPGYILKOS JANET JACKSON-DAL, AMI KÉPES TÖNKRETENNI A GÉPEDET PUSZTÁN AZZAL, HOGY LEJÁTSZOD",
+        "txtlength": 12059
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/lajfhekk/vizivas-reggel/",
+        "h1": "Vízivás reggel",
+        "txtlength": 10189
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kultura/2022/09/02/radnoti-sandor-interju-a-taj-keletkezestortenetei-konyv-filozofia/",
+        "h1": "Radnóti Sándor: Ez a rendszer undok kis autokrácia, de nem szörnyállam",
+        "txtlength": 21722
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2022/09/02/kalocsai-gyermekotthon-bantalmazas-oknyomozas-itelet/",
+        "h1": "Jogszerűen írtuk meg, hogy bántalmazták a gyerekeket a kalocsai gyermekotthonban",
+        "txtlength": 16301
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/belfold/2022/09/02/szocialis-intezmenyek-rezsi-maltai-szeretetszolgalat-bmszki-fovaros-menedekhaz-alapitvany-baptista-szeretetszolgalat",
+        "h1": "Havi 27 milliós gázszámlával nagyon nehéz a hajléktalanokon is segíteni",
+        "txtlength": 14734
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/fn/gazdasag/2022/09/02/szep-kartya-elelmiszervasarlas-otp-kh-mkb-boltok-inflacio/",
+        "h1": "Nagy segítség volt, hogy boltban is lehetett SZÉP-kártyával fizetni, de miközben vágtat az infláció, megszűnt ez a lehetőség",
+        "txtlength": 13726
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/szorakozas/2022/09/01/for-all-mankind-sci-fi-sorozat-kritika-urverseny-nasa",
+        "h1": "A kutya sem nézi, pedig ez a legjobb most futó sci-fi sorozat",
+        "txtlength": 13178
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/sport/2022/09/01/jegkorong-bajnokok-ligaja-fehervar-av19-sporttortenelmi-meccs-noi-vilagbajnoksag",
+        "h1": "Sporttörténelem 1–7-es vereséggel és vastapssal: megkezdődött a magyar hoki első BL-szezonja",
+        "txtlength": 12162
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/krimi/fenyo-janos-gyilkossag-fenyo-akta-szlovak-bunozok-lebukas/4p8hc3g",
+        "h1": "A Fenyő-akta titkai: a kocsijuk buktatta le a szlovák bűnözőket",
+        "txtlength": 10364
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/09/02/kar-hogy-lassan-elfogynak-a-tanarok-mert-a-rezsiszamla-kezd-emelt-szintu-matekpeldara-emlekeztetni",
+        "h1": "Kár, hogy lassan elfogynak a tanárok, mert a rezsiszámla kezd emelt szintű matekpéldára emlékeztetni",
+        "txtlength": 10360
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/gazdasag/20220902_hitel_kamat_bank360",
+        "h1": "Emelték és csökkentették is a bankok a hitelkamatokat szeptembertől",
+        "txtlength": 10329
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/09/02/a-zaporizzsjai-eromuben-maradnak-a-nemzetkozi-atomenergia-ugynokseg-szakertoi",
+        "h1": "A zaporizzsjai erőműben maradnak a Nemzetközi Atomenergia-ügynökség szakértői",
+        "txtlength": 9642
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/vilag/20220902_karpataljan_gyasznap_orosz_ukran_haboru",
+        "h1": "Kárpátalján gyásznapot hirdettek, a herszoni régióban súlyos harcok dúlnak – a háború pénteki hírei",
+        "txtlength": 9325
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/korhaz-felrekezelt-depresszios-csaladapa-litium-mergezes-zombikent-tert-haza/j8yqkte?sl_ps=d_10",
+        "h1": "Félrekezelték a kórházban a depressziós férfit: lítiummal mérgezték, zombiként tért haza",
+        "txtlength": 9206
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20220902_Racs_moge_kerul_egy_honapra_az_Orszagos_Roma_Onkormanyzat_elnoke",
+        "h1": "Rács mögé kerül egy hónapra az Országos Roma Önkormányzat elnöke",
+        "txtlength": 8530
+    },
+    {
         "hostname": "hataratkelo.blog.hu",
         "pagelink": "https://hataratkelo.blog.hu/2022/08/02/egy_varos_kulonos_szellemmel",
         "h1": "Egy város különös szellemmel",
