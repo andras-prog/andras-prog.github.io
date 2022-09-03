@@ -1,5 +1,179 @@
 [
     {
+        "hostname": "kiszamolo.hu",
+        "pagelink": "https://kiszamolo.hu/ha-keves-az-ido-es-a-penz-a-hoszigetelesre/",
+        "h1": "Ha kevés az idő és a pénz a hőszigetelésre",
+        "txtlength": 39322
+    },
+    {
+        "hostname": "efesasanisimasa.com",
+        "pagelink": "https://efesasanisimasa.com/2022/09/01/pistol-tv-mini-series-2022/",
+        "h1": "Pistol (TV Mini Series, 2022)",
+        "txtlength": 8566
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/befektetes/20220903/peldatlan-valsag-kozeleg-a-teljes-vilaggazdasag-beleremeghet-564645",
+        "h1": "Példátlan válság közeleg, a teljes világgazdaság beleremeghet",
+        "txtlength": 25357
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2022/09/03/alulfizetettseg-fenyegetesek-tisztogatas-igy-kezeltek-szaz-eve-a-pedagoguskerdest-magyarorszagon",
+        "h1": "ALULFIZETETTSÉG, FENYEGETÉSEK, TISZTOGATÁS – ÍGY KEZELTÉK SZÁZ ÉVE A PEDAGÓGUSKÉRDÉST MAGYARORSZÁGON",
+        "txtlength": 25202
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220903_gorbacsov_nevai_gabor",
+        "h1": "A felszámolóbiztos – Gorbacsov halálára",
+        "txtlength": 24773
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220831_ki_kormanyozza_tovabb_britannia_hajojat",
+        "h1": "Ki kormányozza tovább Britannia hajóját?",
+        "txtlength": 23162
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/vallalkozas/20220831/megvan-a-valasz-a-brutalis-piadragulasra-ez-az-ital-lehet-a-magyarok-uj-kedvence-1128410",
+        "h1": "Megvan a válasz a brutális piadrágulásra? Ez az ital lehet a magyarok új kedvence",
+        "txtlength": 20985
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220902_szent_laszlo_archeogenetika_varga_gergely_istvan",
+        "h1": "Így azonosították Szent László királyunkat a koponyaereklye alapján – genetikus a Mandinernek",
+        "txtlength": 20721
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/otthon/20220902/igy-jatszhato-ki-a-brutalis-rezsiemeles-ezzel-sporolhatsz-rengeteget-a-husbavago-szamlakon-1128587",
+        "h1": "Így játszható ki a brutális rezsiemelés: ezzel spórolhatsz rengeteget a húsbavágó számlákon",
+        "txtlength": 20448
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20220902/alaposan-felfegyverkezett-az-mnb-eleg-lesz-ez-a-gyenge-forint-es-az-inflacio-ellen-564591",
+        "h1": "Alaposan felfegyverkezett az MNB – Elég lesz ez a gyenge forint és az infláció ellen?",
+        "txtlength": 17414
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/podcast/20220903/az-idei-rekordaszalynal-is-sulyosabbak-elott-allunk-es-a-magyar-mezogazdasag-nem-keszult-fel-erre/",
+        "h1": "Az idei rekordaszálynál is súlyosabbak előtt állunk, és a magyar mezőgazdaság nem készült fel erre",
+        "txtlength": 17160
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.penzcentrum.hu/utazas/20220903/hihetetlen-ezekben-a-tengerparti-paradicsomokban-100-ezer-forint-alatt-nyaralhatsz-iden-osszel-1128588",
+        "h1": "Hihetetlen: ezekben a tengerparti paradicsomokban 100 ezer forint alatt nyaralhatsz idén ősszel",
+        "txtlength": 16370
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vilag/20220902/rezsicsokkentes-europai-modra-valsagkezelo-uzemmodra-kapcsolt-az-eu-az-arampiacon/",
+        "h1": "Válságkezelő üzemmódba kapcsolt az EU az árampiacon",
+        "txtlength": 16108
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/kapcsolat/sziami-ikerpar-chang-eng-bunker/",
+        "h1": "Összesen 21 gyermeke született a világhírű sziámi ikerpárnak - Kísérleteztek rajtuk az orvosok, és mutogatták őket",
+        "txtlength": 12126
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/testem/szexturizmus-egyiptom/",
+        "h1": "szexturizmus egyiptom",
+        "txtlength": 11642
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/lajfhekk/koffeinerzekenyseg-tunetek/",
+        "h1": "Koffeinérzékenység tünetek",
+        "txtlength": 10090
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/fn/gazdasag/2022/09/03/eu-forrasok-unios-europai-bizottsag-helyreallitas-alap-eu-penz-orban-viktor-navracsics-tibor-transparency-international/",
+        "h1": "Fordulat az Európai Bizottságnál, erre nem számíthatott a magyar kormány",
+        "txtlength": 21329
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2022/09/03/fortepan-telihold-utcai-lampak-takarekoskodas-kozvilagitas/",
+        "h1": "Teliholdkor minek égjenek az utcai lámpák? – Eleink is takarékoskodtak a közvilágítással",
+        "txtlength": 18923
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/sport/2022/09/03/serena-williams-befejezte-portre-visszavonulas",
+        "h1": "Teniszezni akart, dühből játszva nyert, legenda lett",
+        "txtlength": 18245
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/belfold/2022/09/02/tuntetes-diakok-tanarok-evnyito-demonstracio-iskola-fizetes-tananyag-nat",
+        "h1": "Hatalmas kockás zászlót lógattak le a Szabadság hídról – sok ezren tüntettek az oktatásért Budapesten",
+        "txtlength": 17775
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/tudomany/2022/09/03/kinizsi-pal-maradvanyok-sir-kozepkor-regeszet-tortenelem/",
+        "h1": "Jeltelen sírba temették volna Kinizsi Pált?",
+        "txtlength": 16327
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/elet/20220902_a_gyuruk_ura_a_hatalom_gyurui_kritika_sorozat_rings_of_power_amazon_tolkien",
+        "h1": "A sorozat, amire megérte nyolc évet várni és rákölteni egy kisebb ország GDP-jét",
+        "txtlength": 16234
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/elet/20220903_Serena_Williams_bucsu",
+        "h1": "Serena Williams nagy űrt hagy maga után, és még nagyobb örökséget",
+        "txtlength": 15241
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20220903_Ellenzek_100_nap_Orban_kormany",
+        "h1": "Csak lefelé! – 100 pontban arról, hová süllyedt az összellenzék a kormányzás 100. napjára",
+        "txtlength": 14543
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/csokay-andras-sziami-ikrek/hhmmw25",
+        "h1": "Dr. Csókay András idegsebész: „Ócska, bűnös életet éltem” – exkluzív interjú",
+        "txtlength": 14295
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/09/02/a-nep-a-nagy-technologiai-cegek-ellen-a-tavalyi-nobel-bekedijasok-10-pontos-terve-az-informacios-valsag-kezelesere",
+        "h1": "A nép a nagy technológiai cégek ellen: a tavalyi Nobel-békedíjasok 10 pontos terve az információs válság kezelésére",
+        "txtlength": 12983
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/szepkilatas/2022/09/03/felhotura-a-becsi-alpok-legnagyobb-fennsikjan",
+        "h1": "Felhőtúra a Bécsi-Alpok legnagyobb fennsíkján",
+        "txtlength": 12354
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/09/02/csodkozelben-eger-mirkoczki-adam-polgarmester-tobb-intezmeny-kapujat-is-bezarna",
+        "h1": "Csődközelben Eger, Mirkóczki Ádám polgármester több intézmény kapuját is bezárná",
+        "txtlength": 11546
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/krimi/szatir-godollo-hatvanas-evek-kadar-rezsim-kantor-szexulis-ragadozo/d4rtzg8",
+        "h1": "Hibát hibára halmoztak a rendőrök a gödöllői szatír felderítése során – Rettegésben tartott a nőket",
+        "txtlength": 10272
+    },
+    {
         "hostname": "mindmegette.hu",
         "pagelink": "https://www.mindmegette.hu/szilvas-kevert-suti.recept",
         "h1": "SZILVÁS KEVERT SÜTI",
