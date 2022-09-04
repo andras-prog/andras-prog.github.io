@@ -1,5 +1,167 @@
 [
     {
+        "hostname": "hataratkelo.blog.hu",
+        "pagelink": "https://hataratkelo.blog.hu/2022/08/30/hollandiai_keseredes_szoba_2_fallal_1000_euroert#c41550945",
+        "h1": "Hollandiai keserédes – szoba 2 fallal 1000 euróért",
+        "txtlength": 46169
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220902_a_magyar_dolgos_civilizalt_osszetarto_nep_magyarbarat_roman_tortenesz_a_mandinernek",
+        "h1": "„A magyar dolgos, civilizált, összetartó nép” – magyarbarát román történész a Mandinernek",
+        "txtlength": 28867
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/megtakaritas/20220902/igy-meg-a-valsag-kozepen-is-szerezhetsz-egy-kis-plusz-penzt-nem-bonyolult-sokan-csinaljak-1128560",
+        "h1": "Így még a válság közepén is szerezhetsz egy kis plusz pénzt: nem bonyolult, sokan csinálják",
+        "txtlength": 23022
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/bank/20220903/sokan-temettek-a-sztarszektort-amely-egy-csavarral-epp-most-bukkant-a-fejos-tehenere-564641",
+        "h1": "Sokan temették a sztárszektort, amely egy csavarral épp most bukkant a fejős tehenére",
+        "txtlength": 19016
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/global/20220904/az-egyesult-allamok-engedekenysege-menthetne-meg-europat-az-energiavalsagtol-564761",
+        "h1": "Az Egyesült Államok engedékenysége menthetné meg Európát az energiaválságtól",
+        "txtlength": 19002
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220903_pataki_tamas_irodalom_interju",
+        "h1": "„A magyarosság az én dzsihádom” – Pataki Tamás író a Mandinernek",
+        "txtlength": 18914
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/auto/20220903/igy-sporolhatsz-komoly-tizezreket-a-meloba-jarason-par-honap-es-megterul-a-befektetes-1128441",
+        "h1": "Így spórolhatsz komoly tízezreket a melóba járáson: pár hónap, és megtérül a befektetés",
+        "txtlength": 18765
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220903_faz_kommentar_frankfurter_allgemeine_nemetorszag_olaf_scholz_kulfold",
+        "h1": "FAZ-kommentár: Németország rosszul teszi, ha megfúrja az uniós vétójogot",
+        "txtlength": 18192
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vilag/20220904/schengeni-vizum-ide-vagy-oda-elfogytak-magyarorszagrol-is-az-orosz-turistak/",
+        "h1": "Schengeni vízum ide vagy oda, elfogytak Magyarországról is az orosz turisták",
+        "txtlength": 16866
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/global/20220903/nem-vart-helyrol-jon-a-segitseg-europa-legerosebb-haderejet-epithetik-fel-oroszorszag-nyugati-hataran-564775",
+        "h1": "Nem várt helyről jön a segítség: Európa legerősebb haderejét építhetik fel Oroszország nyugati határán",
+        "txtlength": 16659
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/penz/20220903/ha-az-eredeti-terv-szerint-vezetik-ki-az-arstopokat-oktoberben-johet-a-20-szazalek-feletti-inflacio/",
+        "h1": "Ha az eredeti terv szerint vezetik ki az árstopokat, októberben jöhet a 20 százalék feletti infláció",
+        "txtlength": 15161
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2022/09/04/mi-lenne-ha-kiszamithatatlan-diktatorok-helyett-a-mesterseges-intelligenciara-biznank-az-emberiseg-jovojet",
+        "h1": "MI LENNE, HA KISZÁMÍTHATATLAN DIKTÁTOROK HELYETT A MESTERSÉGES INTELLIGENCIÁRA BÍZNÁNK AZ EMBERISÉG JÖVŐJÉT?",
+        "txtlength": 13799
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/utazas/kutyatamadas-elleni-teendok/",
+        "h1": "Mit tehetsz, ha kutyatámadás ér? Nagyon sok rossz tanács kering a neten",
+        "txtlength": 13776
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/szuloseg/mezokovesd-latnivalok/",
+        "h1": "mezőkövesd látnivalók",
+        "txtlength": 10630
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/tudomany/20220903_Artemis_Orion_urhajo_NASA_urkutatas_Hold_program_holdraszallas_tesztrepules",
+        "h1": "Elsőre és másodjára még egy plüsskutyát sem sikerült felküldeni, de célegyenesben a NASA történelmi Hold-küldetése",
+        "txtlength": 23036
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/kultura/20220903_masik_janos_interju",
+        "h1": "\"A szabad létezés is éppen eléggé szúrta a hatalom szemét”",
+        "txtlength": 22254
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/gazdasag/20220904_Es_akkor_az_igazan_razos_rezsiszamlak_meg_nem_erkeztek_meg_csak_a_kaktuszok_az_Alfoldre",
+        "h1": "És akkor az igazán rázós rezsiszámlák még nem érkeztek meg, csak a kaktuszok az Alföldre",
+        "txtlength": 16461
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/gasztro/2022/09/04/a-cirok-a-jovo-gabonaja-kiprobaltuk-milyen-vele-fozni",
+        "h1": "A cirok a jövő gabonája – kipróbáltuk, milyen vele főzni",
+        "txtlength": 14451
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/szorakozas/2022/09/04/x-faktor-tehetsegkutato-showmusor-mentorok-elso-valogato-kritika",
+        "h1": "Puskás Peti megkomolyodott, Herceg Erika hűvös, de Bodrogi Gyula unokája így is mindenkit meghatott",
+        "txtlength": 13790
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kultura/2022/09/04/barry-sorozat-hbo-max-bill-hader-3-evad-kritika/",
+        "h1": "A tökéletesen 2022-es sorozat, ahol még a teljesen lehetetlen karaktereknek is drukkolunk",
+        "txtlength": 13679
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kult/2022/09/03/kovacs-akos-film-novella-zarovonal-ezt-nem-lehet-meguszni",
+        "h1": "Kovács Ákos bácsi filmje egy közhelyes taxismonológ arról, hogy régen minden jobb volt. Vagy nem",
+        "txtlength": 13436
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2022/09/04/vasvari-csaba-fovarosi-torvenyszek-palyazat-per-tamadas-sandor-zsuzsa-velemeny/",
+        "h1": "Így próbálja a hatalom lejáratni a független bírót",
+        "txtlength": 13394
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kultura/2022/09/04/podcast-filezo-vendeglatas-valsag-csod/",
+        "h1": "Az előttünk álló télnek akár kétszer annyi vendéglátóhely is áldozatául eshet, mint a járványnak",
+        "txtlength": 13255
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/09/04/nirvana-vs-meztelen-csecsemo-a-nevermind-boritojan-3-0",
+        "h1": "Nirvana vs. meztelen csecsemő a Nevermind borítóján: 3-0",
+        "txtlength": 9199
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/09/03/erdogan-demilitarizalt-szigetek-elfoglalasaval-vadolja-gorogorszagot",
+        "h1": "Erdogan demilitarizált szigetek elfoglalásával vádolja Görögországot",
+        "txtlength": 8984
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/sajat-sutesu-kenyerevel-eteti-a-pontyokat-oliver/p7edwe6?sl_ps=d_11",
+        "h1": "Tudják, ki Orbán Olivér?",
+        "txtlength": 7344
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belvarosi-sorfesztival-2022/9hlhlh8",
+        "h1": "Kézműves és egyedi főzetek várják a Belvárosi Sörfesztivál látogatóit",
+        "txtlength": 7088
+    },
+    {
         "hostname": "kiszamolo.hu",
         "pagelink": "https://kiszamolo.hu/ha-keves-az-ido-es-a-penz-a-hoszigetelesre/",
         "h1": "Ha kevés az idő és a pénz a hőszigetelésre",
