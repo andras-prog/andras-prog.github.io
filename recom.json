@@ -1,5 +1,179 @@
 [
     {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/eredeti-hatlapos-sutemeny.recept",
+        "h1": "HATLAPOS SÜTEMÉNY",
+        "txtlength": 11628
+    },
+    {
+        "hostname": "kiszamolo.hu",
+        "pagelink": "https://kiszamolo.hu/napelem-tultermeles-atveteli-ar/",
+        "h1": "Napelem túltermelés átvételi ár",
+        "txtlength": 34850
+    },
+    {
+        "hostname": "efesasanisimasa.com",
+        "pagelink": "https://efesasanisimasa.com/2022/09/05/downton-abbey-2019-downton-abbey-egy-uj-korszak-downton-abbey-a-new-era-2022/",
+        "h1": "Downton Abbey (2019) / Downton Abbey: Egy új korszak (Downton Abbey: A New Era, 2022)",
+        "txtlength": 8557
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vallalat/20220906/mintha-vegyszeres-hordok-kozott-ulnek-indulatos-csatarozas-alakult-ki-egy-dunantuli-hulladekkezelo-telep-korul/",
+        "h1": "„Mintha vegyszeres hordók között ülnék” – indulatos csatározás alakult ki egy dunántúli hulladékkezelő telep körül",
+        "txtlength": 32098
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220831_hunyadi_janos_szivvel_lelekkel_kepviselte_a_magyar_erdekeket",
+        "h1": "Hunyadi János szívvel-lélekkel képviselte a magyar érdekeket – Bán „Mór” János a Mandinernek",
+        "txtlength": 31756
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/utazas/20220903/a-balatonon-kivul-is-van-elet-ez-a-videk-tele-van-attrakcioval-megse-jarnak-ide-a-magyarok-1128568",
+        "h1": "A Balatonon kívül is van élet: ez a vidék tele van attrakcióval, mégse járnak ide a magyarok",
+        "txtlength": 26628
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/megtakaritas/20220906/igy-epithetsz-millios-vagyont-a-gyerekednek-pofon-egyszeru-keves-is-eleg-az-indulashoz-1128654",
+        "h1": "Így építhetsz milliós vagyont a gyerekednek: pofon egyszerű, kevés is elég az induláshoz",
+        "txtlength": 22048
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.penzcentrum.hu/egeszseg/20220906/magyarorszagon-is-tamad-a-veszelyes-fertozo-betegseg-osszel-kulonosen-nagy-a-kockazat-1128651",
+        "h1": "Veszedelmes fertőző betegség leshet a magyarokra ősszel: ez az egyik legkockázatosabb időszak",
+        "txtlength": 20001
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220903_migransok_energiavalsag_tarik_meszar_migraciokutato",
+        "h1": "Az energiaválság nem fogja visszatartani a migránsokat – Tárik Meszár a Mandinernek",
+        "txtlength": 17376
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/penz/20220906/epp-osszeomloban-van-az-europai-arampiac-es-ezen-sokan-rengeteget-keresnek/",
+        "h1": "Épp összeomlóban van az európai árampiac, és ezen sokan rengeteget keresnek",
+        "txtlength": 16911
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220906_bloomberg_oroszorszag_gazdasag_recesszio_osszeomlas_kulfold_haboru_valsag",
+        "h1": "Bloomberg: az orosz gazdaság akár tíz évig is recesszióban maradhat",
+        "txtlength": 16572
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20220905/csodhullam-es-megfizethetetlen-arak-jonnek-magyarorszagon-564981",
+        "h1": "Csődhullám és megfizethetetlen árak jönnek Magyarországon",
+        "txtlength": 15257
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/ingatlan/20220906/az-energiavalsag-csak-gyorsitja-az-atallast-nem-lassitja-565367",
+        "h1": "Az energiaválság csak gyorsítja az átállást, nem lassítja",
+        "txtlength": 15117
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2022/09/06/a-tarsadalmi-beilleszkedesre-neveles-nem-a-demokratikus-iskolak-celja-hanem-az-autoriter-vezetoke",
+        "h1": "A TÁRSADALMI BEILLESZKEDÉSRE NEVELÉS NEM A DEMOKRATIKUS ISKOLÁK CÉLJA, HANEM AZ AUTORITER VEZETŐKÉ",
+        "txtlength": 13018
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/terasz/kotelezo-nyelvvizsga-eltorlese/",
+        "h1": "Sokan örülnek neki, pedig rosszul is elsülhet a kötelező nyelvvizsga eltörlése",
+        "txtlength": 12010
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/lajfhekk/parkolas-orr-far/",
+        "h1": "parkolás orr far",
+        "txtlength": 9806
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/tudomany/2022/09/05/konsztantyin-novoszjolov-interju-grafen-nobel-dij-felfedezes-bme/",
+        "h1": "Celluxszal fedezte fel az anyagot, aminek nem is szabadna léteznie",
+        "txtlength": 27417
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/belfold/2022/09/06/jelentos-aremelesek-es-autohiany-magyarorszagon",
+        "h1": "Olcsó új autó többé nem létezik, és már egy használttal is kereshet pénzt a gazdája Magyarországon",
+        "txtlength": 19540
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/elet/20220905_Korda_Gyorgy_szupersztar_tiktok_repter",
+        "h1": "Korda György szupersztár – De miért csavarodtak rá a tinik a 83 éves énekesre?",
+        "txtlength": 17090
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kulfold/2022/09/06/orosz-ukran-haboru-elo-amerikai-hirszerzes-eszak-korea-putyin-zelenszkij/",
+        "h1": "Az orosz gazdaság akár tíz évig is recesszióban maradhat",
+        "txtlength": 13313
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kulfold/2022/09/06/ukrajna-orosz-ukran-haboru-kijev-riport-jaszberenyi-sandor/",
+        "h1": "Ukrajna él és élni akar",
+        "txtlength": 13296
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/eletmod/2022/09/06/online-adatbiztonsag-a-gyerekek-fotoinak-kozlesekor",
+        "h1": "Itt írja alá, anyuka! És ha nem?",
+        "txtlength": 12841
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/zhvg/20220906_Fugeliget_Tormafolde_Szedd_magad",
+        "h1": "Toszkánát idéző mediterrán gyümölcsösben szedtük a fügét Zala megyében",
+        "txtlength": 12811
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20220906_Vallas_ateizmust_nepszamlalas2022_KSH",
+        "h1": "Csak vallásként lehet feltünteni az ateizmust a 2022-es népszámláláson",
+        "txtlength": 11684
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/09/06/europa-energizal",
+        "h1": "Európa energizál",
+        "txtlength": 11379
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kulfold/2022/09/06/orosz-ukran-haboru-194-nap-hirfolyam",
+        "h1": "Erdoğan a szankciókat okolja az európai energiaválságért",
+        "txtlength": 10956
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/09/05/kisebbsegbe-kerult-a-szlovak-kormanykoalicio",
+        "h1": "Kisebbségbe került a szlovák kormánykoalíció",
+        "txtlength": 9668
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/sztarvilag/filmklikk/skyshowtime-magyarorszag-streaming-szolgaltato-kovetkezo-honap/wf58mn8",
+        "h1": "Új streamingszolgáltató érkezik Magyarországra, tele sikerfilmekkel és premierekkel",
+        "txtlength": 7713
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/kulfold/orosz-ukran-haboru-recesszio-oroszorszag-putyin-gazdasagi-valsag/qdtp3wz",
+        "h1": "Putyin a vesztébe rohant a háborúval? Oroszország nagyobb gazdasági recesszióval néz szembe, mint az egész EU",
+        "txtlength": 7641
+    },
+    {
         "hostname": "nosalty.hu",
         "pagelink": "https://www.nosalty.hu/recept/szilvas-lepeny-3-omlos-tesztaval",
         "h1": "Szilvás lepény 3. - omlós tésztával",
