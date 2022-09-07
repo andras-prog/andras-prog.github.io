@@ -1,5 +1,167 @@
 [
     {
+        "hostname": "kiszamolo.hu",
+        "pagelink": "https://kiszamolo.hu/telelj-delen-lehet-olcsobb-lesz-mint-a-futesszamlad/",
+        "h1": "Telelj délen, nem sokkal drágább, mint a fűtésszámlád",
+        "txtlength": 30388
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220905_antall_jozsef_szikrazo_tehetsegnek_tartotta_orban_viktort_boross_peter_a_mandinernek",
+        "h1": "„Antall József szikrázó tehetségnek tartotta Orbán Viktort” – Boross Péter a Mandinernek",
+        "txtlength": 26961
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/global/20220907/hamarosan-ontani-fogjak-a-fegyvereket-a-magyar-gyarak-vajon-mire-keszul-ezzel-a-kormany-565407",
+        "h1": "Hamarosan ontani fogják a fegyvereket a magyar gyárak - Vajon mire készül ezzel a kormány?",
+        "txtlength": 26417
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220906_macron_europa_nem_igazodhat_haborus_hejak_allaspontjahoz",
+        "h1": "Macron: Európa nem igazodhat „háborús héják” álláspontjához",
+        "txtlength": 25646
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/global/20220906/fokozodik-a-kaosz-a-kozel-kelet-eros-embere-korul-hogy-jutott-egy-vezeto-ismet-ekkora-hatalomhoz-564809",
+        "h1": "Fokozódik a káosz a Közel-Kelet erős embere körül - Hogy jutott egy vezető ismét ekkora hatalomhoz?",
+        "txtlength": 22521
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/karrier/20220905/atyaeg-ennyit-keres-egy-diakmelos-2022-oszen-tomegeket-keresnek-reszmunkaidore-is-1128612",
+        "h1": "Atyaég! Ennyit keres egy diákmelós 2022 őszén: tömegeket keresnek, részmunkaidőre is",
+        "txtlength": 21773
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/oktatas/20220904/7-into-jel-hogy-a-gyereked-csak-szenved-az-iskolaban-sok-szulo-siklik-at-a-valodi-probleman-1128572",
+        "h1": "7 intő jel, hogy a gyereked csak szenved az iskolában: sok szülő siklik át a valódi problémán",
+        "txtlength": 21220
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/penz/20220907/logikus-megoldas-lett-az-utcat-futeni-hazszigeteles-helyett/",
+        "h1": "Logikus megoldás lett az utcát fűteni házszigetelés helyett",
+        "txtlength": 20098
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220906_budapester_zeitung_nemetorszag_jan_mainka",
+        "h1": "Szélsőjobbozva ment neki a német közmédia a budapesti német újságnak",
+        "txtlength": 19689
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/global/20220907/egy-epiteszre-bizta-putyin-az-ukrajnai-haborut-csufos-bukas-var-az-egyik-legnepszerubb-orosz-politikusra-565449",
+        "h1": "Egy építészre bízta Putyin az ukrajnai háborút - Csúfos bukás vár az egyik legnépszerűbb orosz politikusra?",
+        "txtlength": 17695
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/tamogatoi-tartalom/20220907/elszivarog-a-penz-a-cegtol-ha-felderitetlenul-maradnak-a-vakfoltok-mi-mindenre-jo-az-irodai-audit/",
+        "h1": "Elszivárog a pénz a cégtől, ha felderítetlenül maradnak a vakfoltok – mi mindenre jó az irodai audit?",
+        "txtlength": 16618
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2022/09/07/a-magyar-iskolarendszer-nem-a-lanyokat-hanem-a-konformitast-reszesiti-elonyben",
+        "h1": "A MAGYAR ISKOLARENDSZER NEM A LÁNYOKAT, HANEM A KONFORMITÁST RÉSZESÍTI ELŐNYBEN",
+        "txtlength": 14971
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/szuloseg/cukor-gyerekek/",
+        "h1": "cukor gyerekek",
+        "txtlength": 14764
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/egeszseg/alvastamogato-reggeli-szokasok/",
+        "h1": "5 reggeli szokás, amire esküsznek az alvásszakértők: javítják az éjszakai pihenés minőségét",
+        "txtlength": 9961
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kultura/2022/09/06/idris-elba-szuletesnap-portre-film-sorozat-drot-haromezer-ev-vagyakozas-james-bond/",
+        "h1": "Sosem lesz 007-es ügynök a leghíresebb Bond-színészből – ötvenéves lett Idris Elba",
+        "txtlength": 23658
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20220907_Vesztegetes_vadak_ORO_letartoztatas_elnok_Agocs",
+        "h1": "„Kérem vissza az ügyészségtől a kék iratrendező táskámat, amiben a 18 millió volt”",
+        "txtlength": 19788
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kultura/2022/09/06/a-gyuruk-ura-a-hatalom-gyurui-sorozat-amazon-prime-video-kritika/",
+        "h1": "A Gyűrűk Ura: A Hatalom Gyűrűi ambiciózus és fenséges, de beváltja-e majd az ígéreteit?",
+        "txtlength": 13967
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/eurologus/20220907_eu_villamos_aram_javaslat",
+        "h1": "Brüsszel közbelépne, hogy olcsóbb legyen az áram, de nem úgy, mint a magyar kormány",
+        "txtlength": 13627
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/fn/gazdasag/2022/09/07/csok-buntetes-buntetokamat-alapkamat-otszorose/",
+        "h1": "A kamatemelések miatt hatalmas büntetés vár azokra, akiknél nem születnek meg a csokos gyerekek",
+        "txtlength": 13478
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/tamogatott-tartalom/2022/09/07/befutott-es-feltorekvo-zeneszek-a-yettel-stage-en",
+        "h1": "Befutott és feltörekvő zenészek a Yettel Stage-en",
+        "txtlength": 13009
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/09/07/korrupt-kecskere-kaposztat",
+        "h1": "Korrupt kecskére káposztát",
+        "txtlength": 11908
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/gazdasag/2022/09/07/uj-korrupcioellenes-hatosagtol-es-munkacsoporttol-mi-varhato-europai-bizottsag-helyreallitasi-alap-egyajanlatos-kozbeszerzesek",
+        "h1": "A NER-es korrupció ellen aligha lesz orvosság egy újabb állami intézmény",
+        "txtlength": 11506
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/09/07/egy-borfesztival-ahol-nemcsak-magyar-vagy-francia-de-amerikai-borokat-is-kostolhatsz",
+        "h1": "Egy borfesztivál, ahol nemcsak magyar vagy francia, de amerikai borokat is kóstolhatsz",
+        "txtlength": 11415
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/vilag/20220907_orosz_ukran_haboru_vlagyimir_putyin_volodimir_zelenszkij",
+        "h1": "Putyin az ukrán gabonaexport korlátozásával fenyeget, orosz hidat robbantottak fel az ukránok – a háború szerdai hírei",
+        "txtlength": 9400
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/sztarvilag/filmklikk/a-tvr-het-ajanlja-szia-eletem-avagy-elet-a-varazserdo-rejteken/mw61xwk",
+        "h1": "Szia, Életem!, avagy élet a varázserdő rejtekén",
+        "txtlength": 9141
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/belfold/2022/09/07/szigorodo-parkolas-a-fovarosban-tobb-birsag-halas-helyiek-az-elso-napon",
+        "h1": "Szigorodó parkolás a fővárosban: több bírság, hálás helyiek az első napon",
+        "txtlength": 8565
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/kulfold/jaroszlavli-legi-katasztrofa-2011lokomotyiv-jaroszlavl-jegkorong-csapat/4l4xjxw",
+        "h1": "Világhírű jégkorongozók vesztek oda a lezuhant gépen: a sporttörténelem egyik legnagyobb katasztrófája – fotók",
+        "txtlength": 8125
+    },
+    {
         "hostname": "mindmegette.hu",
         "pagelink": "https://www.mindmegette.hu/eredeti-hatlapos-sutemeny.recept",
         "h1": "HATLAPOS SÜTEMÉNY",
