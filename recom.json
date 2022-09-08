@@ -1,5 +1,167 @@
 [
     {
+        "hostname": "kulturpart.hu",
+        "pagelink": "https://kulturpart.blog.hu/2022/09/02/utos_nap_lesz_a_ligetben",
+        "h1": "ÜTŐS NAP LESZ A LIGETBEN",
+        "txtlength": 6553
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/gazdasag/20220907/a-kulso-egyensulyi-helyzet-alakulasa-magyarorszagon-az-1970-es-evekben-1128665",
+        "h1": "A külső egyensúlyi helyzet alakulása Magyarországon az 1970-es években",
+        "txtlength": 29220
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20220908/gulyas-gergely-bemondta-gaztakarekossag-jon-az-allamnal-18-fok-lesz-az-epuletekben-565817",
+        "h1": "Gulyás Gergely bemondta: gáztakarékosság jön az államnál, 18 fok lesz az épületekben ",
+        "txtlength": 26965
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220908_liz_truss_brit_kormany",
+        "h1": "Itt van Liz Truss új brit kormánya!",
+        "txtlength": 23902
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/kozelet/20220908/a-megszoritasok-mukodnek/",
+        "h1": "A megszorítások működnek",
+        "txtlength": 23820
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/egeszseg/20220905/5-immunerosito-tipp-az-iskolakezdesre-szinte-semmibe-nem-kerul-megis-rengeteget-szamit-1128634",
+        "h1": "5 immunerősítő tipp az iskolakezdésre: szinte semmibe nem kerül, mégis rengeteget számít",
+        "txtlength": 21987
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220908_belfold_bejelentes_kormanyinfo_gulyas_gergely",
+        "h1": "Kormányinfó: 25 százalékos gázfelhasználási csökkentés jön az állami szférában",
+        "txtlength": 17350
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220908_magyar_nemzeti_muzeum_l_simon_laszlo_rezsi_energia",
+        "h1": "Radikális lépések: így kezd energiaspórolásba a Magyar Nemzeti Múzeum",
+        "txtlength": 17279
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/befektetes/20220908/beszallnal-a-porscheba-mutatjuk-hogyan-erdemes-megjatszani-az-ev-egyik-legjobban-vart-tozsdei-bevezeteset-565773",
+        "h1": "Beszállnál a Porschéba? Mutatjuk, hogyan érdemes megjátszani az év egyik legjobban várt tőzsdei bevezetését",
+        "txtlength": 17065
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.penzcentrum.hu/gazdasag/20220908/igy-keresnek-penzt-a-szerencses-magyarok-a-hobbijukbol-gazdagodnak-meg-a-kivaltsagosok-1128760",
+        "h1": "Így keresnek pénzt a szerencsés magyarok: a hobbijukból gazdagodnak meg a kiváltságosok",
+        "txtlength": 16953
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vallalat/20220906/konfliktusba-kerult-orban-viktorral-egy-oriasceg-felvasarlasa-miatt-a-horvat-kormanyfo-egy-helyi-lap-szerint/",
+        "h1": "Konfliktusba került Orbán Viktorral egy óriáscég felvásárlása miatt a horvát kormányfő egy helyi lap szerint",
+        "txtlength": 16427
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2022/09/07/qubit-live-5-ugy-zajlik-az-egyseges-balatoni-kulturtaj-lerombolasa-hogy-a-tonak-nincs-gazdaja",
+        "h1": "QUBIT LIVE #5: ÚGY ZAJLIK AZ EGYSÉGES BALATONI KULTÚRTÁJ LEROMBOLÁSA, HOGY A TÓNAK NINCS GAZDÁJA",
+        "txtlength": 11940
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/ezo/jurmala-szovjetunio-brezsnyev-udulohely/",
+        "h1": "Itt nyaraltak a szovjet vezetők a kommunizmusban - Jūrmala Brezsnyev egyik kedvenc üdülőhelye volt",
+        "txtlength": 10636
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/lajfhekk/tipp-tanevkezdes/",
+        "h1": "tipp tanévkezdés",
+        "txtlength": 8172
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kulfold/2022/09/07/gaz-gazar-arsapka-aram-aramar-energia-energiaar-energiavalsag-eu-europai-bizottsag-nemetorszag-rezsi-rezsicsokkentes-putyin-ukrajna-oroszorszag-haboru-szankcio-gazprom",
+        "h1": "Az EU elhozná az igazi rezsicsökkentést",
+        "txtlength": 26593
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/gazdasag/20220908_energiabeszerzes_energiakereskedelem_arajanlat_MVM_Audax_kkv",
+        "h1": "Teljes a káosz az energiabeszerzéseknél, a kereskedők sokszor árajánlatot sem mernek adni a cégeknek",
+        "txtlength": 21639
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/english/2022/09/08/another-public-institution-is-hardly-a-cure-for-corruption-in-hungary",
+        "h1": "Another public institution is hardly a cure for corruption in Hungary",
+        "txtlength": 15348
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/belfold/2022/09/08/onkormanyzatok-rezsi-aram-futes-intezmenyek-bezaras",
+        "h1": "A rezsipara miatt a színházat és az uszodát is beáldozzák az önkormányzatok, de még ez is kevés lehet",
+        "txtlength": 15097
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/tech/2022/09/07/iphone-14-max-pro-max-bejelentes-specifikaciok-apple/",
+        "h1": "iPhone 14: az Apple bemutatta idei csúcstelefonjait",
+        "txtlength": 14748
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kulfold/2022/09/08/orosz-ukran-haboru-putyin-zelenszkij-percrol-percre/",
+        "h1": "Zelenszkij: Több települést visszafoglaltak az ukrán erők",
+        "txtlength": 13395
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/gazdasag/20220908_jovoteremtok_tedx_BMW_Hanko_gergely_fenntarthatosag_klimavedelem_kornyezetvedelem",
+        "h1": "Fenntarthatóság itthon: kihagyott ziccerek, biztató ötletek – videó",
+        "txtlength": 13111
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20220908_Valtas_Fudan_Egyetem_alapitvany_Mediaworksvezer_foigazgato",
+        "h1": "Lefejezték a Fudan Egyetemet fenntartó alapítványt, a volt Mediaworks-vezér lett a főigazgató",
+        "txtlength": 12788
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2022/09/08/tarvagas-fakivagas-balatonfured/",
+        "h1": "Tarvágás nincs, de csak mutatóban maradt fa a Balatonfüred feletti fennsíkon",
+        "txtlength": 12309
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/09/08/ki-akarja-elhinni-hogy-a-kormany-fellep-a-korrupcio-ellen",
+        "h1": "Ki akarja elhinni, hogy a kormány fellép a korrupció ellen?",
+        "txtlength": 11741
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/09/08/vadat-emeltek-tobb-gondnok-es-tisztviselo-ellen-akik-kenopenzert-vettek-fel-otthonokba-idoseket-es-elsikkasztottak-azok-vagyontargyait",
+        "h1": "Vádat emeltek több gondnok és tisztviselő ellen, akik kenőpénzért vettek fel otthonokba időseket",
+        "txtlength": 10090
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/a-muveszet-gyogyito-ereje-az-artupunktura-fesztival-visszater-zagrabba/jd62m4x",
+        "h1": "A művészet gyógyító ereje: az Artupunktura fesztivál visszatér Zágrábba",
+        "txtlength": 8813
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/miskolci-baleset-telefonhivas-vajudo-anya-korhaz/nwc0gqs",
+        "h1": "A világ legdrámaibb telefonhívása a vajúdó anyának: „Szörnyethalt a férje és a gyermeke a miskolci balesetben” – Döbbenetes részletek a reggeli tragédiáról",
+        "txtlength": 7435
+    },
+    {
         "hostname": "kiszamolo.hu",
         "pagelink": "https://kiszamolo.hu/telelj-delen-lehet-olcsobb-lesz-mint-a-futesszamlad/",
         "h1": "Telelj délen, nem sokkal drágább, mint a fűtésszámlád",
