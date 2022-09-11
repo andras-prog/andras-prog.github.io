@@ -1,6 +1,180 @@
 [
     {
         "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/dios-sajtos-tepsis-csirkemell.recept",
+        "h1": "DIÓS-SAJTOS TEPSIS CSIRKEMELL",
+        "txtlength": 9885
+    },
+    {
+        "hostname": "hataratkelo.blog.hu",
+        "pagelink": "https://hataratkelo.blog.hu/2022/08/30/hollandiai_keseredes_szoba_2_fallal_1000_euroert",
+        "h1": "Hollandiai keserédes – szoba 2 fallal 1000 euróért",
+        "txtlength": 49505
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220908_az_impakt_faktoromat_kilotonnakban_merem_robert_c_castel_izraeli_biztonsagpolitikai_szakerto_a_mandinernek",
+        "h1": "A történelmi tapasztalat alapján racionális döntés volt Putyintól az invázió – Robert C. Castel izraeli biztonságpolitikai szakértő a Mandinernek",
+        "txtlength": 29454
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/auto/20220911/gatlastalan-csalok-telepedtek-a-magyar-autopiacra-siman-atvernek-lehuznak-ha-nem-vigyazol-1128718",
+        "h1": "Gátlástalan csalók telepedtek a magyar autópiacra: simán átvernek, lehúznak, ha nem vigyázol",
+        "txtlength": 25929
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://makronom.mandiner.hu/cikk/20220910_a_kreml_vegul_megcsomorlik_a_kinara_utaltsagatol",
+        "h1": "A Kreml végül megcsömörlik a Kínára utaltságától",
+        "txtlength": 22917
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/nyugdij/20220910/nyugdijemeles-2022-lesz-akinek-plusz-50-ezer-forint-is-jarhat-mas-pedig-egy-fillert-sem-kap-novemberben-1128772",
+        "h1": "Nyugdíjemelés 2022: lesz, akinek plusz 50 ezer forint is járhat, más pedig egy fillért sem kap novemberben",
+        "txtlength": 21862
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220911_zentai_csata_tortenelem",
+        "h1": "Így áldozott le a török uralomnak Magyarországon – a zentai csatában",
+        "txtlength": 19267
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/elet/20220911/borzasztoan-hat-ez-ram-de-mi-tehetunk-rola-hogyan-pusztitott-az-aszaly-a-kozsegekben/",
+        "h1": "„Borzasztóan hat ez rám. De mi tehetünk róla” – hogyan pusztított az aszály a községekben?",
+        "txtlength": 18344
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/podcast/20220910/holoda-attila-az-energiavalsagrol-nem-ez-a-tel-lesz-kerdeses-hanem-a-kovetkezo/",
+        "h1": "Holoda Attila az energiaválságról: „Nem ez a tél lesz kérdéses, hanem a következő”",
+        "txtlength": 17235
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.penzcentrum.hu/auto/20220911/amire-senki-sem-szamitott-komolyan-ezek-a-magyarok-kedvenc-autoi-1128719",
+        "h1": "Amire senki sem számított: komolyan ezek a magyarok kedvenc autói?",
+        "txtlength": 15055
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/uzlet/20220911/a-felvezetoke-a-jovo-565307",
+        "h1": "A félvezetőké a jövő?",
+        "txtlength": 13639
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2022/09/11/ime-19-emlos-amit-az-ember-a-kihalas-szelere-juttatott",
+        "h1": "ÍME 19 EMLŐS, AMIT AZ EMBER A KIHALÁS SZÉLÉRE JUTTATOTT",
+        "txtlength": 13520
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/global/20220910/uj-problemaval-nez-szembe-az-amerikai-hadero-kukazzak-a-legendas-fegyveruket-es-europahoz-fordulnak-566175",
+        "h1": "Új problémával néz szembe az amerikai haderő - Kukázzák a legendás fegyverüket és Európához fordulnak",
+        "txtlength": 13456
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/kapcsolat/sztalin-lanya/",
+        "h1": "Sztálin lánya a valóságban áldozat volt: Szvetlana igazságtalanul szenvedett apja bűneiért",
+        "txtlength": 12950
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/testem/no-test-tokeletes/",
+        "h1": "nő test tökéletes",
+        "txtlength": 11127
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/lajfhekk/mososzer-adagolasa/",
+        "h1": "Mosószer adagolása",
+        "txtlength": 7597
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/tudomany/2022/09/10/stonehenge-mire-hasznaltak-epitese-csillagaszat-naptar-gyogyitas-neolitikum-ujkokor-timothy-darvill/",
+        "h1": "„Én vagyok az egyetlen élő ember, aki a Stonehenge-ben végzett feltárást”",
+        "txtlength": 28648
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kultura/2022/09/11/csath-geza-a-kutya-hires-allattortenetek-dog-matine/",
+        "h1": "Pokollá tette a család életét a neves tenyésztőtől vásárolt óriási dog",
+        "txtlength": 25965
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kulfold/2022/09/11/karoly-erzsebet-kiraly-kiralyno-tronorokos-nagy-britannia-london-temetes-varakozasok",
+        "h1": "III. Károlyt trónörökösként jól ismerte a világ, most az a kérdés, milyen király lesz belőle",
+        "txtlength": 21924
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/tudomany/2022/09/11/viktoria-kiralyno-nagy-britannia-tortenelem/",
+        "h1": "Gyilkossági kísérlet miatt alapított kémhálózatot a brit királynő",
+        "txtlength": 21081
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/foto/2022/09/10/ii-erzsebet-magyarorszagi-latogatas-1993",
+        "h1": "II. Erzsébet 1993-as magyarországi látogatása mindennél jobban megmutatja, miért áll ő olyan közel a magyar szívekhez",
+        "txtlength": 18349
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/cegauto/20220911_amikor_a_kevesebb_sokkal_tobb_kokemeny_porschekat_hajtottunk_meg_a_hungaroringen",
+        "h1": "Amikor a kevesebb sokkal több: kőkemény Porschékat hajtottunk meg a Hungaroringen",
+        "txtlength": 13576
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/gazdasag/20220911_Es_akkor_arsapka_rezsi_futes_tavho",
+        "h1": "És akkor ársapka, sál, nagykabát",
+        "txtlength": 13180
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/kkv/20220911_webshop_ekereskedelem_fogyasztas_online_kereskedelem",
+        "h1": "Olyan jön a webshopoknál, ami még nem volt: kemény verseny",
+        "txtlength": 12878
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/gasztro/2022/09/11/a-negyven-eve-valtozatlan-ocsi-etkezde-amit-a-new-york-times-is-meltat",
+        "h1": "A titkos 8. kerületi étkezde, ami még a New York Times-ba is bekerült",
+        "txtlength": 12417
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/09/11/masodik-vilaghaborus-bomba-miatt-zarjak-le-hetfon-a-varkert-bazar-kornyeket",
+        "h1": "Második világháborús bomba miatt zárják le hétfőn a Várkert Bazár környékét",
+        "txtlength": 9812
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/09/10/a-pedagogus-szakszervezetek-tiltakoznak-az-engedetlenkedo-tanarokat-ero-fenyegetesek-miatt",
+        "h1": "A pedagógus-szakszervezetek tiltakoznak az engedetlenkedő tanárokat érő fenyegetések miatt",
+        "txtlength": 9729
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/krimi/regi-bunugyek-rablogyilkossag-cibakhaza-plebanos-w-renato-21-ev-fegyhaz/sbm965r?sl_ps=d_10",
+        "h1": "A 19 éves rablógyilkos brutális módon ölte meg jószívű áldozatát, András atyát",
+        "txtlength": 7047
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/kulfold/21-eve-tortent-2001-es-new-yorki-terrortamadas-world-trade-center/73jg9x5?sl_ps=d_12",
+        "h1": "A képek, amelyek 21 éve beleégtek a retinánkba – fotók",
+        "txtlength": 6832
+    },
+    {
+        "hostname": "mindmegette.hu",
         "pagelink": "https://www.mindmegette.hu/glutenmentes-somloi-torta.recept",
         "h1": "GLUTÉNMENTES SOMLÓI TORTA",
         "txtlength": 11975
