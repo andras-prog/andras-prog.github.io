@@ -1,6 +1,174 @@
 [
     {
         "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/sved-mandulatorta-video.recept",
+        "h1": "SVÉD MANDULATORTA",
+        "txtlength": 12042
+    },
+    {
+        "hostname": "hataratkelo.blog.hu",
+        "pagelink": "https://hataratkelo.blog.hu/2022/09/03/europa_a_gyozelem",
+        "h1": "Európa, a győzelem",
+        "txtlength": 49921
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/karrier/20220912/igy-reagal-a-valsagra-a-telekom-csoportos-leepites-helyett-berfejlesztes-jon-1128800",
+        "h1": "Így reagál a válságra a Telekom: csoportos leépítés helyett bérfejlesztés jön",
+        "txtlength": 27113
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20220912/kritikus-a-helyzet-az-epitoiparban-de-van-remeny-sok-tizmilliard-megsporolasara-565617",
+        "h1": "Kritikus a helyzet az építőiparban, de van remény sok tízmilliárd megspórolására!",
+        "txtlength": 24169
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/utazas/20220909/lassan-befellegzik-az-adriai-nyaralasoknak-ez-lehet-a-magyarok-uj-kedvenc-tengerpartja-1128775",
+        "h1": "Lassan befellegzik az adriai nyaralásoknak: ez lehet a magyarok új kedvenc tengerpartja",
+        "txtlength": 23112
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.penzcentrum.hu/hitel/20220912/ez-most-a-rezsiemeles-egyik-legnagyobb-dilemmaja-csaladok-tomegeinek-jovoje-mulhat-ezen-1128864",
+        "h1": "Ez most a rezsiemelés egyik legnagyobb dilemmája: családok tömegeinek jövője múlhat ezen",
+        "txtlength": 22654
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/penz/20220912/ha-azt-latnank-az-esg-ben-amit-tud-mar-beljebb-lennenk/",
+        "h1": "Ha azt látnánk az ESG-ben, amit tud, már beljebb lennénk",
+        "txtlength": 21617
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20220912/bod-peter-akos-oveket-becsatolni-kemeny-foldet-eres-johet-magyarorszagon-566311",
+        "h1": "Bod Péter Ákos: Öveket becsatolni! Kemény földet érés jöhet Magyarországon",
+        "txtlength": 21531
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220907_budapest_i_kerulet_budavar_fidesz_kdnp_jobbik_momentum_lmp_dk_mszp_parbeszed_belfold",
+        "h1": "A budavári időközi választásnak az a tétje, megmarad-e V. Naszályi többsége",
+        "txtlength": 21423
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220907_halasak_vagyunk_magyarorszagnak_karpatalja_kormanyzoja_a_mandinernek",
+        "h1": "„Hálásak vagyunk Magyarországnak” – Kárpátalja kormányzója a Mandinernek",
+        "txtlength": 21011
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220908_roller_elektromos_roller_lime_bird_tier_kozlekedes_budapest_kerulet_szabaly_kresz_mento_rendor_korhaz",
+        "h1": "Nincs még egy jármű, ami ennyire megosztaná a társadalmat",
+        "txtlength": 20171
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/elet/20220911/kaoszbol-zurzavarba-csoppentek-az-iskolakezdessel-a-magyarorszagra-menekult-ukran-gyerekek/",
+        "h1": "Káoszból zűrzavarba csöppentek az iskolakezdéssel a Magyarországra menekült ukrán gyerekek",
+        "txtlength": 20093
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2022/09/12/szegeny-vagy-de-gazdag-lennel-baratkozz-gazdagokkal",
+        "h1": "SZEGÉNY VAGY, DE GAZDAG LENNÉL? BARÁTKOZZ GAZDAGOKKAL!",
+        "txtlength": 15007
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/utazas/also-ausztria-latnivaloi/",
+        "h1": "Mintha megállt volna az idő a mesébe illő barokk kastélyokban: Alsó-Ausztria gyöngyszemeit egyszer látni kell",
+        "txtlength": 13994
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/szuloseg/kanada-oslakos-gyerekek/",
+        "h1": "kanada őslakos gyerekek",
+        "txtlength": 12957
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/belfold/2022/09/12/biroi-fuggetlenseg-orszagos-biroi-tanacs-elnok-es-szovivo-bohli-eszter-vasvari-csaba-interju",
+        "h1": "Országos Bírói Tanács: Amikor a szóvivőnket támadják, a teljes magyar bírói társadalmat próbálják megfélemlíteni",
+        "txtlength": 30601
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2022/09/12/demografia-kapitany-balazs-magyarorszag-nepessegfogyas-interju/",
+        "h1": "Bár megállítható a népességfogyás Magyarországon, Orbán célja elérhetetlen",
+        "txtlength": 28799
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kulfold/2022/09/12/brit-nemzetkozosseg-eszak-irorszag-kanada-ausztralia-fuggetlenedes",
+        "h1": "II. Erzsébet még 15 ország királynőjeként halt meg, kérdés, III. Károly alatt meddig zsugorodik a királyság",
+        "txtlength": 17179
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/tech/2022/09/11/samsung-galaxy-z-fold4-flip4-hajtogatos-telefon-teszt",
+        "h1": "Jó ez a hajtogatós telefon, csak ne lenne még mindig ilyen kényelmetlen",
+        "txtlength": 16760
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/sztarvilag/kultura/petofi-sandor-hazassag-szerelem-szendrey-julia-ozvegy/4eny38q",
+        "h1": "Tiszavirág életű szerelem, intrika és a drasztikus feketeleves: Petőfi Sándor házasságkötése, Szendrey Júlia egyszemélyes drámája",
+        "txtlength": 15499
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/09/12/nem-egeszseges-allapot-ha-a-felugyelt-szemely-jogertelmezese-donti-el-hogy-az-ot-felugyelo-testulet-hataskoreibe-mi-tartozik-bele-es-mi-nem",
+        "h1": "„Nem egészséges állapot, ha a felügyelt személy jogértelmezése dönti el, hogy az őt felügyelő testület hatásköreibe mi tartozik bele, és mi nem”",
+        "txtlength": 13142
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/gazdasag/20220912_Mar_terjednek_a_67_szazalekos_beteti_kamatok_a_bankoknal",
+        "h1": "Már terjednek a 6-7 százalékos betéti kamatok a bankoknál",
+        "txtlength": 12887
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20220911_Ket_ora_a_magyarorszagi_putyinistak_sasfeszkeben",
+        "h1": "Két órát töltöttünk a magyarországi putyinisták sasfészkében",
+        "txtlength": 12612
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/09/12/polgari-piknik-kifejezetten-a-meg-nem-szoritasok-idejen-18-millios-ekszerekkel",
+        "h1": "Polgári piknik kifejezetten a meg nem szorítások idején, 18 milliós ékszerekkel",
+        "txtlength": 12369
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/fn/gazdasag/2022/09/12/nav-adohivatal-adohatosag-adoellenorzes-adozas-adat-mesterseges-intelligencia-vagujhelyi-ferenc/",
+        "h1": "Megszólalt a NAV-elnök: annyit tudunk az adózókról, amennyit Európában egyik hivatal sem",
+        "txtlength": 12283
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/nepszamlalas-vasarlasi-utalvanyt-nyerhetnek-akik-online-toltik-ki-a-kerdoivet/frv0xdd",
+        "h1": "Népszámlálás: vásárlási utalványt nyerhetnek, akik online töltik ki a kérdőívet",
+        "txtlength": 12261
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/kultura/20220912_tuzben_edzett_szerelem_kritika_dokumentumfilm_vulkan_cinefest_vulkanologus_hazaspar_fire_of_love",
+        "h1": "Egy vulkánból kiömlő láván tojást sütni csak olyan, mint Belgium utcáin sétálni",
+        "txtlength": 11518
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2022/09/08/kormanyinfo-szeptember-8-gulyas-gergely-bejelentes/",
+        "h1": "Gulyás Gergely: 18 fok lesz az állami intézményekben",
+        "txtlength": 11464
+    },
+    {
+        "hostname": "mindmegette.hu",
         "pagelink": "https://www.mindmegette.hu/dios-sajtos-tepsis-csirkemell.recept",
         "h1": "DIÓS-SAJTOS TEPSIS CSIRKEMELL",
         "txtlength": 9885
