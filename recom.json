@@ -1,5 +1,173 @@
 [
     {
+        "hostname": "kiszamolo.hu",
+        "pagelink": "https://kiszamolo.hu/tamogatas-split-klimara/",
+        "h1": "Támogatás klímatelepítésre?",
+        "txtlength": 29217
+    },
+    {
+        "hostname": "efesasanisimasa.com",
+        "pagelink": "https://efesasanisimasa.com/2022/09/10/furioza-2021/",
+        "h1": "Furioza (2021)",
+        "txtlength": 9882
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/penz/20220912/most-ra-lehetne-venni-a-fogyasztokat-hogy-fenntarthato-modon-reagaljanak-az-energiavalsagra/",
+        "h1": "Most rá lehetne venni a fogyasztókat, hogy fenntartható módon reagáljanak az energiaválságra",
+        "txtlength": 22952
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/global/20220912/a-hadsereg-nelkuli-orszag-amely-a-vilag-egyik-legproblemasabb-tersegeben-lett-az-okoturizmus-fellegvara-565951",
+        "h1": "A hadsereg nélküli ország, amely a világ egyik legproblémásabb térségében lett az ökoturizmus fellegvára",
+        "txtlength": 22235
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/nyugdij/20220908/nyugdijemeles-2022-hivatalos-ennyi-plusz-penzt-kaphatnak-a-nyugdijasok-novemberben-1128736",
+        "h1": "Nyugdíjemelés 2022: hivatalos, ennyi plusz pénzt kaphatnak a nyugdíjasok novemberben",
+        "txtlength": 21972
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/otthon/20220913/igy-kaphat-extra-lakber-kedvezmenytrengeteg-magyar-csalad-telen-a-rezsiemeles-ezt-is-elintezte-1128875",
+        "h1": "Így kaphat extra lakbér kedvezményt rengeteg magyar család télen: a rezsiemelés ezt is elintézte",
+        "txtlength": 20738
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/kozelet/20220913/az-onkormanyzatoknak-minden-negyedik-forintot-rezsire-kellene-kolteni-ami-lehetetlen-lesz/",
+        "h1": "Az önkormányzatoknak minden negyedik forintot rezsire kellene költeni, ami lehetetlen lesz",
+        "txtlength": 20730
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220913_gulyas_marton_bajnai_gordon_soros_gyorgy_datadat_partizan_marki_zay_peter_kulfoldi_forrasok_adomanyok_baloldal_halozat",
+        "h1": "Pénzmágnes: ahol Gulyás Márton felbukkan, ott hirtelen felsorakoznak a nemzetközi donorok",
+        "txtlength": 20046
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220913_nemet_katolikus_egyhaz",
+        "h1": "A német katolikus egyház épp megszűnik katolikusnak lenni",
+        "txtlength": 19181
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220912_giorgia_meloni_olaszorszag_kulfold_lengyelorszag_magyarorszag_enrico_letta",
+        "h1": "Olasz baloldal: Magyarországot a közös európai migrációs döntésekből is ki kell zárni!",
+        "txtlength": 16397
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/uzlet/20220913/jonnek-a-friss-informaciok-a-masterplastrol-olcso-meg-a-reszveny-566403",
+        "h1": "Jönnek a friss információk a Masterplastról - Olcsó még a részvény?",
+        "txtlength": 15958
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.penzcentrum.hu/karrier/20220913/magyarokat-keresnek-postasnak-az-osztrakok-675-ezres-alapber-vegzetseg-nem-kell-csak-b-s-jogsi-1128903",
+        "h1": "Magyarokat keresnek postásnak az osztrákok: 675 ezres alapbér, végzetség nem kell, csak B-s jogsi",
+        "txtlength": 15045
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/szuloseg/gyerek-szules-harag/",
+        "h1": "gyerek szülés harag",
+        "txtlength": 12749
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/egeszseg/tippek-szivvedo-setalashoz/",
+        "h1": "Ennyit kéne sétálni egy héten a szív védelmében: a kardiológusok tippjeivel még hatékonyabb lehet a gyaloglás",
+        "txtlength": 9949
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2022/09/13/az-illiberalis-rendszerekbe-bele-van-kodolva-a-kirekesztes",
+        "h1": "AZ ILLIBERÁLIS RENDSZEREKBE BELE VAN KÓDOLVA A KIREKESZTÉS",
+        "txtlength": 8756
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kulfold/2022/09/13/orosz-ukran-haboru-lezaras-fegyverszunet-beke-nyolc-forgatokonyv/",
+        "h1": "Nyolc forgatókönyv, ahogy befejeződhet az ukrajnai háború",
+        "txtlength": 25364
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kulfold/2022/09/12/harkiv-ukran-ellentamadas-elemzes-racz-andras",
+        "h1": "Ilyen látványosan még nem omlott össze az orosz hadsereg Ukrajnában, mint a harkivi ellentámadásnál",
+        "txtlength": 18691
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/fn/gazdasag/2022/09/13/napelem-palyazat-rrf-tamogatas-unios-futeskorszerusites-rezsi-rezsicsokkentes-energiaszamla-napelemmodul/",
+        "h1": "Minden igénylő bukott a napelempályázaton, mert nem érkeznek időben a támogatások",
+        "txtlength": 16097
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/gazdasag/20220912_hetescikk_jelentes_magyar_jogallamisag_Europai_Parlament",
+        "h1": "Nem vár tovább a tagállamokra, politikai üzenetre készül a magyar jogállamiság ügyében az Európai Parlament",
+        "txtlength": 15646
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/vilag/20220912_Ukrajna_ellentamadas_Oroszorszag",
+        "h1": "Mitrovits Miklós: \"Nagyon messze vannak az ukránok attól, hogy megnyerjék a háborút, de most jó ütemben haladnak\"",
+        "txtlength": 15381
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kulfold/2022/09/13/ukrana-oroszorszag-dron-hadviseles-haditechnika",
+        "h1": "Egyre kiterjedtebb a nagy orosz–ukrán drónháború",
+        "txtlength": 14516
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/kkv/20220913_energiavalsag_energiatakarekossag_plazak_uzletlancok",
+        "h1": "A plázákban melegebb lesz télen, mint a hivatalokban",
+        "txtlength": 14023
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kulfold/2022/09/13/iii-karoly-kiraly-erdely/",
+        "h1": "Erdélyben sokan aggódnak, mert III. Károly már sosem térhet vissza csak úgy",
+        "txtlength": 12541
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/gazdasag/2022/09/13/takarmany-hus-tej-inflacio-dragulas-energia",
+        "h1": "Jön a 100 forintos tojás, drágul a hús és a tej, sorra kerülhetnek a desszertek is",
+        "txtlength": 12261
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/09/13/hadtorteneti-pillanatok",
+        "h1": "Hadtörténeti pillanatok",
+        "txtlength": 11558
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/09/13/elhunyt-jean-luc-godard",
+        "h1": "Elhunyt Jean-Luc Godard",
+        "txtlength": 10504
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/kulfold/orosz-ukran-haboru-kreml-szovivo/czvlmzp",
+        "h1": "Orosz–ukrán háború: ez a Kreml hivatalos válasza az orosz visszavonulásra",
+        "txtlength": 10162
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/kulfold/gyermekek-vaksag-gyogyithatatlan-vilagkoruli-csaladi-ut/nf7dzsw",
+        "h1": "Világkörüli útra indul egy család, mielőtt a gyerekeik végleg elveszítik a látásukat – fotók",
+        "txtlength": 7165
+    },
+    {
         "hostname": "mindmegette.hu",
         "pagelink": "https://www.mindmegette.hu/sved-mandulatorta-video.recept",
         "h1": "SVÉD MANDULATORTA",
