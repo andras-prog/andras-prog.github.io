@@ -1,5 +1,179 @@
 [
     {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/baconos-sajtos-sorkenyer.recept",
+        "h1": "BACONÖS-SAJTOS SÖRKENYÉR",
+        "txtlength": 11353
+    },
+    {
+        "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/labancpecsenye-lilalicsi-konyhajabol",
+        "h1": "Labancpecsenye Lilalicsi konyhájából",
+        "txtlength": 10710
+    },
+    {
+        "hostname": "kulturpart.hu",
+        "pagelink": "https://kulturpart.blog.hu/2022/09/14/berlini_feeling_budapesten",
+        "h1": "BERLINI FEELING BUDAPESTEN",
+        "txtlength": 5643
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/hitel/20220913/ok-lehetnek-az-elso-rezsikarosultak-ilyen-hazban-elnek-igy-vagnak-neki-a-telnek-1128632",
+        "h1": "Ők lehetnek az első rezsikárosultak: ilyen házban élnek, így vágnak neki a télnek",
+        "txtlength": 28756
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220915_keresztenyuldozes_juliana_taimoorazy",
+        "h1": "„Koszos keresztényezve estek anyám torkának” – asszír keresztény aktivista a Mandinernek",
+        "txtlength": 27828
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vilag/20220914/a-nyugati-vilag-ujra-az-atomhoz-fordulna-csak-elfelejtette-hogy-kell-eromuvet-epiteni/",
+        "h1": "A nyugati világ újra az atomhoz fordulna, csak elfelejtette, hogy kell erőművet építeni",
+        "txtlength": 26549
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.penzcentrum.hu/vallalkozas/20220915/rengeteg-magyar-kedvenc-termeke-tunhet-el-a-boltok-polcairol-oriasi-a-baj-ennek-nem-latni-a-veget-1128804",
+        "h1": "Rengeteg magyar kedvenc terméke tűnhet el a boltok polcairól: óriási a baj, ennek nem látni a végét",
+        "txtlength": 23804
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/vallalkozas/20220915/rengeteg-magyar-kedvenc-termeke-tunhet-el-a-boltok-polcairol-oriasi-a-baj-ennek-nem-latni-a-veget-1128804",
+        "h1": "Rengeteg magyar kedvenc terméke tűnhet el a boltok polcairól: óriási a baj, ennek nem látni a végét",
+        "txtlength": 23763
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220914_kozep_azsia_utazas",
+        "h1": "Ilyen Eurázsia szíve a háború árnyékában – Közép-Ázsia közelről",
+        "txtlength": 23306
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20220915/fuldoklik-a-rezsiszamlakban-a-videki-magyarorszag-a-kormany-segitsegere-varnak-a-varosok-566897",
+        "h1": "Fuldoklik a rezsiszámlákban a vidéki Magyarország – A kormány segítségére várnak a városok",
+        "txtlength": 23222
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/uzlet/20220915/tibor-david-strategiai-kenyszer-lett-a-szigeteles-az-energiavalsagban-allami-programok-kellenek-566975",
+        "h1": "Tibor Dávid: stratégiai kényszer lett a szigetelés az energiaválságban, állami programok kellenek",
+        "txtlength": 22868
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220914_cziffra_gyorgy_balazs_janos_klasszikus_zene",
+        "h1": "Így hódíthatja meg a magyar romantika a világ koncerttermeit – Balázs János a Mandinernek",
+        "txtlength": 21155
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vilag/20220913/hamar-elszallt-a-remeny-hogy-europa-hozzajusson-az-irani-olajhoz-es-gazhoz/",
+        "h1": "Hamar elszállt a remény, hogy Európa hozzájusson az iráni olajhoz és gázhoz",
+        "txtlength": 18835
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/szuloseg/abortusz-szivhang/",
+        "h1": "abortusz szívhang",
+        "txtlength": 11273
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2022/09/15/iii-karoly-a-homeopata-klimakiraly",
+        "h1": "III. KÁROLY, A HOMEOPATA KLÍMAKIRÁLY",
+        "txtlength": 11166
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/egeszseg/latasromlas-fejfajas-olvasoszemuveg-optometrista-ofotert/",
+        "h1": "Összefolynak a betűk? Csak távolabbról látod jól a monitort? Van sokkal jobb megoldás, mint az egyszerű olvasószemüveg",
+        "txtlength": 11097
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/eletmod/2022/09/14/nemi-sztereotipiak-az-iskolaban-okos-fiuk-szorgalmas-lanyok-asz-tanulmany",
+        "h1": "Az okos fiú, a szorgalmas lány és a mindkettőjüket megfojtó nemi sztereotípiák",
+        "txtlength": 19242
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kultura/2022/09/14/grace-kelly-monacoi-hercegno-40-eve-halt-meg-iii-rainier-hollywood/",
+        "h1": "Tündérmeséből tragédia – 40 éve halt meg Grace Kelly",
+        "txtlength": 19161
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/direkt36/2022/09/15/orban-aron-egyszerre-hirdet-fogyokuras-elelmiszert-es-fegyvereket-kozben-kormanykozeli-uzletemberek-bukkannak-fel-korulotte",
+        "h1": "Orbán Áron egyszerre hirdet fogyókúrás élelmiszert és fegyvereket. Közben kormányközeli üzletemberek bukkannak fel körülötte",
+        "txtlength": 16873
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kulfold/2022/09/14/nato-kozep-europa-ukrajnai-haboru-konferencia-egyensuly-intezet/",
+        "h1": "Itt az új hidegháború, de Putyin nem az új Brezsnyev",
+        "txtlength": 16168
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/belfold/2022/09/14/nagy-janos-agrarminiszterium-helyettes-allamtitkar-hivatali-vesztegetes",
+        "h1": "Nyomás alatt állt, és nagy hirtelenjében ötszázalékos tulajdonrészt ajánlott a helyettes államtitkárnak",
+        "txtlength": 14335
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2022/09/15/zuglo-idokozi-onkormanyzati-valasztas-toth-csaba-ellenzek/",
+        "h1": "Levegőben lóg az újabb ellenzéki bukás: Zuglóban a Tóth Csabához köthető jelölt is az összefogással szemben indul",
+        "txtlength": 14248
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/09/15/europa-nagy-resze-szerint-magyarorszagon-mar-nincs-demokracia",
+        "h1": "Európa nagy része szerint Magyarországon már nincs demokrácia",
+        "txtlength": 13515
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/vilag/20220915_haboru_oroszorszag_ukrajna_putyin_zelenszkij_von_der_leyen",
+        "h1": "Találkozik Putyin és Hszi Csin-ping, önjáró lövegeket küldtek a németek Ukrajnának – a háború csütörtöki hírei",
+        "txtlength": 12636
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/09/14/von-der-leyen-batrabb-uniora-van-szukseg-maradnak-a-szankciok",
+        "h1": "Von der Leyen: Bátrabb unióra van szükség, maradnak a szankciók",
+        "txtlength": 11911
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/kultura/20220914_A_kiralyno_utolso_utja__erre_szamithatunk_szeptember_19en",
+        "h1": "A királynő utolsó útja – erre számíthatunk szeptember 19-én",
+        "txtlength": 11661
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20220915_Ukrajna_tankonyv_diplomacia_felhaborodas",
+        "h1": "Maruzsáék szerint nem indokolt egyeztetni a vitatott földrajzkönyv ügyében, ami miatt az ukránok felháborodtak",
+        "txtlength": 10967
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/magyarorszag-katonakat-kuld-irakba/q9yyv7n?sl_ps=d_12",
+        "h1": "139 katona indult keletre Magyarországról – fotók",
+        "txtlength": 9445
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/krimi/schadl-csalas-korrupciobeatrix-38-millio-vegrehajto-letartoztatas-karosult-moratorium/c5577sg",
+        "h1": "Beatrix: 38 millióért vitték el a félmilliárdos házamat – Lelepleztük, hogyan működött a Schadl-féle végrehajtói maffia",
+        "txtlength": 9428
+    },
+    {
         "hostname": "kiszamolo.hu",
         "pagelink": "https://kiszamolo.hu/nagyobb-haz-nagyobb-boldogsag/",
         "h1": "Nagyobb ház, nagyobb boldogság?",
