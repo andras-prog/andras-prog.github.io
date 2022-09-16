@@ -1,5 +1,179 @@
 [
     {
+        "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/almas-kelt-palacsinta",
+        "h1": "Almás kelt palacsinta",
+        "txtlength": 10455
+    },
+    {
+        "hostname": "kiszamolo.hu",
+        "pagelink": "https://kiszamolo.hu/boldogsag-mindenek-felett/",
+        "h1": "Boldogság mindenek felett",
+        "txtlength": 34385
+    },
+    {
+        "hostname": "kulturpart.hu",
+        "pagelink": "https://kulturpart.hu/2022/09/14/berlini_feeling_budapesten",
+        "h1": "BERLINI FEELING BUDAPESTEN",
+        "txtlength": 5562
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20220916/kiszamoltak-mennyire-fog-fajni-magyarorszagnak-es-europanak-a-teli-energiavalsag-567253",
+        "h1": "Kiszámolták, mennyire fog fájni Magyarországnak és Európának a téli energiaválság",
+        "txtlength": 26005
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/ingatlan/20220915/2022-ben-ok-lettek-az-ingatlanpiac-legjobbjai-566505",
+        "h1": "2022-ben ők lettek az ingatlanpiac legjobbjai!",
+        "txtlength": 25028
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220915_gulyas_marton_partizan_bajnai_gordon_datadat_soros_gyorgy_open_society_foundations_baloldal_halozat_befolyasolasi_kiserlet",
+        "h1": "Soros és Bajnai ezúttal is a spájzban voltak, idegen befolyásolási kísérlet történhetett a kampányban",
+        "txtlength": 23025
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/karrier/20220914/nem-nyugodhat-meg-aki-faval-futene-a-telen-hiaba-a-hatosagi-ar-ujabb-hidegzuhany-johet-1128913",
+        "h1": "Nem nyugodhat meg, aki fával fűtene a télen: hiába a hatósági ár, újabb hidegzuhany jöhet",
+        "txtlength": 22618
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vallalat/20220916/meg-magasabb-inflaciot-es-gyarbezarasokat-hozhat-a-mostani-energiaar-robbanas/",
+        "h1": "Még magasabb inflációt és gyárbezárásokat hozhat a mostani energiaár-robbanás",
+        "txtlength": 20267
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/bank/20220916/palyafutasom-soran-ilyet-meg-nem-lattam-mekkora-a-baj-az-erste-bank-szerint-interju-567297",
+        "h1": "„Pályafutásom során ilyet még nem láttam” – Mekkora a baj az Erste Bank szerint? (Interjú)",
+        "txtlength": 20067
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/egeszseg/20220916/itt-all-feketen-feheren-egyre-kevesebb-az-abortusz-megsem-szuletik-tobb-gyermek-magyarorszagon-1128982",
+        "h1": "Itt áll feketén-fehéren: egyre kevesebb az abortusz, mégsem születik több gyermek Magyarországon",
+        "txtlength": 19925
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220915_futes_oszi_szunet_elmarad_iskola",
+        "h1": "„Energiakommandó”, 18 fok, rövidebb őszi szünet – mi vár a diákokra?",
+        "txtlength": 19871
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220916_kulfold_marihuana_legalizacio_nemetorszag",
+        "h1": "Így legalizálná a füvet a német kormány",
+        "txtlength": 19563
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vilag/20220915/a-hadiszerencseje-nyerobe-fordult-de-a-gazdasagi-osszeomlas-szelen-tancol-ukrajna/",
+        "h1": "A hadiszerencséje nyerőbe fordult, de a gazdasági összeomlás szélén táncol Ukrajna",
+        "txtlength": 18354
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2022/09/16/nyakunkon-az-energiavalsag-miert-nem-lehet-szeleromuvet-epiteni-magyarorszagon",
+        "h1": "NYAKUNKON AZ ENERGIAVÁLSÁG, MIÉRT NEM LEHET SZÉLERŐMŰVET ÉPÍTENI MAGYARORSZÁGON?",
+        "txtlength": 17565
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/lajfhekk/egeszseges-etrend-dragulas/",
+        "h1": "Egészséges étrend drágulás",
+        "txtlength": 12240
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/kapcsolat/hatarok-meghuzasa/",
+        "h1": "Hogyan húzz határt a mentális egészséged érdekében? A pszichológus ezt tanácsolja, ha valaki folyton átlépi",
+        "txtlength": 11790
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/fn/gazdasag/2022/09/16/windisch-laszlo-asz-allami-szamvevoszek-interju/",
+        "h1": "Új ÁSZ-elnök: Nekem kicsit más a szerepfelfogásom",
+        "txtlength": 21438
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/gazdasag/2022/09/16/milyen-allampapirba-tegyuk-a-penzunket-tippek-arra-hogy-ne-bukjunk-annyit-a-magas-inflacio-idejen",
+        "h1": "Milyen állampapírba tegyük a pénzünket? Tippek arra, hogy ne bukjunk annyit a magas infláció idején",
+        "txtlength": 17887
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/belfold/2022/09/16/civil-szervezetek-energiavalsag-rezsi-kata-indahouse-igazgyongy-l-ritok-nora",
+        "h1": "Szerencsére nem vezettük be a gázt, különben most még szörnyűbb lenne a helyzet",
+        "txtlength": 17803
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kulfold/2022/09/15/navracsics-tibor-balazs-peter-europai-unio-bizottsag-ursula-von-der-leyen-ertekelo",
+        "h1": "Navracsics: Megállapodhatunk az EU-val, de csak jövő év elején lesznek lehívhatók a források",
+        "txtlength": 17697
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2022/09/16/budavar-fidelitas-momentum-idokozi-valasztas-ostrom-utca-baczko-norbert-fidelitas-fazekas-csilla/",
+        "h1": "A Fidelitas-alelnök és ismerősei egy I. kerületi klinika lakói lettek az időközi választás előtti napokban",
+        "txtlength": 17026
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/fn/gazdasag/2022/09/16/munkaerohiany-dominal-szakszervezetek-evkozi-berkompenzacio-inflacio-rezsi/",
+        "h1": "Évközi bérkompenzációról tárgyalnak az infláció ellensúlyozására a szakszervezetek",
+        "txtlength": 13417
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/gazdasag/20220916_eurostat_augusztusi_inflacio_rezsiemeles",
+        "h1": "18,6 százalékra ugrott az augusztusi infláció Magyarországon a rezsidíjak emelése miatt az Eurostatnál",
+        "txtlength": 12977
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/09/16/egy-demokraciaval-es-egy-vallasos-elmennyel-kevesebb",
+        "h1": "Egy demokráciával és egy vallásos élménnyel kevesebb",
+        "txtlength": 12398
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/09/15/ha-hivnak-ferenc-papa-barmikor-ellatogatna-kinaba-es-beszelne-kirill-patriarkaval-is",
+        "h1": "Ha hívnák, Ferenc pápa bármikor ellátogatna Kínába, és beszélne Kirill pátriárkával is",
+        "txtlength": 10340
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/tudomany/20220915_lokalis_tarolas_vs_felho_adatbiztonsag",
+        "h1": "Mítosz vagy fontos? A felhőből könnyen ellophatják a fájljaimat?",
+        "txtlength": 10243
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/kkv/20220916_A_Spiegel_szerint_Nemetorszagban_elkerulhetetlen_a_recesszio",
+        "h1": "A Spiegel szerint Németországban elkerülhetetlen a recesszió",
+        "txtlength": 9933
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/katona-helikopter-sikloernyo-rotorszel-halal/0hhnp3y",
+        "h1": "Angéla testvérét halálba lökte a helikopter rotorszele: „Felejtse el, hogy katona, gondolkozzon érző emberként”",
+        "txtlength": 8533
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/kulfold/politikai-botrany-a-kinai-delegacio-nem-tekintheti-meg-erzsebet-kiralyno-ravatalat/5411ye0",
+        "h1": "Politikai botrány: a kínai delegáció nem tekintheti meg Erzsébet királynő ravatalát",
+        "txtlength": 6898
+    },
+    {
         "hostname": "mindmegette.hu",
         "pagelink": "https://www.mindmegette.hu/baconos-sajtos-sorkenyer.recept",
         "h1": "BACONÖS-SAJTOS SÖRKENYÉR",
