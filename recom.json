@@ -1,5 +1,185 @@
 [
     {
+        "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/krumplis-pogacsa",
+        "h1": "Krumplis pogácsa",
+        "txtlength": 10771
+    },
+    {
+        "hostname": "kiszamolo.hu",
+        "pagelink": "https://kiszamolo.hu/ennyit-koltesz-az-autodra-valojaban/",
+        "h1": "Ennyit költesz az autódra valójában",
+        "txtlength": 47132
+    },
+    {
+        "hostname": "efesasanisimasa.com",
+        "pagelink": "https://efesasanisimasa.com/2022/09/14/kleo-tv-series-2022/",
+        "h1": "Kleo (TV Series, 2022-)",
+        "txtlength": 8624
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220917_arnyekkormany",
+        "h1": "„Bársonyszék meg árnyékszék”, „Cipolla mozgolódik”, „nem készülünk, hanem kikészülünk!” – így reagált a közélet Dobrev árnyékkormány-tervezetére",
+        "txtlength": 25378
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20220917/olyan-aremelkedes-jon-amit-elkepzelni-sem-tudunk-megfizethetetlen-lesz-a-zoldseg-es-a-gyumolcs-566605",
+        "h1": "Olyan áremelkedés jön, amit elképzelni sem tudunk: megfizethetetlen lesz a zöldség és a gyümölcs?",
+        "txtlength": 22543
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vilag/20220917/kina-vazallusava-teszi-a-haboru-oroszorszagot-vagy-a-baratjava/",
+        "h1": "Kína vazallusává teszi a háború Oroszországot vagy a barátjává?",
+        "txtlength": 21517
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20220917/gulyas-gergely-marad-a-benzin-es-elelmiszerarstop-567489",
+        "h1": "Gulyás Gergely: marad a benzin- és élelmiszerárstop! ",
+        "txtlength": 21393
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/egeszseg/20220914/hazi-patika-ilyen-alapveto-gyogyszerek-legyenek-otthon-osszel-a-gyogyszeres-dobozban-1128932",
+        "h1": "Házi patika: ilyen alapvető gyógyszerek legyenek otthon ősszel a gyógyszeres dobozban",
+        "txtlength": 21177
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220916_korda_gyorgy_repter",
+        "h1": "De miért őrül meg újra az ország Korda Györgyékért?",
+        "txtlength": 20394
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220918_kulfold_europai_parlament_europai_bizottsag_dontes_unios_forrasok_magyarorszag_johannes_hahn_koltsegvetesi_biztos",
+        "h1": "Megszületett a döntés: november 19-ig adott időt Brüsszel a magyar kormánynak",
+        "txtlength": 19470
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.penzcentrum.hu/egeszseg/20220918/sulyos-nepbetegseg-pusztitja-a-magyarokat-sokaknal-oriasi-a-kockazat-megsem-tesznek-semmit-1128937",
+        "h1": "Súlyos népbetegség pusztítja a magyarokat: sokaknál óriási a kockázat, mégsem tesznek semmit",
+        "txtlength": 18926
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/egeszseg/20220918/sulyos-nepbetegseg-pusztitja-a-magyarokat-sokaknal-oriasi-a-kockazat-megsem-tesznek-semmit-1128937",
+        "h1": "Súlyos népbetegség pusztítja a magyarokat: sokaknál óriási a kockázat, mégsem tesznek semmit",
+        "txtlength": 18758
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/penz/20220918/ha-levagjuk-a-nullakat-a-cimletek-vegerol-elmulik-az-inflacio/",
+        "h1": "Ha levágjuk a nullákat a címletek végéről, elmúlik az infláció?",
+        "txtlength": 15831
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/egeszseg/menstruacios-szabadsag/",
+        "h1": "Ezekben az országokban már jár menstruációs szabadság a nőknek: követendő példa, vagy újabb ok a diszkriminációra?",
+        "txtlength": 13645
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2022/09/16/ha-meg-akarod-tudni-hogyan-mukodik-egy-varos-keszitsd-el-digitalis-ikerparjat",
+        "h1": "HA MEG AKAROD TUDNI, HOGYAN MŰKÖDIK EGY VÁROS, KÉSZÍTSD EL DIGITÁLIS IKERPÁRJÁT!",
+        "txtlength": 11967
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/testem/kasztralt-enekesek/",
+        "h1": "kasztrált énekesek",
+        "txtlength": 11411
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/szuloseg/kozos-tanulas-gyerekkel/",
+        "h1": "gyerekkel tanulás iskola tippek",
+        "txtlength": 10746
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/belfold/2022/09/17/kormanyinfo-szeptember-17-gulyas-gergely",
+        "h1": "Marad a benzin- és élelmiszerárstop, 20 fok lehet az általános iskolákban",
+        "txtlength": 22074
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/tudomany/2022/09/17/kivegzes-nyuzovolgy-emberevessel-vadolt-ciganyok-tortenelem/",
+        "h1": "Ők voltak az emberevéssel vádolt cigányok, akiket kivégeztek Hont vármegyében",
+        "txtlength": 20990
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/eletmod/2022/09/18/miert-nem-szuljuk-tele-az-orszagot-es-miert-is-kene",
+        "h1": "Miért nem szüljük tele az országot? És miért is kéne?",
+        "txtlength": 18914
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/tudomany/2022/09/17/tatarjaras-szent-margit-kiralylany-kozepkor-tortenelem/",
+        "h1": "Lányát adta az országért a magyar király",
+        "txtlength": 18618
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2022/09/18/karma-mentokutya-vilagbajnok/",
+        "h1": "Hétéves, négy lába van és világelső",
+        "txtlength": 18298
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/eszkombajn/2022/09/18/szaz-ev-szuletett-emil-zatopek-cseh-futo-negy-olimpiai-arany-vilagrekordok-sztorik",
+        "h1": "Nyert egy olimpiai aranyat, azt odaadta a feleségének, aki pár perccel később szintén olimpiai bajnok lett",
+        "txtlength": 15712
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/gazdasag/20220917_Dobjam_ki_a_vizforralot_Felejtsem_el_a_mikrot_Sporolasi_tippek_a_konyhaban",
+        "h1": "Dobjam ki a vízforralót? Felejtsem el a mikrót? Spórolási tippek a konyhában",
+        "txtlength": 14456
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/gazdasag/20220917_biomassza_konteneres_kazanok_gazsporolas_energiavalsag",
+        "h1": "Spórolhat az állam a fűtés költségén konténeres kazánnal, de ez sem lesz olcsó",
+        "txtlength": 12450
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20220918_Europai_Bizottsag_jogallamisag",
+        "h1": "3000 milliárd forint EU-forrás elvonását javasolja Magyarországgal szemben az Európai Bizottság",
+        "txtlength": 11418
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/09/17/a-hat-het-nyerte-a-miskolci-cinefest-nagydijat",
+        "h1": "A Hat hét nyerte a miskolci Cinefest nagydíját",
+        "txtlength": 9679
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/09/17/betiltottak-az-orgiakat-egy-ugandai-zenei-fesztivalon",
+        "h1": "Betiltották az orgiákat egy ugandai zenei fesztiválon",
+        "txtlength": 9606
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/krimi/nav-gyomro-gyenes-levente-polgarmester-csalas-orizet/qn590cs",
+        "h1": "Lerohanta a NAV a gyömrői polgármester félmilliárdos kastélyát: megszólalt egy szemtanú, aki látta az akciót",
+        "txtlength": 8104
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/pppeter-hajos-utcai-bar-budapesti-szalloda-blog-bezar/vehtvqy",
+        "h1": "Magyarország legrosszabbnak értékelt szállodájában készített titkos videót a srác, aki miatt korábban bezárt a Hajós utcai bár: ez is Budapesten van",
+        "txtlength": 7615
+    },
+    {
         "hostname": "hataratkelo.blog.hu",
         "pagelink": "https://hataratkelo.blog.hu/2022/09/12/hoteltakaritobol_mozdonyvezeto_angliaban#c41570255",
         "h1": "Hoteltakarítóból mozdonyvezető Angliában",
