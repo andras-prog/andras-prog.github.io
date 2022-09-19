@@ -1,5 +1,185 @@
 [
     {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/sult-tarja-zoldseggel-toltott-padlizsannal.recept",
+        "h1": "SÜLT TARJA ZÖLDSÉGGEL TÖLTÖTT PADLIZSÁNNAL",
+        "txtlength": 12298
+    },
+    {
+        "hostname": "kiszamolo.hu",
+        "pagelink": "https://kiszamolo.hu/taxival-iskolaba-gyakran-olcsobb-mint-a-sajat-autoddal/",
+        "h1": "Taxival iskolába? Gyakran olcsóbb, mint a saját autóddal.",
+        "txtlength": 38099
+    },
+    {
+        "hostname": "efesasanisimasa.com",
+        "pagelink": "https://efesasanisimasa.com/2022/09/19/licorice-pizza-2021/",
+        "h1": "Licorice Pizza (2021)",
+        "txtlength": 8794
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/vasarlas/20220916/igy-kijatszhato-a-brutalis-rezsiemeles-25-ezer-forintot-is-sporolhatsz-egyetlen-huton-1128994",
+        "h1": "Így kijátszható a brutális rezsiemelés: 25 ezer forintot is spórolhatsz egyetlen hűtőn",
+        "txtlength": 21398
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/megtakaritas/20220919/kozos-vagy-kulon-kassza-jol-vigyazz-magyar-hazassagok-mehetnek-ra-erre-a-rezsivalsagban-1128981",
+        "h1": "Közös vagy külön kassza? Jól vigyázz, magyar házasságok mehetnek rá erre a rezsiválságban",
+        "txtlength": 21380
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2022/09/19/kuszobon-a-klimakatasztrofa-de-meg-mindig-meg-lehet-allitani",
+        "h1": "KÜSZÖBÖN A KLÍMAKATASZTRÓFA, DE MÉG MINDIG MEG LEHET ÁLLÍTANI",
+        "txtlength": 20800
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220918_kohan_matyas_unios_penz",
+        "h1": "Felszállt a fehér füst, jöhet az uniós pénz",
+        "txtlength": 17564
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/kozelet/20220919/a-kivereztetett-magyar-falvak-az-energiavalsagban-nem-tudnak-segiteni-sem-magukon-sem-a-lakosaikon/",
+        "h1": "A kivéreztetett magyar falvak az energiaválságban nem tudnak segíteni sem magukon, sem a lakosaikon",
+        "txtlength": 17504
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220919_ellenzeki_belharc_jaszbereny_dk_jobbik_mszp",
+        "h1": "Elfajult az ellenzéki belharc Jászberényben, bomolhat az önkormányzat",
+        "txtlength": 17476
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.penzcentrum.hu/vasarlas/20220919/kenyer-hus-sajt-sor-tea-sehol-mashol-nincs-akkora-dragulas-az-eu-ban-mint-magyarorszagon-1129088",
+        "h1": "Kenyér, hús, sajt, sör, tea: sehol máshol nincs akkora drágulás az EU-ban, mint Magyarországon",
+        "txtlength": 16612
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/uzlet/20220919/maradnak-az-arstopok-es-a-kamatstop-erdekes-de-kilott-az-otp-567573",
+        "h1": "Maradnak az árstopok és a kamatstop - Érdekes, de kilőtt az OTP ",
+        "txtlength": 16467
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220919_mit_olvas_a_miniszterelnok",
+        "h1": "Mit olvas a miniszterelnök?",
+        "txtlength": 16398
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/penz/20220918/van-penzuk-megis-a-lakasaikba-bezarva-eheznek-a-covid-betegek-kinaban/",
+        "h1": "Van pénzük, mégis a lakásaikba bezárva éheznek a Covid-betegek Kínában",
+        "txtlength": 16332
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/bank/20220919/itt-a-nagy-bejelentes-a-kamatstoprol-mi-lesz-a-lakashitelesekkel-567625",
+        "h1": "Itt a nagy bejelentés a kamatstopról: mi lesz a lakáshitelesekkel?",
+        "txtlength": 16292
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/lajfhekk/erzsebet-kiralyno-hosszu-elet/",
+        "h1": "Erzsébet királynő hosszú élet",
+        "txtlength": 11181
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/ezo/heti_horoszkop/202238/",
+        "h1": "Heti horoszkóp szeptember 19-től 25-ig: a Mérleg a pénzügyekben, a Halak a szerelemben sikeres",
+        "txtlength": 10955
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/testem/fa-oleles-gyogymod/",
+        "h1": "fa ölelés gyógymód",
+        "txtlength": 10499
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kulfold/2022/09/19/hirszerzes-kemkedes-titkos-vilag-christopher-andrew/",
+        "h1": "Aki először hangsúlyozta a jó hírszerzés fontosságát: Isten volt",
+        "txtlength": 26867
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kulfold/2022/09/19/ii-erzsebet-kiralyno-temetes-brit-kiralyi-csalad-iii-karoly-vilmos-harry-katalin-meghan-westminster-apatsag-windsor-koporso",
+        "h1": "Canterbury érseke és Liz Truss kormányfő is beszélt II. Erzsébet temetési szertartásán a Westminster-apátságban",
+        "txtlength": 20815
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/fn/gazdasag/2022/09/19/aram-aramar-aramhiany-rezsi-vallalkozasok-onkormanyzatok-bkv/",
+        "h1": "Nem lesz áramhiány, járni fognak a villamosok is, de cégek sora dőlhet be",
+        "txtlength": 20117
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/gazdasag/20220919_jogallamisagi_eljaras_kisokos",
+        "h1": "Tényleg búcsút mondhatunk 3000 milliárd forintnak? Minden, amit az uniós fenyegetésről tudni kell",
+        "txtlength": 17550
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/gazdasag/2022/09/19/lehetnenek-alacsonyabb-gaz-es-aramaraink-ha-tanulnank-az-ezustbotranybol",
+        "h1": "Lehetnének alacsonyabb gáz- és áramáraink, ha tanulnánk az ezüstbotrányból",
+        "txtlength": 16987
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2022/09/18/europai-bizottsag-kozbeszerzesek-korrupcio-hatosag-sandor-zsuzsa-velemeny/",
+        "h1": "Sándor Zsuzsa: Kecskékre bízta a káposztát Orbán Viktor?",
+        "txtlength": 13839
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/elet/20220918_II_Erzsebet_kiralyno_halala_brit_monarchia_gyasz",
+        "h1": "A királynő, aki beépült az emberek tudatalattijába",
+        "txtlength": 12759
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/kulfold/ma-temetik-el-erzsebet-kiralynot-percrol-percre-a-ceremonia/yl2cy3r?sl_ps=d_1",
+        "h1": "Két percre elnémult a világ: mindenki magában búcsúztatta el II. Erzsébet királynőt – Kövesse velünk az eseményeket!",
+        "txtlength": 12462
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20220918_kozalapitvany_fidesz_kormany_europai_bizottsag",
+        "h1": "Telerakták politikusokkal a közalapítványokat, most szedhetik ki őket",
+        "txtlength": 12348
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/belfold/2022/09/18/virrasztas-diakok-apaczai-radnoti-tanarok-szolidaritas-kockas-ing-gimnazium",
+        "h1": "„Ezzel megmutatjuk a tanároknak, hogy fontosak nekünk”",
+        "txtlength": 10335
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/09/19/szabadon-engedtek-a-talibok-mark-frerichs-amerikai-mernokot-egy-fogolycsere-kereteben",
+        "h1": "Szabadon engedték a tálibok Mark Frerichs amerikai mérnököt egy fogolycsere keretében",
+        "txtlength": 10053
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/09/19/nagyon-dragan-kapott-volna-gazt-balassagyarmat-de-lehet-hogy-vegul-annal-is-dragabban-fog",
+        "h1": "Nagyon drágán kapott volna gázt Balassagyarmat, de lehet, hogy végül annál is drágábban fog",
+        "txtlength": 8942
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/krimi/gyongyos-eltunt-edesapa-epitkezes-rendorseg-sajtotajekoztato/f50vjyx?sl_ps=d_6",
+        "h1": "Egy testvérpárt gyanúsítanak a gyöngyösi építkezésről eltűnt édesapa megölésével – Egyikük kocsijában találták meg Dávid holttestét",
+        "txtlength": 8115
+    },
+    {
         "hostname": "nosalty.hu",
         "pagelink": "https://www.nosalty.hu/recept/krumplis-pogacsa",
         "h1": "Krumplis pogácsa",
