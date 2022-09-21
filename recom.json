@@ -1,6 +1,174 @@
 [
     {
         "hostname": "hataratkelo.blog.hu",
+        "pagelink": "https://hataratkelo.blog.hu/2022/09/19/david_beckham_es_az_egyuttlet_ereje#c41576584",
+        "h1": "David Beckham és az együttlét ereje",
+        "txtlength": 22995
+    },
+    {
+        "hostname": "kulturpart.hu",
+        "pagelink": "https://kulturpart.blog.hu/2022/09/20/emlekek_a_hazbol_ut_az_iskolaba_iii_resz",
+        "h1": "EMLÉKEK A HÁZBÓL - ÚT AZ ISKOLÁBA III. RÉSZ",
+        "txtlength": 8880
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/vasarlas/20220918/nepunnepely-a-100-forintos-ruhavasar-nyakunkon-a-brutalis-valsag-egyre-tobben-vasarolnak-itt-1129031",
+        "h1": "Népünnepély a 100 forintos ruhavásár: nyakunkon a brutális válság, egyre többen vásárolnak itt",
+        "txtlength": 38294
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220914_meg_kell_ovnunk_a_keszleteinket_nagy_istvan_a_mandinernek",
+        "h1": "Meg kell óvnunk a készleteinket – Nagy István a Mandinernek",
+        "txtlength": 26013
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vilag/20220921/amerika-megvedene-tajvant-csak-nem-ugy-ahogy-tajvan-szeretne/",
+        "h1": "Amerika megvédené Tajvant, csak nem úgy, ahogy Tajvan szeretné",
+        "txtlength": 23995
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/gazdasag/20220918/allamcsod-mennyi-eselye-van-magyarorszagon-2022-ben-mi-tortenik-a-megtakaritasokkal-1129034",
+        "h1": "Államcsőd: mennyi esélye van Magyarországon 2022-ben, mi történik a megtakarításokkal?",
+        "txtlength": 20798
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vilag/20220920/az-oroszok-napokon-belul-bekebelezik-a-megszallt-ukran-megyeket-ezutan-johet-a-mozgositas/",
+        "h1": "Az oroszok napokon belül bekebelezik a megszállt ukrán megyéket, ezután jöhet a mozgósítás",
+        "txtlength": 20509
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220920_new_york_times_a_szankciok_miatt_van_europaban_energiavalsag",
+        "h1": "New York Times: A szankciók miatt van Európában energiaválság",
+        "txtlength": 20024
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220921_ezt_jelenti_a_reszleges_mozgositas",
+        "h1": "Ezt jelenti a Putyin által bejelentett részleges mozgósítás",
+        "txtlength": 19542
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20220921/a-piaci-dobbenet-kozepette-a-fed-ma-bevihet-egy-meg-nagyobb-utest-568147",
+        "h1": "A piaci döbbenet közepette a Fed ma bevihet egy még nagyobb ütést",
+        "txtlength": 18964
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/global/20220921/felkavaro-beszamolok-jonnek-a-felszabaditott-ukran-telepulesekrol-ilyen-volt-az-elet-az-oroszok-alatt-568157",
+        "h1": "Felkavaró beszámolók jönnek a felszabadított ukrán településekről - Ilyen volt az élet az oroszok alatt",
+        "txtlength": 15323
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.penzcentrum.hu/otthon/20220921/ide-jutottunk-mar-most-sokkal-kisebb-lakast-kapunk-ugyanannyiert-penzert-mint-tavaly-ilyenkor-1129153",
+        "h1": "Ide jutottunk: már most sokkal kisebb lakást kapunk ugyanannyiért pénzért, mint tavaly ilyenkor",
+        "txtlength": 15296
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/otthon/szobanovenyek-idealis-helye/",
+        "h1": "Hol érzi magát a legjobban a szobanövény a lakásban? Van, ami a fürdőbe való",
+        "txtlength": 13739
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2022/09/21/konnyen-lehet-hogy-magyarorszag-soha-nem-zarkozik-fel-nyugat-europahoz",
+        "h1": "KÖNNYEN LEHET, HOGY MAGYARORSZÁG SOHA NEM ZÁRKÓZIK FEL NYUGAT-EURÓPÁHOZ",
+        "txtlength": 12856
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/lajfhekk/poloskak-a-lakasban/",
+        "h1": "Poloskák a lakásban",
+        "txtlength": 8304
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2022/09/21/rezsi-tanyavilag-algyo-riport/",
+        "h1": "„A tűzhely kihúzva, a két hűtőből egy megy, a kávét reggel lefőzzük egész napra, és még az út menti lehulló gallyakat is összeszedem”",
+        "txtlength": 23890
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/belfold/2022/09/21/europai-bizottsag-dontes-magyarorszag-jogallamisagi-mechanizmus",
+        "h1": "Még a Miniszterelnökséget is elérik az új korrupcióellenes intézkedések",
+        "txtlength": 19403
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kulfold/2022/09/21/orosz-ukran-haboru-hirfolyam-209-nap",
+        "h1": "Putyin mozgósítása körülbelül 300 ezer katonát érint",
+        "txtlength": 18952
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kulfold/2022/09/21/orosz-ukran-haboru-vlagyimir-putyin-elo-kozvetites-percrol-percre-2022-09-21/",
+        "h1": "Putyin bejelentése után villámgyorsan elkapkodták az egyirányú repülőjegyeket Oroszországban",
+        "txtlength": 18720
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kultura/2022/09/20/netflix-dokumentumsorozat-a-baratno-aki-nem-letezik-manti-teo-albaratno-catfishing/",
+        "h1": "Hogy nem veszi észre valaki, hogy a barátnője valójában egy kecskeszakállas férfi?",
+        "txtlength": 17607
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/belfold/2022/09/21/parlament-orszaggyulesi-kepviselo-lakas-iroda-berleti-dij-javadalmazas",
+        "h1": "Havi 460 ezerért albérletet, 900 ezerért irodát kapnak az országgyűlési képviselők",
+        "txtlength": 17313
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/vilag/20220921_vlagyimir_putyin_beszede",
+        "h1": "Vlagyimir Putyin ismét tett egy lépést a világháború felé",
+        "txtlength": 13413
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/vilag/20220921_Kijevi_amerikai_nagykovet_A_latszatnepszavazas_es_a_mozgositas_a_gyengeseg_az_orosz_kudarc_jele",
+        "h1": "Kijevi amerikai nagykövet: A látszat-népszavazás és a mozgósítás a gyengeség, az orosz kudarc jele",
+        "txtlength": 12967
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/09/21/az-elmaradt-nagy-bejelentes",
+        "h1": "Az elmaradt nagy bejelentés",
+        "txtlength": 12453
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/09/21/eloszor-klonoztak-sarkvideki-farkast-kinaban-es-mar-uton-a-masodik",
+        "h1": "Először klónoztak sarkvidéki farkast Kínában, és már úton a második",
+        "txtlength": 11362
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/vilag/20220921_PutyinBlinken_haboru_pp",
+        "h1": "Putyin részleges mozgósítást rendelt el, Blinken szerint az USA sosem fogja elismerni az ukrán területek orosz annektálását – a háború szerdai hírei",
+        "txtlength": 11094
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/tartozas-arveres-hitel-adossag/fmrcn4h?sl_ps=d_11",
+        "h1": "Elárverezték a házát, egy hídról vetette a mélybe magát Imre – „Ide kötötte őt minden, húsz éve ez volt az otthonunk”",
+        "txtlength": 10129
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/sztarvilag/reszkessetek-gorog-bekkek-jon-a-lezerrel-felturbozott-vamos-marci/8sn26l8",
+        "h1": "Reszkessetek, görög bekkek! Jön a lézerrel felturbózott Vámos Marci",
+        "txtlength": 8277
+    },
+    {
+        "hostname": "hataratkelo.blog.hu",
         "pagelink": "https://hataratkelo.blog.hu/2022/09/12/hoteltakaritobol_mozdonyvezeto_angliaban",
         "h1": "Hoteltakarítóból mozdonyvezető Angliában",
         "txtlength": 58247
