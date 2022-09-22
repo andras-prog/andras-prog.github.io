@@ -1,5 +1,185 @@
 [
     {
+        "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/bogres-kremes-meggyes-makos-kocka",
+        "h1": "Bögrés krémes meggyes-mákos kocka",
+        "txtlength": 11993
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/borsofozelek-liszt-nelkul.recept",
+        "h1": "BORSÓFŐZELÉK LISZT NÉLKÜL",
+        "txtlength": 11493
+    },
+    {
+        "hostname": "kiszamolo.hu",
+        "pagelink": "https://kiszamolo.hu/henry-es-miriam-elete/",
+        "h1": "Henry és Miriam élete",
+        "txtlength": 38820
+    },
+    {
+        "hostname": "kulturpart.hu",
+        "pagelink": "https://kulturpart.blog.hu/2022/09/22/folytatodik_a_fantasztikus_negyes_sorozata",
+        "h1": "FOLYTATÓDIK A FANTASZTIKUS NÉGYES SOROZATA",
+        "txtlength": 8433
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vilag/20220922/putyin-jol-jarhat-az-olasz-valasztasokkal-de-mit-hoz-europanak-a-jobboldali-gyozelem/",
+        "h1": "Putyin jól járhat az olasz választásokkal, de mit hoz Európának a jobboldali győzelem?",
+        "txtlength": 24110
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/otthon/20220919/erik-a-futes-krach-magyarorszagon-millios-kazancsere-varhat-rengeteg-magyar-csaladra-1129042",
+        "h1": "Érik a fűtés-krach Magyarországon: milliós kazáncsere várhat rengeteg magyar családra",
+        "txtlength": 22967
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/befektetes/20220922/egy-ugyert-kuzd-dicaprio-matt-damon-es-jay-z-hogy-lehet-beszallni-a-harcba-568205",
+        "h1": "Egy ügyért küzd DiCaprio, Matt Damon és Jay-Z - Hogy lehet beszállni a harcba?",
+        "txtlength": 22937
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220922_lengyel_hadsereg_seregszemle",
+        "h1": "Így építi Lengyelország Európa egyik legnagyobb hadseregét",
+        "txtlength": 21954
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/vasarlas/20220922/fontos-valtozas-elesedik-a-tesco-lidl-spar-uzleteiben-ez-var-a-vasarlokra-a-rezsivalsag-miatt-1129192",
+        "h1": "Fontos változás élesedik a Tesco, Lidl, Spar üzleteiben: ez vár a vásárlókra a rezsiválság miatt",
+        "txtlength": 21891
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220922_egyseg_a_sokfeleseg_helyett_unios_velemenykontroll_alatt_az_europai_partok",
+        "h1": "Egység a sokféleség helyett? – uniós véleménykontroll alatt az európai pártok",
+        "txtlength": 21398
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220921_semmi_jot_nem_lehet_varni_putyin_beszede_utan",
+        "h1": "Semmi jót nem lehet várni Putyin beszéde után",
+        "txtlength": 20379
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.penzcentrum.hu/nyugdij/20220922/nyugdijpremium-2022-rossz-hir-ez-a-magyar-idoseknek-kisebb-osszeg-erkezhet-a-vartnal-novemberben-1129202",
+        "h1": "Nyugdíjprémium 2022: rossz hír ez a magyar időseknek, kisebb összeg érkezhet a vártnál",
+        "txtlength": 17802
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/penz/20220920/tobb-gyerek-szuletne-ha-feltokesitenenk-a-nyugdijrendszert/",
+        "h1": "Több gyerek születne, ha feltőkésítenénk a nyugdíjrendszert?",
+        "txtlength": 17001
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/uzlet/20220922/fordulat-a-tozsdeken-gyenge-kezdes-utan-nagyot-javult-a-hangulat-568311",
+        "h1": "Fordulat a tőzsdéken, gyenge kezdés után nagyot javult a hangulat ",
+        "txtlength": 16919
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2022/09/21/titokzatos-radiokitoreseket-eszleltek-egy-tavoli-galaxisbol",
+        "h1": "TITOKZATOS RÁDIÓKITÖRÉSEKET ÉSZLELTEK EGY TÁVOLI GALAXISBÓL",
+        "txtlength": 10896
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/szuloseg/kiserlet-otthon-gyerek/",
+        "h1": "kísérlet otthon gyerek",
+        "txtlength": 10792
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/ezo/viii-henrik-buzos-palotai/",
+        "h1": "Elképesztő bűz terjengett VIII. Henrik háza táján: a király szélmalomharcot vívott a higiéniáért",
+        "txtlength": 10732
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/interju/2022/09/22/sarosdi-lilla-interju-metoo-evfordulo-marton-laszlo-franciaorszag",
+        "h1": "Sárosdi Lilla: Azért sikítanak, mert süket fülekre találnak",
+        "txtlength": 29775
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/gazdasag/2022/09/22/magyar-kormany-sulykolja-hogy-az-eu-orosz-szankcioi-nem-mukodnek-oroszorszag-gazdasaga-megroppan-europa-lassulas",
+        "h1": "Hiába sulykolják Orbánék, nem igaz, hogy Putyin járt jól a szankciókkal",
+        "txtlength": 24915
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kultura/2022/09/22/beremenyi-geza-interju-beremenyi-kalapja-portrefilm-cseh-tamas-jarai-mark-magyar-copperfield-irodalom-film-politika/",
+        "h1": "Bereményi Géza: Más lett volna az életem, ha nem egy történelmi kényszervilágban élek",
+        "txtlength": 23747
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kulfold/2022/09/21/orosz-ukran-haboru-eszkalacio-reszleges-mozgositas-nepszavazas-vlagyimir-putyin-racz-andras",
+        "h1": "Reagált Putyin az ukrán ellentámadásra, és a feje tetejére állította a háborút",
+        "txtlength": 22834
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kulfold/2022/09/22/tuntetesek-mozgositas-orosz-ukran-haboru-vlagyimir-putyin-elo-kozvetites-percrol-percre-2022-09-22/",
+        "h1": "Azov-parancsnokok és Putyin keresztlányának apja is szabadult a nagyszabású fogolycsere során",
+        "txtlength": 15316
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2022/09/21/jogallami-mechanizmus-korrupcio-unio-magyarorszag/",
+        "h1": "Mi értelme volt a jogállami mechanizmusnak, ha most engednek Orbánéknak?",
+        "txtlength": 14805
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/09/22/a-szankciok-olyannyira-nem-mukodnek-hogy-putyin-mar-mozgositja-a-tartalekosokat",
+        "h1": "A szankciók olyannyira „nem működnek”, hogy Putyin már mozgósítja a tartalékosokat",
+        "txtlength": 14304
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/gazdasag/20220922_gazdasag_novekedes_vege",
+        "h1": "Brüsszel és egy esőtáncos sámán mentheti meg a magyar gazdaságot",
+        "txtlength": 13737
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/tudomany/20220922_podcast_vr_ar_virtualis_valosag_kiterjesztett_valosag_pszichiatria_facebook_meta",
+        "h1": "Új podcast: Ott tartunk, hogy VR-ben azt is meg lehet mutatni, milyen egy MR-vizsgálat",
+        "txtlength": 11780
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/09/22/mi-mergezobb-az-emberiseg-szamara-a-kokain-a-szen-vagy-az-olaj-kerdezte-a-kolumbiai-elnok-az-ensz-ben",
+        "h1": "„Mi mérgezőbb az emberiség számára, a kokain, a szén vagy az olaj?” – kérdezte a kolumbiai elnök az ENSZ-ben",
+        "txtlength": 11241
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/tartozas-arveres-hitel-adossag/fmrcn4h",
+        "h1": "Elárverezték a házát, egy hídról vetette a mélybe magát Imre – „Ide kötötte őt minden, húsz éve ez volt az otthonunk”",
+        "txtlength": 9998
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/vilag/20220922_novak_katalin_ensz_ukrajna_oroszorszag_haboru_vlagyimir_putyin",
+        "h1": "Novák Katalin az ENSZ-ben beszélt arról, hogy a háború gonosz és nem vezet sehova – hírek az orosz–ukrán konfliktusról",
+        "txtlength": 9935
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/krimi/fenyo-janos-meggyilkolasa-gyarfas-tamas-targyalas-tasnadi-penzatadas/wvx9se4?sl_ps=d_8",
+        "h1": "Fenyő-gyilkosság – A vallomásban elhangzott: Gyárfás Tamás pénzt adott át Tasnádinak",
+        "txtlength": 7905
+    },
+    {
         "hostname": "hataratkelo.blog.hu",
         "pagelink": "https://hataratkelo.blog.hu/2022/09/19/david_beckham_es_az_egyuttlet_ereje#c41576584",
         "h1": "David Beckham és az együttlét ereje",
