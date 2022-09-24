@@ -1,5 +1,185 @@
 [
     {
+        "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/legegyszerubb-vegan-sutotokkremleves",
+        "h1": "Legegyszerűbb vegán sütőtökkrémleves",
+        "txtlength": 12440
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/glutenmentes-keksztekercs.recept",
+        "h1": "GLUTÉNMENTES KEKSZTEKERCS",
+        "txtlength": 11790
+    },
+    {
+        "hostname": "kiszamolo.hu",
+        "pagelink": "https://kiszamolo.hu/az-eletszinvonalad-inflacioja/",
+        "h1": "Az életszínvonalad inflációja",
+        "txtlength": 36460
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220924_sandor_pal_interju",
+        "h1": "„A vásznon nem lehet hazudni” – nagyinterjú Sándor Pál filmrendezővel",
+        "txtlength": 26542
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/penz/20220923/gazdasagunk-kilatasai-sima-landolas-teljes-osszeomlas-vagy-elhuzodo-pangas/",
+        "h1": "Gazdaságunk kilátásai: sima landolás, teljes összeomlás vagy elhúzódó pangás?",
+        "txtlength": 26304
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/hitel/20220921/kegyetlen-veszely-leselkedik-a-magyar-hitelesekre-ezert-tehetetlenek-ha-beut-a-krach-1128996",
+        "h1": "Veszély leselkedik a magyar hitelesekre: mit tehetünk, ha beüt a krach?",
+        "txtlength": 24722
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220922_perintfalvi_rita_vs_keresztenyseg_prozsa_istvan_interju",
+        "h1": "A progresszívek, Perintfalvival az élen, alapvető dolgokat nem értenek – Prózsa István lelkész a Mandinernek",
+        "txtlength": 24638
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220914_eletre_kelt_a_zalai_kistelepulesek_vilaga",
+        "h1": "Életre kelt a zalai kistelepülések világa",
+        "txtlength": 24013
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/global/20220924/oriasi-fordulat-elott-europa-jobboldali-gyozelem-johet-az-eu-harmadik-legerosebb-orszagaban-568757",
+        "h1": "Óriási fordulat előtt Európa? – Jobboldali győzelem jöhet az EU harmadik legerősebb országában",
+        "txtlength": 20250
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/global/20220923/omladozik-a-renegat-szuperallam-egyetlen-no-halala-regota-nem-latott-feszultsegeket-robbantott-fel-568737",
+        "h1": "Omladozik a renegát szuperállam: egyetlen nő halála régóta nem látott feszültségeket robbantott fel",
+        "txtlength": 18156
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/karrier/20220922/kitort-a-berhaboru-rengeteg-melost-keresnek-pesten-450-ezres-fizetes-erettsegi-sem-kell-1129220",
+        "h1": "Kitört a bérháború, rengeteg melóst keresnek Pesten: 450 ezres fizetés, érettségi sem kell",
+        "txtlength": 17016
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2022/09/23/imf-arsapkak-helyett-celzott-lepesekkel-a-legszegenyebbeket-kellene-megsegiteni-az-energiavalsagban",
+        "h1": "IMF: ÁRSAPKÁK HELYETT CÉLZOTT LÉPÉSEKKEL A LEGSZEGÉNYEBBEKET KELLENE MEGSEGÍTENI AZ ENERGIAVÁLSÁGBAN",
+        "txtlength": 16426
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/tech/20220924/g7-reggel-goudat-beero-trappista-es-egy-sporolos-ovono/",
+        "h1": "G7 Reggel: Goudát beérő trappista és egy spórolós óvónő",
+        "txtlength": 15804
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20220923/uj-melypontra-esett-a-forint-a-dollarral-szemben-420-felett-is-jart-az-arfolyam-568635",
+        "h1": "Új mélypontra esett a forint a dollárral szemben - 420 felett is járt az árfolyam ",
+        "txtlength": 14727
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/testem/alkohol-gyogyszer-tilos/",
+        "h1": "alkohol gyógyszer tilos",
+        "txtlength": 11611
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/utazas/magyarok-alomutazasa/",
+        "h1": "Ide utazna szíve szerint a magyar, ha megtehetné: íme, az olvasók véleménye",
+        "txtlength": 11137
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/szuloseg/telefon-teve-gyerek/",
+        "h1": "telefon tévé gyerek",
+        "txtlength": 9771
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/gazdasag/2022/09/23/vendegmunkasok-kulfoldi-munkavallalok-ipar-termeles",
+        "h1": "Idejönnek dolgozni, aztán kiderül: Magyarországon sem minden fenékig tejfel",
+        "txtlength": 26474
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/gazdasag/20220924_orosz_szankciok",
+        "h1": "Tényleg nekünk fájnak jobban az oroszok elleni szankciók?",
+        "txtlength": 20964
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/tech/2022/09/23/ethereum-merge-atallas-blokklanc-kriptovaluta-videokartya",
+        "h1": "Mintha kicserélték volna a motort egy mozgó autóban",
+        "txtlength": 20713
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kulfold/2022/09/24/exportkorlatozas-oroszorszag-kina-egyesult-allamok-hideghaboru-technologia-csipgyartas-it-szankciok-hatnak-putyin-ukrajna-haboru",
+        "h1": "Az ukrajnai invázió és Kína visszahozta a hidegháború legsúlyosabb amerikai fegyverét",
+        "txtlength": 20637
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/fn/gazdasag/2022/09/24/igy-taroltak-le-az-erdeinket-a-tarvagasok-evszazados-tortenete/",
+        "h1": "Így tarolták le az erdeinket – a tarvágások évszázados története",
+        "txtlength": 18253
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/kulfold/ukran-orosz-haboru-karpatalja-legiriado-hosi-halott-kenyer-felelem-ovohely/3prqby1?sl_ps=d_4",
+        "h1": "Exkluzív helyszíni riport – Félelem, kétnaponta temetés: Kárpátalja is vérzik az oroszok elleni háborúban – videó",
+        "txtlength": 17078
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/elet/20220923_Roger_Federer_bucsu",
+        "h1": "Nem a győzelmei tették naggyá Federert, Federer tette naggyá a teniszt",
+        "txtlength": 15333
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2022/09/24/tanarhiany-pedagogushiany-oktatas-tanarok-sztrajk-polgari-engedetlenseg/",
+        "h1": "„Valami kattanásom lehet, hogy tanítani akarok, talán ki kéne vizsgáltatnom”",
+        "txtlength": 15188
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/kkv/20220924_Az_MNB_megszoritja_a_bankokat_ami_egyszerre_jo_es_rossz_a_lakossagnak",
+        "h1": "Az MNB szorít egy nagyot a bankokon, ami egyszerre jó és rossz a lakosságnak",
+        "txtlength": 15092
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2022/09/23/darazscsipes-allergias-roham-szentendre-altalanos-iskola-kisfiu-epipen-injekcio/",
+        "h1": "„Szaladtam az Epipenért, hívtam a mentőket” – életet mentett az adrenalininjekció egy szentendrei általános iskolában",
+        "txtlength": 13208
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/09/24/kina-szerint-amerika-veszelyes-jeleket-kuld-tajvannal-kapcsolatban",
+        "h1": "Kína szerint Amerika veszélyes jeleket küld Tajvannal kapcsolatban",
+        "txtlength": 12001
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/krimi/bosszu-sosav-mergezes-akasztas/ph071jn",
+        "h1": "Szörnyű bosszú! Sósavat itatott édesapja szeretője Évával – 60 év után szólalt meg a Blikknek az egykori kislány",
+        "txtlength": 11220
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/09/24/harminc-evet-kapott-a-caracali-horrorgyilkossag-elkovetoje",
+        "h1": "Harminc évet kapott a caracali horrorgyilkosság elkövetője",
+        "txtlength": 10902
+    },
+    {
         "hostname": "hataratkelo.blog.hu",
         "pagelink": "https://hataratkelo.blog.hu/2022/09/19/david_beckham_es_az_egyuttlet_ereje#c41578870",
         "h1": "David Beckham és az együttlét ereje",
