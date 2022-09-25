@@ -1,5 +1,173 @@
 [
     {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/tejszines-gombas-szelesmetelt.recept",
+        "h1": "TEJSZÍNES-GOMBÁS SZÉLESMETÉLT",
+        "txtlength": 11066
+    },
+    {
+        "hostname": "kulturpart.hu",
+        "pagelink": "https://kulturpart.blog.hu/2022/09/22/krakkoig_is_eler_a_fono",
+        "h1": "KRAKKÓIG IS ELÉR A FONÓ",
+        "txtlength": 4806
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220907_belfold_spiegelhalter_laszlo_spigiboy_lemezlovas_polgarmester_vacratot_eletut_portre_interju",
+        "h1": "„A helyén kell tartanunk az értékeket” – Spiegelhalter „Spigiboy” László a Mandinernek",
+        "txtlength": 24685
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/gazdasag/20220923/dobbenetes-abrakon-a-magyar-valosag-csunyan-lecsusztak-a-magyar-csaladok-ezekben-a-megyekben-1129224",
+        "h1": "Döbbenetes ábrákon a magyar valóság: csúnyán lecsúsztak a magyar családok ezekben a megyékben",
+        "txtlength": 23119
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220922_aeroexpress_regional_debrecen_airport_regionalis_repuloterek",
+        "h1": "Fejlődni és összekötni a Kárpát-medencét: ezt hozhatja a magyar vidéknek az új légitársaság",
+        "txtlength": 21321
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/kozelet/20220925/rogan-446-milliot-a-legszegenyebb-allamtitkar-4-millio-keresett-tavaly/",
+        "h1": "Rogán 446 milliót, a legszegényebb államtitkár 4 milliót keresett tavaly",
+        "txtlength": 20985
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220922_haziorvosi_ellatas_ugyeleti_rendszer_atszervezese",
+        "h1": "Pazarló a rendszer, átszervezés jön az egészségügyben – vezető háziorvos a Mandinernek",
+        "txtlength": 20894
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/karrier/20220924/600-ezer-forintos-alombert-is-lehet-kapni-az-idei-szureten-ok-uthetik-meg-a-fonyeremenyt-a-magyar-szolokben-1129270",
+        "h1": "600 ezer forintos álombért is lehet kapni az idei szüreten: ők üthetik meg a főnyereményt a magyar szőlőkben",
+        "txtlength": 19851
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/uzlet/20220925/egyre-tobb-van-beloluk-egyre-sulyosabb-karokat-okoznak-es-mar-europat-is-fenyegetik-a-hurrikanok-568471",
+        "h1": "Egyre több van belőlük, egyre súlyosabb károkat okoznak és már Európát is fenyegetik a hurrikánok",
+        "txtlength": 18600
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/podcast/20220924/ket-legyet-utnenk-egy-csapasra-a-szelenergia-hazai-fejlesztesevel/",
+        "h1": "Két legyet ütnénk egy csapásra a szélenergia hazai fejlesztésével",
+        "txtlength": 17353
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/utazas/dubaj-latnivalok/",
+        "h1": "Ilyen a kilátás 828 méter magasból - Nem csak a világ legmagasabb épületét érdemes megnézni Dubajban",
+        "txtlength": 16312
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.penzcentrum.hu/auto/20220925/egyre-kilatastalanabb-a-magyar-autovasarlok-helyzete-csunyan-rafizethet-aki-most-kivar-1129250",
+        "h1": "Egyre kilátástalanabb a magyar autóvásárlók helyzete: csúnyán ráfizethet, aki most kivár",
+        "txtlength": 16253
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20220924/hatborzongato-elelmiszerarak-magyarorszagon-lassan-a-tej-a-tojas-es-a-hus-is-luxus-lesz-568185",
+        "h1": "Hátborzongató élelmiszerárak Magyarországon: lassan a tej, a tojás és a hús is luxus lesz",
+        "txtlength": 16007
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2022/09/24/szivhasogato-archiv-fotokon-a-magyarorszagi-tarvagasok-evszazados-tortenete",
+        "h1": "SZÍVHASOGATÓ ARCHÍV FOTÓKON A MAGYARORSZÁGI TARVÁGÁSOK ÉVSZÁZADOS TÖRTÉNETE",
+        "txtlength": 14511
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/szuloseg/apa-fiu-neveles/",
+        "h1": "apa fiú nevelés",
+        "txtlength": 9099
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kulfold/2022/09/25/olaszorszag-valasztas-meloni-berlusconi-salvini-olasz-testverek-liga-forza-italia-szelsojobb-posztfasiszta-orban-eu-euroszkeptikus",
+        "h1": "Euroszkeptikus, kultúrharcos, de a gazdasági realitások által korlátozott jobbos kormány jöhet Olaszországban",
+        "txtlength": 21571
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/szorakozas/2022/09/24/its-corn-corntok-tariq-tiktok-nepszeruseg-video-kukorica-viralis/",
+        "h1": "Egyszer talán az Ecserin lángost majszoló óvodás is olyan TikTok-legendává válhat, mint ő",
+        "txtlength": 20717
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/fn/gazdasag/2022/09/25/rezsicsokkentett-tuzifa-10-kobmeter-hatosagi-ar-beszerzese-lassu-lehet-plusz-koltseg-piaci-hatas/",
+        "h1": "Akinek sürgős a rezsicsökkentett tűzifa beszerzése, aligha tudja kivárni",
+        "txtlength": 18591
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/kulfold/ukran-orosz-haboru-karpatalja-legiriado-hosi-halott-kenyer-felelem-ovohely/3prqby1",
+        "h1": "Exkluzív helyszíni riport – Félelem, kétnaponta temetés: Kárpátalja is vérzik az oroszok elleni háborúban – videó",
+        "txtlength": 16983
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/09/24/hetvegi-olvasnivalok-neznivalok-es-hallgatnivalok-kicsiknek-kozepeseknek-es-nagyoknak",
+        "h1": "Hétvégi olvasnivalók, néznivalók és hallgatnivalók kicsiknek, közepeseknek és nagyoknak",
+        "txtlength": 16148
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kulfold/2022/09/25/ukrajna-haboru-215-nap-oroszorszag",
+        "h1": "Orosz külügyminiszter: Az annektált területek Moszkva „teljes védelme” alatt állnak majd",
+        "txtlength": 15622
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/tudomany/2022/09/25/diktatura-kommunizmus-rakosi-matyas-tortenelem/",
+        "h1": "Ügyes csellel buktatták meg Rákosi Mátyást",
+        "txtlength": 14635
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/gazdasag/20220925_Es_akkor_rezsi_eu_beruhazasok_recesszio",
+        "h1": "És akkor már Kocsis Máté halai sem ússzák meg a rezsiválságot",
+        "txtlength": 13851
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/tamogatott-tartalom/2022/09/25/a-tekintelyelvu-vezetoknek-lealdozott-ha-nem-kersz-visszajelzest-vak-vagy",
+        "h1": "A tekintélyelvű vezetőknek leáldozott – ha nem kérsz visszajelzést, vak vagy",
+        "txtlength": 12232
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/kultura/20220925_sakk_analgyongy_botrany_carlsen_niemann",
+        "h1": "A sakknak pont egy bizarr gyanúsítással súlyosbított botrány nem hiányzott most",
+        "txtlength": 12164
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/09/25/szijjarto-peter-nem-is-erti-azokat-a-nyugati-kollegakat-akik-szerint-rossz-otlet-a-parbeszed",
+        "h1": "Szijjártó Péter „nem is érti azokat a nyugati kollégákat, akik szerint rossz ötlet a párbeszéd”",
+        "txtlength": 11514
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20220923_Itt_az_EUpenzekert_benyujtott_torvenyjavaslatok_masodik_kore_uj_hatosagot_javasol_a_kormany_a_korrupcio_ellen",
+        "h1": "Itt az EU-pénzekért benyújtott törvényjavaslatok második köre: új hatóságot javasol a kormány a korrupció ellen",
+        "txtlength": 9638
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/krimi/belizeben-bujkalhat-szazmillios-osszeget-nyulhatott-le-markovits-peter/hqggyen",
+        "h1": "Átplasztikáztatja magát a sikkasztó ügyvéd? Belize-ben bujkálhat a százmilliós összeggel meglépő Markovits Péter – Így nézhet ki most",
+        "txtlength": 7812
+    },
+    {
         "hostname": "nosalty.hu",
         "pagelink": "https://www.nosalty.hu/recept/legegyszerubb-vegan-sutotokkremleves",
         "h1": "Legegyszerűbb vegán sütőtökkrémleves",
