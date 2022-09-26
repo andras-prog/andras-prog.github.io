@@ -1,5 +1,167 @@
 [
     {
+        "hostname": "kiszamolo.hu",
+        "pagelink": "https://kiszamolo.hu/a-celba-eres-keserusege/",
+        "h1": "A célba érés keserűsége",
+        "txtlength": 33653
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20220926/steiner-attila-ellenezzuk-a-gazarsapkat-tamogatjuk-a-geotermiat-es-fontolgatjuk-a-szelenergia-fordulatot-568915",
+        "h1": "Steiner Attila: ellenezzük a gázársapkát, támogatjuk a geotermiát és fontolgatjuk a szélenergia fordulatot",
+        "txtlength": 34045
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/adat/20220926/az-abortusz-egyre-inkabb-a-24-ev-alattiak-tapasztalata-magyarorszagon/",
+        "h1": "Az abortusz egyre inkább a 24 év alattiak tapasztalata Magyarországon",
+        "txtlength": 25873
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220921_a_jogallamisag_uttoroi",
+        "h1": "A jogállamiság úttörői – így lett Magyarország Brüsszel állatorvosi lova",
+        "txtlength": 22046
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/tamogatoi-tartalom/20220926/az-elektromos-autokig-jol-allt-az-autoipar-a-korforgasos-gazdasaggal/",
+        "h1": "Az elektromos autókig jól állt az autóipar a körforgásos gazdasággal",
+        "txtlength": 21456
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220926_olaszorszag_jobboldal_valasztas",
+        "h1": "Győzelem után: mire készül az olasz jobboldal?",
+        "txtlength": 20977
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220925_transzparens_ujsagirasert_gulyas_marton_partizan_nagy_karoly_interju",
+        "h1": "Sem független, sem objektív újságírás nem létezik! – Nagy Károly a Mandinernek",
+        "txtlength": 20347
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/hitel/20220922/meg-mindig-sokan-hibaznak-nagyot-a-hiteligenylesnel-a-legtobben-ezen-a-6-ponton-csusznak-el-1129215",
+        "h1": "Még mindig sokan hibáznak nagyot a hiteligénylésnél: a legtöbben ezen a 6 ponton csúsznak el",
+        "txtlength": 19987
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/uzlet/20220926/vinnai-balazs-csanyi-peter-hegedus-eva-es-a-top-digitalizacios-vezetok-a-portfolio-banking-technology-konferenciajan-566867",
+        "h1": "Vinnai Balázs, Csányi Péter, Hegedüs Éva és a top digitalizációs vezetők a Portfolio Banking Technology konferenciáján",
+        "txtlength": 19198
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/otthon/20220922/hogyan-kuzdjunk-meg-az-emelkedo-rezsikoltsegekkel-minden-egy-helyen-a-hazai-lakaspiacrol-1129213",
+        "h1": "Hogyan küzdjünk meg az emelkedő rezsiköltségekkel? Minden egy helyen a hazai lakáspiacról!",
+        "txtlength": 17673
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20220926/pengeelen-tancolunk-a-sulyos-valsag-is-benne-van-a-pakliban-568373",
+        "h1": "Pengeélen táncolunk: a súlyos válság is benne van a pakliban",
+        "txtlength": 16720
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/terasz/nepszamlalas-2022-oktober/",
+        "h1": "Minden magyarországi lakcímre megérkezik a felkérőlevél a napokban: mit kell tenned a kóddal?",
+        "txtlength": 11886
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2022/09/20/kina-meg-nehany-evig-lehet-nagyhatalom-aztan-evtizedeken-belul-a-harmadara-csokkenhet-a-nepessege",
+        "h1": "KÍNA MÉG NÉHÁNY ÉVIG LEHET NAGYHATALOM, AZTÁN ÉVTIZEDEKEN BELÜL A HARMADÁRA CSÖKKENHET A NÉPESSÉGE",
+        "txtlength": 10893
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/szuloseg/peniszfoto-kamasz/",
+        "h1": "péniszfotó kamasz",
+        "txtlength": 2495
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2022/09/26/ellenzek-amerikai-penz-kampany-tamogatas-marki-zay-peter-mmm-kampany-karacsony-gergely-datadat-koranyi-david/",
+        "h1": "Amerikai pénz és az ellenzék: kampányt még nem papíroztak le Magyarországon úgy, mint most",
+        "txtlength": 32532
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kulfold/2022/09/26/izjum-ukrajna-visszaszerzett-varosa-helyszini-riport",
+        "h1": "A felszabadult Izjumban már a harmadik világháborútól tartanak",
+        "txtlength": 19591
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/kultura/20220925_sterczer_hilda_interju_magassagok_es_melysegek_film_eross_zsolt_hegymaszo_halala",
+        "h1": "„A Himaláján csak egyszer lehet tévedni”",
+        "txtlength": 17483
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20220926_Arnyekkormanyinfo_DK_folyamatosan_frissulo",
+        "h1": "DK-s árnyékkormányinfó: \"Nincsen ma Magyarországon független intézmény, mind Orbán Viktor akaratát szolgálja\"",
+        "txtlength": 17474
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kultura/2022/09/25/a-kiraly-megmentese-hbo-max-dokumentumfilm-i-janos-karoly-spanyol-kiraly/",
+        "h1": "Bárhogy is próbálkozik a brit királyi család, sehol sincs I. János Károly botrányaihoz képest",
+        "txtlength": 16107
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kulfold/2022/09/25/iran-nok-zavargas-hidzsab-iszlam-elnyomas-teokracia",
+        "h1": "Egy 22 éves nő halála után robbant ki az egyre csak terjedő tüntetéshullám",
+        "txtlength": 15492
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/belfold/2022/09/26/ellenzeki-elovalasztas-kudarcos-dk-partok-reagaltak",
+        "h1": "Nem tetszik a többi pártnak, hogy a DK csak úgy lesöpörné az asztalról az előválasztást",
+        "txtlength": 14346
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/munkasszallo-botrany-rezsi-segitseg/shs3pps",
+        "h1": "300 lakót tenne utcára a csepeli munkásszálló tulajdonosa – „Tisztességesen fizettük a lakbért, ne tegyenek ki minket!”",
+        "txtlength": 13742
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kulfold/2022/09/26/oroszorszag-ukrajna-haborus-elo-szeptember-26/",
+        "h1": "Lelőtte a katonai parancsnokot egy besorozott férfi Szibériában, Lukasenka kifejtette a véleményét a menekülő oroszokról Putyinnak",
+        "txtlength": 13218
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/kkv/20220926_hitel_indulo_vallalkozas",
+        "h1": "Az induló vállalkozásoknak sem reménytelen a források szerzése, mutatjuk a lehetőségeket",
+        "txtlength": 11623
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/09/26/olasz-testvereink-hadd-adjunk-kostolot-abbol-mi-var-ratok",
+        "h1": "Olasz testvéreink, hadd adjunk kóstolót abból, mi vár rátok!",
+        "txtlength": 11410
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/09/26/pesszimistabban-latjak-a-helyzetuket-a-magyar-fogyasztok-mint-a-koronavirus-jarvany-elejen",
+        "h1": "Pesszimistábban látják a helyzetüket a magyar fogyasztók, mint a koronavírus-járvány elején",
+        "txtlength": 11392
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/veszhelyzet/iskolai-lovoldozes-oroszorszagban/ydljs8r?sl_ps=d_4",
+        "h1": "Elszabadult a pokol Oroszországban: diákokat lőttek le egy iskolában – Megrázó videók keringenek a támadásról",
+        "txtlength": 7326
+    },
+    {
         "hostname": "mindmegette.hu",
         "pagelink": "https://www.mindmegette.hu/tejszines-gombas-szelesmetelt.recept",
         "h1": "TEJSZÍNES-GOMBÁS SZÉLESMETÉLT",
