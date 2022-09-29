@@ -1,5 +1,173 @@
 [
     {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/gombaleves-negyfele-gombabol.recept",
+        "h1": "GOMBALEVES NÉGYFÉLE GOMBÁBÓL",
+        "txtlength": 10018
+    },
+    {
+        "hostname": "kulturpart.hu",
+        "pagelink": "https://kulturpart.blog.hu/2022/09/29/miskolc_nem_hisz_a_konnyeknek",
+        "h1": "MISKOLC NEM HISZ A KÖNNYEKNEK",
+        "txtlength": 10586
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220928_filantrop_felforgatas_igy_mukodik_a_soros_fele_halozat_a_kozep_europai_es_a_balkani_orszagokban",
+        "h1": "Filantróp felforgatás: így működik a Soros-féle hálózat a közép-európai és a balkáni országokban",
+        "txtlength": 30082
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220928_vorosterror_trianon_kun_bela_revizio_vita_csunderlik_nanay_mcc",
+        "h1": "„Mi lett volna, ha…?” – őszirózsa, vörösterror, fegyveres honvédelem a középpontban",
+        "txtlength": 26577
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220928_jogallamisag_koltsegvetes_kormany_eu_brusszel",
+        "h1": "Íme a kormány eddigi javaslatai az uniós költségvetés védelmére vonatkozóan",
+        "txtlength": 24376
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vallalat/20220929/tiz-ev-alatt-megujulhat-a-mav-flottaja-ha-folytatodnak-a-beszerzesek/",
+        "h1": "Tíz év alatt eltűnnek az országból az ütött-kopott vonatok, ha folytatódnak a beszerzések",
+        "txtlength": 24372
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vallalat/20220928/mely-valsag-fenyegeti-a-kockazatitoke-piacot-kelet-kozep-europaban/",
+        "h1": "Mély válság fenyegeti a kockázatitőke-piacot Kelet-Közép-Európában",
+        "txtlength": 20729
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20220929/bejelentette-gulyas-gergely-hosszabb-teli-szunetet-rendel-el-a-kormany-az-iskolakban-569873",
+        "h1": "Bejelentette Gulyás Gergely: hosszabb téli szünetet rendel el a kormány az iskolákban ",
+        "txtlength": 20481
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/egeszseg/20220928/megdolt-a-nagy-multivitamin-tevhit-ezt-jobb-ha-tudod-a-draga-patikai-tablettakrol-1129397",
+        "h1": "Megdőlt a nagy multivitamin-tévhit: ezt jobb, ha tudod a drága patikai tablettákról",
+        "txtlength": 19735
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/vasarlas/20220926/eletveszelyes-elelmiszerek-a-magyar-hutokben-az-ilyen-zoldseget-gyumolcsot-meg-ne-edd-1129329",
+        "h1": "Életveszélyes élelmiszerek a magyar hűtőkben: az ilyen zöldséget, gyümölcsöt meg ne edd!",
+        "txtlength": 19465
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/uzlet/20220929/tokeletes-vihar-keszulodik-a-bankszektorban-mukodhet-e-az-elore-menekules-mesterterve-569533",
+        "h1": "Tökéletes vihar készülődik a bankszektorban, működhet-e az előre menekülés mesterterve?",
+        "txtlength": 17883
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/uzlet/20220929/egy-napig-tartott-a-jo-hangulat-megint-leszakadtak-a-tozsdek-569787",
+        "h1": "Egy napig tartott a jó hangulat, megint leszakadtak a tőzsdék ",
+        "txtlength": 17326
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/egeszseg/sziv-egeszseg-futas/",
+        "h1": "Véd a szívbetegségek ellen, javítja a hangulatot és ingyen van - Hogyan érdemes belevágni a futásba?",
+        "txtlength": 12649
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2022/09/29/joseph-stiglitz-a-piacot-szabalyozo-lathatatlan-kezet-azert-nem-latta-senki-mert-soha-nem-is-letezett",
+        "h1": "JOSEPH STIGLITZ: A PIACOT SZABÁLYOZÓ LÁTHATATLAN KEZET AZÉRT NEM LÁTTA SENKI, MERT SOHA NEM IS LÉTEZETT",
+        "txtlength": 10997
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/lajfhekk/gyumolcs-joghurt/",
+        "h1": "Gyümölcs joghurt",
+        "txtlength": 8195
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20220927_Bahai_vallas_Iran_Magyarorszag",
+        "h1": "„Az esküvő egy mondat, a Föld egy ország, az emberiség egy társadalom” – nálunk élő bahaiok az iráni üldöztetésről",
+        "txtlength": 22960
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kulfold/2022/09/29/eszaki-aramlat-gazvezetek-tamadas-szabotazs-oroszorszag-nemetorszag-dania-svedorszag",
+        "h1": "Az egymást követő robbanások vethetnek véget az Északi Áramlat történetének",
+        "txtlength": 22834
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/belfold/2022/09/29/kormanyinfo-gulyas-gergely-szeptember-29",
+        "h1": "Hosszabb lesz a téli szünet, az őszi rovására",
+        "txtlength": 17616
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/elet/20220929_godollo_torok_ignac_gimnazium_felujitas",
+        "h1": "Az iskolán tető sincs, de a tankerület szerint továbbra is alkalmas a tanításra",
+        "txtlength": 17155
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/fn/gazdasag/2022/09/29/kormany-imf-targyalas-kinai-hitel-devizatartalek/",
+        "h1": "Keresi a kormány az EU-s pénz alternatíváját: folyamatos a kapcsolat Kínával",
+        "txtlength": 16696
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kult/2022/09/29/egy-sor-szinesznek-van-zenei-karrierje-a-stranger-thingsbol-de-vajon-erdemes-hallgatni-oket",
+        "h1": "A Stranger Thingsből egy sor színésznek van zenei karrierje is, de vajon érdemes hallgatni őket?",
+        "txtlength": 12504
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2022/09/29/gulyas-gergely-kormanyinfo-nemzeti-konzultacio-energiavalsag/",
+        "h1": "Kormányinfó: Az őszi szünet rovására hosszabb lesz a téli szünet az iskolákban",
+        "txtlength": 12450
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/09/29/a-fiatalok-akik-enekelve-es-orditva-kuldik-el-a-kormanyt-a-busba",
+        "h1": "A fiatalok, akik énekelve és ordítva küldik el a kormányt a búsba",
+        "txtlength": 12423
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/sport/2022/09/28/podcast-ziccer-nemzetek-ligaja-valogatott-hrutka-janos-szabo-peter/",
+        "h1": "Hrutka János: A válogatott a Fradi szintjére jutott, csak éppen Marco Rossi nem tud igazolni",
+        "txtlength": 12281
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/gazdasag/20220929_MNB_inflacios_jelentes",
+        "h1": "MNB: A kampányban kiszórt pénz kétharmadát elköltötték az emberek, most jön csak a legnehezebb időszak",
+        "txtlength": 11997
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/09/28/gyermekbantalmazassal-foglalkozo-jotekonysagi-szervezetekkel-mukodik-egyutt-a-pornhub-hogy-kiszurje-az-illegalis-tevekenyseget",
+        "h1": "Gyermekbántalmazással foglalkozó jótékonysági szervezetekkel működik együtt a Pornhub, hogy kiszűrje az illegális tevékenységet",
+        "txtlength": 11388
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/krimi/gyarfas-tamas-per-fenyo-gyilkossag-vajto-lajos-targyalas/rrs1vrx?sl_ps=d_3",
+        "h1": "Gyárfás-per: Vajtó Lajos egyszer csak megjelent a tárgyaláson",
+        "txtlength": 10472
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/krimi/tomajmonostorai-tragedia-iskolabusz-inez-4-eves-kislany-interju/gn94xep?sl_ps=d_12",
+        "h1": "„Felfoghatatlan az a szenvedés, amit átélhetett” – Megszólalt az iskolabuszban kínhalált halt Inez édesapja",
+        "txtlength": 10431
+    },
+    {
         "hostname": "kulturpart.hu",
         "pagelink": "https://kulturpart.hu/2022/09/27/jon_a_legvaganyabb_bulizenekar",
         "h1": "JÖN A LEGVAGÁNYABB BULIZENEKAR!",
