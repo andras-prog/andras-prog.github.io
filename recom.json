@@ -1,5 +1,173 @@
 [
     {
+        "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/10-perces-almafank",
+        "h1": "10 perces almafánk",
+        "txtlength": 11007
+    },
+    {
+        "hostname": "kulturpart.hu",
+        "pagelink": "https://kulturpart.blog.hu/2022/09/27/jon_a_legvaganyabb_bulizenekar",
+        "h1": "JÖN A LEGVAGÁNYABB BULIZENEKAR!",
+        "txtlength": 4102
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2022/09/30/a-jomoduak-kiugranak-becsbe-abortusztablettaert-akinek-meg-nincs-penze-azt-tuzzel-vassal-kezelik",
+        "h1": "A JÓMÓDÚAK KIUGRANAK BÉCSBE ABORTUSZTABLETTÁÉRT, AKINEK MEG NINCS PÉNZE, AZT TŰZZEL-VASSAL KEZELIK",
+        "txtlength": 29792
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/karrier/20220927/fu-alatt-johet-tomeges-leepites-a-rezsikrach-miatt-ezek-a-magyarok-nincsenek-biztonsagban-1129330",
+        "h1": "Fű alatt jöhet tömeges leépítés a rezsikrach miatt: ezek a magyarok nincsenek biztonságban",
+        "txtlength": 28360
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20220930/csodafegyvert-igert-az-uj-vaslady-csunya-kijozanodas-lett-a-vege-raszolgalt-a-buntetesre-a-brit-kormany-570047",
+        "h1": "Csodafegyvert ígért az új Vaslady, csúnya kijózanodás lett a vége: rászolgált a büntetésre a brit kormány?",
+        "txtlength": 23822
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/global/20220930/putyin-orok-szovetsegese-europa-fekete-baranya-a-neopopulizmus-gyakorlati-alkalmazasanak-atyja-tobb-negativ-jelzo-egy-karrierut-569719",
+        "h1": "Putyin örök szövetségese, Európa fekete báránya, a neopopulizmus gyakorlati alkalmazásának atyja: több negatív jelző, egy karrierút",
+        "txtlength": 22607
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vilag/20220930/az-orosz-nepszavazasi-bloff-utan-johet-a-haboru-meg-durvabb-szakasza/",
+        "h1": "Az orosz népszavazási blöff után jöhet a háború még durvább szakasza",
+        "txtlength": 21779
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/elet/20220930/a-covid-jarvany-az-egeszseggazdasagtan-szemuvegen-at/",
+        "h1": "A COVID-járvány az egészséggazdaságtan szemüvegén át",
+        "txtlength": 21170
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/uzlet/20220929/hegedus-eva-csanyi-peter-vinnai-balazs-es-a-top-digitalizacios-vezetok-a-portfolio-banking-technology-konferenciajan-566867",
+        "h1": "Hegedüs Éva, Csányi Péter, Vinnai Balázs és a top digitalizációs vezetők a Portfolio Banking Technology konferenciáján",
+        "txtlength": 21045
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220929_filantrop_felforgatas_osszeomlo_penzpiacok_bedolo_valutak_kiserik_soros_gyorgyek_tevekenyseget",
+        "h1": "Filantróp felforgatás II.: összeomló pénzpiacok, bedőlő valuták kísérik Soros Györgyék tevékenységét",
+        "txtlength": 20761
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/karrier/20220926/az-angol-mar-a-multe-ez-a-nyelv-er-most-a-legtobbet-a-magyar-piacon-1129297",
+        "h1": "Az angol már a múlté? Ez a nyelv ér most a legtöbbet a magyar piacon",
+        "txtlength": 20310
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220929_szabotazs_gazvezetek_oroszorszag_robbantas_eszaki_aramlat",
+        "h1": "Habzó tenger, habozó hatalmak – most mi is van a gázvezetékekkel?",
+        "txtlength": 19865
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220930_iran_tuntetes",
+        "h1": "Mélyen megrázza Iránt az új tüntetéssorozat",
+        "txtlength": 19829
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/egeszseg/parkinson-kor-korai-tunetei/",
+        "h1": "A Parkinson-kór 7 korai tünete: szaglásvesztés és alvászavar is jelezheti a betegséget",
+        "txtlength": 10926
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/lajfhekk/huto-tisztitas/",
+        "h1": "hűtő tisztítás",
+        "txtlength": 8036
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kultura/2022/09/30/tim-marshall-interju-geopolitika-a-foldrajz-fogsagaban-orosz-ukran-haboru-putyin-asztropolitika-kina-afrika-kozelkelet-migracio-magyarorszag/",
+        "h1": "Tim Marshall: Putyin Koszovóban értette meg, hogy ideje elkezdeni az előrenyomulást",
+        "txtlength": 30439
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kulfold/2022/09/29/olaszorszag-valasztas-meloni-salvini-berlusconi/",
+        "h1": "Meloni az országon kívül az európai fősodorhoz csatlakozna, odahaza viszont az orbáni utat járná",
+        "txtlength": 20107
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/belfold/2022/09/30/szulok-levelek-felhivas-iskolak-karbantartas-felujitas-keres-felajanlas-tankerulet-segitseg",
+        "h1": "Az iskolai kerítést a szülők festik le, a tankerület ehhez tíz drótkefét ad",
+        "txtlength": 19266
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/gazdasag/20220930_Szo_sincs_magyar_allamcsodrol_de_nagyon_kene_a_kemeny_deviza",
+        "h1": "Szó sincs magyar államcsődről, de nagyon kéne a kemény deviza",
+        "txtlength": 17427
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2022/09/30/wallis-auto-per-sikkasztas/",
+        "h1": "Vett egy kocsit, lefoglalta a rendőrség, aztán visszakapta a BMW-t, de most a Wallis ingyen követeli tőle",
+        "txtlength": 16606
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/vilag/20220929_Visszafordithatatlan_fordulatot_vett_az_oroszukran_haboru",
+        "h1": "Egy katonai szakértő szerint visszafordíthatatlan fordulatot vett az orosz-ukrán háború",
+        "txtlength": 16325
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kulfold/2022/09/30/ukrajna-kupjanszk-helyszini-riport",
+        "h1": "Megszoktuk, hogy ha az ablak csak zörög, akkor innen lőnek, ha az ablak törik, akkor ide",
+        "txtlength": 15917
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://transtelex.ro/penzcsinalok/2022/09/29/az-oktatasi-intezmenyeken-nem-sporolnanak-jozanabb-energiagazdalkodassal-viszont-keszulnek-a-telre-az-erdelyi-varosok",
+        "h1": "Az oktatási intézményeken nem spórolnának, józanabb energiagazdálkodással viszont készülnek a télre az erdélyi városok",
+        "txtlength": 15037
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20220930_Sajat_vadkikenyszeritos_torvenyjavaslatat_tamadja_meg_a_kormany_az_Alkotmanybirosagon",
+        "h1": "Saját vádkikényszerítős törvényjavaslatát támadja meg a kormány az Alkotmánybíróságon",
+        "txtlength": 14025
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/09/30/itt-lenne-az-ideje-hadat-uzennunk-washingtonnak-csak-kar-hogy-ennyire-draga-a-dollar",
+        "h1": "Itt lenne az ideje hadat üzennünk Washingtonnak, csak kár, hogy ennyire drága a dollár",
+        "txtlength": 13349
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/krimi/gyarfas-tamas-per-fenyo-gyilkossag-vajto-lajos-targyalas/rrs1vrx",
+        "h1": "Gyárfás-per: Vajtó Lajos egyszer csak megjelent a tárgyaláson",
+        "txtlength": 11437
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/09/29/egy-mondatban-csutortokrol",
+        "h1": "Egy mondatban csütörtökről",
+        "txtlength": 10903
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/malev-240-jarat-katasztrofa-bejrut-titkok-lezuhant/1z7wl8k?sl_ps=d_12",
+        "h1": "A Malév 240-es járatának katasztrófája: a mai napig titkok övezik a tragédiát",
+        "txtlength": 10390
+    },
+    {
         "hostname": "mindmegette.hu",
         "pagelink": "https://www.mindmegette.hu/gombaleves-negyfele-gombabol.recept",
         "h1": "GOMBALEVES NÉGYFÉLE GOMBÁBÓL",
