@@ -1,6 +1,192 @@
 [
     {
         "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/birsalmasajt",
+        "h1": "Birsalmasajt",
+        "txtlength": 11017
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/tepsiben-sult-tarja-vele-sult-burgonyaval.recept",
+        "h1": "TEPSIBEN SÜLT TARJA VELE SÜLT BURGONYÁVAL",
+        "txtlength": 10932
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/parolt-kaposzta-video.recept",
+        "h1": "PÁROLT KÁPOSZTA",
+        "txtlength": 10354
+    },
+    {
+        "hostname": "kiszamolo.hu",
+        "pagelink": "https://kiszamolo.hu/szigeteles-hitelbol/#more-119652",
+        "h1": "Szigetelés hitelből?",
+        "txtlength": 44085
+    },
+    {
+        "hostname": "kulturpart.hu",
+        "pagelink": "https://kulturpart.blog.hu/2022/09/30/budapestre_erkezik_a_vilaghiru_koreai_muvesz",
+        "h1": "BUDAPESTRE ÉRKEZIK A VILÁGHÍRŰ KOREAI MŰVÉSZ",
+        "txtlength": 6380
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220930_filantrop_felforgatas_iii_befolyas_valasztasi_kampany_soros_bajnai_mzp",
+        "h1": "Filantróp felforgatás III: idegen érdekek mentén, külföldről érkező pénzzel befolyásolták a választási kampányt",
+        "txtlength": 30312
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220928_kulfold_eurazsia_oroszorszag",
+        "h1": "Eurázsiai erjedés – repedezik a posztszovjet világ",
+        "txtlength": 24868
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20221001_zsido_csaladtol_koboztak_el_kommunista_vezetohoz_kerult_gyurcsanyek_most_eladjak_az_apro_villa_tortenete",
+        "h1": "Zsidó családtól kobozták el, kommunista vezetőhöz került, Gyurcsányék most eladják – az Apró-villa története",
+        "txtlength": 23766
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/elet/20220930/nem-a-versenyrol-kellene-szolnia-az-oktatasnak/",
+        "h1": "Nem a versenyről kellene szólnia az oktatásnak",
+        "txtlength": 20389
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/global/20221001/sorsfordito-valasztasok-jonnek-a-tersegunkben-van-ahol-kaosz-mashol-szeteses-fenyeget-570217",
+        "h1": "Sorsfordító választások jönnek a térségünkben – Van, ahol káosz, máshol szétesés fenyeget",
+        "txtlength": 19804
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/uzlet/20220930/emelkedo-bevetelek-mellett-csokkent-az-opus-global-nyeresege-570295",
+        "h1": "Emelkedő bevételek mellett csökkent az Opus Global nyeresége",
+        "txtlength": 19355
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/karrier/20220930/kitalalt-a-bringafutar-ennyit-keres-most-egy-kata-karosult-etelfutar-a-fovarosban-1129499",
+        "h1": "Kitálalt a bringafutár: ennyit keres most egy kata-károsult ételfutár a fővárosban",
+        "txtlength": 18886
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/vasarlas/20220927/ezert-dragul-legdurvabban-az-elelmiszer-ara-magyarorszagon-itt-a-valasz-a-40-millios-kerdesre-1129337",
+        "h1": "Ezért drágul legdurvábban az élelmiszer ára Magyarországon: itt a válasz a 40 milliós kérdésre",
+        "txtlength": 18350
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20220930/rezsiemeles-tomegek-kaptak-furcsa-gazszamlat-mutatjuk-mit-lehet-tenni-ellene-szinte-azonnal-570053",
+        "h1": "Rezsiemelés: tömegek kaptak furcsa gázszámlát - Mutatjuk, mit lehet tenni ellene szinte azonnal",
+        "txtlength": 16636
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/kozelet/20221001/vizpartokat-takarito-robotok-zugolodo-tanarok-es-nuklearis-reneszansz/",
+        "h1": "Vízpartokat takarító robotok, zúgolódó tanárok és nukleáris reneszánsz",
+        "txtlength": 16408
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/szepseg/hogyan-sporolj-ruhakon/",
+        "h1": "Hogy spórolj a lehető legtöbbet a ruhavásárláson? Nem csak a turkálókban takaríthatsz meg pénzt",
+        "txtlength": 10574
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/szuloseg/abortusz-tuntetes/",
+        "h1": "abortusz tüntetés",
+        "txtlength": 10452
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2022/09/30/a-smart-grid-a-biztonsagos-aramellatas-egyetlen-eselye",
+        "h1": "A SMART GRID A BIZTONSÁGOS ÁRAMELLÁTÁS EGYETLEN ESÉLYE",
+        "txtlength": 9094
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kulfold/2022/10/01/bosznia-hercegovina-valasztas/",
+        "h1": "Multietnikus balkáni liberális utópia vagy etnogettó kiskirályságok? Ezek között választ hétvégén Bosznia-Hercegovina",
+        "txtlength": 42151
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/sport/2022/09/30/vass-adam-interju-stoke-brescia-valogatott-mtk-gyirmot-bunda",
+        "h1": "A játékos, aki 19 éves korára befejezte a felnőtt válogatottban",
+        "txtlength": 21707
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kulfold/2022/09/30/oroszorszag-ukrajna-annexio-nepszavazas-putyin",
+        "h1": "Magyarországnyi ukrán terület elcsatolását jelentette be Putyin. És most mi lesz?",
+        "txtlength": 21436
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2022/10/01/erdei-kulonlegessegek-adtak-menedeket-a-bakancsos-turistaknak/",
+        "h1": "Erdei különlegességek adtak menedéket a bakancsos turistáknak",
+        "txtlength": 19263
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/kulfold/iii-karoly-erdely-brit-uralkodo/4yw8d7v?sl_ps=d_9",
+        "h1": "Megtaláltuk Károly király magyar szakácsnőjét: „Addig soha nem fekszik le, amíg nem köszön el tőlünk” – videó",
+        "txtlength": 15976
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/belfold/2022/10/01/puspokszilagy-vizmegtartasi-modszerek-vizgazdalkodas-villamarviz-ronkgat-to-jogyakorlat",
+        "h1": "Hat-nyolc éve még azt mondták erre, hogy luxusberuházás vagy hülyeség",
+        "txtlength": 15371
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/tech/2022/10/01/honor-70-okostelefon-teszt/",
+        "h1": "Jó telefon a Honor 70, csak nem annyira jó, amennyit kérnek érte",
+        "txtlength": 14888
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20221001_europai_parlament_Neppart_Fidesz_Navracsics",
+        "h1": "Befuccsolt Orbánék egész Európán átívelő nagy terve, már visszamenne barátkozni a Néppárthoz",
+        "txtlength": 13303
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/elet/20221001_Kult_Elet_Stilus_osszefoglalo_szeptember",
+        "h1": "Vannak búcsúk, amelyekre senki nem készít fel",
+        "txtlength": 12448
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/10/01/palya-tamas-annak-ellenere-hogy-kirugtak-es-tobbe-nem-csinalhatom-azt-amit-legjobban-szeretek-most-inkabb-azt-erzem-hogy-milyen-jo-hogy-tanar-lettem",
+        "h1": "Palya Tamás: „Annak ellenére, hogy kirúgtak és többé nem csinálhatom azt, amit legjobban szeretek, most inkább azt érzem, hogy milyen jó, hogy tanár lettem!”",
+        "txtlength": 12044
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/vilag/20221001_A_testveriseg_vezeteken_is_elzarhatjak_a_gazt_az_oroszok__figyelmeztet_a_Stratfor",
+        "h1": "Teljesen elzárhatják a gázcsapot az oroszok - figyelmeztet a Stratfor geopolitikai műhely",
+        "txtlength": 11745
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/sztarvilag/kultura/rubik-erno-rubik-kocka-csalad/exykvc9?sl_ps=d_3",
+        "h1": "Rubik Ernőt zavarja a hírneve – A családjáról nem szívesen beszél a nyilvánosság előtt, de elárulta: unokái is szép számmal vannak – interjú",
+        "txtlength": 10481
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/09/30/visszater-az-m4-sportra-az-eriksen-szakerto-bognar-gyorgy",
+        "h1": "Visszatér az M4 Sportra az Eriksen-szakértő Bognár György",
+        "txtlength": 10307
+    },
+    {
+        "hostname": "nosalty.hu",
         "pagelink": "https://www.nosalty.hu/recept/10-perces-almafank",
         "h1": "10 perces almafánk",
         "txtlength": 11007
