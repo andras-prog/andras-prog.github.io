@@ -1,5 +1,179 @@
 [
     {
+        "hostname": "hataratkelo.blog.hu",
+        "pagelink": "https://hataratkelo.blog.hu/2022/09/19/david_beckham_es_az_egyuttlet_ereje",
+        "h1": "David Beckham és az együttlét ereje",
+        "txtlength": 47068
+    },
+    {
+        "hostname": "kulturpart.hu",
+        "pagelink": "https://kulturpart.hu/2022/10/01/szep_volt_fiuk_134",
+        "h1": "SZÉP VOLT, FIÚK!",
+        "txtlength": 7031
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20221002_kemeny_istvan_irodalom_elet",
+        "h1": "„Hogy megyünk a jövőbe, ez az optimizmus már nem létezik” – Kemény István a Mandinernek",
+        "txtlength": 32527
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220928_gundel_takacs_gabor_interju",
+        "h1": "Öt évig nyünnyögtem, most abbahagyom – Gundel Takács Gábor a Mandinernek",
+        "txtlength": 28678
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220928_kulfold_olasz_valasztas",
+        "h1": "Fratelli d’Ungheria – mi jön az olasz választás után?",
+        "txtlength": 25682
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/megtakaritas/20220930/keszulj-fel-az-inflacios-katasztrofara-ide-menekitik-most-penzuket-az-elelmes-magyarok-1129456",
+        "h1": "Készülj fel az inflációs katasztrófára: ide menekítik most pénzüket az élelmes magyarok",
+        "txtlength": 20458
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.penzcentrum.hu/nyugdij/20221002/itt-kiskiralykent-elhetnek-a-nyugdijasok-2022-ben-nem-kell-tartaniuk-az-inflaciotol-rezsitol-1129468",
+        "h1": "Itt kiskirályként élhetnek a nyugdíjasok 2022-ben: nem kell tartaniuk az inflációtól, rezsitől?",
+        "txtlength": 19648
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/nyugdij/20221002/itt-kiskiralykent-elhetnek-a-nyugdijasok-2022-ben-nem-kell-tartaniuk-az-inflaciotol-rezsitol-1129468",
+        "h1": "Itt kiskirályként élhetnek a nyugdíjasok 2022-ben: nem kell tartaniuk az inflációtól, rezsitől?",
+        "txtlength": 19408
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/podcast/20221001/nem-kell-csodhullamra-szamitani-jovore-a-magyar-gazdasagban/",
+        "h1": "Nem kell csődhullámra számítani jövőre a magyar gazdaságban",
+        "txtlength": 16139
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20221002/rado-peter-a-kolcseysek-kirugasaval-szintet-lepett-a-represszio-a-kozoktatasban-570353",
+        "h1": "Radó Péter: a kölcseysek kirúgásával szintet lépett a represszió a közoktatásban",
+        "txtlength": 15799
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/tech/20220920/elindult-a-g7-uj-hirlevele/",
+        "h1": "Elindult a G7 új hírlevele",
+        "txtlength": 14916
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/uzlet/20221001/igy-orzik-magyarorszag-biztonsagi-benzin-es-dizeltartalekat-mennyi-maradt-meg-belole-569427",
+        "h1": "Így őrzik Magyarország biztonsági benzin- és dízeltartalékát - Mennyi maradt még belőle?",
+        "txtlength": 14661
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/testem/legrosszabb-csok/",
+        "h1": "legrosszabb csók",
+        "txtlength": 11270
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/kapcsolat/ortodox-zsido-par-moses-zippora-tiktok/",
+        "h1": "Tényleg külön ágyban alszik az ortodox zsidó nő, ha menstruál? A pár minden kérdésre választ ad a TikTokon",
+        "txtlength": 10572
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2022/10/02/a-vilagmindensegnek-nem-is-egy-hanem-legalabb-otfele-modon-lehet-vege",
+        "h1": "A VILÁGMINDENSÉGNEK NEM IS EGY, HANEM LEGALÁBB ÖTFÉLE MÓDON LEHET VÉGE",
+        "txtlength": 10182
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/szuloseg/anya-depresszio-neveles/",
+        "h1": "anya depresszió nevelés",
+        "txtlength": 9269
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kulfold/2022/10/02/putyin-oroszorszag-ukrajna-haboru-mozgositas-kritika-pugacseva/",
+        "h1": "Már egy szupersztár is bírálja Putyint – egyre több kritika éri odahaza az orosz elnököt",
+        "txtlength": 18660
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/tudomany/2022/10/02/koronavirus-covid-19-szuperkerulok-genetika-genek-halalozas-sulyos-fertozes-immunrendszer",
+        "h1": "Eddig nem döntötte le a lábáról a koronavírus? Akkor lehet, hogy ön szuperkerülő",
+        "txtlength": 18063
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/gazdasag/20221002_Es_akkor_a_forint_arfolyama_szallt_a_kamatemeles_meg_allt",
+        "h1": "És akkor a forint árfolyama szállt, a kamatemelés meg állt",
+        "txtlength": 17146
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/vilag/20221001_Menekules_a_mozgositas_elol_Nem_akarok_olni_es_meghalni_sem",
+        "h1": "Menekülés az orosz mozgósítás elől: „Nem akarok ölni és meghalni sem!”",
+        "txtlength": 15614
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/tech/2022/10/01/teszt-nothing-phone-1-telefon-carl-pei",
+        "h1": "Van ennél jobb telefon, de úgysem ez a lényeg",
+        "txtlength": 15187
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kulfold/2022/10/01/as-sabab-szomalia-igazsagszolgaltatas-korrupcio-afrika-birosag/",
+        "h1": "Olyan korruptak a bíróságok, hogy az emberek inkább egy terrorszervezettől remélnek igazságot",
+        "txtlength": 15110
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2022/10/02/abortusz-nyugdijasok-banyaszok-szivhangrendelet-pinter-sandor-zsuzsa-velemeny/",
+        "h1": "Féláron kérhetik az abortuszt a nyugdíjasok és a beteg bányászok",
+        "txtlength": 14280
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/eszkombajn/2022/10/02/nasa-delfin-kiserlet-1960-lsd",
+        "h1": "A delfinkísérlet, aminek ember-delfin szex és LSD-ző delfin lett a vége",
+        "txtlength": 13385
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/vilag/20221002_Utmutato_Bidennek_arra_az_esetre_ha_Putyin_ledobja_az_atomot",
+        "h1": "Hogyan reagálhat Biden, ha Putyin ledob egy atombombát?",
+        "txtlength": 12408
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/10/01/orban-ahol-az-ember-ereje-elfogy-ott-mindig-kipotolja-a-kegyelem",
+        "h1": "Orbán: Ahol az ember ereje elfogy, ott mindig kipótolja a kegyelem",
+        "txtlength": 10621
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/10/01/elindult-a-nepszamlalas",
+        "h1": "Elindult a népszámlálás",
+        "txtlength": 10350
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/krimi/tinik-szatir-festomuvesz-nagykoros-rendorseg-maszturbal/nb755l4",
+        "h1": "Tinik előtt végzett önkielégítést az ismert festőművész – Érthetetlen, miért nem vették őrizetbe B. Tamást",
+        "txtlength": 8732
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/sztarvilag/nem-telt-el-24-ora-es-mar-mindent-elesen-lattam-juronics-tamas-tancmuvesz-a-visumax/8sn26l8",
+        "h1": "„Nem telt el 24 óra, és már mindent élesen láttam” – Juronics Tamás táncművész a VisuMax HD lézeres szemműtétéről",
+        "txtlength": 8377
+    },
+    {
         "hostname": "nosalty.hu",
         "pagelink": "https://www.nosalty.hu/recept/birsalmasajt",
         "h1": "Birsalmasajt",
