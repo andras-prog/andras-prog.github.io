@@ -1,5 +1,179 @@
 [
     {
+        "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/pasztortarhonya-az-eredeti-magyaros-egytaletel-recept",
+        "h1": "Az eredeti (és nagyon szaftos) pásztortarhonya",
+        "txtlength": 13342
+    },
+    {
+        "hostname": "hataratkelo.blog.hu",
+        "pagelink": "https://hataratkelo.blog.hu/2022/09/27/ne_menjen_a_gyerek_iskolaba_mert_nincs_tanar#c41592650",
+        "h1": "Ne menjen a gyerek iskolába, mert nincs tanár",
+        "txtlength": 44437
+    },
+    {
+        "hostname": "kulturpart.hu",
+        "pagelink": "https://kulturpart.blog.hu/2022/10/01/szep_volt_fiuk_134",
+        "h1": "SZÉP VOLT, FIÚK!",
+        "txtlength": 6958
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/vallalkozas/20221002/aranyaron-merik-mar-a-sutit-a-magyar-cukraszdak-ha-ez-igy-megy-tovabb-lehuzhatjak-a-rolot-1129496",
+        "h1": "Aranyáron mérik már a sütit a magyar cukrászdák: ha ez így megy tovább, lehúzhatják a rolót?",
+        "txtlength": 31124
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220921_mindig_szerettem_volna_itthon_is_hasznos_lenni_kaali_nagy_geza_a_mandinernek",
+        "h1": "Mindig szerettem volna itthon is hasznos lenni – Kaáli Nagy Géza a Mandinernek",
+        "txtlength": 28311
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220930_ungar_peter_lmp_blablabla_nem_vegleges",
+        "h1": "„Egyszerre kívánunk az Orbán-kormány és az Európai Bizottság ellenzéke lenni” – Ungár Péter a Mandinernek",
+        "txtlength": 23621
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20221002_orosz_taktikai_gyozelem_lehet_a_haboru_vege_de_strategiai_vereseg_racz_andras_es_demko_attila_vitaja_a_mandineren",
+        "h1": "Orosz taktikai győzelem, de stratégiai vereség lehet a háború vége – Rácz András és Demkó Attila vitája a Mandineren",
+        "txtlength": 22774
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/oktatas/20221003/tobb-ezer-magyar-szulo-rontja-el-igy-a-gyereket-vigyazz-nehogy-elkovesd-ezt-a-hibat-1129398",
+        "h1": "Több ezer magyar szülő rontja el így a gyerekét: vigyázz, nehogy elkövesd ezt a hibát",
+        "txtlength": 21943
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/penz/20221003/a-vilag-legmagasabb-adoival-sujtja-a-magyar-kormany-a-minimalbert-keresoket/",
+        "h1": "A világ legmagasabb adóival sújtja a magyar kormány a minimálbért keresőket",
+        "txtlength": 20854
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/uzlet/20221003/magyar-brandet-vesz-a-facebook-exkluziv-interju-a-volt-tulajdonossal-570485",
+        "h1": "Magyar brandet vesz a Facebook, exkluzív interjú a volt tulajdonossal",
+        "txtlength": 20583
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20221003/janisz-varufakisz-az-europai-unio-ralepett-a-lassu-felbomlas-szovjet-utjara-570173",
+        "h1": "Jánisz Varufákisz: Az Európai Unió rálépett a lassú felbomlás szovjet útjára",
+        "txtlength": 19120
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2022/10/03/martin-ugyved-szeretne-lenni-de-martin-soha-nem-lesz-ugyved",
+        "h1": "MARTIN ÜGYVÉD SZERETNE LENNI, DE MARTIN SOHA NEM LESZ ÜGYVÉD",
+        "txtlength": 18604
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/uzlet/20221003/jo-nagy-utessel-indult-a-nap-a-tozsdeken-570455",
+        "h1": "Jó nagy ütéssel indult a nap a tőzsdéken ",
+        "txtlength": 18020
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vilag/20221002/elszalltak-az-orosz-remenyek-egy-elvesztett-tankjuknak-pedig-nagyon-orulnek-nyugaton/",
+        "h1": "Elszálltak az orosz remények, egy elvesztett tankjuknak pedig nagyon örülnek nyugaton",
+        "txtlength": 16987
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/gyerek/veszelyes-online-kihivasok/",
+        "h1": "9 veszélyes online kihívás: ezért csinálják a kamaszok - És mit tehet a szülő?",
+        "txtlength": 13612
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/lajfhekk/philips-takaritogep-teszt/",
+        "h1": "philips takarító gép teszt",
+        "txtlength": 11633
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/eletmod/2022/10/03/irani-nok-forradalma-mahsza-amini-halalarol-erkolcsrendeszet-iranban-a-nok-helyzete-iranban",
+        "h1": "Amikor elhagyom az otthonom, mindig arra gondolok, nem biztos, hogy hazatérek",
+        "txtlength": 21924
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/elet/20221002_Jeffrey_Dahmer_sorozatgyilkos_netflix",
+        "h1": "A Dahmer-ügy: kellenek-e nekünk sorozatgyilkosokról készült filmek?",
+        "txtlength": 17503
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kultura/2022/10/02/emma-darcy-sarkanyok-haza-felnott-rhaenyra-targaryen-hbo-sorozat-portre/",
+        "h1": "A másságát szólította meg a szerep: ő Emma D’Arcy, a Sárkányok háza felnőtt Rhaenyrája",
+        "txtlength": 17071
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kulfold/2022/10/03/boszniai-valasztasok-dodik-izetbegovic-balhe/",
+        "h1": "Boszniai választások: 2-1, a szerb országrészben balhé jöhet",
+        "txtlength": 15948
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/gazdasag/2022/10/03/rezsicsokkentes-rezsiemeles-szamlak-gaz-foldgaz-szamla",
+        "h1": "Rezsiemelés: miért kaphatunk néhány köbméteres fogyasztásra nagyon magas gázszámlát, és mit tehetünk ellene?",
+        "txtlength": 13728
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/szepkilatas/2022/10/03/nincs-is-messze-szurdoktura-a-weichtalklamm-sziklatemplomaban",
+        "h1": "Nincs is messze: szurdoktúra a Weichtalklamm sziklatemplomában",
+        "txtlength": 13309
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/10/03/kirugott-tanarok-beigert-bombak",
+        "h1": "Kirúgott tanárok, beígért bombák",
+        "txtlength": 12515
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kulfold/2022/10/03/orosz-ukran-haboru-elo-percrol-percre-oktober-03/",
+        "h1": "Brit hírszerzés: Putyin is elismerte, hogy problémák adódtak a részleges mozgósítással",
+        "txtlength": 12379
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/vilag/20221003_haboru_hirfolyam_pp",
+        "h1": "Délen és keleten is sikereket arat az ukrán támadás, a Kreml elveszítheti az irányítást a propagandistái fölött – háborús híreink",
+        "txtlength": 12305
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20221003_egeszsegugy_korhaz_latogatasi_rend_orvosvalasztas_belugyminiszterium",
+        "h1": "Így alakítanák át az egészségügyet: változik a kórházakban a látogatási rend, nem lesz orvosválasztási jog sem",
+        "txtlength": 11265
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/10/03/tarr-bela-a-freeszfe-uj-elnoke",
+        "h1": "Tarr Béla a Freeszfe új elnöke",
+        "txtlength": 10001
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/elindult-a-nepszamlalas-mutatjuk-hogy-toltheti-ki-egyszeruen-az-interneten/2dsdzfm",
+        "h1": "Elindult a népszámlálás, mutatjuk, hogy töltheti ki az interneten egyszerűen",
+        "txtlength": 9980
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/sztarvilag/filmklikk/a-tvr-het-ajanlja-szerelem-nelkul-nem-lehet-elni-valaszutak/37yd246",
+        "h1": "Szerelem nélkül nem lehet élni: Válaszutak",
+        "txtlength": 8020
+    },
+    {
         "hostname": "hataratkelo.blog.hu",
         "pagelink": "https://hataratkelo.blog.hu/2022/09/19/david_beckham_es_az_egyuttlet_ereje",
         "h1": "David Beckham és az együttlét ereje",
