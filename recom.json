@@ -1,6 +1,180 @@
 [
     {
         "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/birsalmasajt-egyszeruen",
+        "h1": "Birsalmasajt egyszerűen",
+        "txtlength": 11430
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/csokolades-keksz.recept",
+        "h1": "CSOKOLÁDÉS KEKSZ",
+        "txtlength": 10944
+    },
+    {
+        "hostname": "hataratkelo.blog.hu",
+        "pagelink": "https://hataratkelo.blog.hu/2022/09/27/ne_menjen_a_gyerek_iskolaba_mert_nincs_tanar#c41594416",
+        "h1": "Ne menjen a gyerek iskolába, mert nincs tanár",
+        "txtlength": 49726
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220928_boszormenyi_nagy_gergely_interju",
+        "h1": "Lázadás az ideológiai dogmák ellen – Böszörményi-Nagy Gergely a Mandinernek",
+        "txtlength": 25222
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/kozelet/20221003/meg-mindig-szep-szammal-akadnak-olyan-tanarok-akik-a-digitalis-eszkozokben-ellenseget-latnak/",
+        "h1": "Még mindig szép számmal akadnak olyan tanárok, akik a digitális eszközökben ellenséget látnak",
+        "txtlength": 21899
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/megtakaritas/20221003/rengeteg-magyart-foszt-ki-a-sajat-csaladja-igy-sose-adj-penzt-meg-a-szeretteidnek-se-1129563",
+        "h1": "Rengeteg magyart foszt ki a saját családja: így sose adj pénzt, még a szeretteidnek se",
+        "txtlength": 19787
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/global/20221004/egesz-europat-megrazta-a-varatlan-szabotazsakcio-ki-lehetett-a-rejtelyes-elkoveto-570671",
+        "h1": "Egész Európát megrázta a váratlan szabotázsakció – Ki lehetett a rejtélyes elkövető?",
+        "txtlength": 19530
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/hitel/20221004/vegleg-lealdozott-ezeknek-a-hiteleknek-rengeteg-penzt-bukhat-rajta-aki-most-rosszul-valaszt-1129546",
+        "h1": "Végleg leáldozott ezeknek a hiteleknek? Rengeteg pénzt bukhat rajta, aki most rosszul választ",
+        "txtlength": 19096
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220930_bevallaltuk_vegignyomtuk_errol_miert_nem_ir_a_nemet_sajto",
+        "h1": "„Bevállaltuk, végignyomtuk” – erről miért nem ír a német sajtó?",
+        "txtlength": 19089
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20221004_mszp_ujhelyi_toth_bertalan_tartozas",
+        "h1": "Még négymillióval tartozhat az MSZP-nek Ujhelyi, aki már elkezdett törleszteni",
+        "txtlength": 18951
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/uzlet/20221004/massziv-felpattanas-nyar-eleje-ota-nem-latott-emelkedes-a-tozsdeken-570723",
+        "h1": "Masszív felpattanás, nyár eleje óta nem látott emelkedés a tőzsdéken ",
+        "txtlength": 18942
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20221004/horvath-peter-janos-minel-tobb-eromufejlesztesre-van-szukseg-magyarorszagon-570831",
+        "h1": "Horváth Péter János: minél több erőműfejlesztésre van szükség Magyarországon",
+        "txtlength": 17018
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vilag/20221004/a-bandavezerek-biztonsagi-tanacsa-beket-hozott-de-kiszoritotta-az-allamot-a-vilag-egykori-kokainfovarosaban/",
+        "h1": "A bandavezérek biztonsági tanácsa békét hozott, de kiszorította az államot a világ egykori kokainfővárosában",
+        "txtlength": 16886
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2022/10/03/a-tuzeloanyag-cellas-kozlekedes-a-kanyarban-eloz-de-a-hidrogentechnologiai-attoresre-meg-eveket-kell-varni",
+        "h1": "A TÜZELŐANYAG-CELLÁS KÖZLEKEDÉS A KANYARBAN ELŐZ, DE A HIDROGÉNTECHNOLÓGIAI ÁTTÖRÉSRE MÉG ÉVEKET KELL VÁRNI",
+        "txtlength": 15146
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/szuloseg/adalek-egeszsegtelen/",
+        "h1": "adalék egészségtelen",
+        "txtlength": 11345
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/utazas/kihalt-magyar-falvak/",
+        "h1": "5 magyar falu, ami mára teljesen kihalt: szomorú véget ért a történetük",
+        "txtlength": 10851
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/gazdasag/2022/10/04/europai-arampiac-mukodese-aramtozsde-gazar-meghatarozza-az-aram-arat-miert-nem-olcsobb-az-aram-ha-pakson-termeljuk",
+        "h1": "Miért ilyen pokolian drága az áram, ha Pakson olcsón termeljük?",
+        "txtlength": 20777
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2022/10/04/energiavalsag-csach-gabor-balassagyarmat-gazszerzodes/",
+        "h1": "„A biztos rossz jobb lehet a bizonytalan rossznál” – még a tizenhatszoros gázárra is rábólintott a fideszes városvezetés",
+        "txtlength": 17634
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/fn/gazdasag/2022/10/04/dollar-forint-arfolyam-tortenelmi-melypont-import-allamadossag/",
+        "h1": "Kikészíti a magyar gazdaságot a dollár erősödése?",
+        "txtlength": 17472
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kulfold/2022/10/04/orosz-ukran-haboru-hirfolyam-224-nap",
+        "h1": "Észak-Korea elismeri az ukrán területek annexióját, Oroszország leváltotta egyik fontos katonai parancsnokát",
+        "txtlength": 16343
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/belfold/2022/10/04/felveteli-2024-miskolci-debreceni-corvinus-egyetem-intezmenyi-pont-erettsegi",
+        "h1": "Fontos változások jönnek, de ezután is jól jön az egyetemi felvételihez az emelt szintű érettségi",
+        "txtlength": 14885
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/10/04/trump-pincernek-nezte-a-szines-boru-torvenyhozasi-alkalmazottakat",
+        "h1": "Trump pincérnek nézte a színes bőrű törvényhozási alkalmazottakat",
+        "txtlength": 12743
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/kkv/20221004_Csak_az_MNB_fejezte_be_a_kamatemelest_a_bankok_meg_korantsem",
+        "h1": "Csak az MNB fejezte be a kamatemelést, a bankok még korántsem",
+        "txtlength": 12304
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2022/10/04/alkotmanybirosagra-kuldte-sajat-torvenymodositasat-a-kormany/",
+        "h1": "Alkotmánybíróságra küldte saját törvénymódosítását a kormány, megalakul az Integritás Hatóság",
+        "txtlength": 11371
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/vilag/20221004_haboru_Oroszorszag_sorozas_pp",
+        "h1": "120 ezer újoncot hívnak be az oroszok, Elon Musk a Twitteren szavaztat a Krím sorsáról – háborús híreink",
+        "txtlength": 11127
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/kukasok-fellazadtak-budapesten/z3098c7?sl_ps=d_4",
+        "h1": "Breaking – Leáll a szemétszállítás Budapesten, fellázadtak a kukások – Zúgott a „Menjen haza!” az FKF Ecseri úti telephelyén, már Újpalotára is átterjedt az elégedetlenség – Fotók, videó!",
+        "txtlength": 10266
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20221004_Orban_igen_szavazataval_olyat_tett_az_Orszaggyules_amit_meg_sosem_az_Alkotmanybirosag_tamadott_meg_egy_kormany_altal_irt_torvenyt",
+        "h1": "Orbán igen szavazatával olyat tett az Országgyűlés, amit még sosem: Alkotmánybíróságon támadott meg egy törvényt",
+        "txtlength": 10257
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/10/04/10-eves-fianak-szervezett-szexualis-aktust-egy-33-eves-no-pest-megyeben",
+        "h1": "10 éves fiának szervezett szexuális aktust egy 33 éves nő Pest megyében",
+        "txtlength": 10168
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/kukas-huladeklerako-berek-szavazas/r72yjc2",
+        "h1": "Ön beállna kukásnak, vagy ahogy hivatalosan mondják, hulladéklerakó dolgozónak?",
+        "txtlength": 7504
+    },
+    {
+        "hostname": "nosalty.hu",
         "pagelink": "https://www.nosalty.hu/recept/pasztortarhonya-az-eredeti-magyaros-egytaletel-recept",
         "h1": "Az eredeti (és nagyon szaftos) pásztortarhonya",
         "txtlength": 13342
