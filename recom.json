@@ -1,5 +1,179 @@
 [
     {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/tojasos-virslisalata-lila-hagyma.recept",
+        "h1": "TOJÁSOS VIRSLISALÁTA",
+        "txtlength": 10346
+    },
+    {
+        "hostname": "kiszamolo.hu",
+        "pagelink": "https://kiszamolo.hu/strukturalt-alapok-menekulj/",
+        "h1": "Strukturált termékek: menekülj",
+        "txtlength": 34925
+    },
+    {
+        "hostname": "kulturpart.hu",
+        "pagelink": "https://kulturpart.hu/2022/09/30/budapestre_erkezik_a_vilaghiru_koreai_muvesz",
+        "h1": "BUDAPESTRE ÉRKEZIK A VILÁGHÍRŰ KOREAI MŰVÉSZ",
+        "txtlength": 6358
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20221005/homonnay-adam-ambiciozus-cel-az-evi-2-milliard-kobmeter-foldgazkitermeles-de-nem-lehetetlen-570605",
+        "h1": "Homonnay Ádám: ambiciózus cél az évi 2 milliárd köbméter földgázkitermelés, de nem lehetetlen",
+        "txtlength": 26593
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/tamogatoi-tartalom/20221004/szigorodik-a-szabalyozas-es-a-nav-ellenorzes-is-a-kapcsolt-vallalkozasok-egymas-kozotti-elszamolasara/",
+        "h1": "Szigorodik a szabályozás és a NAV-ellenőrzés is a kapcsolt vállalkozások egymás közötti elszámolására",
+        "txtlength": 26474
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20221005/itt-van-hogyan-kezelhetjuk-az-energiavalsagot-magyarorszagon-571047",
+        "h1": "Itt van, hogyan kezelhetjük az energiaválságot Magyarországon",
+        "txtlength": 26228
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/otthon/20221003/oriasi-csapast-mert-az-elet-a-babavaro-hitelre-milliokat-buknak-akik-2022-ben-veszik-fel-1129441",
+        "h1": "Óriási csapást mért az élet a babaváró hitelre: milliókat buknak, akik 2022-ben veszik fel",
+        "txtlength": 23268
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20221005_nagy_britannia_hadsereg",
+        "h1": "Isten óvja a királyt – de milyen erős a brit hadsereg?",
+        "txtlength": 23223
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20221005_esztorszag_hadsereg_laura_toodu",
+        "h1": "Nem szabad kompromisszumot kötni Oroszországgal – észt védelmi tanácsadó a Mandinernek",
+        "txtlength": 23025
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20221004_az_unios_donteshozoknak_felelniuk_kell_schobert_norbert_a_mandinernek",
+        "h1": "„Az uniós döntéshozóknak felelniük kell!” – Schobert Norbert a Mandinernek",
+        "txtlength": 22617
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.penzcentrum.hu/egeszseg/20221005/ijeszto-nepbetegseg-terjed-a-magyarok-koreben-marekszam-szedik-ra-ezeket-a-tablettakat-1129582",
+        "h1": "Ijesztő népbetegség terjed a magyarok körében: marékszám szedik rá ezeket a tablettákat",
+        "txtlength": 19818
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/egeszseg/20221005/ijeszto-nepbetegseg-terjed-a-magyarok-koreben-marekszam-szedik-ra-ezeket-a-tablettakat-1129582",
+        "h1": "Ijesztő népbetegség terjed a magyarok körében: marékszám szedik rá ezeket a tablettákat",
+        "txtlength": 19610
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vilag/20221005/balkani-patt-orban-es-putyin-tamogatasaval-nyert-dodik-de-az-ellenzek-tomeges-csalasok-miatt-nem-fogadja-el-az-eredmenyt/",
+        "h1": "Balkáni patt: Orbán és Putyin támogatásával nyert Dodik, de az ellenzék tömeges csalások miatt nem fogadja el az eredményt",
+        "txtlength": 18979
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/szuloseg/szivarvanybaba-veteles/",
+        "h1": "szivárványbabák vetélés",
+        "txtlength": 13457
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/ezo/guillotine-tortenete/",
+        "h1": "Amikor a guillontine-ból divat lett: gyerekjáték és partikellék is készült a kivégzőeszközből",
+        "txtlength": 10499
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2022/10/03/egy-korabbi-nobel-dijas-fia-a-neandervolgyi-genomot-szekvenalo-svante-paabo-kapta-a-2022-es-orvosi-nobel-dijat",
+        "h1": "EGY KORÁBBI NOBEL-DÍJAS FIA, A NEANDERVÖLGYI GENOMOT SZEKVENÁLÓ SVANTE PÄÄBO KAPTA A 2022-ES ORVOSI NOBEL-DÍJAT",
+        "txtlength": 9124
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/belfold/2022/10/05/sztrajk-polgari-engedetlenseg-elolanc-budapest-videk-hidfoglalas-tuntetes-koncert-tanarok",
+        "h1": "Legyen tanár, aki inspirál, aki utat mutat, aki felneveli a jövő generációját – az egész országban tüntetnek a tanárok jogaiért, délutánra hídfoglalást terveznek",
+        "txtlength": 31628
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2022/10/05/sztrajk-oktober-5-pedagogussztrajk-tanarsztrajk-percrol-percre-elo-tudositas-kozvetites/",
+        "h1": "Tanárok ezrei sztrájkolnak és polgári engedetlenkednek, országszerte folytatódnak a megmozdulások",
+        "txtlength": 18799
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2022/10/05/kolcsey-ferenc-gimnazium-kirugas-polgari-engedetlenseg-diakok/",
+        "h1": "„Az első naptól fogva miattuk jártam be” – így élik meg tanáraik kirúgását a kölcseys diákok",
+        "txtlength": 16080
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/belfold/2022/10/04/heti-betevo-etelosztas-szegenyseg-civil-szervezetek",
+        "h1": "Már nem csak hajléktalanok állnak sorba, megjelentek a kiskosztümös nyugdíjasok",
+        "txtlength": 15624
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kulfold/2022/10/04/orban-meloni-baratsag-mire-jo-olasz-kormany-europoli-velemeny/",
+        "h1": "Orbánnak lett egy új barátja Európában. Mire jut vele?",
+        "txtlength": 15593
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/cegauto/20221005_uj_ford_focus_magyar_ara_teszt_velemeny_menetproba_lagyhibrid_dizel_kompakt_kombi",
+        "h1": "10,4 millió forinton nyit a megújult Ford Focus, gyorsan ki is próbáltuk",
+        "txtlength": 11942
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/10/05/az-iskolak-nagy-napja",
+        "h1": "Az iskolák nagy napja",
+        "txtlength": 10493
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kulfold/2022/10/05/orosz-ukran-haboru-hirfolyam-225-nap",
+        "h1": "Putyin aláírta a négy ukrajnai régió annektálásáról rendelkező törvényeket",
+        "txtlength": 10417
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/kukasok-fellazadtak-budapesten/z3098c7",
+        "h1": "Breaking – Leáll a szemétszállítás Budapesten, fellázadtak a kukások – Zúgott a „Menjen haza!” az FKF Ecseri úti telephelyén, már Újpalotára is átterjedt az elégedetlenség – Fotók, videó!",
+        "txtlength": 10380
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/tudomany/20221004_portre_bay_zoltan_a_hold_radar_kidolgozoja_30_eve_halt_meg_fold_hold_tavolsag",
+        "h1": "30 éve ezen a napon halt meg a zseniális magyar tudós, aki Hold-radarjával először mérte meg pontosan a Föld és a Hold távolságát",
+        "txtlength": 10013
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/10/05/a-szaudiak-es-az-oroszok-egyutt-fognak-vissza-a-koolajtermelest-felnyomva-igy-az-arakat",
+        "h1": "A szaúdiak és az oroszok együtt fognák vissza a kőolajtermelést, felnyomva ezzel az árakat",
+        "txtlength": 9654
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/eurologus/20221005_Von_der_Leyen_a_tagallamoknak_egyutt_kell_fellepniuk_az_energiapiacon",
+        "h1": "Von der Leyen: Készek vagyunk megvitatni a villamosenergia-termelésre használt gáz árának felső határát.",
+        "txtlength": 9281
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/krimi/penzmosas-nyomozas-elfogatoparancs-interpol-kiadatasi-orizet/rkzx1m1?sl_ps=d_1",
+        "h1": "Magától akart hazajönni a 18 milliárdos pénzmosással gyanúsított magyar nő Egyiptomból, de nem engedték neki - nemzetközi bűnöző az igazságszolgáltatás útvesztőjében",
+        "txtlength": 8039
+    },
+    {
         "hostname": "nosalty.hu",
         "pagelink": "https://www.nosalty.hu/recept/birsalmasajt-egyszeruen",
         "h1": "Birsalmasajt egyszerűen",
