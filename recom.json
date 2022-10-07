@@ -1,5 +1,179 @@
 [
     {
+        "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/szekelykaposzta-1",
+        "h1": "Székelykáposzta 1.",
+        "txtlength": 10636
+    },
+    {
+        "hostname": "hataratkelo.blog.hu",
+        "pagelink": "https://hataratkelo.blog.hu/2022/09/27/ne_menjen_a_gyerek_iskolaba_mert_nincs_tanar#c41597724",
+        "h1": "Ne menjen a gyerek iskolába, mert nincs tanár",
+        "txtlength": 45265
+    },
+    {
+        "hostname": "kulturpart.hu",
+        "pagelink": "https://kulturpart.blog.hu/2022/10/06/a_kepzelt_szerelem_hatalma",
+        "h1": "A KÉPZELT SZERELEM HATALMA",
+        "txtlength": 5898
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20221007_putyin_70_portre_kulfold_oroszorszag_kgb_jelcin",
+        "h1": "Putyinná válni – hetvenéves lett az orosz elnök",
+        "txtlength": 29295
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/hitel/20221004/csaladok-tizezreire-leselkedik-a-hitelkrach-rezsiremalom-ujabb-allami-mentocsomag-johet-1129556",
+        "h1": "Családok tízezreire leselkedik a hitelkrach, rezsirémálom: újabb állami mentőcsomag jöhet?",
+        "txtlength": 27588
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vallalat/20221007/hiaba-emelnek-bert-ev-kozben-is-megeszi-a-magyar-fizeteseket-a-dragulas/",
+        "h1": "Hiába emelnek bért év közben is, megeszi a magyar fizetéseket a drágulás",
+        "txtlength": 22224
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/hitel/20221006/ezert-nem-jut-most-kolcsonhoz-a-legtobb-magyar-igy-csusznak-le-a-kedvezmenyes-kamatokrol-1129682",
+        "h1": "Ezért nem jut most kölcsönhöz a legtöbb magyar: így csúsznak le a kedvezményes kamatokról",
+        "txtlength": 20141
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/global/20221007/kanyarban-elozne-amerikat-a-feltorekvo-nagyhatalom-az-iraki-haboru-ota-kulcsfontossagu-iparagban-de-van-egy-kis-bokkeno-ami-komoly-bukassal-jarhat-571383",
+        "h1": "Kanyarban előzné Amerikát a feltörekvő nagyhatalom az iraki háború óta kulcsfontosságú iparágban, de van egy kis bökkenő, ami komoly bukással járhat",
+        "txtlength": 19756
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20221006_kina_gazdasag_haboru",
+        "h1": "Rosszat tesz az ukrajnai háború a kínai gazdaságnak is",
+        "txtlength": 18254
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/tech/20221006/tunteto-tanarok-szennyvizbol-keszult-sor-es-egy-elfeledett-noi-figura/",
+        "h1": "Tüntető tanárok, szennyvízből készült sör és egy elfeledett női figura",
+        "txtlength": 17961
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/krtk/20221007/nagyhatalomma-valhat-magyarorszag-az-akkumulatorgyartasban-de-ennek-nagyon-komoly-ara-lehet-571369",
+        "h1": "Nagyhatalommá válhat Magyarország az akkumulátorgyártásban, de ennek nagyon komoly ára lehet",
+        "txtlength": 17676
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20221006_karacsonyi_vasar_budapest_vorosmarty_ter_fovaros_budapest_brand_nonprofit_zrt_belvaros_lipotvaros_vita",
+        "h1": "Biznisz helyett méltó ünneplés: új szervezője lehet a Vörösmarty téri karácsonyi vásárnak",
+        "txtlength": 16719
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2022/10/05/qubit-live-6-a-magyar-iskolarendszer-a-mult-szazadban-ragadt-es-nincs-aki-ezert-felelosseget-vallalna",
+        "h1": "QUBIT LIVE #6: A MAGYAR ISKOLARENDSZER A MÚLT SZÁZADBAN RAGADT, ÉS NINCS, AKI EZÉRT FELELŐSSÉGET VÁLLALNA",
+        "txtlength": 16545
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.penzcentrum.hu/vasarlas/20221007/igy-koltenenek-a-magyarok-akkor-is-ha-nincs-mibol-ilyen-cuccokra-vadasznak-a-legtobben-1129712",
+        "h1": "Így költenének a magyarok akkor is, ha nincs miből: ilyen cuccokra vadásznak a legtöbben",
+        "txtlength": 16139
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/utazas/szlovenia-uti-celok/",
+        "h1": "Szlovénia legszebb vidékei azonnal elvarázsolnak: Budapesttől 4 órára egy másik világba csöppenhetsz",
+        "txtlength": 14726
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/lajfhekk/etel-fagyasztas/",
+        "h1": "Étel fagyasztás",
+        "txtlength": 9524
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kulfold/2022/10/07/abortusz-kismama-borton-magzat-vedelem-terhesseg-torveny/",
+        "h1": "Végleg átvette a kontrollt az abortusz felett a politika",
+        "txtlength": 23821
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/interju/2022/10/07/kulka-janos-tovishazi-ambrus-tariska-szabolcs-palmasziv-interju-zene-lemez",
+        "h1": "Kulka János: Nincsen kecmec!",
+        "txtlength": 20697
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/gazdasag/20221007_Gazarsapka_rezsi_energia_EU_sporolas_szolidaritasi_ado_beveteli_plafon",
+        "h1": "Gázársapka nélkül nem sokat ér az uniós rezsicsomag – Magyarországon meg pláne nem",
+        "txtlength": 20436
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kulfold/2022/10/06/larry-ray-szekta-kollegium-diakok-szex-amerika-itelet-borton",
+        "h1": "Beköltözött a lánya kollégiumába, és szervezett egy szexen, manipuláción és erőszakon alapuló szektát",
+        "txtlength": 19988
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/fn/gazdasag/2022/10/07/loszer-gyartosor-eltunt-bsgep/",
+        "h1": "Eltűnt egy évente 25 millió lőszer gyártására alkalmas gépsor Magyarországról",
+        "txtlength": 16382
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kultura/2022/10/07/oktober-sorozatajanlo-netflix-hbo-max-disney-plus-amazon-prime-video-apple-tv-streaming-tv/",
+        "h1": "Az október sorozatfronton igazi horrorhónap lesz – de szerencsére nem csak az",
+        "txtlength": 15882
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/gazdasag/2022/10/07/inflacio-kamatemeles-alapkamat-13-szazalek-mnb",
+        "h1": "A kormány gazdaságpolitikájának kudarcát korrigálja a jegybank a 13 százalékos alapkamattal",
+        "txtlength": 15097
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20221007_tankerulet_tuntetes_karinthy_sztrajk_elo",
+        "h1": "Több százan kísérték el a Karinthy tanárait átvenni megrovásukat, amiért kiálltak jogaikért",
+        "txtlength": 13220
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/10/07/putyin-level-70-es-ellenseg-lett",
+        "h1": "Putyin level 70-es ellenség lett",
+        "txtlength": 11682
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/kultura/20221007_Megint_egy_evvel_oregebb_lett_es_bolcsebb_is_talan__Halasz_Judit_80_eves",
+        "h1": "Megint egy évvel öregebb lett, és bölcsebb is talán - Halász Judit 80 éves",
+        "txtlength": 10319
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/10/06/a-budapesti-kozmuvek-megallapodott-a-kukasok-kepviseloivel-ujraindul-a-szemetszallitas",
+        "h1": "A Budapesti Közművek megállapodott a kukások képviselőivel, újraindul a szemétszállítás",
+        "txtlength": 9816
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/karacsony-gergely-fkf-kukaholding-sztrajk-ot-pont/nq23mwy",
+        "h1": "Karácsony Gergely köszönetet mondott a szemétszállítóknak: \"Budapesten fokozatosan helyreáll a rend...\"",
+        "txtlength": 9352
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/kuka-szemet-elszallitas-lemaradas-fkf-megegyezes-sztrajk-munka-felvettek/6z9401y",
+        "h1": "Figyelem! Így pótolja a lemaradást a ma reggel meginduló FKF – Fotók és videó",
+        "txtlength": 9256
+    },
+    {
         "hostname": "mindmegette.hu",
         "pagelink": "https://www.mindmegette.hu/glutenmentes-gyumolcstorta.recept",
         "h1": "GLUTÉNMENTES GYÜMÖLCSTORTA",
