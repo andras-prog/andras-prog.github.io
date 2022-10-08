@@ -1,6 +1,180 @@
 [
     {
         "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/retro-almas-pite",
+        "h1": "Retró almás pite",
+        "txtlength": 11203
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/glutenmentes-sonkas-rakott-teszta.recept",
+        "h1": "GLUTÉNMENTES SONKÁS RAKOTT TÉSZTA",
+        "txtlength": 10910
+    },
+    {
+        "hostname": "kulturpart.hu",
+        "pagelink": "https://kulturpart.hu/2022/10/06/a_kepzelt_szerelem_hatalma",
+        "h1": "A KÉPZELT SZERELEM HATALMA",
+        "txtlength": 5790
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2022/10/08/mit-tudunk-jezusrol",
+        "h1": "MIT TUDUNK JÉZUSRÓL?",
+        "txtlength": 30549
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20221007_vlagyimir_putyin_elnokseg_portre",
+        "h1": "Két évtized a Kreml magasodó falai között – Vlagyimir Putyin a hatalomban",
+        "txtlength": 29909
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20221007_guld_adam_brain_bar_nemzedek_elmaganyosodas",
+        "h1": "Így magányosodik el a legfiatalabb nemzedék – Guld Ádám generációkutató a Mandinernek",
+        "txtlength": 27800
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20221005_a_fideszeseknek_ellenzekiek_nehany_ellenzekinek_fideszesek_vagyunk_nemeth_s_szilard_a_mandinernek",
+        "h1": "„A fideszeseknek ellenzékiek, néhány ellenzékinek fideszesek vagyunk” – Németh S. Szilárd a Mandinernek",
+        "txtlength": 22771
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/vasarlas/20221008/javaban-erik-a-magyar-erdok-oszi-kincse-durva-aron-merik-a-piacokon-pedig-barki-ingyen-szedheti-1129729",
+        "h1": "Javában érik a magyar erdők őszi kincse: durva áron mérik a piacokon, pedig bárki ingyen szedheti",
+        "txtlength": 20464
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.penzcentrum.hu/vasarlas/20221008/javaban-erik-a-magyar-erdok-oszi-kincse-durva-aron-merik-a-piacokon-pedig-barki-ingyen-szedheti-1129729",
+        "h1": "Javában érik a magyar erdők őszi kincse: durva áron mérik a piacokon, pedig bárki ingyen szedheti",
+        "txtlength": 20110
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/befektetes/20221008/ropkodnek-a-30-40-os-hozamok-a-magyar-befekteteseknel-de-vannak-csunya-bukok-is-571687",
+        "h1": "Röpködnek a 30-40%-os hozamok a magyar befektetéseknél, de vannak csúnya bukók is",
+        "txtlength": 19620
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/vasarlas/20221007/egekben-az-ara-a-magyarok-egyik-kedvenc-italanak-lassan-igazi-luxus-lesz-meginni-egy-cseszet-belole-1129711",
+        "h1": "Egekben az ára a magyarok egyik kedvenc italának: lassan igazi luxus lesz meginni egy csészét belőle",
+        "txtlength": 19081
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/kozelet/20221008/bezarasi-hullam-putyin-transzgeneracios-traumai-es-egy-mugyujto-margaringyaros/",
+        "h1": "Bezárási hullám, Putyin transzgenerációs traumái és egy műgyűjtő margaringyáros",
+        "txtlength": 17463
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/podcast/20221008/100-140-eves-lemaradasban-van-a-magyar-iskolarendszer/",
+        "h1": "100-140 éves lemaradásban van a magyar iskolarendszer",
+        "txtlength": 16465
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/global/20221008/hamarosan-bemutatja-amerika-a-jovo-pancelosait-a-legendas-orosz-armata-mar-labdaba-sem-rughat-571401",
+        "h1": "Hamarosan bemutatja Amerika a jövő páncélosait – A legendás orosz Armata már labdába sem rúghat?",
+        "txtlength": 16176
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/otthon/almennyezet-epitese/",
+        "h1": "Több lesz a rezsi, ha magas a lakás belmagassága: így építs saját kezűleg álmennyezetet",
+        "txtlength": 11653
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/lajfhekk/fogkefe-fogkrem-tortenete/",
+        "h1": "fogkefe fogkrém története",
+        "txtlength": 9878
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/tudomany/2022/10/08/tatarjaras-harc-erod-szank-tazlar-szentkiraly-tortenelem-regeszet/",
+        "h1": "Tatárjárás: kemencében halt meg egy anya és két gyermeke",
+        "txtlength": 22502
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/szorakozas/2022/10/08/iii-karoly-kiraly-borhajtasu-auto-sajt-bioetanol-klimavedelem-kornyezetvedelem/",
+        "h1": "Bor és sajt hajtja a klímakirály autóját, de ezzel meg lehet menteni a bolygót?",
+        "txtlength": 19591
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/szepkilatas/2022/10/08/koszovo-hegycsucs-tura-gjeravica-rudoka",
+        "h1": "Megnéztük, mennyire átkozott a koszovói Elátkozott-hegység",
+        "txtlength": 18699
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kultura/2022/10/08/skandinav-krimi-svedorszag-dania-bunugy-matine/",
+        "h1": "Dániába utazott tanúskodni a svéd férfi, börtönbe zárták, meghalt",
+        "txtlength": 17071
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20221008_mindenki_magyarorszaga_mozgalom_marki_zay_kampanyfinanszirozas",
+        "h1": "Kétmilliárd Amerikából Márki-Zay-nak és az ellenzéknek? És ez legális volt?",
+        "txtlength": 14946
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/belfold/2022/10/08/tanar-tankerulet-pedagogus-polgari-engedetlenseg-rendkivuli-felmentes-jog-figyelmeztetes-tasz",
+        "h1": "A fő kérdés, hogy arányos válasz-e a tanárok kirúgása néhány óra polgári engedetlenségért",
+        "txtlength": 14711
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kult/2022/10/07/pinter-bela-es-tarsulata-az-imadkozo-kritika",
+        "h1": "Megtörtént a csoda, bár ne történt volna meg",
+        "txtlength": 13356
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/gazdasag/20221007_gazarsapka_EU_energiaarak_rezsi",
+        "h1": "Egyszerre legalább három gázársapka-verzióval zsonglőrködik az EU",
+        "txtlength": 12784
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/10/08/hetvegi-olvasnivalok-az-oktatas-osszeomlasatol-a-marhadiplomaciaig",
+        "h1": "Hétvégi olvasnivalók az oktatás összeomlásától a marhadiplomáciáig",
+        "txtlength": 12204
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/vilag/20221008_orosz_ukran_haboru_krimi_hid_langol",
+        "h1": "Robbanás után beomlott az Oroszországot a Krímmel összekötő híd egy szakasza",
+        "txtlength": 11458
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/10/07/liverpoolban-lesz-az-eurovizios-dalfesztival-jovore",
+        "h1": "Liverpoolban lesz az Eurovíziós dalfesztivál jövőre",
+        "txtlength": 10872
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/krimi/sorozatgyilkossag-jancso-ladanyi-piroska-kivegzes/6knz3ke",
+        "h1": "Kéjvágya miatt ölt nőket a jászsági asszony: a kútba rejtette a holttesteket – A világtörténelemben először fordult elő, hogy nő ölt nőt szexuális indíttatásból",
+        "txtlength": 9215
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/tankeruleti-kozpont-ulloi-ut-elegedetlen-tanarok-levelek/f710cv5",
+        "h1": "Elmentek a Karinthy tanárai a tankerületi központhoz a nekik címzett, 24 titokzatos borítékért – Ez történt a helyszínen, amikor megállt egy kukásautó! Áll a forgalom az Üllőin – fotók, videó",
+        "txtlength": 8818
+    },
+    {
+        "hostname": "nosalty.hu",
         "pagelink": "https://www.nosalty.hu/recept/szekelykaposzta-1",
         "h1": "Székelykáposzta 1.",
         "txtlength": 10636
