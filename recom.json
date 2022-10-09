@@ -1,5 +1,173 @@
 [
     {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/sutoporos-fank-glutenmentesen.recept",
+        "h1": "SÜTŐPOROS FÁNK GLUTÉNMENTESEN",
+        "txtlength": 10812
+    },
+    {
+        "hostname": "kulturpart.hu",
+        "pagelink": "https://kulturpart.blog.hu/2022/10/06/ujra_itt_a_budapesti_nemzetkozi_gitarfesztival",
+        "h1": "ÚJRA ITT A BUDAPESTI NEMZETKÖZI GITÁRFESZTIVÁL!",
+        "txtlength": 4194
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vilag/20221009/tenyleg-hatastalanok-az-oroszorszagra-kivetett-szankciok/",
+        "h1": "Tényleg hatástalanok az Oroszországra kivetett szankciók?",
+        "txtlength": 30559
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220928_vali_dezso_festes_interju",
+        "h1": "Festek, mert ez az életem – Váli Dezső a Mandinernek",
+        "txtlength": 29102
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/utazas/20221008/eldolt-az-osztrak-sipalyak-szallashelyek-ettermek-sorsa-erre-keszulhetnek-az-utazok-2022-telen-1129706",
+        "h1": "Eldőlt az osztrák sípályák, szálláshelyek, éttermek sorsa: erre készülhetnek az utazók 2022 telén",
+        "txtlength": 25887
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20221008_orosz_ukran_haboru_putyin_strategia_hiba",
+        "h1": "Milyen stratégiai hibákat vétett eddig Putyin a háborúban?",
+        "txtlength": 25296
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20221008_konya_istvan_miniszteri_biztos_buntetougyek_interju",
+        "h1": "Több mint felével esett vissza a regisztrált bűncselekmények száma – miniszteri biztos a Mandinernek",
+        "txtlength": 22225
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/kozelet/20221008/egyre-alacsonyabb-a-gyerekek-frusztracioturese-amit-nem-szabad-figyelmen-kivul-hagyni/",
+        "h1": "Egyre alacsonyabb a gyerekek frusztrációtűrése, amit nem szabad figyelmen kívül hagyni",
+        "txtlength": 19991
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/global/20221009/a-legyozhetetlen-orosz-medve-legendaja-tenyleg-a-tel-hozza-majd-el-oroszorszag-elsopro-gyozelmet-571651",
+        "h1": "A legyőzhetetlen orosz medve legendája - Tényleg a tél hozza majd el Oroszország elsöprő győzelmét?",
+        "txtlength": 19480
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/megtakaritas/20221009/igy-eld-tul-az-inflaciot-es-a-rezsiemelest-71-tipp-hogy-ne-legyen-tobbe-ho-vege-1129644",
+        "h1": "Így éld túl az inflációt és a rezsiemelést: 7+1 tipp, hogy ne legyen többé hó vége",
+        "txtlength": 19019
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.penzcentrum.hu/megtakaritas/20221009/igy-eld-tul-az-inflaciot-es-a-rezsiemelest-71-tipp-hogy-ne-legyen-tobbe-ho-vege-1129644",
+        "h1": "Így éld túl az inflációt és a rezsiemelést: 7+1 tipp, hogy ne legyen többé hó vége",
+        "txtlength": 18979
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/ingatlan/20221008/negativ-rezsikoltseg-a-legdurvabb-energiaarak-mellett-is-lehetseges-571583",
+        "h1": "Negatív rezsiköltség? - A legdurvább energiaárak mellett is lehetséges",
+        "txtlength": 17762
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2022/10/09/ivotulok-nelkul-lehet-ugyan-elni-de-nem-erdemes",
+        "h1": "IVÓTÜLÖK NÉLKÜL LEHET UGYAN ÉLNI, DE NEM ÉRDEMES",
+        "txtlength": 14994
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/utazas/radnoti-miklos-lakasa/",
+        "h1": "Ebben a házban élt Radnóti Miklós Budapesten: Gyarmati Fannival bérelték az egyszobás garzont Újlipótvárosban",
+        "txtlength": 12060
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/lajfhekk/konzerv-nyitas/",
+        "h1": "Konzerv nyitás",
+        "txtlength": 8204
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kulfold/2022/10/09/torokorszag-erdogan-80-szazalekos-inflacio-valsag-akp-chp-hdp",
+        "h1": "Beleremeg Erdoğan rendszere a 80 százalékos inflációba",
+        "txtlength": 27211
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kultura/2022/10/09/magyar-haborus-sajto-propaganda-nemet-csodafegyver/",
+        "h1": "„Nem tudunk semmit. De hiszünk az igazunkban és a győzelmünkben” – a hazai háborús sajtó esete a csodafegyverrel",
+        "txtlength": 22680
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kulfold/2022/10/09/ferenc-papa-lemondas-spekulacio-konklave-vatikan",
+        "h1": "Tényleg a lemondására készül Ferenc pápa?",
+        "txtlength": 20808
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kultura/2022/10/08/matt-smith-sarkanyok-haza-doctor-who-a-korona-fulop-herceg-film-sorozat/",
+        "h1": "A világ kedvenc rosszfiúja lett Matt Smith, a Sárkányok háza Daemonja",
+        "txtlength": 20749
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kultura/2022/10/09/peterfy-bori-borikonyv-matine/",
+        "h1": "Péterfy Borit születésekor megfojtotta a köldökzsinór, az orvos élesztette újra",
+        "txtlength": 18182
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20221008_Karacsony_fovaros_FKF_szemetugy_sztrajk",
+        "h1": "Karácsony akár még profitálhat is a szemétügy kezeléséből",
+        "txtlength": 17818
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/gazdasag/20221009_Es_akkor_sztrajk_kukas_eu_gaz_energia_tavho_busz",
+        "h1": "És akkor a kukások elérték, amit a tanároknak nem sikerült",
+        "txtlength": 14362
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/elet/20221007_Vlagyimir_Putyin_70_gyerekkor_Leningrad",
+        "h1": "Putyin gyerekkora jó ideje már nemcsak őt, hanem az egész világot kísérti",
+        "txtlength": 14055
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/szorakozas/2022/10/09/harris-dickinson-szinesz-portre-angol-beach-rats-triangle-of-sadness",
+        "h1": "A Tescóban még nem ismerik meg, de a filmipar már a keblére ölelte",
+        "txtlength": 13406
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/krimi/kabitoszer-kereskedelem-delszlav-bunozoi-csoportok-szerb-montenegroi-maffia/m9ys1fg",
+        "h1": "Idegen maffia Magyarországon, avagy: hogyan vetették meg a lábukat hazánkban a külföldi bűnözők, és mit is csinálnak itt?",
+        "txtlength": 12766
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/10/09/mar-jovore-fuggetlensegi-nepszavazast-tartana-skot-miniszterelnok",
+        "h1": "Már jövőre függetlenségi népszavazást tartana skót miniszterelnök",
+        "txtlength": 11341
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/10/09/energiacsucs-osszehivasat-kovetelik-orbantol-az-ellenzeki-polgarmesterek",
+        "h1": "Energiacsúcs összehívását követelik Orbántól az ellenzéki polgármesterek",
+        "txtlength": 10513
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/krimi/hoffman-istvan-elleni-robbantasos-merenylet-prisztas/v092hvp",
+        "h1": "Kerékpárra szerelt, távirányítású pokolgéppel próbálták megölni a magyar üzletembert",
+        "txtlength": 8845
+    },
+    {
         "hostname": "nosalty.hu",
         "pagelink": "https://www.nosalty.hu/recept/retro-almas-pite",
         "h1": "Retró almás pite",
