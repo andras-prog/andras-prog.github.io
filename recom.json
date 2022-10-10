@@ -1,5 +1,179 @@
 [
     {
+        "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/birsalma-kompot",
+        "h1": "Birsalmakompót",
+        "txtlength": 10557
+    },
+    {
+        "hostname": "hataratkelo.blog.hu",
+        "pagelink": "https://hataratkelo.blog.hu/2022/09/27/ne_menjen_a_gyerek_iskolaba_mert_nincs_tanar#c41602156",
+        "h1": "Ne menjen a gyerek iskolába, mert nincs tanár",
+        "txtlength": 45137
+    },
+    {
+        "hostname": "kulturpart.hu",
+        "pagelink": "https://kulturpart.blog.hu/2022/10/09/egy_rejtelyes_szerzo_titokzatos_muve",
+        "h1": "EGY REJTÉLYES SZERZŐ TITOKZATOS MŰVE",
+        "txtlength": 7507
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/vasarlas/20221009/120-ezer-forintot-is-bukhat-aki-igy-dietazik-2022-ben-szint-vallott-az-aldi-auchan-lidl-tesco-spar-1129725",
+        "h1": "120 ezer forintot is bukhat, aki így diétázik 2022-ben: színt vallott az Aldi, Auchan, Lidl, Tesco, Spar",
+        "txtlength": 24786
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20221010_mozgositas_oroszorszag",
+        "h1": "Így zajlik a mozgósítás Oroszországban",
+        "txtlength": 24604
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vallalat/20221009/hol-fejlesztendo-a-hazai-innovacios-teljesitmeny/",
+        "h1": "Hol fejlesztendő a hazai innovációs teljesítmény?",
+        "txtlength": 21442
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/tamogatoi-tartalom/20221009/penz-helyett-az-otletuk-eles-kiprobasaval-lehet-a-kezdo-vallalkozokat-palyara-allatani/",
+        "h1": "Pénz helyett az ötletük éles kipróbásával lehet a kezdő vállalkozókat pályára állatani",
+        "txtlength": 20792
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20221009_marti_zoltan_interju_777_papok_keresztenyseg_haboru",
+        "h1": "Hodász András története dráma, fel kell tennünk a kérdést, mit teszünk a papjainkért – Martí Zoltán a Mandinernek",
+        "txtlength": 20216
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20221010_mihajlo_podoljak_interju_haboru_ukrajna_volodimir_zelenszkij_oroszorszag_vlagyimir_putyin_telex",
+        "h1": "Podoljak a Telexnek: Rövidlátó politikát látunk Magyarország részéről",
+        "txtlength": 18357
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/karrier/20221006/igy-kerj-valsag-idejen-fizuemelest-ezzel-barmelyik-magyar-dolgozo-meguszhatja-a-brutalis-dragulast-1129571",
+        "h1": "Így kérj válság idején fizuemelést: ezzel bármelyik magyar dolgozó megúszhatja a brutális drágulást",
+        "txtlength": 17871
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2022/10/10/a-jol-teljesito-lengyel-oktatasi-rendszeren-sokkal-kevesbe-fog-az-elnyomo-hatalom-atka-mint-a-magyaron",
+        "h1": "A JÓL TELJESÍTŐ LENGYEL OKTATÁSI RENDSZEREN SOKKAL KEVÉSBÉ FOG AZ ELNYOMÓ HATALOM ÁTKA, MINT A MAGYARON",
+        "txtlength": 16805
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.agrarszektor.hu/elelmiszer/20221010/brutalisan-megdragult-sokak-kedvenc-zoldsege-mutatjuk-mi-all-a-hatterben-40887",
+        "h1": "Brutálisan megdrágult sokak kedvenc zöldsége: mutatjuk, mi áll a háttérben",
+        "txtlength": 16513
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/uzlet/20221010/a-netflixnek-vege-a-tronfosztas-mar-csak-ido-kerdese-571641",
+        "h1": "A Netflixnek vége, a trónfosztás már csak idő kérdése?",
+        "txtlength": 13732
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/global/20221010/raketatamadas-erte-kijevet-es-tobb-ukran-nagyvarost-haborus-hireink-hetfon-571891",
+        "h1": "Rakétatámadás érte Kijevet és több ukrán nagyvárost - Háborús híreink hétfőn ",
+        "txtlength": 12300
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/szuloseg/neveloszulo-interju/",
+        "h1": "nevelőszülő interjú",
+        "txtlength": 10655
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/ezo/heti_horoszkop/202241/",
+        "h1": "Heti horoszkóp október 10-től 16-ig: a Halak új esélyt kap, a Bak szerencsés lesz",
+        "txtlength": 10076
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2022/10/10/jog-abortusz-torveny-szivhangrendelet-jogvedok-szabalyozas-balogh-lidia-interju/",
+        "h1": "„Jogi szempontból a szívhangrendelet nem számít szigorításnak”",
+        "txtlength": 25749
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/gazdasag/20221009_franciaorszag_nemetorszag_europai_vedelmi_politika",
+        "h1": "Keleten írják az európai védelemi politika jövőjét, de mi ebből is kimaradunk",
+        "txtlength": 23863
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kulfold/2022/10/10/orosz-ukran-haboru-tovabb-nyomulnak-kelet-fele-az-ukranok-elo-percrol-percre/",
+        "h1": "Robbanások rázták meg Kijevet",
+        "txtlength": 23708
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kulfold/2022/10/10/ukrajna-elnoki-tanacsado-mihajlo-podoljak",
+        "h1": "A 21. században miért tekinget Magyarország Moszkva felé?",
+        "txtlength": 23327
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kulfold/2022/10/10/orosz-ukran-haboru-percrol-percre",
+        "h1": "Legalább öt halottja és 12 sérültje van a Kijevet ért reggeli légicsapásnak",
+        "txtlength": 21853
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kulfold/2022/10/10/opec-szaud-arabia-oroszorszag-arsapka-olaj-olajar-energiaar-kartell-kvota-termeles-csokkentes-biden-egyesult-allamok-inflacio",
+        "h1": "A szaúdiak Putyin (és a pénz) oldalára álltak Bidennel szemben",
+        "txtlength": 17410
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/fn/gazdasag/2022/10/10/munkahelyvedelmi-akcioterv-energia-energiavalsag-multi-kkv-foldgaz-munkaeropiac-leepites-foglalkoztatas-autoipar/",
+        "h1": "Energiaválság: megint a multikat segítheti a kormány a gyármentéssel",
+        "txtlength": 16344
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/vilag/20221009_Az_ukrajnai_haboru_miatt_uj_vilag_szuletik_a_posztszovjet_tersegben",
+        "h1": "Putyin lassan a volt szovjet övezetben is teljesen magára maradhat",
+        "txtlength": 13140
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/10/10/a-televizio-es-a-valosag-kozotti-kulonbseg-elvekonyodott",
+        "h1": "„A televízió és a valóság közötti különbség elvékonyodott”",
+        "txtlength": 12809
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/10/09/a-kolcsey-igazgatoja-szerint-kegyetlen-embertelen-dolog-volt-az-iskolaban-34-eve-dolgozo-es-6-honappal-a-nyugdijazas-elott-allo-kollegano-rendkivuli-felmentese",
+        "h1": "A Kölcsey igazgatója szerint kegyetlen, embertelen dolog volt az iskolában 34 éve dolgozó és 6 hónappal a nyugdíjazás előtt álló kolléganő rendkívüli felmentése",
+        "txtlength": 10782
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/vilag/20221010_haboru_pp_orosz_ukran",
+        "h1": "Robbanások történtek Kijevben, újabb lakóházat ért rakétatámadás Zaporizzsjában",
+        "txtlength": 10703
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/sztarvilag/kultura/budapest-vidam-park-retro-legendas-helyek/x0v70th",
+        "h1": "Budapest eltűnt legendái: fénykorában évente kétmillió vendége volt a Vidám Parknak",
+        "txtlength": 7360
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/retro-tejreklam-kadar-korszak/xjrv8zn",
+        "h1": "„Erő izom, tejet iszom” – Egy generáció dúdolja a mai napig a Kádár-kori tejreklámokat",
+        "txtlength": 7011
+    },
+    {
         "hostname": "mindmegette.hu",
         "pagelink": "https://www.mindmegette.hu/sutoporos-fank-glutenmentesen.recept",
         "h1": "SÜTŐPOROS FÁNK GLUTÉNMENTESEN",
