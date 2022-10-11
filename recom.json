@@ -1,5 +1,173 @@
 [
     {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/a-legfinomabb-hamburger-buci.recept",
+        "h1": "A LEGFINOMABB HAMBURGER BUCI",
+        "txtlength": 11000
+    },
+    {
+        "hostname": "hataratkelo.blog.hu",
+        "pagelink": "https://hataratkelo.blog.hu/2022/09/27/ne_menjen_a_gyerek_iskolaba_mert_nincs_tanar#c41604000",
+        "h1": "Ne menjen a gyerek iskolába, mert nincs tanár",
+        "txtlength": 45528
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20221011_daniel_freund_jogallamisag_orban_kormany_interju",
+        "h1": "Aggodalommal tölti el Daniel Freundot az Európai Bizottság és a magyar kormány megállapodása",
+        "txtlength": 30246
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20221011_jaszberenyi_sandor_tiz_ev_haboru_recenzio",
+        "h1": "Jobb, ha ebből a könyvből tudja meg, milyen a háború",
+        "txtlength": 22737
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/penz/20221011/mindenki-a-sajat-gazdasagat-probalja-menteni-de-a-kis-orszagok-nem-birjak-a-versenyt/",
+        "h1": "Mindenki a saját gazdaságát próbálja menteni, de a kis országok nem bírják a versenyt",
+        "txtlength": 22469
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/vasarlas/20221010/orult-felhalmozasi-hullam-indulhat-meg-5-tipp-hol-tarold-az-elelmiszert-ha-keves-a-hely-1129768",
+        "h1": "Őrült felhalmozási hullám indulhat meg: 5 tipp, hol tárold az élelmiszert, ha kevés a hely",
+        "txtlength": 20106
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/egeszseg/20221010/teljes-a-kaosz-a-magyar-egeszsegugyben-sorra-zarnak-be-a-rendelok-kodolva-van-a-tragedia-1129748",
+        "h1": "Teljes a káosz a magyar egészségügyben: sorra zárnak be a rendelők, kódolva van a tragédia",
+        "txtlength": 19633
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vilag/20221010/trendvaltas-a-haboruban-ujra-raketakkal-lottek-kijevet-es-nyugat-ukrajnat-foleg-polgari-celpontokat/",
+        "h1": "Trendváltás a háborúban: újra rakétákkal lőtték Kijevet és Nyugat-Ukrajnát, főleg polgári célpontokat",
+        "txtlength": 17262
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20221011_europa_energia_valsag",
+        "h1": "A történelem szélsőséges pillanatában vagyunk",
+        "txtlength": 16705
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2022/10/11/mik-azok-a-taktikai-atomfegyverek-es-milyen-messzire-er-el-a-pusztitasuk",
+        "h1": "MIK AZOK A TAKTIKAI ATOMFEGYVEREK, ÉS MILYEN MESSZIRE ÉR EL A PUSZTÍTÁSUK?",
+        "txtlength": 16645
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20221011/varga-mihaly-nem-zarja-ki-hogy-jobb-lesz-az-idei-koltsegvetesi-hiany-572175",
+        "h1": "Varga Mihály nem zárja ki, hogy jobb lesz az idei költségvetési hiány",
+        "txtlength": 16261
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/uzlet/20221011/tobb-mint-25-eves-csucson-a-magyar-inflacio-mutatjuk-a-tozsdei-reakciokat-572089",
+        "h1": "Több mint 25 éves csúcson a magyar infláció, mutatjuk a tőzsdei reakciókat ",
+        "txtlength": 15962
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.penzcentrum.hu/otthon/20221011/nem-dolhet-hatra-aki-faval-futene-telen-hiaba-a-hatosagi-ar-csunya-vilag-johet-1129814",
+        "h1": "Nem dőlhet hátra, aki fával fűtene télen: hiába a hatósági ár, csúnya világ jöhet",
+        "txtlength": 15889
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/utazas/szeverszk-orosz-zart-varos/",
+        "h1": "Az oroszok zárt városa a térképre sem kerülhetett fel sokáig: atomfegyvereket gyártottak Szeverszkben",
+        "txtlength": 10917
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/lajfhekk/indukcios-fozolap-teszt/",
+        "h1": "Indukciós főzőlap teszt",
+        "txtlength": 9287
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://transtelex.ro/zold/2022/10/11/magyarosi-karoly-csikszereda-fa-zold-kornyezetvedelem-arborista",
+        "h1": "Tévedésből került a világ egyik legveszélyesebb szakmájába, a fasebészek közé",
+        "txtlength": 25868
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kulfold/2022/10/11/orosz-ukran-haboru-tudositas-elo-percrol-percre-oktober-11/",
+        "h1": "Magyarország háborús bűnnek tekinti az ukrán városok tömeges bombázását",
+        "txtlength": 15928
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/gazdasag/20221009_Igy_szorongatja_Putyin_Europat",
+        "h1": "Vannak még Putyinnak olyan ütőkártyái, amivel meg tudja szorongatni Európát",
+        "txtlength": 15298
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kulfold/2022/10/10/parkland-iskolai-lovoldozes-tomeggyilkos-florida-targyalas-halalbuntetes/",
+        "h1": "„Volt egy lehetőségem, hogy húsz percen át emberekre lőjek”",
+        "txtlength": 14342
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kulfold/2022/10/11/nem-ijedt-meg-putyintol-a-varos-amelyik-a-kreml-szeretne-elcsatolni-ukrajnatol-kramatorszk-helszini-riport",
+        "h1": "Nem ijedt meg a város, amelyik Putyin szerint már nem Ukrajnáé",
+        "txtlength": 12878
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/belfold/2022/10/11/rendorseg-tuzoltosag-sporolas-energiavalsag-18-fok-penzhiany",
+        "h1": "Elzárt klímakapcsoló, saját pénzből befejezett laktanya – így spórol az állam a tűzoltókon és a rendőrökön",
+        "txtlength": 12416
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2022/10/11/integritas-hatosag-mi-az-hogy-mukodik/",
+        "h1": "Éles és önveszélyes fegyvert alkotott az Orbán-kormány, de kérdés, hogy valóban bevetik-e",
+        "txtlength": 12207
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/10/11/kedd-van-matol-mindenkinek-elerheto-a-borizu-91-metal-lady-visszater-a-tunteto-diakok-elmennek-marad-a-tarsadalmi-katasztrofa",
+        "h1": "Kedd van, mától mindenkinek elérhető a Borízű #91: Metal Lady visszatér, a tüntető diákok elmennek, marad a társadalmi katasztrófa",
+        "txtlength": 11465
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/csuszdabaleset-szajnik-vince-eber-koma-75-milliard-forintos-karterites-targyalas/dyfq39d?sl_ps=d_11",
+        "h1": "Egyedülálló kártérítési összeg a most kezdődő tárgyalás tétje: 75 milliárd forintot kér az apa az éber kómában fekvő fiának",
+        "txtlength": 11294
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/10/11/a-brit-penzugyminiszter-elfelejtett-beszamolni-par-szaudi-uzleti-targyalasarol",
+        "h1": "A brit pénzügyminiszter elfelejtett beszámolni pár szaúdi üzleti tárgyalásáról",
+        "txtlength": 10562
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/elet/20221011_A_Kolcsey_tanarait_kirugo_tankeruletvezeto_szakdolgozata_erosen_plagiumgyanus",
+        "h1": "Hadházy beállt azok sorába, akik szerint plagizálhatott a Kölcsey tanárait kirúgó tankerületi vezető",
+        "txtlength": 10506
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/elet/20221011_Ingyenmunkat_var_el_az_erettsegi_elnokoktol_a_borsodi_kormanyhivatal",
+        "h1": "Nem fizette ki az érettségi elnökök díját a borsodi kormányhivatal",
+        "txtlength": 10283
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/krimi/keseles-i-kerulet-kozepiskola-tamado-aldozat/pn6nyh9",
+        "h1": "Nyakon szúrta a diáktársát Bertold – Hetek óta ígérgette: „Valakit meg fogok ölni!” – Drámai részletek az iskolai késelésről",
+        "txtlength": 8950
+    },
+    {
         "hostname": "nosalty.hu",
         "pagelink": "https://www.nosalty.hu/recept/birsalma-kompot",
         "h1": "Birsalmakompót",
