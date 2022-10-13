@@ -1,6 +1,174 @@
 [
     {
         "hostname": "kiszamolo.hu",
+        "pagelink": "https://kiszamolo.hu/hasznalt-telefonok-egy-ev-garanciaval/",
+        "h1": "Használt telefonok egy év garanciával",
+        "txtlength": 33411
+    },
+    {
+        "hostname": "kulturpart.hu",
+        "pagelink": "https://kulturpart.hu/2022/10/11/csaladi_unnep_lesz_a_vulkan_oldalaban",
+        "h1": "CSALÁDI ÜNNEP LESZ A VULKÁN OLDALÁBAN",
+        "txtlength": 5690
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20221005_demokraciavedo_kampanymilliardok",
+        "h1": "„Demokráciavédő” kampánymilliárdok",
+        "txtlength": 24400
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20221012_andok_repulos_katasztrofa",
+        "h1": "Aki életben maradt – ötven éve történt az Andok repülős katasztrófája, megszólal a túlélő",
+        "txtlength": 22889
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://foreignpolicy.com/2022/10/10/europe-energy-crisis-russia-ukraine-war-ones-and-tooze/",
+        "h1": "Europe’s Energy Crisis Could Last for Years",
+        "txtlength": 22665
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vallalat/20221013/orban-negyszer-tobb-munkanelkulit-is-el-tud-kepzelni-de-egyelore-nem-latszik-ekkora-baj/",
+        "h1": "Orbán négyszer több munkanélkülit is el tud képzelni, de egyelőre nem látszik ekkora baj",
+        "txtlength": 22570
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20221013_kinizsi_pal_nagyvazsony_kandiko_csanad",
+        "h1": "Így keresik Kinizsi Pál maradványait Nagyvázsonyban",
+        "txtlength": 20041
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20221013/hogyan-hasznaljuk-a-karbonpiacot-a-fenntarthatosagi-elvarasok-teljesitesehez-572277",
+        "h1": "Hogyan használjuk a karbonpiacot a fenntarthatósági elvárások teljesítéséhez?",
+        "txtlength": 19604
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/global/20221013/brutalis-raketaesovel-mutatkozott-be-armageddon-tabornok-tenyleg-egyetlen-ember-forditja-majd-meg-az-ukrajnai-haboru-menetet-572429",
+        "h1": "Brutális rakétaesővel mutatkozott be Armageddon tábornok: tényleg egyetlen ember fordítja majd meg az ukrajnai háború menetét?",
+        "txtlength": 19541
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/tech/20221012/luxustelefonszamok-magyarorszagon-nem-is-tudsz-rola-de-lehet-a-tied-is-szazezreket-er-1129842",
+        "h1": "Luxustelefonszámok Magyarországon: nem is tudsz róla, de lehet, a tiéd is százezreket ér",
+        "txtlength": 17428
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/otthon/20221011/szocialis-katasztrofat-hozhat-a-rezsiemeles-rengeteg-magyar-fagyhat-halalra-sajat-otthonaban-1129755",
+        "h1": "Szociális katasztrófát hozhat a rezsiemelés: rengeteg magyar fagyhat halálra saját otthonában",
+        "txtlength": 17076
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/befektetes/20221013/elszegenyednek-az-emberek-es-eltunik-a-kozeposztaly-borus-jovot-fest-egy-uj-jelentes-572553",
+        "h1": "Elszegényednek az emberek és eltűnik a középosztály – Borús jövőt fest egy új jelentés",
+        "txtlength": 16935
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2022/10/13/rezsivalsagban-a-magyar-tudomany-kutatasi-penzbol-fizetik-a-rezsit-de-a-reszecskegyorsitokat-igy-se-lesz-mibol-uzemeltetni",
+        "h1": "A KÁVÉFŐZŐT MÉG TALÁN, A RÉSZECSKEGYORSÍTÓT MÁR NEM LESZ MIBŐL ÜZEMELTETNI A MAGYAR KUTATÓINTÉZETEKBEN",
+        "txtlength": 14735
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/egeszseg/petefeszekrak-gyakori-tunetei/",
+        "h1": "Haspuffadás is jelezheti a daganatot: a petefészekrák 5 gyakori tünete, amin sokan átsiklanak",
+        "txtlength": 12090
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/szuloseg/gyerek-verik-iskola/",
+        "h1": "gyerek verik iskola",
+        "txtlength": 10268
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/belfold/2022/10/13/az-allapot-szamit-nem-a-futasteljesitmeny-az-oratekerok-a-magyar-hasznaltauto-piac-nyertesei",
+        "h1": "Az óratekerők a magyar használtautó-piac nyertesei",
+        "txtlength": 22116
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kultura/2022/10/13/szinhaz-rezsi-katona-vigszinbhaz-juranyi-radnoti-szolnok-szombathely/",
+        "h1": "Beül-e a színházba a néző, miután megkapta a gázszámláját?",
+        "txtlength": 17583
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20221013_Igy_lett_Szijjarto_Peter_az_orosz_agresszor_Putyin_szendvicsembere",
+        "h1": "Így lett Szijjártó Péter az orosz agresszor, Putyin szendvicsembere",
+        "txtlength": 17291
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/fn/gazdasag/2022/10/13/munkaerohiany-vendegmunkasok-mongolok-filippinok-munakero-kolcsonzok/",
+        "h1": "A munkaerő-kölcsönzők szerint vendégmunkások nélkül nagy bajban lenne a magyar gazdaság",
+        "txtlength": 16784
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/interju/2022/10/12/benedek-agota-interju-allva-maszturbalok-abortusz",
+        "h1": "Benedek Ágota: Dúró Dóra semmit nem ért",
+        "txtlength": 16469
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kulfold/2022/10/12/kercsi-hid-robbantas-raketa-teherauto-hajo-teoria-elmelet",
+        "h1": "Csőbe húzott kamionos? Titkos ukrán rakéta? – még mindig sorjáznak az elméletek a kercsi híd felrobbantásáról",
+        "txtlength": 16328
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/vilag/20221013_orosz_ukran_haboru_volodimir_zelenszkij_vlagyimir_putyin",
+        "h1": "Kamikaze drónokkal támadták a Kijevi területet, Magyarország is megszavazta az Oroszországot elítélő ENSZ-határozatot – a háború hírei",
+        "txtlength": 15010
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/fn/uzleti-tippek/2022/10/12/vkf-bertargyalas-minimalber-emeles-inflacio-kormany-munkaltatok-munkavallalok/",
+        "h1": "Inflációkövető lehet a jövő évi minimálbér-emelés",
+        "txtlength": 14544
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/gazdasag/20221013_Brusszel_unios_forras_pedagogus_beremeles",
+        "h1": "Tényleg Brüsszelen múlik, mikor és mennyi béremelést kaphatnak a tanárok? Elmagyarázzuk",
+        "txtlength": 13657
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/10/13/penzbirsagra-es-bortonbuntetesre-iteltek-egy-onlyfans-modellt-szingapurban",
+        "h1": "Pénzbírságra és börtönbüntetésre ítéltek egy OnlyFans-modellt Szingapúrban",
+        "txtlength": 10305
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/10/12/mol-ujra-kiderult-hogy-nem-tortent-korrupcio",
+        "h1": "MOL: újra kiderült, hogy nem történt korrupció",
+        "txtlength": 10118
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/krimi/emberoles-apa-gyilkossag-eroszak-ittassag-jogos-vedelem-abda/67hw35j",
+        "h1": "Évtizedek óta terrorizálta a fia Árpi bácsit, aki végül leszúrta a gyermekét: „Bár hagytam volna, hogy üssön inkább mindennap”",
+        "txtlength": 9649
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/sztarvilag/filmklikk/igy-jartam-anyatokkal-nemzetkozi-oltozz-ki-nap-erdekessegek-barney/fdqxc6x",
+        "h1": "Ma van az Így jártam anyátokkal, Barney-ja által ihletett Nemzetközi Öltözz Ki Nap - íme pár érdekesség a sorozatról a legnagyobb rajongóknak",
+        "txtlength": 8309
+    },
+    {
+        "hostname": "kiszamolo.hu",
         "pagelink": "https://kiszamolo.hu/ideje-kiszallni-az-ingatlanpiacrol/",
         "h1": "Ideje kiszállni az ingatlanpiacról?",
         "txtlength": 37454
