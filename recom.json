@@ -1,5 +1,191 @@
 [
     {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/sutotokkremleves-glutenmentesen.recept",
+        "h1": "SÜTŐTÖKKRÉMLEVES GLUTÉNMENTESEN",
+        "txtlength": 11257
+    },
+    {
+        "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/leveles-teszta-gyorsan-hazilag",
+        "h1": "Leveles tészta gyorsan házilag",
+        "txtlength": 10194
+    },
+    {
+        "hostname": "hataratkelo.blog.hu",
+        "pagelink": "https://hataratkelo.blog.hu/2022/09/27/ne_menjen_a_gyerek_iskolaba_mert_nincs_tanar#c41609444",
+        "h1": "Ne menjen a gyerek iskolába, mert nincs tanár",
+        "txtlength": 44366
+    },
+    {
+        "hostname": "kulturpart.hu",
+        "pagelink": "https://kulturpart.hu/2022/10/13/kincsre_bukkantak_a_varban",
+        "h1": "KINCSRE BUKKANTAK A VÁRBAN",
+        "txtlength": 6141
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20221012_halacsy_peter_oktatas_interju",
+        "h1": "A Nemzeti Alaptanterv minden egyes mondata zseniális, de így egyben nem fog menni – Halácsy Péter a Mandinernek",
+        "txtlength": 36404
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20221015_fricz_tamas_huxit_baloldal_ellenzek_marki_zay_peter_action_for_democracy_eu_brusszel",
+        "h1": "Ha Brüsszel átlép egy határt, nem feltétlenül kell tovább erőltetnünk ezt a kapcsolatot – Fricz Tamás a Mandinernek",
+        "txtlength": 25537
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/otthon/20221014/mi-a-szigetuzemu-napelemes-rendszer-hogyan-csatlakoztathato-napelem-rendszerhez-akkumulator-1129933",
+        "h1": "Mi a szigetüzemű napelemes rendszer, hogyan csatlakoztatható napelem rendszerhez akkumulátor?",
+        "txtlength": 25335
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/uzlet/20221014/csunyan-beutottek-az-amerikai-tozsdeket-572839",
+        "h1": "Csúnyán beütötték az amerikai tőzsdéket ",
+        "txtlength": 21641
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20221012_az_atomfelho_arnyekaban",
+        "h1": "Az atomfelhő árnyékában – tényleg kitör a nukleáris háború?",
+        "txtlength": 20198
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/egeszseg/20221014/kezdodhet-a-jarvanyszezon-sulyos-tunetekkel-terhet-vissza-az-influenza-koronavirus-2022-ben-1129932",
+        "h1": "Kezdődhet a járványszezon: súlyos tünetekkel térhet vissza az influenza, koronavírus 2022-ben",
+        "txtlength": 19755
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/uzlet/20221015/oriasi-kihivas-elott-az-emberiseg-mit-kezdunk-a-robotokkal-akik-az-eletunkrol-dontenek-571901",
+        "h1": "Óriási kihívás előtt az emberiség: mit kezdünk a robotokkal, akik az életünkről döntenek?",
+        "txtlength": 18325
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/penz/20221014/nem-a-forint-arfolyama-az-igazi-horror-a-magyar-penzpiacon/",
+        "h1": "Nem a forint árfolyama az igazi horror a magyar pénzpiacon",
+        "txtlength": 17340
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/kozelet/20221015/husz-szazalekos-hitelek-parkourozo-kornyezetvedok-es-inspiralo-nok/",
+        "h1": "Húsz százalékos hitelek, parkourozó környezetvédők és inspiráló nők",
+        "txtlength": 16705
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/global/20221015/repedezik-a-kinai-nepkoztarsasag-propagandabirodalma-nagyon-furcsa-irast-tett-kozze-a-teljhatalmu-elnok-572981",
+        "h1": "Repedezik a Kínai Népköztársaság propagandabirodalma? - Nagyon furcsa írást tett közzé a teljhatalmú elnök",
+        "txtlength": 16171
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/otthon/kamra-feltoltese/",
+        "h1": "Így töltheted fel okosan a kamrát - A dietetikus tanácsai a hatékony bevásárlásról",
+        "txtlength": 14168
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2022/10/14/ennel-lesujtobb-mar-nem-is-lehetne-a-magyarok-velemenye-az-egeszsegugyrol",
+        "h1": "ENNÉL LESÚJTÓBB MÁR NEM IS LEHETNE A MAGYAROK VÉLEMÉNYE AZ EGÉSZSÉGÜGYRŐL",
+        "txtlength": 12200
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/testem/egeszseges-deli-gyumolcs/",
+        "h1": "Egészséges déli gyümölcs",
+        "txtlength": 10209
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/szuloseg/jo-tanulo-gyerek-szorong/",
+        "h1": "jó tanuló gyerek szorong",
+        "txtlength": 9409
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://rangado.24.hu/nemzetkozi_foci/2022/10/15/bajnokok-ligaja-club-brugge-tovabbjutas/",
+        "h1": "Mázli vagy tökéletes munka eredménye, hogy máris továbbjutott a csoportkörből a BL meglepetéscsapata?",
+        "txtlength": 19313
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/szorakozas/2022/10/14/bella-poarch-gyerekkor-bantalmazas-hadsereg-tiktok-karrier/",
+        "h1": "Mesébe illik a tiktokker története, aki 17 évesen még a hadseregbe menekült erőszakos nevelőapja elől",
+        "txtlength": 19279
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kultura/2022/10/15/maradjon-rom-vagy-epuljon-ujja-150-eves-a-magyar-muemlekvedelem/",
+        "h1": "Maradjon rom vagy épüljön újjá? 150 éves a magyar műemlékvédelem",
+        "txtlength": 18445
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kult/2022/10/14/gyuruk-ura-a-hatalom-gyurui-kritika-elso-evad",
+        "h1": "Minden idők leglátványosabb tévésorozata olyan, mint egy nyolcórás előzetes a következő évadhoz",
+        "txtlength": 18390
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/belfold/2022/10/15/fidesz-tanarok-tasz-polgari-engedetlenseg",
+        "h1": "A kormány szerint a tanárok csak pénzt akarnak, de a polgári engedetlenség ennél sokkal többről szól",
+        "txtlength": 16009
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/gazdasag/2022/10/14/okok-napenergia-stop-hattereben-halozati-problemak-es-nyomasgyakorlas-az-uniora",
+        "h1": "Nyomásgyakorlás az EU-ra és hálózati problémák lehetnek a napelemstop hátterében",
+        "txtlength": 15857
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/10/14/a-kormany-nem-sokat-iger-a-pedagogusoknak-es-meg-le-is-jaratjak-azokat-akik-elegedetlenek",
+        "h1": "A kormány nem sokat ígér a pedagógusoknak, és még le is járatják azokat, akik elégedetlenek",
+        "txtlength": 12305
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/eurologus/20221014_Alhirekrol_konzultal_a_kormany",
+        "h1": "Álhírekről, nem létező szankciókról konzultál a kormány",
+        "txtlength": 11456
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/10/15/legalabb-40-aldozata-van-mar-a-torok-banyarobbanasnak",
+        "h1": "Legalább 40 áldozata van már a török bányarobbanásnak",
+        "txtlength": 11000
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/szovjet-hadsereg-orosz-katona-szokes-kaviar-betores-tanyavilag-statarium-ak47/0s259r8",
+        "h1": "Orosz rulett: szökött szovjet katonákra kente a tanyafeltöréseket a kecskeméti rendőr – A szökevényeket pedig szitává lőtték a saját bajtársaik",
+        "txtlength": 10801
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/krimi/olaszliszkai-lincseles-emberoles-nyomozas-itelet-karterites-evfordulo/blbkzp8?sl_ps=d_11",
+        "h1": "A legsötétebb nap: tizenhat éve ölték meg Szögi Lajost – az olaszliszkai embertelen lincselés, amelynek sokkoló történetét soha nem lehet elfelejteni",
+        "txtlength": 10728
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20221015_papa_pressmann_legibazis",
+        "h1": "A pápai Nehéz Légiszállító Ezrednél jártunk – képgaléria",
+        "txtlength": 10253
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/elet/20221015_Nyilt_levelet_irt_Deak_Daniel_kormanyzati_propagandistanak_volt_osztalyfonoke",
+        "h1": "Nyílt levelet írt Deák Dániel kormányzati propagandistának volt osztályfőnöke",
+        "txtlength": 8755
+    },
+    {
         "hostname": "hataratkelo.blog.hu",
         "pagelink": "https://hataratkelo.blog.hu/2022/09/27/ne_menjen_a_gyerek_iskolaba_mert_nincs_tanar#c41608732",
         "h1": "Ne menjen a gyerek iskolába, mert nincs tanár",
