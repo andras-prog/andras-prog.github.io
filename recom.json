@@ -1,5 +1,155 @@
 [
     {
+        "hostname": "kiszamolo.hu",
+        "pagelink": "https://kiszamolo.hu/tegyuk-jobba-a-kozigazgatast-otletekkel/",
+        "h1": "Tegyük jobbá a közigazgatást ötletekkel. :)",
+        "txtlength": 42783
+    },
+    {
+        "hostname": "kulturpart.hu",
+        "pagelink": "https://kulturpart.blog.hu/2022/10/13/kincsre_bukkantak_a_varban",
+        "h1": "KINCSRE BUKKANTAK A VÁRBAN",
+        "txtlength": 6121
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20221012_schiffer_andras_interju",
+        "h1": "Az USA biztosan nyer, az EU veszít a háborún – Schiffer András a Mandinernek",
+        "txtlength": 36070
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2022/10/16/hogyan-kritizalhatjuk-sajat-kozossegunket",
+        "h1": "HOGYAN KRITIZÁLHATJUK SAJÁT KÖZÖSSÉGÜNKET?",
+        "txtlength": 34015
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20221012_baloldal_ellenzek_arnyekkormany_belfold_kozelet",
+        "h1": "Útkeresés és versengés – ez történt a baloldalon a választás óta",
+        "txtlength": 28370
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/penz/20221016/hogyan-lehet-olcsobba-tenni-a-gazt-ugy-hogy-kozben-legyen-is/",
+        "h1": "Hogyan lehet olcsóbbá tenni a gázt úgy, hogy közben legyen is?",
+        "txtlength": 22494
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/uzlet/20221016/ezt-igy-is-lehet-csinalni-ime-az-orszag-ami-hulladeklerakas-helyett-egy-jobb-megoldast-talalt-572705",
+        "h1": "Ezt így is lehet csinálni? – Íme az ország, ami hulladéklerakás helyett egy jobb megoldást talált",
+        "txtlength": 21880
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/krtk/20221016/mi-lesz-veled-kali-medence-videki-turizmus-dzsentrifikacio-es-meghasadt-valosagok-a-balaton-felvideken-573043",
+        "h1": "Mi lesz veled Káli-medence? - Vidéki turizmus, dzsentrifikáció és meghasadt valóságok a Balaton-felvidéken",
+        "txtlength": 21510
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20221015_honvedmenhaz_kiallitas_tortenelem",
+        "h1": "Legendás harcok után – így gondozták 1848-49 megöregedett hőseit",
+        "txtlength": 21062
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/global/20221015/lassan-mar-roncstelepre-valo-tankokkal-harcolnak-az-oroszok-egyetlen-hatalmas-problema-allhat-a-hatterben-572995",
+        "h1": "Lassan már roncstelepre való tankokkal harcolnak az oroszok - Egyetlen hatalmas probléma állhat a háttérben",
+        "txtlength": 20992
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/egeszseg/20221014/kiderult-a-c-vitamin-titok-ezt-jobb-ha-tudod-a-filleres-bolti-pirulakrol-tablettakrol-1129856",
+        "h1": "Kiderült a C-vitamin titok: ezt jobb, ha tudod a filléres, bolti pirulákról, tablettákról",
+        "txtlength": 20643
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/penz/20221016/rezsiszamlak-egetesevel-tuntetnek-tobb-europai-orszagban-az-elszallo-energiaarak-miatt/",
+        "h1": "Rezsiszámlák égetésével tüntetnek több európai országban az elszálló energiaárak miatt",
+        "txtlength": 19272
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/vallalkozas/20221014/ezert-dragul-olyan-eszeveszetten-a-pizzarendeles-magyarorszagon-ujabb-aremelesek-johetnek-1129923",
+        "h1": "Ezért drágul olyan eszeveszetten a pizzarendelés Magyarországon: újabb áremelések jöhetnek",
+        "txtlength": 18076
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/kapcsolat/sztalin-fia-jakov-joszifovics-dzsugasvili/",
+        "h1": "Ő volt Sztálin elsőszülött fia - Jakov Dzsugasvilivel mindig kegyetlen volt a diktátor",
+        "txtlength": 10794
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/lajfhekk/alternativ-feherje/",
+        "h1": "alternatív fehérje",
+        "txtlength": 9707
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kultura/2022/10/16/krudy-gyula-rozsaja-kurtizan-kamelias-holgy-levai-katalin-matine/",
+        "h1": "„Nagybotú” – így szólították barátai a szerelmi kalandjairól is híres magyar írót",
+        "txtlength": 25114
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/velemeny/2022/10/16/usa-kina-oroszorszag-ukrajna-beke-vilagrend-egypolusu-tobbpolusu-buda-peter",
+        "h1": "Amikor nincsen béke – a többpólusú világrend illúziója",
+        "txtlength": 23858
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kozelet/2022/10/16/sakk-szaraz-sandor-kilakoltatas-portre-riport/",
+        "h1": "216 714 forint távhőtartozás miatt bukta a lakását és került utcára a Budapesti Sakkszövetség egykori főtitkára",
+        "txtlength": 21112
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/belfold/2022/10/16/zuglo-epitkezes-csomori-ut-bayer-contsruct-tuntetes-horvath-csaba",
+        "h1": "Diktátor sikátor nem lesz, de a neres gigaépítkezés megállíthatatlanul zakatol",
+        "txtlength": 19005
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kultura/2022/10/15/dave-gahan-interju-depeche-mode-koncert-budapest-2023-memento-mori-martin-gore-andrew-fletcher/",
+        "h1": "Dave Gahan: Nagy örömömet lelem a melankóliában",
+        "txtlength": 16609
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/sztarvilag/filmklikk/2000-es-evek-elfeledett-filmek-szineszek-szereplok/0j9lnkq",
+        "h1": "Íme, a 2000-es évek elfeledett filmjei: ha látta őket, és akkor tetszettek, mai fejjel mit mondana rájuk?",
+        "txtlength": 15138
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/gasztro/2022/10/16/erdelyben-ettuk-itthon-megfoztuk-gyimesi-etelek-hazi-kiadasban",
+        "h1": "Házilag utánoztuk le az erdélyi konyha legmenőbb furcsaságait",
+        "txtlength": 14303
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/sztarvilag/filmklikk/nagy-walt-disney-kviz-tesztelje-tudasat/94dx0gt",
+        "h1": "Ön mennyire ismeri a régi, ikonikus rajzfilmeket? Tesztelje tudását a Blikk nagy Disney-kvízével!",
+        "txtlength": 11631
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/10/16/egy-demokraciaban-az-emberek-velemenyet-nem-lehet-figyelmen-kivul-hagyni",
+        "h1": "„Egy demokráciában az emberek véleményét nem lehet figyelmen kívül hagyni”",
+        "txtlength": 10742
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/10/15/irannak-nem-tetszik-hogy-brusszel-szankciokra-keszulhet-a-tuntetesek-verbe-fojtasa-miatt",
+        "h1": "Iránnak nem tetszik, hogy Brüsszel szankciókra készülhet a tüntetések vérbe fojtása miatt",
+        "txtlength": 9974
+    },
+    {
         "hostname": "mindmegette.hu",
         "pagelink": "https://www.mindmegette.hu/sutotokkremleves-glutenmentesen.recept",
         "h1": "SÜTŐTÖKKRÉMLEVES GLUTÉNMENTESEN",
