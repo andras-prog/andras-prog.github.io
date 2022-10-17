@@ -1,5 +1,179 @@
 [
     {
+        "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/sutotokos-muffin",
+        "h1": "Sütőtökös muffin",
+        "txtlength": 10923
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/citromos-makos-amerikai-palacsinta.recept",
+        "h1": "CITROMOS-MÁKOS AMERIKAI PALACSINTA",
+        "txtlength": 9887
+    },
+    {
+        "hostname": "kulturpart.hu",
+        "pagelink": "https://kulturpart.blog.hu/2022/10/16/a_gyasztol_a_szeteses_kaoszaig",
+        "h1": "A GYÁSZTÓL A SZÉTESÉS KÁOSZÁIG",
+        "txtlength": 7317
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20221017_baratok_kozt_kozelet_kiskutas_halasz_gabor_polgarmester_interju",
+        "h1": "„Aki a baloldali mainstreammel együtt sodródott, az volt a rendben lévő” – Halász Gábor a Mandinernek",
+        "txtlength": 28554
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/bank/20221017/betort-magyarorszagra-is-a-bnpl-orulet-harom-magyar-ceg-amely-forradalmasithatja-a-vasarlast-573313",
+        "h1": "Betört Magyarországra is a BNPL-őrület: három magyar cég, amely forradalmasíthatja a vásárlást",
+        "txtlength": 20569
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/oktatas/20221013/fontos-dolog-hianyzik-a-tananyagbol-ebben-bizony-csunyan-lemaradtak-a-magyar-gyerekek-1129859",
+        "h1": "Fontos dolog hiányzik a tananyagból: ebben bizony csúnyán lemaradtak a magyar gyerekek",
+        "txtlength": 20543
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/otthon/20221015/barkinel-bevalik-az-osregi-rezsitrukk-szinte-azonnal-negyedevel-zuzza-le-a-futesszamlat-1129950",
+        "h1": "Bárkinél beválik az ősrégi rezsitrükk: szinte azonnal negyedével zúzza le a fűtésszámlát",
+        "txtlength": 19547
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/penz/20221017/minden-nyolcadik-forintot-kiszippant-a-magyar-gazdasagbol-az-energiaszamla/",
+        "h1": "Minden nyolcadik forintot kiszippant a magyar gazdaságból az energiaszámla",
+        "txtlength": 19448
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/elet/20221016/az-olcso-kalyhakkal-az-utcat-futjuk-az-energiavalsag-kozepen/",
+        "h1": "Az olcsó kályhákkal az utcát fűtjük az energiaválság közepén",
+        "txtlength": 19245
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20221017_energia_szankcio_nemetorszag_magyarorszag_fritz_sollner",
+        "h1": "Német közgazdász: Egyedül Magyarország tartja szem előtt a nemzeti érdeket",
+        "txtlength": 18333
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20221017_constantinovits_milan_oktatasugy",
+        "h1": "Oktatásügy – a lecke fel van adva",
+        "txtlength": 17447
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20221017/szazmilliokat-kolt-a-nestle-magyarorszagon-a-mezogazdasag-fejlesztesere-572679",
+        "h1": "Százmilliókat költ a Nestlé Magyarországon a mezőgazdaság fejlesztésére",
+        "txtlength": 15951
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/bank/20221017/maris-itt-az-ujabb-nagy-valtozas-a-kamatstopnal-mi-lesz-a-lakashitelesekkel-573293",
+        "h1": "Máris itt az újabb nagy változás a kamatstopnál: mi lesz a lakáshitelesekkel?",
+        "txtlength": 15774
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2022/10/17/amerika-minden-eszkozt-bevet-hogy-megallitsa-kina-technologiai-fejlodeset",
+        "h1": "AMERIKA MINDEN ESZKÖZT BEVET, HOGY MEGÁLLÍTSA KÍNA TECHNOLÓGIAI FEJLŐDÉSÉT",
+        "txtlength": 12653
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/otthon/purina-one-teszteles/",
+        "h1": "Ezek a jelek utalnak arra, hogy megfelelően eteted kutyádat: négylábú kritikusunk, Lola tesztelt",
+        "txtlength": 10704
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/szuloseg/ii-erzsebet-szules/",
+        "h1": "ii erzsébet szülés",
+        "txtlength": 9719
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kulfold/2022/10/17/orosz-ukran-haboru-atomtamadas-taktikai-strategiai-fegyver-nuklearis-toltet-hordozoeszkoz-szakerto/",
+        "h1": "Blöfföl vagy tényleg bevetné az atomot Putyin?",
+        "txtlength": 22866
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/fn/gazdasag/2022/10/17/devizatartalek-mnb-forint-euro-arfolyam-magyarorszag-csehorszag-mvm/",
+        "h1": "Megvédhette volna a pénzünket az MNB magasabb devizatartalékkal?",
+        "txtlength": 19872
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kulfold/2022/10/17/ismet-kijevet-lovik-az-oroszok/",
+        "h1": "Kamikaze drónokkal támadtak Kijevre, legalább három ember meghalt",
+        "txtlength": 17043
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/eletmod/2022/10/16/hiaba-sporolunk-nincs-olyan-hogy-tudatos-vasarlas",
+        "h1": "Hiába spórolunk, nincs olyan, hogy tudatos vásárlás",
+        "txtlength": 15492
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kulfold/2022/10/17/orosz-ukran-haboru-237-nap-hirfolyam",
+        "h1": "Halottja is van a Kijev központját ért dróntámadásnak, Moszkvában véget ért a mozgósítás",
+        "txtlength": 13617
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/foto/2022/10/16/lugo-graffiti",
+        "h1": "Olvasd a jeleket, még ha nem is érted őket",
+        "txtlength": 11982
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/10/17/kislany-pisztollyal-jimi-hendrix-mandolinnal",
+        "h1": "Kislány pisztollyal, Jimi Hendrix mandolinnal",
+        "txtlength": 10030
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/vilag/20221017_haboru_pp_Kijev_Zelenszkij",
+        "h1": "Kijevet támadják az oroszok, kárpátaljai alakulatot dicsért Zelenszkij – háborús híreink",
+        "txtlength": 9894
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/10/17/a-biontech-alapitoi-szerint-2030-ig-meglehet-a-rak-kezelesere-kifejlesztett-vakcina",
+        "h1": "A BioNTech alapítói szerint 2030-ig meglehet a rák kezelésére kifejlesztett vakcina",
+        "txtlength": 9763
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/gazdasag/20221017_sporolas_inflacio_felmeres_vasarlas_webaruhaz_olcso_termekek",
+        "h1": "Megnézték, min spórol a magyar, hogy havonta kijöjjön a pénzéből",
+        "txtlength": 9422
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/alberlo-alberlo-nem-tudja-kitenni-lakok-atvert-tulaj/b9qv9te?sl_ps=d_4",
+        "h1": "Albérletháború! Három éve nem tudja kitenni a lakóit az átvert tulaj",
+        "txtlength": 9413
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/tudomany/20221017_BioNTech_vakcina_rak",
+        "h1": "BioNTech-alapító: 2030-ra elérhetővé válhat a rák elleni vakcina",
+        "txtlength": 9273
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/sztarvilag/kultura/oleles-vilagnapja-eredete-tortenete-erdekessegek-testi-kontaktus/snk0zq8",
+        "h1": "Tudta? Ennyi ölelésre van szükségünk naponta a túléléshez – Ön mennyit szokott adni és kapni? Szavazzon!",
+        "txtlength": 8828
+    },
+    {
         "hostname": "kiszamolo.hu",
         "pagelink": "https://kiszamolo.hu/tegyuk-jobba-a-kozigazgatast-otletekkel/",
         "h1": "Tegyük jobbá a közigazgatást ötletekkel. :)",
