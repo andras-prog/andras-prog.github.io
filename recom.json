@@ -1,5 +1,179 @@
 [
     {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/suru-gulyasleves-serteshussal.recept",
+        "h1": "SŰRŰ GULYÁSLEVES SERTÉSHÚSSAL",
+        "txtlength": 10110
+    },
+    {
+        "hostname": "kiszamolo.hu",
+        "pagelink": "https://kiszamolo.hu/lakashitel-akar-639-os-kamattal/",
+        "h1": "Lakáshitel akár 6,39%-os kamattal",
+        "txtlength": 33253
+    },
+    {
+        "hostname": "kulturpart.hu",
+        "pagelink": "https://kulturpart.hu/2022/10/16/a_gyasztol_a_szeteses_kaoszaig",
+        "h1": "A GYÁSZTÓL A SZÉTESÉS KÁOSZÁIG",
+        "txtlength": 8145
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20221017_seitz_erik_interju",
+        "h1": "Amerikában kutatja a rákos áttétek megelőzését a magyar tinédzser",
+        "txtlength": 23224
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20221017_john_bolton_kulfold_usa",
+        "h1": "Amerika rossz zsaruja – John Bolton visszatért és Magyarországra figyel",
+        "txtlength": 21690
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vilag/20221018/egyre-gyakoribbak-de-egyre-kevesbe-hatasosak-a-tuntetesek-az-autokraciakban/",
+        "h1": "Egyre gyakoribbak, de egyre kevésbé hatásosak a tüntetések az autokráciákban",
+        "txtlength": 20350
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20221018_szlovak_hadsereg",
+        "h1": "Tót atyafiak fegyverben – milyen erős a szlovák hadsereg?",
+        "txtlength": 19669
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2022/10/18/az-egyetemi-rangsorok-ezer-sebbol-vereznek-megis-hatalmas-siker-a-semmelweis-idei-201-250-helyezese",
+        "h1": "AZ EGYETEMI RANGSOROK EZER SEBBŐL VÉREZNEK, MÉGIS HATALMAS SIKER A SEMMELWEIS IDEI 201-250. HELYEZÉSE",
+        "txtlength": 19624
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/otthon/20221013/csak-kivaltsagosoknak-jar-a-legtutibb-lakashitel-komoly-dontes-elott-all-tobb-ezer-magyar-1129764",
+        "h1": "Csak kiváltságosoknak jár a legtutibb lakáshitel: komoly döntés előtt áll több ezer magyar",
+        "txtlength": 19488
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/krtk/20221018/abrakon-mutatjuk-mennyire-kell-felni-a-magyar-videket-sujto-nepesedesi-katasztrofatol-573367",
+        "h1": "Ábrákon mutatjuk, mennyire kell félni a magyar vidéket sújtó népesedési katasztrófától",
+        "txtlength": 17964
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/uzlet/20221018/a-magyar-vallalatok-egyik-legnagyobb-informatikai-kihivasa-a-szent-tehen-dilemma-573277",
+        "h1": "A magyar vállalatok egyik legnagyobb informatikai kihívása: a szent tehén dilemma",
+        "txtlength": 17857
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/kozelet/20221018/a-leggazdagabb-kelet-europaiak-tortenelmi-falmaszas-es-egy-nehez-sorsu-kubikos/",
+        "h1": "A leggazdagabb kelet-európaiak, történelmi falmászás és egy nehéz sorsú kubikos",
+        "txtlength": 17183
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/vallalkozas/20221018/uj-szabaly-hozhat-komoly-aremelest-rengeteg-uzlet-huzhatja-le-a-rolot-emiatt-jovore-1130029",
+        "h1": "Új szabály hozhat komoly áremelést: rengeteg üzlet húzhatja le a rolót emiatt jövőre",
+        "txtlength": 16731
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/global/20221017/a-vilag-egyik-legjobb-pancelosat-kapta-meg-magyarorszag-itt-van-5-erdekes-teny-az-uj-magyar-fegyverrol-573395",
+        "h1": "A világ egyik legjobb páncélosát kapta meg Magyarország – Itt van 5 érdekes tény az új magyar fegyverről",
+        "txtlength": 16670
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/otthon/szobanoveny-felelesztese/",
+        "h1": "4 mód, ahogy feléleszthetsz egy szobanövényt: ezzel próbálkozz, ha a végét járja",
+        "txtlength": 9220
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/lajfhekk/kenyer-tarolas/",
+        "h1": "Kenyér tárolás",
+        "txtlength": 8500
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kultura/2022/10/18/marsai-viktor-interju-afrika-ehinseg-migracio-orosz-ukran-haboru-humanitarius-katasztrofa-putyin-ehezes/",
+        "h1": "Marsai Viktor: Nem az éhezők jönnek el Afrikából, de a szemünk előtt történt meg újra a katasztrófa",
+        "txtlength": 38229
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/belfold/2022/10/18/valas-birosag-eljaras-level-gyerek-tajekoztatas-ugyved-pszichologus",
+        "h1": "Kedves Pistike! Én vagyok a bíró bácsi, és az a feladatom, hogy döntsek a szüleid válásáról",
+        "txtlength": 18556
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/zhvg/20221018_szelenergia_megujulok_orbankormany_energiavalsag",
+        "h1": "A kormány megpróbálta kinyírni a szélenergiát, de most változhat a szélirány",
+        "txtlength": 16916
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kultura/2022/10/17/blokad-film-kritika-antall-jozsef-goncz-arpad-taxisblokad/",
+        "h1": "Blokád: Antall Józsefnek szobrot állít, Göncz Árpádból hülyét csinál az új kurzusfilm",
+        "txtlength": 16794
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/gazdasag/2022/10/18/oroszorszag-elbukta-a-gazhaborut-de-sajnos-ez-nekunk-magyaroknak-is-egy-ket-evig-meg-nagyon-fajhat",
+        "h1": "Oroszország elbukja a gázháborút, de ez pár évig még nekünk, magyaroknak is nagyon fájhat",
+        "txtlength": 16667
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/fn/gazdasag/2022/10/18/epitoipar-lakasepites-lakasfelujitas-allami-beruhazas-lazar-janos-ingatlan-ingatlanar-epitoanyag-evosz-megrendeles/",
+        "h1": "Beütött a fordulat: már láthatók leépítések, bezuhanhat a lakáspiac",
+        "txtlength": 16457
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20221018_Beszantotta_a_maganklinikakat_az_allamiban_viszont_engedelyezi_a_fizetos_lombikot_a_kormany",
+        "h1": "Beszántotta a meddőségi magánklinikákat a kormány, de az államiban is milliót fizethetünk egy kezelésért",
+        "txtlength": 14223
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kulfold/2022/10/17/sorozatgyilkos-stockton-amerika-elfogtak-hajlektalanokat-olt",
+        "h1": "Ezt a sorozatgyilkost keresik? Segíthetek, ő akart engem is megölni",
+        "txtlength": 13736
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20221018_uj_peter_gulyas_marton_partizan",
+        "h1": "Uj Péter: Orbán Viktor miatt picsázódtam ki az Indexből",
+        "txtlength": 11502
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/10/18/napok-ota-nem-tudni-semmit-az-irani-sportolorol-aki-hidzsab-nelkul-vett-reszt-egy-del-koreai-versenen",
+        "h1": "Napok óta nem tudni semmit az iráni sportolóról, aki hidzsáb nélkül vett részt egy dél-koreai versenyen",
+        "txtlength": 10301
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/10/17/jovo-tavaszig-meg-nem-allitjak-le-az-utolso-harom-nemetorszagi-atomeromuvet",
+        "h1": "Jövő tavaszig még nem állítják le az utolsó három németországi atomerőművet",
+        "txtlength": 10222
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/alberlo-alberlo-nem-tudja-kitenni-lakok-atvert-tulaj/b9qv9te",
+        "h1": "Albérletháború! Három éve nem tudja kitenni a lakóit az átvert tulaj",
+        "txtlength": 9340
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/blikk-retro-3-evtized-legnagyobb-cimlap-tortenetei-felelevenitve/znktywp",
+        "h1": "Blikk Retro – Hírek, újratöltve: kezdje a reggeleket az elmúlt 3 évtized legnagyobb sztorijaival!",
+        "txtlength": 8969
+    },
+    {
         "hostname": "nosalty.hu",
         "pagelink": "https://www.nosalty.hu/recept/sutotokos-muffin",
         "h1": "Sütőtökös muffin",
