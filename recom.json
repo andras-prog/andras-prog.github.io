@@ -1,5 +1,167 @@
 [
     {
+        "hostname": "kulturpart.hu",
+        "pagelink": "https://kulturpart.blog.hu/2022/10/19/nem_varazslat_facilitacio",
+        "h1": "NEM VARÁZSLAT, FACILITÁCIÓ!",
+        "txtlength": 5920
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20221018_svedorszag_jobboldal_kormany",
+        "h1": "Itt a jobboldali svéd kormány – de mihez kezd Svédország problémáival?",
+        "txtlength": 21603
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20221019_iran_tuntetes_nok",
+        "h1": "Jöhet iráni rendszerváltás a nők mozgalma nyomán?",
+        "txtlength": 21433
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20221019/zuhano-forint-gazvalsag-elveszo-eu-s-forrasok-rabszolgaber-mi-lesz-magyarorszag-sorsa-573637",
+        "h1": "Zuhanó forint, gázválság, elvesző EU-s források, rabszolgabér - mi lesz Magyarország sorsa? ",
+        "txtlength": 20999
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20221019_medgyessy_peter_80_szuletesnap_portre_baloldal",
+        "h1": "Pártállami ügynökből kormányfő, majd Gyurcsány „áldozata”: nyolcvanéves Medgyessy Péter",
+        "txtlength": 20895
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/bank/20221018/feltarult-a-penzugyek-jovoje-megvan-az-ev-legjobb-penzugyi-vezetoje-573529",
+        "h1": "Feltárult a pénzügyek jövője, megvan az év legjobb pénzügyi vezetője! ",
+        "txtlength": 17963
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/uzlet/20221019/megtorpant-az-emelkedes-a-magyar-tozsdet-is-megutottek-573725",
+        "h1": "Megtorpant az emelkedés, a magyar tőzsdét is megütötték ",
+        "txtlength": 16426
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2022/10/18/a-generacios-szakertok-mindent-tudnak-kar-hogy-fontos-dolgokat-rosszul-tudnak",
+        "h1": "A „GENERÁCIÓS SZAKÉRTŐK” MINDENT TUDNAK – KÁR, HOGY FONTOS DOLGOKAT ROSSZUL TUDNAK",
+        "txtlength": 16425
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/penz/20221017/semmit-nem-kapnak-a-lengyelek-a-kohezios-tamogatasokat-is-felfuggesztettek-brusszelben/",
+        "h1": "Semmit nem kapnak a lengyelek, a kohéziós támogatásokat is felfüggesztették Brüsszelben",
+        "txtlength": 15679
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/vasarlas/20221019/erik-a-chips-es-mirelitkrumpli-hiany-a-magyar-boltokban-nagy-a-baj-erre-kell-felkeszulni-1130081",
+        "h1": "Érik a chips- és mirelitkrumpli hiány a magyar boltokban: nagy a baj, erre kell felkészülni",
+        "txtlength": 15503
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/gazdasag/20221019/zsiday-viktor-a-forintot-megtartani-igy-nincs-sok-ertelme-igy-latjak-a-magyar-gazdasagot-az-elemzok-1130083",
+        "h1": "Zsiday Viktor: nagy a baj a magyar gazdaságban, így a forintot sincs értelme megtartani",
+        "txtlength": 15269
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vilag/20221018/szinte-egyszerre-tart-nukleraris-hadgyakorlatot-a-nato-es-az-orosz-hadsereg/",
+        "h1": "Szinte egyszerre tart nukleáris hadgyakorlatot a NATO és az orosz hadsereg",
+        "txtlength": 15057
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/egeszseg/kardiologiai-rehabilitacio/",
+        "h1": "Így előzhető meg egy második szívinfarktus: 5 dolog, ami nélkülözhetetlen a kardiológiai rehabilitációban",
+        "txtlength": 11209
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/szuloseg/erzelmi-intelligencia-gyerek/",
+        "h1": "érzelmi intelligencia gyerek",
+        "txtlength": 9673
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/10/19/egyelore-lekerulhetett-a-napirendrol-a-bme-modellvaltasa",
+        "h1": "Egyelőre lekerülhetett a napirendről a BME modellváltása",
+        "txtlength": 26974
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/10/19/ungvary-krisztian-egy-magyar-szempontbol-szegyenletes-tortenelmi-parhuzamrol",
+        "h1": "Ungváry Krisztián: Egy magyar szempontból szégyenletes történelmi párhuzamról",
+        "txtlength": 16504
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/sport/2022/10/19/vari-attila-lemondas-schmidt-adam-kuratorium-tao",
+        "h1": "Kétes ügyek sorozata vezethetett Vári Attila olimpiai bajnok vízilabdázó lemondásához",
+        "txtlength": 16366
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/belfold/2022/10/19/pedagogusok-tiltakozas-arcai-diakok-szulo-szakszervezet-tuntetesek-elolanc-flashmob",
+        "h1": "17 éves vagyok, dolgozatokat kellene írnom, nem tüntetéseket szervezni",
+        "txtlength": 16332
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/gazdasag/20221019_napelemes_palyazat_lefujva_megujulo_energia_kormany",
+        "h1": "Teljesen felborult a napelemes piac: hiába az állami támogatás, azok jártak jól, akik inkább saját pénzből fejlesztettek",
+        "txtlength": 16092
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kulfold/2022/10/19/orosz-ukran-haboru-239-nap-hirfolyam",
+        "h1": "60 ezer embert telepítenek ki az oroszok Herszon környékéről, nagy ukrán offenzívára számítanak",
+        "txtlength": 15659
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/tudomany/20221018_legvedelmi_rendszerek_ukrajna_raketatamadasok",
+        "h1": "Ukrajna most is megkapja a megfelelő fegyvereket, hogy szembeszálljon az orosz drónseregekkel",
+        "txtlength": 15401
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/gazdasag/20221019_Elszalltak_a_lakasarak_harom_ev_alatt_ketharmadaval_nott_az_atlagos_lakashitel",
+        "h1": "Három év alatt kétharmadával nőtt az átlagos lakáshitel",
+        "txtlength": 15089
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2022/10/19/tankerulet-jutalom-kolcsey-ferenc-gimnazium-tanarok/",
+        "h1": "Számos tankerületi vezető több jutalmat kapott, mint az alájuk tartozó tanárok összesen",
+        "txtlength": 14135
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kulfold/2022/10/19/orosz-ukran-habor-oroszorszag-ukrajna-elo-hirfolyam/",
+        "h1": "Százezrek maradtak víz és áram nélkül Ukrajnában",
+        "txtlength": 13392
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kulfold/2022/10/18/liz-truss-nagy-britannia-kwasi-kwarteng-adocsokkentes-lemondas-kaosz-konzervativ-part/",
+        "h1": "Ennél rosszabbul nehezen kezdődhetne egy miniszterelnökség",
+        "txtlength": 13386
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/energiavalsag-bezaras-magyar-ugyeszsegek/qby6e4g",
+        "h1": "Tényleg minden széthullik: az energiaválság miatt bezár egy sor magyar ügyészség is – Mutatjuk, hol!",
+        "txtlength": 9057
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/krimi/schadl-gyorgy-vegrehajto-korrupcio-arveres-rongalas-vesztegetes-pecel/yzm6q99?sl_ps=d_6",
+        "h1": "76 millióért hirdetik Beatrix félmilliárdot érő házát",
+        "txtlength": 7943
+    },
+    {
         "hostname": "mindmegette.hu",
         "pagelink": "https://www.mindmegette.hu/suru-gulyasleves-serteshussal.recept",
         "h1": "SŰRŰ GULYÁSLEVES SERTÉSHÚSSAL",
