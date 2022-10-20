@@ -1,5 +1,173 @@
 [
     {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/glutenmentes-hortobagyi-palacsinta.recept",
+        "h1": "GLUTÉNMENTES HORTOBÁGYI PALACSINTA",
+        "txtlength": 10755
+    },
+    {
+        "hostname": "kulturpart.hu",
+        "pagelink": "https://kulturpart.hu/2022/10/19/nem_varazslat_facilitacio",
+        "h1": "NEM VARÁZSLAT, FACILITÁCIÓ!",
+        "txtlength": 5672
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/global/20221020/valos-veszelye-van-annak-hogy-putyin-atomfegyvert-hasznal-ukrajnaban-mit-jelent-ez-magyarorszagra-nezve-574059",
+        "h1": "Valós veszélye van annak, hogy Putyin atomfegyvert használ Ukrajnában – Mit jelent ez Magyarországra nézve?",
+        "txtlength": 30489
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/otthon/20221017/csattan-az-ujabb-rezsipofon-sulyos-aramkimaradasok-lehetnek-iden-telen-ez-fajni-fog-1129908",
+        "h1": "Csattan az újabb rezsipofon: súlyos áramkimaradások lehetnek idén télen, ez fájni fog!",
+        "txtlength": 28514
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20221019_gallo_bela_eu_europai_bizottsag_usa_oroszorszag_szankciok_fidesz_ursula_von_der_leyen_vlagyimir_putyin",
+        "h1": "Washington diktál, Von der Leyenék szóvirágokkal lepleznek, Európa meg didereghet egész télen – Galló Béla a Mandinernek",
+        "txtlength": 26686
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vallalat/20221020/politikai-erdekei-miatt-csinalta-ki-a-kormany-a-lakossagi-napelempiacot/",
+        "h1": "Politikai érdekei miatt csinálta ki a kormány a lakossági napelempiacot",
+        "txtlength": 24059
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/otthon/20221020/20-ezer-forintert-lehet-most-sajat-balatoni-nyaralod-ilyen-ingatlantombola-is-reg-volt-itthon-1130104",
+        "h1": "20 ezer forintért lehet most saját balatoni nyaralód: ilyen ingatlantombola is rég volt itthon",
+        "txtlength": 21981
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.penzcentrum.hu/otthon/20221020/20-ezer-forintert-lehet-most-sajat-balatoni-nyaralod-ilyen-ingatlantombola-is-reg-volt-itthon-1130104",
+        "h1": "20 ezer forintért lehet most saját balatoni nyaralód: ilyen ingatlantombola is rég volt itthon",
+        "txtlength": 21954
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20221016_eder_tamas_magyar_husiparosok_szovetsege_husarak_sertes_baromfi_szarvasmarha_hal_agrarium_belfold_inflacio",
+        "h1": "Most együnk disznóhúst, még nem drágult annyira, mint a többi élelmiszer",
+        "txtlength": 21330
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/global/20221020/kuzdelem-az-utolso-verig-korunk-leghalalosabb-polgarhaboruja-zajlik-az-osi-orszagban-megis-alig-hallunk-rola-573589",
+        "h1": "Küzdelem az utolsó vérig – Korunk leghalálosabb polgárháborúja zajlik az ősi országban, mégis alig hallunk róla",
+        "txtlength": 18846
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20221019_hadhazy_akos_ugyelni_fog_arra_hogy_ne_veszitse_el_mandatumat",
+        "h1": "Hadházy Ákos nem jár be a parlamentbe, de arra azért ügyel, hogy ne veszítse el mandátumát",
+        "txtlength": 17800
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/penz/20221019/fellenditheti-e-a-gazdasagot-a-feltetel-nelkuli-alapjovedelem/",
+        "h1": "Fellendítheti-e a gazdaságot a feltétel nélküli alapjövedelem?",
+        "txtlength": 16846
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/utazas/spanyolorszag-latnivalok-castellon-valencia-alicante/",
+        "h1": "Itt a legszebb a 30 fokos indiánnyár: Castellón, Valencia és Alicante arca a szezon után is elragadó",
+        "txtlength": 14442
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2022/10/19/a-nok-vandorlasa-kototte-ossze-a-kis-kozossegekben-elo-neandervolgyiek-csoportjait",
+        "h1": "A NŐK VÁNDORLÁSA KÖTÖTTE ÖSSZE A KIS KÖZÖSSÉGEKBEN ÉLŐ NEANDERVÖLGYIEK CSOPORTJAIT",
+        "txtlength": 13201
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/lajfhekk/modern-talalmany/",
+        "h1": "modern találmány",
+        "txtlength": 9295
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/gazdasag/2022/10/20/devizapiac-mukodese-hogyan-kereskednek-devizakkal-forex-hataridos-ugyletek-forint-gyengulese",
+        "h1": "Spekulánsok mozgatják a forint árfolyamát, de az összes többi devizáét is – és ebben nincs semmi különös",
+        "txtlength": 26607
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kultura/2022/10/19/ismeretlen-budapest-mszmp-zsido-kulturalis-kozpont-emih-koves-slomo-firgun-haz-futureplans-atepites-szinhaz-latvanyterv/",
+        "h1": "Zsidó kulturális központtá alakul az MSZMP egykori józsefvárosi székháza",
+        "txtlength": 18552
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kulfold/2022/10/20/oroszorszag-tavolodo-szovetsegesei-posztovjet-terseg-ukrajnai-haboru",
+        "h1": "Putyin a Kreml teljes szövetségi rendszerét tette kockára Ukrajnában",
+        "txtlength": 18542
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2022/10/20/pilz-oliver-tanitanek-mozgalom-herman-otto-gimnazium-oktatas/",
+        "h1": "„Bűntudatom van, mert még sosem tudtam elvinni a gyerekeimet a tengerhez” – portré Pilz Olivérről",
+        "txtlength": 18115
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/10/20/a-rogan-hadmuvelet-magyarorszag-maradek-ep-eszenek-szonyegbombazasa",
+        "h1": "A Rogán-hadművelet: Magyarország maradék ép eszének szőnyegbombázása",
+        "txtlength": 16289
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/fn/gazdasag/2022/10/19/bmw-gyar-debrecen-torok-yapi-merkezi/",
+        "h1": "Törökök építik Debrecenben a BMW-gyár karosszéria- és présüzemeit",
+        "txtlength": 14322
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kulfold/2022/10/19/parizs-gyerekgyilkossag-lola-12-eves-francia-kislany",
+        "h1": "Megrázta Franciaországot a párizsi kislány meggyilkolása, és újra felszínre hozta a bevándorlás körüli vitákat",
+        "txtlength": 13742
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20221020_600nal_is_tobb_Szeged_kornyeki_pedagogus_sztrajkolna",
+        "h1": "600-nál is több Szeged környéki pedagógus sztrájkolna, ha valamelyiküket retorzió éri",
+        "txtlength": 12546
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/cegauto/20221020_kicsi_orias_kiprobaltuk_a_teljesen_uj_bmw_x1et_kompakt_suv_benzin_dizel_hibrid_elektromos",
+        "h1": "Kicsi óriás: kipróbáltuk a teljesen új BMW X1-et",
+        "txtlength": 12501
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/vilag/20221019_putyin_hadiallapot_oroszorszag",
+        "h1": "Putyin legújabb bejelentése után nem a megszállt területek, hanem Oroszország élete változik meg gyökeresen",
+        "txtlength": 11751
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/kulfold/aramszunet-ukrajna-haboru/slfycfh?sl_ps=d_3",
+        "h1": "Kiderült: Sokkal jobban kell tartani egy hosszú, téli áramszünettől, mint azt gondoltuk",
+        "txtlength": 11713
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/10/19/hat-honapos-kortol-ajanlja-a-pfizer-es-a-moderna-vakcinait-az-europai-gyogyszerugynokseg",
+        "h1": "Hat hónapos kortól ajánlja a Pfizer és a Moderna vakcináit az Európai Gyógyszerügynökség",
+        "txtlength": 9311
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/eletmentes-mentos-testverek-segitseg-orangyal/9e6cwxb",
+        "h1": "Ugyanaz a mentős hozta vissza az életbe a család mindkét gyermekét: „Gyuri a mi őrangyalunk”",
+        "txtlength": 8587
+    },
+    {
         "hostname": "kulturpart.hu",
         "pagelink": "https://kulturpart.blog.hu/2022/10/19/nem_varazslat_facilitacio",
         "h1": "NEM VARÁZSLAT, FACILITÁCIÓ!",
