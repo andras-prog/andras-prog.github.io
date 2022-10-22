@@ -1,5 +1,173 @@
 [
     {
+        "hostname": "kiszamolo.hu",
+        "pagelink": "https://kiszamolo.hu/ujratoltheto-kavekapszula/",
+        "h1": "Újratölthető kávékapszula",
+        "txtlength": 30741
+    },
+    {
+        "hostname": "kulturpart.hu",
+        "pagelink": "https://kulturpart.blog.hu/2022/10/22/nelkule_mas_lett_volna_a_gyerekkorunk",
+        "h1": "MÁS LETT VOLNA A GYEREKKORUNK NÉLKÜLE",
+        "txtlength": 8792
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/hitel/20221021/milliokat-bukhatsz-a-valaskor-igy-kerulheted-el-a-fajdalmas-kenyertorest-ezt-sok-magyar-nem-is-tudja-1129780",
+        "h1": "Milliókat bukhatsz a váláskor: így kerülheted el a fájdalmas kenyértörést, ezt sok magyar nem is tudja",
+        "txtlength": 22427
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20221022_kulja_andras_egeszeg_brain_bar",
+        "h1": "„A mi felelősségünk, hogy érthetően fogalmazzunk a betegeknek” – sebészorvos a Mandinernek",
+        "txtlength": 22045
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20221021_apro_antal_mszmp_belfold_apro_piroska_dobrev_klara",
+        "h1": "Ő volt Apró Antal, aki a kommunista érdemeiért megkapta azt a villát, ahonnan Dobrev ellenállást hirdet",
+        "txtlength": 20887
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20221021_irani_dron_orosz_ukran_haboru",
+        "h1": "Mit tudnak az oroszok által bevetett iráni drónok?",
+        "txtlength": 20850
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/global/20221021/egy-egesz-terseget-langba-borithat-ket-orszag-titkos-kapcsolata-szovevenyes-politikai-jatszma-hozhatja-el-a-kovetkezo-nagy-haborut-574161",
+        "h1": "Egy egész térséget lángba boríthat két ország titkos kapcsolata – Szövevényes politikai játszma hozhatja el a következő nagy háborút?",
+        "txtlength": 19557
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/penz/20221021/tevedesek-veletlenek-es-szerencses-helyzetek-osszejatszasa-is-kellett-az-idei-kemiai-nobelhez/",
+        "h1": "Tévedések, véletlenek és szerencsés helyzetek összejátszása is kellett az idei kémiai Nobelhez",
+        "txtlength": 18247
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/podcast/20221022/eddig-senki-nem-kereste-a-csirketragyat-most-pedig-nem-tudnak-lepest-tartani-a-kereslettel/",
+        "h1": "Eddig senkit sem érdekelt a csirketrágya, most pedig nem tudnak lépést tartani a kereslettel",
+        "txtlength": 17968
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20221022/kormanyinfo-3-uj-intezkedest-jelentett-be-gulyas-gergely-574467",
+        "h1": "Kormányinfó: 3 új intézkedést jelentett be Gulyás Gergely ",
+        "txtlength": 17334
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/egeszseg/20221018/rengeteg-magyar-veszhelyzetben-sem-kap-idoben-segitseget-sokkolo-szamok-a-hazai-korhazakrol-1130049",
+        "h1": "Rengeteg magyar vészhelyzetben sem kap időben segítséget: sokkoló számok a hazai kórházakról",
+        "txtlength": 16312
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2022/10/22/harrison-forman-1960-ban-magyarorszagra-latogatott-es-lefotozta-a-boldogsagot-amit-a-vasfuggony-mogott-talalt",
+        "h1": "HARRISON FORMAN 1960-BAN MAGYARORSZÁGRA LÁTOGATOTT, ÉS LEFOTÓZTA A BOLDOGSÁGOT, AMIT A VASFÜGGÖNY MÖGÖTT TALÁLT",
+        "txtlength": 15729
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/podcast/20221022/suranyi-gyorgy-remego-labbal-nem-lehet-golt-rugni-574431",
+        "h1": "Surányi György: remegő lábbal nem lehet gólt rúgni",
+        "txtlength": 13496
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/egeszseg/ceklale-egeszsegugyi-hatasai/",
+        "h1": "Csökkenti a máj elzsírosodását, lassítja a szellemi hanyatlást: a céklalé 6 áldásos egészségügyi hatása",
+        "txtlength": 9972
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/szuloseg/narcizsztikus-gyerek-felnott/",
+        "h1": "narcisztikus gyerek felnőtt",
+        "txtlength": 7830
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kulfold/2022/10/21/kina-20-partkongresszus-hszi-csin-ping-globalizacio-tajvan-geopolitika/",
+        "h1": "Kína nem a globalizáció lebontására, hanem annak irányítására törekszik",
+        "txtlength": 26037
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/belfold/2022/10/22/kormanyinfo-okzober-22-gulyas-gergely-nagy-marton-arstopok-energia-inflacio",
+        "h1": "Hétfőn jelenhet meg a napelemek szabályozása, október 31-ig lehet beadni az igényeket",
+        "txtlength": 24783
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/fn/gazdasag/2022/10/22/napelem-napkollektor-energia-megujulo-energia-aram-halozat-mavir-gulyas-gergely-elektromos/",
+        "h1": "Napelemstop: Gulyás Gergely valamit félreérthetett",
+        "txtlength": 19464
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/direkt36/2022/10/21/a-10-legfontosabb-reszlet-az-orban-haborus-donteseirol-szolo-tenyfeltaro-cikkbol",
+        "h1": "A 10 legfontosabb részlet az Orbán háborús döntéseiről szóló tényfeltáró cikkből",
+        "txtlength": 17690
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kulfold/2022/10/22/turul-levetele-munkacs-baloha-ukrajna-magyar-kormany",
+        "h1": "Politikai játékszer lett a munkácsi turulból",
+        "txtlength": 17332
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/fn/gazdasag/2022/10/22/energiaarak-rezsi-draga-lakasfelujitas-tamogatas-hitel-napelem/",
+        "h1": "A drága rezsi miatt megfontolandó lehet a lakásfelújítás – tippek, mit tehetünk, ha nincs rá elég pénzünk",
+        "txtlength": 15217
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20221022_Oktober_23_utcai_harcos_Orban_beszed",
+        "h1": "Egy utcai harcos a négy fal között: miben lesz más Orbán október 23-i beszéde?",
+        "txtlength": 14004
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/10/22/elhibazott-brusszeli-hetvegi-olvasnivalok",
+        "h1": "Elhibázott brüsszeli hétvégi olvasnivalók",
+        "txtlength": 13874
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/10/22/nem-dzsungel-lett-a-szena-ter-hanem-inkabb-modern-helytorteneti-muzeum",
+        "h1": "Nem dzsungel lett a Széna tér, hanem inkább modern helytörténeti múzeum",
+        "txtlength": 13557
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/eurologus/20221021_Az_EU_tovabb_tamogatja_Ukrajnat_amely_kesz_az_igazsagos_bekere",
+        "h1": "Rendkívüli uniós csúcs jöhet, hogy megoldják végre az energiaellátás problémáit",
+        "txtlength": 11928
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/krimi/regi-bunugy-gyilkossag-katzenbach-imre-nyomozas-holttest-megtalalasa-evfordulo/7pkvlvx",
+        "h1": "A nap, amikor bizonyossá vált: valóban halott az eltűnt magyar focista",
+        "txtlength": 9789
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/vilag/20221021_donald_trump_capitolium_bizottsag_hivatalos_idezes",
+        "h1": "Hivatalos idézést küldött Donald Trumpnak a Capitolium ostromát vizsgáló bizottság",
+        "txtlength": 9203
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/krimi/eltunt-ferfi-budapest-szucs-tamas-topmenedzser-felesege-keresi-nyomozas/xg7460b",
+        "h1": "„Mintha a föld nyelte volna el a férjem” – A felesége is nyomoz az eltűnt topmenedzser után",
+        "txtlength": 8517
+    },
+    {
         "hostname": "mindmegette.hu",
         "pagelink": "https://www.mindmegette.hu/gesztenyes-angyalbogyoro.recept",
         "h1": "GESZTENYÉS ANGYALBÖGYÖRŐ",
