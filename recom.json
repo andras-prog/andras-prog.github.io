@@ -1,6 +1,174 @@
 [
     {
         "hostname": "kiszamolo.hu",
+        "pagelink": "https://kiszamolo.hu/mivel-erdemes-futeni-gazzal-vagy-villannyal/",
+        "h1": "Mivel érdemes fűteni, gázzal vagy villannyal?",
+        "txtlength": 30539
+    },
+    {
+        "hostname": "kulturpart.hu",
+        "pagelink": "https://kulturpart.blog.hu/2022/10/22/ruszkik_haza_529",
+        "h1": "RUSZKIK HAZA!",
+        "txtlength": 8549
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vallalat/20221023/magyarorszag-akkugyarto-nagyhatalomma-valik-de-nem-vilagos-ezzel-ki-jar-jol/",
+        "h1": "Magyarország akkugyártó-nagyhatalommá válik, de nem világos, ezzel ki jár jól",
+        "txtlength": 34350
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20221022_kudlik_julia_interju",
+        "h1": "„A férfi és a nő által születik a család, amely a szeretet batyuja” – Kudlik Júlia a Mandinernek",
+        "txtlength": 26456
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20221018_kimondtuk_a_kimondhatatlant_ruszkik_haza",
+        "h1": "„Kimondtuk a kimondhatatlant: ruszkik, haza!” – Kiss Tamás a Mandinernek",
+        "txtlength": 25963
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20221022_rezsi_atalany_diktalas_energia_szolgaltato_foldgaz_aram_elszamolas",
+        "h1": "Átalány? Diktálás? – Megmutatjuk, melyik energiaelszámolási formát érdemes választania!",
+        "txtlength": 25048
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/global/20221023/elolepett-az-arnyekbol-putyin-rettegett-zsoldosvezere-mar-a-kreml-is-aggodik-prigozsin-mesterterve-miatt-574381",
+        "h1": "Előlépett az árnyékból Putyin rettegett zsoldosvezére – Már a Kreml is aggódik Prigozsin mesterterve miatt?",
+        "txtlength": 21608
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/penz/20221020/fulop-szigetekrol-reptetett-gyari-dolgozok-kulonleges-gombak-es-magyarorszagi-szlovakok/",
+        "h1": "Fülöp-szigetekről reptetett gyári dolgozók, különleges gombák és magyarországi szlovákok",
+        "txtlength": 18150
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/karrier/20221020/lesujto-szamok-ezekben-a-magyarorszagi-regiokban-brutalisan-sok-az-allastalan-fiatal-1130105",
+        "h1": "Lesújtó számok: ezekben a magyarországi régiókban brutálisan sok az állástalan fiatal",
+        "txtlength": 17940
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/ingatlan/20221022/meg-egy-ujdonsag-ami-sok-penzzel-lehuzza-az-uj-hazat-epitoket-es-megizzasztja-a-zold-hiteleseket-573581",
+        "h1": "Még egy \"újdonság\", ami sok pénzzel lehúzza az új házat építőket, és megizzasztja a zöld hiteleseket",
+        "txtlength": 17866
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/karrier/20221019/ez-a-magyar-nyugdijas-alomallas-milliok-mondanak-nemet-a-legujabb-munkahelyi-oruletre-1130093",
+        "h1": "Ez a magyar nyugdíjas álomállás: milliók mondanak nemet a legújabb munkahelyi őrületre",
+        "txtlength": 17119
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/global/20221023/az-elfeledett-csata-amikor-a-magyarok-allitottak-meg-az-orosz-gozhengert-574347",
+        "h1": "Az elfeledett csata, amikor a magyarok állították meg az orosz gőzhengert",
+        "txtlength": 16586
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/egeszseg/csokkent-glukoztolerancia/",
+        "h1": "Növeli a stroke kockázatát, károsítja az ereket: milyen jelek utalnak a csökkent glükóztoleranciára?",
+        "txtlength": 9661
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2022/10/20/a-hallgatokat-azzal-csabitjuk-hogy-itt-vilagszinvonalu-kutatasok-zajlanak-mikozben-hetek-ota-nincs-meleg-viz-a-laborban",
+        "h1": "A HALLGATÓKAT AZZAL CSÁBÍTJUK, HOGY ITT VILÁGSZÍNVONALÚ KUTATÁSOK ZAJLANAK, MIKÖZBEN HETEK ÓTA NINCS MELEG VÍZ A LABORBAN",
+        "txtlength": 9352
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/szuloseg/karoly-kamilla-gyereke/",
+        "h1": "károly kamilla gyereke",
+        "txtlength": 6161
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kultura/2022/10/23/ukrajna-putyin-trump-a-szabadsag-felszamolasa-timothy-snyder/",
+        "h1": "Egy amerikai történész már sok éve felfedte Putyin titkát",
+        "txtlength": 31112
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2022/10/23/1956-oktober-23-programok-tuntetes-pedagogusok/",
+        "h1": "Orbán: Akik hol árnyékból, hol brüsszeli magaslesről lövöldöznek Magyarországra, ott fogják végezni, ahol elődeik",
+        "txtlength": 26686
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2022/10/22/ugy-tunik-en-vagyok-errefele-az-egyetlen-amerikai-igy-latta-magyarorszagot-1960-ban-harrison-forman-fotografus/",
+        "h1": "„Úgy tűnik, én vagyok errefelé az egyetlen amerikai” – így látta Magyarországot 1960-ban Harrison Forman fotográfus",
+        "txtlength": 19584
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kulfold/2022/10/23/portugalia-magyarorszag-oktatas-reform-fejlodes-pisa",
+        "h1": "15 év alatt rendbe tették Európa egyik legrosszabb oktatási rendszerét, és ebből mi is tanulhatunk",
+        "txtlength": 17969
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/velemeny/2022/10/23/ungvary-krisztian-mindszenty-jozsef-biboros",
+        "h1": "Ungváry Krisztián: A NER és az ő bíborosa",
+        "txtlength": 17084
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/sport/2022/10/23/iszlam-mahacsev-oliveira-dillashaw-sterling-jan-omalley-ufc-mma-ko",
+        "h1": "Újabb dagesztáni a UFC trónján, a Twitch-sztár a bekapott ütésektől olyan helyre került, ahol még soha nem járt",
+        "txtlength": 14521
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/gazdasag/20221023_Es_akkor_gaz_szelenergia_napelem_mnb_nagybritannia_reklamado",
+        "h1": "És akkor Orbán felvette a harcot az ársapka ellen",
+        "txtlength": 13532
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/oktober-23-budapest-harcok-ostrom-1956/2qwwrtc?sl_ps=d_10",
+        "h1": "Így nézett ki Budapest, amikor kitört a forradalom 1956-ban – fotók",
+        "txtlength": 12087
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20221023_Orban_beszed_hosszu_oktober_23",
+        "h1": "Brüsszel megkapta a magáét Orbántól, de a háború és a válság csak mellékszereplő volt az ünnepi beszédben",
+        "txtlength": 11359
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/10/22/tobb-mint-12-ezer-embert-tartoztathattak-le-es-250-et-gyilkolhattak-meg-iranban-a-tuntetesek-kezdete-ota",
+        "h1": "Több mint 12 ezer embert tartóztathattak le és 250-et gyilkolhattak meg Iránban a tüntetések kezdete óta",
+        "txtlength": 10968
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/10/23/dronnal-kerestek-a-kozlekedesi-szabalysertoket-a-bajcsy-zsilinszky-ut-es-az-andrassy-ut-keresztezodeseben",
+        "h1": "Drónnal keresték a közlekedési szabálysértőket a Bajcsy-Zsilinszky út és az Andrássy út kereszteződésében",
+        "txtlength": 10768
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/vilag/20221023_A_haboru_vasarnapi_hirei",
+        "h1": "Ukránok milliói maradtak áram nélkül, Luhanszknál készülnek az oroszok elhúzódó védekezésre - A háború vasárnapi hírei",
+        "txtlength": 10341
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/krimi/unokazos-csalas-ovadak-anglia-telefon-bunozes-trefigyelo-kamera/lsq4s6x",
+        "h1": "Vérlázító: fiatal csalók ügyvédnek adták ki magukat, majd kétmillió forinttal loptak meg egy nógrádi asszonyt – Önnel is megtörténhet!",
+        "txtlength": 7311
+    },
+    {
+        "hostname": "kiszamolo.hu",
         "pagelink": "https://kiszamolo.hu/ujratoltheto-kavekapszula/",
         "h1": "Újratölthető kávékapszula",
         "txtlength": 30741
