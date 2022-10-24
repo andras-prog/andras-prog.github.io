@@ -1,5 +1,179 @@
 [
     {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/pacalporkolt-video.recept",
+        "h1": "PACALPÖRKÖLT",
+        "txtlength": 10125
+    },
+    {
+        "hostname": "kiszamolo.hu",
+        "pagelink": "https://kiszamolo.hu/napelemek-nagyon-fontos-valtozas/",
+        "h1": "Napelemek: nagyon fontos változás",
+        "txtlength": 29613
+    },
+    {
+        "hostname": "efesasanisimasa.com",
+        "pagelink": "https://efesasanisimasa.com/2022/10/06/athena-2022/",
+        "h1": "Athena (2022)",
+        "txtlength": 8940
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20221023_1956_forradalom_eletutak",
+        "h1": "Az átélt forradalom – így mesélnek híres művészeink 1956-os emlékeikről",
+        "txtlength": 26332
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20221024/az-eu-kivereztette-oroszorszagot-most-lesz-igazan-nehez-helyzetben-putyin-kormanya-574485",
+        "h1": "Az EU kivéreztette Oroszországot: most lesz igazán nehéz helyzetben Putyin kormánya",
+        "txtlength": 26141
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/oktatas/20221021/millios-fizetessel-csabitjak-melozni-a-magyar-fiatalokat-a-gyenge-forinton-is-nagyot-kaszalhatnak-1130001",
+        "h1": "Milliós fizetéssel csábítják melózni a magyar fiatalokat: a gyenge forinton is nagyot kaszálhatnak",
+        "txtlength": 22696
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20221024_kozelet_aurum_jogasz_eu_tehetseggondozas_andrassy_kavehaz",
+        "h1": "Kávéházi „jogászforradalom” az Andrássy úton",
+        "txtlength": 22475
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20221023_lovasroham_konnygaz_gumilovedek_gyurcsany_rendorterror_2006_oktober",
+        "h1": "Lovasroham, könnygáz és gumilövedék – amikor Gyurcsányék meggyalázták a demokráciát",
+        "txtlength": 20387
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/uzlet/20221024/szembemegy-a-magyar-tozsde-az-europai-hangulattal-574565",
+        "h1": "Szembemegy a magyar tőzsde az európai hangulattal ",
+        "txtlength": 19907
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/karrier/20221024/egyre-kevesebbet-ernek-a-magyar-berek-ezen-mar-nem-segit-semmilyen-emeles-1130222",
+        "h1": "Egyre kevesebbet érnek a magyar bérek: ezen már nem segít semmilyen emelés?",
+        "txtlength": 18244
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.penzcentrum.hu/karrier/20221024/egyre-kevesebbet-ernek-a-magyar-berek-ezen-mar-nem-segit-semmilyen-emeles-1130222",
+        "h1": "Egyre kevesebbet érnek a magyar bérek: ezen már nem segít semmilyen emelés?",
+        "txtlength": 18117
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/kozelet/20221022/magyarorszagon-nem-fogjak-fel-ha-az-ember-sajat-penzet-kolti-nem-a-sajat-dolgara/",
+        "h1": "“Magyarországon nem fogják fel, ha az ember saját pénzét költi nem a saját dolgára”",
+        "txtlength": 16947
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/podcast/20221015/semmikeppen-nem-lesz-orosz-helyett-amerikai-gazfuggoseg-europaban/",
+        "h1": "Semmiképpen nem lesz orosz helyett amerikai gázfüggőség Európában",
+        "txtlength": 15936
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/kapcsolat/edgar-allan-poe-virginia-eliza-clemm-kapcsolata/",
+        "h1": "13 éves unokatestvérét vette feleségül a 27 éves Edgar Allan Poe - Milyen volt valójában a kapcsolatuk?",
+        "txtlength": 11629
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2022/10/24/sugarzabalo-gomba-fekete-beka-igy-alkalmazkodik-a-termeszet-csernobil-korul-a-radioaktiv-sugarzashoz",
+        "h1": "SUGÁRZABÁLÓ GOMBA, FEKETE BÉKA: ÍGY ALKALMAZKODIK A TERMÉSZET CSERNOBIL KÖRÜL A RADIOAKTÍV SUGÁRZÁSHOZ",
+        "txtlength": 10603
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/lajfhekk/szelloztetes-otthon/",
+        "h1": "szellőztetés otthon",
+        "txtlength": 7784
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/belfold/2022/10/24/mav-vasut-keses-volanbusz-tarifarendszer-taxi-vitezy-david-interju",
+        "h1": "Vitézy: Az 5-ös metró teljes alagútja nemhogy 8, de 18 év múlva sem lesz kész",
+        "txtlength": 37046
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kulfold/2022/10/24/iran-tuntetesek-megtorlas-teheran-iszlamizmus-hidzsab",
+        "h1": "Nők, élet, szabadság – Iránban öt hete nem tudják elnyomni a tiltakozásokat",
+        "txtlength": 18486
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/10/24/tizezrek-a-budapesti-utcakon-mig-orban-inkabb-szuk-korben-vallalt-csak-beszedet",
+        "h1": "Tízezrek a budapesti utcákon, míg Orbán inkább szűk körben vállalt csak beszédet",
+        "txtlength": 16636
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2022/10/24/lovasbereny-kormanyudulo-nadap-vadasztarsasag-erdo-lezaras-pinter-sandor/",
+        "h1": "Óriási erdőlezárás engedélyeztetése zajlik ott, ahol Pintér Sándor köre közpénzen építi vadászati központját",
+        "txtlength": 15623
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/belfold/2022/10/24/nem-hittek-a-szemuknek-harminc-eve-tereltek-el-a-dunat",
+        "h1": "Nem hittek a szemüknek: harminc éve terelték el a Dunát",
+        "txtlength": 14459
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/oktober-23-budapest-harcok-ostrom-1956/2qwwrtc",
+        "h1": "Így nézett ki Budapest, amikor kitört a forradalom 1956-ban – fotók",
+        "txtlength": 12206
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/vilag/20221024_dronok_orosz_ukran_haboru_gabonaszallitas",
+        "h1": "Az ukrán légvédelem már a drónok 85 százalékát lelövi, az oroszok szerint már 25 ezer civil menekült el Herszonból – háborús híreink",
+        "txtlength": 10824
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/10/24/a-republikanus-part-beperelte-a-google-t-mert-szerintuk-a-gmail-tul-gyakran-jeloli-spamnek-a-part-uzeneteit",
+        "h1": "A Republikánus Párt beperelte a Google-t, mert szerintük a Gmail túl gyakran jelöli spamnek a párt üzeneteit",
+        "txtlength": 10628
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kulfold/2022/10/23/boris-johnson-konzervaitv-part-miniszterelnok-valasztas-rishi-sunak/",
+        "h1": "Boris Johnson nem indul a miniszterelnöki posztért, Sunak látszik befutónak",
+        "txtlength": 9843
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2022/10/24/tanar-tuntetes-pankotai-lili-slam-eloadas-igazgato-elhatarolodas/",
+        "h1": "Elhatárolódott igazgatója a szolidaritási tüntetésen slammelő diáktól",
+        "txtlength": 9802
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/elet/20221024_Elhatarolodik_a_sajat_gimnaziuma_az_oktober_23i_tuntetesen_felszolalo_diakjatol",
+        "h1": "Elhatárolódik gimnáziuma az október 23-i tüntetésen felszólaló diákjától",
+        "txtlength": 9709
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20221023_oktober_23_diaktuntetes_percrol_percre",
+        "h1": "Zúgott az \"Orbán, takarodj!\", a szervezők szerint 80 ezres volt a tüntető tömeg",
+        "txtlength": 9433
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/mindszenty-avatas-orban-viktor-zalaegerszeg/w0rtbpd",
+        "h1": "Mindszenty József unokaöccse is Orbán Viktornak tapsolt – Nem hiszi el, kit talált meg Zalaegerszegen a Blikk!",
+        "txtlength": 8595
+    },
+    {
         "hostname": "kiszamolo.hu",
         "pagelink": "https://kiszamolo.hu/mivel-erdemes-futeni-gazzal-vagy-villannyal/",
         "h1": "Mivel érdemes fűteni, gázzal vagy villannyal?",
