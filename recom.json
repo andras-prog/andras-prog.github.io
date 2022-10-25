@@ -1,5 +1,179 @@
 [
     {
+        "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/fuszeres-birsalmalekvar",
+        "h1": "Fűszeres birsalmalekvár",
+        "txtlength": 10400
+    },
+    {
+        "hostname": "kiszamolo.hu",
+        "pagelink": "https://kiszamolo.hu/mi-legyen-a-lejaro-lakastakarekokkal/",
+        "h1": "Mi legyen a lejáró lakástakarékokkal?",
+        "txtlength": 27572
+    },
+    {
+        "hostname": "kulturpart.hu",
+        "pagelink": "https://kulturpart.blog.hu/2022/10/24/a_rabszolgakereskedelem_emlekezete",
+        "h1": "A RABSZOLGAKERESKEDELEM EMLÉKEZETE",
+        "txtlength": 4828
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/global/20221025/csiki-varga-tamas-hat-het-ev-munkaja-van-a-nato-gyors-reakciojaban-574787",
+        "h1": "Csiki Varga Tamás: Hat-hét év munkája van a NATO gyors reakciójában",
+        "txtlength": 35844
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20221025_hans_georg_maassen_interju",
+        "h1": "„A német politikusok gyakran idegen érdekeket képviselnek” – Hans-Georg Maaßen a Mandinernek",
+        "txtlength": 26849
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/biztositas/20221022/gigaviharok-tombolnak-magyarorszagon-temerdek-csalad-el-ilyen-hazban-sokkoloan-sokat-fizethetnek-1130174",
+        "h1": "Gigaviharok tombolnak Magyarországon: temérdek család él ilyen házban, sokkolóan sokat fizethetnek",
+        "txtlength": 26628
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20221024_rishi_sunak_portre",
+        "h1": "Gazdag, szorgalmas és révbe ért: a hindu Rishi Sunak lesz Nagy-Britannia miniszterelnöke",
+        "txtlength": 23855
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/kozelet/20221025/miert-kerdezik-meg-a-nepszamlalason-amit-mar-ugyis-biztos-tud-az-allam/",
+        "h1": "Miért kérdezik meg a népszámláláson, amit már úgyis biztos tud az állam?",
+        "txtlength": 23439
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20221025_kina_hszi_csin_ping",
+        "h1": "Kínai császárság újratöltve? – véget ért a kommunisták pártkongresszusa",
+        "txtlength": 21612
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20221025/alapjaiban-valtozik-a-cegek-elete-mit-tehetnek-ilyenkor-az-ugyvedek-573303",
+        "h1": "Alapjaiban változik a cégek élete: mit tehetnek ilyenkor az ügyvédek?",
+        "txtlength": 19261
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/tech/20221024/megszolalt-a-xiaomi-magyar-vezetoje-dragulhatnak-a-mobilok-a-gyenge-forint-miatt-1130150",
+        "h1": "Megszólalt a Xiaomi magyar vezetője: drágulhatnak a mobilok a gyenge forint miatt?",
+        "txtlength": 18973
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2022/10/24/egyre-kevesebb-magyar-vallja-magat-konzervativnak-meg-a-fidesz-es-a-mi-hazank-is-a-baloldaliakat-vonzza",
+        "h1": "EGYRE KEVESEBB MAGYAR VALLJA MAGÁT KONZERVATÍVNAK, MÉG A FIDESZ ÉS A MI HAZÁNK IS A BALOLDALIAKAT VONZZA",
+        "txtlength": 18838
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20221025/szabad-az-adozas-euroban-vagy-dollarban-de-megis-mikor-erdemes-es-milyen-arfolyamon-574235",
+        "h1": "Szabad az adózás euróban vagy dollárban - De mégis mikor érdemes és milyen árfolyamon?",
+        "txtlength": 17652
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vilag/20221025/a-volt-elnok-kivezetese-korszakvaltast-jelez-kinaban/",
+        "h1": "A volt elnök kivezetése korszakváltást jelez Kínában",
+        "txtlength": 17652
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/gyerek/iskolakezdes-halasztasa/",
+        "h1": "Így kérd az iskolakezdés halasztását és a plusz egy év ovit - Most kell intézkedned!",
+        "txtlength": 10699
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/lajfhekk/mikro-nem-szabad/",
+        "h1": "Mikró nem szabad",
+        "txtlength": 8658
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kultura/2022/10/25/muvelodesi-haz-rezsi-kozmuvelodes-jaszkarajeno-szombathely-dregelypalank-bezaras/",
+        "h1": "A rezsiválság a közművelődésnek is nagy pofont ad, de nincs mindenki kétségbeesve",
+        "txtlength": 23206
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/elet-stilus/2022/10/24/james-corden-botrany-balhek-tamadasok-karrier-etterem-kitiltas/",
+        "h1": "Gyűlnek a felhők James Corden elvesztett feje felett",
+        "txtlength": 18832
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kozelet/2022/10/25/energiavalsag-club-aliga-egeszsegugy-parlament-napirend-elott/",
+        "h1": "Van-e még egy párt, amely az ápolónőktől, a tanároktól vagy a nyugdíjasoktól vett el pénzt? – kérdezte Rétvári Bence",
+        "txtlength": 17653
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/tech/2022/10/25/hidrogenhajtasu-teherautoval-hulyitette-a-vilagot-de-a-prototipus-egy-metert-sem-tudott-onerobol-megtenni",
+        "h1": "Az autóipar legnagyobb hazudozója hidrogénhajtású teherautóval hülyítette a világot, a trükkös reklámfilm buktatta le",
+        "txtlength": 17297
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/belfold/2022/10/25/egyetemek-rezsikoltseg-emelkedes-intezkedesek-szabalyok-sporolas",
+        "h1": "Elzárt meleg víz, lekapcsolt közvilágítás, derékmelegítők – így spórolnak a legnagyobb hazai egyetemek",
+        "txtlength": 16287
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/gazdasag/20221025_Orban_Viktor_Gazprom_Europai_Unio_gazarsapka_gazbeszerzes_hosszu_tavu_szerzodes",
+        "h1": "Hogyan maradunk ki az uniós gázársapkából, ha nem tudunk kimaradni belőle?",
+        "txtlength": 16255
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/10/25/figyelem-csunyan-beszelt-egy-18-eves-lany",
+        "h1": "Figyelem: csúnyán beszélt egy 18 éves lány!",
+        "txtlength": 14279
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/velemeny/2022/10/25/mindszenty-alapitvany-velemeny-valasz-ungvary",
+        "h1": "Mindszenty Alapítvány: Ungváry egyoldalú írása olyan, mint egy kegyeletsértő karikatúra",
+        "txtlength": 12772
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/vilag/20221025_orosz_ukran_pp",
+        "h1": "A Nemzetközi Atomenergia-ügynökség vizsgálja, hogy bevetettek-e „piszkos bombákat” Ukrajnában – keddi híreink a háborúról",
+        "txtlength": 11465
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/10/25/prigozsin-sztrelkovval-szovetkezhet",
+        "h1": "Prigozsin szövetkezhet Sztrelkovval",
+        "txtlength": 11432
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/elet/20221025_thalia_tanoda_zaklatas_gyongyosi_tamas_czifrik_sesztak_szidonia_bantalmazas_szinitanoda",
+        "h1": "„Úgy tűnhetett, mintha a hajánál fogva húznák végig a színpadon, de az egy kaszkadőrtrükk”",
+        "txtlength": 10435
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/blikk-retro-halalos-autobaleset-lazar-janos-allamtitkar-kisbusz/vzrjyne",
+        "h1": "Blikk Retro – Lázár János kisbusza egy autónak csapódott: egy 37 éves nő meghalt a balesetben",
+        "txtlength": 9334
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/haziorvos-rezsitamogatas/c96wpkc",
+        "h1": "„A halál vagy a rezsi fogja bezárni a praxisomat” – Elérte az energiaválság a háziorvosokat is",
+        "txtlength": 9226
+    },
+    {
         "hostname": "mindmegette.hu",
         "pagelink": "https://www.mindmegette.hu/pacalporkolt-video.recept",
         "h1": "PACALPÖRKÖLT",
