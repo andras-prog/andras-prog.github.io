@@ -1,5 +1,173 @@
 [
     {
+        "hostname": "kiszamolo.hu",
+        "pagelink": "https://kiszamolo.hu/mvm-sos-uton-biztositas/",
+        "h1": "MVM SOS Úton biztosítás",
+        "txtlength": 31827
+    },
+    {
+        "hostname": "kulturpart.hu",
+        "pagelink": "https://kulturpart.blog.hu/2022/10/27/nonek_lenni_ceau_escu_romaniajaban",
+        "h1": "NŐNEK LENNI CEAUȘESCU ROMÁNIÁJÁBAN",
+        "txtlength": 7123
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20221027_vilaghaboru_hitler_tortenesz_vita_pritz_pal_szakaly_sandor",
+        "h1": "„Hitler eleve utált bennünket” – volt egyáltalán esélyünk a világháborúban?",
+        "txtlength": 29462
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2022/10/27/egeto-filozofiai-problema-szabad-e-ledobni-az-atomot",
+        "h1": "ÉGETŐ FILOZÓFIAI PROBLÉMA: SZABAD-E LEDOBNI AZ ATOMOT?",
+        "txtlength": 27222
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/egeszseg/20221027/tobb-szazezer-magyar-eletet-keseriti-meg-ez-a-betegseg-lenne-ra-kezeles-errol-kevesen-tudnak-1130361",
+        "h1": "Több százezer magyar életét keseríti meg ez a betegség: lenne rá kezelés, erről kevesen tudnak",
+        "txtlength": 23575
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vallalat/20221027/fogytan-az-iparterulet-debrecenben-hova-mennek-a-bmw-beszallitok/",
+        "h1": "Fogytán az iparterület Debrecenben, hova mennek a BMW-beszállítók?",
+        "txtlength": 22076
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/befektetes/20221027/felebredhet-vegre-a-szunnyado-orias-orult-rali-es-osszeomlas-is-van-a-pakliban-575181",
+        "h1": "Felébredhet végre a szunnyadó óriás - Őrült rali és összeomlás is van a pakliban",
+        "txtlength": 21239
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20221027_nemetorszag_franciaorszag_macron_scholz_valsag_parizs",
+        "h1": "Törik a Berlin–Párizs-tengely?",
+        "txtlength": 20372
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20221026_gulyas_marton_eloremenekult_elismerte_datadat_bajnai_gordon_szigetvari_viktor_konyveles",
+        "h1": "Gulyás Márton elismerte, hogy a Partizán könyvelését is a DatAdat-ügy egyik főszereplője, Tóth Józsefné végzi",
+        "txtlength": 20272
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/krtk/20221027/megoldatlan-a-varosi-szegenyseg-helyzete-hazai-peldakon-keresztul-mutatjuk-be-574979",
+        "h1": "Megoldatlan a városi szegénység helyzete? Hazai példákon keresztül mutatjuk be",
+        "txtlength": 20066
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/egeszseg/20221025/kiderult-a-d-vitamin-titok-ezt-jobb-ha-tudod-a-meregdraga-patikai-tablettakrol-pirulakrol-1130246",
+        "h1": "Kiderült a D-vitamin titok: ezt jobb, ha tudod a méregdrága patikai tablettákról, pirulákról",
+        "txtlength": 19054
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/penz/20221027/kezdhetunk-elbucsuzni-a-valtozo-kamatozasu-lakashitelektol/",
+        "h1": "Kezdhetünk elbúcsúzni a változó kamatozású lakáshitelektől",
+        "txtlength": 17845
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/uzlet/20221027/hamarosan-jon-az-ekb-kamatdontese-feszulten-figyelnek-a-befektetok-575261",
+        "h1": "Hamarosan jön az EKB kamatdöntése, feszülten figyelnek a befektetők ",
+        "txtlength": 17399
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/kapcsolat/adhd-kezelese/",
+        "h1": "Nem tehetnek a bosszantó szokásaikról: az ADHD-s embereket fontos megérteni",
+        "txtlength": 13677
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/szuloseg/gyerek-tel-iskola/",
+        "h1": "gyerek tél iskola",
+        "txtlength": 9828
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2022/10/26/gelencser-andras-nyersanyaghiany-klimavaltozas-civilizacios-osszeomlas-vita-interju/",
+        "h1": "„Az emberiség többsége számára az életfeltételek jelentős szűkülése kikerülhetetlen”",
+        "txtlength": 42983
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/szorakozas/2022/10/26/kanye-west-antiszemitizmus-adidas-balenciaga",
+        "h1": "Kanye West éppen most írja ki magát a szórakoztatóiparból",
+        "txtlength": 21072
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/belfold/2022/10/27/oktatas-tanarok-pedagogusok-diakok-elolanc-budapest-videk",
+        "h1": "Ma sok ezer pedagógus teszi le a munkát a PDSZ szerint",
+        "txtlength": 20382
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/interju/2022/10/27/pankotai-lili-interju-kiallas-beszed-slam-poetry-tanarok-diakok",
+        "h1": "Pankotai Lili: Ha kirúgnának sem bánnám meg, hogy kimondtam a véleményem, pont az elnémítás ellen küzdünk",
+        "txtlength": 20248
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2022/10/27/haziorvos-varolista-rezsi-alapellatas-gyogyszerek/",
+        "h1": "Van olyan háziorvos, aki beszerzett egy ultrahangkészüléket, hogy a betegeinek ne kelljen hónapokat várni a vizsgálatra",
+        "txtlength": 14681
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2022/10/27/tanarsztrajk-pedagogussztrajk-sztrajk-elolanc-oktatas-tiltakozas-percrol-percre-tudositas-oktober-27/",
+        "h1": "Folytatódik a pedagógussztrájk, élőlánc ölelte körbe Budapestet – kövesse élőben az eseményeket a 24.hu-n!",
+        "txtlength": 13832
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20221027_Nemzeti_konzultacio_Reklamszovetseg_bomba_kormany_hirdetes_DK_Fidesz",
+        "h1": "A Momentum a Reklámszövetséghez fordult a bombás kormányhirdetés ellen, a DK feljelent",
+        "txtlength": 12229
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/10/27/az-ut-szelen-hagyott-orszag",
+        "h1": "Az út szélén hagyott ország",
+        "txtlength": 12098
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/10/27/tobb-mint-37-milliard-dollaros-veszteseget-termelt-zuckerberg-metaverzum-projektje",
+        "h1": "Több mint 3,7 milliárd dolláros veszteséget termelt Zuckerberg metaverzum projektje",
+        "txtlength": 10448
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/elolanc-budapest-tanarok/3kqlkdt?sl_ps=d_4",
+        "h1": "„Viktor, hol vagy?” – Élő lánc Budapesten – fotók, videók",
+        "txtlength": 9881
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/kulfold/meghalt-pierre-soulages-francia-festo/l510v5x",
+        "h1": "Meghalt a festészet világsztárja, aki úgy bánt a feketével, mint senki más",
+        "txtlength": 9520
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/gazdasag/20221027_Gulyas_Weltwoche_interju_haboru_szankciok",
+        "h1": "Gulyás a Weltwochénak: a szankciók kitalálója Oroszország legjobb barátja",
+        "txtlength": 9204
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/gazdasag/20221026_Csak_a_csok_bunteteset_csokkentettek_a_Babavaroet_nem",
+        "h1": "Csak a csok büntetését csökkentették, a Babaváróét nem",
+        "txtlength": 9029
+    },
+    {
         "hostname": "mindmegette.hu",
         "pagelink": "https://www.mindmegette.hu/edes-oszi-kekszek-gluten-es-laktozmentesen.recept",
         "h1": "ÉDES ŐSZI KEKSZEK (GLUTÉN- ÉS LAKTÓZMENTESEN)",
