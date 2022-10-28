@@ -1,5 +1,179 @@
 [
     {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/sutotokos-fuszeres-latte.recept",
+        "h1": "SÜTŐTÖKÖS FŰSZERES LATTE",
+        "txtlength": 10178
+    },
+    {
+        "hostname": "hataratkelo.blog.hu",
+        "pagelink": "https://hataratkelo.blog.hu/2022/10/16/brutalis_elelmiszerarak_magyarorszagon_egy_korszak_vege#c41625530",
+        "h1": "Brutális élelmiszerárak Magyarországon - egy korszak vége?",
+        "txtlength": 47422
+    },
+    {
+        "hostname": "kulturpart.hu",
+        "pagelink": "https://kulturpart.hu/2022/10/27/nonek_lenni_ceau_escu_romaniajaban",
+        "h1": "NŐNEK LENNI CEAUȘESCU ROMÁNIÁJÁBAN",
+        "txtlength": 7140
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/nyugdij/20221027/10-ijeszto-teny-2022-ben-amivel-hamarosan-minden-magyar-nyugdijasnak-szembe-kell-neznie-1130290",
+        "h1": "10 ijesztő tény 2022-ben, amivel hamarosan minden magyar nyugdíjasnak szembe kell néznie",
+        "txtlength": 30353
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20221028_kritikus_infrastruktura_haboru",
+        "h1": "Csapások a kritikus infrastruktúrákra – így dőlhetnek el ma a háborúk",
+        "txtlength": 23494
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20221026_hatar_a_voros_csillagos_eg",
+        "h1": "Határ a (vörös) csillagos ég – milyen Kínát épít Hszi Csin-ping?",
+        "txtlength": 23477
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/uzlet/20221028/beindultak-a-felvasarlasok-a-szigeteloanyaggyartoknal-a-masterplastot-is-megkornyekeztek-mar-globalis-szereplok-575559",
+        "h1": "Beindultak a felvásárlások a szigetelőanyaggyártóknál, a Masterplastot is megkörnyékezték már globális szereplők",
+        "txtlength": 22756
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20221028_sajthelyzet_trappista_feldolgozoipar_inflacio",
+        "h1": "Tovább drágulhat a trappista? – tejipari szereplők az aggasztó sajthelyzetről",
+        "txtlength": 21088
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/penz/20221028/tanart-tuzoltot-apolot-is-fenyeget-kilakoltatas-megelhetesi-valsag-johet-a-kozszferaban/",
+        "h1": "Tanárt, tűzoltót, ápolót is fenyeget kilakoltatás, megélhetési válság jöhet a közszférában",
+        "txtlength": 20154
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/tech/20221026/ijeszto-nepbetegseg-leselkedik-a-magyarokra-tomegek-fuggnek-ra-gyanutlanul-1130241",
+        "h1": "Ijesztő népbetegség leselkedik a magyarokra: tömegek függnek rá gyanútlanul",
+        "txtlength": 18550
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/penz/20221028/meg-a-legszexibb-digitalis-fizetesi-megoldasnak-is-3-5-ev-kell-az-elterjedeshez/",
+        "h1": "Még a legszexibb digitális fizetési megoldásnak is 3-5 év kell az elterjedéshez",
+        "txtlength": 18238
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20221028/hatalmas-beremeles-csapott-le-magyarorszagra-fajdalmas-lesz-a-kijozanodas-575105",
+        "h1": "Hatalmas béremelés \"csapott le\" Magyarországra, fájdalmas lesz a kijózanodás",
+        "txtlength": 17002
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/bank/20221028/elertuk-az-orulet-hatarat-mindenki-kamattamogatott-hitelert-all-sorba-575353",
+        "h1": "Elértük az őrület határát, mindenki kamattámogatott hitelért áll sorba",
+        "txtlength": 16513
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2022/10/28/a-szegenyseg-es-a-fogyatekossag-kozt-egyertelmu-az-osszefugges-de-melyikbol-kovetkezik-a-masik",
+        "h1": "A SZEGÉNYSÉG ÉS A FOGYATÉKOSSÁG KÖZT EGYÉRTELMŰ AZ ÖSSZEFÜGGÉS, DE MELYIKBŐL KÖVETKEZIK A MÁSIK?",
+        "txtlength": 13815
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/utazas/taxisblokad-tortenete/",
+        "h1": "Ilyen volt a taxisblokád 1990-ben Budapest utcáin: négy napra teljesen megbénult a közlekedés",
+        "txtlength": 11182
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/szuloseg/eghajlat-gyermekvallalas/",
+        "h1": "éghajlat gyermekvállalás",
+        "txtlength": 10241
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kulfold/2022/10/28/szankciok-orosz-ukran-haboru-oroszorszag-putyin-gazdasagi-mozgositas-inflacio/",
+        "h1": "Így hatnak a szankciók: gazdasági mozgósításra kényszerült Oroszország",
+        "txtlength": 26266
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/belfold/2022/10/27/pankotai-lili-interju-kiallas-beszed-slam-poetry-tanarok-diakok",
+        "h1": "Pankotai Lili: Ha kirúgnának sem bánnám meg, hogy kimondtam a véleményem, pont az elnémítás ellen küzdünk",
+        "txtlength": 20908
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kulfold/2022/10/28/orosz-ukran-haboru-legicsapas-legvedelem-raketa-nato",
+        "h1": "Jól hangzanak a nyugati ígéretek, de nem lesz egyszerű felturbózni az ukrán légvédelmet",
+        "txtlength": 19764
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/belfold/2022/10/27/szikra-dorottya-szocialis-torveny-egyhazak-fidesz-allam-joleti-allam-szegenyek-idosek",
+        "h1": "Eddig is éhen lehetett halni ebben az országban, de most törvénybe is írnák",
+        "txtlength": 19316
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/10/28/a-tanarok-sztrajkja-es-putyin-beszede",
+        "h1": "A tanárok sztrájkja és Putyin beszéde",
+        "txtlength": 14519
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/ingatlan/20221028_napelemes_rendszerek_utolso_napok_a_betaplalasra_szaldos_elszamolasra",
+        "h1": "Érdemes-e még az utolsó pillanatban beadni a napelemes igénylést?",
+        "txtlength": 12709
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20221028_Orban_Viktor_arra_szamit_hogy_Europaban_erosodni_fog_a_bekepartiak_hangja__elo",
+        "h1": "Orbán Viktor: Lesznek újabb árstoppolt termékek",
+        "txtlength": 12484
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kultura/2022/10/27/amszterdam-kritika-david-o-russell-christian-bale-film/",
+        "h1": "Lelepleznek egy fasiszta összeesküvést, és közben énekelnek",
+        "txtlength": 11570
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/kkv/20221028_Minden_amit_a_vallalati_kamatstoprol_tudni_kell",
+        "h1": "Minden, amit a vállalati kamatstopról tudni kell",
+        "txtlength": 11145
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2022/10/28/nmhh-mediahatosag-jutalom/",
+        "h1": "Háromhavi jutalmat javasolnak a médiahatóság munkatársainak",
+        "txtlength": 11116
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/10/27/hivatalos-milorad-dodik-nyerte-meg-az-elnokvalasztast-a-boszniai-szerb-koztarsasagban",
+        "h1": "Hivatalos: Milorad Dodik nyerte meg az elnökválasztást a boszniai Szerb Köztársaságban",
+        "txtlength": 10893
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/elolanc-budapest-tanarok/3kqlkdt",
+        "h1": "„Viktor, hol vagy?” – Élő lánc Budapesten – fotók, videók",
+        "txtlength": 10072
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/krimi/mosonmagyarovar-halott-apjaval-elt-felvette-a-nyugdijat/g1n1h1r",
+        "h1": "„Két évig éltem a halott apámmal” – Az adósságai miatt vette fel havonta az elhunyt nyugdíját a mosonmagyaróvári férfi",
+        "txtlength": 9992
+    },
+    {
         "hostname": "kiszamolo.hu",
         "pagelink": "https://kiszamolo.hu/mvm-sos-uton-biztositas/",
         "h1": "MVM SOS Úton biztosítás",
