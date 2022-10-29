@@ -1,6 +1,186 @@
 [
     {
         "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/glutenmentes-csokitorta.recept",
+        "h1": "GLUTÉNMENTES CSOKITORTA",
+        "txtlength": 10568
+    },
+    {
+        "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/kokuszos-korong",
+        "h1": "Kókuszos korong",
+        "txtlength": 10431
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/pokhalos-mogyoros-muffinok.recept",
+        "h1": "PÓKHÁLÓS-MOGYORÓS MUFFINOK",
+        "txtlength": 10306
+    },
+    {
+        "hostname": "hataratkelo.blog.hu",
+        "pagelink": "https://hataratkelo.blog.hu/2022/10/16/brutalis_elelmiszerarak_magyarorszagon_egy_korszak_vege#c41626720",
+        "h1": "Brutális élelmiszerárak Magyarországon - egy korszak vége?",
+        "txtlength": 51715
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20221028_novak_katalin_ausztria_csaladpolitika",
+        "h1": "Állva tapsolták Novák Katalint az ausztriai egyetemisták",
+        "txtlength": 22400
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20221026_orban_viktor_okkal_ovja_a_magyar_gazdasagot",
+        "h1": "Orbán Viktor okkal óvja a magyar gazdaságot – Christopher Caldwell a Mandinernek",
+        "txtlength": 22037
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/kozelet/20221028/csapdaba-ejti-magat-a-kormany-ha-kiterjeszti-az-arstopot/",
+        "h1": "Csapdába ejti magát a kormány, ha kiterjeszti az árstopot",
+        "txtlength": 20710
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/egeszseg/20221027/oszi-nepnyavalya-terjed-magyarorszagon-kevesen-gondolnak-de-ebbol-nagy-baj-is-lehet-1130366",
+        "h1": "Őszi népnyavalya terjed Magyarországon: kevesen gondolnák, de ebből nagy baj is lehet",
+        "txtlength": 19064
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/egeszseg/20221029/rettentes-igazsag-derult-ki-az-oszi-oraatallitasrol-nem-is-sejtik-a-magyarok-ez-mennyire-veszelyes-1130427",
+        "h1": "Rettentes igazság derült ki az őszi óraátállításról: nem is sejtik a magyarok, ez mennyire veszélyes",
+        "txtlength": 18655
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.penzcentrum.hu/egeszseg/20221029/rettentes-igazsag-derult-ki-az-oszi-oraatallitasrol-nem-is-sejtik-a-magyarok-ez-mennyire-veszelyes-1130427",
+        "h1": "Rettentes igazság derült ki az őszi óraátállításról: nem is sejtik a magyarok, ez mennyire veszélyes",
+        "txtlength": 18474
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20221028_lazar_janos_stilus_kifuto_oltozkodes",
+        "h1": "Zsigerből jön neki a stílusérzék, de egyszer rosszul választott – Lázár János öltözködését elemeztük!",
+        "txtlength": 18437
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vilag/20221029/remiszto-a-klimavaltozas-de-ot-eve-meg-ketszer-ilyen-remisztonek-tunt/",
+        "h1": "Rémisztő a klímaváltozás, de öt éve még kétszer ilyen rémisztőnek tűnt",
+        "txtlength": 18406
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/global/20221029/nem-nyugszanak-az-oroszok-sotetbe-boritjak-ukrajnat-haborus-hireink-szombaton-575795",
+        "h1": "Nem nyugszanak az oroszok, sötétbe borítják Ukrajnát - Háborús híreink szombaton ",
+        "txtlength": 17082
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/global/20221029/oraatallitas-2022-kezdodik-a-teli-idoszamitas-575781",
+        "h1": "Óraátállítás 2022: kezdődik a téli időszámítás",
+        "txtlength": 15899
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2022/10/26/12-klimavaltozasos-jatek-jutott-tovabb-a-qubit-tarsasjatek-fejleszto-versenyen",
+        "h1": "12 KLÍMAVÁLTOZÁSOS JÁTÉK JUTOTT TOVÁBB A QUBIT TÁRSASJÁTÉK-FEJLESZTŐ VERSENYÉN",
+        "txtlength": 12544
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/egeszseg/okok-puffadas-hattereben/",
+        "h1": "Ez a panasz jelezheti, ha valaki túl sok szénhidrátot fogyaszt: sokakat érint a kellemetlen tünet",
+        "txtlength": 10916
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/lajfhekk/nasa-fejlesztes/",
+        "h1": "NASA fejlesztés",
+        "txtlength": 10387
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/interju/2022/10/29/bodo-viktor-interju-vigszinhaz-kastely-kafka-kispal",
+        "h1": "Bodó Viktor: A rafinéria és a kummantás különleges magyar mentalitást fejlesztett ki a NER uralma alatt",
+        "txtlength": 20644
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kozelet/2022/10/29/timothy-garton-ash-interju-szolasszabadsag/",
+        "h1": "Nem az a megoldás a szólásszabadságra, ha kitiltjuk a jobboldaliakat, hanem ha több baloldalit csinálunk",
+        "txtlength": 19780
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kulfold/2022/10/29/kannabisz-legalizacio-nemetorszag-reszletek-kritikak-koalicios-partnerek-szakertok/",
+        "h1": "Kiszivárogtak a német kannabisz legalizáció tervének részletei, de még a koalíciós partnerek sem elégedettek velük",
+        "txtlength": 17288
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/szorakozas/2022/10/28/marvel-snap-kartyajatek-videojatek-ben-brode-second-dinner",
+        "h1": "A Marvel Snap a legjobb kártyajáték azoknak, akik nem szeretik a kártyajátékokat",
+        "txtlength": 14557
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/gasztro/2022/10/28/bartolomeo-platina-reneszansz-elso-nyomtatott-szakacskonyv",
+        "h1": "Borsó halbelsőséggel, szex örömmel, félelem józan ésszel párosuljon",
+        "txtlength": 14102
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kozelet/2022/10/29/kolcsey-ferenc-gimnazium-kirugott-tanarok-polgari-engedetlenseg-torley-katalin-palya-tamas-elbocsatas-munkaugyi-per/",
+        "h1": "Visszakaphatják-e állásukat a kirúgott tanárok?",
+        "txtlength": 13818
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/gazdasag/20221029_bevasarlas_oktober_vasarnapi_ebed",
+        "h1": "Az ma az igazán menő, aki tudja, hol lehet száz forint alatt tojást kapni - ez a hvg.hu októberi bevásárlókosara",
+        "txtlength": 13212
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/kkv/20221029_magyar_posta_bezaras_melyik_posta_zar_be",
+        "h1": "Itt a teljes lista: nézze meg, önnél is bezár-e ideiglenesen a posta",
+        "txtlength": 12781
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20221029_Szijjarto_osztalytarsa_GVH_Versenyhivatal_elnok_6_ev",
+        "h1": "Szijjártó osztálytársa Poltnál is régebb óta van a székében, és most újabb 6 évre beleülhet",
+        "txtlength": 12035
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/halottak-napja-mindenszentek-kozlekedes-nyitvatartas-temeto/kb5bmk6",
+        "h1": "Ezt mindenképp olvassa el, hogy ne érjék meglepetések: mutatjuk a lezárásokat és nyitvatartásokat halottak napján",
+        "txtlength": 11956
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/10/28/nemet-allamfo-a-latszatbeke-csak-tovabb-novelne-putyin-etvagyat",
+        "h1": "A német államfő szerint a látszatbéke csak tovább növelné Putyin étvágyát",
+        "txtlength": 11566
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/10/28/olaszorszagban-feloldottak-az-egeszsegugyi-dolgozok-oltasi-kotelezettseget",
+        "h1": "Olaszországban feloldották az egészségügyi dolgozók oltási kötelezettségét",
+        "txtlength": 10390
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/krimi/kozma-tamas-rejtelyes-halala-elmegyogyito-intezet-borton/8t2tmyf?sl_ps=d_6",
+        "h1": "Rejtélyes haláleset az elmegyógyintézetben – Ezt állítja a gyászoló apa: a Facebookról tudtam meg, hogy nincs többé a fiam",
+        "txtlength": 9485
+    },
+    {
+        "hostname": "mindmegette.hu",
         "pagelink": "https://www.mindmegette.hu/sutotokos-fuszeres-latte.recept",
         "h1": "SÜTŐTÖKÖS FŰSZERES LATTE",
         "txtlength": 10178
