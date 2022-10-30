@@ -1,6 +1,186 @@
 [
     {
         "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/mandulas-boszorkanyujjak.recept",
+        "h1": "MANDULÁS BOSZORKÁNYUJJAK",
+        "txtlength": 10284
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/virslimumiak.recept",
+        "h1": "VIRSLIMÚMIÁK",
+        "txtlength": 10268
+    },
+    {
+        "hostname": "hataratkelo.blog.hu",
+        "pagelink": "https://hataratkelo.blog.hu/2022/10/16/brutalis_elelmiszerarak_magyarorszagon_egy_korszak_vege#c41628390",
+        "h1": "Brutális élelmiszerárak Magyarországon - egy korszak vége?",
+        "txtlength": 40904
+    },
+    {
+        "hostname": "kulturpart.hu",
+        "pagelink": "https://kulturpart.hu/2022/10/26/suomi_cunami_keszul",
+        "h1": "SUOMI CUNAMI KÉSZÜL",
+        "txtlength": 6269
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/global/20221029/megjott-a-figyelmeztetes-jovore-ujra-felrobbanhatnak-az-elelmiszerarak-a-haboru-egyik-keveset-emlegetett-hatasa-miatt-575455",
+        "h1": "Megjött a figyelmeztetés: jövőre újra felrobbanhatnak az élelmiszerárak a háború egyik, keveset emlegetett hatása miatt",
+        "txtlength": 25651
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20221025_europa_szetzuzasa_zajlik",
+        "h1": "Európa szétzúzása zajlik – Sótonyi Péter a Mandinernek",
+        "txtlength": 25053
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20221030_ukrajna_haboru_usa_oroszorszag_kaiser_ferenc_csiki_varga_tamas",
+        "h1": "„Amerika regionális hatalommá degradálja Oroszországot” – Kaiser Ferenc és Csiki Varga Tamás vitája a Mandineren",
+        "txtlength": 25001
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vilag/20221030/tenyleg-amerika-harcol-oroszorszaggal-ukrajnaban/",
+        "h1": "Tényleg Amerika harcol Oroszországgal Ukrajnában?",
+        "txtlength": 24330
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/megtakaritas/20221028/megszolalt-a-bav-vezetoje-megrohamoztak-a-zaloghazakat-felporoghetnek-a-kenyszerertekesitesek-1130375",
+        "h1": "Megszólalt a BÁV Zálog vezetője: megrohamozták a zálogházakat, felpöröghetnek a kényszerértékesítések",
+        "txtlength": 23990
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20221030_gardonyi_geza_elete",
+        "h1": "Kalandos életű mesélő volt az Egri csillagok írója – Gárdonyi Gézára emlékezünk",
+        "txtlength": 23314
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/vasarlas/20221028/szavaztak-az-arstop-kiboviteserol-ezeknek-az-elelmiszereknek-lehet-hamarosan-hatosagi-ara-magyarorszagon-1130406",
+        "h1": "Szavaztak az árstop kibővítéséről: ezeknek az élelmiszereknek lehet hamarosan hatósági ára Magyarországon",
+        "txtlength": 18286
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/global/20221030/putyin-dorzsoli-a-tenyeret-biden-aggodik-tenyleg-november-8-a-donti-majd-el-az-ukrajnai-haborut-575665",
+        "h1": "Putyin dörzsöli a tenyerét, Biden aggódik – Tényleg november 8-a dönti majd el az ukrajnai háborút?",
+        "txtlength": 18031
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/global/20221030/brutalis-kampany-utan-kerul-sor-elnokvalasztasra-a-vilag-egyik-legnagyobb-orszagaban-de-lehet-hogy-a-legrosszabb-meg-csak-ezutan-jon-575657",
+        "h1": "Brutális kampány után kerül sor elnökválasztásra a világ egyik legnagyobb országában, de lehet, hogy a legrosszabb még csak ezután jön",
+        "txtlength": 17869
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vallalat/20221026/a-volanbuszos-sztrajk-az-ujabb-peldaja-a-berek-elertektelenedesebol-szarmazo-feszultsegeknek/",
+        "h1": "A volánbuszos sztrájk az újabb példája a bérek elértéktelenedéséből származó feszültségeknek",
+        "txtlength": 17267
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/gyerek/mindenszentek-gyerekkel/",
+        "h1": "Gyerekkel a temetőben: erre figyelj november 1-jén a pszichológus szerint",
+        "txtlength": 11879
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2022/10/25/a-gyuloletbeszed-ellen-az-emberi-es-gyerekjogok-mellett-kiallo-magyarok-kaptak-a-fiatal-kurazsi-dijat",
+        "h1": "HÁBORÚS TERÜLETEKRE SEGÉLYSZÁLLÍTMÁNYT SZERVEZŐ ÖNKÉNTESEK ÉS A GYŰLÖLETBESZÉD ELLEN TETTEKKEL KÜZDŐ MAGYAROK IS MEGKAPTÁK A FIATAL KURÁZSI-DÍJAT",
+        "txtlength": 11875
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/szuloseg/egeszseges-leves/",
+        "h1": "egészséges leves",
+        "txtlength": 10439
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/foto/2022/10/29/salat-zalan-peter-villanyi-csaba",
+        "h1": "Vannak, akik csak kívülről láttak múzeumot",
+        "txtlength": 19165
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/szepkilatas/2022/10/30/amerika-hosszu-tavu-brutalis-tura-cdt-magyar-lany",
+        "h1": "Magyar lány az USA legbrutálisabb túráján: Találkoztam grizzly medvével is, nem bántott",
+        "txtlength": 18603
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/szorakozas/2022/10/29/2022-egyertelmuen-az-elozmenytortenetek-eve",
+        "h1": "2022 elérte, hogy már ne szitokszó legyen az előzményfilm",
+        "txtlength": 16873
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kultura/2022/10/30/halottlato-jolka-hangja-egressy-zoltan-matine/",
+        "h1": "Látja a halottak szellemét a 94 éves zalai parasztasszony",
+        "txtlength": 15833
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/szorakozas/2022/10/29/olivia-cooke-sarkanyok-haza-elso-evad-alicent-hightower-portre/",
+        "h1": "Próbált nem világhírű lenni, de a Sárkányok háza után aligha van visszaút",
+        "txtlength": 15634
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/gazdasag/20221029_Visszaterhetnek_valaha_a_Visegradi_Negyek_a_nemzetkozi_politika_szinpadara",
+        "h1": "Visszatérhetnek-e valaha a Visegrádi Négyek a nemzetközi politika színpadára?",
+        "txtlength": 15628
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/fn/gazdasag/2022/10/30/tojas-ara-kilott-szeptember-oktober/",
+        "h1": "Ezért lőhetett ki nagyon a tojás ára szeptemberről októberre",
+        "txtlength": 14743
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/zhvg/20221030_Ethereumfuzio_mintha_ket_Magyarorszagot_lekapcsoltak_volna",
+        "h1": "Mintha két Magyarországot lekapcsoltak volna az áramhálózatról",
+        "txtlength": 14461
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/10/29/hetvegi-olvasnivalok-az-ev-legfontosabb-valasztasatol-ukrajna-haboru-utani-sorsaig",
+        "h1": "Hétvégi olvasnivalók az év legfontosabb választásától Ukrajna háború utáni sorsáig",
+        "txtlength": 14185
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/gazdasag/20221030_Es_akkor_arak_dragulas_napelem_gaz",
+        "h1": "És akkor annyira nem működött az árstop, hogy újabb árstopra lesz szükség",
+        "txtlength": 14173
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/10/29/kitartanak-az-irani-tuntetok",
+        "h1": "Kitartanak az iráni tüntetők",
+        "txtlength": 10549
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/lakossag-inflacio-megtakaritas-hitelfelvetel/crr57d6",
+        "h1": "Sötét jövő várhat a magyarokra: durván visszaesik az életszínvonal, ha nem lesz miből költeni",
+        "txtlength": 7952
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/bunmegelozes-tanacsok-temeto-halottak-napja/bptsr1q",
+        "h1": "Van, akinek semmi sem szent: veszélyben lehetnek a halottak napján a temetőkbe látogatók – Erre most tényleg nagyon figyeljen!",
+        "txtlength": 7631
+    },
+    {
+        "hostname": "mindmegette.hu",
         "pagelink": "https://www.mindmegette.hu/glutenmentes-csokitorta.recept",
         "h1": "GLUTÉNMENTES CSOKITORTA",
         "txtlength": 10568
