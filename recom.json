@@ -1,6 +1,192 @@
 [
     {
         "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/omlos-toklampas-kekszek.recept",
+        "h1": "OMLÓS TÖKLÁMPÁS KEKSZEK",
+        "txtlength": 10299
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/szornyecskes-pohardesszert.recept",
+        "h1": "SZÖRNYECSKÉS POHÁRDESSZERT",
+        "txtlength": 10200
+    },
+    {
+        "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/isteni-kakaos-suti",
+        "h1": "Isteni kakaós süti",
+        "txtlength": 9706
+    },
+    {
+        "hostname": "hataratkelo.blog.hu",
+        "pagelink": "https://hataratkelo.blog.hu/2022/10/16/brutalis_elelmiszerarak_magyarorszagon_egy_korszak_vege#c41628874",
+        "h1": "Brutális élelmiszerárak Magyarországon - egy korszak vége?",
+        "txtlength": 40216
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/202210230_avarok_honfoglalas_szenthe_gergely_",
+        "h1": "Izgalmas felfedezések: milyen volt az avarok és a honfoglaló magyarok viszonya?",
+        "txtlength": 28658
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/deviza/20221030/kegyetlen-csapdahelyzetben-a-vilag-harmadik-legnagyobb-gazdasaga-es-csak-a-remenykedes-maradt-nekik-575771",
+        "h1": "Kegyetlen csapdahelyzetben a világ harmadik legnagyobb gazdasága, és csak a reménykedés maradt nekik",
+        "txtlength": 21478
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vilag/20221030/a-szovjetunio-utolso-haborujat-vivjak-ukrajnaban/",
+        "h1": "A Szovjetunió utolsó háborúját vívják Ukrajnában",
+        "txtlength": 20670
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20221031/bod-peter-akos-nagy-hibakat-kovet-el-magyarorszag-amiert-sulyos-arat-fizet-575875",
+        "h1": "Bod Péter Ákos: nagy hibákat követ el Magyarország, amiért súlyos árat fizet",
+        "txtlength": 19362
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/kozelet/20221031/eljott-a-pillanat-amikor-az-orosz-gazt-nem-otod-hanem-otszoros-aron-vesszuk/",
+        "h1": "Eljött a pillanat, amikor az orosz gázt nem ötöd, hanem ötszörös áron vesszük",
+        "txtlength": 19352
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20221025_bagi_ferenc_dk_szaniszlo",
+        "h1": "Értetlenül áll a kilencvenéves férfi a Szaniszló-féle önkormányzat újabb húzása előtt",
+        "txtlength": 19314
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/global/20221031/a-haboru-haszna-a-fegyveripar-szarnyakat-kap-de-vajon-jo-iranyban-575691",
+        "h1": "A háború haszna: a fegyveripar szárnyakat kap, de vajon jó irányban?",
+        "txtlength": 18943
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/karrier/20221030/millios-fizetessel-csabitjak-a-magyar-melosokat-ausztriaba-vegzettseg-sem-feltetel-ezt-kell-csinalni-1130431",
+        "h1": "Milliós fizetéssel csábítják a magyar melósokat Ausztriába: végzettség sem feltétel, ezt kell csinálni",
+        "txtlength": 18685
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20221031_szaniszlo_pesterzebet_bagi_kisemmizes_ingatlanbotrany",
+        "h1": "A kisemmizett bácsi ügyét nem rendezték, egy idős hivatali dolgozót kirúgtak Szaniszló kerületében",
+        "txtlength": 18626
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/otthon/20221028/sokkolo-hirt-kaptak-akik-faval-futenenek-2022-telen-ezzel-bizony-keves-magyar-csalad-szamolt-1130373",
+        "h1": "Sokkoló hírt kaptak, akik fával fűtenének 2022 telén: ezzel bizony kevés magyar család számolt",
+        "txtlength": 18270
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2022/10/31/a-tok-dicserete",
+        "h1": "A TÖK DICSÉRETE",
+        "txtlength": 15836
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/testem/leghosszabb-alvas/",
+        "h1": "leghosszabb alvás",
+        "txtlength": 12073
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/kapcsolat/irani-csaszarne-farah-pahlavi/",
+        "h1": "Irán utolsó, száműzött császárnéja: Farah Pahlavi most, 84 éves korában is aktív",
+        "txtlength": 11564
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/lajfhekk/egeszseges-szokas/",
+        "h1": "Egészséges szokás",
+        "txtlength": 11481
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kultura/2022/10/31/mindenszentek-halottak-napja-velemeny-balavany-csaladtortenet/",
+        "h1": "„Haldoklom, ugye, kisfiam?” – családtörténetek Mindenszentekkor",
+        "txtlength": 26172
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kult/2022/10/31/beck-zoltan-grecso-krisztian-beck-grecso-hoztunk-magunkkal-valamit-lemez-koncert-mupa",
+        "h1": "A szorongás a legelemibb érzés most ebben az országban – páros interjú Beck Zoltánnal és Grecsó Krisztiánnal",
+        "txtlength": 19431
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kultura/2022/10/31/szivhang-czako-zsofia-matine/",
+        "h1": "„Előjegyeztette az abortuszt, de bevérzett, és amikor a kád tele lett vérrel, inkább kiszállt, és hívta a mentőt”",
+        "txtlength": 17911
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/belfold/2022/10/30/budapest-kina-golgota-ut-cserkesz-utca-hivatal-ugyintezes-rendorseg-oknyomozas-safeguard-defenders",
+        "h1": "A budapesti kínai közösséget is elérhetik a kommunista állam rendőrségi csápjai",
+        "txtlength": 17104
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/zhvg/20221030_just_stop_oil_klimavalsag_civil_ellenallas",
+        "h1": "Kik azok, akik leöntik a híres festményeket és kik állnak mögöttük?",
+        "txtlength": 16332
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2022/10/31/trauma-peterfy-novak-eva-tuleltem-kotet/",
+        "h1": "Ez nem szégyen, hanem teher, amit le kell tenni",
+        "txtlength": 16073
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/cegauto/20221031_par_csepp_benzin_teszten_a_pofatlanul_keveset_fogyaszto_uj_honda_civic",
+        "h1": "Pár csepp benzin: teszten a pofátlanul keveset fogyasztó új Honda Civic",
+        "txtlength": 14919
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/kkv/20221031_kilimbolt_nomad_szonyeg",
+        "h1": "\"Sokan már nem engedhetik meg maguknak ezt a luxust, másoknak pedig túl olcsók vagyunk\"",
+        "txtlength": 14591
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kulfold/2022/10/30/brazilia-elnokvalasztas-lula-bolsonaro-masodik-fordulo-eredmeny",
+        "h1": "Bolsonaro elvesztette a brazil elnökválasztást, a baloldali Lula visszatért harmadik elnöki ciklusára",
+        "txtlength": 14008
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/sztarvilag/kultura/halloween-eredete-hagyomany-jelmezek-szellemek-kisertenek-horror-filmek-felelem/p241pm8",
+        "h1": "Az év legfélelmetesebb éjszakájának története: halloween, amikor bármi megtörténhet – Készüljön hátborzongató filmekkel az estére",
+        "txtlength": 11980
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/10/30/bronzkori-leleteket-talaltak-jaszszentlaszlo-hataraban",
+        "h1": "Bronzkori leleteket találtak Jászszentlászló határában",
+        "txtlength": 10661
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/10/30/kinos-lenne-karoly-kiralynak-ha-liz-truss-sok-baratjanak-kerne-udvari-kituntetest",
+        "h1": "Kínos lenne Károly királynak, ha Liz Truss sok barátjának kérne udvari kitüntetést",
+        "txtlength": 10439
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/nyiregyhaza-kollegium-bezaras-rezsi-sporolas/fq83ggt",
+        "h1": "Az elszálló rezsi miatt bezárnak egy kollégiumot Nyíregyházán: 200 diáknak kell költöznie",
+        "txtlength": 7455
+    },
+    {
+        "hostname": "mindmegette.hu",
         "pagelink": "https://www.mindmegette.hu/mandulas-boszorkanyujjak.recept",
         "h1": "MANDULÁS BOSZORKÁNYUJJAK",
         "txtlength": 10284
