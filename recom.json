@@ -1,6 +1,180 @@
 [
     {
         "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/glutenmentes-spenotfozelek.recept",
+        "h1": "GLUTÉNMENTES SPENÓTFŐZELÉK",
+        "txtlength": 9752
+    },
+    {
+        "hostname": "hataratkelo.blog.hu",
+        "pagelink": "https://hataratkelo.blog.hu/2022/10/16/brutalis_elelmiszerarak_magyarorszagon_egy_korszak_vege#c41629998",
+        "h1": "Brutális élelmiszerárak Magyarországon - egy korszak vége?",
+        "txtlength": 37525
+    },
+    {
+        "hostname": "kulturpart.hu",
+        "pagelink": "https://kulturpart.blog.hu/2022/10/27/frankenstein_melegen_var",
+        "h1": "FRANKENSTEIN MELEGEN VÁR",
+        "txtlength": 5425
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20221026_korda_gyorgy_sosem_oregszik",
+        "h1": "Korda György sosem öregszik? – az ország slágerénekese a Mandinernek",
+        "txtlength": 32267
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20221026_olyan_idok_jonnek_amikor_legeny_kell_a_gatra",
+        "h1": "Olyan idők jönnek, amikor legény kell a gátra! – közgazdász a gazdasági helyzetről",
+        "txtlength": 22938
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/penz/20221101/az-amerikai-jegybank-a-feltorekvo-piacokat-is-ostromolja/",
+        "h1": "Az amerikai jegybank a feltörekvő piacokat is ostromolja",
+        "txtlength": 22232
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20221028_otodik_kerulet_belvaros_kaposvar_szentgyorgyvolgyi_peter_szita_karoly_takarekossag_rezsikoltseg",
+        "h1": "Belvárosi zöld és kék szemlélet, Kaposvárott egy kisgyerek sem fázhat",
+        "txtlength": 21029
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/global/20221031/peldatlan-strategiai-hibat-kovettek-el-az-egyesult-allamok-szomszedjaban-130-millios-orszag-kerulhet-a-drogkartellek-uralma-ala-574733",
+        "h1": "Példátlan stratégiai hibát követtek el az Egyesült Államok szomszédjában – 130 milliós ország kerülhet a drogkartellek uralma alá",
+        "txtlength": 20723
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20221101/hirtelen-valtozik-nagyot-a-napelemes-vilag-magyarorszagon-itt-a-nagy-napelem-matek-575889",
+        "h1": "Hirtelen változik nagyot a napelemes világ Magyarországon - Itt a nagy napelem-matek",
+        "txtlength": 19833
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/utazas/20221029/brutalis-aremelessel-koszont-rank-az-idei-siszezon-ennyibe-kerul-egyetlen-nap-a-slagerhelyeken-1130428",
+        "h1": "Brutális áremelessél köszönt ránk az idei síszezon: ennyibe kerül egyetlen nap a slágerhelyeken",
+        "txtlength": 18319
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/ingatlan/20221101/budapesten-a-balatonnal-es-videken-feladtak-a-harcot-a-szallodak-igy-erhet-veget-tobb-evtized-munkaja-az-energiaarak-miatt-575159",
+        "h1": "Budapesten, a Balatonnál és vidéken feladták a harcot a szállodák: így érhet véget több évtized munkája az energiaárak miatt",
+        "txtlength": 18068
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/megtakaritas/20221028/rengeteg-magyar-csalad-kerulhet-most-a-tonk-szelere-igy-keszuljunk-fel-a-kozelgo-valsagra-1130424",
+        "h1": "Rengeteg magyar család kerülhet most a tönk szélére: így készüljünk fel a közelgő válságra",
+        "txtlength": 17568
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vilag/20221030/europa-komolyan-gondolja-a-digitalis-piac-szabalyozasat/",
+        "h1": "Európa komolyan gondolja a digitális piac szabályozását",
+        "txtlength": 16322
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2022/11/01/es-mi-van-ha-egy-robotpapagaj-talalkozik-a-nagy-hadronutkoztetovel",
+        "h1": "ÉS MI VAN, HA EGY ROBOTPAPAGÁJ TALÁLKOZIK A NAGY HADRONÜTKÖZTETŐVEL?",
+        "txtlength": 11247
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/terasz/macska-tudja-ha-gazdi-hozza-beszel/",
+        "h1": "A macskák tudják, ha a gazdi hozzájuk beszél, csak magasról tesznek rá a kutatás szerint",
+        "txtlength": 10264
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/lajfhekk/ital-hosszu-elet/",
+        "h1": "Ital hosszú élet",
+        "txtlength": 8210
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kozelet/2022/11/01/csanyi-vilmos-hiedelem-kozosseg-haboru-nagyinterju/",
+        "h1": "Csányi Vilmos: Enni kell. Inni kell. Szeretkezni kell. Közösség kell",
+        "txtlength": 48904
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://jo.444.hu/2022/11/01/negy-jo-konyv-a-futasrol",
+        "h1": "Négy jó könyv a futásról",
+        "txtlength": 27990
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kultura/2022/10/31/irodalomterapia-rudolf-panka-interju-harry-potter/",
+        "h1": "Harry Potter nem állítja meg a háborút, de a személyes krízisen átlendíthet",
+        "txtlength": 26480
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/eletmod/2022/11/01/mate-gabor-fuggoseg-drog-alkohol-trauma-stressz-betegsegek",
+        "h1": "Az addikció nem választás, hanem válaszreakció az emberi szenvedésre",
+        "txtlength": 21748
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/eletmod/2022/10/31/titok-hatasa-mentalis-fizikai-egeszseg-michael-slepian-pszichologia-onrejtegetes-ragodas-szegyen-erkolcs-kultura",
+        "h1": "Sötét, hétpecsétes, nyílt, ártalmatlan – minden titok más, és nem kímél bennünket",
+        "txtlength": 20421
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/szorakozas/2022/10/31/popzene-autotune-cher-zene/",
+        "h1": "Tönkretette vagy megreformálta a popzenét az autotune?",
+        "txtlength": 19069
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/gazdasag/20221101_Egy_evtizede_nem_vart_ilyen_nehez_karacsony_a_magyarokra_de_legalabb_a_Black_Friday_nagy_akciokat_hoz",
+        "h1": "Egy évtizede nem várt ilyen nehéz karácsony a magyarokra, de legalább a Black Friday nagy akciókat hoz",
+        "txtlength": 15549
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://voxpopuli.444.hu/2022/10/31/brazil-valasztas-magyar-tanulsagokkal-a-kozvelemeny-kutatasokrol",
+        "h1": "Brazil választás magyar tanulságokkal a közvélemény-kutatásokról",
+        "txtlength": 14047
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kulfold/2022/10/31/izrael-valasztas-netanjahu-elozetes",
+        "h1": "Netanjahu újra visszatérne a kiélezett izraeli választáson",
+        "txtlength": 13656
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20221031_magantokealap_reszesedes_vagyonnyilatkozat",
+        "h1": "Lehet, hogy Orbán új vagyonnyilatkozata még szegényebbnek tünteti majd fel őt",
+        "txtlength": 13394
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/kultura/20221031_Tul_a_Halottak_napjamindenszentekhalloween_haromszogon__Juhasz_Katalin_neprajzkutatoval_beszelgettunk",
+        "h1": "Túl a Halottak napja-mindenszentek-halloween háromszögön – Juhász Katalin néprajzkutatóval beszélgettünk",
+        "txtlength": 13367
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/kulfold/orosz-ukran-haboru-fekete-tenger-gabonakereskedelem/n02spk5",
+        "h1": "Vége: az oroszok berágtak, mert a háborúban megtámadták a hadihajóikat... és ennek most Európa issza meg a levét – Jön a nagy éhínség?",
+        "txtlength": 9881
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/sztarvilag/kultura/mindenszentek-halottak-napja-unnep-megemlekezes-temeto-sir-virag-mecses/2n70v0x?sl_ps=d_10",
+        "h1": "Még ma is sokan összekeverik a mindenszenteket és a halottak napját: mit kell tudni a két ünnepről?",
+        "txtlength": 9560
+    },
+    {
+        "hostname": "mindmegette.hu",
         "pagelink": "https://www.mindmegette.hu/omlos-toklampas-kekszek.recept",
         "h1": "OMLÓS TÖKLÁMPÁS KEKSZEK",
         "txtlength": 10299
