@@ -1,6 +1,174 @@
 [
     {
         "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/tarkonyos-csirkeraguleves-video.recept",
+        "h1": "TÁRKONYOS CSIRKERAGULEVES",
+        "txtlength": 10082
+    },
+    {
+        "hostname": "hataratkelo.blog.hu",
+        "pagelink": "https://hataratkelo.blog.hu/2022/10/16/brutalis_elelmiszerarak_magyarorszagon_egy_korszak_vege#c41631698",
+        "h1": "Brutális élelmiszerárak Magyarországon - egy korszak vége?",
+        "txtlength": 37481
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20221101_new_york_times_elhibazott_szankciok_oroszorszag_nyugat",
+        "h1": "New York Times: Semmit nem érnek a szankciók, de jövőre valószínűleg máshogy lesz",
+        "txtlength": 21901
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20221019_antall_jozsef_a_magyar_nep_tortenelmi_szerencseje",
+        "h1": "„Antall József a magyar nép történelmi szerencséje” – Köbli Norbert a Mandinernek",
+        "txtlength": 20825
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20221102/beszakadt-a-gazar-keszulhetunk-a-rezsiszabalyok-lazitasara-ah-dehogy-575783",
+        "h1": "Beszakadt a gázár, készülhetünk a rezsiszabályok lazítására? – Áh, dehogy!",
+        "txtlength": 19990
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20221102_francesca_rivafinoli_dk_onai_sandor_eu_gaz",
+        "h1": "Gyurcsányista mese az olcsón idefolyó nyugati gázról",
+        "txtlength": 19470
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/otthon/20221101/sulyos-korokozok-lapulnak-a-magyar-szekrenyekben-a-rezsiemeles-hivhatja-eletre-oket-1130328",
+        "h1": "Súlyos kórokozók lapulnak a magyar szekrényekben: a rezsiemelés hívhatja életre őket?",
+        "txtlength": 19349
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/kozelet/20221102/kadar-a-rozsadombon-krumplistesztaval-csak-politikai-imazs-a-puritanizmus/",
+        "h1": "Kádár a Rózsadombon, krumplistésztával: csak politikai imázs a puritanizmus?",
+        "txtlength": 18244
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/vasarlas/20221101/leesik-az-allad-meg-a-maltai-lidl-ben-is-olcsobb-a-tojas-mint-a-hazai-diszkontokban-1130473",
+        "h1": "Leesik az állad: még a máltai Lidl-ben is olcsóbb a tojás, mint a hazai diszkontokban",
+        "txtlength": 17607
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/bank/20221102/nalunk-nem-lesz-szigoritas-mar-keszulnek-az-uj-kedvezmenyes-hitelek-interju-576141",
+        "h1": "Nálunk nem lesz szigorítás, már készülnek az új kedvezményes hitelek (Interjú)",
+        "txtlength": 17435
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/uzlet/20221102/maga-ala-donti-e-a-meta-platformsot-a-ceget-sujto-problemahalmaz-576147",
+        "h1": "Maga alá dönti-e a Meta Platformsot a céget sújtó problémahalmaz?",
+        "txtlength": 17265
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2022/11/02/a-szulok-gyakran-nem-a-vallas-hanem-a-presztizs-miatt-kuldik-a-gyerekeket-egyhazi-iskolaba",
+        "h1": "A SZÜLŐK GYAKRAN NEM A VALLÁS, HANEM A PRESZTÍZS MIATT KÜLDIK A GYEREKEKET EGYHÁZI ISKOLÁBA",
+        "txtlength": 16771
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/podcast/20221029/nem-luxusautot-vesznek-a-ceges-tamogatasokbol-de-a-technologiai-szintugras-se-jon-ossze/",
+        "h1": "Nem luxusautót vesznek a céges támogatásokból, de a technológiai szintugrás se jön össze",
+        "txtlength": 15995
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/ezo/gyasz-vagy-depresszio/",
+        "h1": "Fontos felismerni a különbséget a gyász és a depresszió között: 4 dolog, ami segít továbblépni",
+        "txtlength": 9742
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/lajfhekk/alufolia-maradek/",
+        "h1": "Alufólia maradék",
+        "txtlength": 7697
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/tudomany/2022/11/02/bure-franciaorszag-atomenergia-nuklearis-hulladektarolo-cigeo-andra-atomellenes-aktivistak",
+        "h1": "Egy apró francia falu lett az atomenergia-ellenállás főhadiszállása",
+        "txtlength": 23985
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kulfold/2022/11/01/usa-politika-republikanus-part-reagan-bush-trump-andy-borowitz/",
+        "h1": "Így lett divat buta politikusnak lenni",
+        "txtlength": 20750
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/korhazi-varolista-idopontkeres/zgmyvxc",
+        "h1": "„Alig merek benézni a férjem szobájába reggel, vajon lélegzik-e még” – Hiába telefonál, Teréz nem kap időpontot a kardiológiára",
+        "txtlength": 14570
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/zhvg/20221102_energia_tavho_futes",
+        "h1": "A Parlamentben próbálták ki, ma a lakások hatodában használják: most jöhet el igazán a távhő ideje",
+        "txtlength": 14550
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/fn/gazdasag/2022/11/02/napelem-napkollektor-napenergia-megujulo-energia-gulyas-gergely-palkovics-laszlo-geotermikus-energia-rezsi-villamos/",
+        "h1": "Teljes káoszban született a kormány napelemrendelete",
+        "txtlength": 14480
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kultura/2022/11/01/ismeretlen-budapest-viranyos-ut-villapark-lakopark-szecesszio-villa-felujitas-epites-szivek-norbert-otp-florion-balansz-ingatlanalap/",
+        "h1": "Befejeződhet végre egy évek óta húzódó budai lakópark-projekt, amelyben egy szecessziós villa is megújul",
+        "txtlength": 14443
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kulfold/2022/11/02/orosz-ukran-haboru-253-nap-hirfolyam",
+        "h1": "Lengyelország szögesdrót kerítést épít a lengyel-orosz határra",
+        "txtlength": 11928
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/11/02/nem-johet-letre-a-vilag-elso-megakiadoja-egy-biro-megvetozta-hogy-a-penguin-felvasarolhassa-a-simon-schustert",
+        "h1": "Nem jöhet létre a világ első megakiadója, egy bíró megvétózta, hogy a Penguin felvásárolhassa a Simon & Schustert",
+        "txtlength": 11871
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/sport/2022/11/02/sakk-csalasok-kiszures-nepszeruseg-anna-cramling",
+        "h1": "Az análgyöngyöktől a YouTube-sztárokig: így tette a Covid a sakkot váratlanul és őrülten népszerűvé",
+        "txtlength": 11674
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/11/02/martin-luther-king-es-felesege-fizettek-julia-roberts-szuletesekor-a-korhazi-koltsegeket",
+        "h1": "Martin Luther King és felesége fizették Julia Roberts születésekor a kórházi költségeket",
+        "txtlength": 11090
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20221102_csak_janos_index",
+        "h1": "Csák János megfejtése a közoktatásról: „az élet kompromisszumokból áll”",
+        "txtlength": 11026
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/vilag/20221102_oroszukran_1102",
+        "h1": "Új iráni drónokra figyelmeztet az ukrán hírszerzés, Kijevben melegedőpontokkal készülnek a legrosszabbra - a háború szerdai hírei",
+        "txtlength": 10805
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/kilakoltatas-hanna-csontrak-gyujtes-segitok-blikk/vtl7vbf",
+        "h1": "Megmenekült a kilakoltatástól Hanna: egymilliót gyűjtöttek össze a Blikk olvasói a csontrákban szenvedő kislány családjának",
+        "txtlength": 8131
+    },
+    {
+        "hostname": "mindmegette.hu",
         "pagelink": "https://www.mindmegette.hu/glutenmentes-spenotfozelek.recept",
         "h1": "GLUTÉNMENTES SPENÓTFŐZELÉK",
         "txtlength": 9752
