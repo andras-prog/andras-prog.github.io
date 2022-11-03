@@ -1,5 +1,185 @@
 [
     {
+        "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/narancsos-apacafingocska",
+        "h1": "Narancsos apácafingocska",
+        "txtlength": 10925
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/palacsinta-hagyomanyosan.recept",
+        "h1": "HAGYOMÁNYOS PALACSINTA",
+        "txtlength": 9763
+    },
+    {
+        "hostname": "kiszamolo.hu",
+        "pagelink": "https://kiszamolo.hu/kijott-a-napelemes-rendelet/",
+        "h1": "Kijött a napelemes rendelet",
+        "txtlength": 33133
+    },
+    {
+        "hostname": "efesasanisimasa.com",
+        "pagelink": "https://efesasanisimasa.com/2022/10/20/szoszi-blonde-2022/",
+        "h1": "Szöszi (Blonde, 2022)",
+        "txtlength": 8841
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/penz/20221102/erdemes-e-mar-bankbetetet-valasztani-allampapir-helyett/",
+        "h1": "Érdemes-e már bankbetétet választani állampapír helyett?",
+        "txtlength": 26014
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20221102/powell-szetverte-a-varakozasokat-nagyon-nagyon-messze-meg-a-kamatemelesek-vege-576273",
+        "h1": "Powell szétverte a várakozásokat: Nagyon-nagyon messze még a kamatemelések vége ",
+        "txtlength": 23876
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20221102_hogyan_erhet_veget_egy_haboru",
+        "h1": "Hogyan érhet véget egy háború?",
+        "txtlength": 22562
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20221103/mennyire-lesz-jo-uzlet-a-maganegeszsegugy-2023-ban-575487",
+        "h1": "Mennyire lesz jó üzlet a magánegészségügy 2023-ban?",
+        "txtlength": 21938
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20221026_hatmillio_elveszett_elet",
+        "h1": "Hatmillió elveszett élet – már csökken az abortuszok száma, de ez nem volt mindig így",
+        "txtlength": 21682
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20221103_lengyelorszag_atomeromu_usa_korea_europai_unio_franciaorszag_edf_haboru",
+        "h1": "Első atomerőműveit építi Lengyelország – Amerikával és Dél-Koreával",
+        "txtlength": 21019
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/hitel/20221031/durva-csapdaba-eshetnek-a-magyar-hitelesnek-aldasanak-tunt-megis-visszauthet-a-dontesuk-1130407",
+        "h1": "Durva csapdába eshetnek a magyar hitelesek: áldásnak tűnt, mégis visszaüthet a döntésük",
+        "txtlength": 20745
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/biztositas/20221030/meg-csak-most-jon-az-igazi-dragulas-a-magyar-temetokben-ide-is-begyuruzik-a-rezsivalsag-1130380",
+        "h1": "Még csak most jön az igazi drágulás a magyar temetőkben: ide is begyűrűzik a rezsiválság",
+        "txtlength": 20299
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/kozelet/20221103/nincs-eleg-diplomasunk-pedig-a-munkaeropiac-siman-fel-tudna-szivni-oket/",
+        "h1": "Nincs elég diplomásunk, pedig a munkaerőpiac simán fel tudná szívni őket",
+        "txtlength": 19255
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/uzlet/20221103/elromlott-a-hangulat-az-europai-tozsdek-is-lefordultak-576313",
+        "h1": "Elromlott a hangulat, az európai tőzsdék is lefordultak ",
+        "txtlength": 18939
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2022/11/03/a-tanarok-tiltakozasa-elsosorban-nem-a-penzrol-szol-hanem-a-meltatlan-helyzetrol-es-a-frusztraciorol",
+        "h1": "A TANÁROK TILTAKOZÁSA ELSŐSORBAN NEM A PÉNZRŐL SZÓL, HANEM A MÉLTATLAN HELYZETRŐL ÉS A FRUSZTRÁCIÓRÓL",
+        "txtlength": 14469
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/kapcsolat/felrelepes-okai-hazassagi-tanacsado-szerint/",
+        "h1": "A félrelépés 7 legfőbb oka a házassági tanácsadó szerint - Elárulta, mit tapasztalt munkája során",
+        "txtlength": 12612
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/szuloseg/meztelen-szulo/",
+        "h1": "meztelen szülő",
+        "txtlength": 11642
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/szorakozas/2022/11/02/rap-hiphop-halal-gyilkossag-27-esek-klubja",
+        "h1": "Köptető, fentanil, fegyverek: döbbenetesen fiatalon halnak a mai rapsztárok",
+        "txtlength": 31126
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2022/11/03/ungar-peter-ellenzek-lmp-kampany-interju/",
+        "h1": "Ungár Péter: Dermesztő az amerikai pénz, és dermesztő, hogy sokan nem érzik problémának",
+        "txtlength": 29832
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/belfold/2022/11/03/hajlektalansag-rendorok-bantalmazas-rendori-tulkapas-kikepzes",
+        "h1": "Mi visz rá egy rendőrt, hogy hajléktalan embereket rugdosson meg?",
+        "txtlength": 18809
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2022/11/03/uzsora-rendorseg-fordulat-szegenyseg-allam/",
+        "h1": "Évek óta alig indul nyomozás a hírhedt kamatos pénz miatt, de ez semmi jót nem jelent Magyarországnak",
+        "txtlength": 18240
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/11/03/enyhules-itt-feszultseg-ott",
+        "h1": "Enyhülés itt, feszültség ott",
+        "txtlength": 18092
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/ellenorzo/2022/11/03/fact-check-megneztuk-hogy-igaz-e-az-hogy-olcsobb-is-lehetett-volna-a-gaz-es-a-villany-a-rezsicsokkentes-soran",
+        "h1": "Fact-check: Valóban lehetett volna olcsóbb is a gáz és a villany a rezsicsökkentés során?",
+        "txtlength": 14800
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/kkv/20221103_hev_budapest_mav_kozlekedes",
+        "h1": "Még legalább tíz évig zötykölődhetünk a hatvanéves HÉV szerelvényeken",
+        "txtlength": 14740
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kulfold/2022/11/03/orosz-ukran-haboru-zaporizzsjai-atomeromu-2022-november-03/",
+        "h1": "Az oroszok megkezdték Európa legnagyobb atomerőművének államosítását",
+        "txtlength": 12096
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/11/02/elso-fokon-hat-evet-kapott-a-ferfi-aki-egy-szegedi-panzioban-olte-meg-tanar-feleseget",
+        "h1": "Első fokon hat évet kapott a férfi, aki egy szegedi panzióban ölte meg tanár feleségét",
+        "txtlength": 10910
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/kkv/20221103_gki_gazdasagkutato_elemzes_olcso_munkaero_parragh_laszlo",
+        "h1": "Megnézték, mekkora az igazságtartalma Parragh László olcsó munkaerős beszólásának",
+        "txtlength": 10347
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/kkv/20221103_Ujabb_kamatutesek_a_bankoktol_a_szemelyi_kolcsonok_mar_20_szazaleknal_jarnak",
+        "h1": "Újabb kamatütések a bankoktól: a személyi kölcsönök már 20 százaléknál járnak",
+        "txtlength": 10249
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/kulfold/eszaki-aramlat-vizsgalat-robbanas/h2jgv2j",
+        "h1": "Itt a bejelentés, kiderült, mit találtak a tönkrement Északi Áramlat-1-nél a tengerfenéken",
+        "txtlength": 9400
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/eltunt-szucs-tamas-duna-holttest-kerdeses/7st26f8",
+        "h1": "Az eltűnt topmenedzser holttestét találták meg a Dunában? – A családja is várja a DNS-vizsgálat eredményét",
+        "txtlength": 8419
+    },
+    {
         "hostname": "mindmegette.hu",
         "pagelink": "https://www.mindmegette.hu/tarkonyos-csirkeraguleves-video.recept",
         "h1": "TÁRKONYOS CSIRKERAGULEVES",
