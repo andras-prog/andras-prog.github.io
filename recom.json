@@ -1,6 +1,186 @@
 [
     {
         "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/favago-leves-gazdagon",
+        "h1": "Favágó leves gazdagon",
+        "txtlength": 11849
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/turos-retes-hagyomanyosan.recept",
+        "h1": "TÚROS RÉTES",
+        "txtlength": 10486
+    },
+    {
+        "hostname": "hataratkelo.blog.hu",
+        "pagelink": "https://hataratkelo.blog.hu/2022/10/16/brutalis_elelmiszerarak_magyarorszagon_egy_korszak_vege#c41634592",
+        "h1": "Brutális élelmiszerárak Magyarországon - egy korszak vége?",
+        "txtlength": 36579
+    },
+    {
+        "hostname": "kulturpart.hu",
+        "pagelink": "https://kulturpart.blog.hu/2022/11/01/otvenszer_hozott_lelek",
+        "h1": "ÖTVENSZER HOZOTT LÉLEK",
+        "txtlength": 9035
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/oktatas/20221101/rengeteg-diakot-kinoznak-a-magyar-sulikban-itt-rontjak-el-a-szulok-csunya-arat-fizet-a-gyerek-1130327",
+        "h1": "Rengeteg diákot kínoznak a magyar sulikban: itt rontják el a szülők, csúnya árat fizet a gyerek",
+        "txtlength": 24029
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/oktatas/20221104/ez-ma-a-legnagyobb-veszely-a-magyar-gyerekekre-a-szulok-rontjak-el-meg-nem-keso-cselekedni-1130541",
+        "h1": "Ez ma a legnagyobb veszély a magyar gyerekekre: a szülők rontják el, még nem késő cselekedni",
+        "txtlength": 22841
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20221104_belfold_tortenelem_vilaghaboru_bekes_megye_doboz_visszaemlekezes",
+        "h1": "Végigsöprő, fekete szél – így emlékezik a szovjet hadsereg dúlására egy szemtanú asszony",
+        "txtlength": 20815
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/kozelet/20221104/a-karpataljai-cigany-menekultek-meg-a-szegregalt-hajlektalanszallonak-is-tudnak-orulni-de-a-magyar-egeszsegugy-mar-nekik-is-sok/",
+        "h1": "A kárpátaljai cigány menekültek még a szegregált hajléktalanszállónak is tudnak örülni, de a magyar egészségügy már nekik is sok",
+        "txtlength": 20154
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/uzlet/20221104/megjottek-a-vevok-megtorni-latszik-a-napok-ota-tarto-sorozat-a-tozsdeken-576555",
+        "h1": "Megjöttek a vevők, megtörni látszik a napok óta tartó sorozat a tőzsdéken ",
+        "txtlength": 18965
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/penz/20221103/nem-eloszor-fordult-elo-hogy-par-perc-utan-felfuggesztenek-egy-100-milliardos-palyazatot/",
+        "h1": "Nem először fordult elő, hogy pár perc után felfüggesztenek egy 100 milliárdos pályázatot",
+        "txtlength": 18485
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20221104_navracsics_nem_volt_jo_dontes_kilepni_az_europai_neppartbol",
+        "h1": "Navracsics: Nem volt jó döntés kilépni az Európai Néppártból",
+        "txtlength": 17736
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20221103_putyin_james_bond_szerepeben_igy_oltozik_az_orosz_diktator",
+        "h1": "Putyin James Bond szerepében – így öltözik az orosz diktátor",
+        "txtlength": 17510
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2022/11/04/neked-is-lehet-legalis-hazi-naperomuved-csak-irto-draga-es-valoszinuleg-soha-nem-terul-meg-az-ara",
+        "h1": "NEKED IS LEHET LEGÁLIS HÁZI NAPERŐMŰVED, CSAK IRTÓ DRÁGA, ÉS VALÓSZÍNŰLEG SOHA NEM TÉRÜL MEG AZ ÁRA",
+        "txtlength": 15477
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.penzcentrum.hu/vasarlas/20221104/hamarosan-vege-lehet-a-dragulasnak-csokkenni-latszanak-az-elelmiszerarak-1130572",
+        "h1": "Hamarosan vége lehet a drágulásnak: csökkenni látszanak az élelmiszerárak",
+        "txtlength": 13800
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/deviza/20221104/hirtelen-rakapcsolt-a-forint-mi-allhat-a-hatterben-576577",
+        "h1": "Hirtelen rákapcsolt a forint - Mi állhat a háttérben? ",
+        "txtlength": 13747
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/utazas/vadludak-tata-tavain/",
+        "h1": "Igazi természeti csoda zajlik Tatán novemberben: több tízezer vadlúdtól hangos a város",
+        "txtlength": 12076
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/lajfhekk/diana-ruha-film/",
+        "h1": "Diana hercegnő provokáló bosszúruháját viselte a híres színésznő",
+        "txtlength": 6310
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kulfold/2022/11/04/orosz-ukran-haboru-catherine-belton-putyin-emberei-szergej-geraszimov-harkivi-naplo/",
+        "h1": "Az ember nem dobhat mindennap atombombát az ellenségre, de a feketepénzt használhatja – Putyin emberei és a Nyugat",
+        "txtlength": 28068
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2022/11/04/navracsics-tibor-interju-eu-unios-penzek-pedagogus-berek/",
+        "h1": "Navracsics Tibor: Nem volt jó politikai döntés kilépni az Európai Néppártból",
+        "txtlength": 27120
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kult/2022/11/03/jonas-jonasson-szamomra-nagyon-ijeszto-hogy-a-valasztok-nem-latnak-a-szavak-moge",
+        "h1": "Jonas Jonasson: Az embernél nincs ostobább lény a Földön",
+        "txtlength": 17057
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kulfold/2022/11/04/olha-sztefanisina-ukrajna-euroatlanti-integracio",
+        "h1": "Biztos vagyok benne, hogy ha Orbán jelez, Kijevben szívesen fogadnák",
+        "txtlength": 15111
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/belfold/2022/11/03/romaversitas-alapitvany-karpataljai-roma-menekultek",
+        "h1": "Rengeteg kárpátaljai roma menekült gyerek maradhat ki a közoktatásból Magyarországon",
+        "txtlength": 14195
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2022/11/03/integritas-hatosag-biro-ferenc-elnok-jelolt/",
+        "h1": "Biró Ferencet jelölik az Integritás Hatóság elnökének",
+        "txtlength": 10536
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/11/04/megemelte-eves-eredmeny-celkituzeset-a-mol",
+        "h1": "Megemelte éves eredmény-célkitűzését a Mol",
+        "txtlength": 9682
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/zhvg/20221104_energia_hulladekgazdalkodas_hasznositas",
+        "h1": "Így lesz a hulladékból hőenergia – a Fővárosi Hulladékhasznosító Műben jártunk",
+        "txtlength": 9418
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/11/04/millios-birsagokat-szornanak-a-sztrajkolo-tanarokra-kanadaban-a-szakszervezetek-kitartanak",
+        "h1": "Milliós bírságokat szórnának a sztrájkoló tanárokra Kanadában, a szakszervezetek kitartanak",
+        "txtlength": 8858
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/elfogtak-drogkereskedok-nemzetkozi-elfogas-bunbanda/spp455l",
+        "h1": "Nemzetközi drogbandát kapcsoltak le Sopronban: több mint fél tonna kábítószerrel bizniszeltek",
+        "txtlength": 8146
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/vilag/20221104_orosz_ukran_pp",
+        "h1": "Saját katonáikat lövik le az oroszok, Zelenszkij energiaterrorizmussal vádolja a megszállókat – a háború pénteki hírei",
+        "txtlength": 7758
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/szucs-tamas-topmenedzser-eltunt-holttest-kereses-horgasz/6pfkdvb",
+        "h1": "A horgász, aki az eltűnt topmenedzsert találhatta meg a Dunában: „Az eset óta nem nagyon tudok aludni”",
+        "txtlength": 7744
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/elet/20221104_Kanye_West_nacik_iranti_rajongas_nyilt_titok",
+        "h1": "Évek óta nyílt titok volt Kanye West nácik iránti rajongása",
+        "txtlength": 7282
+    },
+    {
+        "hostname": "nosalty.hu",
         "pagelink": "https://www.nosalty.hu/recept/narancsos-apacafingocska",
         "h1": "Narancsos apácafingocska",
         "txtlength": 10925
