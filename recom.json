@@ -1,5 +1,185 @@
 [
     {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/almas-pite-video.recept",
+        "h1": "ALMÁS PITE",
+        "txtlength": 11043
+    },
+    {
+        "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/karacsonyi-rogton-puha-mezeskalacs",
+        "h1": "Karácsonyi rögtön puha mézeskalács",
+        "txtlength": 10791
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/klasszikus-edesburgonya-kremleves.recept",
+        "h1": "KLASSZIKUS ÉDESBURGONYA KRÉMLEVES",
+        "txtlength": 10102
+    },
+    {
+        "hostname": "kulturpart.hu",
+        "pagelink": "https://kulturpart.blog.hu/2022/11/04/itt_az_olasz_filmfesztival",
+        "h1": "ITT AZ OLASZ FILMFESZTIVÁL!",
+        "txtlength": 8396
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20221102_karacsony_gergely_budapest_kozelet",
+        "h1": "Bizonyítvány: kegyelemkettes – Mérlegen a főpolgármester három éve",
+        "txtlength": 30285
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/otthon/20221102/rezsiemeles-felujitani-eri-meg-jobban-vagy-eladni-a-hazat-itt-a-valasz-a-mindenkit-gyotro-kerdesre-1130386",
+        "h1": "Rezsiemelés: felújítani éri meg jobban, vagy eladni a házat? Itt a válasz a mindenkit gyötrő kérdésre",
+        "txtlength": 22355
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2022/11/05/es-te-mit-tennel-ha-ejszaka-stikaban-hozzad-varrnanak-egy-hegedumuveszt",
+        "h1": "ÉS TE MIT TENNÉL, HA ÉJSZAKA STIKÁBAN HOZZÁD VARRNÁNAK EGY HEGEDŰMŰVÉSZT?",
+        "txtlength": 21242
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20221104_ep_oktatasi_es_kulturalis_szakbizottsag_delegacio_szfe_kultura",
+        "h1": "Reagáltak az SZFE vezetői: Egyoldalú és kirekesztő, ami Brüsszelben folyik kulturális területen is",
+        "txtlength": 20966
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20221104_kormany_szankciok_rezsicsokkentes_haboru_ukrajna",
+        "h1": "Varga Mihály: A lengyelek kétszer olyan dühösek Brüsszelre, mint mi",
+        "txtlength": 19643
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/gazdasag/20221104/ezt-kell-tudni-a-rettegett-ar-ber-spiralrol-mar-magyarorszagon-is-beindult-a-lancreakcio-1130502",
+        "h1": "Ezt kell tudni a rettegett ár-bér spirálról: már Magyarországon is beindult a láncreakció?",
+        "txtlength": 18974
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/elet/20221105/nemileg-nott-a-melyszegenysegben-elok-aranya-de-tiz-eves-tavlatban-harmadara-csokkent/",
+        "h1": "Némileg nőtt a mélyszegénységben élők aránya, de tíz éves távlatban harmadára csökkent",
+        "txtlength": 18273
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/penz/20221103/mennyit-segithetne-egy-magyar-csaladnak-az-erkely-napelem-ha-engednek-beuzemelni/",
+        "h1": "Mennyit segíthetne egy magyar családnak az erkélyes napelem, ha engednék beüzemelni?",
+        "txtlength": 17266
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/befektetes/20221105/10-feletti-fix-kamatok-magyarorszagon-megeri-igy-lakossagi-allampapirba-fektetni-576773",
+        "h1": "10% feletti fix kamatok Magyarországon – Megéri így lakossági állampapírba fektetni?",
+        "txtlength": 13452
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.penzcentrum.hu/auto/20221105/itt-a-bejelentes-ujabb-kinai-automarka-jon-magyarorszagra-1130598",
+        "h1": "Itt a bejelentés: újabb kínai autómárka jön Magyarországra",
+        "txtlength": 12126
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20221105/igy-torhet-meg-a-magyar-berrobbanas-ami-szazezreknek-fog-fajni-576805",
+        "h1": "Így törhet meg a magyar bérrobbanás, ami százezreknek fog fájni",
+        "txtlength": 11874
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/egeszseg/aszalt-szilva-hatasa/",
+        "h1": "Védi a sejteket, csökkenti a gyulladást és a csontritkulás kockázatát: az aszalt szilva csodákra képes",
+        "txtlength": 11053
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/testem/glutenmentes-sor-tilos/",
+        "h1": "gluténmentes sör tilos",
+        "txtlength": 10429
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/belfold/2022/11/04/mtva-tuntetes-hadhazy-akos-tanarok-diakok-kozmedia-hirado",
+        "h1": "Hadházyék fáklyás élőlánccal akarták bekeríteni az MTVA épületét, rendőri sorfal védte a bejáratot",
+        "txtlength": 29516
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/sport/2022/11/05/boksz-okolvivas-balzsay-karoly-csalad-betegseg-vilagbajnoksag-olimpia/",
+        "h1": "Balzsay Károly: Csak abból lesz jó bokszoló, aki élvezi, hogy teljes erővel a másik arcába üthet",
+        "txtlength": 22159
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/tech/2022/11/04/elon-musk-twitter-vasarlas-kozossegi-media-moderacio",
+        "h1": "Elon Musk 44 milliárd dolláros ámokfutásba kezdett a Twitteren",
+        "txtlength": 21861
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kulfold/2022/11/05/kina-nemetorszag-olaf-scholz-hszi-csin-ping-peking-latogatas-gazdasagi-fugges-eu-hamburgi-kikoto-kommunista-part-kongresszus",
+        "h1": "Koalíciós ellentéteket és stratégiai dilemmákat tépett fel a német kancellár kínai útja",
+        "txtlength": 21562
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kultura/2022/11/04/werner-herzog-interju-dereng-a-vilag-konyv/",
+        "h1": "Werner Herzog: Forgatásról fognak elvinni egy hullazsákban, de nem bánom",
+        "txtlength": 20069
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kultura/2022/11/05/ismeretlen-budapest-dohany-utca-31-bontas-budenz-jozsef-finnugor-elmelet-korhaz-klinika-tarsashaz-shami-k-arc-kreativ-muhely-epiteszet/",
+        "h1": "A Tűzraktérből kollégiumot tervező építészek háza kerül a Blaha Lujza tér mellett egy 150 éves elődje helyére",
+        "txtlength": 18904
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/kkv/20221104_pesti_istvan_michelin_platan_gourmet",
+        "h1": "\"Ehhez a társasághoz tartozni iszonyatosan nagy dolog\"",
+        "txtlength": 18502
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/zhvg/20221105_cop27_ensz_klimacsucs_egyiptom_klimavedelem_klimaharc",
+        "h1": "A szolidaritás lesz az egyik kulcskérdés a háború árnyékában tartott 27. klímacsúcson",
+        "txtlength": 14734
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/kultura/20221104_ukrajna_orosz_ukran_haboru_dokumentumfilm_bidf_putyin_azovsztal_mariupol",
+        "h1": "Ezt a filmet most mindenkinek látnia kellene",
+        "txtlength": 13287
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/krimi/blikk-retro-szita-bence-gyermekgyilkossag-tonkrement-csalad/htfd83k",
+        "h1": "Blikk Retro – A nap, amikor az ország az elmúlt évtizedek legkegyetlenebb magyar gyilkosainak szemébe nézett – A haláluk megváltás lehetett számukra",
+        "txtlength": 12910
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/krimi/szepmuveszeti-muzeum-1983-festmenylopas/s4025vs?sl_ps=d_7",
+        "h1": "Csavarhúzó buktatta le a Szépművészeti Múzeum tolvajait: közel 15 milliárd forint értékben loptak el világhírű festményeket",
+        "txtlength": 12619
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/11/04/fifa-elnok-kerem-most-mar-koncentraljunk-a-futballra",
+        "h1": "FIFA-elnök: „Kérem, most már koncentráljunk a futballra!”",
+        "txtlength": 11733
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/11/05/hetvegi-olvasnivalok-butakrol-es-bucsarol",
+        "h1": "Hétvégi olvasnivalók butákról és Bucsáról",
+        "txtlength": 11014
+    },
+    {
         "hostname": "nosalty.hu",
         "pagelink": "https://www.nosalty.hu/recept/favago-leves-gazdagon",
         "h1": "Favágó leves gazdagon",
