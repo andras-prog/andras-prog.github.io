@@ -1,5 +1,161 @@
 [
     {
+        "hostname": "kulturpart.hu",
+        "pagelink": "https://kulturpart.hu/2022/11/04/itt_az_olasz_filmfesztival",
+        "h1": "ITT AZ OLASZ FILMFESZTIVÁL!",
+        "txtlength": 8397
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20221107_2020_usa_elnokvalasztas_csalas_vita",
+        "h1": "Csaltak-e a demokraták a 2020-as elnökválasztáson?",
+        "txtlength": 34645
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20221102_interju_papp_laszlo_mirkoczki_adam",
+        "h1": "Túlélhető-e a válság? – Papp László és Mirkóczki Ádám a Mandinernek",
+        "txtlength": 31535
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20221105_aeroexpress_regional_budapest_kolozsvar_utazas",
+        "h1": "Színvonalas kiszolgálás, nemzeti színek: kipróbáltuk az új magyar légitársaság Budapest-Kolozsvár járatát",
+        "txtlength": 24400
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/penz/20221106/a-magyar-valsagkezelesnek-meg-neve-sincs-nemhogy-strategiaja/",
+        "h1": "A magyar válságkezelésnek még neve sincs, nemhogy stratégiája",
+        "txtlength": 21973
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/otthon/20221107/te-is-lecsusztal-a-napelem-hataridorol-uj-szabalyok-johetnek-meg-mindig-megeri-belevagni-1130633",
+        "h1": "Te is lecsúsztál a napelem-határidőről? Új szabályok jöhetnek, még mindig megéri belevágni",
+        "txtlength": 21428
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/megtakaritas/20221106/barkinel-bevalik-a-legalis-banki-csel-rengeteget-sporolhat-aki-ezekre-odafigyel-1130548",
+        "h1": "Bárkinél beválik a legális banki csel: rengeteget spórolhat, aki ezekre odafigyel",
+        "txtlength": 19604
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/penz/20221107/mikor-lesz-magyarorszagon-klimasemleges-bankolas/",
+        "h1": "Mikor lesz Magyarországon klímasemleges bankolás?",
+        "txtlength": 18954
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/uzlet/20221107/jo-a-hangulat-a-magyar-tozsden-a-richter-vezeti-az-emelkedest-576945",
+        "h1": "Jó a hangulat a magyar tőzsdén, a Richter vezeti az emelkedést ",
+        "txtlength": 16312
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/bank/20221107/megint-belenyulna-a-kormany-a-lakossagi-hitelek-szabalyaiba-mi-lesz-ebbol-577003",
+        "h1": "Megint belenyúlna a kormány a lakossági hitelek szabályaiba: mi lesz ebből?",
+        "txtlength": 15575
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/uzlet/20221107/kiderult-mekkora-tartalekuk-van-a-magyaroknak-mibe-fektetik-a-penzuket-es-mi-az-amibe-csak-szeretnek-576737",
+        "h1": "Kiderült, mekkora tartalékuk van a magyaroknak, mibe fektetik a pénzüket, és mi az, amibe csak szeretnék",
+        "txtlength": 14373
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2022/11/07/szemelyre-szabott-kemoterapiaval-reformalnak-meg-a-rakgyogyitast-az-obudai-egyetem-es-az-elkh-kutatoi",
+        "h1": "SZEMÉLYRE SZABOTT KEMOTERÁPIÁVAL REFORMÁLNÁK MEG A RÁKGYÓGYÍTÁST AZ ÓBUDAI EGYETEM ÉS AZ ELKH KUTATÓI",
+        "txtlength": 14021
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/kapcsolat/laura-k-inamedinova-interju/",
+        "h1": "A 26 éves vezérigazgató-nő karriertanácsait érdemes megfogadni - Laura K. Inamedinova ezt üzeni a nőknek",
+        "txtlength": 11960
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kozelet/2022/11/07/freund-tamas-mta-nagyinterju-isten/",
+        "h1": "Freund Tamás: A Jóisten nem aszerint fogja megítélni életünket, hogy sikerült-e kiszabadítanunk a Suzukit",
+        "txtlength": 52532
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kult/2022/11/07/szoke-gabor-miklos-szobrasz-csepeli-muhelye-csodaszarvas-velemenyek-ner-1",
+        "h1": "Miért ne lehetne egy művész jóban akár egy politikussal?",
+        "txtlength": 33591
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/elet/20221107_vitray_tamas_interju",
+        "h1": "„Úgy jöttem el a Magyar Televízióból, hogy azt nem mondták, szerbusz” – interjú a 90 éves Vitray Tamással",
+        "txtlength": 21413
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/szorakozas/2022/11/06/tarsasjatek-teszt-scout-kovetkezo-megallo-london-innovation-koszontunk-a-holdon",
+        "h1": "Nagy játékok kis dobozban",
+        "txtlength": 15085
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/fn/gazdasag/2022/11/07/valsag-valsagkezeles-orban-viktor-orban-kormany-gdp-inflacio-szegenyseg/",
+        "h1": "Ki nyert a válságokon? – kibontjuk az orbáni féligazságot",
+        "txtlength": 14201
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/tech/2022/11/07/kreta-rendszer-e-naplo-kozoktatas-adathalasz-tamadas-adatszivargas-ekreta-informatikai-zrt",
+        "h1": "Feltörhették a KRÉTA-t, a diákok adatai is kiszivároghattak",
+        "txtlength": 13552
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/11/07/megfejlesztett-magyar-alom",
+        "h1": "Megfejlesztett magyar álom",
+        "txtlength": 12208
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/fn/gazdasag/2022/11/07/minimalber-garantalt-berminimum-bertargyalas-fizetes-szakszervezet-maszsz-beremeles/",
+        "h1": "Minimálbér 2023: közel 30 százalékos emelést javasol a legnagyobb szakszervezet",
+        "txtlength": 11293
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/11/07/az-emberi-jogok-egyetemesek-es-mindenhol-ervenyesek",
+        "h1": "„Az emberi jogok egyetemesek, és mindenhol érvényesek\"",
+        "txtlength": 11230
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/gazdasag/20221107_lehallgatas_botrany_gorogorszag_predator_ep",
+        "h1": "Egyre kínosabb a lehallgatási botrány: vajon a kormányfő lehallgattatta a külügyminisztert is Görögországban?",
+        "txtlength": 9235
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/eurologus/20221107_Bloomberg_ujabb_unios_feltetelekre_szamithat_Magyarorszag",
+        "h1": "Bloomberg: Újabb feltételeket szabhat az EU Magyarországnak az uniós forrásokért",
+        "txtlength": 8698
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/krimi/magyar-drog-nagyagyuk-dilerek-futar-elfogtak-fegyhaz/kdegpbm",
+        "h1": "Elkapták a magyar drogipar nagyágyúit: 20 év fegyvházat kapott a 73 éves drogfutár - videó",
+        "txtlength": 8063
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/magyar-drog-nagyagyuk-dilerek-futar-elfogtak-fegyhaz/qjjx6ee",
+        "h1": "Elkapták a magyar drogipar nagyágyúit: 20 év fegyvházat kapott a 73 éves drogfutár - videó",
+        "txtlength": 8025
+    },
+    {
         "hostname": "nosalty.hu",
         "pagelink": "https://www.nosalty.hu/recept/omlos-parizsi-dios-rudak",
         "h1": "Omlós párizsi diós rudak",
