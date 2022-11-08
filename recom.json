@@ -1,5 +1,173 @@
 [
     {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/sertestarja-paradicsommal-es-olajbogyoval.recept",
+        "h1": "SERTÉSTARJA PARADICSOMMAL ÉS OLAJBOGYÓVAL",
+        "txtlength": 11039
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/zsiros-almas-pite.recept",
+        "h1": "ZSÍROS ALMÁS PITE",
+        "txtlength": 10660
+    },
+    {
+        "hostname": "hataratkelo.blog.hu",
+        "pagelink": "https://hataratkelo.blog.hu/2022/10/16/brutalis_elelmiszerarak_magyarorszagon_egy_korszak_vege",
+        "h1": "Brutális élelmiszerárak Magyarországon - egy korszak vége?",
+        "txtlength": 45388
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20221102_amerika_felidos_valasztas",
+        "h1": "Amerikai sorsdöntés – Itt a félidős választás az Egyesült Államokban",
+        "txtlength": 30622
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20221108_rod_dreher_amerika_valasztas_interju",
+        "h1": "Jöhetnek a békepárti konzervatívok? – Rod Dreher a félidős választásokról",
+        "txtlength": 21868
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/penz/20221108/a-kormany-250-milliardot-adott-tiborcz-istvan-kozelebe-befektetesre-most-kezdene-vele-valamit/",
+        "h1": "A kormány 250 milliárdot adott Tiborcz István közelébe befektetésre, most kezdene vele valamit",
+        "txtlength": 21695
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vilag/20221107/elitszigetre-utaztatott-bevandorlokkal-es-trumpistakat-penzelo-demokratakkal-hangolnak-a-felidos-valasztasra-amerikaban/",
+        "h1": "Elitszigetre utaztatott bevándorlókkal és trumpistákat pénzelő demokratákkal hangolnak a félidős választásra Amerikában",
+        "txtlength": 21292
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/karrier/20221106/a-rezsikoltsegeken-mulik-minden-ez-donti-el-mi-lesz-a-home-office-szal-telen-1130500",
+        "h1": "A rezsiköltségeken múlik minden: ez dönti el, mi lesz a home office-szal télen?",
+        "txtlength": 18551
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/global/20221108/hatat-fordithat-az-egyesult-allamok-ukrajnanak-europa-szamara-is-oriasi-a-tetje-az-amerikai-felidos-valasztasoknak-577099",
+        "h1": "Hátat fordíthat az Egyesült Államok Ukrajnának? – Európa számára is óriási a tétje az amerikai félidős választásoknak",
+        "txtlength": 18121
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/megtakaritas/20221104/osi-sporolos-trukk-a-horrordragulas-ellen-azonnal-sulyos-penzek-maradhatnak-a-zsebedben-1130554",
+        "h1": "Ősi spórolós trükk a horrordrágulás ellen: azonnal súlyos pénzek maradhatnak a zsebedben",
+        "txtlength": 17719
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20221104_atv_szigorlat_krug_emilia_karasz_robert_szalai_szilard_ferencvaros_polgarmester_belfold",
+        "h1": "A liberális politikus dönti el, ki az újságíró? – Botrányosra sikerült az ATV reggeli műsora (videó)",
+        "txtlength": 17461
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/uzlet/20221108/feszulten-varjak-a-befektetok-az-esti-valasztast-577223",
+        "h1": "Feszülten várják a befektetők az esti választást ",
+        "txtlength": 16621
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/global/20221108/amerikai-valasztasok-2022-itt-van-az-5-legfontosabb-tudnivalo-577133",
+        "h1": "Amerikai választások 2022: Itt van az 5 legfontosabb tudnivaló",
+        "txtlength": 15726
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2022/11/08/az-5g-mar-nemcsak-hivoszo-hanem-eleted-egyik-legnagyobb-lehetosege",
+        "h1": "AZ 5G MÁR NEMCSAK HÍVÓSZÓ, HANEM ÉLETED EGYIK LEGNAGYOBB LEHETŐSÉGE",
+        "txtlength": 14209
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/gyerek/apaszabadsag-2023/",
+        "h1": "Apaszabadság: nem megyünk sokra a plusz 5 nappal jövőre",
+        "txtlength": 10000
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kulfold/2022/11/08/felidos-valasztas-amerikai-gazdasag-joe-biden-benzinar-olaj-inflacio-ukrajna-realber-repbulikanusok",
+        "h1": "Az amerikaiakat elkezdte zavarni a jogfosztás, de a végén a benzinár fontosabb lett",
+        "txtlength": 24488
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/tech/2022/11/08/aremelkedes-a-toltoknel-az-ingyenes-parkolas-eltorlese-a-valsag-megakaszthatja-a-villanyautozas-terjedeset",
+        "h1": "Áremelkedés a töltőknél, az ingyenes parkolás eltörlése: a válság befékezheti a villanyautózás terjedését",
+        "txtlength": 22070
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kultura/2022/11/07/the-killing-of-a-journalist-jan-kuciak-ujsagiro-gyilkossag-dokumentumfilm/",
+        "h1": "Egy oknyomozó újságíró kivégzése kellett ahhoz, hogy a korrupt politikai elit láthatóvá váljon",
+        "txtlength": 16055
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20221108_igazsagszolgaltatas_europai_bizottsag_kuria_reform_rrf_obt",
+        "h1": "A bíróságokról is visszavonulót fúj a kormány, hogy megkapja az uniós pénzeket",
+        "txtlength": 15066
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2022/11/08/rakay-philip-fidesz-ner-ingatlan-milliardos-vagyon-balaton-racalmas-fovaros-xii-kerulet/",
+        "h1": "Leltárba vettük Rákay Philip milliárdos ingatlanvagyonát",
+        "txtlength": 14776
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/fn/gazdasag/2022/11/08/nyugdij-nyugdijemeles-12-ezer-forint-plusz-varga-mihaly-kormany/",
+        "h1": "Bő 12 ezer forintot jelent idén egy átlagnyugdíjasnak, hogy a kedvezőbb nyugdíjemelést alkalmazzák",
+        "txtlength": 12923
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/11/08/ruszkik-kaosz-banan",
+        "h1": "Ruszkik, káosz, banán",
+        "txtlength": 12634
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/tamogatott-tartalom/2022/11/08/berlin-turizmus-300-hektar-tempelhof-nemet-turisztikai-hivatal",
+        "h1": "Berlin közepén van egy 300 hektáros üres terület, amit tilos beépíteni, de mindenki használhatja",
+        "txtlength": 11733
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/11/07/az-orszaggyules-kulugyi-bizottsaga-elitelte-a-munkacsi-turulszobor-eltavolitasat",
+        "h1": "Az Országgyűlés külügyi bizottsága elítélte a munkácsi turulszobor eltávolítását",
+        "txtlength": 11127
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/tudomany/20221108_PTE_AOK_rontgen_radiologia_diagnosztika",
+        "h1": "Egy véletlennek köszönhetjük a röntgensugár létrejöttét",
+        "txtlength": 10523
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/tudomany/20221108_Europa_tortenelem_video_haboruk",
+        "h1": "Biliárdjátszmaként elevenednek meg előttünk az elmúlt 500 év európai konfliktusai",
+        "txtlength": 10522
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/haziorvos-praxis-pedofil-szexragadozo/9ztz8er",
+        "h1": "Ki érti ezt? Amerikában elítélték, itthon praktizálhatott - Meztelen gyerekek fotóival bukott le a pedofil háziorvos",
+        "txtlength": 8479
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/varga-zoltan-central-mediacsoport-koltsegvetesi-csalas-gyanusitas/dy1epds",
+        "h1": "A NAV költségvetési csalással gyanúsítja Magyarország egyik leggazdagabb emberét",
+        "txtlength": 8145
+    },
+    {
         "hostname": "kulturpart.hu",
         "pagelink": "https://kulturpart.hu/2022/11/04/itt_az_olasz_filmfesztival",
         "h1": "ITT AZ OLASZ FILMFESZTIVÁL!",
