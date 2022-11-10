@@ -1,5 +1,185 @@
 [
     {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/sajtos-sult-kacsamaj.recept",
+        "h1": "SAJTOS SÜLT KACSAMÁJ",
+        "txtlength": 10810
+    },
+    {
+        "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/vadasz-nokedli",
+        "h1": "Vadász-nokedli",
+        "txtlength": 9417
+    },
+    {
+        "hostname": "hataratkelo.blog.hu",
+        "pagelink": "https://hataratkelo.blog.hu/2022/11/05/kofal_tragikus_elete#c41643242",
+        "h1": "Kőfal tragikus élete",
+        "txtlength": 54635
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20221109_dmitrij_medvegyev_oroszorszag",
+        "h1": "Visszatért és nem kíméli Oroszország ellenlábasait – mi történik Dmitrij Medvegyevvel?",
+        "txtlength": 31102
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/karrier/20221109/a-covidnal-joval-brutalisabb-valsag-johet-a-futes-lecsavarasa-nem-lesz-eleg-a-tuleleshez-1130707",
+        "h1": "A Covidnál jóval brutálisabb válság jöhet: a fűtés lecsavarása nem lesz elég a túléléshez",
+        "txtlength": 29028
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/biztositas/20221108/a-biztositasi-dijakat-sem-keruli-el-a-horrorinflacio-hogy-mi-lesz-harom-ev-mulva-az-a-joslas-kategoria-1130639",
+        "h1": "A biztosítási díjakat sem kerüli el a horrorinfláció: hogy mi lesz három év múlva, az a jóslás kategória",
+        "txtlength": 28260
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vilag/20221109/amerika-elkezdett-tuzszunetrol-beszelni-az-ukranoknak-herszon-felszabaditasa-utan-talan-valodi-targyalasok-johetnek/",
+        "h1": "Amerika elkezdett tűzszünetről beszélni az ukránoknak, Herszon felszabadítása után talán valódi tárgyalások jöhetnek",
+        "txtlength": 22735
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/kozelet/20221110/miniszter-meg-nem-mondott-le-ugy-az-orban-rendszerben-mint-most-palkovics-laszlo/",
+        "h1": "Miniszter még nem mondott le úgy az Orbán-rendszerben, mint most Palkovics László",
+        "txtlength": 19014
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20221109_minority_safepack_eu_birosag",
+        "h1": "Megint ejtette az őshonos kisebbségek ügyét az Európai Unió",
+        "txtlength": 18223
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20221109_kulfold_ukrajna_oroszorszag_haboru_brusszel_eu_szankciok_ursula_von_der_leyen_charles_michel_gal_kinga_cseh_katalin",
+        "h1": "Súlyos pénzeket fizetünk a fűtésért, de Ursula von der Leyen nem aggódik a tél miatt",
+        "txtlength": 17380
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20221110/nincs-nagy-baj-a-magyar-devizatartalekkal-de-nem-art-az-ovatossag-577920",
+        "h1": "Nincs nagy baj a magyar devizatartalékkal, de nem árt az óvatosság",
+        "txtlength": 17200
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.penzcentrum.hu/vasarlas/20221110/fontos-valtozas-elesedett-a-dm-uzletekben-ennek-rengeteg-vasarlo-fog-orulni-1130780",
+        "h1": "Fontos változás élesedett a dm üzletekben: ennek rengeteg vásárló fog örülni",
+        "txtlength": 15200
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/global/20221110/a-haboru-eddigi-legnagyobb-kudarcat-szenvedte-el-oroszorszag-belathatatlan-kovetkezmenyekkel-nezhetunk-szembe-577862",
+        "h1": "A háború eddigi legnagyobb kudarcát szenvedte el Oroszország – Beláthatatlan következményekkel nézhetünk szembe",
+        "txtlength": 15093
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2022/11/07/a-kozmunka-atok-is-aldas-is-de-az-biztos-hogy-aranyaiban-a-vilagon-sehol-nem-koltenek-ra-annyit-mint-magyarorszagon",
+        "h1": "A KÖZMUNKA ÁTOK IS, ÁLDÁS IS, DE AZ BIZTOS, HOGY ARÁNYAIBAN A VILÁGON SEHOL NEM KÖLTENEK RÁ ANNYIT, MINT MAGYARORSZÁGON",
+        "txtlength": 11242
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/gyerek/ingyen-kommunikaciot-fejleszto-jatekok/",
+        "h1": "Ingyenes, fejleszti a kommunikációt, és garantáltan jó móka: 3 játék szülőknek és gyerekeknek",
+        "txtlength": 10633
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/testem/szem-szin-megvaltozas/",
+        "h1": "szem szín megváltozás",
+        "txtlength": 10217
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/lajfhekk/dianas-cukorka/",
+        "h1": "dianás cukorka",
+        "txtlength": 8764
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/direkt36/2022/11/10/az-orosz-kemfonok-fia-magyar-lakcimet-kapott-meghozza-rogan-regi-jobaratjanak-ceges-ingatlanaban",
+        "h1": "Az orosz kémfőnök fia magyar lakcímet kapott. Méghozzá Rogán régi jóbarátjának céges ingatlanában",
+        "txtlength": 20292
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/belfold/2022/11/10/traffipax-rendorseg-gyorshajtas-birsag-sebessegmeres-sebessegkorlatozas",
+        "h1": "Egy percen belül kétszer traffipaxozták le: duplázza a bírságokat a rendőrség?",
+        "txtlength": 17042
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/gazdasag/20221109_krumplileves_tojassal_receptek",
+        "h1": "Így lesz a krumplileves krumplileves: receptek nagyszüleink konyhájából árfixált krumplival és tojással",
+        "txtlength": 16823
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/fn/gazdasag/2022/11/09/podcast-della-rasko-gyorgy-elelmiszer-arak-arstop-tojas-kenyer-mezogazdasag-haboru/",
+        "h1": "Raskó György: Olyan terhet veszünk magunkra, amihez képest az ukrán-orosz háború terhei kismiskának számítanak",
+        "txtlength": 13918
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/ingatlan/20221109_A_NER_minden_penze_es_a_maganyos_epitesz_vityilloja_versenyez_egymassal_az_ev_legjobb_epulete_szavazason",
+        "h1": "A NER minden pénze és a magányos építész vityillója versenyez egymással az év legjobb épülete szavazáson",
+        "txtlength": 13820
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kulfold/2022/11/10/orosz-ukran-haboru-261-nap-hirfolyam",
+        "h1": "Washington szerint 100 ezer katonát veszíthettek az oroszok, Kijev még nem hisz a herszoni kivonulásában",
+        "txtlength": 13215
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kulfold/2022/11/10/podcast-elso-kezbol-amerikai-felidei-valasztasok-desantis-trump-fetterman-biden-demokratak-republikanusok/",
+        "h1": "Ellentartott egymásnak a két nagy tábor – most (is) így működött az amerikai demokrácia",
+        "txtlength": 11595
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/sport/2022/11/09/liu-shaolin-sandor-liu-shaoang-gyorskorcsolya-orszagvaltas-kosa-lajos/",
+        "h1": "Kósa Lajos többször tárgyalt a Liu testvérekkel, de nem tudta őket maradásra bírni",
+        "txtlength": 10421
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/11/10/amerika-becslese-szerint-200-ezer-aldozata-lehet-az-ukrajnai-habornak",
+        "h1": "Amerika becslése szerint 200 ezer áldozata lehet az ukrajnai háborúnak",
+        "txtlength": 10053
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20221110_Gulyas_idohuzas_NATOcsatlakozas_tarsadalmi_vita_Brusszel",
+        "h1": "Gulyás lényegében elismerte, hogy csak időhúzásra jó a NATO-csatlakozás ügyében a társadalmi vita, de ez is Brüsszel miatt van",
+        "txtlength": 9846
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/krimi/osszefogott-ugyesz-tolmacs-lenyultak-dollarmama-600-millios-orokseg/tk9mlve?sl_ps=d_9",
+        "h1": "Összefogott az ügyvéd és a tolmács: lenyúlták a dollármama 600 milliós örökségét",
+        "txtlength": 9772
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/11/10/hszi-csin-ping-felszolitotta-a-kinai-hadsereget-hogy-a-haborus-felkeszulesre-koncentraljanak",
+        "h1": "Hszi Csin-ping felszólította a kínai hadsereget, hogy a háborús felkészülésre koncentráljanak",
+        "txtlength": 9672
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/ugyeszseg-kozlemeny-gyilkossag-miskolc-debrecen-bor-vadlott-betores-bantalmazas/5wxv1y7",
+        "h1": "Egyetlen üveg borért gyilkolt az alkoholista férfi – végleg kizárnák a társadalomból",
+        "txtlength": 6303
+    },
+    {
         "hostname": "hataratkelo.blog.hu",
         "pagelink": "https://hataratkelo.blog.hu/2022/11/05/kofal_tragikus_elete#c41641956",
         "h1": "Kőfal tragikus élete",
