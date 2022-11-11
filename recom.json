@@ -1,5 +1,173 @@
 [
     {
+        "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/dios-kremes-sutemeny",
+        "h1": "Diós krémes sütemény",
+        "txtlength": 11002
+    },
+    {
+        "hostname": "kulturpart.hu",
+        "pagelink": "https://kulturpart.hu/2022/11/07/jonnek_a_lengyel_jazz_nagyjai",
+        "h1": "JÖNNEK A LENGYEL JAZZ NAGYJAI!",
+        "txtlength": 8471
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20221110_nem_lett_eros_momentum_trump_szamara_a_felidos_valasztas_martonffy_balazs_es_baranyi_tamas_elemzese_a_mandineren",
+        "h1": "Nem lett erős momentum Trump számára a félidős választás – Mártonffy Balázs és Baranyi Tamás elemzése a Mandineren",
+        "txtlength": 22626
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20221111/el-kell-menni-a-falig-az-energiatakarekossagban-windisch-laszlo-mindenkinek-uzent-578044",
+        "h1": "El kell menni a falig az energiatakarékosságban - Windisch László mindenkinek üzent",
+        "txtlength": 22585
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20221109_taylor_swift_zene_portre",
+        "h1": "Árja istennőségtől a szivárványszínekig – Taylor Swift a csúcsra ért",
+        "txtlength": 22307
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/egeszseg/20221110/szornyu-veszelyben-van-tobb-millio-magyar-mentalis-osszeroppanast-is-okozhat-a-horrorinflacio-1130792",
+        "h1": "Szörnyű veszélyben van több millió magyar: mentális összeroppanást is okozhat a horrorinfláció",
+        "txtlength": 19930
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/global/20221111/kegyetlen-kepet-fest-a-megszallt-herszonrol-a-kalandos-uton-elmenekulo-ukran-par-578028",
+        "h1": "Kegyetlen képet fest a megszállt Herszonról a kalandos úton elmenekülő ukrán pár",
+        "txtlength": 19670
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20221110_szavazas_felidos_valasztas_egyesult_allamok",
+        "h1": "Ezért számolják még mindig az amerikaiak a voksokat",
+        "txtlength": 19280
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/penz/20221110/az-utcan-soportek-a-pengot-amikor-ennel-is-magasabb-volt-az-elelmiszer-inflacio/",
+        "h1": "Az utcán söpörték a pengőt, amikor ennél is magasabb volt az élelmiszer-infláció",
+        "txtlength": 18017
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vallalat/20221108/hiaba-a-magyar-csodavaras-a-sokkoloan-magas-energia-es-nyersanyagarak-evtizede-jon/",
+        "h1": "Hiába a magyar csodavárás, a sokkolóan magas energia- és nyersanyagárak évtizede jön",
+        "txtlength": 17559
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/egeszseg/20221109/kiderult-a-nagy-ginkgo-biloba-titok-megeri-marekszam-szedni-a-meregdraga-tablettakat-1130534",
+        "h1": "Kiderült a nagy Ginkgo biloba titok: megéri marékszám szedni a méregdrága tablettákat?",
+        "txtlength": 16363
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/global/20221111/csapdara-gyanakodnak-az-ukranok-mikozben-oroszorszag-modern-tortenete-legsulyosabb-vereseget-szenvedi-el-haborus-hireink-penteken-578120",
+        "h1": "Csapdára gyanakodnak az ukránok, miközben Oroszország modern története legsúlyosabb vereségét szenvedi el - Háborús híreink pénteken ",
+        "txtlength": 15298
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2022/11/11/ki-az-igazan-szegeny-es-merre-bujkalnak-a-legvagyonosabb-magyarok",
+        "h1": "KI AZ IGAZÁN SZEGÉNY, ÉS MERRE BUJKÁLNAK A LEGVAGYONOSABB MAGYAROK?",
+        "txtlength": 11482
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/kapcsolat/erzelmek-felismerese/",
+        "h1": "Könnyebb a határhúzás, kevésbé érdekel majd mások véleménye: 5 ok, amiért fontos megérteni az érzéseket",
+        "txtlength": 10267
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/szuloseg/szabaly-vasarlas-gyerek/",
+        "h1": "szabály vásárlás gyerek",
+        "txtlength": 9825
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/gazdasag/2022/11/11/elelmiszer-dragulas-magyarorszagi-inflacio-miert-a-legnagyobb-europaban-penzromlas-arstopok-gyenge-termelekenyseg",
+        "h1": "Árstopok ide vagy oda, az egész EU-t verjük az ételek drágulásában. De miért?",
+        "txtlength": 27969
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2022/11/11/polgari-korok-tortenete-fidesz-orban-viktor-hende-csaba-pesti-imre/",
+        "h1": "Amikor Orbán lement vidékre: így formálták át a Fideszt a polgári körök",
+        "txtlength": 26646
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/tech/2022/11/11/kreta-adatszivargas-forraskod-ekreta-zrt-fejlesztok-elvandorlas",
+        "h1": "KRÉTA-ügy: Aggasztó a kiszivárgott forráskód, de arra utal, hogy a hekkerek nem mindenhez fértek hozzá",
+        "txtlength": 22989
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/gazdasag/20221111_kozlony_rendelet",
+        "h1": "Nyolc alkalom, amikor az éjszaka közepén hirdette ki a kormány, hogyan változtat az életünkön",
+        "txtlength": 15005
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2022/11/11/palkovics-laszlo-lantos-csaba-miniszter-lemondas-harom-napi-munka-energetika/",
+        "h1": "Palkovics László lába alól elfogyott a talaj, „három napi munkáért” nem vállalta tovább a miniszterséget",
+        "txtlength": 14403
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/belfold/2022/11/11/roszke-hataror-penzugyor-korrupcio-szeged",
+        "h1": "A kenőpénzeket felrolnizták, és egy cukrászdában, névre szólóan osztották ki a szegedi vámosoknak",
+        "txtlength": 13611
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/11/11/brusszelt-zsaroljuk-de-putyinnak-is-teszunk-egy-szivesseget",
+        "h1": "Brüsszelt zsaroljuk, de Moszkvának is teszünk egy szívességet",
+        "txtlength": 12238
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/brandcontent/20221110_Digitalis_transzformacio_amit_erdemes_elkerulni_es_amit_nem_szabad_kihagyni",
+        "h1": "Digitális transzformáció: amit érdemes elkerülni és amit nem szabad kihagyni",
+        "txtlength": 11420
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20221111_titkos_kinai_rendorallomasok_jing_jie_chen_safeguard_defenders",
+        "h1": "„Akár kínai származású magyarokat is célba vehetnek a titkos kínai rendőrőrsök emberei”",
+        "txtlength": 11254
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kulfold/2022/11/11/orosz-ukran-haboru-herszon-hadsereg-zelenszkij-putyin-november-11/",
+        "h1": "Bejelentette Oroszország, hadserege visszavonult Herszonból ",
+        "txtlength": 10953
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/11/11/a-bahama-szigeteki-hatosagok-befagyasztottak-a-valsagba-kerult-kriptoorias-ftx-eszkozeit",
+        "h1": "A Bahama-szigeteki hatóságok befagyasztották a válságba került kriptoóriás FTX eszközeit",
+        "txtlength": 10706
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/krimi/teri-mama-mergezte-hitelezoit-kave-gyonyor-terez/x8vqkps",
+        "h1": "10 embert mérgezett meg Teri mama: biztosítási ügynökként vadászott áldozataira – Megszólalt a Blikknek egy túlélő",
+        "txtlength": 9037
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/kulfold/budapest-bamako-rally-tragedia-meghalt-versenyzo-petery-sandor/mkcmlvf",
+        "h1": "Tragédia a Budapest–Bamako Rallyn, gyászol a magyar csapat: „Hiányozni fogsz, Sanyi”",
+        "txtlength": 6306
+    },
+    {
         "hostname": "mindmegette.hu",
         "pagelink": "https://www.mindmegette.hu/sajtos-sult-kacsamaj.recept",
         "h1": "SAJTOS SÜLT KACSAMÁJ",
