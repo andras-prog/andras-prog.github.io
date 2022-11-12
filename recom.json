@@ -1,5 +1,173 @@
 [
     {
+        "hostname": "kiszamolo.hu",
+        "pagelink": "https://kiszamolo.hu/a-legszegenyebbek-penzugyei/",
+        "h1": "A legszegényebbek pénzügyei",
+        "txtlength": 41144
+    },
+    {
+        "hostname": "kulturpart.hu",
+        "pagelink": "https://kulturpart.blog.hu/2022/11/11/kamasztanchaz_zarja_a_hettorony_fesztivalt",
+        "h1": "KAMASZTÁNCHÁZ ZÁRJA A HÉTTORONY FESZTIVÁLT",
+        "txtlength": 7058
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20221109_interju_vecsei_h_miklos",
+        "h1": "„Nem oldalakban és pártokban, hanem témákban hiszek” – Vecsei H. Miklós a Mandinernek",
+        "txtlength": 29943
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20221109_kozelet_gyurcsany_baloldal",
+        "h1": "Térfoglalás a baloldalon – Gyurcsány színfoltból újra tényező lett",
+        "txtlength": 27497
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20221112_toldi_rajzfilm_csakovics_lajos",
+        "h1": "„Nagyon is megfogja a Toldi a mai gyerekeket” – Csákovics Lajos társrendező a Mandinernek",
+        "txtlength": 25231
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/vasarlas/20221111/jol-jonne-a-plusz-penz-karacsony-elott-ezt-a-10-dolgot-most-konnyen-jo-aron-eladhatod-1130728",
+        "h1": "Jól jönne a plusz pénz karácsony előtt? Ezt a 10 dolgot most könnyen, jó áron eladhatod",
+        "txtlength": 22493
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/uzlet/20221112/hamarosan-eldol-ki-birtokolja-majd-az-internetet-vajon-mindannyian-kaphatunk-majd-egy-szeletet-a-vilaghalobol-577988",
+        "h1": "Hamarosan eldől, ki birtokolja majd az internetet: vajon mindannyian kaphatunk majd egy szeletet a világhálóból?",
+        "txtlength": 21089
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/nyugdij/20221110/horror-amivel-a-boltokban-szembesulnek-az-idosek-letszukseg-lehet-a-nyugdijemeles-1130745",
+        "h1": "Horror amivel a boltokban szembesülnek az idősek: létszükség lehet a nyugdíjemelés",
+        "txtlength": 20395
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vilag/20221111/nem-segitettek-a-nyugdijas-koru-tankok-az-oroszokon-de-most-jon-a-neheze-az-ukranok-szamara/",
+        "h1": "Nem segítettek a nyugdíjas korú tankok az oroszokon, de most jön a neheze az ukránok számára",
+        "txtlength": 19923
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/uzlet/20221111/megint-beboritottak-a-kriptokat-de-a-tozsdeken-jo-volt-a-hangulat-578142",
+        "h1": "Megint beborították a kriptókat, de a tőzsdéken jó volt a hangulat ",
+        "txtlength": 18513
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/global/20221111/megjott-az-ukranok-mesterterve-igy-mentenek-meg-a-totalis-gazdasagi-osszeomlastol-a-haboru-sujtotta-orszagot-578340",
+        "h1": "Megjött az ukránok mesterterve: így mentenék meg a totális gazdasági összeomlástól a háború sújtotta országot",
+        "txtlength": 17342
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vilag/20221112/harmadik-nagy-sikeret-aratta-az-ukran-hadsereg-herszon-felszabaditasaval/",
+        "h1": "Harmadik nagy sikerét aratta az ukrán hadsereg Herszon felszabadításával",
+        "txtlength": 17307
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2022/11/11/a-tomeges-bankcsodoket-es-a-bankpanikot-mar-el-tudjuk-kerulni-ezert-jart-iden-a-kozgazdasagi-nobel-dij",
+        "h1": "A TÖMEGES BANKCSŐDÖKET ÉS A BANKPÁNIKOT MÁR EL TUDJUK KERÜLNI – EZÉRT JÁRT IDÉN A KÖZGAZDASÁGI NOBEL-DÍJ",
+        "txtlength": 13792
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/kapcsolat/kozepkor-nok-siker/",
+        "h1": "Nem csak feleségek és alkalmazottak voltak: a középkorban a nők néha sikert értek el",
+        "txtlength": 11917
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/szuloseg/gyerek-tegezes/",
+        "h1": "gyerek tegezés",
+        "txtlength": 9425
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://rangado.24.hu/nemzetkozi_foci/2022/11/11/vb-tortenet-1994-brazilia-egyesult-allamok/",
+        "h1": "Még a senkik is futballistennek érezhették magukat – ismeretlenek segítették a brazilokat világbajnoki címhez",
+        "txtlength": 20884
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/kultura/20221111_kovats_adel_interju_affrikata_kovats_adel_lanya_rozi_betegseg",
+        "h1": "Kováts Adél: Sokszor meg lehet élni, hogy ez nem sikerült, nem vagyok tökéletes anya",
+        "txtlength": 20328
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20221112_Minisztercserek_Orbankormanyok",
+        "h1": "Az első ciklusban még nagy volt a jövés-menés, de 2010 óta az Orbán-kormányokból nem divat csak úgy lelépni",
+        "txtlength": 17729
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/kkv/20221112_sotet_minta_ey_fogyasztovedelem_gvh",
+        "h1": "Meddig érdemes lefelé görgetni a webshopnál, tényleg minden pipát be kell x-elni? - így kerülhetjük el, hogy átverjenek minket a nagy akcióknál",
+        "txtlength": 17251
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kultura/2022/11/12/ismeretlen-budapest-felujitas-retek-utca-24-medgyaszay-istvan-szalka-jakab-marton-akos-epiteszettortenet-epiteszet/",
+        "h1": "Korábban bontásra ítélték, most azonban felújítanak egy budai szecessziós társasházat",
+        "txtlength": 16945
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/gazdasag/2022/11/11/orban-viktor-sulyos-dilemmakkal-szembesul-palkovics-laszlo-lemondasa-utan-vajon-erkezik-lantos-csaba",
+        "h1": "Palkovics távozása zavart okozott: Lantos Csaba lehet az utód, de nem biztos, hogy lesz új minisztérium",
+        "txtlength": 16283
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/belfold/2022/11/11/palkovics-laszlo-miniszter-lemondas-ciklus-kozben-hende-csaba-fellegi-tamas-rethelyi-miklos",
+        "h1": "Hendét lecseszte Orbán, Fellegi előremenekült, de távozó miniszterek soha nem kerültek szembe a kormányfővel",
+        "txtlength": 16241
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/eletmod/2022/11/11/alkoholizmus-magasan-funkcionalo-alkoholista-felepulo-fuggo-munkahely",
+        "h1": "Nem vagyok függő, én nem a kocsmában iszom",
+        "txtlength": 14595
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/fn/gazdasag/2022/11/12/nyugdijpremium-2022-nyugdij-nyugdijasok-rezsitamogatas/",
+        "h1": "45 milliárd forinttal karcsúbb lesz a nyugdíjprémium, mint amennyit a kormány eredetileg rászánt",
+        "txtlength": 14335
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/krimi/lederer-gusztav-gyilkossag-pronay-kulonitmeny-hentes/s36zxzx",
+        "h1": "Léderer Gusztáv főhadnagy feldarabolta és bőröndbe rejtette a holttestet: lebukott, kiderült a többi kegyetlen gyilkossága is",
+        "txtlength": 11231
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/11/11/kivegezhetik-a-mahsa-amini-halala-ellen-tiltakozo-rappert",
+        "h1": "Kivégezhetik a Mahsa Amini halála ellen tiltakozó rappert",
+        "txtlength": 11134
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/krimi/charles-manson-gyilkossagok-popkultura/vhjvke6",
+        "h1": "Charles Manson: a szektavezér, aki évtizedek óta lázban tartja Hollywoodot",
+        "txtlength": 11132
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/11/11/baranyi-krisztina-szerint-karasz-robert-hazudik-pontosan-ugy-csusztat-es-torzit-mint-a-szennymedia-propagandistai",
+        "h1": "Baranyi Krisztina szerint Kárász Róbert hazudik, „pontosan úgy csúsztat és torzít, mint a szennymédia propagandistái”",
+        "txtlength": 10462
+    },
+    {
         "hostname": "nosalty.hu",
         "pagelink": "https://www.nosalty.hu/recept/dios-kremes-sutemeny",
         "h1": "Diós krémes sütemény",
