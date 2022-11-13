@@ -1,5 +1,167 @@
 [
     {
+        "hostname": "kulturpart.hu",
+        "pagelink": "https://kulturpart.blog.hu/2022/11/05/ok_kaptak_a_nemzet_muvesze_elismerest",
+        "h1": "ŐK KAPTÁK A NEMZET MŰVÉSZE ELISMERÉST",
+        "txtlength": 5788
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20221114_ugysem_mered_megkerdezni_60_kerdes_deutsch_tamashoz",
+        "h1": "„Európa lassan lecsúszik a világhatalmak dobogójáról” – 60 kérdés Deutsch Tamáshoz",
+        "txtlength": 42118
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20221102_nemzeti_minimumokat_kellene_meghatarozni_l_simon_laszlo_a_mandinernek",
+        "h1": "A mai magyar baloldal nem nemzetben gondolkodik – L. Simon László a Mandinernek",
+        "txtlength": 31604
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/otthon/20221110/atlagberrel-csak-alom-a-sajat-lakas-ide-menekulnek-a-banki-szigor-elol-a-kispenzu-magyarok-1130721",
+        "h1": "Átlagbérrel csak álom a saját lakás: ide menekülnek a banki szigor elől a kispénzű magyarok",
+        "txtlength": 27406
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20221111_okoterrorizmus_keprongalas_klimavedelem_fiatalok_forradalom_kulifai_mate",
+        "h1": "Talán nem kéne hagyni, hogy a fiatalok már megint forradalmat robbantsanak ki – Kulifai Máté a Mandinernek",
+        "txtlength": 22277
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2022/11/13/hiaba-eroltetik-a-politikusok-a-tudomany-nem-igazolja-a-japan-magyar-nyelvi-vagy-genetikai-rokonsagot",
+        "h1": "HIÁBA ERŐLTETIK A POLITIKUSOK, A TUDOMÁNY NEM IGAZOLJA A JAPÁN-MAGYAR NYELVI VAGY GENETIKAI ROKONSÁGOT",
+        "txtlength": 21524
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/otthon/20221111/egyre-kevesebbet-er-a-tamogatas-folytatodik-a-lakasfelujitas-horror-magyarorszagon-1130799",
+        "h1": "Egyre kevesebbet ér a támogatás: folytatódik a lakásfelújítás-horror Magyarországon",
+        "txtlength": 20267
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/penz/20221113/magyarok-millioi-kerulnek-meg-messzebb-attol-hogy-kijojjenek-a-jovedelmukbol/",
+        "h1": "Magyarok milliói kerülnek még messzebb attól, hogy kijöjjenek a jövedelmükből",
+        "txtlength": 17337
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vallalat/20221112/a-vilag-elmezonyeben-vagyunk-egy-olyan-uzemanyag-gyartasaban-amelynek-nagy-a-zolditesi-potencialja/",
+        "h1": "A világ élmezőnyében vagyunk egy olyan üzemanyag gyártásában, amelynek nagy a zöldítési potenciálja",
+        "txtlength": 17233
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/uzlet/20221112/sajnalom-elrontottam-igy-omlott-ossze-a-vilag-egyik-legnagyobb-kriptotozsdeje-578280",
+        "h1": "\"Sajnálom, elrontottam\" - Így omlott össze a világ egyik legnagyobb kriptotőzsdéje",
+        "txtlength": 16769
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/bank/20221113/sokan-nem-kapnak-penzt-az-otleteikhez-pedig-mindenki-jol-jarna-veluk-mit-mulasztottak-el-a-bankok-578206",
+        "h1": "Sokan nem kapnak pénzt az ötleteikhez, pedig mindenki jól járna velük - mit mulasztottak el a bankok?",
+        "txtlength": 16543
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/global/20221112/a-legkorben-esett-darabjaira-eszak-korea-interkontinentalis-raketaja-mit-jelenthet-ez-a-vilagra-nezve-578272",
+        "h1": "A légkörben esett darabjaira Észak-Korea interkontinentális rakétája – mit jelenthet ez a világra nézve?",
+        "txtlength": 14738
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/hazai_sztar/gaspar-bea-konyhaja-4/",
+        "h1": "Gáspár Bea kapcsolata megváltozott Győzikével: őszintén vallott az elmúlt 5 évről",
+        "txtlength": 12454
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/szuloseg/sotetben-felni/",
+        "h1": "sötétben félni",
+        "txtlength": 9849
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kulfold/2022/11/13/oroszorszag-posztszovjet-terseg-kaukazus-orosz-erdekszfera-valsag-elemzes-orosz-ukran-haboru/",
+        "h1": "Repedezik Putyin szövetségi rendszere, mérséklődik az orosz jelenlét a befolyási övezeteikben",
+        "txtlength": 22110
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kulfold/2022/11/13/szomalia-merenylet-as-sabab-terrortamadas/",
+        "h1": "Bombák földjén – merényletek és terrorellenes műveletek Szomáliában",
+        "txtlength": 20215
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/gazdasag/2022/11/13/repoharhaboru-repohar-token-cup-revolution-bkik-munkacsoport-konfliktus",
+        "h1": "Repohárháború: a valódi döntés végül a vendéglátósok kezében lesz",
+        "txtlength": 19586
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kultura/2022/11/13/lily-ebert-fogadalma-auscwitz-konyvajanlo-matine/",
+        "h1": "„Kiskorunkban azt sem tudtuk, hogy létezik a világon antiszemitizmus, nevetséges gondolat lett volna”",
+        "txtlength": 17776
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/szorakozas/2022/11/12/jennifer-lawrence-szinesz-sztar-karrier-portre-ehezok-viadala-x-men",
+        "h1": "Az imádva gyűlölt menő csaj más emberként tér vissza Hollywoodba",
+        "txtlength": 16475
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/cegauto/20221113_fejbe_vag_es_simogat_teszten_az_1100_Nm_nyomateku_bmw_ix_m60",
+        "h1": "Fejbe vág és simogat: teszten az 1100 Nm nyomatékú BMW iX M60",
+        "txtlength": 13802
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/gazdasag/20221113_Es_akkor_tojas_krumpli_palkovics_inflacio_koltsegvetes",
+        "h1": "És akkor olcsó rakott krumplit adhatnak Palkovics búcsúbuliján",
+        "txtlength": 13241
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/kultura/20221112_egy_csaladjat_titkolo_katolikus_pap_mutat_ra_hogy_mennyire_meghaladott_a_colibatus",
+        "h1": "„A bűnöm az, hogy eddig húztam” – egy családját titkoló magyar katolikus pap mutat rá, hogy mennyire meghaladott a cölibátus",
+        "txtlength": 12775
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/11/12/hetvegi-olvasnivalok-az-osszeomlasok-hete-utan",
+        "h1": "Hétvégi olvasnivalók az összeomlások hete után",
+        "txtlength": 12739
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kulfold/2022/11/13/kulfold-egyesult-allamok-usa-felidos-valasztas-szenatus-nevada-georgia-kepviselohaz-kongresszus-catherine-cortez-masto-joe-biden-demokrata-part",
+        "h1": "A demokraták Nevadát is behúzták, megtartják többségüket a szenátusban",
+        "txtlength": 12010
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/11/13/mindennemu-szor-eltavolitasa-traktoros-legkalapaccsal-orban-stikaban-belopja-az-olimpiat-budapestre",
+        "h1": "Mindennemű szőr eltávolítása traktoros légkalapáccsal, Orbán stikában belopja az olimpiát Budapestre",
+        "txtlength": 11229
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/krimi/rehak-gizella-meggyilkolasa-balatonalmadi-papp-bernadett-szepsegkiralyno/6wl562y?sl_ps=d_11",
+        "h1": "37 késszúrással ölték meg a magyar szépségkirálynő édesanyját Balatonalmádiban",
+        "txtlength": 9496
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/budapest-biodom-vidampark-nem-keszult-el/cfmkb5t",
+        "h1": "Üresen kongó pénznyelő lett a Vidámpark helyén álló Biodóm: „Nem tehetjük meg, hogy egy üres betonteknőt fűtsünk”",
+        "txtlength": 8970
+    },
+    {
         "hostname": "kiszamolo.hu",
         "pagelink": "https://kiszamolo.hu/a-legszegenyebbek-penzugyei/",
         "h1": "A legszegényebbek pénzügyei",
