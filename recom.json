@@ -1,6 +1,180 @@
 [
     {
         "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/krumplikasa-lecsos-csirkemajjal.recept",
+        "h1": "LECSÓS CSIRKEMÁJ KRUMPLIKÁSÁVAL",
+        "txtlength": 10860
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/brownie-csokimazzal.recept",
+        "h1": "BROWNIE CSOKIMÁZZAL",
+        "txtlength": 10122
+    },
+    {
+        "hostname": "kulturpart.hu",
+        "pagelink": "https://kulturpart.hu/2022/11/13/francia_csapatok_budapesten",
+        "h1": "FRANCIA CSAPATOK BUDAPESTEN",
+        "txtlength": 5176
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20221109_a_parbeszedre_kellene_koncentralni_cser_palkovics_andras_es_nemeny_andras_a_mandinernek",
+        "h1": "Túlélés vagy zombiüzemmód? – Cser-Palkovics András és Nemény András vitáztak",
+        "txtlength": 33053
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20221115/itt-a-legujabb-hungarikum-az-arbitrazs-578586",
+        "h1": "Itt a legújabb hungarikum: az arbitrázs",
+        "txtlength": 21197
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/egeszseg/20221114/covid-influenza-rsv-tripla-jarvany-johet-ezek-a-legujabb-tunetek-1130924",
+        "h1": "Covid, influenza, RSV: tripla járvány jöhet, ezek a legújabb tünetek",
+        "txtlength": 20860
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/penz/20221113/husz-szazalek-folott-ragad-az-inflacio-fel-evig-de-mi-lesz-azutan/",
+        "h1": "Húsz százalék fölött ragad az infláció fél évig, de mi lesz azután?",
+        "txtlength": 19369
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/vallalkozas/20221113/uj-cseh-drogerialanc-tort-be-magyarorszagra-retteghetnek-a-versenytarsak-a-dm-es-a-rossmann-1130842",
+        "h1": "Új cseh drogérialánc tört be Magyarországra: retteghetnek a versenytársak, a dm és a Rossmann?",
+        "txtlength": 18731
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20220407_ep_orosz_szankciok_fidesz",
+        "h1": "EP-állásfoglalás: Teljes embargót kell bevezetni az orosz olaj-, szén-, nukleáris üzemanyag- és gázimportra",
+        "txtlength": 18584
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/szepseg/szepsegujdonsagok-osz-2022/",
+        "h1": "Serkenti a kollagéntermelést, simítja a ráncokat, érzéki és nőies illatot ad - Őszi szépségkedvenceinket mutatjuk",
+        "txtlength": 18133
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/penz/20221115/a-kamatstop-most-segit-azoknak-akik-nem-terveztek-alaposan-de-emiatt-kesobb-az-elorelatokon-is-csattan-az-ostor/",
+        "h1": "A kamatstop most segít azoknak, akik nem terveztek alaposan, de emiatt később az előrelátókon is csattan az ostor",
+        "txtlength": 18028
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/ingatlan/20221115/merre-tart-az-epitoipar-hazai-es-nemzetkozi-szakemberek-mondtak-velemenyt-578066",
+        "h1": "Merre tart az építőipar? Hazai és nemzetközi szakemberek mondtak véleményt",
+        "txtlength": 18007
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20221113_internet_reklam_bongeszes_alkalmazas_idegesseg_felhaborito_top_gyujtes",
+        "h1": "Öt idegesítő dolog internetezés közben, ami mindenkit kiakaszt",
+        "txtlength": 17337
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/uzlet/20221115/milyen-valsag-boduletes-profit-a-magyar-cegeknel-578746",
+        "h1": "Milyen válság? Bődületes profit a magyar cégeknél!",
+        "txtlength": 15996
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/szuloseg/illat-hangulat/",
+        "h1": "illat hangulat",
+        "txtlength": 12095
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2022/11/15/hivatalos-8-milliardan-vagyunk-a-foldon",
+        "h1": "HIVATALOS: 8 MILLIÁRDAN VAGYUNK A FÖLDÖN",
+        "txtlength": 10741
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/direkt36/2022/11/14/magyarorszag-gyanus-hatteru-diplomatai-is-fennakadtak-egy-nemzetkozi-ujsagirocsapat-nyomozasan",
+        "h1": "Magyarország gyanús hátterű diplomatái is fennakadtak egy nemzetközi újságírócsapat nyomozásán",
+        "txtlength": 29946
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://rangado.24.hu/nemzetkozi_foci/2022/11/14/vb-tortenet-1998-brazilia-franciaorszag-ronaldo-zidane/",
+        "h1": "„Úgy éreztük, bármikor meghalhat a pályán” – Ronaldo az életét kockáztatta Zidane legnagyobb mérkőzésén",
+        "txtlength": 21562
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kulfold/2022/11/15/8-nyolc-milliard-ember-emberiseg-tulnepesedes-nepesseg",
+        "h1": "Nyolcmilliárdan vagyunk",
+        "txtlength": 16280
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/zhvg/20221115_napelemes_palyazatok_nem_jon_a_penz",
+        "h1": "Aki már nyert a napelemes pályázaton, az is hiába várja a megígért állami támogatást",
+        "txtlength": 15792
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/gazdasag/20221115_gdp_novekedes_ksh",
+        "h1": "Itt az új adat: még szépen nőtt a harmadik negyedévben a GDP a tavalyihoz képest, de már kezd lefulladni",
+        "txtlength": 15220
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/kultura/20221114_A_korona_5_evad_Netflix_Karoly_Erzsebet_Diana_Kamilla_Fulop_tampongate",
+        "h1": "Károly király csak jól jön ki A korona legújabb évadának tampongate-jéből",
+        "txtlength": 14438
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/belfold/2022/11/15/kerdoiv-felmeres-tanarok-belugyminiszter-eredmenyek-elemzes-oktatas",
+        "h1": "Belügyminisztérium felmérése: A pedagógusok 70 százaléka szerint a fizetésük függjön a teljesítményüktől",
+        "txtlength": 13898
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/11/15/viszlat-innovacimbi-hello-energiapu",
+        "h1": "Viszlát Innovácimbi, hello Energiapu!",
+        "txtlength": 13426
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/11/15/kedd-van-matol-mindenkinek-elerheto-a-borizu-96-mindennemu-szor-eltavolitasa-traktoros-legkalapaccsal-orban-stikaban-belopja-az-olimpiat-budapestre",
+        "h1": "Kedd van, mától mindenkinek elérhető a Borízű #96: Mindennemű szőr eltávolítása traktoros légkalapáccsal, Orbán stikában belopja az olimpiát Budapestre",
+        "txtlength": 10652
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kultura/2022/11/14/bachelor-a-nagy-o-5-evad-kritika-arpa-attila-tv2/",
+        "h1": "A Nagy Ő: 19 hölgynek is sok az a férfienergia, ami Árpa Attilából árad",
+        "txtlength": 10360
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://rangado.24.hu/magyar_foci/2022/11/15/pisztoly-per-lse-tenyo-se-megye3-tartalekbajnoksag-labdarugas-foci/",
+        "h1": "Pisztolynak látszó tárgyat fogott a partjelzőre egy focista egy magyar amatőr bajnokin",
+        "txtlength": 10092
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/pleh-csarda-babel-istvan-tulajdonos-rantott-hus-szakacs-hirnev/d1y7qyf?sl_ps=d_4",
+        "h1": "„67 éves vagyok, elmondhatom, hogy az életem felét ebben a bádogházikóban töltöttem” – Az utolsó interjú Bábel Istvánnal, aki forró olajba szeletelt fokhagymával csalogatta be első vendégeit",
+        "txtlength": 9400
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/veszhelyzet/eltunt-turoczi-zora-siklosernyos-polgaror-megszolalt-az-edesanya/ynbf7x7",
+        "h1": "Tíz kilométert bolyongott a 3 fokos éjszakában az eltűnt hatéves kislány, Zóra – Megszólalt a Blikknek az édesanya: „Imába foglalom a nevét”",
+        "txtlength": 9064
+    },
+    {
+        "hostname": "mindmegette.hu",
         "pagelink": "https://www.mindmegette.hu/sutotokos-tojashabos-pite-video.recept",
         "h1": "SÜTŐTÖKÖS PITE MERINGGEL",
         "txtlength": 12182
