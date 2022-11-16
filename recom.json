@@ -1,5 +1,179 @@
 [
     {
+        "hostname": "kiszamolo.hu",
+        "pagelink": "https://kiszamolo.hu/felujitando-haz-vasarlasa/",
+        "h1": "Felújítandó ház vásárlása",
+        "txtlength": 40008
+    },
+    {
+        "hostname": "kulturpart.hu",
+        "pagelink": "https://kulturpart.hu/2022/11/16/ujra_akcioban_a_fantasztikus_negyes",
+        "h1": "ÚJRA AKCIÓBAN A FANTASZTIKUS NÉGYES",
+        "txtlength": 5634
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/kozelet/20221116/se-bolt-se-munka-se-iskola-a-legszegenyebb-magyar-telepulesen-egy-masik-jovorol-almodnak/",
+        "h1": "Se bolt, se munka, se iskola – a legszegényebb magyar településen egy másik jövőről álmodnak",
+        "txtlength": 30185
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20221114_egeszsegugy_atalakitasa_takacs_peter_javaslat_mok",
+        "h1": "Teljesen átalakítják az egészségügyi rendszert, parlament előtt a törvény",
+        "txtlength": 23820
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/megtakaritas/20221115/10-ijeszto-jel-hogy-anyagilag-pokoli-elet-var-rad-erre-figyelj-nagyon-mar-az-elso-randin-1130972",
+        "h1": "10 ijesztő jel, hogy anyagilag pokoli élet vár rád: erre figyelj nagyon már az első randin",
+        "txtlength": 22717
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/karrier/20221114/berobbant-a-berhaboru-magyarorszagon-lassan-minden-ceg-kiteriti-a-lapjait-1130843",
+        "h1": "Berobbant a bérháború Magyarországon: lassan minden cég kiteríti a lapjait",
+        "txtlength": 20674
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/global/20221116/nato-teruletre-csapodott-egy-raketa-az-ukran-erok-lohettek-ki-haborus-hireink-szerdan-579144",
+        "h1": "NATO-területre csapódott egy rakéta, az ukrán erők lőhették ki? – Háborús híreink szerdán ",
+        "txtlength": 19030
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20221116_lengyelorszag_raketa_haboru_michal_karnowski",
+        "h1": "„Tisztában vagyunk azzal, hogy egy orosz támadás is lehetséges” – lengyel lapszerkesztő a rakétás incidensről",
+        "txtlength": 18079
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20221115_orosz_ukran_haboru_kulfold_raketa_lengyelorszag_nato_oroszorszag_eszkalacio",
+        "h1": "Orosz gyártmányú rakéta csapódott be Lengyelország területén, Orbán összehívta a Védelmi Tanácsot",
+        "txtlength": 17974
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/kozelet/20221115/az-uj-miniszter-szerint-jol-meg-kell-valasztani-a-terepet-ha-politikai-hatszel-nelkul-akar-boldogulni-egy-uzletember/",
+        "h1": "Az új miniszter szerint jól meg kell választani a terepet, ha politikai hátszél nélkül akar boldogulni egy üzletember",
+        "txtlength": 17121
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/global/20221116/forro-pillanatban-csapodott-raketa-a-nato-teruletere-van-egy-nagyon-nagy-tanulsaga-a-tortenteknek-579238",
+        "h1": "Forró pillanatban csapódott rakéta a NATO területére – Van egy nagyon nagy tanulsága a történteknek",
+        "txtlength": 17015
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2022/11/16/elindult-az-artemis1-az-ember-holdra-valo-visszateresenek-foprobaja",
+        "h1": "ELINDULT AZ ARTEMIS–1, AZ EMBER HOLDRA VALÓ VISSZATÉRÉSÉNEK FŐPRÓBÁJA",
+        "txtlength": 16950
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/uzlet/20221116/raketabecsapodas-es-rendkivuli-nato-ules-mi-mozgatja-ma-a-tozsdeket-579162",
+        "h1": "Rakétabecsapódás és rendkívüli NATO-ülés - Mi mozgatja ma a tőzsdéket? ",
+        "txtlength": 16851
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/testem/egeszseges-teli-zoldseg/",
+        "h1": "egészséges téli zöldség",
+        "txtlength": 13494
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/kapcsolat/ada-blackjack/",
+        "h1": "Csak egy 25 éves nő élte túl a szibériai expedíciót - Ada Blackjack egyedül maradt a szigeten, férfi társai meghaltak",
+        "txtlength": 12794
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/szuloseg/meddoseg-kozepkor/",
+        "h1": "meddőség középkor",
+        "txtlength": 11551
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kulfold/2022/11/16/orosz-ukran-haboru-266-nap-percrol-percre-hirek-lengyelorszag-przewodow-raketa",
+        "h1": "Ukrán válság: a lengyel külügyminiszter bekérette az orosz nagykövetet, de kezet sem fogott vele",
+        "txtlength": 31557
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/elet-stilus/2022/11/15/hangoskonyv-felolvaso-onkentes-vak-latasserult-bodor-tibor-kulturalis-egyesulet/",
+        "h1": "„A Trónok harca még egy bátor jelentkezőre vár” – kik készítik a hangoskönyveket?",
+        "txtlength": 21242
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://rangado.24.hu/nemzetkozi_foci/2022/11/15/vb-tortenet-2002-csalas-byron-moreno-del-korea-olaszorszag/",
+        "h1": "„Ha megütöm, akkor kiállít a reptéren?” – heroinfutár lett az olaszokat kiejtő botránybíróból",
+        "txtlength": 21071
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kulfold/2022/11/16/lengyelorszag-raketa-becsapodas-nato-oroszorszag-ukraja-haboru/",
+        "h1": "Biden: Egy ukrán légvédelmi rakéta csapódhatott be Lengyelországban",
+        "txtlength": 20371
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/11/16/a-haboru-uj-szinte-erkezett-el",
+        "h1": "A háború új szintre érkezett el",
+        "txtlength": 13972
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kult/2022/11/16/chilton-flora-valaszuton-jatekfilm-gyermekprostitucio-emberkerekedelem",
+        "h1": "Rémisztően hiteles játékfilm mutatja meg, hogyan kerülnek a magyar lányok a gyermekprostitúcióba",
+        "txtlength": 13616
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/vilag/20221115_Lengyelorszagot_is_raketatalalat_erte_ket_ember_meghalt",
+        "h1": "Lengyelország növeli a hadsereg készültségi szintjét a keddi rakétatalálat után",
+        "txtlength": 13107
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/11/15/lengyelorszagot-es-a-baratsag-koolajvezeteket-is-raketatalalt-erte",
+        "h1": " A NATO és Lengyelország egyelőre nem Oroszországot hibáztatja",
+        "txtlength": 12717
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/tech/2022/11/16/nasa-artemis-1-holdmisszio-felloves",
+        "h1": "Fellőtték a NASA gigantikus holdrakétáját, ha nehezen is, de elindult az új holdprogram",
+        "txtlength": 12226
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/vilag/20221116_orosz_ukran_haboru",
+        "h1": "Még tart a vizsgálat, de arra gyanakodnak, hogy ukrán légvédelmi rakéta csapódhatott be Lengyelországban, összeülnek a NATO-nagykövetek – a háború hírei",
+        "txtlength": 11371
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/korhazi-agyhoz-kotoztek-petert-kaposvar-korhaz/ws0rmx3",
+        "h1": "Meztelenül kötözték az ágyhoz a súlyosan autista Pétert a kórházban: az édesanyja hiába könyörgött, hogy vegyék le a szíjat a gyermekéről",
+        "txtlength": 9517
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20221116_Pinter_javaslat_beteg_szakapolas",
+        "h1": "Pintér javaslata: Vége lesz a kórházi elfekvőknek, az új helyen biztosan fizetnie kell az ápoltnak",
+        "txtlength": 9498
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/kulfold/lengyelorszag-raketa-becsapodas-legvedelem-nato-katonai-vezetes-szakerto-orosz-ukran/5ee9086?sl_ps=d_2",
+        "h1": "Megbukott a lengyel védelmi rendszer? Ezért nem jelezte a rakétákat az ország légvédelme",
+        "txtlength": 8116
+    },
+    {
         "hostname": "mindmegette.hu",
         "pagelink": "https://www.mindmegette.hu/krumplikasa-lecsos-csirkemajjal.recept",
         "h1": "LECSÓS CSIRKEMÁJ KRUMPLIKÁSÁVAL",
