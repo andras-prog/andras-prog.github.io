@@ -1,5 +1,173 @@
 [
     {
+        "hostname": "hataratkelo.blog.hu",
+        "pagelink": "https://hataratkelo.blog.hu/2022/11/05/kofal_tragikus_elete#c41652938",
+        "h1": "Kőfal tragikus élete",
+        "txtlength": 49296
+    },
+    {
+        "hostname": "kulturpart.hu",
+        "pagelink": "https://kulturpart.blog.hu/2022/11/16/setak_a_titokzatos_hild_nyomaban",
+        "h1": "SÉTÁK A TITOKZATOS HILD NYOMÁBAN",
+        "txtlength": 5819
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20221117/orulet-elszabadult-aram-es-a-gazszamlak-ezekkel-a-rezsicsokkento-tippekkel-rengeteget-sporolhatsz-579070",
+        "h1": "Őrület, elszabadult áram- és a gázszámlák: ezekkel a rezsicsökkentő tippekkel rengeteget spórolhatsz",
+        "txtlength": 41234
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/egeszseg/20221116/kiderult-a-d-vitamin-titok-rengeteg-a-tevhit-ezt-rontjak-el-a-legtobben-a-draga-tablettak-szedesenel-1131012",
+        "h1": "Kiderült a D-vitamin titok: rengeteg a tévhit, ezt rontják el a legtöbben a drága tabletták szedésénél",
+        "txtlength": 32863
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://makronom.mandiner.hu/cikk/20221115_kereszteshadjaratot_hirdet_az_usa_akarcsak_a_kozepkori_papak",
+        "h1": "Kereszteshadjáratot hirdet az USA, akárcsak a középkori pápák",
+        "txtlength": 25051
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20221117/ez-a-rezsivalsag-mas-mint-a-hitelvalsag-de-mekkorat-ut-a-krizis-az-onkormanyzatokon-578932",
+        "h1": "Ez a rezsiválság más, mint a hitelválság - De mekkorát üt a krízis az önkormányzatokon?",
+        "txtlength": 22762
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20221117_izrael_magyarorszag_netanjahu_orban_hananya_naftali",
+        "h1": "Izraeli aktivista: Magyarország a világítótorony a sötétségben",
+        "txtlength": 20933
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vilag/20221116/magyarorszag-a-roszatomra-tett-masok-amerikaira-csereli-az-orosz-urant/",
+        "h1": "Magyarország a Roszatomra tett, mások amerikaira cserélik az orosz uránt",
+        "txtlength": 20529
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20221116_legfobb_gazdasagi_mutato_gdp_gazdasag_szakacs_daniel_szakerto",
+        "h1": "Naponta halljuk, mégis kevesek tudják, mit takar – így számoljuk ki a legfőbb gazdasági mutatót, a GDP-t",
+        "txtlength": 19928
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vallalat/20221117/hatalmasat-kaszalhatott-az-elmult-hetekben-akinek-volt-hova-tennie-a-gazt/",
+        "h1": "Hatalmasat kaszálhatott az elmúlt hetekben, akinek volt hova tennie a gázt",
+        "txtlength": 19672
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/egeszseg/20221117/oriasi-a-baj-a-magyar-gyogyszergyartasban-termekhiany-johet-nonstop-zajlik-a-valsagkezeles-1131048",
+        "h1": "Óriási a baj a magyar gyógyszergyártásban: termékhiány jöhet, nonstop zajlik a válságkezelés",
+        "txtlength": 18248
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/befektetes/20221117/megvolt-az-alja-konnyen-lehet-hogy-eppen-most-lett-vege-a-medvepiacnak-579242",
+        "h1": "Megvolt az alja? Könnyen lehet, hogy éppen most lett vége a medvepiacnak",
+        "txtlength": 16481
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/szuloseg/sziv-szimbolum/",
+        "h1": "szív szimbólum",
+        "txtlength": 10931
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2022/11/16/2050-re-egymilliard-ember-veszitheti-el-a-latasat-a-rovidlatas-miatt-es-ez-sokkal-nagyobb-problema-lesz-mint-a-covid",
+        "h1": "„2050-RE EGYMILLIÁRD EMBER VESZÍTHETI EL A LÁTÁSÁT A RÖVIDLÁTÁS MIATT, ÉS EZ SOKKAL NAGYOBB PROBLÉMA LESZ, MINT A COVID”",
+        "txtlength": 10656
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/kapcsolat/szinglik-vagy-hazasok-boldogabbak/",
+        "h1": "A szinglik vagy a házasok boldogabbak? - A szexuális elégedettséget is vizsgálták",
+        "txtlength": 10376
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kulfold/2022/11/17/oroszorszag-ukrajna-haboru-lengyelorszag-raketabecsapodas/",
+        "h1": "Folytatta a rakétatámadásokat Oroszország, órákon keresztül volt légiriadó Ukrajnában",
+        "txtlength": 17771
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/fn/gazdasag/2022/11/17/geotermikus-energia-hasznositas-kormany-tamogatas-tavfutes/",
+        "h1": "A geotermikus energia hasznosítása jó irány, feltéve, hogy nem csak propagandáról van szó",
+        "txtlength": 16621
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/gazdasag/20221117_usa_felidos_valasztas_eredmeny",
+        "h1": "A trumpizmus óriásit bukott, de Biden élete is nehezebb lesz 2024-ig",
+        "txtlength": 15396
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/kulfold/amerika-ukrajna-haboru-kapcsolat-diplomacia/t4t99d8?sl_ps=d_4",
+        "h1": "Szakadás: Amerika és Ukrajna között repedezni látszik a jó kapcsolat – Vannak, akik nem mondják ki, amit gondolnak?",
+        "txtlength": 15331
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kulfold/2022/11/16/raketa-lengyelorszag-legvedelem-ukrajna-sz-300-oroszorszag",
+        "h1": "A szovjet idők maradványai csapódtak be lengyel földön",
+        "txtlength": 13849
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kultura/2022/11/16/a-kiraly-sorozat-rtl-zambo-jimmy/",
+        "h1": "Méhkasba nyúlt az RTL a Zámbó Jimmy-sorozattal, de jól is kijöhet belőle",
+        "txtlength": 13723
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/vilag/20221116_kaiser_ferenc_legvedelmi_raketa_sz_300",
+        "h1": "Az oroszok keddi akcói is jelzik, hogy a háborúnak még messze nincs vége",
+        "txtlength": 13074
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/11/16/novemberre-osszeallt-a-gazdasagi-remalom-recesszioval-kevert-tartos-inflacio-ures-polcokkal",
+        "h1": "Novemberre összeállt a gazdasági rémálom: recesszióval kevert tartós infláció üres polcokkal",
+        "txtlength": 12292
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/11/17/raketak-es-provokatorok",
+        "h1": "Rakéták és provokátorok",
+        "txtlength": 12227
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/szorakozas/2022/11/16/tokeletes-tevesorozat-keszult-zambo-jimmy-eletebol",
+        "h1": "Tökéletes sorozat készült Zámbó Jimmy életéből, csak nem adja majd a tévé",
+        "txtlength": 11901
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20221117_gulyas_gergely_budakeszin",
+        "h1": "Ideológiai elnyomás és bolondok gyülekezete – Gulyás Gergely Budakeszin fórumozott",
+        "txtlength": 11678
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kulfold/2022/11/17/orosz-ukran-haboru-pp-267-nap",
+        "h1": "Odesszában áramszünet van, rakétával támadták Dnyiprót is",
+        "txtlength": 10725
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/alberlo-csalas-tartozas-budapest-belvaros-aramszolgaltato-botrany/nfy7j64?sl_ps=d_12",
+        "h1": "Hiába a határozat, a rendőrség is tehetetlen: nem tudták kirakni a milliókkal tartozó albérlőket a budapesti lakásból – A tulajdonos három éve küzd az igazáért",
+        "txtlength": 9213
+    },
+    {
         "hostname": "kiszamolo.hu",
         "pagelink": "https://kiszamolo.hu/felujitando-haz-vasarlasa/",
         "h1": "Felújítandó ház vásárlása",
