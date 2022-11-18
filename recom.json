@@ -1,5 +1,191 @@
 [
     {
+        "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/orchidea-szelet-0",
+        "h1": "Orchidea szelet",
+        "txtlength": 12263
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/marhahusleves-hagyomanyosan.recept",
+        "h1": "MARHAHÚSLEVES",
+        "txtlength": 10743
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/glutenmentes-churros.recept",
+        "h1": "GLUTÉNMENTES CHURROS",
+        "txtlength": 10312
+    },
+    {
+        "hostname": "hataratkelo.blog.hu",
+        "pagelink": "https://hataratkelo.blog.hu/2022/11/05/kofal_tragikus_elete#c41654490",
+        "h1": "Kőfal tragikus élete",
+        "txtlength": 51939
+    },
+    {
+        "hostname": "kulturpart.hu",
+        "pagelink": "https://kulturpart.hu/2022/11/17/rejtelyek_el_hall_ga_ta_sok_bi_zony_ta_lan_sa_gi_tenyezok",
+        "h1": "REJTÉLYEK­, EL­HALL­GA­TÁ­SOK­, BI­ZONY­TA­LAN­SÁ­GI TÉNYEZŐK­",
+        "txtlength": 9888
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/otthon/20221117/magyarok-millioi-vagjak-maguk-alatt-a-fat-csunyan-rafizethet-aki-igy-fut-2022-telen-1130702",
+        "h1": "Magyarok milliói vágják maguk alatt a fát: csúnyán ráfizethet, aki így fűt 2022 telén",
+        "txtlength": 28476
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vilag/20221117/szocialistak-a-kapuk-elott/",
+        "h1": "Szocialisták a kapuk előtt?",
+        "txtlength": 24360
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/befektetes/20221118/nem-enyhul-az-energiavalsag-brutalis-profitok-az-olajcegeknel-579556",
+        "h1": "Nem enyhül az energiaválság, brutális profitok az olajcégeknél",
+        "txtlength": 22620
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://sport.mandiner.hu/cikk/20221117_dobbenetes_nincs_valasz_kinabol_es_a_nemzetkozi_korcsolya_szovetsegtol_sem_a_liu_fiverek_orszagvaltasa_ugyeben_rajuk_marad_a_tartozas",
+        "h1": "Döbbenetes: Nincs válasz Kínából és a Nemzetközi Korcsolya Szövetségtől sem a Liu-fivérek országváltása ügyében – tényleg rájuk marad a tartozás?",
+        "txtlength": 22523
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/megtakaritas/20221116/itt-vannak-a-valodi-nullas-szamlak-neked-is-konnyen-elerheto-lehet-az-ingyenes-bankolas-tobb-bankban-is-igenyelheted-1130960",
+        "h1": "Itt vannak a valódi nullás számlák: neked is könnyen elérhető lehet ezeknél a bankoknál",
+        "txtlength": 21245
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/elet/20221118/a-magyar-allam-egyre-kevesbe-vallal-felelosseget-az-elesettekert-az-eu-viszont-erositene-a-szocialis-halot/",
+        "h1": "A magyar állam egyre kevésbé vállal felelősséget az elesettekért, az EU viszont erősítené a szociális hálót",
+        "txtlength": 19546
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20221118_haboru_orosz_nyilvanossag",
+        "h1": "„Állandó hazudozás folyik”, „lehetetlen legyőzni Ukrajnát ezekkel az eszközökkel” – kinyíltak a szájak az orosz nyilvánosságban",
+        "txtlength": 19297
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20221116_herszoni_h_arcvesztes",
+        "h1": "Herszoni (h)arcvesztés – mit és miért adnak fel az oroszok?",
+        "txtlength": 18046
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/uzlet/20221118/emelkedessel-indul-a-nap-a-tozsdeken-579772",
+        "h1": "Megérkeztek a vevők, folytatódik az emelkedés a tőzsdéken ",
+        "txtlength": 17989
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20221118/itt-a-legujabb-korlatozas-a-mol-kutakon-579848",
+        "h1": "Itt a legújabb korlátozás a Mol-kutakon",
+        "txtlength": 15191
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/egeszseg/etkezes-menopauza/",
+        "h1": "Mik azok a luxuskalóriák? A menopauza előtt álló nőknek különösen oda kell figyelniük rájuk!",
+        "txtlength": 12793
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2022/11/18/a-tarsadalom-meg-nem-keszult-fel-a-genszerkesztett-gyerekekre",
+        "h1": "A TÁRSADALOM MÉG NEM KÉSZÜLT FEL A GÉNSZERKESZTETT GYEREKEKRE",
+        "txtlength": 11569
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/szuloseg/adventi-naptar/",
+        "h1": "adventi naptár",
+        "txtlength": 9493
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/belfold/2022/11/18/sztrajk-tuntetes-tanarok-diakok-szulok-oktatas-szakszervezetek-pedagogusok-elolanc",
+        "h1": "Az élőláncok után országszerte sztrájkolnak a tanárok",
+        "txtlength": 18471
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/tudomany/2022/11/18/magyarorszag-covid-utan-felmeres-helyzet",
+        "h1": "A járványok után a háborúktól tartunk leginkább, a lezárás alatt nem is romlottak sokat a kapcsolatok",
+        "txtlength": 18272
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/gazdasag/20221118_Egy_eve_doglodik_a_kormany_arstopjainak_allatorvosi_lova_a_benzinarstop",
+        "h1": "Árokszélen hagyott kisbenzinkutak, áruhiány, uniós eljárás: egy éve döglődik a benzinárstop",
+        "txtlength": 16874
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kulfold/2022/11/18/szlovenia-elnokvalasztas-natasa-pirc-musar-szabadsag-mozgalom/",
+        "h1": "Orbánozás is segítette a szlovén elnöknő választási győzelmét",
+        "txtlength": 16072
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/fn/gazdasag/2022/11/17/jaksity-gyorgy-kripto-gazdasag-gazdasagtortenet-csalasok/",
+        "h1": "Jaksity György a kriptopénzvilágról: A modern agy esete a pénzügyi csalások évezredes hagyományával",
+        "txtlength": 14498
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/szorakozas/2022/11/17/biztos-hogy-kitor-majd-a-botrany-az-rtl-uj-sorozata-miatt-a-kerdes-csak-hogy-miert-buzizva-ciganyozva-noket-verve-is-lehet-erzekenyiteni-az-rtl-uj-sorozata-szerint-egy-transznemu-lekoltozik-falura",
+        "h1": "Buzizva, cigányozva, nőket verve is lehet érzékenyíteni?",
+        "txtlength": 14164
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/fn/gazdasag/2022/11/18/tankolas-videki-benzinkutak-mol-ellatasi-stop-uzemanyagarstop/",
+        "h1": "Egri Gábor: Mindenkinek sok sikert kívánunk a jövő heti tankoláshoz",
+        "txtlength": 13603
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/gazdasag/20221118_kezdo_vallalkozas_startup_novekedes",
+        "h1": "Toporgásra számíthatnak a startupok a finanszírozásban, de a válságos helyzetben is adódhat kiugrási lehetőség",
+        "txtlength": 13402
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/11/18/212-darab-egyenkent-50-ezer-forint-eszmei-erteku-vedett-kecskerakot-szabaditottak-ki-budapest-leghiresebb-kinai-szupermaketjebol",
+        "h1": "212 darab, egyenként 50 ezer forint eszmei értékű, védett kecskerákot szabadítottak ki Budapest leghíresebb kínai szupermaketjéből",
+        "txtlength": 13139
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/11/18/egy-csesze-kavemese-egyedi-tervezesu-kave-cimkek-melyek-magukba-suritenek-egy-egesz-tortenetet",
+        "h1": "Egy csésze kávémese - egyedi tervezésű kávé címkék, melyek magukba sűrítenek egy egész történetet",
+        "txtlength": 12055
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/eurologus/20221117_Az_Europai_Parlament_szerint_egyertelmu_nem_kaphat_unios_penzt_Magyarorszag",
+        "h1": "Az Európai Parlament szerint egyértelmű: nem kaphat uniós pénzt Magyarország",
+        "txtlength": 11522
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/krimi/kinyomtak-picasso-szemet-brutalis-rablas-szekesfehervar/nr41008?sl_ps=d_11",
+        "h1": "Öt brutális rabló támadt Lászlóra Székesfehérváron: egy szál cigiért nyomták ki a szemét",
+        "txtlength": 9415
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/alberlo-csalas-tartozas-budapest-belvaros-aramszolgaltato-botrany/nfy7j64",
+        "h1": "Hiába a határozat, a rendőrség is tehetetlen: nem tudták kirakni a milliókkal tartozó albérlőket a budapesti lakásból – A tulajdonos három éve küzd az igazáért",
+        "txtlength": 9280
+    },
+    {
         "hostname": "hataratkelo.blog.hu",
         "pagelink": "https://hataratkelo.blog.hu/2022/11/05/kofal_tragikus_elete#c41652938",
         "h1": "Kőfal tragikus élete",
