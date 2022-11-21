@@ -1,5 +1,173 @@
 [
     {
+        "hostname": "hataratkelo.blog.hu",
+        "pagelink": "https://hataratkelo.blog.hu/2022/11/05/kofal_tragikus_elete",
+        "h1": "Kőfal tragikus élete",
+        "txtlength": 42552
+    },
+    {
+        "hostname": "kulturpart.hu",
+        "pagelink": "https://kulturpart.blog.hu/2022/11/19/szeretni_minel_tobbet",
+        "h1": "SZERETNI, MINÉL TÖBBET",
+        "txtlength": 12527
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20221120/horror-arak-jottek-a-boltokba-itt-a-dragulasi-toplista-580076",
+        "h1": "Horror árak jöttek a boltokba - Itt a drágulási toplista!",
+        "txtlength": 29451
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20221121/nyolc-honap-alatt-megterul-egy-muegyetemi-mernokhallgato-tanulmanyainak-allami-finanszirozasa-579412",
+        "h1": "Nyolc hónap alatt megtérül egy műegyetemi mérnökhallgató tanulmányainak állami finanszírozása",
+        "txtlength": 27556
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/adat/20221120/sok-az-ellentmondas-az-utepitesre-forditott-unios-tamogatasok-ertekelesei-korul/",
+        "h1": "Sok az ellentmondás az útépítésre fordított uniós támogatások értékelései körül",
+        "txtlength": 26362
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20221116_john_j_mearsheimer_interju",
+        "h1": "Amerika belehajszolja az oroszokat Peking karjaiba – John J. Mearsheimer a Mandinernek",
+        "txtlength": 25204
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/otthon/20221120/sotet-jovot-josolnak-a-hazai-gasztronomianak-orokre-bucsut-mondhatunk-az-ettermezesnek-1131104",
+        "h1": "Sötét jövőt jósolnak a hazai gasztronómiának: örökre búcsút mondhatunk az éttermezésnek?",
+        "txtlength": 25080
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vilag/20221121/mar-a-haztartasi-gepeket-is-feltik-az-orosz-hadseregtol/",
+        "h1": "Már a háztartási gépeket is féltik az orosz hadseregtől ",
+        "txtlength": 24474
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2022/11/21/a-barataink-a-ferjemet-patkanynak-arulonak-hivjak-a-nagyobbik-fiam-annyira-rettegett-hogy-elkezdett-ujra-bepisilni",
+        "h1": "A BARÁTAINK A FÉRJEMET PATKÁNYNAK, ÁRULÓNAK HÍVJÁK, A NAGYOBBIK FIAM ANNYIRA RETTEGETT, HOGY ELKEZDETT ÚJRA BEPISILNI",
+        "txtlength": 23886
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20221121_radio_streaming_zene_toplista",
+        "h1": "Mit hallgat valójában a magyar? – teljesen eltér a rádiós és a streaming sztárok névsora",
+        "txtlength": 23296
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20221120_foldi_laszlo_interju_europa_beke_haboru",
+        "h1": "Európát saját vezetői szolgáltatják ki Amerikának – Földi László a Mandinernek",
+        "txtlength": 22319
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/vasarlas/20221119/igazan-hasznos-ajandekot-adnal-2022-ben-itt-a-legjobb-inflacioallo-meglepetesek-listaja-1131096",
+        "h1": "Igazán hasznos ajándékot adnál 2022-ben? Itt a legjobb, inflációálló meglepetések listája",
+        "txtlength": 21291
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/global/20221120/a-leteert-kuzd-ukrajna-szomszedja-miutan-szembeszallt-putyinnal-ujabb-orszagot-taszithat-kaoszba-az-energiavalsag-579698",
+        "h1": "A létéért küzd Ukrajna szomszédja, miután szembeszállt Putyinnal – Újabb országot taszíthat káoszba az energiaválság?",
+        "txtlength": 16673
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/gyerek/gyerek-hazugsag-kezelese/",
+        "h1": "Miért hazudnak a gyerekek? - A vádaskodással nagy kárt lehet okozni a szakember szerint",
+        "txtlength": 11808
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/szuloseg/markas-gyerek-ruha/",
+        "h1": "márkás gyerek ruha",
+        "txtlength": 10471
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20221121_menza_dragulas_januar",
+        "h1": "Leves helyett almalé a gyerekeknek - hiába spórolnak a menzákon, újabb áremelés jöhet",
+        "txtlength": 18263
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kultura/2022/11/20/klimaaktivista-van-gogh-muzeum-festmeny-rongalas-vandalizmus/",
+        "h1": "Az égvilágon semmi nem fog változni attól, ha paradicsomlevessel öntik le Van Gogh képét",
+        "txtlength": 17627
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://rangado.24.hu/magyar_foci/2022/11/21/dzsudzsak-balazs-bucsumeccs-magyarorszag-gorogorszag-szurkoloi-velemeny-riport/",
+        "h1": "„Köszönöm a fogadtatást és a pálinkát is!” – Dzsudzsák Balázs búcsúja a könnyektől a nagyobb klubkarrierről álmodó szurkolókig",
+        "txtlength": 16852
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/fn/gazdasag/2022/11/21/aram-aramszamla-aramszolgaltato-energia-gaz-foldgaz-fixaras-szerzodes-spotar-vendeglatas-napi-ar/",
+        "h1": "Tömegével mondják fel az áramszerződéseket a szolgáltatók",
+        "txtlength": 16585
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/belfold/2022/11/21/kozvilagitas-korlatozas-varosok-telepules-onkormanyzatok-energiavalsag-sporolas",
+        "h1": "Van, ahol minden második lámpát lekapcsolják, de a települések többsége nem korlátozza a közvilágítást",
+        "txtlength": 16046
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/gazdasag/2022/11/21/munka-torvenykonyve-foglalkoztatasi-szabalyok-jogharmonizacio-modositas-hatranyos-a-dolgozoknak-maszsz",
+        "h1": "Megint a dolgozók jogait csorbító irányba változtat a kormány a Munka törvénykönyvén",
+        "txtlength": 15311
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/sport/2022/11/20/dzsudzsak-balazs-109-meccs-portre-golok",
+        "h1": "Dzsudzsák a rekorddal nagy dolgot ért el, de az összkép nem az igazi",
+        "txtlength": 13866
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/11/21/vidnyanszky-szerint-az-o-munkajat-dicseri-hogy-a-hallgatoi-tiltakoznak-ellene",
+        "h1": "Vidnyánszky szerint az ő munkáját dicséri, hogy a hallgatói tiltakoznak ellene",
+        "txtlength": 11114
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/kkv/20221120_Veszelyben_a_kis_maganbenzinkutak",
+        "h1": "\"Nem kaptunk értesítést a Moltól az üzemanyagszállítási szerződések felfüggesztéséről\"",
+        "txtlength": 11104
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/11/21/teknosgyilkossag-es-teveparade",
+        "h1": "Teknősgyilkosság és teveparádé",
+        "txtlength": 11093
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/tudomany/20221121_allatok_tajekozodas_kozben_tobbfele_lehetoseg_kutatas",
+        "h1": "Két magyar tudós rájött, mi zajlik le az állatok agyában, amikor utat keresnek – az emberek is jól járhatnak a felfedezéssel",
+        "txtlength": 11022
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/ezert-van-keves-csirkemell-a-boltokban-tesco-vezer-arsapka-inflacio-hiany/t0pydrh",
+        "h1": "A Tesco-vezér elárulta: „Ezért van kevés csirkemell a boltokban”",
+        "txtlength": 7939
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/retro-jatek-muanyag-katona-moncsicsi-holdjaro-auto/24ycnzx",
+        "h1": "Holdjáró, műanyag katona, Moncsicsi: ezekért a játékokért őrültek meg a szocializmus gyerekei",
+        "txtlength": 7353
+    },
+    {
         "hostname": "mindmegette.hu",
         "pagelink": "https://www.mindmegette.hu/creme-brulee-video.recept",
         "h1": "CRÉME BRULÉE ",
