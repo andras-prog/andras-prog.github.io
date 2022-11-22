@@ -1,6 +1,168 @@
 [
     {
         "hostname": "hataratkelo.blog.hu",
+        "pagelink": "https://hataratkelo.blog.hu/2022/11/21/a_felfoghatatlan_magyarorszag#c41661770",
+        "h1": "A felfoghatatlan Magyarország",
+        "txtlength": 47624
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20221122/ideje-megnyugodni-nem-lesz-sulyos-valsag-europaban-580284",
+        "h1": "Ideje megnyugodni: nem lesz súlyos válság Európában",
+        "txtlength": 21062
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vallalat/20221122/a-leheto-legrosszabbkor-tenne-tonkre-a-kormany-az-egyik-fontos-gaztarolot/",
+        "h1": "A lehető legrosszabbkor tenné tönkre a kormány az egyik fontos gáztárolót",
+        "txtlength": 20914
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/vasarlas/20221121/igy-nem-rohad-rad-a-meregdraga-zoldseg-gyumolcs-barkinel-mukodik-a-trukk-semmibe-sem-kerul-1131168",
+        "h1": "Így nem rohad rád a méregdrága zöldség, gyümölcs: bárkinél működik a trükk, semmibe sem kerül",
+        "txtlength": 20052
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20221122_ausztria_hadsereg",
+        "h1": "Ahol a semlegesség hatalom – milyen erős ma az osztrák hadsereg?",
+        "txtlength": 19519
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://sport.mandiner.hu/cikk/20221121_katar_vilagbajnoksag_masodik_nap",
+        "h1": "Európa továbbra is a világ előtt: hatot rámoltak az angolok, Frenkie De Jong zsenije hozta a hollandok nyitómeccsét – foci-vb 2. nap",
+        "txtlength": 18630
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/vasarlas/20221122/meglepte-a-tesco-teljesen-uj-elelmiszerek-erkeztek-a-boltokba-1131135",
+        "h1": "Meglépte a Tesco: teljesen új élelmiszerek érkeztek a boltokba",
+        "txtlength": 18580
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/global/20221122/szep-csendben-felfegyverezte-oroszorszagot-amerika-osellensege-brutalis-fegyverekkel-bovulhet-putyin-pusztito-arzenalja-580290",
+        "h1": "Szép csendben felfegyverezte Oroszországot Amerika ősellensége - Brutális fegyverekkel bővülhet Putyin pusztító arzenálja",
+        "txtlength": 18563
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20221121_matan_peleg_izrael_likud_fidesz_interju",
+        "h1": "A világ konzervatívjainak össze kell fogniuk – izraeli aktivista a Mandinernek",
+        "txtlength": 18057
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vilag/20221122/husz-ev-alatt-kozel-haromszorosara-nott-az-antidepresszans-fogyasztas-europaban/",
+        "h1": "Húsz év alatt közel háromszorosára nőtt az antidepresszáns-fogyasztás Európában",
+        "txtlength": 17605
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20221122/duna-house-egyertelmuen-fordulat-tortent-az-ingatlanpiacon-579838",
+        "h1": "Duna House: egyértelműen fordulat történt az ingatlanpiacon",
+        "txtlength": 16654
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/egeszseg/gyogyszer-bevetel-megkonnyitese/",
+        "h1": "Nem tudod lenyelni a túl nagy tablettát? 6 mód, ami segít bevenni a gyógyszert",
+        "txtlength": 12348
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/szuloseg/friderikusz-show-sztarok/",
+        "h1": "Friderikusz Show sztárok",
+        "txtlength": 11934
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2022/11/22/nem-a-listak-rendezgetese-hanem-a-dekriminalizacio-jelenthet-attorest-a-magyar-drogpolitikaban",
+        "h1": "NEM A LISTÁK RENDEZGETÉSE, HANEM A DEKRIMINALIZÁCIÓ JELENTHET ÁTTÖRÉST A MAGYAR DROGPOLITIKÁBAN",
+        "txtlength": 8783
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/kkv/20221122_arstop_rezsinoveles_kisboltok_kiskereskedelem_tamogatas_riport",
+        "h1": "Az én pénzemen akar inflációt csökkenteni az állam – kisboltosok beszéltek az árstopról a hvg.hu-nak",
+        "txtlength": 17902
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/belfold/2022/11/22/budapest-vii-kerulet-erzsebetvaros-ingatlan-per-miniszterelnokseg-kiraly-utca",
+        "h1": "A milliárdokat érő Király utcai házak, amik 19 év alatt majdnem csődbe vitték Erzsébetvárost",
+        "txtlength": 15481
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2022/11/22/amerika-ellenzek-kampany-part-marki-zay/",
+        "h1": "Amerikai pénz: az ellenzéki pártok állítják, nem vették észre, hogy betoltak a kampányba 1,8 milliárdot",
+        "txtlength": 15261
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/tech/2022/11/21/twitter-blue-hitelesites-vasarlas-troll-parodiaoldal-elon-musk-lockheed-martin-lilly-and-co/",
+        "h1": "Milliárdos károkat is okozhattak a pénzért árult hitelesítéssel visszaélő Twitter-trollok",
+        "txtlength": 15059
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://rangado.24.hu/magyar_foci/2022/11/22/meghalt-meszoly-kalman-nekrolog/",
+        "h1": "Tényleg szikla volt, aki hetente meghalt a győzelemért – Mészöly Kálmánra emlékezünk",
+        "txtlength": 14766
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/belfold/2022/11/22/kampanypenzek-mmm-marki-zay-peter-action-for-democracy",
+        "h1": "Korányi Dávid: Nem a CIA által vezérelt gyíklények támogatták Márki-Zay Péter mozgalmát",
+        "txtlength": 14751
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/eletmod/2022/11/21/madonna-egyesult-allamok-kozossegi-media-oregedes-plasztika-plasztikai-sebeszet",
+        "h1": "Madonna mindig is szeretett sokkolni, de most sokan csak találgatják, mi történik vele",
+        "txtlength": 14040
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20221121_meszoly_kalman",
+        "h1": "Elment a legendás Szőke Szikla",
+        "txtlength": 13852
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/kultura/20221121_Bohemian_Betyars_Azsia_turne",
+        "h1": "„Amikor Japánból visszatértünk Magyarországra, először a sok meggyötört tekintet tűnt fel\"",
+        "txtlength": 13551
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/11/21/reyners-a-magyar-kormany-el-tudja-oszlatni-az-eu-aggalyait-ha-megfeleloen-teljesiti-a-vallalasait",
+        "h1": "Reyners: A magyar kormány el tudja oszlatni az EU aggályait, ha megfelelően teljesíti a vállalásait",
+        "txtlength": 12908
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/11/22/1901-ota-az-egesz-orszagban-csokkent-a-teli-futesi-igeny",
+        "h1": "1991 óta az egész országban csökkent a téli fűtési igény",
+        "txtlength": 12130
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/globalis-felmelegedes-futes-rezsi-klimavaltozas-idojaras/eqy835d",
+        "h1": "A globális felmelegedésnek hála a magyarok is sokkal kevesebbet költenek fűtésre",
+        "txtlength": 9565
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/27-ev-utan-padon-talalta-meg-lany-apa-csalad-eltunes/r08h7y0?sl_ps=d_4",
+        "h1": "27 év után egy padon találta meg Lászlót a lánya: „Most már nem engedem el az apám”",
+        "txtlength": 8784
+    },
+    {
+        "hostname": "hataratkelo.blog.hu",
         "pagelink": "https://hataratkelo.blog.hu/2022/11/05/kofal_tragikus_elete",
         "h1": "Kőfal tragikus élete",
         "txtlength": 42552
