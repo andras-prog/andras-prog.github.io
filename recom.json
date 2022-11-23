@@ -1,5 +1,167 @@
 [
     {
+        "hostname": "kiszamolo.hu",
+        "pagelink": "https://kiszamolo.hu/lesz-meg-epitoipari-szakember-15-ev-mulva/",
+        "h1": "Lesz még építőipari szakember 15 év múlva?",
+        "txtlength": 42822
+    },
+    {
+        "hostname": "efesasanisimasa.com",
+        "pagelink": "https://efesasanisimasa.com/2022/11/04/a-masik-nover-the-good-nurse-2022/",
+        "h1": "A másik nővér (The Good Nurse, 2022)",
+        "txtlength": 7639
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/karrier/20221121/beleallt-az-arstopba-a-kifli-vezere-en-orultem-hogy-kibovult-de-a-vegrehajtast-mashogy-csinalnam-1131110",
+        "h1": "Beleállt az árstopba a Kifli vezére: Én örültem, hogy kibővült, de a végrehajtást máshogy csinálnám",
+        "txtlength": 36151
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/megtakaritas/20221123/milyen-tenyezok-allnak-a-keszpenzallomany-novekedesenek-hattereben-1131172",
+        "h1": "Milyen tényezők állnak a készpénzállomány növekedésének hátterében?",
+        "txtlength": 28653
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20221116_windisch_laszlo_marki_zay_szamvevoszek_interju",
+        "h1": "Az ÁSZ is vizsgálja a Márki-Zay Péter mozgalmának nyújtott amerikai támogatást – Windisch László elnök a Mandinernek",
+        "txtlength": 27297
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/global/20221123/putyin-varatlan-huzasa-utan-ket-orszag-kezeben-a-fordulat-egyetlen-loves-nelkul-hatalmas-gyozelmet-arathat-a-nato-580568",
+        "h1": "Putyin váratlan húzása után két ország kezében a fordulat - Egyetlen lövés nélkül hatalmas győzelmet arathat a NATO",
+        "txtlength": 26361
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20221122_magyar_francia_tortenelem_orban_henri_de_montety",
+        "h1": "„Remélem, Orbán valóban megpróbálkozik a kultúrharccal” – francia történész a Mandinernek",
+        "txtlength": 25586
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20221122/csaladi-adokedvezmeny-2023-johet-az-ujabb-penzeso-580630",
+        "h1": "Családi adókedvezmény 2023: jöhet az újabb pénzeső",
+        "txtlength": 24149
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/krtk/20221123/a-pedagogusok-helyzetet-ismerjuk-de-a-magyar-oktatasi-rendszer-problemai-nem-itt-kezdodnek-580326",
+        "h1": "A pedagógusok helyzetét ismerjük, de a magyar oktatási rendszer problémái nem itt kezdődnek",
+        "txtlength": 23206
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20221123_magyarorszag_demokracia_jogallam_index_kritika_ngo_soros_kritika",
+        "h1": "Hogyan előzheti Magyarországot Kazahsztán vagy Koszovó? – Itt vannak a demokráciamérés buktatói",
+        "txtlength": 22046
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/penz/20221123/mennyivel-ertekesebb-egy-haz-ha-nulla-a-rezsije-napelemeknek-koszonhetoen/",
+        "h1": "Mennyivel értékesebb egy ház, ha nulla a rezsije napelemeknek köszönhetően?",
+        "txtlength": 20837
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vilag/20221122/a-vilag-tovabb-nyomja-a-gazt-a-klimapokol-fele/",
+        "h1": "A világ tovább nyomja a gázt a klímapokol felé",
+        "txtlength": 20456
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2022/11/22/beirtam-hobbikent-a-cigany-tancot-hogy-meg-veletlenul-se-keruljek-olyan-munkahelyre-ahol-nem-latnak-szivesen",
+        "h1": "„BEÍRTAM HOBBIKÉNT A CIGÁNY TÁNCOT, HOGY MÉG VÉLETLENÜL SE KERÜLJEK OLYAN MUNKAHELYRE, AHOL NEM LÁTNAK SZÍVESEN”",
+        "txtlength": 19295
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/utazas/ujpest-elso-magyar-bankrablas/",
+        "h1": "A büdös város Budapest szélén, ahol az első magyar bankrablás is történt: kabaréba illő jelenet bontakozott ki",
+        "txtlength": 12515
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/tudomany/2022/11/23/tanulmanyhalmozo-kutato-huzhatta-fel-az-obudai-egyetemet-a-rangsorban",
+        "h1": "Tanulmányhalmozó kutató húzhatta fel az Óbudai Egyetemet a rangsorban",
+        "txtlength": 28560
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/11/23/tortenelmi-siker-es-egy-helyben-topogas-az-ensz-klimacsucson",
+        "h1": "Történelmi siker és egy helyben topogás az ENSZ klímacsúcson",
+        "txtlength": 18745
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/gazdasag/2022/11/23/rezsi-miatt-bezart-helyek-szinhaz-uszoda-iskola-egyetem",
+        "h1": "A fél ország bezár a rezsiválság miatt",
+        "txtlength": 15598
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://qubit.hu/2022/11/23/8-milliardos-befektetest-kapott-a-magyar-ceg-ami-szimulalt-sejtmodellel-reformalna-meg-a-rakgyogyszergyartast",
+        "h1": "8 MILLIÁRDOS BEFEKTETÉST KAPOTT A MAGYAR CÉG, AMI SZIMULÁLT SEJTMODELLEL REFORMÁLNÁ MEG A RÁKGYÓGYSZERGYÁRTÁST",
+        "txtlength": 15291
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20221123_Brusszel_civilek_tamogatas_Okotars",
+        "h1": "Az Európai Unió milliárdos pénzesővel cselezi ki a civilellenes magyar kormányt",
+        "txtlength": 14464
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20221123_77_allamilag_tamogatott_uszoda_marad_nyitva_de_titok_hogy_hol_honvedelmi_miniszterium",
+        "h1": "Nem árulja el a kormány, melyik az a 77 uszoda, amit megmentettek az állami támogatással",
+        "txtlength": 14266
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/brandcontent/20221116_24_ezren_vannak_maskepp_gondolkodnak_es_megkerulhetetlenek",
+        "h1": "24 ezren vannak, másképp gondolkodnak és megkerülhetetlenek",
+        "txtlength": 13357
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kulfold/2022/11/23/orosz-ukran-haboru-273-nap",
+        "h1": "Ferenc pápa a holodomorhoz hasonlította az ukrán nép mostani helyzetét",
+        "txtlength": 10664
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2022/11/23/schadl-gyorgy-vegrehajtoi-kar-elnok-borton-volner-pal-vadirat-ora-ekszer-szef-penzmosas/",
+        "h1": "Schadl György kitelefonált a börtönből, hogy felesége és apja rejtse el luxusóráit és az ékszereket",
+        "txtlength": 10643
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/kulfold/fakitermeles-karpatok-termeszetvedelem-greenpeace/jlxjg2c",
+        "h1": "Elképesztő: óránként átlagosan több mint öt futballpályányi erdő tűnik el a Kárpátokból",
+        "txtlength": 9856
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/krimi/schadl-gyorgy-korrupcio-borton-luxustargyak-elrejtes-uzent/066tbgb",
+        "h1": "A korrupcióval vádolt Schadl György a börtönből üzent az apjának, hogy rejtse el a nyomozók elől a több mint százmilliót érő luxustárgyait",
+        "txtlength": 9411
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/fn/gazdasag/2022/11/23/nyugdij-nyugdijas-szolgalati-ido-megallapodas-nyugdijjarulek-jogosultsagi-ido-nyugdijjogosultsag/",
+        "h1": "Nyugdíj: sokaknak rövidebb lehet a szolgálati ideje, ha ezt nem lépték meg",
+        "txtlength": 9026
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kozelet/2022/11/23/valsag-uszitas-onkormanyzat-kormany-kastely/",
+        "h1": "Mélységesen elkeseredett Lázár János államtikára egy 11 milliárdos kérdés miatt",
+        "txtlength": 8884
+    },
+    {
         "hostname": "hataratkelo.blog.hu",
         "pagelink": "https://hataratkelo.blog.hu/2022/11/21/a_felfoghatatlan_magyarorszag#c41661770",
         "h1": "A felfoghatatlan Magyarország",
