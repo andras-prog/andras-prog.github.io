@@ -1,5 +1,191 @@
 [
     {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/egy-igazan-gyors-tojasleves.recept",
+        "h1": "GYORS TOJÁSLEVES",
+        "txtlength": 10233
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/porehagyma-kremleves-egyszeruen.recept",
+        "h1": "PÓRÉHAGYMA-KRÉMLEVES",
+        "txtlength": 10094
+    },
+    {
+        "hostname": "nosalty.hu",
+        "pagelink": "https://www.nosalty.hu/recept/10-perces-linzer",
+        "h1": "10 perces linzer",
+        "txtlength": 9871
+    },
+    {
+        "hostname": "hataratkelo.blog.hu",
+        "pagelink": "https://hataratkelo.blog.hu/2022/11/21/a_felfoghatatlan_magyarorszag#c41667270",
+        "h1": "A felfoghatatlan Magyarország",
+        "txtlength": 39466
+    },
+    {
+        "hostname": "kulturpart.hu",
+        "pagelink": "https://kulturpart.blog.hu/2022/11/23/a_dunai_az_idealis_a_sivatagi_mar_tul_puha",
+        "h1": "A DUNAI AZ IDEÁLIS, A SIVATAGI MÁR TÚL PUHA",
+        "txtlength": 9924
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20221124_demeter_szilard_petofi_radio_petofi_tv_kultura",
+        "h1": "„Nem buktam el semmit” – Demeter Szilárd a Mandinernek",
+        "txtlength": 38163
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/elet/20221123/hogyan-valtoztassunk-kozlekedesi-szokasainkon-hogy-elkeruljuk-a-klimakatasztrofat/",
+        "h1": "Hogyan változtassunk közlekedési szokásainkon, hogy elkerüljük a klímakatasztrófát?",
+        "txtlength": 26044
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/utazas/20221124/gyokeres-atalakulas-keszulodik-a-balatonnal-sosem-lesz-mar-olyan-a-nyaralas-mint-regen-1131278",
+        "h1": "Gyökeres átalakulás készülődik a Balatonnál: sosem lesz már olyan a nyaralás, mint régen?",
+        "txtlength": 22563
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20221124/oriasi-bukas-vagy-az-evtized-legnagyobb-gazdasagi-dobasa-alig-tudunk-valamit-a-metaverzumrol-580542",
+        "h1": "Óriási bukás vagy az évtized legnagyobb gazdasági dobása? – alig tudunk valamit a metaverzumról",
+        "txtlength": 21673
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20221124_wagner_csoport",
+        "h1": "A Wagner-csoport és a többiek: az államok erőszak-monopóliumát fenyegetik az új zsoldosok",
+        "txtlength": 20914
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vallalat/20221123/kisvallalkozasok-a-kiberbunozok-celkeresztjeben/",
+        "h1": "Kisvállalkozások a kiberbűnözők célkeresztjében",
+        "txtlength": 20722
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/vasarlas/20221123/igy-keruld-ki-a-brutalis-unnepi-inflaciot-7-tipp-arra-hogy-ne-rokkanj-bele-anyagilag-a-karacsonyba-1131262",
+        "h1": "Így kerüld ki a brutális ünnepi inflációt: 7 tipp arra, hogy ne rokkanj bele anyagilag a karácsonyba",
+        "txtlength": 19634
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20221123_magyarorszag_helyreallitasi_alap_europai_bizottsag_kulfold_eu_megallapodas",
+        "h1": "Rendkívüli: a Bizottság elfogadja a magyar helyreállítási tervet, de további feltételekhez köti a kifizetéseket",
+        "txtlength": 19581
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/bank/20221124/mnb-rengeteg-kart-okoz-a-kamatstop-500-milliardot-buknak-a-bankok-a-kormany-idei-intezkedesein-581038",
+        "h1": "MNB: rengeteg kárt okoz a kamatstop, 500 milliárdot buknak a bankok a kormány idei intézkedésein",
+        "txtlength": 16873
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/global/20221124/rohamoznak-az-orosz-tankok-elitkatonakat-mozgat-moszkva-haborus-hireink-csutortokon-580948",
+        "h1": "Rohamoznak az orosz tankok, elitkatonákat mozgat Moszkva - Háborús híreink csütörtökön ",
+        "txtlength": 15078
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2022/11/24/a-videki-ember-attol-eros-hogy-mindig-tudta-mindegy-hol-a-hatalom-a-vilag-kozepe-ott-van-ahol-o-el",
+        "h1": "„A VIDÉKI EMBER ATTÓL ERŐS, HOGY MINDIG TUDTA: MINDEGY, HOL A HATALOM, A VILÁG KÖZEPE OTT VAN, AHOL Ő ÉL”",
+        "txtlength": 12672
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/utazas/opatija-horvatorszag/",
+        "h1": "Európa egyik legromantikusabb városa Opatija: a horvát tengerpart ősszel is csodás",
+        "txtlength": 12516
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/lajfhekk/vanilias-karika/",
+        "h1": "Vaníliás karika",
+        "txtlength": 6303
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/ingatlan/20221123_Valsagban_a_lakaspiac_de_sokan_jol_jarhatnak",
+        "h1": "Sokan járhatnak jól az összeroppanó lakáspiaccal",
+        "txtlength": 17320
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/belfold/2022/11/24/szeged-harmadik-hid-tervezes-tisza",
+        "h1": "Kilátóval és függőkerttel épülne meg Szeged következő hídja",
+        "txtlength": 16329
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/kultura/20221124_magyar_oktatas_negativ_trend",
+        "h1": "Súlyos bizonyítványt kapott a magyar oktatás",
+        "txtlength": 15507
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/english/2022/11/24/english-helyszini-riport-herszonbol-az-oroszok-mindent-megtettek-hogy-megtanuljunk-felni",
+        "h1": "Our report from Kherson: „The Russians did everything they could to teach us to be afraid\"",
+        "txtlength": 13948
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kulfold/2022/11/23/ukran-orosz-hadifogoly-kivegez-megadta-magat-haborus-bun-fogolycsere",
+        "h1": "Földön fekvő tucatnyi orosz katona agyonlövése mutatja meg a háború kegyetlen, saját törvényeit",
+        "txtlength": 13458
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/11/23/spanyolorszag-kettos-allampolgarsagot-adna-a-romanoknak",
+        "h1": "Spanyolország kettős állampolgárságot adna a románoknak",
+        "txtlength": 12851
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/fn/gazdasag/2022/11/23/podcast-della-interju-erste-bank-jelasity-radovan-kamatplafon/",
+        "h1": "Erste-elnök: Most egy mély levegőt kell venni ",
+        "txtlength": 12767
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/11/23/transznyefty-ukrajna-leallitotta-a-baratsag-koolajvezetek-egy-szakaszat",
+        "h1": "Transznyefty: Ukrajna leállította a Barátság kőolajvezeték egy szakaszát",
+        "txtlength": 12265
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2022/11/24/siofok-plazs-vezetoje-viheti-a-lomenhely-legeloit-elovasarlas/",
+        "h1": "A Plázs Siófok vezetője viheti a lómenhely legelőit",
+        "txtlength": 10477
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2022/11/24/vadalku-ugyeszseg-schadl-gyorgy-bizalmasa-penzugyes-vegrehajto-kar-elnok-borton-volner-pal-allamtitkar-fidesz-korrupcio-kenopenz/",
+        "h1": "Vádalkut kötött az ügyészséggel Schadl György bizalmasa, aki Excel-táblában vezette a kenőpénzek kifizetését",
+        "txtlength": 10204
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/eden-nyomor-legszegenyebb-leggazdagabb-magyar-falu-borsod/jk5f06j?sl_ps=d_11",
+        "h1": "Ötven kilométer választja el az édent a nyomortól – A legszegényebb és a leggazdagabb magyar faluban jártunk",
+        "txtlength": 9432
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/tudomany/20221124_honor_magic_vs_osszehajthato_okostelefon_specifikacio_ar",
+        "h1": "Új készülék kerül a polcokra, nálunk is árulni fogják a Honor összehajtható mobilját",
+        "txtlength": 9108
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/kulfold/orosz-ukran-haboru-raketacsapas-kijev/8mnhb50",
+        "h1": "Újabb pusztító rakétacsapás az oroszoktól: se víz, se áram Kijevben, ártatlan civilek haltak meg – Drámai felvételeken a háború valósága",
+        "txtlength": 8971
+    },
+    {
         "hostname": "kiszamolo.hu",
         "pagelink": "https://kiszamolo.hu/lesz-meg-epitoipari-szakember-15-ev-mulva/",
         "h1": "Lesz még építőipari szakember 15 év múlva?",
