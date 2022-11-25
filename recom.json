@@ -1,6 +1,180 @@
 [
     {
         "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/teli-snapszerleves-gaspar-bea.recept",
+        "h1": "TÉLI SNAPSZERLEVES, AHOGY GÁSPÁR BEA KÉSZÍTI",
+        "txtlength": 11273
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/glutenmentes-fank-tej-es-tojas-nelkul.recept",
+        "h1": "GLUTÉNMENTES FÁNK TEJ ÉS TOJÁS NÉLKÜL",
+        "txtlength": 11154
+    },
+    {
+        "hostname": "hataratkelo.blog.hu",
+        "pagelink": "https://hataratkelo.blog.hu/2022/11/21/a_felfoghatatlan_magyarorszag#c41669158",
+        "h1": "A felfoghatatlan Magyarország",
+        "txtlength": 48078
+    },
+    {
+        "hostname": "kulturpart.hu",
+        "pagelink": "https://kulturpart.blog.hu/2022/11/21/a_kulturakozvetites_dimenzioi",
+        "h1": "A KULTÚRAKÖZVETÍTÉS DIMENZIÓI",
+        "txtlength": 9333
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://makronom.mandiner.hu/cikk/20221122_egyiptom_ensz_cop27_makronom",
+        "h1": "Klíma-patthelyzet a szegények és a gazdagok közt",
+        "txtlength": 28696
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/global/20221125/szep-csendben-elveszti-putyin-a-legfontosabb-baratait-de-van-ot-orszag-amelyre-mindig-szamithat-580790",
+        "h1": "Szép csendben elveszti Putyin a legfontosabb barátait – De van öt ország, amelyre mindig számíthat",
+        "txtlength": 23936
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/tech/20221121/figyelem-aljas-csalok-csapoljak-a-magyarok-bankszamlait-ne-dolj-be-ez-a-modszeruk-1131066",
+        "h1": "Figyelem! Aljas csalók csapolják a magyarok bankszámláit: ne dőlj be, ez a módszerük",
+        "txtlength": 20749
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/penz/20221124/evi-711-milliard-dollar-ennyi-lenne-a-fold-tulelesenek-ara/",
+        "h1": "Évi 711 milliárd dollár: ennyi lenne a Föld túlélésének ára",
+        "txtlength": 20658
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/unios-forrasok/20221124/varatlan-fordulat-a-magyar-eu-penzeknel-mi-tortent-es-mi-varhato-ezutan-581178",
+        "h1": "Váratlan fordulat a magyar EU-pénzeknél – Mi történt és mi várható ezután?",
+        "txtlength": 20448
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vilag/20221124/ukrajna-megvaltoztatta-a-haborut-de-nem-a-nepszeru-klisek-menten/",
+        "h1": "Ukrajna megváltoztatta a háborút, de nem a népszerű klisék mentén",
+        "txtlength": 18688
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/karrier/20221124/rengeteg-magyar-dolgozo-jarhat-rosszul-2023-ban-itt-a-modositas-valtozik-a-szabadsagolas-menete-1131298",
+        "h1": "Rengeteg magyar dolgozó járhat rosszul 2023-ban: itt a módosítás, változik a szabadságolás menete",
+        "txtlength": 18405
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20221125_angela_merkel_spiegel_szemle_haboru_nemetorszag_oroszorszag",
+        "h1": "„Moszkvában egyértelmű volt az üzenet: politikailag véged van” – mondja Angela Merkel a Spiegelben",
+        "txtlength": 17787
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20221125_belfold_lazar_janos_beruhazas_debrecen_gazdasag",
+        "h1": "„Fejezzék be az autósok üldözését”, Budapest-Belgrád vasútvonal és a teljes HÉV-rendszer megújulása – alapvető változás jön a fejlesztéspolitikában",
+        "txtlength": 17268
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/global/20221125/recseg-ropog-putyin-katonai-szovetsege-aramellatasaert-kuzd-ukrajna-haborus-hireink-penteken-581208",
+        "h1": "Recseg-ropog Putyin katonai szövetsége, áramellátásáért küzd Ukrajna – Háborús híreink pénteken ",
+        "txtlength": 14541
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/kapcsolat/nok-elleni-eroszak/",
+        "h1": "Havonta 3 nő hal bele Magyarországon, mégsem veszik elég komolyan a problémát",
+        "txtlength": 13266
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2022/11/24/a-tiktok-egyszerre-hiteti-el-a-felhasznalokkal-hogy-biztonsagban-vannak-es-egyszerre-teszi-oket-rettentoen-serulekennye",
+        "h1": "A TIKTOK EGYSZERRE HITETI EL A FELHASZNÁLÓKKAL, HOGY BIZTONSÁGBAN VANNAK, ÉS EGYSZERRE TESZI ŐKET RETTENTŐEN SÉRÜLÉKENNYÉ",
+        "txtlength": 10707
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/gazdasag/2022/11/25/integritas-hatosag-valodi-intezmeny-lesz-e-korrupciollenes-munkacsoport-civil-szervezetek",
+        "h1": "Működő fegyver a lopás ellen a NER-en belül? A civilek adnak egy esélyt az új hatóságnak",
+        "txtlength": 24333
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/eletmod/2022/11/24/alkohol-es-muveszet-peer-krisztian-nagy-zsolt-pasztor-anna",
+        "h1": "Azért jó színész, mert iszik, vagy azért iszik, mert jó színész?",
+        "txtlength": 24286
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kulfold/2022/11/24/tajvan-kina-tajpej-helyszini-tudositas-biden-hszi-sziget-ukrajna-haboru-tanulsagok",
+        "h1": "Figyeljük az orosz–ukrán háború tanulságait, de nem félünk a kínaiaktól",
+        "txtlength": 18688
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2022/11/25/kovacs-balazs-danubius-hotels-interju-hotel-hungaria-sopron-lover-szalloda-tiborcz-ado-allami-tamogatas/",
+        "h1": "Danubius-vezér: Ha a Hungária átmeneti bezárásával megússzuk a válságot, én boldog leszek",
+        "txtlength": 18536
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/elet/20221124_Iran_valogatott_Katar_labdarugo_vilagbajnoksag_tiltakozas",
+        "h1": "Az iráni focisták bűnbakok a tüntetők szemében, pedig sokat kockáztattak",
+        "txtlength": 14794
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/11/25/lazar-rajott-hogy-nem-jo-ha-miniszterkent-tulokoskodja-a-dolgokat-azt-kell-tenni-amit-a-fonoke-mond",
+        "h1": "Lázár rájött, hogy nem jó, ha miniszterként túlokoskodja a dolgokat, azt kell tenni, amit a főnöke mond",
+        "txtlength": 14691
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/elet/20221123_Miley_Cyrus_30",
+        "h1": "Miley Cyrus kalapáccsal ment neki az ártatlan tinilányságának, és rácáfolt a bigott bírálóira",
+        "txtlength": 13466
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/gazdasag/20221125_dragulas_inflacio_arak",
+        "h1": "Tizenkét ábrán mutatjuk, mennyire elképesztő a magyar drágulás más országokhoz képest",
+        "txtlength": 12683
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2022/11/24/eu-s-penzek-felfuggesztes-bizottsag-mechanizmus-europai-parlament/",
+        "h1": "„Na, így néz ki az elszigetelődés” – az Európai Bizottság–Magyarország meccset elemezzük",
+        "txtlength": 12095
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2022/11/25/volner-pal-allamtitkar-fia-porsche-lefoglalas-vagyonzar-vadirat-korrupcio-kenopenz-vegrehajto-schadl-gyorgy-borton/",
+        "h1": "Völner Pál fiának Porschéját is lefoglalták a hatóságok",
+        "txtlength": 11854
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/11/24/racz-andras-kilenc-honap-haboru-mar-majdnem-kilenc-ev-es-hol-van-meg-a-vege",
+        "h1": "Rácz András: Kilenc hónap háború? Már majdnem kilenc év, és hol van még a vége",
+        "txtlength": 10959
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/ferjet-megkeselo-tanarno-vallomas-emberolesi-kiserlet-letartoztatas-borton/hkk9qh2?sl_ps=d_12",
+        "h1": "A férjét megkéselő tanárnő döbbenetes vallomása: „Azt sem tudtam, mit csinálok”",
+        "txtlength": 9213
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/veszhelyzet/mezozombor-szantofold-tuzszeresz-locsontvaz-aknagranat-haboru/4szgbmm?sl_ps=d_4",
+        "h1": "Drámai események helyszíne volt a mezőzombori szántóföld: csontváz, német, román és magyar aknavetőgránátok fordultak ki a földből – részletek, fotók",
+        "txtlength": 7209
+    },
+    {
+        "hostname": "mindmegette.hu",
         "pagelink": "https://www.mindmegette.hu/egy-igazan-gyors-tojasleves.recept",
         "h1": "GYORS TOJÁSLEVES",
         "txtlength": 10233
