@@ -1,6 +1,180 @@
 [
     {
         "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/meggyes-pite-ahogy-gaspar-bea-kesziti.recept",
+        "h1": "MEGGYES PITE, AHOGY GÁSPÁR BEA KÉSZÍTI",
+        "txtlength": 11968
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/sult-kacsacomb-parolt-lila-kaposztaval.recept",
+        "h1": "SÜLT KACSACOMB PÁROLT LILA KÁPOSZTÁVAL",
+        "txtlength": 11967
+    },
+    {
+        "hostname": "hataratkelo.blog.hu",
+        "pagelink": "https://hataratkelo.blog.hu/2022/11/21/a_felfoghatatlan_magyarorszag#c41671538",
+        "h1": "A felfoghatatlan Magyarország",
+        "txtlength": 55964
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/global/20221125/elarulta-a-sztarkozgazdasz-hogy-kerulheti-el-magyarorszag-a-torokhoz-hasonlo-gazdasagi-osszeomlast-581390",
+        "h1": "Elárulta a sztárközgazdász, hogy kerülheti el Magyarország a törökhöz hasonló gazdasági összeomlást",
+        "txtlength": 30416
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/egeszseg/20221124/10-ijeszto-teny-2022-ben-a-magyar-egeszsegugyrol-amivel-elobb-utobb-mindenki-szembesul-1131151",
+        "h1": "10 ijesztő tény 2022-ben a magyar egészségügyről, amivel előbb-utóbb mindenki szembesül",
+        "txtlength": 28114
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20221123_magyar_unios_penzek_vallalasok_spiegel_daniel_freund_europai_bizottsag",
+        "h1": "A Spiegel csak szeretné, hogy ne kapjon pénzt Magyarország",
+        "txtlength": 24690
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/kozelet/20221125/hogyan-lehet-megtanulni-a-nyertes-gondolkodasmodot/",
+        "h1": "Hogyan lehet megtanulni a nyertes gondolkodásmódot?",
+        "txtlength": 23867
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20221125_disney_woke_progressziv_lmbtq_rajzfilm_bob_chapek",
+        "h1": "Addig járt a Disney a szivárványos úton, amíg el nem botlott",
+        "txtlength": 23207
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://sport.mandiner.hu/cikk/20221125_villant_a_vebe_elso_piros_lapja_wales_osszeomlott_iran_feltamadt",
+        "h1": "A piros lap után Wales összeomlott, Irán feltámadt, Katar kiesett, Valencia halhatatlanná vált, Anglia, USA: nagy nulla! - futball-vb, 6. nap",
+        "txtlength": 20872
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20221126/katasztrofa-zajlik-a-balatonban-szazezrek-kikapcsolodasa-valhat-pokolla-a-betolakodok-miatt-581204",
+        "h1": "Katasztrófa zajlik a Balatonban - Százezrek kikapcsolódása válhat pokollá a betolakodók miatt",
+        "txtlength": 20845
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/szorakozas/20221123/rudolf-peter-az-abszurditas-a-napjaink-resze-de-ki-lehet-hasznalni-1131221",
+        "h1": "Rudolf Péter: Az abszurditás a napjaink része, de ki lehet használni!",
+        "txtlength": 20622
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vallalat/20221125/sokkal-gyorsabban-fogy-a-gaz-magyarorszagon-mint-mas-orszagokban/",
+        "h1": "Sokkal gyorsabban fogy a gáz Magyarországon, mint más országokban",
+        "txtlength": 19010
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2022/11/25/mi-a-baj-a-katari-focivebevel",
+        "h1": "MI A BAJ A KATARI FOCIVÉBÉVEL?",
+        "txtlength": 18446
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/uzlet/20221125/itt-a-nagy-leleplezes-meg-mindig-40-fokon-mosnak-a-magyarok-pedig-nem-kellene-581316",
+        "h1": "Itt a nagy leleplezés: még mindig 40 fokon mosnak a magyarok, pedig nem kellene",
+        "txtlength": 16559
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/karacsony/adventi-lelki-kuponok/",
+        "h1": "Kis lelki kuponok advent minden napjára: ötletadó, ha ezzel lepnéd meg a családot",
+        "txtlength": 10688
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/testem/emberi-parazitak/",
+        "h1": "emberi paraziták",
+        "txtlength": 10397
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2022/11/26/magyar-hatarkerites-ausztria-szerbia-illegalis-migracio-embercsempeszet-belugyminiszterium/",
+        "h1": "Van-e értelme a magyar határkerítésnek, ha Ausztriában rekordot dönt az illegális migráció?",
+        "txtlength": 23742
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kultura/2022/11/26/sigmund-freud-leonado-da-vinci-gral-agora-matine/",
+        "h1": "Leonardo da Vinci és Sigmund Freud együtt menti meg az emberiséget",
+        "txtlength": 20267
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/belfold/2022/11/26/orosz-haboru-jelkep-z-betu-polgarmester-fidesz-novaj",
+        "h1": "Az orosz háborús jelképet használó fideszes polgármester ellentmondásos világa",
+        "txtlength": 18699
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kulfold/2022/11/26/foldkozi-tenger-migracio-hajok-olaszorszag-franciaorszag/",
+        "h1": "Európai nagyhatalmak feszültek egymásnak a Földközi-tengeri migrációs frontvonalak miatt",
+        "txtlength": 17530
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/kultura/20221125_ev_vegi_sorozatajanlo",
+        "h1": "Összeesküvés-elméletek, élet-halál harc, paródia és horror: sorozatok sötét év végi estékre",
+        "txtlength": 17153
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/eletmod/2022/11/25/eotvos-csoport-gender-vitak-transzmozgalmak-nembinarisok-fodor-eva-kovats-eszter",
+        "h1": "A nemek kihajítása az ablakon tényleg radikális gondolat. Pont ez benne a jó?",
+        "txtlength": 15616
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20221126_Pinter_Sandor_nem_letezo_bizalmasa_aki_az_orok_eletet_is_eladta_volna",
+        "h1": "Pintér Sándor nem létező bizalmasa, aki az örök életet is bárkinek eladta volna",
+        "txtlength": 15394
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/szepkilatas/2022/11/26/budapest-rejtett-osvenyein-a-sas-ut",
+        "h1": "Budapest rejtett ösvényein: a Sas-út",
+        "txtlength": 12388
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/cegauto/20221126_dizeltol_a_villanyautoig_a_ford_hatalmas_es_szupermodern_torok_gyaraban_jartunk_otosan",
+        "h1": "Dízeltől a villanyautóig: a Ford hatalmas és szupermodern török gyárában jártunk",
+        "txtlength": 11872
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/11/26/hetvegi-olvasnivalok-akarmirol-mindenkinek",
+        "h1": "Hétvégi olvasnivalók akármiről mindenkinek",
+        "txtlength": 11261
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/foci/2022/11/25/kifejezetten-rossz-meccsen-jatszott-0-0-at-anglia-es-az-egyesult-allamok",
+        "h1": "Kifejezetten rossz meccsen játszott 0-0-át Anglia és az Egyesült Államok",
+        "txtlength": 10455
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/krimi/pecsi-taxisgyilkossag-1995-gal-csilla-nyomozas-felmento-itelet-megoldatlan-ugy/5rc9gzh?sl_ps=d_12",
+        "h1": "Csilla gyilkosa még mindig köztünk járhat – A hatalmas fordulat ellenére megoldatlan maradt az 1995-ös taxisgyilkosság",
+        "txtlength": 9790
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/krimi/ferjet-megkeselo-tanarno-vallomas-emberolesi-kiserlet-letartoztatas-borton/0kfmsp8",
+        "h1": "A férjét megkéselő tanárnő döbbenetes vallomása: „Azt sem tudtam, mit csinálok”",
+        "txtlength": 9213
+    },
+    {
+        "hostname": "mindmegette.hu",
         "pagelink": "https://www.mindmegette.hu/teli-snapszerleves-gaspar-bea.recept",
         "h1": "TÉLI SNAPSZERLEVES, AHOGY GÁSPÁR BEA KÉSZÍTI",
         "txtlength": 11273
