@@ -1,6 +1,174 @@
 [
     {
         "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/mac-n-cheese-a-bestiabol-wossala-rozina.recept",
+        "h1": "MAC ’N’ CHEESE WOSSALA ROZINÁTÓL",
+        "txtlength": 10994
+    },
+    {
+        "hostname": "hataratkelo.blog.hu",
+        "pagelink": "https://hataratkelo.blog.hu/2022/11/21/a_felfoghatatlan_magyarorszag#c41673670",
+        "h1": "A felfoghatatlan Magyarország",
+        "txtlength": 54148
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20221123_kevesen_mult_a_verontas_beszelgetes_a_ket_rendszervalto_politikussal",
+        "h1": "Kevésen múlt a vérontás – Kónya Imre és Hack Péter vitája a taxisblokádról",
+        "txtlength": 28550
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20221126_tanarballagas_foszervezo_beremeles_szent_imre_gimnazium_lakatos_mate",
+        "h1": "„Úgy döntött, hazamegy, tőle kell megkérdezni, miért tette” – a Tanárballagás főszervezője Molnár Áron noÁrról a Mandinernek",
+        "txtlength": 24312
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20221123_keleten_a_helyzet_valtozoban_orosz_valosag_a_haboru_eveben",
+        "h1": "Így szűkülnek a szabadság terei a háborús Oroszország életében",
+        "txtlength": 22638
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/kozelet/20221126/a-mai-tanartuntetes-elott-adott-pluszpenzt-a-kormany-az-egyhazi-iskolaknak/",
+        "h1": "A mai tanártüntetés előtt adott pluszpénzt a kormány az egyházi iskoláknak",
+        "txtlength": 21948
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20221126/minimalber-es-garantalt-berminimum-2023-johet-a-penzeso-a-dolgozoknak-581466",
+        "h1": "Minimálbér és garantált bérminimum 2023: jöhet a pénzeső a dolgozóknak?",
+        "txtlength": 21508
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vallalat/20221127/eletet-lehelt-a-haboru-egy-fontos-magyar-aruforgalmi-csomopontba/",
+        "h1": "Életet lehelt a háború egy fontos magyar áruforgalmi csomópontba",
+        "txtlength": 20400
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/utazas/20221125/egy-kopesre-van-a-kispenzu-magyarok-siparadicsoma-igy-sporolhatsz-tobb-szaz-eurot-iden-1131309",
+        "h1": "Egy köpésre van a kispénzű magyarok síparadicsoma: így spórolhatsz több száz eurót idén",
+        "txtlength": 20088
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/otthon/20221124/itt-a-legegyszerubb-rezsitrukk-ezreket-sporolhatsz-ezt-a-gombot-kell-megnyomni-a-mosogepen-1131297",
+        "h1": "Itt a legegyszerűbb rezsitrükk: ezreket spórolhatsz, ezt a gombot kell megnyomni a mosógépen",
+        "txtlength": 17702
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2022/11/26/lenezett-cseledmunkahelybol-luxushelyiseg-a-konyha-diadalutja-a-20-szazadban",
+        "h1": "LENÉZETT CSELÉDMUNKAHELYBŐL LUXUSHELYISÉG: A KONYHA DIADALÚTJA A 20. SZÁZADBAN",
+        "txtlength": 16135
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/ingatlan/20221127/elmondtak-a-szakertok-mikor-erheti-el-melypontjat-a-hazai-lakaspiac-581016",
+        "h1": "Elmondták a szakértők, mikor érheti el mélypontját a hazai lakáspiac",
+        "txtlength": 15546
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/global/20221126/osszecsapnak-a-pancelosok-videon-az-ukran-haboru-eddigi-5-legdurvabb-tankcsataja-581322",
+        "h1": "Összecsapnak a páncélosok: videón az ukrán háború eddigi 5 legdurvább tankcsatája",
+        "txtlength": 15339
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/otthon/technologiaval-fustmentes-otthonokert/",
+        "h1": "A leggyakoribb okok, ami miatt otthonok égnek le: az ágyban dohányzás és elektromos tüzek is tragédiához vezethetnek",
+        "txtlength": 13474
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/lajfhekk/zoldsegek-keszitese/",
+        "h1": "Zöldségek készítése",
+        "txtlength": 7878
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kultura/2022/11/27/sakkmuzeum-mali-zoltan-klagenfurt-szaraz-sandor-portre-riport/",
+        "h1": "Európa legnagyobb sakkmúzeumát nyitja egy magyar polgármester Klagenfurtban",
+        "txtlength": 37992
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kultura/2022/11/27/semmelweis-ignac-gardos-peter-matine-konyvajanlo/",
+        "h1": "Semmelweis feleségének is szerepe lehetett a tudós halálában",
+        "txtlength": 26530
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/elet-stilus/2022/11/26/sharenting-gyerek-szulo-kozossegi-media-gyermekjogok/",
+        "h1": "A szemünk előtt nőnek fel, és fogalmuk sincs róla",
+        "txtlength": 19445
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/belfold/2022/11/26/budapest-tanartuntetes-diaktunetes-tanarsztrajk-oktatas",
+        "h1": "A Kossuth téren tüntettek az oktatásért",
+        "txtlength": 18917
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/11/27/hetvegi-olvasnivalok-a-futballmaniatol-a-kriptotebolyig",
+        "h1": "Hétvégi olvasnivalók a futballmániától a kriptotébolyig",
+        "txtlength": 15450
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/tamogatott-tartalom/2022/11/27/szakma-ferfi-no-ikt-women-in-technology-huawei-technologies",
+        "h1": "Tuti szakmák, melyeket férfiasnak gondolunk, pedig nem azok",
+        "txtlength": 14783
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://qubit.hu/2022/11/27/ez-a-rendszer-a-jo-tanaroknak-nem-ad-tobb-penzt-az-alkalmatlanok-viszont-gond-nelkul-a-palyan-maradhatnak",
+        "h1": "EZ A RENDSZER A JÓ TANÁROKNAK NEM AD TÖBB PÉNZT, AZ ALKALMATLANOK VISZONT GOND NÉLKÜL A PÁLYÁN MARADHATNAK",
+        "txtlength": 14302
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/cegauto/20221127_17_millio_forintert_mit_tud_egy_kinai_zold_rendszamos_kiprobaltuk_a_plugin_hibrid_mg_ehst",
+        "h1": "17 millió forintért mit tud egy kínai zöld rendszámos? Kipróbáltuk a plugin hibrid MG EHS-t",
+        "txtlength": 13920
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20221126_szvhangrendelet_vita_mok",
+        "h1": "„Ha a fogantatáshoz két ember kell, akkor a férjnek miért nem kell meghallgatnia a szívhangot?”",
+        "txtlength": 13858
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/gazdasag/2022/11/27/lantos-csaba-energiapiac-velemeny-varakozas-elemzes-hatter",
+        "h1": "Attól tartok, csak most fog kiderülni Lantos Csabának, hogy mire is mondott igent",
+        "txtlength": 12990
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/kultura/20221126_Itt_a_kiraly_hol_a_kiraly_Zambo_Jimmy_sorozat_RTL",
+        "h1": "Itt a király, hol a király: szobrot állít-e Zámbó Jimmynek az RTL+ sorozata?",
+        "txtlength": 10758
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/krimi/rablas-bank-alarc-fbi-fegyver-rendorseg-budapest/41bq43z",
+        "h1": "Mi történt, amikor a rendőr tisztelgett egy álarcos, fegyveres bankrablónak...? Évtizedes titokról rántjuk le a leplet!",
+        "txtlength": 10383
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/sztarvilag/filmklikk/grincs-unnepronto-tenyek-erdekessegek-halal-karacsony/sm156v0",
+        "h1": "A Grincs átka: ünneprontó tények derültek ki minden idők legnépszerűbb karácsonyi filmjéről – fotók",
+        "txtlength": 8495
+    },
+    {
+        "hostname": "mindmegette.hu",
         "pagelink": "https://www.mindmegette.hu/meggyes-pite-ahogy-gaspar-bea-kesziti.recept",
         "h1": "MEGGYES PITE, AHOGY GÁSPÁR BEA KÉSZÍTI",
         "txtlength": 11968
