@@ -1,5 +1,167 @@
 [
     {
+        "hostname": "hataratkelo.blog.hu",
+        "pagelink": "https://hataratkelo.blog.hu/2022/11/21/a_felfoghatatlan_magyarorszag#c41675198",
+        "h1": "A felfoghatatlan Magyarország",
+        "txtlength": 53078
+    },
+    {
+        "hostname": "kulturpart.hu",
+        "pagelink": "https://kulturpart.hu/2022/11/21/a_kulturakozvetites_dimenzioi",
+        "h1": "A KULTÚRAKÖZVETÍTÉS DIMENZIÓI",
+        "txtlength": 9355
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20221116_a_zenevel_emberseget_lehet_epiteni_keller_andras_a_mandinernek",
+        "h1": "„Aggódom a magyar kultúráért, a magyar zenéért” – Keller András, a Concerto Budapest vezetője a Mandinernek",
+        "txtlength": 33120
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20221128_forgacs_istvan_cigany_nok",
+        "h1": "A cigány nők hangja vagyok",
+        "txtlength": 27009
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/utazas/20221127/keresztet-vethetunk-a-tengerparti-nyaralasokra-erre-keszulhetnek-a-magyar-utazok-2023-ban-1131369",
+        "h1": "Keresztet vethetünk a tengerparti nyaralásokra? Erre készülhetnek a magyar utazók 2023-ban",
+        "txtlength": 24525
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20221031_populizmus_covid_v4_kutatas",
+        "h1": "Ki is a populista? – kutatás született a Covid-korszak politikáiról",
+        "txtlength": 22512
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vallalat/20221128/legobol-epitett-szazmillios-ceget-egy-magyar-vallalkozo/",
+        "h1": "Legóból épített százmilliós céget egy magyar vállalkozó",
+        "txtlength": 19951
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/vasarlas/20221126/borsos-bevasarlas-var-mindenkire-seregnyi-magyar-karacsonyi-kedvence-dragult-nagyot-a-boltokban-1131266",
+        "h1": "Borsos bevásárlás vár mindenkire: seregnyi magyar karácsonyi kedvence drágult nagyot a boltokban",
+        "txtlength": 19014
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20221128/uj-korszak-kezdeten-a-hatekonysag-a-magyar-agrarium-jovojenek-kulcsa-581308",
+        "h1": "Új korszak kezdetén: a hatékonyság a magyar agrárium jövőjének kulcsa",
+        "txtlength": 18343
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/penz/20221127/kotvenyek-reszvenyek-ingatlan-honnan-menekul-a-penzunk-es-hol-tudjuk-utolerni/",
+        "h1": "Kötvények, részvények, ingatlan: honnan menekül a pénzünk, és hol tudjuk utolérni?",
+        "txtlength": 18002
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/ingatlan/20221128/ez-budapest-valasza-az-energiavalsagra-581382",
+        "h1": "Ez Budapest válasza az energiaválságra",
+        "txtlength": 17211
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/gazdasag/20221127/tizezrek-sorsa-mulik-ezen-vege-az-elfekvoknek-de-mi-lesz-helyettunk-581518",
+        "h1": "Tízezrek sorsa múlik ezen: vége az \"elfekvőknek\", de mi lesz helyettük?",
+        "txtlength": 17045
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/egeszseg/szaunazas-szabaly/",
+        "h1": "Nem mindegy, hogyan szaunázol: 6 szabály, amit az egészség érdekében be kell tartani",
+        "txtlength": 10727
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2022/11/27/miert-olyan-nehez-egy-oktatasi-reform-es-hogyan-lehetne-konnyebb",
+        "h1": "MIÉRT OLYAN NEHÉZ EGY OKTATÁSI REFORM, ÉS HOGYAN LEHETNE KÖNNYEBB?",
+        "txtlength": 7739
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/eletmod/2022/11/28/ki-akar-itt-dolgozni",
+        "h1": "Ki akar itt dolgozni?",
+        "txtlength": 25686
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/tudomany/2022/11/27/ensz-klimakonferencia-2022-egyiptom-cop27-globalis-felmelegedes/",
+        "h1": "Édeskevés, amit a bolygóért vállalunk",
+        "txtlength": 23499
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/interju/2022/11/28/baranyi-krisztina-atv-pesti-sracok-fenyegetesek-fradi-stadion-galvani-hid-fudan",
+        "h1": "Baranyi Krisztina: Nem félek nagy médiazajt keltő eszközöket használni",
+        "txtlength": 21780
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/tech/2022/11/27/elon-musk-tesla-hyperloop-spacex-paypal-twitter-neuralink/",
+        "h1": "Elon Musk: az igazi Vasember vagy egy zseniális szélhámos?",
+        "txtlength": 19722
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/kulfold/2022/11/27/malajzia-valasztas-kaosz-valsag-korrupcio-1mdb-wall-street-farkasa-demokracia-najib-razak-mahathir-mohamed-anwar-ibrahim",
+        "h1": "A Wall Street Farkasa elsöpörte az előző rendszert, aztán jött a szappanopera hátbaszúrásokkal és fura koalíciókkal",
+        "txtlength": 18289
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/fn/gazdasag/2022/11/26/egynapos-betet-mnb-nagy-marton-nyugdijpenztar-alapkezelo-befektetesi-alap-zsiday-viktor-allampapir/",
+        "h1": "Leszámol a kormány a „nyerészkedéssel”: a külföldi befektetők előnybe, a hazaiak hátrányba kerülnek",
+        "txtlength": 15458
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/11/28/kez-lab-szaj-betegseg-a-horizonton",
+        "h1": "Kéz-láb-száj betegség a horizonton",
+        "txtlength": 12151
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/foci/2022/11/27/spanyolorszag-elsokent-nemetorszag-utolsokent-vaghat-neki-az-utolso-kornek-de-meg-mindig-barki-kieshet",
+        "h1": "Spanyolország elsőként, Németország utolsóként vághat neki az utolsó körnek, de még mindig bárki kieshet",
+        "txtlength": 10814
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/krimi/schadl-gyorgy-volner-pal-korrupcio-borton-emberrablas-valtsagdij/spxssbt",
+        "h1": "Krimibe illő fordulat a Völner–Schadl-ügyben: az egyik vádlott színlelt emberrablással csalt ki több tízmillió forintot",
+        "txtlength": 9961
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/gazdasag/20221128_gki_bizalmi_index",
+        "h1": "A jövőbe tekintett a magyar és valami nagyon rosszat látott ott",
+        "txtlength": 8661
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/vilag/20221128_Herszon_Zelenszkij_haboru_pp",
+        "h1": "Herszont lövik az oroszok, Zelenszkij újabb rakétacsapásokra számít – háborús híreink",
+        "txtlength": 8496
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20221128_Schadl_Volner_csecsen_emberrablok_vadirat",
+        "h1": "A Schadl-ügy vádlottjai egymást is átverték, ráadásul egy filmbe illő sztorival",
+        "txtlength": 8299
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/belfold/halalos-baleset-tragedia-ebes-4-es-fout-fotok/rrss8vd",
+        "h1": "Iszonyú mementó: már a család udvarán áll az autóroncs, amelyben Anikó és egy héttel későbbre várt babája is életét vesztette a 4-es út mellett – Megrázó fotók a helyszínről",
+        "txtlength": 8070
+    },
+    {
         "hostname": "mindmegette.hu",
         "pagelink": "https://www.mindmegette.hu/mac-n-cheese-a-bestiabol-wossala-rozina.recept",
         "h1": "MAC ’N’ CHEESE WOSSALA ROZINÁTÓL",
