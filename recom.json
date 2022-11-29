@@ -1,5 +1,185 @@
 [
     {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/cottage-pie-ahogy-gaspar-bea-kesziti.recept",
+        "h1": "COTTAGE PIE, AHOGY GÁSPÁR BEA KÉSZÍTI",
+        "txtlength": 11218
+    },
+    {
+        "hostname": "mindmegette.hu",
+        "pagelink": "https://www.mindmegette.hu/tepsis-gongyolt-csirkemell.recept",
+        "h1": "TEPSIBEN SÜLT GÖNGYÖLT CSIRKEMELL",
+        "txtlength": 10727
+    },
+    {
+        "hostname": "kiszamolo.hu",
+        "pagelink": "https://kiszamolo.hu/biztos-belevagsz-ebbe-az-epitkezesbe/",
+        "h1": "Biztos belevágsz ebbe az építkezésbe?",
+        "txtlength": 39676
+    },
+    {
+        "hostname": "efesasanisimasa.com",
+        "pagelink": "https://efesasanisimasa.com/2022/11/27/a-korona-1-4-evad-the-crown-tv-series-2016/",
+        "h1": "A Korona – 1-5. évad (The Crown, TV-Series, 2016-)",
+        "txtlength": 11014
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/ingatlan/20221129/lehetnek-ketsegek-az-ingatlanokkal-kapcsolatban-de-a-tegla-a-ko-es-a-beton-50-ev-mulva-is-megmarad-581704",
+        "h1": "\"Lehetnek kétségek az ingatlanokkal kapcsolatban, de a tégla, a kő és a beton 50 év múlva is megmarad\"",
+        "txtlength": 23692
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20221129_kendo_abe_tetsushi",
+        "h1": "„A magyarok kimondottan befogadók” – hazánkban élő japán kendó mester a Mandinernek",
+        "txtlength": 22983
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/nyugdij/20221129/13-havi-nyugdij-januari-emeles-errol-mihamarabb-dontenie-kell-az-idoseknek-sok-penz-mulik-rajta-1131429",
+        "h1": "13. havi nyugdíj, januári emelés: erről mihamarabb döntenie kell az időseknek, sok pénz múlik rajta",
+        "txtlength": 21097
+    },
+    {
+        "hostname": "penzcentrum.hu",
+        "pagelink": "https://www.penzcentrum.hu/egeszseg/20221128/erik-a-karacsonyi-osszeomlas-kevesen-gondolnak-de-ebbol-nagy-baj-is-lehet-1131398",
+        "h1": "Érik a karácsonyi összeomlás: kevesen gondolnák, de ebből nagy baj is lehet",
+        "txtlength": 20980
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20221125_arnyekkormany_dk_dobrev_klara_gyurcsany_ferenc_rona_sandor_bodnar_zoltan_belfold",
+        "h1": "Az árnyékkormány legfeljebb arra jó, hogy felidegesítse a többi ellenzéki pártot",
+        "txtlength": 20829
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vilag/20221129/epulnek-de-a-szkeptikusok-szerint-hasznavehetetlenek-kina-elsullyeszthetetlen-repulogep-hordozoi-es-mesterseges-szigetei/",
+        "h1": "Épülnek, de a szkeptikusok szerint hasznavehetetlenek Kína elsüllyeszthetetlen repülőgép-hordozói és mesterséges szigetei",
+        "txtlength": 20793
+    },
+    {
+        "hostname": "mandiner.hu",
+        "pagelink": "https://mandiner.hu/cikk/20221128_usa_magyarorszag_atombomba_celpont_haboru",
+        "h1": "Rémálom a hidegháborúból: így szórt volna Amerika atombombákat Magyarországra",
+        "txtlength": 19973
+    },
+    {
+        "hostname": "g7.hu",
+        "pagelink": "https://g7.hu/vallalat/20221128/igeretes-eredmenyekkel-zarult-a-negynapos-munkahet-eddigi-legnagyobb-magyarorszagi-kiserlete/",
+        "h1": "Ígéretes eredményekkel zárult a négynapos munkahét eddigi legnagyobb magyarországi kísérlete",
+        "txtlength": 19669
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/bank/20221128/igy-szabadulna-el-a-pokol-ha-most-eltorolne-a-kormany-a-kamatstopot-581798",
+        "h1": "Így szabadulna el a pokol, ha most eltörölné a kormány a kamatstopot",
+        "txtlength": 16858
+    },
+    {
+        "hostname": "portfolio.hu",
+        "pagelink": "https://www.portfolio.hu/bank/20221129/orban-viktor-mar-a-falnal-vagyunk-nem-tudjuk-csokkenteni-a-jarulekokat-581952",
+        "h1": "Orbán Viktor: Már a falnál vagyunk, nem tudjuk csökkenteni a járulékokat",
+        "txtlength": 16745
+    },
+    {
+        "hostname": "qubit.hu",
+        "pagelink": "https://qubit.hu/2022/11/29/a-diplomas-szulok-egy-luxusauto-araval-tobbet-forditanak-a-gyerekukre-mint-az-alapfoku-vegzettseguek",
+        "h1": "A DIPLOMÁS SZÜLŐK EGY LUXUSAUTÓ ÁRÁVAL TÖBBET FORDÍTANAK A GYEREKÜKRE, MINT AZ ALAPFOKÚ VÉGZETTSÉGŰEK",
+        "txtlength": 16537
+    },
+    {
+        "hostname": "femina.hu",
+        "pagelink": "https://femina.hu/szepseg/borapolas-50-felett/",
+        "h1": "50 felett nagyon másképp kell ápolni a bőrt - Mire fontos figyelni a menopauza alatt és után?",
+        "txtlength": 10603
+    },
+    {
+        "hostname": "divany.hu",
+        "pagelink": "https://divany.hu/lajfhekk/narancs-hamozas/",
+        "h1": "Narancs hámozás",
+        "txtlength": 7720
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/gazdasag/2022/11/29/uzemanyag-benzin-dizel-hiany-benzinkut-keszlethiany-mol-omv-shell-toltoallomas",
+        "h1": "A benzinkutas csak annyit mondott, ez már olyan, mint a Mad Maxben",
+        "txtlength": 20840
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/11/29/apa-megmozdul-otthon-uzemanyag-nelkul",
+        "h1": "Apa megmozdul otthon, üzemanyag nélkül",
+        "txtlength": 19744
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/belfold/2022/11/29/tiborcz-ado-karacsony-gergely-budapest-ingatlanado-luxusingatlan-margitsziget-keruletek/",
+        "h1": "Tényleg lesz Tiborcz-adó, vagy Karácsony épphogy csak kipipált egy hangzatos választási ígéretet?",
+        "txtlength": 18914
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/belfold/2022/11/29/tram-train-tapasztalatok-szeged-hodmezovasarhely-lazar-janos",
+        "h1": "Egy éve jár a vásárhelyi tram-train, de ma épp nem igazán tudott elindulni",
+        "txtlength": 16051
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/kulfold/2022/11/29/orosz-ukran-haboru-november-29-elo-kozvetites/",
+        "h1": "Londonba utazott az ukrán first lady, Bukarestben ülésezik a NATO",
+        "txtlength": 15889
+    },
+    {
+        "hostname": "24.hu",
+        "pagelink": "https://24.hu/fn/gazdasag/2022/11/29/aram-villamosenergia-energia-aramhiany-audax-mekh-rezsi-rezsiszamla-energiaszolgaltato-aremelkedes-inflacio/",
+        "h1": "Áramhiányt jelentett be a szolgáltató, jövőre nem látják el a kis ügyfeleket",
+        "txtlength": 14861
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/itthon/20221129_Elmarasztalo_itelet_a_strasbourgi_birosagtol_jogserto_a_nemzetisegi_valasztasi_rendszer",
+        "h1": "Jogsértő a magyar nemzetiségi választási rendszer a strasbourgi bíróság szerint",
+        "txtlength": 14608
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/elet/20221128_Katar_labdarugo_vilagbajnoksag_melegek_LMBTQ_emberi_fogok_FIFA",
+        "h1": "Nemcsak Katar, a FIFA is cserben hagyta a melegeket",
+        "txtlength": 14263
+    },
+    {
+        "hostname": "telex.hu",
+        "pagelink": "https://telex.hu/nevertek/2022/11/29/az-eghajlatnak-mindegy-hogy-miert-tesszuk-csak-vedjuk-meg-a-valtozastol",
+        "h1": "Az éghajlatnak mindegy, hogy miért tesszük, csak védjük meg a változástól",
+        "txtlength": 14103
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/krimi/fenyo-janos-megolese-gyarfas-tamas-buntetoper-sztarugyved-meghallgatasa/n7w6hts?sl_ps=d_11",
+        "h1": "Sztárügyvédet hallgatnak ki a Gyárfás-perben: szó nélkül elinalt a pénzt követelő férfi a Nap TV-ből",
+        "txtlength": 13894
+    },
+    {
+        "hostname": "hvg.hu",
+        "pagelink": "https://hvg.hu/gazdasag/20221129_bolti_lopasok_kiskereskedelem",
+        "h1": "Jelentősen nőtt a bolti lopások száma, mióta elszálltak az árak",
+        "txtlength": 11277
+    },
+    {
+        "hostname": "444.hu",
+        "pagelink": "https://444.hu/2022/11/29/tobb-mint-tiz-ev-bortonbuntetest-kapott-a-most-huszeves-ferfi-aki-ket-volt-baratnojet-is-megprobalta-megolni",
+        "h1": "Több mint tíz év börtönbüntetést kapott a most húszéves férfi, aki két volt barátnőjét is megpróbálta megölni",
+        "txtlength": 10920
+    },
+    {
+        "hostname": "blikk.hu",
+        "pagelink": "https://www.blikk.hu/aktualis/krimi/dr-t-ferenc-ugyesz-debreceni-bunbanda-vadlottak/8fzd48f",
+        "h1": "NAV-osokkal, ügyvéddel fogott össze dr. T. Ferenc: százmilliókat kaszált az ügyész bűnbandája",
+        "txtlength": 8834
+    },
+    {
         "hostname": "hataratkelo.blog.hu",
         "pagelink": "https://hataratkelo.blog.hu/2022/11/21/a_felfoghatatlan_magyarorszag#c41675198",
         "h1": "A felfoghatatlan Magyarország",
