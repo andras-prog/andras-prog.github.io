@@ -66,6 +66,7 @@
 
     const response = await fetch(urlauth, {
         method: 'POST',
+        mode: 'cors',
         headers: {
             'Content-Type': 'application/json'
         },
@@ -81,6 +82,7 @@
     const accessToken = await response.text();
     const responsestocks = await fetch(urldata, {
         method: 'POST',
+        mode: 'cors',
         headers: {
             'Authorization': `Bearer ${accessToken}`,
             'Content-Type': 'application/json'
