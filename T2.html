@@ -1,0 +1,219 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dynamic Table Example</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 20px;
+        }
+        th, td {
+            border: 1px solid #ddd;
+            padding: 8px;
+            text-align: center;
+        }
+        th {
+            background-color: #f2f2f2;
+        }
+        @media screen and (max-width: 600px) {
+            table, th, td {
+                display: block;
+                width: 100%;
+            }
+            th, td {
+                box-sizing: border-box;
+                text-align: left;
+            }
+            th {
+                background-color: #f9f9f9;
+            }
+        }
+    </style>
+</head>
+<body>
+
+    <h1>Stock Table</h1>
+    <input type="text" id="inputString" value="8a7cdc76c04e534880859a23a7775" style="width: 50%; padding: 10px; margin-bottom: 10px;">
+    <button onclick="displayTable()">Show Table</button>
+
+    <div id="table-container"></div>
+
+    <script>
+        async function ranked(key,sysid = 403577, tickerstring) {
+    const currentDate = new Date();
+    const urlauth = 'https://api.portfolio123.com/auth';
+    const authdata = {
+        apiId: 335,
+        apiKey: key
+    };
+    const urldata = 'https://api.portfolio123.com/rank/ranks';
+    const reqdata = {
+        "rankingSystem": sysid,
+        "universe": "No OTC Exchange",
+        "rankingMethod": 4,
+        "asOfDt": currentDate.toISOString(),
+        "tickers": tickerstring,
+        "additionalData": ["SMAPct_W(20 )", "Ret4W%Chg", "Ret1W%Chg", "FRank(\"IsNA($PctToPTMean,40)\")", "FRank(\"Surprise%Q1\")", "FRank(\"SalesGr%PQ\")", "FRank(\"SalesGr%PYQ\")", "FRank(\"-Pr2SalesQ * NPMgn%Q - Pr2SalesQ*20\")", "FRank(\"-FCFYield\")"]
+    };
+
+
+    const response = await fetch(urlauth, {
+        method: 'POST',
+        headers: {
+            'Content-Type': 'application/json'
+        },
+        body: JSON.stringify(authdata)
+    });
+
+    if (!response.ok) {
+        const error = await response.text();
+        throw new Error(`Authentication failed: ${error}`);
+    };
+
+
+    const accessToken = await response.text();
+    const responsestocks = await fetch(urldata, {
+        method: 'POST',
+        headers: {
+            'Authorization': `Bearer ${accessToken}`,
+            'Content-Type': 'application/json'
+        },
+        body: JSON.stringify(reqdata)
+    });
+
+
+    if (!responsestocks.ok) {
+        const error = await responsestocks.text();
+        throw new Error(`Request failed: ${error}`);
+    }
+    let rows = [];
+    const stocksdata = await responsestocks.json();
+    return stocksdata;
+};
+
+
+async function screened(key,sysid, maxnum = 5) {
+    const currentDate = new Date();
+    const urlauth = 'https://api.portfolio123.com/auth';
+    const authdata = {
+        apiId: 335,
+        apiKey: key
+    };
+    const urldata = 'https://api.portfolio123.com/screen/run';
+    const reqdata = {
+        "screen": {
+            "id": sysid,
+            "maxNumHoldings": maxnum
+        },
+        "asOfDt": currentDate.toISOString()
+    };
+
+
+    const response = await fetch(urlauth, {
+        method: 'POST',
+        headers: {
+            'Content-Type': 'application/json'
+        },
+        body: JSON.stringify(authdata)
+    });
+
+    if (!response.ok) {
+        const error = await response.text();
+        throw new Error(`Authentication failed: ${error}`);
+    };
+
+
+    const accessToken = await response.text();
+    const responsestocks = await fetch(urldata, {
+        method: 'POST',
+        headers: {
+            'Authorization': `Bearer ${accessToken}`,
+            'Content-Type': 'application/json'
+        },
+        body: JSON.stringify(reqdata)
+    });
+
+
+    if (!responsestocks.ok) {
+        const error = await responsestocks.text();
+        throw new Error(`Request failed: ${error}`);
+    }
+    let tickerlist = [];
+    const stocksdata = await responsestocks.json();
+    const stocksdataarr = Object.values(stocksdata["rows"]);
+    for (let x = 0; x < stocksdataarr.length; x++)      tickerlist.push(stocksdataarr[x][1]);
+    return { tickerlist };
+};
+
+
+async function gobabe(inputString) {
+    const date = new Date();
+    let dayofmonth = date.getDate();
+    let weekofday = date.getDay();
+    const header = ["Ticker", "Rank", "SMA20D", "Ret4W", "Ret1W", "Pctgt", "Surp", "SGRQ","SGRY","Prof","FCF"];
+    let content = [];
+    try {
+        /*  let tickers1 = await screened(inputString,278176, 3);*/
+        let tickers = ['MNTX', 'WLDN', 'IDR'];  //ideiglenes
+        /* itt meg lesz sok hasonlo hívás */
+        let rankobject = await ranked(inputString,403577, tickers.join(","));
+        const additionaldataarr = Object.values(rankobject["additionalData"]);
+        const tickerdataarr = Object.values(rankobject["tickers"]);
+        const ranksdataarr = Object.values(rankobject["ranks"]);
+        let singlerow = [];
+        let content = [];
+        content.push(header);
+        for (let x = 0; x < additionaldataarr.length; x++) {
+            singlerow.push(tickerdataarr[x]); //ticker
+            singlerow.push(ranksdataarr[x]); //rank
+            for (let y = 0; y < additionaldataarr[x].length; y++) singlerow.push(additionaldataarr[x][y]);
+            content.push(singlerow);
+            singlerow = [];
+        };
+        
+    } catch (err) {
+        console.log(err);
+    };
+    
+   
+    return content;
+};
+
+        function displayTable() {
+            const inputString = document.getElementById('inputString').value;
+            const data = gobabe(inputString);
+            let tableHtml = '<table>';
+
+            // Create table header
+            tableHtml += '<thead><tr>';
+            for (let header of data[0]) {
+                tableHtml += `<th>${header}</th>`;
+            }
+            tableHtml += '</tr></thead>';
+
+            // Create table body
+            tableHtml += '<tbody>';
+            for (let i = 1; i < data.length; i++) {
+                tableHtml += '<tr>';
+                for (let cell of data[i]) {
+                    tableHtml += `<td>${cell}</td>`;
+                }
+                tableHtml += '</tr>';
+            }
+            tableHtml += '</tbody>';
+
+            tableHtml += '</table>';
+
+            // Insert table into the container
+            document.getElementById('table-container').innerHTML = tableHtml;
+        }
+    </script>
+</body>
+</html>
